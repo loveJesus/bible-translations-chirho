@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- JOSHUA c1-v9 - HIN
--- क्या–नहीं आज्ञा–दी–तुझे–मैंने मजबूत–हो और–हियाव–रख मत डर और–मत घबरा क्योंकि तेरे–साथ यहोवा तेरा–परमेश्वर सब–में जहाँ जाए–तू 
+-- क्या–नहीं आज्ञा–दी–मैंने–तुझे दृढ़–हो और–हिम्मती–हो मत डर और–मत भयभीत–हो क्योंकि तेरे–साथ यहोवा तेरा–परमेश्वर सब–में जहाँ जाए–तू 
 
 BEGIN;
 -- 0600100901: הֲל֤וֹא (H3808) → "क्या–नहीं" [opus-4.5-chirho]
@@ -22,7 +22,7 @@ SELECT p.id, 'क्या–नहीं', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600100901' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0600100902: צִוִּיתִ֙יךָ֙ (H6680) → "आज्ञा–दी–तुझे–मैंने" [opus-4.5-chirho]
+-- 0600100902: צִוִּיתִ֙יךָ֙ (H6680) → "आज्ञा–दी–मैंने–तुझे" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'hin'), NOW()
@@ -34,11 +34,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0600100902' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'आज्ञा–दी–तुझे–मैंने', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'आज्ञा–दी–मैंने–तुझे', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600100902' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0600100903: חֲזַ֣ק (H2388) → "मजबूत–हो" [opus-4.5-chirho]
+-- 0600100903: חֲזַ֣ק (H2388) → "दृढ़–हो" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'hin'), NOW()
@@ -50,11 +50,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0600100903' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'मजबूत–हो', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'दृढ़–हो', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600100903' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0600100904: וֶאֱמָ֔ץ (H0553) → "और–हियाव–रख" [opus-4.5-chirho]
+-- 0600100904: וֶאֱמָ֔ץ (H0553) → "और–हिम्मती–हो" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'hin'), NOW()
@@ -66,7 +66,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0600100904' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'और–हियाव–रख', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'और–हिम्मती–हो', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600100904' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
@@ -118,7 +118,7 @@ SELECT p.id, 'और–मत', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600100907' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0600100908: תֵּחָ֑ת (H2865) → "घबरा" [opus-4.5-chirho]
+-- 0600100908: תֵּחָ֑ת (H2865) → "भयभीत–हो" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'hin'), NOW()
@@ -130,7 +130,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0600100908' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'घबरा', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'भयभीत–हो', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600100908' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

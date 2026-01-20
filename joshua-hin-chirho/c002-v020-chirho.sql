@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- JOSHUA c2-v20 - HIN
--- और–यदि बताएगी–तू को हमारी–बात यह और–होंगे–हम निर्दोष तेरी–शपथ–से जो शपथ–दिलाई–तूने–हमें
+-- और–यदि बताओगी को हमारी–बात यह और–होंगे–हम निर्दोष तेरी–शपथ–से जो शपथ–खिलाई–तूने–हमसे
 
 BEGIN;
 -- 0600202001: וְאִם־ (H0518a) → "और–यदि" [opus-4.5-chirho]
@@ -22,7 +22,7 @@ SELECT p.id, 'और–यदि', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600202001' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0600202002: תַּגִּ֖ידִי (H5046) → "बताएगी–तू" [opus-4.5-chirho]
+-- 0600202002: תַּגִּ֖ידִי (H5046) → "बताओगी" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'hin'), NOW()
@@ -34,7 +34,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0600202002' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'बताएगी–तू', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'बताओगी', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600202002' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
@@ -150,7 +150,7 @@ SELECT p.id, 'जो', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600202009' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0600202010: הִשְׁבַּעְתָּֽנוּ׃ (H7650) → "शपथ–दिलाई–तूने–हमें" [opus-4.5-chirho]
+-- 0600202010: הִשְׁבַּעְתָּֽנוּ׃ (H7650) → "शपथ–खिलाई–तूने–हमसे" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'hin'), NOW()
@@ -162,7 +162,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0600202010' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'शपथ–दिलाई–तूने–हमें', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'शपथ–खिलाई–तूने–हमसे', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0600202010' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
