@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- GENESIS c3-v10 - RUS
--- И–сказал – голос–Твой услышал–я в–саду и–убоялся ибо– наг я и–скрылся
+-- И–сказал – голос–Твой услышал–я в–саду и–убоялся ибо– нагой я и–скрылся
 
 BEGIN;
 -- 0100301001: וַיֹּ֕אמֶר (H0559) → "И–сказал" [opus-4.5-chirho]
@@ -118,7 +118,7 @@ SELECT p.id, 'ибо–', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100301007' AND p.language_id = (SELECT id FROM language WHERE code = 'rus') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0100301008: עֵירֹ֥ם (H5903) → "наг" [opus-4.5-chirho]
+-- 0100301008: עֵירֹ֥ם (H5903) → "нагой" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'rus'), NOW()
@@ -130,7 +130,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100301008' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'наг', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'нагой', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100301008' AND p.language_id = (SELECT id FROM language WHERE code = 'rus') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

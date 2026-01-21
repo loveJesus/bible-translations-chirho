@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- GENESIS c2-v9 - RUS
--- И–произрастил Господь Бог из– –земли всякое– дерево приятное на–вид и–хорошее для–пищи и–дерево –жизни посреди –сада и–дерево –познания добра и–зла
+-- И–произрастил Господь Бог из– –земли всякое– дерево приятное на–вид и–хорошее в–пищу и–дерево –жизни в–середине –сада и–дерево –познания добра и–зла
 
 BEGIN;
 -- 0100200901: וַיַּצְמַ֞ח (H6779) → "И–произрастил" [opus-4.5-chirho]
@@ -166,7 +166,7 @@ SELECT p.id, 'и–хорошее', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100200910' AND p.language_id = (SELECT id FROM language WHERE code = 'rus') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0100200911: לְמַאֲכָ֑ל (H3978) → "для–пищи" [opus-4.5-chirho]
+-- 0100200911: לְמַאֲכָ֑ל (H3978) → "в–пищу" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'rus'), NOW()
@@ -178,7 +178,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100200911' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'для–пищи', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'в–пищу', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100200911' AND p.language_id = (SELECT id FROM language WHERE code = 'rus') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
@@ -214,7 +214,7 @@ SELECT p.id, '–жизни', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100200913' AND p.language_id = (SELECT id FROM language WHERE code = 'rus') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0100200914: בְּת֣וֹךְ (H8432) → "посреди" [opus-4.5-chirho]
+-- 0100200914: בְּת֣וֹךְ (H8432) → "в–середине" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'rus'), NOW()
@@ -226,7 +226,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100200914' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'посреди', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'в–середине', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100200914' AND p.language_id = (SELECT id FROM language WHERE code = 'rus') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
