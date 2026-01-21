@@ -2,73 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- 2-PETER - SPA Combined
--- Generated: 2026-01-21T05:38:14.310Z
-
--- c001-v001: Symeṓn Pétros siervo y apóstol de–Iēsoû Christoû a–los de–igual–valor con–nosotros habiendo–obtenido fe en justicia del Theoû de–nosotros y Salvador Iēsoû Christoû
--- c001-v002: gracia a–vosotros y paz sea–multiplicada en conocimiento del Theoû y de–Iēsoû el Señor de–nosotros
--- c001-v003: Como las todas–cosas a–nosotros de–la divina poder de–él las para vida y piedad habiendo–dado por–medio–de el conocimiento del habiendo–llamado a–nosotros propia gloria y virtud
--- c001-v004: por–medio–de las–cuales las preciosas y grandísimas a–nosotros promesas ha–dado para–que por–medio–de estas lleguéis–a–ser divina participantes naturaleza habiendo–escapado de–la en el mundo en concupiscencia corrupción
--- c001-v005: y mismo esto pero diligencia toda habiendo–aportado añadid en la fe de–vosotros la virtud en pero la virtud el conocimiento
--- c001-v006: en pero el conocimiento el dominio–propio en pero el dominio–propio la perseverancia en pero la perseverancia la piedad
--- c001-v007: en pero la piedad el amor–fraternal en pero el amor–fraternal el amor
--- c001-v008: estas–cosas porque a–vosotros existiendo y abundando no ociosos ni sin–fruto constituye para el del Señor de–nosotros Iēsoû Christoû conocimiento
--- c001-v009: al–que porque no están–presentes estas–cosas ciego es corto–de–vista olvido habiendo–tomado de–la purificación de–los antiguamente de–él pecados
--- c001-v010: por–lo–cual más hermanos esforzaos firme de–vosotros el llamamiento y elección hacer estas–cosas porque haciendo no de–ningún–modo tropecéis jamás
--- c001-v011: así porque ricamente será–provista a–vosotros la entrada en el eterno reino del Señor de–nosotros y Salvador Iēsoû Christoû
--- c001-v012: Por–lo–cual estaré–dispuesto siempre a–vosotros recordar acerca–de estas–cosas aunque sabiendo y habiendo–sido–confirmados en la presente verdad
--- c001-v013: justo pero considero en–cuanto a–cuanto estoy en este el tabernáculo despertar a–vosotros en recuerdo
--- c001-v014: sabiendo que pronto es el despojamiento del tabernáculo mío como también el Señor de–nosotros Iēsoûs Christós manifestó a–mí
--- c001-v015: me–esforzaré pero también cada–vez tener vosotros después–de la mi partida la de–estas–cosas memoria hacer
--- c001-v016: no porque a–fábulas–ingeniosamente–inventadas mitos habiendo–seguido dimos–a–conocer a–vosotros la del Señor de–nosotros Iēsoû Christoû poder y venida sino testigos–oculares habiendo–llegado–a–ser de–la de–aquel majestad
--- c001-v017: habiendo–recibido porque de–parte–de Theoû Padre honor y gloria voz habiendo–sido–traída a–él tal por la majestuosa gloria El Hijo mío el amado mío este es en quien yo me–complací
--- c001-v018: y esta la voz nosotros oímos de cielo habiendo–sido–traída con él estando en el santo monte
--- c001-v019: y tenemos más–segura la profética palabra a–la–cual bien hacéis prestando–atención como a–lámpara brillando en oscuro lugar hasta que día amanezca y lucero–de–la–mañana surja en los corazones de–vosotros
--- c001-v020: esto primero sabiendo que toda profecía de–Escritura propia interpretación no llega–a–ser
--- c001-v021: no porque por–voluntad de–hombre fue–traída profecía jamás sino por Espíritu Santo siendo–llevados hablaron de–parte–de Theoû hombres
--- c002-v001: Surgieron pero también falsos–profetas en el pueblo como también en vosotros habrá falsos–maestros los–cuales introducirán herejías de–destrucción y al habiendo–comprado a–ellos Señor negando trayendo sobre–sí–mismos rápida destrucción
--- c002-v002: y muchos seguirán de–ellos las licencias por–causa–de los–cuales el camino de–la verdad será–blasfemado
--- c002-v003: y en avaricia con–palabras–fingidas palabras de–vosotros negociarán para–los–cuales el juicio desde–hace–mucho no está–ocioso y la destrucción de–ellos no duerme
--- c002-v004: si porque el Theós de–ángeles habiendo–pecado no perdonó sino a–cadenas de–tinieblas habiendo–arrojado–al–Tártaro entregó para juicio siendo–guardados
--- c002-v005: y del–antiguo mundo no perdonó sino octavo Nōé de–justicia pregonero guardó diluvio al–mundo de–impíos habiendo–traído
--- c002-v006: y ciudades de–Sodoma y Gomorra habiendo–reducido–a–cenizas con–destrucción condenó ejemplo a–los–que–iban–a impíos habiendo–puesto
--- c002-v007: y justo Lṓt siendo–oprimido por la de–los inicuos en libertinaje conducta rescató
--- c002-v008: con–mirada porque y oído el justo habitando entre ellos día tras día alma justa por–inicuas obras atormentaba
--- c002-v009: sabe Señor piadosos de tentación rescatar injustos pero para día de–juicio siendo–castigados guardar
--- c002-v010: especialmente pero a–los tras carne en concupiscencia de–impureza andando y de–señorío despreciando atrevidos arrogantes glorias no tiemblan blasfemando
--- c002-v011: donde ángeles en–fuerza y poder mayores siendo no traen contra ellos ante Señor blasfemo juicio
--- c002-v012: estos pero como irracionales animales habiendo–nacido naturales para captura y destrucción en lo–que ignoran blasfemando en la destrucción de–ellos también serán–destruidos
--- c002-v013: siendo–dañados salario de–injusticia placer considerando el en día deleite manchas y defectos deleitándose en los engaños de–ellos banqueteando–juntos con–vosotros
--- c002-v014: ojos teniendo llenos de–adúltera y incesantes de–pecado seduciendo almas inconstantes corazón ejercitado en–avaricia teniendo de–maldición hijos
--- c002-v015: habiendo–abandonado recto camino se–extraviaron habiendo–seguido el camino del Balaam el de–Bosór quien salario de–injusticia amó
--- c002-v016: reprensión pero tuvo de–propia transgresión bestia–de–carga muda en de–hombre voz habiendo–hablado impidió la del profeta locura
--- c002-v017: estos son fuentes sin–agua y nieblas por tormenta impulsadas para–los–cuales la oscuridad de–las tinieblas está–reservada
--- c002-v018: arrogantes porque de–vanidad hablando seducen en deseos de–carne licencias a–los apenas escapando a–los en error viviendo
--- c002-v019: libertad a–ellos prometiendo ellos–mismos esclavos siendo de–la corrupción por–lo–que porque alguien ha–sido–vencido por–esto también ha–sido–esclavizado
--- c002-v020: si porque habiendo–escapado las contaminaciones del mundo en conocimiento del Señor de–nosotros y Salvador Iēsoû Christoû en–estas–cosas pero de–nuevo habiendo–sido–enredados son–vencidos ha–llegado–a–ser para–ellos las últimas–cosas peores que–las primeras
--- c002-v021: mejor porque era para–ellos no haber–conocido el camino de–la justicia que habiendo–conocido volverse–atrás de el habiendo–sido–entregado a–ellos santo mandamiento
--- c002-v022: ha–sucedido a–ellos lo del verdadero proverbio Perro habiendo–vuelto a el propio vómito y Cerda habiéndose–lavado a revolcadero de–lodo
--- c003-v001: Esta ya amados segunda a–vosotros escribo carta en las–cuales despierto de–vosotros en recuerdo la sincera mente
--- c003-v002: recordar las antes–dichas palabras por los santos profetas y el de–los apóstoles de–vosotros mandamiento del Señor y Salvador
--- c003-v003: esto primero sabiendo que vendrán en últimos los días en burla burladores según los propios deseos de–ellos andando
--- c003-v004: y diciendo Dónde está la promesa de–la venida de–él desde que porque los padres durmieron todas–cosas así permanecen desde principio de–creación
--- c003-v005: escapa–su–atención porque a–ellos esto queriendo que cielos existían desde–hace–mucho y tierra de agua y por–medio–de agua subsistiendo por–la del Theoû palabra
--- c003-v006: por–medio–de las–cuales el de–entonces mundo con–agua habiendo–sido–inundado pereció
--- c003-v007: los pero ahora cielos y la tierra por–la misma palabra habiendo–sido–atesorados están para–fuego siendo–reservados para día de–juicio y destrucción de–los impíos hombres
--- c003-v008: Una pero esta–cosa no os–escape a–vosotros amados que un día ante Señor como mil años y mil años como día uno
--- c003-v009: no tarda Señor de–la promesa como algunos tardanza consideran sino es–paciente hacia vosotros no queriendo algunos perecer sino todos a arrepentimiento llegar
--- c003-v010: Vendrá pero día de–Señor como ladrón en el–cual los cielos con–estruendo pasarán elementos pero siendo–quemados serán–disueltos y tierra y las en ella obras serán–halladas
--- c003-v011: Estas–cosas así todas siendo–disueltas qué–clase–de es–necesario ser a–vosotros en santas conductas y piedades
--- c003-v012: esperando y apresurando la venida del del Theoû día por–causa–de el–cual cielos siendo–encendidos serán–disueltos y elementos siendo–quemados se–derretirán
--- c003-v013: nuevos pero cielos y tierra nueva según la promesa de–él esperamos en los–cuales justicia habita
--- c003-v014: Por–lo–cual amados estas–cosas esperando esforzaos sin–mancha y sin–defecto por–él ser–hallados en paz
--- c003-v015: y la del Señor de–nosotros paciencia salvación considerad como también el amado de–nosotros hermano Paûlos según la dada a–él sabiduría escribió a–vosotros
--- c003-v016: como también en todas las cartas hablando en ellas acerca–de estas–cosas en las–cuales hay difíciles–de–entender algunas–cosas las–cuales los ignorantes y inconstantes tuercen como también las demás Escrituras para la propia de–ellos destrucción
--- c003-v017: Vosotros pues amados sabiendo–de–antemano guardaos para–que no por–el de–los inicuos error habiendo–sido–llevados caigáis del propio fundamento
--- c003-v018: creced pero en gracia y conocimiento del Señor de–nosotros y Salvador Iēsoû Christoû a–él la gloria y ahora y hasta día de–eternidad amén
+-- 2-PETER c1-v1 - SPA
+-- Symeṓn Pétros siervo y apóstol de–Iēsoû Christoû a–los de–igual–valor con–nosotros habiendo–obtenido fe en justicia del Theoû de–nosotros y Salvador Iēsoû Christoû
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6100100101: Συμεὼν (G4826) → "Symeṓn" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -406,9 +343,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100121' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v2 - SPA
+-- gracia a–vosotros y paz sea–multiplicada en conocimiento del Theoû y de–Iēsoû el Señor de–nosotros
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6100100201: χάρις (G5485) → "gracia" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -634,9 +576,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100214' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v3 - SPA
+-- Como las todas–cosas a–nosotros de–la divina poder de–él las para vida y piedad habiendo–dado por–medio–de el conocimiento del habiendo–llamado a–nosotros propia gloria y virtud
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6100100301: Ὡς (G5613) → "Como" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1022,9 +969,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100324' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v4 - SPA
+-- por–medio–de las–cuales las preciosas y grandísimas a–nosotros promesas ha–dado para–que por–medio–de estas lleguéis–a–ser divina participantes naturaleza habiendo–escapado de–la en el mundo en concupiscencia corrupción
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6100100401: δι’ (G1223) → "por–medio–de" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1410,9 +1362,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100424' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v5 - SPA
+-- y mismo esto pero diligencia toda habiendo–aportado añadid en la fe de–vosotros la virtud en pero la virtud el conocimiento
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6100100501: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1734,9 +1691,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100520' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v6 - SPA
+-- en pero el conocimiento el dominio–propio en pero el dominio–propio la perseverancia en pero la perseverancia la piedad
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6100100601: ἐν (G1722) → "en" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2026,9 +1988,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100618' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v7 - SPA
+-- en pero la piedad el amor–fraternal en pero el amor–fraternal el amor
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6100100701: ἐν (G1722) → "en" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2222,9 +2189,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100712' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v8 - SPA
+-- estas–cosas porque a–vosotros existiendo y abundando no ociosos ni sin–fruto constituye para el del Señor de–nosotros Iēsoû Christoû conocimiento
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6100100801: ταῦτα (G3778) → "estas–cosas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2530,9 +2502,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100819' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v9 - SPA
+-- al–que porque no están–presentes estas–cosas ciego es corto–de–vista olvido habiendo–tomado de–la purificación de–los antiguamente de–él pecados
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6100100901: ᾧ (G3739) → "al–que" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2790,9 +2767,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100100916' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v10 - SPA
+-- por–lo–cual más hermanos esforzaos firme de–vosotros el llamamiento y elección hacer estas–cosas porque haciendo no de–ningún–modo tropecéis jamás
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6100101001: διὸ (G1352) → "por–lo–cual" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3082,9 +3064,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101018' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v11 - SPA
+-- así porque ricamente será–provista a–vosotros la entrada en el eterno reino del Señor de–nosotros y Salvador Iēsoû Christoû
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6100101101: οὕτως (G3779) → "así" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3374,9 +3361,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101118' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v12 - SPA
+-- Por–lo–cual estaré–dispuesto siempre a–vosotros recordar acerca–de estas–cosas aunque sabiendo y habiendo–sido–confirmados en la presente verdad
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6100101201: Διὸ (G1352) → "Por–lo–cual" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3618,9 +3610,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101215' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v13 - SPA
+-- justo pero considero en–cuanto a–cuanto estoy en este el tabernáculo despertar a–vosotros en recuerdo
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6100101301: δίκαιον (G1342) → "justo" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3846,9 +3843,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101314' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v14 - SPA
+-- sabiendo que pronto es el despojamiento del tabernáculo mío como también el Señor de–nosotros Iēsoûs Christós manifestó a–mí
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6100101401: εἰδὼς (G1492) → "sabiendo" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4138,9 +4140,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101418' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v15 - SPA
+-- me–esforzaré pero también cada–vez tener vosotros después–de la mi partida la de–estas–cosas memoria hacer
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 6100101501: σπουδάσω (G4704) → "me–esforzaré" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4366,9 +4373,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101514' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v16 - SPA
+-- no porque a–fábulas–ingeniosamente–inventadas mitos habiendo–seguido dimos–a–conocer a–vosotros la del Señor de–nosotros Iēsoû Christoû poder y venida sino testigos–oculares habiendo–llegado–a–ser de–la de–aquel majestad
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 6100101601: οὐ (G3756) → "no" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4722,9 +4734,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101622' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v17 - SPA
+-- habiendo–recibido porque de–parte–de Theoû Padre honor y gloria voz habiendo–sido–traída a–él tal por la majestuosa gloria El Hijo mío el amado mío este es en quien yo me–complací
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 6100101701: λαβὼν (G2983) → "habiendo–recibido" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5174,9 +5191,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101728' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v18 - SPA
+-- y esta la voz nosotros oímos de cielo habiendo–sido–traída con él estando en el santo monte
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 6100101801: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5434,9 +5456,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101816' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v19 - SPA
+-- y tenemos más–segura la profética palabra a–la–cual bien hacéis prestando–atención como a–lámpara brillando en oscuro lugar hasta que día amanezca y lucero–de–la–mañana surja en los corazones de–vosotros
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 6100101901: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5870,9 +5897,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100101927' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v20 - SPA
+-- esto primero sabiendo que toda profecía de–Escritura propia interpretación no llega–a–ser
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 6100102001: τοῦτο (G3778) → "esto" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6050,9 +6082,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100102011' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c1-v21 - SPA
+-- no porque por–voluntad de–hombre fue–traída profecía jamás sino por Espíritu Santo siendo–llevados hablaron de–parte–de Theoû hombres
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 6100102101: οὐ (G3756) → "no" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6310,9 +6347,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100102116' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v1 - SPA
+-- Surgieron pero también falsos–profetas en el pueblo como también en vosotros habrá falsos–maestros los–cuales introducirán herejías de–destrucción y al habiendo–comprado a–ellos Señor negando trayendo sobre–sí–mismos rápida destrucción
 
 BEGIN;
--- === Chapter 2 Verse 1 ===
 -- 6100200101: Ἐγένοντο (G1096) → "Surgieron" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6746,9 +6788,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200127' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v2 - SPA
+-- y muchos seguirán de–ellos las licencias por–causa–de los–cuales el camino de–la verdad será–blasfemado
 
 BEGIN;
--- === Chapter 2 Verse 2 ===
 -- 6100200201: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6958,9 +7005,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200213' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v3 - SPA
+-- y en avaricia con–palabras–fingidas palabras de–vosotros negociarán para–los–cuales el juicio desde–hace–mucho no está–ocioso y la destrucción de–ellos no duerme
 
 BEGIN;
--- === Chapter 2 Verse 3 ===
 -- 6100200301: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7266,9 +7318,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200319' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v4 - SPA
+-- si porque el Theós de–ángeles habiendo–pecado no perdonó sino a–cadenas de–tinieblas habiendo–arrojado–al–Tártaro entregó para juicio siendo–guardados
 
 BEGIN;
--- === Chapter 2 Verse 4 ===
 -- 6100200401: εἰ (G1487) → "si" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7526,9 +7583,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200416' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v5 - SPA
+-- y del–antiguo mundo no perdonó sino octavo Nōé de–justicia pregonero guardó diluvio al–mundo de–impíos habiendo–traído
 
 BEGIN;
--- === Chapter 2 Verse 5 ===
 -- 6100200501: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7770,9 +7832,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200515' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v6 - SPA
+-- y ciudades de–Sodoma y Gomorra habiendo–reducido–a–cenizas con–destrucción condenó ejemplo a–los–que–iban–a impíos habiendo–puesto
 
 BEGIN;
--- === Chapter 2 Verse 6 ===
 -- 6100200601: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7966,9 +8033,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200612' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v7 - SPA
+-- y justo Lṓt siendo–oprimido por la de–los inicuos en libertinaje conducta rescató
 
 BEGIN;
--- === Chapter 2 Verse 7 ===
 -- 6100200701: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8162,9 +8234,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200712' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v8 - SPA
+-- con–mirada porque y oído el justo habitando entre ellos día tras día alma justa por–inicuas obras atormentaba
 
 BEGIN;
--- === Chapter 2 Verse 8 ===
 -- 6100200801: βλέμματι (G0990) → "con–mirada" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8438,9 +8515,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200817' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v9 - SPA
+-- sabe Señor piadosos de tentación rescatar injustos pero para día de–juicio siendo–castigados guardar
 
 BEGIN;
--- === Chapter 2 Verse 9 ===
 -- 6100200901: οἶδεν (G1492) → "sabe" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8650,9 +8732,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100200913' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v10 - SPA
+-- especialmente pero a–los tras carne en concupiscencia de–impureza andando y de–señorío despreciando atrevidos arrogantes glorias no tiemblan blasfemando
 
 BEGIN;
--- === Chapter 2 Verse 10 ===
 -- 6100201001: μάλιστα (G3122) → "especialmente" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8942,9 +9029,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201018' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v11 - SPA
+-- donde ángeles en–fuerza y poder mayores siendo no traen contra ellos ante Señor blasfemo juicio
 
 BEGIN;
--- === Chapter 2 Verse 11 ===
 -- 6100201101: ὅπου (G3699) → "donde" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9186,9 +9278,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201115' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v12 - SPA
+-- estos pero como irracionales animales habiendo–nacido naturales para captura y destrucción en lo–que ignoran blasfemando en la destrucción de–ellos también serán–destruidos
 
 BEGIN;
--- === Chapter 2 Verse 12 ===
 -- 6100201201: οὗτοι (G3778) → "estos" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9526,9 +9623,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201221' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v13 - SPA
+-- siendo–dañados salario de–injusticia placer considerando el en día deleite manchas y defectos deleitándose en los engaños de–ellos banqueteando–juntos con–vosotros
 
 BEGIN;
--- === Chapter 2 Verse 13 ===
 -- 6100201301: ἀδικούμενοι, (G0091) → "siendo–dañados" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9834,9 +9936,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201319' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v14 - SPA
+-- ojos teniendo llenos de–adúltera y incesantes de–pecado seduciendo almas inconstantes corazón ejercitado en–avaricia teniendo de–maldición hijos
 
 BEGIN;
--- === Chapter 2 Verse 14 ===
 -- 6100201401: ὀφθαλμοὺς (G3788) → "ojos" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10094,9 +10201,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201416' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v15 - SPA
+-- habiendo–abandonado recto camino se–extraviaron habiendo–seguido el camino del Balaam el de–Bosór quien salario de–injusticia amó
 
 BEGIN;
--- === Chapter 2 Verse 15 ===
 -- 6100201501: καταλειπόντες (G2641) → "habiendo–abandonado" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10338,9 +10450,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201515' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v16 - SPA
+-- reprensión pero tuvo de–propia transgresión bestia–de–carga muda en de–hombre voz habiendo–hablado impidió la del profeta locura
 
 BEGIN;
--- === Chapter 2 Verse 16 ===
 -- 6100201601: ἔλεγξιν (G1649) → "reprensión" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10598,9 +10715,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201616' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v17 - SPA
+-- estos son fuentes sin–agua y nieblas por tormenta impulsadas para–los–cuales la oscuridad de–las tinieblas está–reservada
 
 BEGIN;
--- === Chapter 2 Verse 17 ===
 -- 6100201701: οὗτοί (G3778) → "estos" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10842,9 +10964,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201715' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v18 - SPA
+-- arrogantes porque de–vanidad hablando seducen en deseos de–carne licencias a–los apenas escapando a–los en error viviendo
 
 BEGIN;
--- === Chapter 2 Verse 18 ===
 -- 6100201801: ὑπέρογκα (G5246) → "arrogantes" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11102,9 +11229,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201816' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v19 - SPA
+-- libertad a–ellos prometiendo ellos–mismos esclavos siendo de–la corrupción por–lo–que porque alguien ha–sido–vencido por–esto también ha–sido–esclavizado
 
 BEGIN;
--- === Chapter 2 Verse 19 ===
 -- 6100201901: ἐλευθερίαν (G1657) → "libertad" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11346,9 +11478,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100201915' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v20 - SPA
+-- si porque habiendo–escapado las contaminaciones del mundo en conocimiento del Señor de–nosotros y Salvador Iēsoû Christoû en–estas–cosas pero de–nuevo habiendo–sido–enredados son–vencidos ha–llegado–a–ser para–ellos las últimas–cosas peores que–las primeras
 
 BEGIN;
--- === Chapter 2 Verse 20 ===
 -- 6100202001: εἰ (G1487) → "si" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11798,9 +11935,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100202028' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v21 - SPA
+-- mejor porque era para–ellos no haber–conocido el camino de–la justicia que habiendo–conocido volverse–atrás de el habiendo–sido–entregado a–ellos santo mandamiento
 
 BEGIN;
--- === Chapter 2 Verse 21 ===
 -- 6100202101: κρεῖττον (G2909) → "mejor" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12106,9 +12248,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100202119' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c2-v22 - SPA
+-- ha–sucedido a–ellos lo del verdadero proverbio Perro habiendo–vuelto a el propio vómito y Cerda habiéndose–lavado a revolcadero de–lodo
 
 BEGIN;
--- === Chapter 2 Verse 22 ===
 -- 6100202201: συμβέβηκεν (G4819) → "ha–sucedido" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12398,9 +12545,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100202218' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v1 - SPA
+-- Esta ya amados segunda a–vosotros escribo carta en las–cuales despierto de–vosotros en recuerdo la sincera mente
 
 BEGIN;
--- === Chapter 3 Verse 1 ===
 -- 6100300101: Ταύτην (G3778) → "Esta" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12658,9 +12810,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300116' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v2 - SPA
+-- recordar las antes–dichas palabras por los santos profetas y el de–los apóstoles de–vosotros mandamiento del Señor y Salvador
 
 BEGIN;
--- === Chapter 3 Verse 2 ===
 -- 6100300201: μνησθῆναι (G3403) → "recordar" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12950,9 +13107,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300218' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v3 - SPA
+-- esto primero sabiendo que vendrán en últimos los días en burla burladores según los propios deseos de–ellos andando
 
 BEGIN;
--- === Chapter 3 Verse 3 ===
 -- 6100300301: τοῦτο (G3778) → "esto" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13242,9 +13404,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300318' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v4 - SPA
+-- y diciendo Dónde está la promesa de–la venida de–él desde que porque los padres durmieron todas–cosas así permanecen desde principio de–creación
 
 BEGIN;
--- === Chapter 3 Verse 4 ===
 -- 6100300401: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13582,9 +13749,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300421' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v5 - SPA
+-- escapa–su–atención porque a–ellos esto queriendo que cielos existían desde–hace–mucho y tierra de agua y por–medio–de agua subsistiendo por–la del Theoû palabra
 
 BEGIN;
--- === Chapter 3 Verse 5 ===
 -- 6100300501: λανθάνει (G2990) → "escapa–su–atención" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13922,9 +14094,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300521' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v6 - SPA
+-- por–medio–de las–cuales el de–entonces mundo con–agua habiendo–sido–inundado pereció
 
 BEGIN;
--- === Chapter 3 Verse 6 ===
 -- 6100300601: δι’ (G1223) → "por–medio–de" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -14054,9 +14231,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300608' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v7 - SPA
+-- los pero ahora cielos y la tierra por–la misma palabra habiendo–sido–atesorados están para–fuego siendo–reservados para día de–juicio y destrucción de–los impíos hombres
 
 BEGIN;
--- === Chapter 3 Verse 7 ===
 -- 6100300701: οἱ (G3588) → "los" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -14410,9 +14592,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300722' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v8 - SPA
+-- Una pero esta–cosa no os–escape a–vosotros amados que un día ante Señor como mil años y mil años como día uno
 
 BEGIN;
--- === Chapter 3 Verse 8 ===
 -- 6100300801: Ἓν (G1520) → "Una" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -14750,9 +14937,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300821' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v9 - SPA
+-- no tarda Señor de–la promesa como algunos tardanza consideran sino es–paciente hacia vosotros no queriendo algunos perecer sino todos a arrepentimiento llegar
 
 BEGIN;
--- === Chapter 3 Verse 9 ===
 -- 6100300901: οὐ (G3756) → "no" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15106,9 +15298,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100300922' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v10 - SPA
+-- Vendrá pero día de–Señor como ladrón en el–cual los cielos con–estruendo pasarán elementos pero siendo–quemados serán–disueltos y tierra y las en ella obras serán–halladas
 
 BEGIN;
--- === Chapter 3 Verse 10 ===
 -- 6100301001: Ἥξει (G2240) → "Vendrá" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15494,9 +15691,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301024' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v11 - SPA
+-- Estas–cosas así todas siendo–disueltas qué–clase–de es–necesario ser a–vosotros en santas conductas y piedades
 
 BEGIN;
--- === Chapter 3 Verse 11 ===
 -- 6100301101: Τούτων (G3778) → "Estas–cosas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15706,9 +15908,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301113' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v12 - SPA
+-- esperando y apresurando la venida del del Theoû día por–causa–de el–cual cielos siendo–encendidos serán–disueltos y elementos siendo–quemados se–derretirán
 
 BEGIN;
--- === Chapter 3 Verse 12 ===
 -- 6100301201: προσδοκῶντας (G4328) → "esperando" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15998,9 +16205,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301218' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v13 - SPA
+-- nuevos pero cielos y tierra nueva según la promesa de–él esperamos en los–cuales justicia habita
 
 BEGIN;
--- === Chapter 3 Verse 13 ===
 -- 6100301301: καινοὺς (G2537) → "nuevos" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -16242,9 +16454,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301315' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v14 - SPA
+-- Por–lo–cual amados estas–cosas esperando esforzaos sin–mancha y sin–defecto por–él ser–hallados en paz
 
 BEGIN;
--- === Chapter 3 Verse 14 ===
 -- 6100301401: Διό, (G1352) → "Por–lo–cual" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -16438,9 +16655,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301412' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v15 - SPA
+-- y la del Señor de–nosotros paciencia salvación considerad como también el amado de–nosotros hermano Paûlos según la dada a–él sabiduría escribió a–vosotros
 
 BEGIN;
--- === Chapter 3 Verse 15 ===
 -- 6100301501: καὶ (G2532) → "y" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -16794,9 +17016,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301522' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v16 - SPA
+-- como también en todas las cartas hablando en ellas acerca–de estas–cosas en las–cuales hay difíciles–de–entender algunas–cosas las–cuales los ignorantes y inconstantes tuercen como también las demás Escrituras para la propia de–ellos destrucción
 
 BEGIN;
--- === Chapter 3 Verse 16 ===
 -- 6100301601: ὡς (G5613) → "como" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -17310,9 +17537,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301632' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v17 - SPA
+-- Vosotros pues amados sabiendo–de–antemano guardaos para–que no por–el de–los inicuos error habiendo–sido–llevados caigáis del propio fundamento
 
 BEGIN;
--- === Chapter 3 Verse 17 ===
 -- 6100301701: Ὑμεῖς (G4771) → "Vosotros" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -17570,9 +17802,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301716' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 2-PETER c3-v18 - SPA
+-- creced pero en gracia y conocimiento del Señor de–nosotros y Salvador Iēsoû Christoû a–él la gloria y ahora y hasta día de–eternidad amén
 
 BEGIN;
--- === Chapter 3 Verse 18 ===
 -- 6100301801: αὐξάνετε (G0837) → "creced" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -17942,4 +18179,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6100301823' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
