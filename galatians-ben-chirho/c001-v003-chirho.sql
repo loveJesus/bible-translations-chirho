@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- GALATIANS c1-v3 - BEN
--- অনুগ্রহ তোমাদের এবং শান্তি থেকে ঈশ্বরের পিতার আমাদের, এবং প্রভুর ঈয়েসূ খ্রিস্তূর,
+-- অনুগ্রহ তোমাদের এবং শান্তি থেকে ঈশ্বরের পিতার আমাদের, এবং প্রভুর ইয়েসূ খ্রিস্তুর,
 
 BEGIN;
 -- 4800100301: χάρις (G5485) → "অনুগ্রহ" [opus-4.5-chirho]
@@ -166,7 +166,7 @@ SELECT p.id, 'প্রভুর', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4800100310' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 4800100311: Ἰησοῦ (G2424) → "ঈয়েসূ" [opus-4.5-chirho]
+-- 4800100311: Ἰησοῦ (G2424) → "ইয়েসূ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'ben'), NOW()
@@ -178,11 +178,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '4800100311' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'ঈয়েসূ', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'ইয়েসূ', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4800100311' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 4800100312: Χριστοῦ, (G5547) → "খ্রিস্তূর," [opus-4.5-chirho]
+-- 4800100312: Χριστοῦ, (G5547) → "খ্রিস্তুর," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'ben'), NOW()
@@ -194,7 +194,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '4800100312' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'খ্রিস্তূর,', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'খ্রিস্তুর,', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4800100312' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
