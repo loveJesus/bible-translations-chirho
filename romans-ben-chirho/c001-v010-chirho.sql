@@ -2,13 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- ROMANS - BEN Combined
--- Generated: 2026-01-26T10:04:07.897Z
-
--- c001-v010: সর্বদা –সম্পর্কে –সেই প্রার্থনাগুলির আমার অনুরোধ–করছি, যদি –কিছুমাত্র এখন কখনও সফল–হব –সম্পর্কে –সেই ইচ্ছার –সেই ঈশ্বরের, আসা –এর–দিকে আপনাদের।
+-- ROMANS c1-v10 - BEN
+-- সর্বদা –সম্পর্কে –সেই প্রার্থনাগুলির আমার অনুরোধ–করছি, যদি –কিছুমাত্র এখন কখনও সফল–হব –সম্পর্কে –সেই ইচ্ছার –সেই ঈশ্বরের, আসা –এর–দিকে আপনাদের।
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 4500101001: πάντοτε (G3842) → "সর্বদা" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -314,4 +311,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4500101019' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
