@@ -3,36 +3,35 @@
 -- — John 3:16
 
 -- JUDE - POR Combined
--- Generated: 2026-01-22T05:18:19.741Z
+-- Generated: 2026-01-27T21:47:24Z
 
--- c001-v001: Judas de–Jesus Cristo servo irmão e de–Tiago aos em Deus Pai amados e em–Jesus Cristo guardados chamados
--- c001-v002: misericórdia a–vós e paz e amor sejam–multiplicados
--- c001-v003: Amados toda diligência fazendo escrever a–vós acerca da comum nossa salvação necessidade tive escrever a–vós exortando batalhar pela uma–vez entregue aos santos fé
--- c001-v004: introduziram–se pois alguns homens os antigamente anteriormente–escritos para este o juízo ímpios a do Deus nosso graça transformando em libertinagem e o único Soberano e Senhor nosso Jesus Cristo negando
--- c001-v005: Lembrar porém vos quero sabendo vós uma–vez todas–as–coisas que o Senhor povo de terra do–Egito salvando o segunda os não crentes destruiu
--- c001-v006: anjos também os não guardando o próprio domínio mas abandonando a própria habitação para juízo do–grande dia em–cadeias eternas sob trevas guardou
--- c001-v007: como Sodoma e Gomorra e as ao–redor delas cidades da semelhante maneira a–estes prostituindo–se e indo após carne estranha são–apresentadas exemplo de–fogo eterno castigo sofrendo
--- c001-v008: Semelhantemente todavia também estes sonhadores carne por–um–lado contaminam domínio porém rejeitam glórias e blasfemam
--- c001-v009: o porém Miguel o arcanjo quando com–o diabo contendendo disputava acerca do de–Moisés corpo não ousou juízo proferir de–blasfêmia mas disse Repreenda te o–Senhor
--- c001-v010: estes porém quantas–coisas por–um–lado não conhecem blasfemam quantas–coisas porém naturalmente como os irracionais animais entendem nestas coisas corrompem–se
--- c001-v011: ai deles porque no caminho de Caim andaram e no engano de Balaão por–recompensa derramaram–se e na rebelião de Coré pereceram
--- c001-v012: Estes são os em as festas–de–amor vossas rochedos–ocultos banqueteando–juntos sem–temor a–si–mesmos apascentando nuvens sem–água por ventos levadas árvores outonais sem–fruto duas–vezes mortas desarraigadas
--- c001-v013: ondas selvagens do–mar espumando as suas–próprias vergonhas estrelas errantes para–os–quais a escuridão das trevas para sempre está–reservada
--- c001-v014: Profetizou porém também a–estes sétimo desde Adão Enoque dizendo Eis veio o–Senhor com santas miríades suas
--- c001-v015: fazer juízo contra todos e convencer todos os ímpios acerca de–todas as obras de–impiedade deles as–quais impiedosamente–fizeram e acerca de–todas as duras–palavras as–quais falaram contra ele pecadores ímpios
--- c001-v016: Estes são murmuradores queixosos segundo os desejos deles andando e a boca deles fala arrogâncias admirando pessoas de–proveito por–causa
--- c001-v017: Vós porém amados lembrai–vos das palavras as anteriormente–ditas pelos os apóstolos do Senhor nosso Jesus Cristo
--- c001-v018: que diziam a–vós que No último do tempo haverá zombadores segundo os próprios desejos andando das impiedades
--- c001-v019: Estes são os separadores sensuais Espírito não tendo
--- c001-v020: vós porém amados edificando vos–mesmos na santíssima vossa fé no Espírito Santo orando
--- c001-v021: vos–mesmos no amor de–Deus guardai aguardando a misericórdia do Senhor nosso Jesus Cristo para vida eterna
--- c001-v022: e a–uns por–um–lado tende–misericórdia duvidando
--- c001-v023: a–outros porém salvai do fogo arrebatando a–outros porém tende–misericórdia com temor odiando até a da a carne manchada túnica
--- c001-v024: Ao porém que–pode guardar vos sem–tropeço e apresentar diante da glória sua imaculados com alegria
--- c001-v025: ao–único Deus Salvador nosso por Jesus Cristo o Senhor nosso glória majestade poder e autoridade antes de–todo o século e agora e por todos os séculos amém
+-- JUDE c1-v1 - POR
+-- JUDE c1-v2 - POR
+-- JUDE c1-v3 - POR
+-- JUDE c1-v4 - POR
+-- JUDE c1-v5 - POR
+-- JUDE c1-v6 - POR
+-- JUDE c1-v7 - POR
+-- JUDE c1-v8 - POR
+-- JUDE c1-v9 - POR
+-- JUDE c1-v10 - POR
+-- JUDE c1-v11 - POR
+-- JUDE c1-v12 - POR
+-- JUDE c1-v13 - POR
+-- JUDE c1-v14 - POR
+-- JUDE c1-v15 - POR
+-- JUDE c1-v16 - POR
+-- JUDE c1-v17 - POR
+-- JUDE c1-v18 - POR
+-- JUDE c1-v19 - POR
+-- JUDE c1-v20 - POR
+-- JUDE c1-v21 - POR
+-- JUDE c1-v22 - POR
+-- JUDE c1-v23 - POR
+-- JUDE c1-v24 - POR
+-- JUDE c1-v25 - POR
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6500100101: Ἰούδας, (G2455) → "Judas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -308,7 +307,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6500100201: ἔλεος (G1656) → "misericórdia" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -424,7 +422,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6500100301: Ἀγαπητοί, (G0027) → "Amados" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -796,7 +793,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6500100401: παρεισέδυσαν (G3921) → "introduziram–se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1280,7 +1276,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6500100501: Ὑπομνῆσαι (G5279) → "Lembrar" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1636,7 +1631,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6500100601: ἀγγέλους (G0032) → "anjos" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1992,7 +1986,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6500100701: ὡς (G5613) → "como" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2396,7 +2389,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6500100801: Ὁμοίως (G3668) → "Semelhantemente" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2624,7 +2616,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6500100901: ὁ (G3588) → "o" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3012,7 +3003,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6500101001: οὗτοι (G3778) → "estes" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3304,7 +3294,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6500101101: οὐαὶ (G3759) → "ai" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3644,7 +3633,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6500101201: Οὗτοί (G3778) → "Estes" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4016,7 +4004,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6500101301: κύματα (G2949) → "ondas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4292,7 +4279,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6500101401: Προεφήτευσεν (G4395) → "Profetizou" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4552,7 +4538,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 6500101501: ποιῆσαι (G4160) → "fazer" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5004,7 +4989,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 6500101601: Οὗτοί (G3778) → "Estes" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5312,7 +5296,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 6500101701: Ὑμεῖς (G4771) → "Vós" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5572,7 +5555,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 6500101801: ὅτι (G3754) → "que" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5848,7 +5830,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 6500101901: Οὗτοί (G3778) → "Estes" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5980,7 +5961,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 6500102001: ὑμεῖς (G4771) → "vós" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6192,7 +6172,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 6500102101: ἑαυτοὺς (G1438) → "vos–mesmos" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6452,7 +6431,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 6500102201: καὶ (G2532) → "e" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6536,7 +6514,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 6500102301: ‹οὓς (G3739) → "a–outros" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6844,7 +6821,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 24 ===
 -- 6500102401: Τῷ (G3588) → "Ao" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7088,7 +7064,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 25 ===
 -- 6500102501: μόνῳ (G3441) → "ao–único" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

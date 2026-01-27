@@ -3,25 +3,24 @@
 -- — John 3:16
 
 -- 3JOHN - POR Combined
--- Generated: 2026-01-22T06:16:43.238Z
+-- Generated: 2026-01-27T21:46:30Z
 
--- c001-v001: O ancião, a–Gaio o amado, a–quem eu amo em verdade.
--- c001-v002: Amado, acerca–de todas–as–coisas oro que–tu prosperes e tenhas–saúde, assim–como prospera tua a alma.
--- c001-v003: alegrei-me pois grandemente, vindo irmãos e testemunhando de–ti a verdade, assim–como tu em verdade andas.
--- c001-v004: Maior do–que–estas–coisas não tenho alegria, que ouça os meus filhos na a verdade andando.
--- c001-v005: Amado, fielmente fazes aquilo–que, se realizas, para os irmãos, e isto para–estrangeiros;
--- c001-v006: os–quais testemunharam de–ti o amor diante–de a–igreja, aos–quais bem farás, encaminhando-os dignamente de Deus;
--- c001-v007: em–favor–de pois o Nome saíram, nada recebendo de os gentílicos.
--- c001-v008: nós portanto devemos acolher os tais, para–que cooperadores nos–tornemos da verdade.
--- c001-v009: Escrevi algo à igreja; mas o que–ama–ser–o–primeiro deles, Diótrefes, não nos–recebe a–nós.
--- c001-v010: Por–isso, isto, se eu–vier, lembrarei dele as obras as–quais faz, com–palavras más tagarelando contra–nós; e não satisfeito com estas–coisas, nem ele–mesmo recebe os irmãos, e aos que–desejam, impéde, e da a igreja expulsa.
--- c001-v011: Amado, não imites o mal, mas o bem. O que–faz–o–bem, de o Deus é; o que–faz–o–mal, não tem–visto a Deus.
--- c001-v012: De–Demétrio foi–dado–testemunho por todos, e por ela–mesma a verdade; e nós também testemunhamos, e sabes que o testemunho nosso verdadeiro é.
--- c001-v013: Muitas–coisas tinha a–escrever a–ti, mas não quero por–meio–de tinta e cálamo a–ti escrever;
--- c001-v014: espero porém em–breve, a–ti ver, e boca a boca falaremos. Paz a–ti. Saúdam-te a–ti, os amigos. Saúda aos amigos por nome.
+-- 3JOHN c1-v1 - POR
+-- 3JOHN c1-v2 - POR
+-- 3JOHN c1-v3 - POR
+-- 3JOHN c1-v4 - POR
+-- 3JOHN c1-v5 - POR
+-- 3JOHN c1-v6 - POR
+-- 3JOHN c1-v7 - POR
+-- 3JOHN c1-v8 - POR
+-- 3JOHN c1-v9 - POR
+-- 3JOHN c1-v10 - POR
+-- 3JOHN c1-v11 - POR
+-- 3JOHN c1-v12 - POR
+-- 3JOHN c1-v13 - POR
+-- 3JOHN c1-v14 - POR
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6400100101: Ὁ (G3588) → "O" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -185,7 +184,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6400100201: Ἀγαπητέ, (G0027) → "Amado," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -397,7 +395,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6400100301: ἐχάρην (G5463) → "alegrei-me" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -641,7 +638,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6400100401: μειζοτέραν (G3173) → "Maior" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -869,7 +865,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6400100501: Ἀγαπητέ, (G0027) → "Amado," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1065,7 +1060,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6400100601: οἳ (G3739) → "os–quais" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1293,7 +1287,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6400100701: ὑπὲρ (G5228) → "em–favor–de" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1457,7 +1450,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6400100801: ἡμεῖς (G1473) → "nós" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1637,7 +1629,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6400100901: Ἔγραψά (G1125) → "Escrevi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1833,7 +1824,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6400101001: διὰ (G1223) → "Por–isso," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2365,7 +2355,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6400101101: Ἀγαπητέ, (G0027) → "Amado," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2689,7 +2678,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6400101201: Δημητρίῳ (G1216) → "De–Demétrio" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3029,7 +3017,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6400101301: Πολλὰ (G4183) → "Muitas–coisas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3241,7 +3228,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6400101401: ἐλπίζω (G1679) → "espero" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

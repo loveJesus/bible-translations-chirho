@@ -3,36 +3,35 @@
 -- — John 3:16
 
 -- PHILEMON - POR Combined
--- Generated: 2026-01-22T06:34:01.678Z
+-- Generated: 2026-01-27T21:47:48Z
 
--- c001-v001: Paûlos, prisioneiro de–Christoû Iēsoû, e Timótheos, o irmão; a–Philḗmōn, ao amado e cooperador nosso;
--- c001-v002: e a–Apphía, a irmã; e a–Árchippos, ao companheiro–de–armas nosso; e à na casa tua igreja:
--- c001-v003: graça a–vós e paz, de Deus Pai nosso, e do–Senhor Iēsoû Christoû.
--- c001-v004: Dou–graças ao Deus meu sempre, menção de–ti fazendo nas minhas orações minhas,
--- c001-v005: ouvindo de–ti o amor e a fé que tens para–com o Senhor Iēsoûn, e para todos os santos,
--- c001-v006: para–que a comunhão da fé tua, eficaz se–torne no conhecimento de–todo bem o em nós, para Christón.
--- c001-v007: Alegria pois muita tive, e consolação pelo teu amor teu, porque as entranhas dos santos têm–sido–reconfortadas por ti, irmão.
--- c001-v008: Por–isso muita em Christôi ousadia tendo, ordenar–te a–ti o que–convem,
--- c001-v009: por–causa do amor, antes rogo, tal sendo, como Paûlos ancião, agora porém, também prisioneiro de–Christoû Iēsoû.
--- c001-v010: Rogo–te a–ti acerca do meu filho, a–quem gerei nas minhas prisões, Onḗsimos;
--- c001-v011: o outrora a–ti inútil, agora porém tanto a–ti quanto a–mim útil;
--- c001-v012: o–qual enviei–de–volta a–ti ele–mesmo–– isto é as minhas entranhas––
--- c001-v013: a–quem eu queria junto a–mim–mesmo reter, para–que em–teu–lugar de–ti a–mim servisse, nas minhas prisões do evangelho;
--- c001-v014: sem porém o teu consentimento, nada quis fazer, para–que não como segundo necessidade, o bem teu fosse, mas segundo voluntário;
--- c001-v015: talvez pois por isto, foi–separado por uma–hora, para–que eternamente a–ele possuas,
--- c001-v016: já–não como escravo, mas mais–que escravo, irmão amado, especialmente a–mim, quanto porém mais a–ti, tanto na carne como no Senhor.
--- c001-v017: Se portanto a–mim tens como–companheiro, recebe a–ele como a–mim.
--- c001-v018: Se porém algo te–prejudicou a–ti, ou deve, isto a–mim põe–na–conta.
--- c001-v019: Eu Paûlos escrevi com–a minha mão; eu pagarei; para–que–não não diga a–ti, que também a–ti–mesmo a–mim deves.
--- c001-v020: Sim, irmão, eu de–ti quero–proveito no Senhor; reconforta minhas as entranhas em Christôi.
--- c001-v021: Confiando na obediência tua, escrevi–te a–ti, sabendo que também além–do que digo, farás.
--- c001-v022: Ao–mesmo–tempo porém, também prepara para–mim hospedagem; espero pois que por das orações vossas, serei–concedido a–vós.
--- c001-v023: Saúda–te a–ti, Epaphâs, o meu–companheiro–de–prisão meu em Christôi Iēsoû,
--- c001-v024: Mârkos, Áristarchos, Dēmâs, Loukâs, os cooperadores meus.
--- c001-v025: A graça do Senhor Iēsoû Christoû com o espírito vosso. <Amén>.
+-- PHILEMON c1-v1 - POR
+-- PHILEMON c1-v2 - POR
+-- PHILEMON c1-v3 - POR
+-- PHILEMON c1-v4 - POR
+-- PHILEMON c1-v5 - POR
+-- PHILEMON c1-v6 - POR
+-- PHILEMON c1-v7 - POR
+-- PHILEMON c1-v8 - POR
+-- PHILEMON c1-v9 - POR
+-- PHILEMON c1-v10 - POR
+-- PHILEMON c1-v11 - POR
+-- PHILEMON c1-v12 - POR
+-- PHILEMON c1-v13 - POR
+-- PHILEMON c1-v14 - POR
+-- PHILEMON c1-v15 - POR
+-- PHILEMON c1-v16 - POR
+-- PHILEMON c1-v17 - POR
+-- PHILEMON c1-v18 - POR
+-- PHILEMON c1-v19 - POR
+-- PHILEMON c1-v20 - POR
+-- PHILEMON c1-v21 - POR
+-- PHILEMON c1-v22 - POR
+-- PHILEMON c1-v23 - POR
+-- PHILEMON c1-v24 - POR
+-- PHILEMON c1-v25 - POR
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 5700100101: Παῦλος, (G3972) → "Paûlos," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -260,7 +259,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 5700100201: καὶ (G2532) → "e" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -504,7 +502,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 5700100301: χάρις (G5485) → "graça" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -700,7 +697,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 5700100401: Εὐχαριστῶ (G2168) → "Dou–graças" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -896,7 +892,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 5700100501: ἀκούων (G0191) → "ouvindo" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1188,7 +1183,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 5700100601: ὅπως (G3704) → "para–que" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1464,7 +1458,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 5700100701: χαρὰν (G5479) → "Alegria" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1772,7 +1765,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 5700100801: Διό (G1352) → "Por–isso" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1936,7 +1928,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 5700100901: διὰ (G1223) → "por–causa" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2196,7 +2187,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 5700101001: παρακαλῶ (G3870) → "Rogo–te" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2392,7 +2382,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 5700101101: τόν (G3588) → "o" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2572,7 +2561,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 5700101201: ὃν (G3739) → "o–qual" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2720,7 +2708,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 5700101301: ὃν (G3739) → "a–quem" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2980,7 +2967,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 5700101401: χωρὶς (G5565) → "sem" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3304,7 +3290,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 5700101501: τάχα (G5029) → "talvez" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3484,7 +3469,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 5700101601: οὐκέτι (G3765) → "já–não" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3808,7 +3792,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 5700101701: εἰ (G1487) → "Se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3956,7 +3939,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 5700101801: εἰ (G1487) → "Se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4120,7 +4102,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 5700101901: ἐγὼ (G1473) → "Eu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4396,7 +4377,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 5700102001: ναί, (G3483) → "Sim," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4608,7 +4588,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 5700102101: Πεποιθὼς (G3982) → "Confiando" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4820,7 +4799,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 5700102201: ἅμα (G0260) → "Ao–mesmo–tempo" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5064,7 +5042,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 5700102301: Ἀσπάζεταί (G0782) → "Saúda–te" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5212,7 +5189,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 24 ===
 -- 5700102401: Μᾶρκος, (G3138) → "Mârkos," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5328,7 +5304,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 25 ===
 -- 5700102501: Ἡ (G3588) → "A" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

@@ -3,24 +3,23 @@
 -- — John 3:16
 
 -- 2JOHN - POR Combined
--- Generated: 2026-01-22T06:16:01.801Z
+-- Generated: 2026-01-27T21:46:24Z
 
--- c001-v001: O ancião, à–eleita senhora e aos filhos dela, os–quais eu amo em verdade, e não eu somente, mas também todos os que–conhecem a verdade–
--- c001-v002: por–causa–de a verdade a que–permanece em nós, e conosco de–nós estará para a eternidade:
--- c001-v003: estará conosco de–nós graça, misericórdia, paz da–parte–de Deus Pai, e da–parte–de Jesus Cristo, o Filho do Pai, em verdade e amor.
--- c001-v004: Alegrei-me grandemente porque encontrei dentre os filhos teus andando em verdade, conforme mandamento recebemos da–parte–de o Pai.
--- c001-v005: e agora peço-te, a–ti, senhora, não como mandamento «escrevendo a–ti» novo, mas o–qual tínhamos desde o–princípio, que amemos uns–aos–outros.
--- c001-v006: e este é o amor, que andemos segundo os mandamentos dele. este o mandamento é conforme, ouvistes desde o–princípio, que nele nele andeis.
--- c001-v007: Porque muitos enganadores saíram para o mundo, os que–não confessam Jesus Cristo vindo em carne. este é o enganador e o anticristo.
--- c001-v008: Olhai a–vós–mesmos, para–que não percais as–coisas–que trabalhamos, mas galardão pleno recebais.
--- c001-v009: Todo o que–vai–além, e não permanece na a doutrina de–o Cristo, a–Deus não tem. O que–permanece na a doutrina, este tanto o Pai quanto o Filho tem.
--- c001-v010: Se alguém vem a vós, e esta a doutrina não traz, não recebais ele em casa, e alegrar-se a–ele não digais;
--- c001-v011: o que–diz pois a–ele alegrar-se compartilha nas obras dele as más.
--- c001-v012: Muitas–coisas tendo a–vós a–escrever, não quis por–meio–de papel e tinta; mas espero chegar a vós, e boca a boca falar, para–que a alegria nossa completa seja.
--- c001-v013: Saúdam-te a–ti, os filhos da irmã tua a eleita. <Amém>
+-- 2JOHN c1-v1 - POR
+-- 2JOHN c1-v2 - POR
+-- 2JOHN c1-v3 - POR
+-- 2JOHN c1-v4 - POR
+-- 2JOHN c1-v5 - POR
+-- 2JOHN c1-v6 - POR
+-- 2JOHN c1-v7 - POR
+-- 2JOHN c1-v8 - POR
+-- 2JOHN c1-v9 - POR
+-- 2JOHN c1-v10 - POR
+-- 2JOHN c1-v11 - POR
+-- 2JOHN c1-v12 - POR
+-- 2JOHN c1-v13 - POR
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6300100101: Ὁ (G3588) → "O" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -408,7 +407,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6300100201: διὰ (G1223) → "por–causa–de" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -636,7 +634,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6300100301: ἔσται (G1510) → "estará" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -976,7 +973,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6300100401: Ἐχάρην (G5463) → "Alegrei-me" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1252,7 +1248,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6300100501: καὶ (G2532) → "e" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1560,7 +1555,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6300100601: καὶ (G2532) → "e" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1932,7 +1926,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6300100701: ὅτι (G3754) → "Porque" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2288,7 +2281,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6300100801: βλέπετε (G0991) → "Olhai" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2468,7 +2460,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6300100901: πᾶς (G3956) → "Todo" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2904,7 +2895,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6300101001: εἴ (G1487) → "Se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3244,7 +3234,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6300101101: ὁ (G3588) → "o" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3424,7 +3413,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6300101201: Πολλὰ (G4183) → "Muitas–coisas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3844,7 +3832,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6300101301: Ἀσπάζεταί (G0782) → "Saúdam-te" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

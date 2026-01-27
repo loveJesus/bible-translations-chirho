@@ -3,32 +3,31 @@
 -- — John 3:16
 
 -- OBADIAH - POR Combined
--- Generated: 2026-01-22T05:19:09.896Z
+-- Generated: 2026-01-27T21:47:48Z
 
--- c001-v001: Visão de–Obadias Assim disse o–Senhor YHWH a–Edom Notícia ouvimos de YHWH e–mensageiro entre–as–nações foi–enviado Levantai–vos e–levantemo–nos contra–ela para–a–batalha
--- c001-v002: Eis pequeno te–fiz entre–as–nações desprezado tu muito
--- c001-v003: Soberba do–teu–coração te–enganou habitante nas–fendas–da rocha altura da–sua–habitação dizendo em–seu–coração Quem me–fará–descer à–terra
--- c001-v004: Se te–elevares como–águia e–se entre as–estrelas puseres teu–ninho de–lá te–farei–descer oráculo–de YHWH
--- c001-v005: Se ladrões viessem a–ti se saqueadores de–noite como foste–destruído acaso–não roubariam o–suficiente Se vindimadores viessem a–ti acaso–não deixariam respigas
--- c001-v006: Como foi–revistado Esaú foram–descobertos seus–tesouros
--- c001-v007: Até–a fronteira te–enviaram Todos os–homens–de tua–aliança te–enganaram prevaleceram contra–ti os–homens–de tua–paz Teu–pão puseram armadilha debaixo–de–ti Não–há entendimento nele
--- c001-v008: Acaso–não naquele–dia aquele oráculo–de YHWH destruirei os–sábios de–Edom e–entendimento do–monte de–Esaú
--- c001-v009: E–serão–aterrados teus–guerreiros ó–Temã para–que seja–cortado todo–homem do–monte de–Esaú pela–matança
--- c001-v010: Por–causa–da–violência contra–teu–irmão Jacó te–cobrirá vergonha e–serás–cortado para–sempre
--- c001-v011: No–dia em–que–estavas do–lado–oposto no–dia levarem–cativos estrangeiros sua–riqueza e–estranhos entraram nas–suas–portas nos–seus–portões e–sobre Jerusalém lançaram sorte também tu como–um deles
--- c001-v012: E–não olhes no–dia–de teu–irmão no–dia da–sua–desgraça e–não te–alegres sobre–os–filhos–de Judá no–dia da–sua–destruição e–não abras–grande tua–boca no–dia da–angústia
--- c001-v013: Não entres no–portão–de meu–povo no–dia da–sua–calamidade Não olhes também tu para–seu–mal no–dia da–sua–calamidade e–não estendas–as–mãos sobre–sua–riqueza no–dia da–sua–calamidade
--- c001-v014: E–não fiques na encruzilhada para–cortares os seus–fugitivos e–não entregues seus–sobreviventes no–dia da–angústia
--- c001-v015: Porque está–perto o–dia–de YHWH sobre todas as–nações Como fizeste será–feito a–ti tua–retribuição voltará sobre–tua–cabeça
--- c001-v016: Porque assim–como bebestes sobre o–monte da–minha–santidade beberão todas as–nações continuamente e–beberão e–engolirão e–serão como–se–não tivessem–sido
--- c001-v017: E–no–monte Sião haverá livramento e–será santo e–possuirá a–casa–de Jacó as suas–possessões
--- c001-v018: E–será a–casa–de Jacó fogo e–a–casa–de José chama e–a–casa–de Esaú palha e–incendiarão neles e–os–consumirão e–não haverá sobrevivente para–a–casa–de Esaú porque YHWH falou
--- c001-v019: E–possuirão o–Neguebe o monte de–Esaú e–a–planície os filisteus e–possuirão o campo–de Efraim e–o campo–de Samaria e–Benjamim a Gileade
--- c001-v020: E–os–exilados–de este–exército este dos–filhos–de Israel que–estão–entre os–cananeus até Sarepta e–os–exilados–de Jerusalém que–estão em–Sefarade possuirão as cidades–do Neguebe
--- c001-v021: E–subirão salvadores ao–monte Sião para–julgar o monte de–Esaú e–será de–YHWH o–reino
+-- OBADIAH c1-v1 - POR
+-- OBADIAH c1-v2 - POR
+-- OBADIAH c1-v3 - POR
+-- OBADIAH c1-v4 - POR
+-- OBADIAH c1-v5 - POR
+-- OBADIAH c1-v6 - POR
+-- OBADIAH c1-v7 - POR
+-- OBADIAH c1-v8 - POR
+-- OBADIAH c1-v9 - POR
+-- OBADIAH c1-v10 - POR
+-- OBADIAH c1-v11 - POR
+-- OBADIAH c1-v12 - POR
+-- OBADIAH c1-v13 - POR
+-- OBADIAH c1-v14 - POR
+-- OBADIAH c1-v15 - POR
+-- OBADIAH c1-v16 - POR
+-- OBADIAH c1-v17 - POR
+-- OBADIAH c1-v18 - POR
+-- OBADIAH c1-v19 - POR
+-- OBADIAH c1-v20 - POR
+-- OBADIAH c1-v21 - POR
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3100100101: חֲז֖וֹן (H2377) → "Visão" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -320,7 +319,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3100100201: הִנֵּ֥ה (H2009) → "Eis" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -436,7 +434,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3100100301: זְד֤וֹן (H2087) → "Soberba" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -648,7 +645,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3100100401: אִם־ (H0518a) → "Se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -844,7 +840,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3100100501: אִם־ (H0518a) → "Se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1152,7 +1147,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3100100601: אֵ֚יךְ (H0349a) → "Como" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1236,7 +1230,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3100100701: עַֽד־ (H5704) → "Até–a" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1528,7 +1521,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3100100801: הֲל֛וֹא (H3808) → "Acaso–não" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1708,7 +1700,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3100100901: וְחַתּ֥וּ (H2865) → "E–serão–aterrados" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1856,7 +1847,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3100101001: מֵחֲמַ֛ס (H2555) → "Por–causa–da–violência" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1972,7 +1962,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3100101101: בְּיוֹם֙ (H3117) → "No–dia" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2280,7 +2269,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3100101201: וְאַל־ (H0408) → "E–não" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2556,7 +2544,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3100101301: אַל־ (H0408) → "Não" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2848,7 +2835,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3100101401: וְאַֽל־ (H0408) → "E–não" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3044,7 +3030,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3100101501: כִּֽי־ (H3588a) → "Porque" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3272,7 +3257,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3100101601: כִּ֗י (H3588a) → "Porque" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3516,7 +3500,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3100101701: וּבְהַ֥ר (H2022) → "E–no–monte" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3696,7 +3679,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3100101801: וְהָיָה֩ (H1961) → "E–será" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4036,7 +4018,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 3100101901: וְיָרְשׁ֨וּ (H3423) → "E–possuirão" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4328,7 +4309,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 3100102001: וְגָלֻ֣ת (H1546) → "E–os–exilados–de" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4604,7 +4584,6 @@ ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLU
 COMMIT;
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 3100102101: וְעָל֤וּ (H5927) → "E–subirão" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
