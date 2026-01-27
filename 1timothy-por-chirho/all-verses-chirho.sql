@@ -3,121 +3,121 @@
 -- — John 3:16
 
 -- 1TIMOTHY - POR Combined
--- Generated: 2026-01-27T21:46:19Z
+-- Generated: 2026-01-27T22:19:18Z
 
--- 1TIMOTHY c1-v1 - POR
--- 1TIMOTHY c1-v2 - POR
--- 1TIMOTHY c1-v3 - POR
--- 1TIMOTHY c1-v4 - POR
--- 1TIMOTHY c1-v5 - POR
--- 1TIMOTHY c1-v6 - POR
--- 1TIMOTHY c1-v7 - POR
--- 1TIMOTHY c1-v8 - POR
--- 1TIMOTHY c1-v9 - POR
--- 1TIMOTHY c1-v10 - POR
--- 1TIMOTHY c1-v11 - POR
--- 1TIMOTHY c1-v12 - POR
--- 1TIMOTHY c1-v13 - POR
--- 1TIMOTHY c1-v14 - POR
--- 1TIMOTHY c1-v15 - POR
--- 1TIMOTHY c1-v16 - POR
--- 1TIMOTHY c1-v17 - POR
--- 1TIMOTHY c1-v18 - POR
--- 1TIMOTHY c1-v19 - POR
--- 1TIMOTHY c1-v20 - POR
--- 1TIMOTHY c2-v1 - POR
--- 1TIMOTHY c2-v2 - POR
--- 1TIMOTHY c2-v3 - POR
--- 1TIMOTHY c2-v4 - POR
--- 1TIMOTHY c2-v5 - POR
--- 1TIMOTHY c2-v6 - POR
--- 1TIMOTHY c2-v7 - POR
--- 1TIMOTHY c2-v8 - POR
--- 1TIMOTHY c2-v9 - POR
--- 1TIMOTHY c2-v10 - POR
--- 1TIMOTHY c2-v11 - POR
--- 1TIMOTHY c2-v12 - POR
--- 1TIMOTHY c2-v13 - POR
--- 1TIMOTHY c2-v14 - POR
--- 1TIMOTHY c2-v15 - POR
--- 1TIMOTHY c3-v1 - POR
--- 1TIMOTHY c3-v2 - POR
--- 1TIMOTHY c3-v3 - POR
--- 1TIMOTHY c3-v4 - POR
--- 1TIMOTHY c3-v5 - POR
--- 1TIMOTHY c3-v6 - POR
--- 1TIMOTHY c3-v7 - POR
--- 1TIMOTHY c3-v8 - POR
--- 1TIMOTHY c3-v9 - POR
--- 1TIMOTHY c3-v10 - POR
--- 1TIMOTHY c3-v11 - POR
--- 1TIMOTHY c3-v12 - POR
--- 1TIMOTHY c3-v13 - POR
--- 1TIMOTHY c3-v14 - POR
--- 1TIMOTHY c3-v15 - POR
--- 1TIMOTHY c3-v16 - POR
--- 1TIMOTHY c4-v1 - POR
--- 1TIMOTHY c4-v2 - POR
--- 1TIMOTHY c4-v3 - POR
--- 1TIMOTHY c4-v4 - POR
--- 1TIMOTHY c4-v5 - POR
--- 1TIMOTHY c4-v6 - POR
--- 1TIMOTHY c4-v7 - POR
--- 1TIMOTHY c4-v8 - POR
--- 1TIMOTHY c4-v9 - POR
--- 1TIMOTHY c4-v10 - POR
--- 1TIMOTHY c4-v11 - POR
--- 1TIMOTHY c4-v12 - POR
--- 1TIMOTHY c4-v13 - POR
--- 1TIMOTHY c4-v14 - POR
--- 1TIMOTHY c4-v15 - POR
--- 1TIMOTHY c4-v16 - POR
--- 1TIMOTHY c5-v1 - POR
--- 1TIMOTHY c5-v2 - POR
--- 1TIMOTHY c5-v3 - POR
--- 1TIMOTHY c5-v4 - POR
--- 1TIMOTHY c5-v5 - POR
--- 1TIMOTHY c5-v6 - POR
--- 1TIMOTHY c5-v7 - POR
--- 1TIMOTHY c5-v8 - POR
--- 1TIMOTHY c5-v9 - POR
--- 1TIMOTHY c5-v10 - POR
--- 1TIMOTHY c5-v11 - POR
--- 1TIMOTHY c5-v12 - POR
--- 1TIMOTHY c5-v13 - POR
--- 1TIMOTHY c5-v14 - POR
--- 1TIMOTHY c5-v15 - POR
--- 1TIMOTHY c5-v16 - POR
--- 1TIMOTHY c5-v17 - POR
--- 1TIMOTHY c5-v18 - POR
--- 1TIMOTHY c5-v19 - POR
--- 1TIMOTHY c5-v20 - POR
--- 1TIMOTHY c5-v21 - POR
--- 1TIMOTHY c5-v22 - POR
--- 1TIMOTHY c5-v23 - POR
--- 1TIMOTHY c5-v24 - POR
--- 1TIMOTHY c5-v25 - POR
--- 1TIMOTHY c6-v1 - POR
--- 1TIMOTHY c6-v2 - POR
--- 1TIMOTHY c6-v3 - POR
--- 1TIMOTHY c6-v4 - POR
--- 1TIMOTHY c6-v5 - POR
--- 1TIMOTHY c6-v6 - POR
--- 1TIMOTHY c6-v7 - POR
--- 1TIMOTHY c6-v8 - POR
--- 1TIMOTHY c6-v9 - POR
--- 1TIMOTHY c6-v10 - POR
--- 1TIMOTHY c6-v11 - POR
--- 1TIMOTHY c6-v12 - POR
--- 1TIMOTHY c6-v13 - POR
--- 1TIMOTHY c6-v14 - POR
--- 1TIMOTHY c6-v15 - POR
--- 1TIMOTHY c6-v16 - POR
--- 1TIMOTHY c6-v17 - POR
--- 1TIMOTHY c6-v18 - POR
--- 1TIMOTHY c6-v19 - POR
--- 1TIMOTHY c6-v20 - POR
--- 1TIMOTHY c6-v21 - POR
+-- c1-v1: Paulo apóstolo de–Cristo Jesus segundo mandamento de–Deus Salvador nosso e de–Cristo Jesus a– esperança nossa
+-- c1-v2: a–Timóteo genuíno filho em fé graça misericórdia paz de Deus Pai e de–Cristo Jesus o– Senhor nosso
+-- c1-v3: Assim–como exortei te permanecer em Éfeso partindo para Macedónia para–que ordenes a–alguns não ensinar–doutrinas–diferentes
+-- c1-v4: nem dar–atenção a–fábulas e genealogias intermináveis as–quais especulações causam antes do–que edificação de–Deus a– em fé
+-- c1-v5: o– porém fim do– mandamento é amor de puro coração e consciência boa e fé sincera
+-- c1-v6: dos–quais alguns desviando-se voltaram-se para palavreado–vão
+-- c1-v7: querendo ser mestres–da–lei não entendendo nem o–que dizem nem acerca–de quais–coisas afirmam
+-- c1-v8: Sabemos porém que boa a– lei se alguém dela legitimamente usa
+-- c1-v9: sabendo isto que para–justo lei não é–posta para–iníquos porém e insubordinados ímpios e pecadores profanos e irreverentes parricidas e matricidas homicidas
+-- c1-v10: imorais sodomitas sequestradores mentirosos perjuros e se algo outro à– sã doutrina se–opõe
+-- c1-v11: segundo o– evangelho da– glória do– bendito Deus o–qual me–foi–confiado eu
+-- c1-v12: Gratidão tenho ao– que–me–fortaleceu me Cristo Jesus o– Senhor nosso porque fiel me considerou pondo no ministério
+-- c1-v13: o– anteriormente sendo blasfemador e perseguidor e injuriador mas alcancei–misericórdia porque ignorando fiz em incredulidade
+-- c1-v14: superabundou porém a– graça do– Senhor nosso com fé e amor o– em Cristo Jesus
+-- c1-v15: fiel a– palavra e de–toda aceitação digna que Cristo Jesus veio ao o– mundo pecadores salvar dos–quais primeiro sou eu
+-- c1-v16: mas por isto alcancei–misericórdia para–que em mim primeiro demonstrasse Jesus Cristo a– toda longanimidade para exemplo dos– que–hão–de crer nele nele para vida eterna
+-- c1-v17: Ao– porém Rei dos– séculos imortal invisível único Deus honra e glória pelos os– séculos dos– séculos amém
+-- c1-v18: Este o– mandamento confio a–ti filho Timóteo segundo as– precedentes sobre ti profecias para–que milites por elas a– boa milícia
+-- c1-v19: tendo fé e boa consciência a–qual alguns rejeitando quanto–à a– fé naufragaram
+-- c1-v20: dos–quais são Himeneu e Alexandre os–quais entreguei a– Satanás para–que sejam–disciplinados a–não blasfemar
+-- c2-v1: Exorto pois primeiro de–tudo fazer súplicas orações intercessões ações–de–graças por todos homens
+-- c2-v2: por reis e todos os– em eminência estando para–que tranquila e sossegada vida passemos em toda piedade e dignidade
+-- c2-v3: isto bom e agradável diante do– Salvador nosso Deus
+-- c2-v4: o–qual todos homens quer salvar e ao conhecimento da–verdade chegar
+-- c2-v5: um pois Deus um também mediador de–Deus e homens homem Cristo Jesus
+-- c2-v6: o– que–deu a–si–mesmo resgate por todos o– testemunho nos–tempos próprios
+-- c2-v7: para o–qual fui–designado eu pregador e apóstolo verdade digo não minto mestre dos–gentios em fé e verdade
+-- c2-v8: Quero pois orar os– homens em todo lugar levantando santas mãos sem ira e discussão
+-- c2-v9: Igualmente também mulheres em traje decoroso com pudor e moderação adornar a–si–mesmas não com tranças e ouro ou pérolas ou vestuário dispendioso
+-- c2-v10: mas o–que convém a–mulheres que–professam piedade por obras boas
+-- c2-v11: Mulher em silêncio aprenda em toda submissão
+-- c2-v12: ensinar porém a–mulher não permito nem exercer–autoridade–sobre homem mas estar em silêncio
+-- c2-v13: Adão pois primeiro foi–formado depois Eva
+-- c2-v14: e Adão não foi–enganado a– porém mulher tendo–sido–enganada em transgressão caiu
+-- c2-v15: será–salva porém por a– geração–de–filhos se permanecerem em fé e amor e santificação com moderação
+-- c3-v1: Fiel a– palavra se alguém episcopado aspira boa obra deseja
+-- c3-v2: é–necessário pois o– bispo irrepreensível ser de–uma mulher marido sóbrio prudente respeitável hospitaleiro apto–para–ensinar
+-- c3-v3: não dado–ao–vinho não violento mas moderado pacífico não–avarento
+-- c3-v4: da– própria casa bem governando filhos tendo em sujeição com toda dignidade
+-- c3-v5: se porém alguém a– própria casa governar não sabe como da–igreja de–Deus cuidará
+-- c3-v6: não recém–convertido para–que não envaidecido em condenação caia do– diabo
+-- c3-v7: é–necessário porém também testemunho bom ter dos– os– de–fora para–que não em opróbrio caia e laço do– diabo
+-- c3-v8: Diáconos igualmente dignos não de–língua–dobre não a–vinho muito dados não gananciosos
+-- c3-v9: tendo o– mistério da– fé em pura consciência
+-- c3-v10: e estes porém sejam–provados primeiro depois sirvam irrepreensíveis sendo
+-- c3-v11: mulheres igualmente dignas não caluniadoras sóbrias fiéis em tudo
+-- c3-v12: diáconos sejam de–uma mulher maridos de–filhos bem governando e das– próprias casas
+-- c3-v13: os– pois bem tendo–servido posição para–si–mesmos boa adquirem e muita ousadia em fé a– em Cristo Jesus
+-- c3-v14: Estas–coisas a–ti escrevo esperando ir a ti em breve
+-- c3-v15: se porém demorar para–que saibas como é–necessário em casa de–Deus comportar–se a–qual é igreja de–Deus vivo coluna e fundamento da– verdade
+-- c3-v16: e reconhecidamente grande é o– da– piedade mistério O–qual foi–manifestado em carne foi–justificado em espírito foi–visto por–anjos foi–pregado entre nações foi–crido no mundo foi–elevado em glória
+-- c4-v1: O– porém Espírito expressamente diz que em últimos tempos apostatarão alguns da– fé dando–atenção a–espíritos enganadores e doutrinas de–demônios
+-- c4-v2: por hipocrisia de–mentirosos tendo–cauterizada a– própria consciência
+-- c4-v3: proibindo casar abster–se de–alimentos os–quais o– Deus criou para participação com ação–de–graças pelos– fiéis e que–conhecem a– verdade
+-- c4-v4: porque toda criatura de–Deus boa e nada rejeitável com ação–de–graças sendo–recebido
+-- c4-v5: pois–é–santificado pois pela palavra de–Deus e oração
+-- c4-v6: Estas–coisas propondo aos– irmãos bom serás ministro de–Cristo Jesus nutrindo–te nas– palavras da– fé e da– boa doutrina a–qual tens–seguido
+-- c4-v7: as– porém profanas e de–velhas fábulas rejeita exercita porém a–ti–mesmo para piedade
+-- c4-v8: a– pois corporal ginástica para pouco é proveitosa a– porém piedade para tudo proveitosa é promessa tendo de–vida a– presente e a– futura
+-- c4-v9: fiel a– palavra e de–toda aceitação digna
+-- c4-v10: para isto pois trabalhamos e lutamos porque temos–esperado em Deus vivo o–qual é Salvador de–todos homens especialmente dos–fiéis
+-- c4-v11: Ordena estas–coisas e ensina
+-- c4-v12: ninguém tua a– juventude despreze mas exemplo torna–te dos– fiéis na palavra no procedimento no amor na fé na pureza
+-- c4-v13: até eu–vir aplica–te à– leitura à– exortação à– doutrina
+-- c4-v14: não negligencies o– em ti dom o–qual te–foi–dado a–ti por profecia com imposição das– mãos do– presbitério
+-- c4-v15: estas–coisas medita nestas– coisas está para–que teu o– progresso manifesto seja a–todos
+-- c4-v16: Tem–cuidado de–ti–mesmo e da– doutrina persevera nelas isto pois fazendo tanto a–ti–mesmo salvarás quanto os– que–te–ouvem a–ti
+-- c5-v1: A–ancião não repreendas mas exorta como pai jovens como irmãos
+-- c5-v2: anciãs como mães jovens como irmãs em toda pureza
+-- c5-v3: Viúvas honra as– verdadeiramente viúvas
+-- c5-v4: se porém alguma viúva filhos ou netos tem aprendam primeiro a– própria casa honrar e retribuições dar aos– pais isto pois é agradável diante de– Deus
+-- c5-v5: a– porém verdadeiramente viúva e desamparada tem–esperado em o– Deus e persevera nas– súplicas e nas– orações de–noite e de–dia
+-- c5-v6: a– porém que–vive–em–prazeres vivendo está–morta
+-- c5-v7: e estas–coisas ordena para–que irrepreensíveis sejam
+-- c5-v8: se porém alguém dos– seus e especialmente da–família não cuida a– fé negou e é que–incrédulo pior
+-- c5-v9: Viúva seja–inscrita não menos de–anos sessenta tendo–sido de–um marido mulher
+-- c5-v10: em obras boas tendo–testemunho se criou–filhos se hospedou–estrangeiros se de–santos pés lavou se a–atribulados socorreu se toda obra boa seguiu
+-- c5-v11: jovens porém viúvas recusa quando pois se–tornam–sensuais–contra o– Cristo casar querem
+-- c5-v12: tendo condenação porque a– primeira fé abandonaram
+-- c5-v13: ao–mesmo–tempo porém também ociosas aprendem andando–de–casa–em–casa as– casas não somente porém ociosas mas também tagarelas e intrometidas falando as–coisas não convenientes
+-- c5-v14: quero pois jovens casem tenham–filhos governem–a–casa nenhuma ocasião dar ao– adversário de–injúria por–causa
+-- c5-v15: já pois algumas desviaram-se após o– Satanás
+-- c5-v16: se alguma fiel tem viúvas socorra–as a–elas e não seja–sobrecarregada a– igreja para–que às– verdadeiramente viúvas socorra
+-- c5-v17: Os– bem que–presidem presbíteros de–dupla honra sejam–tidos–dignos especialmente os– que–trabalham em palavra e ensino
+-- c5-v18: diz pois a– Escritura Boi que–debulha não amordaçarás e digno o– trabalhador do– salário seu
+-- c5-v19: contra presbítero acusação não aceites exceto se não sobre duas ou três testemunhas
+-- c5-v20: Os– que pecam diante de–todos repreende para–que também os– demais temor tenham
+-- c5-v21: Testifico–solenemente diante de– Deus e de–Cristo Jesus e dos– eleitos anjos que estas–coisas guardes sem preconceito nada fazendo por parcialidade
+-- c5-v22: Mãos apressadamente a–ninguém imponhas nem participes de–pecados alheios a–ti–mesmo puro conserva
+-- c5-v23: Não–mais bebas–só–água mas de–vinho pouco usa por–causa do– estômago e das– frequentes tuas enfermidades
+-- c5-v24: De–alguns homens os– pecados evidentes são precedendo ao juízo de–alguns porém também seguem
+-- c5-v25: igualmente também as– obras as– boas evidentes e as–que de–outro–modo são esconder–se não podem
+-- c6-v1: Quantos estão sob jugo servos os– próprios senhores de–toda honra dignos considerem para–que não o– nome de– Deus e a– doutrina seja–blasfemado
+-- c6-v2: os– porém fiéis tendo senhores não os–desprezem porque irmãos são mas antes sirvam porque fiéis são e amados os– do– benefício participantes Estas–coisas ensina e exorta
+-- c6-v3: se alguém ensina–diferentemente e não se–aproxima sãs palavras as– do– Senhor nosso Jesus Cristo e a– segundo piedade doutrina
+-- c6-v4: está–ensoberbecido nada sabendo mas doente por controvérsias e disputás–de–palavras das–quais de–que surge inveja contenda blasfêmias suspeitas más
+-- c6-v5: atritos de–corrompidos homens na– mente e privados da– verdade supondo ganho ser a– piedade Afasta–te de– os– tais
+-- c6-v6: é porém ganho grande a– piedade com contentamento
+-- c6-v7: nada pois trouxemos para o– mundo porque nem levar algo podemos
+-- c6-v8: tendo porém sustento e coberturas com–estas–coisas nos–contentaremos
+-- c6-v9: os– porém que–querem enriquecer caem em tentação e laço e desejos muitos insensatos e nocivos os–quais afundam os– homens em ruína e perdição
+-- c6-v10: raiz pois de–todos os– males é o– amor–ao–dinheiro o–qual alguns cobiçando desviaram–se da– a– fé e a–si–mesmos traspassaram com–dores muitas
+-- c6-v11: Tu porém ó homem de–Deus estas–coisas foge segue porém justiça piedade fé amor paciência mansidão
+-- c6-v12: combate o– bom combate da– fé apodera–te da– eterna vida para a–qual foste–chamado e confessaste a– boa confissão diante de–muitas testemunhas
+-- c6-v13: ordeno a–ti diante de– Deus o– que–vivifica todas coisas e de–Cristo Jesus o– que–testemunhou diante–de Pôncio Pilatos a– boa confissão
+-- c6-v14: guardar te o– mandamento imaculado irrepreensível até a– manifestação do– Senhor nosso Jesus Cristo
+-- c6-v15: a–qual em–tempos próprios mostrará o– bendito e único Soberano o– Rei dos– que–reinam e Senhor dos– que–dominam
+-- c6-v16: o– único que–possui imortalidade luz habitando inacessível a–quem viu nenhum dos–homens nem ver pode a–quem honra e poder eterno amém
+-- c6-v17: Aos– ricos no– o– presente século ordena não serem–altivos nem terem–esperado na da–riqueza incerteza mas em Deus o– que–nos–provê a–nós tudo ricamente para gozo
+-- c6-v18: fazer–o–bem enriquecer em obras boas generosos serem prontos–a–repartir
+-- c6-v19: entesourando para–si–mesmos fundamento bom para o– futuro para–que alcancem a– verdadeira vida
+-- c6-v20: Ó Timóteo o– depósito guarda evitando as– profanas tagarelices–vazias e oposições do– falsamente–chamado conhecimento
+-- c6-v21: o–qual alguns professando quanto–à a– fé desviaram–se A– graça convosco vós Amém
 
 BEGIN;
 -- 5400100101: Παῦλος, (G3972) → "Paulo" [opus-4.5-chirho]

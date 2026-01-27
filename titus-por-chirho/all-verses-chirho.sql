@@ -3,54 +3,54 @@
 -- — John 3:16
 
 -- TITUS - POR Combined
--- Generated: 2026-01-27T21:48:08Z
+-- Generated: 2026-01-27T22:22:24Z
 
--- TITUS c1-v1 - POR
--- TITUS c1-v2 - POR
--- TITUS c1-v3 - POR
--- TITUS c1-v4 - POR
--- TITUS c1-v5 - POR
--- TITUS c1-v6 - POR
--- TITUS c1-v7 - POR
--- TITUS c1-v8 - POR
--- TITUS c1-v9 - POR
--- TITUS c1-v10 - POR
--- TITUS c1-v11 - POR
--- TITUS c1-v12 - POR
--- TITUS c1-v13 - POR
--- TITUS c1-v14 - POR
--- TITUS c1-v15 - POR
--- TITUS c1-v16 - POR
--- TITUS c2-v1 - POR
--- TITUS c2-v2 - POR
--- TITUS c2-v3 - POR
--- TITUS c2-v4 - POR
--- TITUS c2-v5 - POR
--- TITUS c2-v6 - POR
--- TITUS c2-v7 - POR
--- TITUS c2-v8 - POR
--- TITUS c2-v9 - POR
--- TITUS c2-v10 - POR
--- TITUS c2-v11 - POR
--- TITUS c2-v12 - POR
--- TITUS c2-v13 - POR
--- TITUS c2-v14 - POR
--- TITUS c2-v15 - POR
--- TITUS c3-v1 - POR
--- TITUS c3-v2 - POR
--- TITUS c3-v3 - POR
--- TITUS c3-v4 - POR
--- TITUS c3-v5 - POR
--- TITUS c3-v6 - POR
--- TITUS c3-v7 - POR
--- TITUS c3-v8 - POR
--- TITUS c3-v9 - POR
--- TITUS c3-v10 - POR
--- TITUS c3-v11 - POR
--- TITUS c3-v12 - POR
--- TITUS c3-v13 - POR
--- TITUS c3-v14 - POR
--- TITUS c3-v15 - POR
+-- c1-v1: Paûlos, servo de–Deus, apóstolo e de–Iēsoû Christoû, segundo a–fé dos–eleitos de–Deus, e o–conhecimento da–verdade, a segundo a–piedade;
+-- c1-v2: na esperança de–vida eterna, a–qual prometeu o que–não–mente, Deus, antes dos–tempos eternos;
+-- c1-v3: mas–manifestou e, em–tempos próprios, a palavra dele, em pregação que me–foi–confiada a–mim, segundo o–mandamento do Salvador nosso, Deus;
+-- c1-v4: a–Títos, genuíno filho, segundo a–comum fé: graça e paz de Deus Pai, e de–Christós Iēsoûs, o Salvador nosso.
+-- c1-v5: Por–isto causa, deixei te em Creta, para–que as–coisas que–faltam corrigisses, e estabelecesses por cidade anciãos, como eu a–ti ordenei,
+-- c1-v6: se alguém é irrepreensível, de–uma mulher marido, filhos tendo fiéis, não em acusação de–devassidão ou insubordinados.
+-- c1-v7: é–necessário pois o bispo irrepreensível ser, como de–Deus despenseiro; não arrogante, não irascível, não dado–a–vinho, não violento, não ganancioso;
+-- c1-v8: mas hospitaleiro, amigo–do–bem, prudente, justo, santo, temperante;
+-- c1-v9: apegando–se à, segundo a doutrina, fiel palavra, para–que capaz seja tanto de–exortar na a doutrina a sã, como os que–contradizem refutar.
+-- c1-v10: Existem pois muitos e insubordinados, faladores–de–vaidade, e enganadores–de–mente, especialmente os da a circuncisão,
+-- c1-v11: aos–quais é–necessário tapar–a–boca, os–quais casas inteiras transtornam, ensinando o–que não devem, de–vergonhoso ganho por–causa.
+-- c1-v12: disse alguém dentre deles, próprio deles, profeta, Cretenses sempre mentirosos, más bestas, ventres preguiçosos.
+-- c1-v13: O testemunho este é verdadeiro; por a–qual causa repreende a–eles severamente, para–que estejam–sãos na a fé,
+-- c1-v14: não dando–atenção a–Judaicas fábulas e mandamentos de–homens, que–se–desviam da verdade.
+-- c1-v15: Todas–as–coisas puras aos puros; aos porém contaminados e incrédulos, nada puro; mas está–contaminada deles tanto a mente, como a consciência.
+-- c1-v16: A–Deus confessam conhecer; pelas porém obras, negam, abomináveis sendo e desobedientes, e para toda obra boa, reprovados.
+-- c2-v1: Tu porém fala o–que convem à sã doutrina:
+-- c2-v2: que–os–velhos sóbrios sejam, sérios, prudentes, sãos na fé, no amor, na paciência;
+-- c2-v3: as–velhas igualmente, em comportamento reverente, não caluniadoras, nem a–vinho muito escravizadas, mestras–do–bem,
+-- c2-v4: para–que ensinem–a–prudencia as jovens, amantes–de–maridos a–serem, amantes–de–filhos,
+-- c2-v5: prudentes, puras, trabalhadoras–do–lar, boas, sujeitas aos próprios maridos, para–que não a palavra a de–Deus seja–blasfemada.
+-- c2-v6: Os jovens, igualmente, exorta a–serem–prudentes,
+-- c2-v7: em tudo a–ti–mesmo oferecendo exemplo de–boas obras; no o ensino integridade, seriedade,
+-- c2-v8: palavra sã, irrepreensível, para–que o do lado–contrário seja–envergonhado, nada tendo para–dizer a–respeito–de nós mau.
+-- c2-v9: que–os–escravos aos–próprios senhores se–sujeitem, em tudo agradáveis sendo, não contradizendo;
+-- c2-v10: não furtando, mas toda fidelidade mostrando boa, para–que a doutrina a do Salvador nosso, Deus, adornem em tudo.
+-- c2-v11: Manifestou–se pois a graça de Deus, salvadora a–todos os–homens;
+-- c2-v12: ensinando–nos a–nós para–que, renunciando a impiedade e as mundanas concupiscências, prudentemente e justamente e piedosamente vivamos, no o presente século;
+-- c2-v13: aguardando a bem–aventurada esperança, e a–manifestação da glória do grande Deus e Salvador nosso, Christós Iēsoûs;
+-- c2-v14: o–qual deu a–si–mesmo por nós, para–que nos–resgatasse a–nós de toda iniquidade, e purificasse para–si–mesmo um–povo peculiar, zeloso de–boas obras.
+-- c2-v15: Estas–coisas fala, e exorta, e repreende com toda autoridade. Ninguém a–ti despreze.
+-- c3-v1: Lembra a–eles às–autoridades, às–potências, sujeitarem–se, obedece–rem; para toda obra boa, prontos estarem;
+-- c3-v2: a–ninguém difamar, não–contenciosos serem, moderados, toda mostrando mansidão para–com todos os–homens.
+-- c3-v3: Éramos pois outrora também nós insensatos, desobedientes, extraviados, servindo a–concupiscências e a–prazeres diversos, em malícia e inveja vivendo, odiáveis, odiando uns–aos–outros.
+-- c3-v4: quando porém a benignidade e a filantropia apareceu, do Salvador nosso, Deus,
+-- c3-v5: não por obras as em justiça, que fizemos nós, mas segundo a dele misericórdia, salvou–nos a–nós, por do–lavatório da–regeneração, e da–renovação do–Espírito Santo;
+-- c3-v6: o–qual derramou sobre nós abundantemente, por–meio–de Iēsoû Christoû, o Salvador nosso,
+-- c3-v7: para–que justificados pela daquele graça, herdeiros nos–tornemos, segundo a–esperança de–vida eterna.
+-- c3-v8: Fiel a palavra, e acerca destas–coisas quero que–tu afirmes–com–confiança, para–que cuidem de–boas obras se–dedicarem, os que–têm–crido em–Deus. Estas–coisas são boas e úteis aos homens.
+-- c3-v9: Mas–tolas porém questões e genealogias e contendas e combates legais, evita; são pois inúteis e vãs.
+-- c3-v10: Ao–homem–herético homem, depois–de uma e segunda admoestação, rejeita,
+-- c3-v11: sabendo que está–pervertido o tal, e peca, sendo autocondenado.
+-- c3-v12: Quando eu–enviar Artémas a ti, ou Týchikos, apressa–te a–vir a mim para Nicópolis; ali pois decidi passar–o–inverno.
+-- c3-v13: Zēnân o doutor–da–lei e Apollôn diligentemente encaminha, para–que nada a–eles falte.
+-- c3-v14: Aprendam porém também os nossos, a–boas obras se–dedicarem, para as necessárias necessidades, para–que não sejam infrutíferos.
+-- c3-v15: Saúdam–te a–ti, os comigo de–mim todos. Saúda os que–nos–amam a–nós na fé. A graça com todos vós. <Amén>.
 
 BEGIN;
 -- 5600100101: Παῦλος, (G3972) → "Paûlos," [opus-4.5-chirho]

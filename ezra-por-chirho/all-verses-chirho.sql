@@ -3,288 +3,288 @@
 -- — John 3:16
 
 -- EZRA - POR Combined
--- Generated: 2026-01-27T21:46:52Z
+-- Generated: 2026-01-27T22:20:16Z
 
--- EZRA c1-v1 - POR
--- EZRA c1-v2 - POR
--- EZRA c1-v3 - POR
--- EZRA c1-v4 - POR
--- EZRA c1-v5 - POR
--- EZRA c1-v6 - POR
--- EZRA c1-v7 - POR
--- EZRA c1-v8 - POR
--- EZRA c1-v9 - POR
--- EZRA c1-v10 - POR
--- EZRA c1-v11 - POR
--- EZRA c2-v1 - POR
--- EZRA c2-v2 - POR
--- EZRA c2-v3 - POR
--- EZRA c2-v4 - POR
--- EZRA c2-v5 - POR
--- EZRA c2-v6 - POR
--- EZRA c2-v7 - POR
--- EZRA c2-v8 - POR
--- EZRA c2-v9 - POR
--- EZRA c2-v10 - POR
--- EZRA c2-v11 - POR
--- EZRA c2-v12 - POR
--- EZRA c2-v13 - POR
--- EZRA c2-v14 - POR
--- EZRA c2-v15 - POR
--- EZRA c2-v16 - POR
--- EZRA c2-v17 - POR
--- EZRA c2-v18 - POR
--- EZRA c2-v19 - POR
--- EZRA c2-v20 - POR
--- EZRA c2-v21 - POR
--- EZRA c2-v22 - POR
--- EZRA c2-v23 - POR
--- EZRA c2-v24 - POR
--- EZRA c2-v25 - POR
--- EZRA c2-v26 - POR
--- EZRA c2-v27 - POR
--- EZRA c2-v28 - POR
--- EZRA c2-v29 - POR
--- EZRA c2-v30 - POR
--- EZRA c2-v31 - POR
--- EZRA c2-v32 - POR
--- EZRA c2-v33 - POR
--- EZRA c2-v34 - POR
--- EZRA c2-v35 - POR
--- EZRA c2-v36 - POR
--- EZRA c2-v37 - POR
--- EZRA c2-v38 - POR
--- EZRA c2-v39 - POR
--- EZRA c2-v40 - POR
--- EZRA c2-v41 - POR
--- EZRA c2-v42 - POR
--- EZRA c2-v43 - POR
--- EZRA c2-v44 - POR
--- EZRA c2-v45 - POR
--- EZRA c2-v46 - POR
--- EZRA c2-v47 - POR
--- EZRA c2-v48 - POR
--- EZRA c2-v49 - POR
--- EZRA c2-v50 - POR
--- EZRA c2-v51 - POR
--- EZRA c2-v52 - POR
--- EZRA c2-v53 - POR
--- EZRA c2-v54 - POR
--- EZRA c2-v55 - POR
--- EZRA c2-v56 - POR
--- EZRA c2-v57 - POR
--- EZRA c2-v58 - POR
--- EZRA c2-v59 - POR
--- EZRA c2-v60 - POR
--- EZRA c2-v61 - POR
--- EZRA c2-v62 - POR
--- EZRA c2-v63 - POR
--- EZRA c2-v64 - POR
--- EZRA c2-v65 - POR
--- EZRA c2-v66 - POR
--- EZRA c2-v67 - POR
--- EZRA c2-v68 - POR
--- EZRA c2-v69 - POR
--- EZRA c2-v70 - POR
--- EZRA c3-v1 - POR
--- EZRA c3-v2 - POR
--- EZRA c3-v3 - POR
--- EZRA c3-v4 - POR
--- EZRA c3-v5 - POR
--- EZRA c3-v6 - POR
--- EZRA c3-v7 - POR
--- EZRA c3-v8 - POR
--- EZRA c3-v9 - POR
--- EZRA c3-v10 - POR
--- EZRA c3-v11 - POR
--- EZRA c3-v12 - POR
--- EZRA c3-v13 - POR
--- EZRA c4-v1 - POR
--- EZRA c4-v2 - POR
--- EZRA c4-v3 - POR
--- EZRA c4-v4 - POR
--- EZRA c4-v5 - POR
--- EZRA c4-v6 - POR
--- EZRA c4-v7 - POR
--- EZRA c4-v8 - POR
--- EZRA c4-v9 - POR
--- EZRA c4-v10 - POR
--- EZRA c4-v11 - POR
--- EZRA c4-v12 - POR
--- EZRA c4-v13 - POR
--- EZRA c4-v14 - POR
--- EZRA c4-v15 - POR
--- EZRA c4-v16 - POR
--- EZRA c4-v17 - POR
--- EZRA c4-v18 - POR
--- EZRA c4-v19 - POR
--- EZRA c4-v20 - POR
--- EZRA c4-v21 - POR
--- EZRA c4-v22 - POR
--- EZRA c4-v23 - POR
--- EZRA c4-v24 - POR
--- EZRA c5-v1 - POR
--- EZRA c5-v2 - POR
--- EZRA c5-v3 - POR
--- EZRA c5-v4 - POR
--- EZRA c5-v5 - POR
--- EZRA c5-v6 - POR
--- EZRA c5-v7 - POR
--- EZRA c5-v8 - POR
--- EZRA c5-v9 - POR
--- EZRA c5-v10 - POR
--- EZRA c5-v11 - POR
--- EZRA c5-v12 - POR
--- EZRA c5-v13 - POR
--- EZRA c5-v14 - POR
--- EZRA c5-v15 - POR
--- EZRA c5-v16 - POR
--- EZRA c5-v17 - POR
--- EZRA c6-v1 - POR
--- EZRA c6-v2 - POR
--- EZRA c6-v3 - POR
--- EZRA c6-v4 - POR
--- EZRA c6-v5 - POR
--- EZRA c6-v6 - POR
--- EZRA c6-v7 - POR
--- EZRA c6-v8 - POR
--- EZRA c6-v9 - POR
--- EZRA c6-v10 - POR
--- EZRA c6-v11 - POR
--- EZRA c6-v12 - POR
--- EZRA c6-v13 - POR
--- EZRA c6-v14 - POR
--- EZRA c6-v15 - POR
--- EZRA c6-v16 - POR
--- EZRA c6-v17 - POR
--- EZRA c6-v18 - POR
--- EZRA c6-v19 - POR
--- EZRA c6-v20 - POR
--- EZRA c6-v21 - POR
--- EZRA c6-v22 - POR
--- EZRA c7-v1 - POR
--- EZRA c7-v2 - POR
--- EZRA c7-v3 - POR
--- EZRA c7-v4 - POR
--- EZRA c7-v5 - POR
--- EZRA c7-v6 - POR
--- EZRA c7-v7 - POR
--- EZRA c7-v8 - POR
--- EZRA c7-v9 - POR
--- EZRA c7-v10 - POR
--- EZRA c7-v11 - POR
--- EZRA c7-v12 - POR
--- EZRA c7-v13 - POR
--- EZRA c7-v14 - POR
--- EZRA c7-v15 - POR
--- EZRA c7-v16 - POR
--- EZRA c7-v17 - POR
--- EZRA c7-v18 - POR
--- EZRA c7-v19 - POR
--- EZRA c7-v20 - POR
--- EZRA c7-v21 - POR
--- EZRA c7-v22 - POR
--- EZRA c7-v23 - POR
--- EZRA c7-v24 - POR
--- EZRA c7-v25 - POR
--- EZRA c7-v26 - POR
--- EZRA c7-v27 - POR
--- EZRA c7-v28 - POR
--- EZRA c8-v1 - POR
--- EZRA c8-v2 - POR
--- EZRA c8-v3 - POR
--- EZRA c8-v4 - POR
--- EZRA c8-v5 - POR
--- EZRA c8-v6 - POR
--- EZRA c8-v7 - POR
--- EZRA c8-v8 - POR
--- EZRA c8-v9 - POR
--- EZRA c8-v10 - POR
--- EZRA c8-v11 - POR
--- EZRA c8-v12 - POR
--- EZRA c8-v13 - POR
--- EZRA c8-v14 - POR
--- EZRA c8-v15 - POR
--- EZRA c8-v16 - POR
--- EZRA c8-v17 - POR
--- EZRA c8-v18 - POR
--- EZRA c8-v19 - POR
--- EZRA c8-v20 - POR
--- EZRA c8-v21 - POR
--- EZRA c8-v22 - POR
--- EZRA c8-v23 - POR
--- EZRA c8-v24 - POR
--- EZRA c8-v25 - POR
--- EZRA c8-v26 - POR
--- EZRA c8-v27 - POR
--- EZRA c8-v28 - POR
--- EZRA c8-v29 - POR
--- EZRA c8-v30 - POR
--- EZRA c8-v31 - POR
--- EZRA c8-v32 - POR
--- EZRA c8-v33 - POR
--- EZRA c8-v34 - POR
--- EZRA c8-v35 - POR
--- EZRA c8-v36 - POR
--- EZRA c9-v1 - POR
--- EZRA c9-v2 - POR
--- EZRA c9-v3 - POR
--- EZRA c9-v4 - POR
--- EZRA c9-v5 - POR
--- EZRA c9-v6 - POR
--- EZRA c9-v7 - POR
--- EZRA c9-v8 - POR
--- EZRA c9-v9 - POR
--- EZRA c9-v10 - POR
--- EZRA c9-v11 - POR
--- EZRA c9-v12 - POR
--- EZRA c9-v13 - POR
--- EZRA c9-v14 - POR
--- EZRA c9-v15 - POR
--- EZRA c10-v1 - POR
--- EZRA c10-v2 - POR
--- EZRA c10-v3 - POR
--- EZRA c10-v4 - POR
--- EZRA c10-v5 - POR
--- EZRA c10-v6 - POR
--- EZRA c10-v7 - POR
--- EZRA c10-v8 - POR
--- EZRA c10-v9 - POR
--- EZRA c10-v10 - POR
--- EZRA c10-v11 - POR
--- EZRA c10-v12 - POR
--- EZRA c10-v13 - POR
--- EZRA c10-v14 - POR
--- EZRA c10-v15 - POR
--- EZRA c10-v16 - POR
--- EZRA c10-v17 - POR
--- EZRA c10-v18 - POR
--- EZRA c10-v19 - POR
--- EZRA c10-v20 - POR
--- EZRA c10-v21 - POR
--- EZRA c10-v22 - POR
--- EZRA c10-v23 - POR
--- EZRA c10-v24 - POR
--- EZRA c10-v25 - POR
--- EZRA c10-v26 - POR
--- EZRA c10-v27 - POR
--- EZRA c10-v28 - POR
--- EZRA c10-v29 - POR
--- EZRA c10-v30 - POR
--- EZRA c10-v31 - POR
--- EZRA c10-v32 - POR
--- EZRA c10-v33 - POR
--- EZRA c10-v34 - POR
--- EZRA c10-v35 - POR
--- EZRA c10-v36 - POR
--- EZRA c10-v37 - POR
--- EZRA c10-v38 - POR
--- EZRA c10-v39 - POR
--- EZRA c10-v40 - POR
--- EZRA c10-v41 - POR
--- EZRA c10-v42 - POR
--- EZRA c10-v43 - POR
--- EZRA c10-v44 - POR
+-- c1-v1: E–no–ano–de um de–Koresh rei–de Paras para–cumprir a–palavra–de YHWH da–boca–de Yirmeyah despertou YHWH (a) espírito–de Koresh rei–de Paras e–fez–passar uma–voz em–todo o–seu–reino e–também por–escrito dizendo
+-- c1-v2: Assim disse Koresh rei–de Paras Todos os–reinos–de a–terra deu a–mim YHWH Elohim–de os–céus e–ele encarregou sobre–mim de–construir para–ele uma–casa em–Yerushalayim que em–Yehudah
+-- c1-v3: Quem entre–vós de–todo o–seu–povo seja o–seu–Elohim com–ele e–suba a–Yerushalayim que em–Yehudah e–construa (a) casa–de YHWH Elohim–de Yisrael ele o–Elohim que em–Yerushalayim
+-- c1-v4: E–todo o–remanescente de–todos os–lugares onde ele peregrinou ali levantem–o os–homens–de o–seu–lugar com–prata e–com–ouro e–com–bens e–com–gado junto–com a–oferta–voluntária para–a–casa–de o–Elohim que em–Yerushalayim
+-- c1-v5: E–levantaram–se os–chefes–de os–pais de–Yehudah e–Binyamin e–os–sacerdotes e–os–levitas a–todos despertou o–Elohim (a) o–seu–espírito para–subir para–construir (a) casa–de YHWH que em–Yerushalayim
+-- c1-v6: E–todos os–que–estavam–ao–redor–deles fortaleceram as–suas–mãos com–utensílios–de prata com–o–ouro com–os–bens e–com–o–gado e–com–as–coisas–preciosas além–de de toda a–oferta–voluntária §
+-- c1-v7: E–o–rei Koresh tirou (a) os–utensílios–de casa–de YHWH que tirou Nevukhadnetstsar de–Yerushalayim e–os–colocou na–casa–de os–seus–deuses
+-- c1-v8: E–os–tirou Koresh rei–de Paras pela mão–de Mitredat o–tesoureiro e–os–contou a–Sheshbatstsar o–príncipe de–Yehudah
+-- c1-v9: E–estes o–seu–número bacias–de ouro trinta bacias–de prata mil facas vinte e–nove §
+-- c1-v10: taças–de ouro trinta taças–de prata de–segunda–ordem quatro centos e–dez utensílios outros mil §
+-- c1-v11: Todos os–utensílios de–o–ouro e–de–a–prata cinco milhares e–quatro centos o–todo fez–subir Sheshbatstsar com a–subida–de o–exílio de–Bavel a–Yerushalayim ¶
+-- c2-v1: E–estes filhos–de a–província os–que–subiam do–cativeiro–de o–exílio que exilou [Nevukhadnetstsar] (Nevukhadnetstsar) rei–de Bavel para–Bavel e–retornaram a–Yerushalayim e–Yehudah cada–homem à–sua–cidade
+-- c2-v2: Os–que vieram com Zerubbavel Yeshua Nechemyah Serayah Reelayah Mordekhai Bilshan Mispar Bigvay Rechum Baanah o–número–de homens–de povo–de Yisrael §
+-- c2-v3: filhos–de Parosh dois–milhares cento setenta e–dois §
+-- c2-v4: filhos–de Shefatyah três centos setenta e–dois §
+-- c2-v5: filhos–de Arach sete centos setenta e–cinco §
+-- c2-v6: filhos–de Pachat Moav para–filhos–de Yeshua Yoav dois–milhares oito centos e–dois dez §
+-- c2-v7: filhos–de Elam mil duzentos cinquenta e–quatro §
+-- c2-v8: filhos–de Zattu nove centos e–quarenta e–cinco §
+-- c2-v9: filhos–de Zakkay sete centos e–sessenta §
+-- c2-v10: filhos–de Bani seis centos quarenta e–dois §
+-- c2-v11: filhos–de Bevay seis centos vinte e–três §
+-- c2-v12: filhos–de Azgad mil duzentos vinte e–dois §
+-- c2-v13: filhos–de Adoniqam seis centos sessenta e–seis §
+-- c2-v14: filhos–de Bigvay dois–milhares cinquenta e–seis §
+-- c2-v15: filhos–de Adin quatro centos cinquenta e–quatro §
+-- c2-v16: filhos–de Ater de–Yechizqiyah noventa e–oito §
+-- c2-v17: filhos–de Betsay três centos vinte e–três §
+-- c2-v18: filhos–de Yorah cento e–dois dez §
+-- c2-v19: filhos–de Chashum duzentos vinte e–três §
+-- c2-v20: filhos–de Gibbar noventa e–cinco §
+-- c2-v21: filhos–de Beyt–Lechem cento vinte e–três §
+-- c2-v22: homens–de Netofah cinquenta e–seis
+-- c2-v23: homens–de Anatot cento vinte e–oito §
+-- c2-v24: filhos–de Azmavet quarenta e–dois §
+-- c2-v25: filhos–de Qiryat Arim Kefirah e–Beerot sete centos e–quarenta e–três §
+-- c2-v26: filhos–de ha–Ramah e–Geva seis centos vinte e–um §
+-- c2-v27: homens–de Mikhmas cento vinte e–dois §
+-- c2-v28: homens–de Beyt–El e–ha–Ay duzentos vinte e–três §
+-- c2-v29: filhos–de Nevo cinquenta e–dois §
+-- c2-v30: filhos–de Magbish cento cinquenta e–seis §
+-- c2-v31: filhos–de Elam outro mil duzentos cinquenta e–quatro §
+-- c2-v32: filhos–de Charim três centos e–vinte §
+-- c2-v33: filhos–de Lod Chadid e–Ono sete centos vinte e–cinco §
+-- c2-v34: filhos–de Yerecho três centos quarenta e–cinco §
+-- c2-v35: filhos–de Senaah três milhares e–seis centos e–trinta §
+-- c2-v36: Os–sacerdotes filhos–de Yedayah da–casa–de Yeshua nove centos setenta e–três §
+-- c2-v37: filhos–de Immer mil cinquenta e–dois §
+-- c2-v38: filhos–de Pashchur mil duzentos quarenta e–sete §
+-- c2-v39: filhos–de Charim mil e–sete dez §
+-- c2-v40: Os–levitas filhos–de Yeshua e–Qadmiel para–filhos–de Hodavyah setenta e–quatro §
+-- c2-v41: Os–cantores filhos–de Asaf cento vinte e–oito ¶
+-- c2-v42: filhos–de os–porteiros filhos–de Shallum filhos–de Ater filhos–de Talmon filhos–de Aqqub filhos–de Chatita filhos–de Shovay o–todo cento trinta e–nove ¶
+-- c2-v43: Os–netineus filhos–de Tsicha filhos–de Chasufa filhos–de Tabbaot
+-- c2-v44: filhos–de Qeros filhos–de Siaha filhos–de Padon
+-- c2-v45: filhos–de Levanah filhos–de Chagavah filhos–de Aqqub
+-- c2-v46: filhos–de Chagab filhos–de [Shamlay] (Salmay) filhos–de Chanan
+-- c2-v47: filhos–de Giddel filhos–de Gachar filhos–de Reayah
+-- c2-v48: filhos–de Retsin filhos–de Neqoda filhos–de Gazzam
+-- c2-v49: filhos–de Uzza filhos–de Paseach filhos–de Besay
+-- c2-v50: filhos–de Asnah filhos–de [Meinim] (Meunim) filhos–de [Nefisim] (Nefusim)
+-- c2-v51: filhos–de Baqbuq filhos–de Chaqufa filhos–de Charchur
+-- c2-v52: filhos–de Batslut filhos–de Mechida filhos–de Charsha
+-- c2-v53: filhos–de Barqos filhos–de Sisera filhos–de Temach
+-- c2-v54: filhos–de Netsiach filhos–de Chatifa
+-- c2-v55: filhos–de servos–de Shelomoh filhos–de Sotay filhos–de ha–Soferet filhos–de Peruda
+-- c2-v56: filhos–de Yaalah filhos–de Darqon filhos–de Giddel
+-- c2-v57: filhos–de Shefatyah filhos–de Chattil filhos–de Pokeret ha–Tsevayim filhos–de Ami
+-- c2-v58: Todo os–netineus e–filhos–de servos–de Shelomoh três centos noventa e–dois §
+-- c2-v59: E–estes os–que–subiam de–Tel–Melach Tel–Charsha Keruv Addan Immer e–não puderam declarar casa–de seus–pais e–sua–semente se de–Yisrael eles
+-- c2-v60: filhos–de Delayah filhos–de Toviyah filhos–de Neqoda seis centos cinquenta e–dois §
+-- c2-v61: E–dos–filhos–de os–sacerdotes filhos–de Chovayah filhos–de ha–Qots filhos–de Barzillay que tomou das–filhas–de Barzillay o–Giladita esposa e–foi–chamado sobre o–nome–deles
+-- c2-v62: Estes buscaram o–seu–registro os–que–se–registravam e–não foram–achados e–foram–excluídos do o–sacerdócio
+-- c2-v63: E–disse o–Tirshata a–eles que não comessem do–santo dos–santos até levantar–se um–sacerdote para–os–Urim e–para–os–Tummim
+-- c2-v64: Toda a–assembleia como–um quatro dez–milhares dois–milhares três centos sessenta
+-- c2-v65: além–de seus–servos e–suas–servas estes sete milhares três centos trinta e–sete e–para–eles cantores e–cantoras duzentos
+-- c2-v66: seus–cavalos sete centos trinta e–seis suas–mulas duzentas quarenta e–cinco
+-- c2-v67: seus–camelos quatro centos trinta e–cinco jumentos seis milhares sete centos e–vinte ¶
+-- c2-v68: E–dos–chefes–de os–pais ao–virem à–casa–de YHWH que em–Yerushalayim ofereceram–voluntariamente para–a–casa–de o–Elohim para–restabelecê–la sobre a–sua–base
+-- c2-v69: Conforme–a–sua–força deram para–o–tesouro–de a–obra ouro dracmas seis dez–milhares e–mil § e–prata minas cinco milhares e–túnicas–de sacerdotes cem §
+-- c2-v70: E–habitaram os–sacerdotes e–os–levitas e–de o–povo e–os–cantores e–os–porteiros e–os–netineus nas–suas–cidades e–todo Yisrael nas–suas–cidades §
+-- c3-v1: E–chegou o–mês o–sétimo e–os–filhos–de Yisrael nas–cidades § e–ajuntou–se o–povo como–homem um a Yerushalayim §
+-- c3-v2: E–levantou–se Yeshua filho–de Yotsadaq e–seus–irmãos os–sacerdotes e–Zerubbavel filho–de Shealtiel e–seus–irmãos e–construíram (a) o–altar–de Elohim–de Yisrael para–oferecer sobre–ele holocaustos conforme–o–escrito na–Torah–de Mosheh homem–de o–Elohim
+-- c3-v3: E–estabeleceram o–altar sobre as–suas–bases porque com–terror sobre–eles dos–povos–de as–terras [e–ofereceu] (e–ofereceram) sobre–ele holocaustos a–YHWH holocaustos para–a–manhã e–para–a–tarde
+-- c3-v4: E–fizeram (a) a–festa–de as–Cabanas conforme–o–escrito e–holocausto–de dia em–dia por–número conforme–a–ordenança coisa–de dia em–seu–dia
+-- c3-v5: E–depois–disso holocausto–de contínuo e–para–as–luas–novas e–para–todas as–festas–de YHWH as–consagradas e–para–todo o–que–oferecia–voluntariamente oferta–voluntária a–YHWH
+-- c3-v6: Desde–o–dia um do–mês o–sétimo começaram a–oferecer holocaustos a–YHWH mas–o–templo–de YHWH não fora–fundado
+-- c3-v7: E–deram prata aos–cortadores–de–pedra e–aos–artesãos e–comida e–bebida e–óleo aos–Sidonitas e–aos–Tiríios para–trazer madeiras–de cedros de o–Levanon a o–mar–de Yafo conforme–a–permissão–de Koresh rei–de Paras sobre–eles ¶
+-- c3-v8: E–no–ano o–segundo de–sua–vinda a casa–de o–Elohim em–Yerushalayim no–mês o–segundo começaram Zerubbavel filho–de Shealtiel e–Yeshua filho–de Yotsadaq e–o–restante–de seus–irmãos os–sacerdotes e–os–levitas e–todos os–que–vinham do–cativeiro Yerushalayim e–constituíram (a) os–levitas de–filho–de vinte ano e–acima para–supervisionar sobre a–obra–de casa–de YHWH ¶
+-- c3-v9: E–permaneceu Yeshua seus–filhos e–seus–irmãos Qadmiel e–seus–filhos filhos–de Yehudah como–um para–supervisionar sobre os–que–faziam a–obra na–casa–de o–Elohim § filhos–de Chenadad seus–filhos e–seus–irmãos os–levitas
+-- c3-v10: E–fundaram os–construtores (a) o–templo–de YHWH e–fizeram–estar os–sacerdotes revestidos com–trombetas e–os–levitas filhos–de Asaf com–os–címbalos para–louvar (a) YHWH segundo as–mãos–de David rei–de Yisrael
+-- c3-v11: E–responderam ao–louvar e–ao–dar–graças a–YHWH porque bom porque para–sempre a–sua–misericórdia sobre Yisrael e–todo o–povo gritou grito grande ao–louvar a–YHWH sobre ser–fundada casa–de YHWH §
+-- c3-v12: E–muitos dos–sacerdotes e–os–levitas e–os–chefes–de os–pais os–velhos que viram (a) a–casa a–primeira ao–ser–fundada esta a–casa diante–de–seus–olhos chorando com–voz grande e–muitos com–grito com–alegria para–levantar voz
+-- c3-v13: E–não–havia o–povo distinguindo voz–de grito–de a–alegria da–voz–de choro–de o–povo porque o–povo gritando grito grande e–o–som ouvido até longe ¶
+-- c4-v1: E–ouviram os–adversários–de Yehudah e–Binyamin que os–filhos–de o–exílio construíam um–templo a–YHWH Elohim–de Yisrael
+-- c4-v2: E–aproximaram–se de Zerubbavel e–de os–chefes–de os–pais e–disseram a–eles Construiremos convosco porque como–vós buscamos ao–vosso–Elohim [e–não] (e–a–ele) nós sacrificamos desde–os–dias–de Esar Chaddon rei–de Ashshur o–que–nos–trouxe a–nós para–cá
+-- c4-v3: E–disse a–eles Zerubbavel e–Yeshua e–o–restante–de chefes–de os–pais de–Yisrael Não à–vós e–a–nós construir casa ao–nosso–Elohim porque nós juntos construiremos a–YHWH Elohim–de Yisrael como ordenou–nos o–rei Koresh rei–de Paras
+-- c4-v4: E–estava o–povo–de a–terra enfraquecendo as–mãos–de povo–de Yehudah [e–aterrorizando] (e–aterrorizando) a–eles de–construir
+-- c4-v5: E–contratando contra–eles conselheiros para–frustrar o–seu–conselho todos os–dias–de Koresh rei–de Paras e–até o–reinado–de Daryavesh rei–de Paras
+-- c4-v6: E–no–reinado–de Achashverosh no–início–de seu–reinado escreveram acusação contra os–habitantes–de Yehudah e–Yerushalayim §
+-- c4-v7: E–nos–dias–de Artachshasta escreveu Bishlam Mitredat Taveel e–o–restante–de [seus–colegas] (seus–colegas) a [Artachshasta] (Artachshasta) rei–de Paras e–a–escrita–de a–carta escrita em–aramaico e–traduzida em–aramaico ¶
+-- c4-v8: Rechum o–comandante do–decreto e–Shimshai o–escriba escreveram carta uma sobre Yerushalayim a–Artachshasta o–rei assim
+-- c4-v9: Então Rechum o–comandante do–decreto e–Shimshai o–escriba e–o–restante–de seus–colegas os–dineus e–os–afarsatqueus os–tarpeleus os–afarseus [os–erequeus] (os–erequeus) os–babiloneus os–susanqueus [que–são] (os–dehaitas) os–elamitas
+-- c4-v10: E–o–restante–de as–nações que deportou Osnappar o–grande e–o–nobre e–os–estabeleceu eles na–cidade–de que Shomron e–o–restante–de além–de o–Rio e–agora
+-- c4-v11: Esta cópia–de a–carta que enviaram a–ele a Artachshasta o–rei teus–servos os–homens–de além–de o–Rio e–agora ¶
+-- c4-v12: Seja–conhecido seja ao–rei que os–judeus que subiram de junto–de–ti sobre–nós vieram a–Yerushalayim a–cidade a–rebelde [e–a–má] estão–construindo [e–os–muros] (e–os–muros) [estão–completando] (estão–completando) e–os–fundamentos estão–reparando
+-- c4-v13: Agora seja–conhecido seja ao–rei que se a–cidade essa for–construída e–os–muros forem–completados tributo imposto e–pedágio não darão e–o–tesouro–de reis prejudicará
+-- c4-v14: Agora porque diante–de que sal–de o–palácio comemos–sal e–vergonha–de o–rei não próprio para–nós ver sobre isso enviamos e–informamos ao–rei
+-- c4-v15: Que seja–pesquisado no–livro–de os–registros de teus–pais e–acharás no–livro–de os–registros e–saberás que a–cidade essa cidade rebelde e–prejudicial–a reis e–províncias e–rebelião faziam em–seu–meio desde dias–de antiguidade sobre isso a–cidade essa foi–destruída
+-- c4-v16: Informamos nós ao–rei que se a–cidade essa for–construída e–os–muros forem–completados em–face–de isso porção no–além–de o–Rio não terás tu ¶
+-- c4-v17: Resposta enviou o–rei a Rechum o–comandante do–decreto e–Shimshai o–escriba e–o–restante–de seus–colegas que habitam em–Shomron e–o–restante–de além–de o–Rio paz e–agora §
+-- c4-v18: A–carta que enviastes a–nós claramente foi–lida diante–de–mim
+-- c4-v19: E–de–mim foi–posto decreto e–pesquisaram e–acharam que a–cidade essa desde dias–de antiguidade contra reis se–levantava e–rebelião e–sedição era–feita nela
+-- c4-v20: E–reis poderosos houve sobre Yerushalayim e–governando em–todo além–de o–Rio e–tributo imposto e–pedágio era–dado a–eles
+-- c4-v21: Agora colocai decreto para–fazer–cessar os–homens esses e–a–cidade essa não seja–construída até de–mim decreto seja–posto
+-- c4-v22: E–sede–cuidadosos sede negligentes em–fazer sobre isso por–que cresceria o–dano para–prejudicar reis §
+-- c4-v23: Então desde que cópia–de a–carta–de de [Artachshasta] (Artachshasta) o–rei foi–lida diante–de Rechum e–Shimshai o–escriba e–seus–colegas foram à–pressa a–Yerushalayim a os–judeus e–fizeram–cessar eles com–braço e–força §
+-- c4-v24: Então cessou a–obra–de casa–de o–Elohim que em–Yerushalayim e–estava cessada até ano–de dois do–reinado–de Daryavesh rei–de Paras ¶
+-- c5-v1: e–profetizaram Chaggai [o–profeta] (o–profeta) e–Zekaryah filho–de– Iddo [os–profetas] (os–profetas) sobre– os–judeus que em–Yehud e–em–Yerushalem em–nome–de Deus–de Yisrael sobre–eles §
+-- c5-v2: então levantaram-se Zerubbabel filho–de– Shealtiel e–Yeshua filho–de– Yotsadak e–começaram a–construir casa–de o–Deus que em–Yerushalem e–com–eles [os–profetas] (os–profetas) de– o–Deus ajudando a–eles ¶
+-- c5-v3: naquele– tempo veio sobre–eles Tatnai governador–de além–do– rio e–Shetar-Bozenai e–seus–companheiros e–assim disseram a–eles quem– deu a–vós decreto a–casa esta para–construir e–a–estrutura esta para–completar §
+-- c5-v4: então assim dissemos a–eles quais– são os–nomes–de os–homens que– esta construção constroem
+-- c5-v5: e–o–olho–de seu–Deus estava sobre– os–anciãos–de os–judeus e–não– pararam eles até– o–relatório a–Daryavesh fosse e–então retornassem uma–carta sobre– isto ¶
+-- c5-v6: cópia–de a–carta que– enviou Tatnai governador–de além–do– rio e–Shetar-Bozenai e–seus–companheiros os–oficiais que em–além–do rio a– Daryavesh o–rei
+-- c5-v7: uma–palavra enviaram a–ele e–assim estava–escrito nela a–Daryavesh o–rei paz toda §
+-- c5-v8: seja–conhecido que–seja ao–rei que– fomos a–Yehud a–província à–casa–de o–Deus o–grande e–ela está–sendo–construída pedra cortada e–madeira está–sendo–colocada nas–paredes e–a–obra essa diligentemente está–sendo–feita e–prosperando nas–mãos–deles §
+-- c5-v9: então perguntamos aos–anciãos aqueles assim dissemos a–eles quem– deu a–vós decreto a–casa esta para–construir e–a–estrutura esta para–completar
+-- c5-v10: e–também seus–nomes perguntamos a–eles para–te–informar para–que escrevêssemos os–nomes–de os–homens que em–suas–cabeças §
+-- c5-v11: e–assim uma–palavra responderam-nos para–dizer nós eles servos–de o– Deus–de os–céus e–a–terra e–construímos a–casa que– foi construída de–antes–de isto anos muitos e–um–rei de–Yisrael grande construiu-a e–completou-a
+-- c5-v12: mas por–causa–de– que provocaram nossos–pais ao–Deus–de os–céus deu eles na–mão–de Nevukadnetsar rei–de Bavel [o–caldeu] (o–caldeu) e–a–casa esta destruiu e–o–povo exilou para–Bavel §
+-- c5-v13: porém no–ano um de–Koresh o–rei de Bavel Koresh o–rei emitiu decreto casa–de– o–Deus esta para–construir
+-- c5-v14: e–também os–utensílios de– casa–de– o–Deus de ouro e–prata que Nevukadnetsar tirou de– o–templo que em–Yerushalem e–trouxe eles para–o–templo que em–Bavel tirou eles Koresh o–rei de– o–templo que em–Bavel e–foram–dados a–Sheshbatsar seu–nome que governador o–nomeou
+-- c5-v15: e–disse– a–ele [estes] (estes) os–utensílios leva vai– deposita eles no–templo que em–Yerushalem e–a–casa–de o–Deus seja–construída em– seu–lugar §
+-- c5-v16: então Sheshbatsar aquele veio colocou os–fundamentos de– casa–de o–Deus que em–Yerushalem e–desde– então e–até– agora está–sendo–construída e–não completada
+-- c5-v17: e–agora se ao– rei parece–bom que–seja–investigado na–casa–de os–tesouros de– o–rei lá que em–Bavel se há que– de– Koresh o–rei foi–emitido decreto para–construir casa–de– o–Deus aquela em–Yerushalem e–a–vontade–de o–rei sobre– isto que–envie a–nós §
+-- c6-v1: então Daryavesh o–rei emitiu decreto e–investigaram na–casa–de os–rolos onde os–tesouros depositados lá em–Bavel
+-- c6-v2: e–foi–encontrado em–Achmetha na–cidadela que em–Madai a–província um–rolo um e–assim– estava–escrito nele um–registro ¶
+-- c6-v3: no–ano um de–Koresh o–rei Koresh o–rei emitiu decreto casa–de– o–Deus em–Yerushalem a–casa que–seja–construída lugar onde– sacrificam sacrifícios e–seus–fundamentos sendo–suportados sua–altura côvados sessenta sua–largura côvados sessenta
+-- c6-v4: camadas de– pedra cortada três e–uma–camada de– madeira nova e–a–despesa de– casa–de o–rei que–seja–dada
+-- c6-v5: e–também os–utensílios–de casa–de– o–Deus de ouro e–prata que Nevukadnetsar tirou de– o–templo que– em–Yerushalem e–trouxe para–Bavel que–sejam–devolvidos e–vão para–o–templo que– em–Yerushalem para–seu–lugar e–sejam–depositados em–casa–de o–Deus §
+-- c6-v6: agora Tatnai governador–de além–do– rio Shetar Bozenai e–seus–companheiros os–oficiais que em–além–do rio afastai-vos estai de– lá
+-- c6-v7: deixai a–obra–de casa–de– o–Deus aquela o–governador–de os–judeus e–os–anciãos–de os–judeus casa–de– o–Deus aquela construírem em– seu–lugar
+-- c6-v8: e–por–mim foi–emitido decreto quanto–a o–que– fareis com– os–anciãos–de os–judeus aqueles para–construir casa–de– o–Deus aquela e–dos–bens–de o–rei que do–tributo–de além–do rio diligentemente despesas sejam dadas aos–homens aqueles para–que– não para–parar
+-- c6-v9: e–o–que for–necessário e–filhos–de touros e–carneiros e–cordeiros para–holocaustos ao–Deus–de os–céus trigo sal vinho e–azeite conforme–a–palavra–de os–sacerdotes que– em–Yerushalem que–seja dado a–eles dia por–dia para–que– não falte
+-- c6-v10: para–que– sejam oferecendo ofertas–de–aroma–agradável ao–Deus–de os–céus e–orando pela–vida–de o–rei e–seus–filhos
+-- c6-v11: e–por–mim foi–emitido decreto que todo– homem que alterar a–palavra esta que–seja–arrancada madeira de– sua–casa e–erguido que–seja–pendurado sobre–ela e–sua–casa então que–seja–feita sobre– isto
+-- c6-v12: e–o–Deus que faz–habitar seu–nome lá que–derrube todo– rei e–povo que estender sua–mão para–alterar para–destruir casa–de– o–Deus aquela que em–Yerushalem eu Daryavesh emiti decreto diligentemente que–seja–feito ¶
+-- c6-v13: então Tatnai governador–de além–do– rio Shetar Bozenai e–seus–companheiros de–acordo–com o–que– enviou Daryavesh o–rei assim diligentemente fizeram
+-- c6-v14: e–os–anciãos–de os–judeus construíram e–prosperaram pela–profecia–de Chaggai [o–profeta] (o–profeta) e–Zekaryah filho–de– Iddo e–construíram e–completaram pelo– decreto–de o–Deus–de Yisrael e–pelo–decreto–de Koresh e–Daryavesh e–Artachshashta rei–de Paras
+-- c6-v15: e–foi–completada a–casa esta até dia três do–mês–de Adar que– ele ano– seis do–reinado–de Daryavesh o–rei ¶
+-- c6-v16: e–fizeram os–filhos–de– Yisrael os–sacerdotes e–os–levitas e–o–restante–de os–filhos–de– o–exílio a–dedicação–de casa–de– o–Deus esta com–alegria
+-- c6-v17: e–ofereceram para–a–dedicação–de casa–de– o–Deus esta touros cem carneiros duzentos cordeiros quatrocentos quatrocentos e–bodes cabras [para–pecado] (para–pecado) por– todo– Yisrael doze– dez pelo–número–de as–tribos–de Yisrael
+-- c6-v18: e–estabeleceram os–sacerdotes em–suas–divisões e–os–levitas em–suas–turmas para– o–serviço–de o–Deus que em–Yerushalem conforme–escrito–em o–livro–de Mosheh ¶
+-- c6-v19: e–fizeram os–filhos–de– o–exílio (a) a–Páscoa no–quatorze dez do–mês o–primeiro
+-- c6-v20: pois purificaram-se os–sacerdotes e–os–levitas como–um todos–eles puros e–mataram a–Páscoa para–todos– os–filhos–de o–exílio e–para–seus–irmãos os–sacerdotes e–para–si–mesmos
+-- c6-v21: e–comeram os–filhos–de– Yisrael os–que–voltaram do–exílio e–todo o–que–se–separou da–impureza–de nações–de– a–terra a–eles para–buscar a–YHWH Deus–de Yisrael
+-- c6-v22: e–fizeram festa–de– pães–ázimos sete dias com–alegria pois alegrou-os YHWH e–virou o–coração–de rei–de– Ashur para–eles para–fortalecer suas–mãos na–obra–de casa–de– o–Deus Deus–de Yisrael ¶
+-- c7-v1: e–depois–de as–coisas estas no–reinado–de Artachshashta rei–de– Paras Ezra filho–de– Serayah filho–de– Azaryah filho–de– Chilkiyah
+-- c7-v2: filho–de– Shallum filho–de– Tsadok filho–de– Achituv
+-- c7-v3: filho–de– Amaryah filho–de– Azaryah filho–de– Merayot
+-- c7-v4: filho–de– Zerachyah filho–de– Uzzi filho–de– Bukki
+-- c7-v5: filho–de– Avishua filho–de– Pinchas filho–de– Elazar filho–de– Aharon o–sacerdote o–chefe
+-- c7-v6: ele Ezra subiu de–Bavel e–ele– escriba hábil na–lei–de Mosheh que– deu YHWH Deus–de Yisrael e–deu– a–ele o–rei conforme–a–mão–de– YHWH seu–Deus sobre–ele todo o–seu–pedido ¶
+-- c7-v7: e–subiram de–os–filhos–de– Yisrael e–de– os–sacerdotes e–os–levitas e–os–cantores e–os–porteiros e–os–servidores–do–templo para– Yerushalaim no–ano– sete de–Artachshashta o–rei
+-- c7-v8: e–veio Yerushalaim no–mês o–quinto ele o–ano o–sétimo do–rei
+-- c7-v9: pois no–primeiro do–mês o–primeiro ele o–fundamento–de a–subida de–Bavel e–no–primeiro do–mês o–quinto veio a– Yerushalaim conforme–a–mão–de– seu–Deus a–boa sobre–ele
+-- c7-v10: pois Ezra preparou seu–coração para–buscar (a) a–lei–de YHWH e–para–fazer e–para–ensinar em–Yisrael estatuto e–juízo §
+-- c7-v11: e–esta cópia–de a–carta que deu o–rei Artachshashta a–Ezra o–sacerdote o–escriba escriba–de palavras–de mandamentos–de– YHWH e–seus–estatutos sobre– Yisrael ¶
+-- c7-v12: Artachshashta rei–de reis a–Ezra o–sacerdote escriba–de a–lei de– o–Deus–de os–céus perfeito e–agora
+-- c7-v13: por–mim foi–emitido decreto que todo– que–se–oferece em–meu–reino de– o–povo–de Yisrael e–seus–sacerdotes e–levitas para–ir a–Yerushalem contigo vá
+-- c7-v14: todo– porque que de– diante–de o–rei e–seus–sete conselheiros enviado para–investigar sobre– Yehud e–Yerushalem pela–lei–de teu–Deus que em–tua–mão
+-- c7-v15: e–para–levar prata e–ouro que– o–rei e–seus–conselheiros voluntariamente–ofereceram ao–Deus–de Yisrael que em–Yerushalem sua–habitação
+-- c7-v16: e–toda prata e–ouro que encontrares em–toda a–província–de Bavel com as–ofertas–voluntárias–de o–povo e–os–sacerdotes oferecendo–voluntariamente para–casa–de seu–Deus que em–Yerushalem
+-- c7-v17: todo– porque disto diligentemente comprarás com–a–prata esta touros carneiros cordeiros e–suas–ofertas–de–cereais e–suas–libações e–oferecerás eles sobre– o–altar que em–casa–de vosso–Deus que em–Yerushalem
+-- c7-v18: e–o–que que [sobre–ti] (sobre–ti) e–sobre– [teus–irmãos] (teus–irmãos) parecer–bom com–o–restante–de a–prata e–o–ouro para–fazer conforme–a–vontade–de vosso–Deus fareis
+-- c7-v19: e–os–utensílios que– estão–sendo–dados a–ti para–o–serviço–de casa–de teu–Deus entrega diante–de o–Deus–de Yerushalem
+-- c7-v20: e–o–restante–de necessidades–de casa–de teu–Deus que cair– a–ti para–dar darás de– casa–de tesouros–de o–rei
+-- c7-v21: e–por–mim eu Artachshashta o–rei foi–emitido decreto a–todos os–tesoureiros que em–além–do rio que todo– o–que vos–pedir Ezra o–sacerdote escriba–de a–lei de– o–Deus–de os–céus diligentemente que–seja–feito
+-- c7-v22: até– prata talentos cem e–até– trigo coros cem e–até– vinho batos cem e–até– batos–de azeite cem e–sal que– não prescrito
+-- c7-v23: todo– o–que de– decreto–de o–Deus–de os–céus que–seja–feito com–zelo para–casa–de o–Deus–de os–céus para–que– por–que haveria ira sobre– o–reino–de o–rei e–seus–filhos
+-- c7-v24: e–a–vós informamos que todo– sacerdotes e–levitas cantores porteiros servidores–do–templo e–servos–de casa–de o–Deus esta tributo imposto e–pedágio não é–permitido para–lançar sobre–eles
+-- c7-v25: e–tu Ezra conforme–a–sabedoria–de teu–Deus que– em–tua–mão nomearás juízes e–árbitros que– que–sejam [julgando] (julgando) a–todo– o–povo que em–além–do rio a–todos– os–que–conhecem as–leis–de teu–Deus e–ao–que não conhece ensinareis
+-- c7-v26: e–todo– o–que– não estiver fazendo a–lei de– teu–Deus e–a–lei de o–rei diligentemente julgamento que–seja feito dele seja para–morte seja [para–banimento] (para–banimento) seja– para–multa–de bens e–para–prisão ¶
+-- c7-v27: bendito YHWH Deus–de nossos–pais que deu como–isto no–coração–de o–rei para–glorificar (a) casa–de YHWH que em–Yerushalaim
+-- c7-v28: e–a–mim estendeu– misericórdia diante–de o–rei e–seus–conselheiros e–a–todos– os–príncipes–de o–rei os–poderosos e–eu fortaleci-me conforme–a–mão–de– YHWH meu–Deus sobre–mim e–reuni de–Yisrael chefes para–subir comigo ¶
+-- c8-v1: e–estes chefes–de seus–pais e–suas–genealogias os–que–subiram comigo no–reinado–de Artachshashta o–rei de–Bavel §
+-- c8-v2: dos–filhos–de Pinchas Gershom § dos–filhos–de Itamar Daniyel § dos–filhos–de David Chattush §
+-- c8-v3: dos–filhos–de Shekanyah § dos–filhos–de Parosh Zekaryah e–com–ele foram–registrados dos–homens cem e–cinquenta §
+-- c8-v4: dos–filhos–de Pachat– Moav Elyehoeinai filho–de– Zerachyah e–com–ele duzentos os–homens §
+-- c8-v5: dos–filhos–de Shekanyah filho–de– Yachaziel e–com–ele trezentos trezentos os–homens §
+-- c8-v6: e–dos–filhos–de Adin Eved filho–de– Yonatan e–com–ele cinquenta os–homens §
+-- c8-v7: e–dos–filhos–de Eilam Yeshayah filho–de– Atalyah e–com–ele setenta os–homens §
+-- c8-v8: e–dos–filhos–de Shefatyah Zevadyah filho–de– Mikhael e–com–ele oitenta os–homens §
+-- c8-v9: dos–filhos–de Yoav Ovadyah filho–de– Yechiel e–com–ele duzentos e–oito dez os–homens §
+-- c8-v10: e–dos–filhos–de Shelomit filho–de– Yosifyah e–com–ele cento e–sessenta os–homens §
+-- c8-v11: e–dos–filhos–de Bevai Zekaryah filho–de– Bevai e–com–ele vinte e–oito os–homens §
+-- c8-v12: e–dos–filhos–de Azgad Yochanan filho–de– o–pequeno e–com–ele cento e–dez os–homens §
+-- c8-v13: e–dos–filhos–de Adonikam os–últimos e–estes seus–nomes Elifelet Yeiel e–Shemayah e–com–eles sessenta os–homens §
+-- c8-v14: e–dos–filhos–de Bigvai Utai [e–Zavud] (e–Zakkur) e–com–ele setenta os–homens ¶
+-- c8-v15: e–reuni-os ao– rio o–que–vai a– Ahava e–acampamos lá dias três e–observei no–povo e–nos–sacerdotes e–dos–filhos–de Levi não– encontrei lá
+-- c8-v16: e–enviei a–Eliezer a–Ariel a–Shemayah e–a–Elnatan e–a–Yariv e–a–Elnatan e–a–Natan e–a–Zekaryah e–a–Meshullam chefes e–a–Yoyariv e–a–Elnatan instrutores
+-- c8-v17: [e–ordenei] (e–ordenei) a–eles a– Iddo o–chefe em–Kasifya o–lugar e–pus em–sua–boca palavras para–falar a– Iddo seus–irmãos [os–dados] (os–servidores–do–templo) em–Kasifya o–lugar para–trazer– a–nós ministros para–casa–de nosso–Deus
+-- c8-v18: e–trouxeram a–nós conforme–a–mão–de– nosso–Deus a–boa sobre–nós homem–de entendimento dos–filhos–de Machli filho–de– Levi filho–de– Yisrael e–Sherevyah e–seus–filhos e–seus–irmãos oito dez
+-- c8-v19: e–(a) Chashavyah e–com–ele Yeshayah dos–filhos–de Merari seus–irmãos e–seus–filhos vinte §
+-- c8-v20: e–dos– servidores–do–templo que–deu David e–os–príncipes para–o–serviço–de os–levitas servidores–do–templo duzentos e–vinte todos–eles foram–designados por–nomes
+-- c8-v21: e–proclamei lá jejum junto–ao– rio Ahava para–nos–humilhar diante–de nosso–Deus para–pedir dele caminho reto para–nós e–para–nossos–pequeninos e–para–todo– nossos–bens
+-- c8-v22: pois envergonhei-me de–pedir do– rei tropas e–cavaleiros para–nos–ajudar do–inimigo no–caminho pois– dissemos ao–rei dizendo a–mão–de– nosso–Deus sobre– todos– os–que–o–buscam para–bem e–seu–poder e–sua–ira sobre todos– os–que–o–abandonam
+-- c8-v23: e–jejuamos e–pedimos de–nosso–Deus sobre– isto e–ele–nos–atendeu a–nós
+-- c8-v24: e–separei dos–príncipes–de os–sacerdotes doze– dez para–Sherevyah Chashavyah e–com–eles de–seus–irmãos dez
+-- c8-v25: [e–pesei] (e–pesei) a–eles (a) a–prata e–(a) o–ouro e–(a) os–utensílios oferta–de casa–de– nosso–Deus que–ofereceram o–rei e–seus–conselheiros e–seus–príncipes e–todo– Yisrael os–encontrados
+-- c8-v26: e–pesei em– sua–mão prata talentos seis– centos e–cinquenta e–utensílios–de– prata cem por–talentos ouro cem talentos
+-- c8-v27: e–bacias–de ouro vinte por–dracmas mil e–utensílios–de bronze polido bom dois preciosos como–ouro
+-- c8-v28: e–disse a–eles vós santos a–YHWH e–os–utensílios santos e–a–prata e–o–ouro oferta–voluntária a–YHWH Deus–de vossos–pais
+-- c8-v29: vigiai e–guardai até– pesardes diante–de os–príncipes–de os–sacerdotes e–os–levitas e–os–príncipes–de– os–pais de–Yisrael em–Yerushalaim nas–câmaras–de casa–de YHWH
+-- c8-v30: e–receberam os–sacerdotes e–os–levitas o–peso–de a–prata e–o–ouro e–os–utensílios para–trazer a–Yerushalaim para–casa–de nosso–Deus ¶
+-- c8-v31: e–partimos do–rio–de Ahava no–doze– dez do–mês o–primeiro para–ir Yerushalaim e–a–mão–de– nosso–Deus estava sobre–nós e–livrou-nos da–mão–de inimigo e–emboscador sobre– o–caminho
+-- c8-v32: e–chegamos Yerushalaim e–descansamos lá dias três
+-- c8-v33: e–no–dia o–quarto foi–pesada a–prata e–o–ouro e–os–utensílios em–casa–de nosso–Deus em mão–de– Meremot filho–de– Uriyah o–sacerdote e–com–ele Elazar filho–de– Pinchas e–com–eles Yozavad filho–de– Yeshua e–Noadyah filho–de– Binnui os–levitas
+-- c8-v34: por–número por–peso para–tudo e–foi–escrito todo– o–peso no–tempo aquele ¶
+-- c8-v35: os–que–vieram do–cativeiro filhos–de– o–exílio ofereceram holocaustos ao–Deus–de Yisrael touros doze– dez por– todo– Yisrael carneiros noventa e–seis cordeiros setenta e–sete bodes–de pecado doze– dez tudo holocausto a–YHWH ¶
+-- c8-v36: e–deram (a) as–ordens–de o–rei aos–sátrapas–de o–rei e–aos–governadores–de além–do rio e–apoiaram (a) o–povo e–(a) casa–de– o–Deus §
+-- c9-v1: e–quando–terminaram estas–coisas aproximaram-se a–mim os–príncipes dizendo não– se–separou o–povo Yisrael e–os–sacerdotes e–os–levitas dos–povos–de as–terras conforme–suas–abominações do–cananeu do–hitita do–perizeu do–jebuseu do–amonita do–moabita do–egípcio e–do–amorreu
+-- c9-v2: pois– tomaram de–suas–filhas para–si e–para–seus–filhos e–misturou-se a–semente a–santa com–os–povos–de as–terras e–a–mão–de os–príncipes e–os–governadores foi na–transgressão esta primeiro §
+-- c9-v3: e–quando–ouvi (a) a–palavra esta rasguei (a) minha–veste e–meu–manto e–arranquei do–cabelo–de minha–cabeça e–minha–barba e–sentei-me espantado
+-- c9-v4: e–a–mim juntaram-se todo tremendo pelas–palavras–de Deus–de– Yisrael por–causa–de a–transgressão–de o–exílio e–eu sentado espantado até a–oferta–da–tarde–de a–tarde
+-- c9-v5: e–na–oferta–da–tarde–de a–tarde levantei-me de–minha–aflição e–com–rasgado minha–veste e–meu–manto e–ajoelhei-me sobre– meus–joelhos e–estendi minhas–mãos a– YHWH meu–Deus
+-- c9-v6: e–disse meu–Deus envergonho-me e–humilho-me para–levantar meu–Deus meu–rosto a–ti pois nossas–iniquidades multiplicaram-se sobre a–cabeça e–nossa–culpa cresceu até os–céus
+-- c9-v7: desde–os–dias–de nossos–pais nós em–culpa grande até o–dia este e–por–nossas–iniquidades fomos–dados nós nossos–reis nossos–sacerdotes na–mão–de reis–de as–terras pela–espada pelo–cativeiro e–pelo–despojo e–pela–vergonha–de rostos como–o–dia este
+-- c9-v8: e–agora como–um–breve– momento houve graça de–parte–de YHWH nosso–Deus para–deixar a–nós um–remanescente e–para–nos–dar– a–nós uma–estaca no–lugar–de sua–santidade para–iluminar nossos–olhos nosso–Deus e–para–nos–dar um–pouco–de–vida pouca em–nossa–servidão
+-- c9-v9: pois– servos nós e–em–nossa–servidão não nos–abandonou nosso–Deus e–estendeu– sobre–nós misericórdia diante–de reis–de Paras para–nos–dar– a–nós vida para–levantar (a) casa–de nosso–Deus e–para–restaurar (a) suas–ruínas e–para–nos–dar– a–nós um–muro em–Yehudah e–em–Yerushalaim §
+-- c9-v10: e–agora o–que– diremos nosso–Deus depois–de– isto pois abandonamos teus–mandamentos
+-- c9-v11: que mandaste pela–mão–de teus–servos os–profetas dizendo a–terra que vós entrais para–possui-la terra–de impureza é pela–impureza–de os–povos–de as–terras pelas–suas–abominações que encheram-na de–ponta a– ponta com–sua–impureza
+-- c9-v12: e–agora vossas–filhas não– deis a–seus–filhos e–suas–filhas não– tomeis para–vossos–filhos e–não– busqueis sua–paz e–seu–bem até– sempre para–que sejais–fortes e–comais (a) o–bom–de a–terra e–deixeis–de–herança a–vossos–filhos até– sempre
+-- c9-v13: e–depois–de tudo– o–que–veio sobre–nós por–nossas–obras as–más e–por–nossa–culpa a–grande pois tu nosso–Deus retiveste abaixo de–nossa–iniquidade e–deste a–nós um–remanescente como–este
+-- c9-v14: voltaremos para–violar teus–mandamentos e–para–nos–aliar–por–casamento com–os–povos–de as–abominações estas não te–irarias– contra–nós até– consumir para–não–haver remanescente e–escape ¶
+-- c9-v15: YHWH Deus–de Yisrael justo tu pois– restamos um–remanescente como–o–dia este eis-nos diante–de–ti em–nossa–culpa pois não–há para–estar diante–de–ti sobre– isto ¶
+-- c10-v1: e–enquanto–orava Ezra e–enquanto–confessava chorando e–lançando-se diante–de casa–de o–Deus ajuntaram-se a–ele de–Yisrael uma–assembleia muito– grande homens e–mulheres e–crianças pois– choraram o–povo muito– choro §
+-- c10-v2: e–respondeu Shekanyah filho–de– Yechiel dos–filhos–de [Olam] (Eilam) e–disse a–Ezra nós transgredimos contra–nosso–Deus e–tomamos mulheres estrangeiras dos–povos–de a–terra e–agora há– esperança para–Yisrael sobre– isto
+-- c10-v3: e–agora façamos– aliança com–nosso–Deus para–expulsar todas– as–mulheres e–os–nascidos delas pelo–conselho–de o–Senhor e–os–que–tremem pelo–mandamento–de nosso–Deus e–conforme–a–lei que–seja–feito
+-- c10-v4: levanta-te pois– sobre–ti a–coisa e–nós contigo sê–forte e–faze ¶
+-- c10-v5: e–levantou-se Ezra e–fez–jurar (a) os–príncipes–de os–sacerdotes os–levitas e–todo– Yisrael para–fazer conforme–a–palavra esta e–juraram
+-- c10-v6: e–levantou-se Ezra de–diante–de casa–de o–Deus e–foi para– a–câmara–de Yehochanan filho–de– Elyashiv e–foi lá pão não– comeu e–água não– bebeu pois lamentando pela– transgressão–de o–exílio §
+-- c10-v7: e–fizeram–passar uma–proclamação em–Yehudah e–Yerushalaim a–todos os–filhos–de o–exílio para–se–reunir Yerushalaim
+-- c10-v8: e–todo o–que não– viesse dentro–de–três os–dias pelo–conselho–de os–príncipes e–os–anciãos seria–confiscado todo– seus–bens e–ele seria–separado da–assembleia–de o–exílio §
+-- c10-v9: e–reuniram-se todos– homens–de– Yehudah e–Binyamin Yerushalaim dentro–de–três os–dias ele o–mês o–nono no–vinte do–mês e–sentaram-se todo– o–povo na–praça–de casa–de o–Deus tremendo por–causa–de– a–coisa e–das–chuvas ¶
+-- c10-v10: e–levantou-se Ezra o–sacerdote e–disse a–eles vós transgredistes e–tomastes mulheres estrangeiras para–acrescentar sobre– a–culpa–de Yisrael
+-- c10-v11: e–agora dai confissão a–YHWH Deus–de– vossos–pais e–fazei sua–vontade e–separai-vos dos–povos–de a–terra e–das– mulheres as–estrangeiras
+-- c10-v12: e–respondeu toda– a–assembleia e–disseram voz alta sim [conforme–tuas–palavras] (conforme–tua–palavra) sobre–nós para–fazer
+-- c10-v13: porém o–povo muito e–o–tempo de–chuvas e–não–há força para–estar de–fora e–a–tarefa não– para–dia um e–não para–dois pois– multiplicamos para–transgredir na–coisa esta
+-- c10-v14: que–fiquem– por–favor nossos–príncipes por–toda– a–assembleia e–todo o–que em–nossas–cidades o–que–tomou mulheres estrangeiras que–venha em–tempos designados e–com–eles os–anciãos–de– cidade e–cidade e–seus–juízes até para–fazer–retornar o–ardor–de ira–de– nosso–Deus de–nós até a–coisa esta ¶
+-- c10-v15: somente Yonatan filho–de– Asahel e–Yachzeyah filho–de– Tikvah opuseram-se a– isto e–Meshullam e–Shabetai o–levita ajudaram-nos
+-- c10-v16: e–fizeram–assim assim os–filhos–de o–exílio e–separaram-se Ezra o–sacerdote homens chefes–de os–pais para–casa–de seus–pais e–todos–eles por–nomes e–sentaram-se no–dia um do–mês o–décimo para–investigar a–coisa
+-- c10-v17: e–terminaram com–todos os–homens os–que–tomaram mulheres estrangeiras até dia um do–mês o–primeiro ¶
+-- c10-v18: e–foram–encontrados dos–filhos–de os–sacerdotes que tomaram mulheres estrangeiras dos–filhos–de Yeshua filho–de– Yotsadak e–seus–irmãos Maaseyah e–Eliezer e–Yariv e–Gedalyah
+-- c10-v19: e–deram sua–mão para–expulsar suas–mulheres e–culpados carneiro–de– rebanho por– sua–culpa §
+-- c10-v20: e–dos–filhos–de Immer Chanani e–Zevadyah §
+-- c10-v21: e–dos–filhos–de Charim Maaseyah e–Eliyah e–Shemayah e–Yechiel e–Uzziyah
+-- c10-v22: e–dos–filhos–de Pashchur Elyoeinai Maaseyah Yishmael Netanel Yozavad e–Elasah §
+-- c10-v23: e–dos– levitas Yozavad e–Shimei e–Kelayah ele Kelita Petachyah Yehudah e–Eliezer §
+-- c10-v24: e–dos– cantores Elyashiv e–dos– porteiros Shallum e–Telem e–Uri §
+-- c10-v25: e–de–Yisrael dos–filhos–de Parosh Ramyah e–Yizziyah e–Malkiyah e–Miyamin e–Elazar e–Malkiyah e–Benayah §
+-- c10-v26: e–dos–filhos–de Eilam Mattanyah Zekaryah e–Yechiel e–Avdi e–Yeremot e–Eliyah §
+-- c10-v27: e–dos–filhos–de Zattu Elyoeinai Elyashiv Mattanyah e–Yeremot e–Zavad e–Aziza §
+-- c10-v28: e–dos–filhos–de Bevai Yehochanan Chananyah Zabbai Atlai §
+-- c10-v29: e–dos–filhos–de Bani Meshullam Malluk e–Adayah Yashuv e–Sheal [Yeremot] (e–Ramot) §
+-- c10-v30: e–dos–filhos–de Pachat– Moav Adna e–Kelal Benayah Maaseyah Mattanyah Betsalel e–Binnui e–Menasheh §
+-- c10-v31: e–os–filhos–de Charim Eliezer Yishshiyah Malkiyah Shemayah Shimon
+-- c10-v32: Binyamin Malluk Shemaryah §
+-- c10-v33: dos–filhos–de Chashum Mattenai Mattattah Zavad Elifelet Yeremai Menasheh Shimei §
+-- c10-v34: dos–filhos–de Bani Maadai Amram e–Uel §
+-- c10-v35: Benayah Bedeyah [Kelohi] (Keluhu)
+-- c10-v36: Vanyah Meremot Elyashiv
+-- c10-v37: Mattanyah Mattenai [e–Yaasu] (e–Yaasai)
+-- c10-v38: e–Bani e–Binnui Shimei
+-- c10-v39: e–Shelemyah e–Natan e–Adayah
+-- c10-v40: Maknadebai Shashai Sharai
+-- c10-v41: Azarel e–Shelemyahu Shemaryah
+-- c10-v42: Shallum Amaryah Yosef §
+-- c10-v43: dos–filhos–de Nevo Yeiel Mattityah Zavad Zevina [Yadav] (Yaddai) e–Yoel Benayah
+-- c10-v44: todos– estes [tomadores] (tomaram) mulheres estrangeiras e–há deles mulheres e–tiveram filhos ¶
 
 BEGIN;
 -- 1500100101: וּבִשְׁנַ֣ת (H8141) → "E–no–ano–de" [opus-4.5-chirho]

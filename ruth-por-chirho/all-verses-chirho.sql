@@ -3,93 +3,93 @@
 -- — John 3:16
 
 -- RUTH - POR Combined
--- Generated: 2026-01-27T21:48:07Z
+-- Generated: 2026-01-27T22:22:23Z
 
--- RUTH c1-v1 - POR
--- RUTH c1-v2 - POR
--- RUTH c1-v3 - POR
--- RUTH c1-v4 - POR
--- RUTH c1-v5 - POR
--- RUTH c1-v6 - POR
--- RUTH c1-v7 - POR
--- RUTH c1-v8 - POR
--- RUTH c1-v9 - POR
--- RUTH c1-v10 - POR
--- RUTH c1-v11 - POR
--- RUTH c1-v12 - POR
--- RUTH c1-v13 - POR
--- RUTH c1-v14 - POR
--- RUTH c1-v15 - POR
--- RUTH c1-v16 - POR
--- RUTH c1-v17 - POR
--- RUTH c1-v18 - POR
--- RUTH c1-v19 - POR
--- RUTH c1-v20 - POR
--- RUTH c1-v21 - POR
--- RUTH c1-v22 - POR
--- RUTH c2-v1 - POR
--- RUTH c2-v2 - POR
--- RUTH c2-v3 - POR
--- RUTH c2-v4 - POR
--- RUTH c2-v5 - POR
--- RUTH c2-v6 - POR
--- RUTH c2-v7 - POR
--- RUTH c2-v8 - POR
--- RUTH c2-v9 - POR
--- RUTH c2-v10 - POR
--- RUTH c2-v11 - POR
--- RUTH c2-v12 - POR
--- RUTH c2-v13 - POR
--- RUTH c2-v14 - POR
--- RUTH c2-v15 - POR
--- RUTH c2-v16 - POR
--- RUTH c2-v17 - POR
--- RUTH c2-v18 - POR
--- RUTH c2-v19 - POR
--- RUTH c2-v20 - POR
--- RUTH c2-v21 - POR
--- RUTH c2-v22 - POR
--- RUTH c2-v23 - POR
--- RUTH c3-v1 - POR
--- RUTH c3-v2 - POR
--- RUTH c3-v3 - POR
--- RUTH c3-v4 - POR
--- RUTH c3-v5 - POR
--- RUTH c3-v6 - POR
--- RUTH c3-v7 - POR
--- RUTH c3-v8 - POR
--- RUTH c3-v9 - POR
--- RUTH c3-v10 - POR
--- RUTH c3-v11 - POR
--- RUTH c3-v12 - POR
--- RUTH c3-v13 - POR
--- RUTH c3-v14 - POR
--- RUTH c3-v15 - POR
--- RUTH c3-v16 - POR
--- RUTH c3-v17 - POR
--- RUTH c3-v18 - POR
--- RUTH c4-v1 - POR
--- RUTH c4-v2 - POR
--- RUTH c4-v3 - POR
--- RUTH c4-v4 - POR
--- RUTH c4-v5 - POR
--- RUTH c4-v6 - POR
--- RUTH c4-v7 - POR
--- RUTH c4-v8 - POR
--- RUTH c4-v9 - POR
--- RUTH c4-v10 - POR
--- RUTH c4-v11 - POR
--- RUTH c4-v12 - POR
--- RUTH c4-v13 - POR
--- RUTH c4-v14 - POR
--- RUTH c4-v15 - POR
--- RUTH c4-v16 - POR
--- RUTH c4-v17 - POR
--- RUTH c4-v18 - POR
--- RUTH c4-v19 - POR
--- RUTH c4-v20 - POR
--- RUTH c4-v21 - POR
--- RUTH c4-v22 - POR
+-- c1-v1: § E–foi em–dias–de julgar os–juízes e–foi fome na–terra e–foi um–homem de–Beit–Lekhem Yehudah para–peregrinar nos–campos–de Mo'av ele e–sua–esposa e–dois seus–filhos
+-- c1-v2: ¶ E–nome–de o–homem 'Elimelekh e–nome–de sua–esposa No'omi e–nome–de dois seus–filhos Makhlon e–Khilyon 'Efratim de–Beit–Lekhem Yehudah e–vieram campos–de Mo'av e–estavam lá
+-- c1-v3: ¶ E–morreu 'Elimelekh marido–de No'omi e–ficou ela e–dois seus–filhos
+-- c1-v4: ¶ E–tomaram para–eles esposas mo'avitas nome–de a–primeira 'Orpah e–nome–de a–segunda Rut e–habitaram lá como–dez anos
+-- c1-v5: ¶ E–morreram também ambos Makhlon e–Khilyon e–ficou a–mulher de–seus–dois filhos e–de–seu–marido
+-- c1-v6: ¶ E–levantou-se ela e–suas–noras e–voltou dos–campos–de Mo'av porque ouviu no–campo–de Mo'av que visitou YHWH (a) seu–povo para–dar a–eles pão
+-- c1-v7: ¶ E–saiu de o–lugar que estava lá e–duas suas–noras com–ela e–caminharam no–caminho para–voltar a terra–de Yehudah
+-- c1-v8: ¶ E–disse No'omi às–duas suas–noras ide voltai cada–mulher à–casa–de sua–mãe [que–faça] faça YHWH convosco bondade como fizestes com os–mortos e–comigo
+-- c1-v9: ¶ Dê YHWH a–vós e–encontreis descanso cada–mulher casa–de seu–marido e–beijou a–elas e–levantaram sua–voz e–choraram
+-- c1-v10: ¶ E–disseram a–ela porque contigo voltaremos ao–teu–povo
+-- c1-v11: ¶ E–disse No'omi voltai minhas–filhas por–quê ireis comigo ainda para–mim filhos em–minhas–entranhas e–seriam para–vós por–maridos
+-- c1-v12: ¶ Voltai minhas–filhas ide porque envelheci de–ser de–homem se dissesse há para–mim esperança também fosse esta–noite de–homem e–também desse–à–luz filhos
+-- c1-v13: ¶ Acaso–por–eles esperaríeis até que crescessem acaso–por–eles ficaríeis–presas para–não ser de–homem não minhas–filhas porque amargo para–mim muito mais–que–vós porque saiu contra–mim mão–de YHWH
+-- c1-v14: ¶ E–levantaram sua–voz e–choraram ainda e–beijou 'Orpah a–sua–sogra e–Rut apegou-se a–ela
+-- c1-v15: ¶ E–disse eis voltou tua–cunhada a seu–povo e–a seus–deuses volta após tua–cunhada
+-- c1-v16: ¶ E–disse Rut não me–forces a–mim a–abandonar-te para–voltar de–após–ti porque a onde fores irei e–onde pernottares pernottarei teu–povo meu–povo e–teu–Deus meu–Deus
+-- c1-v17: ¶ Onde morreres morrerei e–lá serei–sepultada assim faça YHWH a–mim e–assim acrescente se a–morte separar entre–mim e–entre–ti
+-- c1-v18: ¶ E–viu que esforçava-se ela para–ir com–ela e–cessou de–falar a–ela
+-- c1-v19: ¶ E–caminharam ambas até chegarem Beit–Lekhem e–foi quando–chegaram Beit–Lekhem e–agitou-se toda a–cidade por–elas e–disseram é–esta No'omi
+-- c1-v20: ¶ E–disse a–elas não me–chameis a–mim No'omi chamai a–mim Mara' porque amargurou Shaddai para–mim muito
+-- c1-v21: ¶ Eu cheia fui e–vazia trouxe–me YHWH por–quê me–chamais a–mim No'omi e–YHWH testemunhou contra–mim e–Shaddai afligiu a–mim
+-- c1-v22: § E–voltou No'omi e–Rut a–mo'avita sua–nora com–ela a–que–voltou dos–campos–de Mo'av e–elas vieram Beit–Lekhem no–início–de colheita–de cevadas
+-- c2-v1: § E–a–No'omi [conhecido] conhecido de–seu–marido homem poderoso de–valor da–família–de 'Elimelekh e–seu–nome Bo'az
+-- c2-v2: ¶ E–disse Rut a–mo'avita a No'omi deixa–me–ir por–favor ao–campo e–recolherei entre–as–espigas após aquele–que achar graça aos–seus–olhos e–disse a–ela vai minha–filha
+-- c2-v3: ¶ E–foi e–veio e–recolheu no–campo após os–ceifeiros e–aconteceu seu–acaso porção–de o–campo de–Bo'az que da–família–de 'Elimelekh
+-- c2-v4: ¶ E–eis Bo'az veio de–Beit–Lekhem e–disse aos–ceifeiros YHWH convosco e–disseram a–ele abençoe–te YHWH
+-- c2-v5: ¶ E–disse Bo'az ao–seu–servo o–que–estava sobre os–ceifeiros de–quem é–a–jovem esta
+-- c2-v6: ¶ E–respondeu o–servo o–que–estava sobre os–ceifeiros e–disse jovem mo'avita é–ela a–que–voltou com No'omi do–campo–de Mo'av
+-- c2-v7: ¶ E–disse deixa–me–recolher por–favor e–ajuntarei entre–os–feixes após os–ceifeiros e–veio e–permaneceu desde a–manhã e–até agora este seu–sentar a–casa pouco
+-- c2-v8: ¶ E–disse Bo'az a Rut acaso–não ouviste minha–filha não vás para–recolher em–campo outro e–também não passes daqui e–assim te–apegues com minhas–servas
+-- c2-v9: ¶ Teus–olhos no–campo que ceifarem e–irás após–elas acaso–não ordenei (a) os–servos para–não tocar–te e–tiveres–sede e–irás aos vasos e–beberás do–que tirarem os–servos
+-- c2-v10: ¶ E–caiu sobre sua–face e–prostrou-se à–terra e–disse a–ele por–quê achei graça aos–teus–olhos para–reconhecer–me e–eu estrangeira
+-- c2-v11: ¶ E–respondeu Bo'az e–disse a–ela contar foi–contado a–mim tudo que fizeste (a) tua–sogra após morte–de teu–marido e–abandonaste teu–pai e–tua–mãe e–terra–de teu–nascimento e–foste a povo que não conhecias ontem anteontem
+-- c2-v12: ¶ Recompense YHWH tua–obra e–seja teu–salário completo de–com YHWH Deus–de Yisra'el que vieste para–refugiar-te debaixo–de suas–asas
+-- c2-v13: ¶ E–disse ache–eu graça aos–teus–olhos meu–senhor porque consolaste–me e–porque falaste ao coração–de tua–serva e–eu não serei como–uma–de tuas–servas
+-- c2-v14: ¶ E–disse a–ela Bo'az ao–tempo–de a–refeição aproxima-te aqui e–comerás de o–pão e–molharás teu–bocado no–vinagre e–sentou-se ao–lado–de os–ceifeiros e–ofereceu a–ela grão–torrado e–comeu e–saciou-se e–sobrou
+-- c2-v15: ¶ E–levantou-se para–recolher e–ordenou Bo'az (a) seus–servos dizendo também entre os–feixes recolha e–não a–envergonheis
+-- c2-v16: ¶ E–também tirar tirareis para–ela de os–molhos e–deixareis e–recolherá e–não a–repreendais a–ela
+-- c2-v17: ¶ E–recolheu no–campo até a–tarde e–debulhou (a) o–que recolheu e–foi como–uma–efa de–cevadas
+-- c2-v18: ¶ E–levantou e–veio a–cidade e–viu sua–sogra (a) o–que recolheu e–tirou e–deu a–ela (a) o–que restou de–sua–saciedade
+-- c2-v19: ¶ E–disse a–ela sua–sogra onde recolheste hoje e–aonde trabalhaste seja o–que–te–reconheceu bendito e–contou a–sua–sogra (a) aquele–que trabalhou com–ele e–disse nome–de o–homem que trabalhei com–ele hoje Bo'az
+-- c2-v20: ¶ E–disse No'omi à–sua–nora bendito é–ele a–YHWH que não abandonou sua–bondade (a) os–vivos e–(a) os–mortos e–disse a–ela No'omi próximo a–nós o–homem de–nossos–redentores é–ele
+-- c2-v21: ¶ E–disse Rut a–mo'avita também que disse a–mim com os–servos que meus te–apegues até que terminarem (a) toda a–colheita que minha
+-- c2-v22: ¶ E–disse No'omi a Rut sua–nora bom minha–filha que saias com suas–servas e–não te–abordem a–ti em–campo outro
+-- c2-v23: § E–apegou-se às–servas–de Bo'az para–recolher até terminar–de colheita–de as–cevadas e–colheita–de os–trigos e–habitou com sua–sogra
+-- c3-v1: § E–disse a–ela No'omi sua–sogra minha–filha acaso–não buscarei para–ti descanso que será–bom para–ti
+-- c3-v2: ¶ E–agora acaso–não Bo'az nosso–parente que estiveste com suas–servas eis ele joeira (a) eira–de as–cevadas esta–noite
+-- c3-v3: ¶ E–banhar-te-ás e–ungir-te-ás e–colocarás [teu–manto] teus–mantos sobre–ti [e–descerás] e–descerás a–eira não te–faças–conhecida ao–homem até seu–terminar de–comer e–de–beber
+-- c3-v4: ¶ E–será quando–ele–deitar e–saberás (a) o–lugar que deitar lá e–virás e–descobrirás seus–pés [e–deitarás] e–deitarás e–ele dirá a–ti (a) o–que farás
+-- c3-v5: ¶ E–disse a–ela tudo que disseres a–mim farei
+-- c3-v6: ¶ E–desceu a–eira e–fez conforme–tudo que ordenou–lhe sua–sogra
+-- c3-v7: ¶ E–comeu Bo'az e–bebeu e–alegrou-se seu–coração e–veio para–deitar no–extremo–de a–pilha e–veio em–segredo e–descobriu seus–pés e–deitou
+-- c3-v8: ¶ E–foi no–meio–de a–noite e–estremeceu o–homem e–virou-se e–eis mulher deitada a–seus–pés
+-- c3-v9: ¶ E–disse quem és–tu e–disse eu Rut tua–serva e–estenderás tua–asa sobre tua–serva porque redentor és–tu
+-- c3-v10: ¶ E–disse bendita és–tu a–YHWH minha–filha fizeste–bem tua–bondade a–última mais–que a–primeira para–não ir após os–jovens se pobre e–se rico
+-- c3-v11: ¶ E–agora minha–filha não temas tudo que disseres farei para–ti porque sabe todo portão–de meu–povo que mulher–de valor és–tu
+-- c3-v12: ¶ E–agora porque verdadeiramente que [se] redentor eu e–também há redentor mais–próximo do–que–eu
+-- c3-v13: ¶ Pernoita esta–noite e–será pela–manhã se te–resgatar bom resgate e–se não quiser resgatar–te e–eu–te–resgatarei eu vive YHWH deita até a–manhã
+-- c3-v14: ¶ E–deitou [a–seus–pés] a–seus–pés até a–manhã e–levantou-se [antes–de] antes–de reconhecer homem (a) seu–próximo e–disse não seja–sabido que veio a–mulher a–eira
+-- c3-v15: ¶ E–disse dá o–manto que sobre–ti e–segura nele e–segurou nele e–mediu seis cevadas e–pôs sobre–ela e–veio a–cidade
+-- c3-v16: ¶ E–veio a sua–sogra e–disse quem és–tu minha–filha e–contou a–ela (a) tudo que fez a–ela o–homem
+-- c3-v17: ¶ E–disse seis as–cevadas estas deu a–mim porque disse a–mim não vás vazia a tua–sogra
+-- c3-v18: § E–disse senta minha–filha até que saibas como cairá o–assunto porque não descansará o–homem senão se terminar o–assunto hoje
+-- c4-v1: § E–Bo'az subiu ao–portão e–sentou-se lá e–eis o–redentor passando que falou Bo'az e–disse desvia senta aqui fulano sicrano e–desviou e–sentou
+-- c4-v2: ¶ E–tomou dez homens dos–anciãos–de a–cidade e–disse sentai aqui e–sentaram
+-- c4-v3: ¶ E–disse ao–redentor porção–de o–campo que de–nosso–irmão de–'Elimelekh vendeu No'omi a–que–voltou do–campo–de Mo'av
+-- c4-v4: ¶ E–eu disse descobrirei teu–ouvido dizendo compra diante–de os–que–habitam e–diante–de anciãos–de meu–povo se resgatarás resgata e–se não resgatará diz a–mim [e–saberei] e–saberei porque não–há além–de–ti para–resgatar e–eu após–ti e–disse eu resgatarei
+-- c4-v5: ¶ E–disse Bo'az no–dia–de comprares o–campo da–mão–de No'omi e–de Rut a–mo'avita esposa–de o–morto [comprei] compraste para–levantar nome–de o–morto sobre sua–herança
+-- c4-v6: ¶ E–disse o–redentor não posso [resgatar] resgatar para–mim para–não arruinar (a) minha–herança resgata para–ti tu (a) meu–resgate porque não posso resgatar
+-- c4-v7: ¶ E–esta antigamente em–Yisra'el sobre o–resgate e–sobre a–troca para–confirmar toda coisa tirava homem sua–sandália e–dava ao–seu–próximo e–esta a–atestação em–Yisra'el
+-- c4-v8: ¶ E–disse o–redentor a–Bo'az compra para–ti e–tirou sua–sandália
+-- c4-v9: ¶ E–disse Bo'az aos–anciãos e–a–todo o–povo testemunhas vós hoje que comprei (a) tudo que de–'Elimelekh e–(a) tudo que de–Khilyon e–Makhlon da–mão–de No'omi
+-- c4-v10: ¶ E–também (a) Rut a–mo'avita esposa–de Makhlon comprei para–mim por–esposa para–levantar nome–de o–morto sobre sua–herança e–não será–cortado nome–de o–morto de–com seus–irmãos e–do–portão–de seu–lugar testemunhas vós hoje
+-- c4-v11: ¶ E–disseram todo o–povo que no–portão e–os–anciãos testemunhas dê YHWH (a) a–mulher a–que–vem a tua–casa como–Rakhel e–como–Le'ah que construíram ambas (a) casa–de Yisra'el e–faz valor em–'Efratah e–proclama nome em–Beit–Lekhem
+-- c4-v12: ¶ E–seja tua–casa como–casa–de Perets que deu–à–luz Tamar a–Yehudah da semente que dará YHWH a–ti da jovem esta
+-- c4-v13: § E–tomou Bo'az (a) Rut e–foi a–ele por–esposa e–veio a–ela e–deu YHWH a–ela gravidez e–deu–à–luz filho
+-- c4-v14: ¶ E–disseram as–mulheres a No'omi bendito YHWH que não fez–cessar para–ti redentor hoje e–seja–chamado seu–nome em–Yisra'el
+-- c4-v15: ¶ E–será para–ti para–restaurador–de alma e–para–sustentar (a) tua–velhice porque tua–nora que te–ama deu–à–luz–ele que ela é–melhor para–ti do–que–sete filhos
+-- c4-v16: ¶ E–tomou No'omi (a) a–criança e–colocou–o em–seu–colo e–foi a–ele por–ama
+-- c4-v17: ¶ E–chamaram a–ele as–vizinhas nome dizendo nasceu filho a–No'omi e–chamaram seu–nome 'Oved ele pai–de Yishai pai–de David ¶
+-- c4-v18: § E–estas gerações–de Perets Perets gerou (a) Khetsron
+-- c4-v19: ¶ E–Khetsron gerou (a) Ram e–Ram gerou (a) 'Amminadav
+-- c4-v20: ¶ E–'Amminadav gerou (a) Nakhshon e–Nakhshon gerou (a) Salmah
+-- c4-v21: ¶ E–Salmon gerou (a) Bo'az e–Bo'az gerou (a) 'Oved
+-- c4-v22: ¶ E–'Oved gerou (a) Yishai e–Yishai gerou (a) David
 
 BEGIN;
 -- 0800100101: וַיְהִ֗י (H1961) → "§ E–foi" [opus-4.5-chirho]

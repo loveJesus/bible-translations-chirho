@@ -3,205 +3,205 @@
 -- — John 3:16
 
 -- HOSEA - POR Combined
--- Generated: 2026-01-27T21:47:02Z
+-- Generated: 2026-01-27T22:20:32Z
 
--- HOSEA c1-v1 - POR
--- HOSEA c1-v2 - POR
--- HOSEA c1-v3 - POR
--- HOSEA c1-v4 - POR
--- HOSEA c1-v5 - POR
--- HOSEA c1-v6 - POR
--- HOSEA c1-v7 - POR
--- HOSEA c1-v8 - POR
--- HOSEA c1-v9 - POR
--- HOSEA c1-v10 - POR
--- HOSEA c1-v11 - POR
--- HOSEA c2-v1 - POR
--- HOSEA c2-v2 - POR
--- HOSEA c2-v3 - POR
--- HOSEA c2-v4 - POR
--- HOSEA c2-v5 - POR
--- HOSEA c2-v6 - POR
--- HOSEA c2-v7 - POR
--- HOSEA c2-v8 - POR
--- HOSEA c2-v9 - POR
--- HOSEA c2-v10 - POR
--- HOSEA c2-v11 - POR
--- HOSEA c2-v12 - POR
--- HOSEA c2-v13 - POR
--- HOSEA c2-v14 - POR
--- HOSEA c2-v15 - POR
--- HOSEA c2-v16 - POR
--- HOSEA c2-v17 - POR
--- HOSEA c2-v18 - POR
--- HOSEA c2-v19 - POR
--- HOSEA c2-v20 - POR
--- HOSEA c2-v21 - POR
--- HOSEA c2-v22 - POR
--- HOSEA c2-v23 - POR
--- HOSEA c3-v1 - POR
--- HOSEA c3-v2 - POR
--- HOSEA c3-v3 - POR
--- HOSEA c3-v4 - POR
--- HOSEA c3-v5 - POR
--- HOSEA c4-v1 - POR
--- HOSEA c4-v2 - POR
--- HOSEA c4-v3 - POR
--- HOSEA c4-v4 - POR
--- HOSEA c4-v5 - POR
--- HOSEA c4-v6 - POR
--- HOSEA c4-v7 - POR
--- HOSEA c4-v8 - POR
--- HOSEA c4-v9 - POR
--- HOSEA c4-v10 - POR
--- HOSEA c4-v11 - POR
--- HOSEA c4-v12 - POR
--- HOSEA c4-v13 - POR
--- HOSEA c4-v14 - POR
--- HOSEA c4-v15 - POR
--- HOSEA c4-v16 - POR
--- HOSEA c4-v17 - POR
--- HOSEA c4-v18 - POR
--- HOSEA c4-v19 - POR
--- HOSEA c5-v1 - POR
--- HOSEA c5-v2 - POR
--- HOSEA c5-v3 - POR
--- HOSEA c5-v4 - POR
--- HOSEA c5-v5 - POR
--- HOSEA c5-v6 - POR
--- HOSEA c5-v7 - POR
--- HOSEA c5-v8 - POR
--- HOSEA c5-v9 - POR
--- HOSEA c5-v10 - POR
--- HOSEA c5-v11 - POR
--- HOSEA c5-v12 - POR
--- HOSEA c5-v13 - POR
--- HOSEA c5-v14 - POR
--- HOSEA c5-v15 - POR
--- HOSEA c6-v1 - POR
--- HOSEA c6-v2 - POR
--- HOSEA c6-v3 - POR
--- HOSEA c6-v4 - POR
--- HOSEA c6-v5 - POR
--- HOSEA c6-v6 - POR
--- HOSEA c6-v7 - POR
--- HOSEA c6-v8 - POR
--- HOSEA c6-v9 - POR
--- HOSEA c6-v10 - POR
--- HOSEA c6-v11 - POR
--- HOSEA c7-v1 - POR
--- HOSEA c7-v2 - POR
--- HOSEA c7-v3 - POR
--- HOSEA c7-v4 - POR
--- HOSEA c7-v5 - POR
--- HOSEA c7-v6 - POR
--- HOSEA c7-v7 - POR
--- HOSEA c7-v8 - POR
--- HOSEA c7-v9 - POR
--- HOSEA c7-v10 - POR
--- HOSEA c7-v11 - POR
--- HOSEA c7-v12 - POR
--- HOSEA c7-v13 - POR
--- HOSEA c7-v14 - POR
--- HOSEA c7-v15 - POR
--- HOSEA c7-v16 - POR
--- HOSEA c8-v1 - POR
--- HOSEA c8-v2 - POR
--- HOSEA c8-v3 - POR
--- HOSEA c8-v4 - POR
--- HOSEA c8-v5 - POR
--- HOSEA c8-v6 - POR
--- HOSEA c8-v7 - POR
--- HOSEA c8-v8 - POR
--- HOSEA c8-v9 - POR
--- HOSEA c8-v10 - POR
--- HOSEA c8-v11 - POR
--- HOSEA c8-v12 - POR
--- HOSEA c8-v13 - POR
--- HOSEA c8-v14 - POR
--- HOSEA c9-v1 - POR
--- HOSEA c9-v2 - POR
--- HOSEA c9-v3 - POR
--- HOSEA c9-v4 - POR
--- HOSEA c9-v5 - POR
--- HOSEA c9-v6 - POR
--- HOSEA c9-v7 - POR
--- HOSEA c9-v8 - POR
--- HOSEA c9-v9 - POR
--- HOSEA c9-v10 - POR
--- HOSEA c9-v11 - POR
--- HOSEA c9-v12 - POR
--- HOSEA c9-v13 - POR
--- HOSEA c9-v14 - POR
--- HOSEA c9-v15 - POR
--- HOSEA c9-v16 - POR
--- HOSEA c9-v17 - POR
--- HOSEA c10-v1 - POR
--- HOSEA c10-v2 - POR
--- HOSEA c10-v3 - POR
--- HOSEA c10-v4 - POR
--- HOSEA c10-v5 - POR
--- HOSEA c10-v6 - POR
--- HOSEA c10-v7 - POR
--- HOSEA c10-v8 - POR
--- HOSEA c10-v9 - POR
--- HOSEA c10-v10 - POR
--- HOSEA c10-v11 - POR
--- HOSEA c10-v12 - POR
--- HOSEA c10-v13 - POR
--- HOSEA c10-v14 - POR
--- HOSEA c10-v15 - POR
--- HOSEA c11-v1 - POR
--- HOSEA c11-v2 - POR
--- HOSEA c11-v3 - POR
--- HOSEA c11-v4 - POR
--- HOSEA c11-v5 - POR
--- HOSEA c11-v6 - POR
--- HOSEA c11-v7 - POR
--- HOSEA c11-v8 - POR
--- HOSEA c11-v9 - POR
--- HOSEA c11-v10 - POR
--- HOSEA c11-v11 - POR
--- HOSEA c11-v12 - POR
--- HOSEA c12-v1 - POR
--- HOSEA c12-v2 - POR
--- HOSEA c12-v3 - POR
--- HOSEA c12-v4 - POR
--- HOSEA c12-v5 - POR
--- HOSEA c12-v6 - POR
--- HOSEA c12-v7 - POR
--- HOSEA c12-v8 - POR
--- HOSEA c12-v9 - POR
--- HOSEA c12-v10 - POR
--- HOSEA c12-v11 - POR
--- HOSEA c12-v12 - POR
--- HOSEA c12-v13 - POR
--- HOSEA c12-v14 - POR
--- HOSEA c13-v1 - POR
--- HOSEA c13-v2 - POR
--- HOSEA c13-v3 - POR
--- HOSEA c13-v4 - POR
--- HOSEA c13-v5 - POR
--- HOSEA c13-v6 - POR
--- HOSEA c13-v7 - POR
--- HOSEA c13-v8 - POR
--- HOSEA c13-v9 - POR
--- HOSEA c13-v10 - POR
--- HOSEA c13-v11 - POR
--- HOSEA c13-v12 - POR
--- HOSEA c13-v13 - POR
--- HOSEA c13-v14 - POR
--- HOSEA c13-v15 - POR
--- HOSEA c13-v16 - POR
--- HOSEA c14-v1 - POR
--- HOSEA c14-v2 - POR
--- HOSEA c14-v3 - POR
--- HOSEA c14-v4 - POR
--- HOSEA c14-v5 - POR
--- HOSEA c14-v6 - POR
--- HOSEA c14-v7 - POR
--- HOSEA c14-v8 - POR
--- HOSEA c14-v9 - POR
+-- c1-v1: Palavra–de YHWH que foi a Hoshea filho–de Beeri nos–dias–de Uziyahu Yotam Achaz Yechizqiyahu reis–de Yehudah e–nos–dias–de Yarov'am filho–de Yoash rei–de Yisrael
+-- c1-v2: Começo–de falar YHWH por–Hoshea ¶ E–disse YHWH a Hoshea Vai toma para–ti mulher–de prostituições e–filhos–de prostituições porque prostituir prostituirá a–terra de–após YHWH
+-- c1-v3: E–foi e–tomou (a) Gomer filha–de Divlayim e–concebeu e–deu–à–luz para–ele filho
+-- c1-v4: E–disse YHWH a–ele Chama nome–dele Yizre'el porque ainda pouco e–visitarei (a) sangues–de Yizre'el sobre casa–de Yehu e–farei–cessar reino–de casa–de Yisrael
+-- c1-v5: E–será no–dia aquele e–quebrarei (a) arco–de Yisrael no–vale–de Yizre'el
+-- c1-v6: E–concebeu ainda e–deu–à–luz filha E–disse a–ele Chama nome–dela Lo–Ruchamah porque não continuarei ainda ter–compaixão (a) casa–de Yisrael porque carregar carregarei para–eles
+-- c1-v7: E–(a) casa–de Yehudah terei–compaixão e–salvarei–eles por–YHWH Deus–deles e–não salvarei–eles por–arco e–por–espada e–por–guerra por–cavalos e–por–cavaleiros
+-- c1-v8: E–desmamou (a) Lo–Ruchamah e–concebeu e–deu–à–luz filho
+-- c1-v9: E–disse Chama nome–dele Lo–Ammi porque vocês não povo–meu e–eu não serei para–vocês §
+-- c1-v10: E–será número–de filhos–de Yisrael como–areia–de o–mar que não será–medida e–não será–contada E–será no–lugar que será–dito para–eles não povo–meu vocês será–dito para–eles filhos–de Deus vivo
+-- c1-v11: E–reunir–se–ão filhos–de Yehudah e–filhos–de Yisrael juntamente e–colocarão para–si cabeça uma e–subirão de a–terra porque grande dia–de Yizre'el
+-- c2-v1: Dizei para–irmãos–de–vocês Ammi e–para–irmãs–de–vocês Ruchamah
+-- c2-v2: Contendei com–mãe–de–vocês contendei porque ela não mulher–minha e–eu não marido–dela e–remova prostituições–dela de–face–dela e–adultérios–dela de–entre seios–dela
+-- c2-v3: para–que–não eu–a–despa nua e–a–ponha como–dia–de nascimento–dela e–a–faça como–o–deserto e–a–ponha como–terra–de sequidão e–a–mate com–a–sede
+-- c2-v4: E–(a) filhos–dela não terei–compaixão porque filhos–de prostituições eles
+-- c2-v5: Porque prostituiu–se mãe–deles envergonhou a–que–os–concebeu porque disse Irei após amantes–meus dadores–de pão–meu e–águas–minhas lã–minha e–linho–meu óleo–meu e–bebidas–minhas
+-- c2-v6: Por–isso eis–me cercando (a) caminho–teu com–os–espinhos e–cercarei (a) cerca–dela e–veredas–dela não encontrará
+-- c2-v7: E–perseguirá (a) amantes–dela e–não alcançará eles e–buscará–eles e–não encontrará e–dirá Irei e–voltarei a marido–meu o–primeiro porque bom para–mim então do–que–agora
+-- c2-v8: E–ela não sabia que eu dei para–ela o–cereal e–o–vinho–novo e–o–azeite e–prata multipliquei para–ela e–ouro fizeram para–o–Baal
+-- c2-v9: Por–isso voltarei e–tomarei cereal–meu em–tempo–seu e–vinho–novo–meu em–tempo–seu e–arrebatarei lã–minha e–linho–meu para–cobrir (a) nudez–dela
+-- c2-v10: E–agora descobrirei (a) vergonha–dela aos–olhos–de amantes–dela e–homem não livrará–ela de–mão–minha
+-- c2-v11: E–farei–cessar toda alegria–dela festa–dela lua–nova–dela e–sábado–dela e–toda solenidade–dela
+-- c2-v12: E–destruirei videira–dela e–figueira–dela que disse Pagamento elas para–mim que deram para–mim amantes–meus e–farei–elas para–floresta e–comerá–elas fera–de o–campo
+-- c2-v13: E–visitarei sobre–ela (a) dias–de os–Baals que queimava–incenso para–eles e–adornava–se argola–dela e–joias–dela e–ia após amantes–dela e–(a)–mim esqueceu declaração–de YHWH ¶
+-- c2-v14: Por–isso eis eu seduzindo–ela e–levarei–ela o–deserto e–falarei ao coração–dela
+-- c2-v15: E–darei para–ela (a) vinhas–dela de–lá e–(a) vale–de Achor para–porta–de esperança e–responderá lá como–dias–de juventude–dela e–como–dia–de subir–dela de–terra–de Mitsrayim §
+-- c2-v16: E–será no–dia aquele declaração–de YHWH chamarás–me Marido–meu e–não chamarás–me para–mim mais Baal–meu
+-- c2-v17: E–removerei (a) nomes–de os–Baals de–boca–dela e–não serão–lembrados mais por–nome–deles
+-- c2-v18: E–cortarei para–eles aliança no–dia aquele com fera–de o–campo e–com ave–de os–céus e–réptil–de a–terra e–arco e–espada e–guerra quebrarei de a–terra e–deitar–os–ei em–segurança
+-- c2-v19: E–desposar–te–ei para–mim para–sempre e–desposar–te–ei para–mim em–justiça e–em–juízo e–em–bondade e–em–misericórdias
+-- c2-v20: E–desposar–te–ei para–mim em–fidelidade e–conhecerás (a) YHWH §
+-- c2-v21: E–será no–dia aquele responderei declaração–de YHWH responderei (a) os–céus e–eles responderão (a) a–terra
+-- c2-v22: E–a–terra responderá (a) o–cereal e–(a) o–vinho–novo e–(a) o–azeite e–eles responderão (a) Yizre'el
+-- c2-v23: E–semeiarei–ela para–mim na–terra e–terei–compaixão–de (a) Lo Ruchamah e–direi para–Lo Ammi Povo–meu tu e–ele dirá Deus–meu ¶
+-- c3-v1: E–disse YHWH a–mim Ainda vai ama mulher amada–de companheiro e–adúltera como–amor–de YHWH (a) filhos–de Yisrael e–eles virando–se a deuses outros e–amantes–de bolos–de uvas
+-- c3-v2: E–comprei–ela para–mim por–quinze dez prata e–homer–de cevada e–letek–de cevada
+-- c3-v3: E–disse a–ela Dias muitos habitarás para–mim não te–prostituirás e–não serás para–homem e–também eu para–ti
+-- c3-v4: Porque dias muitos habitarão filhos–de Yisrael sem rei e–sem príncipe e–sem sacrifício e–sem coluna e–sem éfode e–terafins
+-- c3-v5: Depois voltarão filhos–de Yisrael e–buscarão (a) YHWH Deus–deles e–(a) David rei–deles e–temerão a YHWH e–a bondade–dele no–fim–de os–dias ¶
+-- c4-v1: Ouvi palavra–de YHWH filhos–de Yisrael porque contenda para–YHWH com habitantes–de a–terra porque não–há verdade e–não–há bondade e–não–há conhecimento–de Deus na–terra
+-- c4-v2: Amaldiçoar e–mentir e–matar e–roubar e–adulterar invadiram e–sangues em–sangues tocaram
+-- c4-v3: Por isso lamentará a–terra e–definhará todo habitante nela com–fera–de o–campo e–com–ave–de os–céus e–também peixes–de o–mar serão–retirados
+-- c4-v4: Mas homem não contenda e–não repreenda homem e–povo–teu como–contendentes–com sacerdote
+-- c4-v5: E–tropeçarás o–dia e–tropeçará também profeta contigo noite e–destruirei mãe–tua
+-- c4-v6: Foram–destruídos povo–meu por–falta–de o–conhecimento porque tu o–conhecimento rejeitaste e–rejeitarei–te de–sacerdotear para–mim e–esqueceste lei–de Deus–teu esquecerei filhos–teus também eu
+-- c4-v7: Como–multiplicar–deles assim pecaram para–mim glória–deles em–vergonha trocarei
+-- c4-v8: Pecado–de povo–meu comem e–para iniquidade–deles levantam alma–dele
+-- c4-v9: E–será como–o–povo como–o–sacerdote e–visitarei sobre–ele caminhos–dele e–obras–dele farei–voltar para–ele
+-- c4-v10: E–comerão e–não fartar–se–ão prostituíram–se e–não multiplicar–se–ão porque (a) YHWH abandonaram para–guardar
+-- c4-v11: Prostituição e–vinho e–vinho–novo tomam coração
+-- c4-v12: Povo–meu na–madeira–dele consulta e–vara–dele declara para–ele porque espírito–de prostituições desviou e–prostituíram–se de–debaixo–de Deus–deles
+-- c4-v13: Sobre cabeças–de as–montanhas sacrificam e–sobre as–colinas queimam–incenso debaixo–de carvalho e–álamo e–terebinto porque boa sombra–dela por isso prostituem–se filhas–de–vocês e–noras–de–vocês adulteram
+-- c4-v14: Não visitarei sobre filhas–de–vocês porque prostituem–se e–sobre noras–de–vocês porque adulteram porque eles com as–prostitutas separam–se e–com as–prostitutas–cultuais sacrificam e–povo não entende será–derrubado
+-- c4-v15: Se te–prostituís tu Yisrael não seja–culpado Yehudah e–não entreis Guilgal e–não subais Beit–Aven e–não jureis Vive YHWH
+-- c4-v16: Porque como–novilha rebelde rebelde Yisrael agora apascentará–eles YHWH como–cordeiro no–lugar–amplo
+-- c4-v17: Unido ídolos Efrayim deixa para–ele
+-- c4-v18: Acabou bebedeira–deles prostituir prostituíram–se amam Dai vergonha escudos–dela
+-- c4-v19: Amarrou vento ela nas–asas–dela e–envergonhar–se–ão de–sacrifícios–deles §
+-- c5-v1: Ouvi isto os–sacerdotes e–atendei casa–de Yisrael e–casa–de o–rei dai–ouvidos porque para–vocês o–juízo porque laço fostes para–Mitspa e–rede estendida sobre Tabor
+-- c5-v2: E–matando desviados aprofundaram e–eu correção para–todos–eles
+-- c5-v3: Eu conheci Efrayim e–Yisrael não escondido de–mim porque agora prostituíste Efrayim contaminou–se Yisrael
+-- c5-v4: Não permitem obras–deles para–voltar a Deus–deles porque espírito–de prostituições no–meio–deles e–(a) YHWH não conhecem
+-- c5-v5: E–responderá soberba–de Yisrael na–face–dele e–Yisrael e–Efrayim tropeçarão na–iniquidade–deles tropeçará também Yehudah com–eles
+-- c5-v6: Com–ovelhas–deles e–com–gado–deles irão para–buscar (a) YHWH e–não encontrarão retirou–se deles
+-- c5-v7: Com–YHWH agiram–traicoeiramente porque filhos estrangeiros geraram agora devorará–eles mês (a) porções–deles §
+-- c5-v8: Tocai shofar em–Guivah trombeta em–Ramah Gritai Beit–Aven atrás–de–ti Binyamin
+-- c5-v9: Efrayim para–desolação será no–dia–de repreensão nas–tribos–de Yisrael fiz–conhecer certeza
+-- c5-v10: Foram príncipes–de Yehudah como–removedores–de limite sobre–eles derramarei como–as–águas ira–minha
+-- c5-v11: Oprimido Efrayim quebrado juízo porque resolveu andar após mandamento
+-- c5-v12: E–eu como–traça para–Efrayim e–como–podrídaõ para–casa–de Yehudah
+-- c5-v13: E–viu Efrayim (a) doença–dele e–Yehudah (a) ferida–dele e–foi Efrayim a Assur e–enviou a rei Yarev e–ele não poderá curar para–vocês e–não afastará de–vocês ferida
+-- c5-v14: Porque eu como–leão para–Efrayim e–como–leãozinho para–casa–de Yehudah eu eu despedaçarei e–irei carregarei e–não–há salvador
+-- c5-v15: Irei voltarei a lugar–meu até que reconheçam–culpa e–busquem face–minha na–angústia para–eles buscar–me–ão–cedo
+-- c6-v1: Vinde e–voltemos a YHWH porque ele despedaçou e–nos–curará feriu e–nos–atará
+-- c6-v2: Nos–vivificará depois–de–dois–dias no–dia o–terceiro nos–levantará e–viveremos diante–dele
+-- c6-v3: E–conheçamos prossigamos para–conhecer (a) YHWH como–aurora certa saída–dele e–virá como–chuva para–nós como–chuva–serdia rega terra
+-- c6-v4: Que farei para–ti Efrayim Que farei para–ti Yehudah E–bondade–de–vocês como–nuvem–de manhã e–como–orvalho matutino vai–se
+-- c6-v5: Por isso cortei por–os–profetas matei–eles por–palavras–de boca–minha e–juízos–teus luz sairá
+-- c6-v6: Porque bondade quero e–não sacrifício e–conhecimento–de Deus mais–que–holocaustos
+-- c6-v7: E–eles como–Adam transgrediram aliança lá agiram–traicoeiramente comigo
+-- c6-v8: Guilad cidade–de fazedores–de iniquidade manchada de–sangue
+-- c6-v9: E–como–esperar–de homem bandos bando–de sacerdotes caminho matam Shekem porque infamidade fizeram
+-- c6-v10: Em–casa–de Yisrael vi [horrores] horror lá prostituição para–Efrayim contaminou–se Yisrael
+-- c6-v11: Também Yehudah pôs ceifa para–ti quando–voltar–eu cativeiro–de povo–meu ¶
+-- c7-v1: Quando–curar–eu para–Yisrael e–revelou–se iniquidade–de Efrayim e–maldades–de Shomron porque praticam falsidade e–ladrão entra despoja bando na–rua
+-- c7-v2: E–não dizem ao–coração–deles toda maldade–deles lembrei agora cercaram–eles obras–deles diante face–minha estavam
+-- c7-v3: Em–maldade–deles alegram rei e–em–mentiras–deles príncipes
+-- c7-v4: Todos–eles adúlteros como forno ardente de–padeiro cessa de–despertar de–amassar massa até levedar–dela
+-- c7-v5: Dia–de rei–nosso adoeceram príncipes calor–de de–vinho estendeu mão–dele (a) zombadores
+-- c7-v6: Porque aproximaram como–forno coração–deles na–emboscada–deles toda a–noite dorme padeiro–deles manhã ele queima como–fogo–de chama
+-- c7-v7: Todos–eles aquecem–se como–forno e–devoram (a) juízes–deles todos reis–deles caíram não–há clamando entre–eles a–mim
+-- c7-v8: Efrayim entre–os–povos ele mistura–se Efrayim foi bolo não virado
+-- c7-v9: Devoraram estrangeiros força–dele e–ele não sabe também cabelos–brancos espalharam–se nele e–ele não sabe
+-- c7-v10: E–testemunhou soberba–de Yisrael na–face–dele e–não voltaram a YHWH Deus–deles e–não buscaram–o em–tudo isto
+-- c7-v11: E–foi Efrayim como–pomba tóla sem coração Mitsrayim chamam Assur foram
+-- c7-v12: Quando forem estenderei sobre–eles rede–minha como–ave–de os–céus farei–descer–eles castigarei–eles conforme–ouvir para–congregação–deles §
+-- c7-v13: Ai para–eles porque fugiram de–mim destruição para–eles porque transgrediram contra–mim e–eu redimi–eles e–eles falaram contra–mim mentiras
+-- c7-v14: E–não clamaram a–mim no–coração–deles mas uivam sobre camas–deles por cereal e–vinho–novo ajuntam–se afastam–se de–mim
+-- c7-v15: E–eu corrigi fortaleci braços–deles e–contra–mim planejam mal
+-- c7-v16: Voltam não para–o–alto foram como–arco enganoso cairão por–espada príncipes–deles por–ira–de língua–deles isto zombária–deles na–terra–de Mitsrayim
+-- c8-v1: A boca–tua shofar como–águia sobre casa–de YHWH por–causa–de transgrediram aliança–minha e–contra lei–minha rebelaram–se
+-- c8-v2: A–mim clamarão Deus–meu conhecemos–te Yisrael
+-- c8-v3: Rejeitou Yisrael bem inimigo perseguirá–o
+-- c8-v4: Eles fizeram–reis e–não de–mim fizeram–príncipes e–não soube prata–deles e–ouro–deles fizeram para–si ídolos para–que seja–cortado
+-- c8-v5: Rejeitou bezerro–teu Shomron acendeu–se ira–minha neles até quando não poderão inocência
+-- c8-v6: Porque de–Yisrael e–ele artesão fez–o e–não Deus ele porque pedaços será bezerro–de Shomron
+-- c8-v7: Porque vento semeiam e–tempestade colherão colmo não–há para–ele broto não fará farinha talvez fizer estrangeiros engolirão–o
+-- c8-v8: Engolido–foi Yisrael agora foram entre–as–nações como–vaso não–há prazer nele
+-- c8-v9: Porque eles subiram Assur jumento–selvagem solitário para–si Efrayim pagaram amores
+-- c8-v10: Também ainda–que paguem entre–as–nações agora reunirei–eles e–começarão pouco de–carga–de rei príncipes
+-- c8-v11: Porque multiplicou Efrayim altares para–pecar foram para–ele altares para–pecar
+-- c8-v12: [escreverei] Escrevo para–ele [miríades] miríades–de lei–minha como estranho foram–consideradas
+-- c8-v13: Sacrifícios–de ofertas–minhas sacrificam carne e–comem YHWH não aceita–eles agora lembrará iniquidade–deles e–visitará pecados–deles eles Mitsrayim voltarão
+-- c8-v14: E–esqueceu Yisrael (a) fazedor–dele e–construiu templos e–Yehudah multiplicou cidades fortificadas e–enviarei fogo em–cidades–dele e–devorará palácios–dela §
+-- c9-v1: Não te–alegres Yisrael até exultação como–os–povos porque prostituíste–te de–sobre Deus–teu amaste pagamento sobre todas eiras–de cereal
+-- c9-v2: Eira e–lagar não alimentará–eles e–vinho–novo falhará nela
+-- c9-v3: Não habitarão na–terra–de YHWH e–voltará Efrayim Mitsrayim e–em–Assur impuro comerão
+-- c9-v4: Não derramarão para–YHWH vinho e–não serão–doces para–ele sacrifícios–deles como–pão–de enlutados para–eles todos comedores–dele serão–contaminados porque pão–deles para–alma–deles não entrará casa–de YHWH
+-- c9-v5: Que fareis para–dia–de solenidade e–para–dia–de festa–de YHWH
+-- c9-v6: Porque eis foram de–destruição Mitsrayim ajuntará–eles Mof enterrará–eles desejo–de para–prata–deles urtiga herdará–eles espinho em–tendas–deles
+-- c9-v7: Vieram dias–de a–visitação vieram dias–de a–retribuição saberá Yisrael tolo o–profeta louco homem–de o–espírito por multidão–de iniquidade–tua e–grande hostilidade
+-- c9-v8: Atalaia Efrayim com Deus–meu profeta laço–de passarinheiro sobre todos caminhos–dele hostilidade em–casa–de Deus–dele
+-- c9-v9: Aprofundaram corromperam–se como–dias–de Guivah lembrará iniquidade–deles visitará pecados–deles §
+-- c9-v10: Como–uvas no–deserto encontrei Yisrael como–primícia na–figueira no–princípio–dela vi pais–de–vocês eles vieram Baal–Peor e–consagraram–se para–a–vergonha e–tornaram–se abominações como–amor–deles
+-- c9-v11: Efrayim como–ave voará glória–deles de–nascimento e–de–ventre e–de–concepção
+-- c9-v12: Porque se criarem (a) filhos–deles e–deixarei–os–sem–filhos de–homem porque também ai para–eles quando–afastar–me–eu deles
+-- c9-v13: Efrayim como vi para–Tsor plantada em–prado e–Efrayim para–fazer–sair a matador filhos–dele
+-- c9-v14: Dá para–eles YHWH que darás Dá para–eles ventre abortador e–seios secos
+-- c9-v15: Toda maldade–deles em–Guilgal porque lá odiei–eles por maldade–de obras–deles de–casa–minha expulsarei–eles não continuarei amá–eles todos príncipes–deles rebeldes
+-- c9-v16: Ferido–foi Efrayim raiz–deles secou fruto [não] não produzirão também se gerarem e–matarei queridos–de ventre–deles §
+-- c9-v17: Rejeitará–eles Deus–meu porque não ouviram para–ele e–serão errantes entre–as–nações §
+-- c10-v1: Videira esvaziando Yisrael fruto iguala para–si conforme–abundar para–fruto–dele multiplicou para–os–altares conforme–ser–boa para–terra–dele melhoraram colunas
+-- c10-v2: Dividido coração–deles agora serão–culpados ele quebrará altares–deles destruirá colunas–deles
+-- c10-v3: Porque agora dirão Não–há rei para–nós porque não tememos (a) YHWH e–o–rei que fará para–nós
+-- c10-v4: Falaram palavras juram falsamente cortando aliança e–brota como–erva–venenosa juízo sobre sulcos–de campo
+-- c10-v5: Para–bezerros–de Beit–Aven temerão habitantes–de Shomron porque lamentou sobre–ele povo–dele e–sacerdotes–dele sobre–ele exultarão sobre glória–dele porque partiu dele
+-- c10-v6: Também ele para–Assur será–levado presente para–rei Yarev vergonha Efrayim receberá e–envergonhar–se–á Yisrael de–conselho–dele
+-- c10-v7: Cortado–foi Shomron rei–dela como–espuma sobre face–de águas
+-- c10-v8: E–destruídos–serão altos–de Aven pecado–de Yisrael espinho e–cardo subirão sobre altares–deles e–dirão para–os–montes Cobri–nos e–para–as–colinas Caí sobre–nós §
+-- c10-v9: Desde–dias–de Guivah pecaste Yisrael lá permaneceram não alcançará–eles em–Guivah guerra sobre filhos–de iniquidade
+-- c10-v10: Em–desejo–meu e–castigarei–eles e–reunir–se–ão contra–eles povos quando–prender–eu–eles para–duas [culpas] culpas–deles
+-- c10-v11: E–Efrayim novilha ensinada amante debulhar e–eu passei sobre bom pescoço–dela Farei–cavalgar Efrayim arará Yehudah gradará para–si Ya'aqov
+-- c10-v12: Semeai para–vocês para–justiça colhei conforme bondade lavrai para–vocês terra–nova e–tempo para–buscar (a) YHWH até vir e–choverá justiça para–vocês
+-- c10-v13: Arastes maldade iniquidade colhestes comestes fruto–de mentira porque confiaste em–caminho–teu em–multidão–de heróis–teus
+-- c10-v14: E–levantar–se–á tumulto em–povo–teu e–todas fortalezas–tuas serão–destruídas como–destruição–de Shalman Beit–Arbe'el no–dia–de guerra mãe sobre filhos foi–despedaçada
+-- c10-v15: Assim fez para–vocês Beit–El por–causa–de maldade–de maldade–de–vocês na–madrugada cortado será–cortado rei–de Yisrael
+-- c11-v1: Quando jovem Yisrael e–amei–o e–de–Mitsrayim chamei para–filho–meu
+-- c11-v2: Chamaram para–eles assim foram de–face–deles para–os–Baals sacrificavam e–para–imagens queimavam–incenso
+-- c11-v3: E–eu ensinei–a–andar para–Efrayim tomei–eles sobre braços–dele e–não souberam que curei–eles
+-- c11-v4: Com–cordas–de homem puxei–eles com–laços–de amor e–fui para–eles como–levantadores–de jugo sobre mandíbulas–deles e–gentilmente para–ele alimentei
+-- c11-v5: Não voltará a terra–de Mitsrayim e–Assur ele rei–dele porque recusaram voltar
+-- c11-v6: E–girará espada em–cidades–dele e–acabará barras–dele e–devorará de–conselhos–deles
+-- c11-v7: E–povo–meu suspensos para–apostasia–minha e–para alto chamam–o juntos não levantam
+-- c11-v8: Como te–darei Efrayim te–entregarei Yisrael como te–darei como–Admah te–farei como–Tsevoyim virou–se sobre–mim coração–meu juntos acenderam–se compaixões–minhas
+-- c11-v9: Não farei ardor–de ira–minha não voltarei para–destruir Efrayim porque Deus eu e–não homem no–meio–de–ti Santo e–não virei em–ira
+-- c11-v10: Após YHWH andarão como–leão rugirá porque ele rugirá e–tremerão filhos do–oeste
+-- c11-v11: Tremerão como–pássaro de–Mitsrayim e–como–pomba de–terra–de Assur e–farei–habitá–los em casas–deles declaração–de YHWH §
+-- c11-v12: Cercaram–me em–mentira Efrayim e–em–engano casa–de Yisrael e–Yehudah ainda descendo com Deus e–com santos fiel
+-- c12-v1: Efrayim apascentando vento e–perseguindo leste todo o–dia mentira e–destruição multiplica e–aliança com Assur cortam e–óleo para–Mitsrayim é–levado
+-- c12-v2: E–contenda para–YHWH com Yehudah e–para–visitar sobre Ya'aqov conforme–caminhos–dele conforme–obras–dele fará–voltar para–ele
+-- c12-v3: No–ventre enganou (a) irmão–dele e–em–vigor–dele lutou (a) Deus
+-- c12-v4: E–lutou com anjo e–prevaleceu chorou e–suplicou para–ele Beit–El encontrará–o e–lá falará conosco
+-- c12-v5: E–YHWH Deus–de os–exércitos YHWH memória–dele
+-- c12-v6: E–tu em–Deus–teu voltarás bondade e–juízo guarda e–espera em Deus–teu continuamente
+-- c12-v7: Canaã em–mão–dele balanças–de engano oprimir ama
+-- c12-v8: E–disse Efrayim Certamente enriqueci encontrei força para–mim todo trabalho–meu não encontrarão para–mim iniquidade que pecado
+-- c12-v9: E–eu YHWH Deus–teu desde–terra–de Mitsrayim ainda farei–habitar–te em–tendas como–dias–de solenidade
+-- c12-v10: E–falei sobre os–profetas e–eu visão multipliquei e–por–mão–de os–profetas usei–parábolas
+-- c12-v11: Se Guilad iniquidade certamente vaidade foram em–Guilgal bois sacrificaram também altares–deles como–montões sobre sulcos–de campo
+-- c12-v12: E–fugiu Ya'aqov campo–de Aram e–serviu Yisrael por–mulher e–por–mulher guardou
+-- c12-v13: E–por–profeta fez–subir YHWH (a) Yisrael de–Mitsrayim e–por–profeta foi–guardado
+-- c12-v14: Provocou–à–ira Efrayim amaramente e–sangues–dele sobre–ele deixará e–opróbrio–dele fará–voltar para–ele Senhor–dele
+-- c13-v1: Quando–falar Efrayim tremor levantou–se ele em–Yisrael e–tornou–se–culpado no–Baal e–morreu
+-- c13-v2: E–agora continuam para–pecar e–fizeram para–si imagem–fundida de–prata–deles conforme–entendimento–deles ídolos obra–de artesãos todo–ele para–eles eles dizem Sacrificadores–de homem bezerros beijam
+-- c13-v3: Por–isso serão como–nuvem–de manhã e–como–orvalho matutino vai–se como–palha varrida de–eira e–como–fumaça de–claraboia
+-- c13-v4: E–eu YHWH Deus–teu desde–terra–de Mitsrayim e–Deus além–de–mim não conhecerás e–salvador não–há exceto–eu
+-- c13-v5: Eu conheci–te no–deserto em–terra–de sequídoes
+-- c13-v6: Conforme–pasto–deles e–ficaram–satisfeitos satisfizeram–se e–exaltou–se coração–deles por isso esqueceram–me
+-- c13-v7: E–serei para–eles como leão como–leopardo sobre caminho espreitarei
+-- c13-v8: Encontrarei–eles como–urso privado–de–filhos e–rasgarei envoltório–de coração–deles e–devorarei–eles lá como–leoa fera–de o–campo rasgará–eles
+-- c13-v9: Destruição–tua Yisrael porque em–mim em–ajuda–tua
+-- c13-v10: Onde–está rei–teu então e–salve–te em–todas cidades–tuas e–juízes–teus que disseste Dá para–mim rei e–príncipes
+-- c13-v11: Dei para–ti rei em–ira–minha e–tomei em–indignação–minha §
+-- c13-v12: Amarrada iniquidade–de Efrayim guardado pecado–dele
+-- c13-v13: Dores–de parturiente virão para–ele ele filho não sábio porque tempo não ficará na–abertura–de filhos
+-- c13-v14: Da–mão–de Sheol resgatei–eles da–morte redimirei–eles Onde–estão pragas–tuas morte Onde–está destruição–tua Sheol arrependimento será–escondido de–olhos–meus
+-- c13-v15: Porque ele entre irmãos será–frutífero virá leste vento–de YHWH de–deserto subindo e–secará fonte–dele e–secará manâncial–dele ele saqueará tesouro–de todo vaso–de desejo
+-- c13-v16: Será–culpada Shomron porque rebelou–se contra–Deus–dela por–espada cairão crianças–deles serão–despedaçadas e–grávidas–dele serão–rasgadas ¶
+-- c14-v1: Volta Yisrael até YHWH Deus–teu porque tropeçaste na–iniquidade–tua
+-- c14-v2: Tomai convosco palavras e–voltai a YHWH dizei a–ele Toda carrega iniquidade e–aceita bem e–pagaremos novilhos lábios–nossos
+-- c14-v3: Assur não salvará–nos sobre cavalo não cavalgaremos e–não diremos mais Deus–nosso para–obra–de mãos–nossas que em–ti terá–compaixão órfão
+-- c14-v4: Curarei apostasia–deles amarei–eles livremente porque voltou ira–minha dele
+-- c14-v5: Serei como–orvalho para–Yisrael florirá como–lírio e–lançará raízes–dele como–Líbano
+-- c14-v6: Irão brotos–dele e–será como–oliveira esplendor–dele e–fra’grância para–ele como–Líbano
+-- c14-v7: Voltarão habitantes na–sombra–dele vivificarão cereal e–florirão como–videira memória–dele como–vinho–de Líbano §
+-- c14-v8: Efrayim que para–mim ainda com–os–ídolos Eu respondi e–olharei–para–ele eu como–cipreste verdejante de–mim fruto–teu é–encontrado
+-- c14-v9: Quem sábio e–entenda estas–coisas prudente e–conheça–as porque retos caminhos–de YHWH e–justos andarão neles e–transgressores tropeçarão neles
 
 BEGIN;
 -- 2800100101: דְּבַר־ (H1697) → "Palavra–de" [opus-4.5-chirho]

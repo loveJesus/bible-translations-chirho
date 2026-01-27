@@ -3,967 +3,967 @@
 -- — John 3:16
 
 -- DEUTERONOMY - POR Combined
--- Generated: 2026-01-27T21:46:36Z
+-- Generated: 2026-01-27T22:19:47Z
 
--- DEUTERONOMY c1-v1 - POR
--- DEUTERONOMY c1-v2 - POR
--- DEUTERONOMY c1-v3 - POR
--- DEUTERONOMY c1-v4 - POR
--- DEUTERONOMY c1-v5 - POR
--- DEUTERONOMY c1-v6 - POR
--- DEUTERONOMY c1-v7 - POR
--- DEUTERONOMY c1-v8 - POR
--- DEUTERONOMY c1-v9 - POR
--- DEUTERONOMY c1-v10 - POR
--- DEUTERONOMY c1-v11 - POR
--- DEUTERONOMY c1-v12 - POR
--- DEUTERONOMY c1-v13 - POR
--- DEUTERONOMY c1-v14 - POR
--- DEUTERONOMY c1-v15 - POR
--- DEUTERONOMY c1-v16 - POR
--- DEUTERONOMY c1-v17 - POR
--- DEUTERONOMY c1-v18 - POR
--- DEUTERONOMY c1-v19 - POR
--- DEUTERONOMY c1-v20 - POR
--- DEUTERONOMY c1-v21 - POR
--- DEUTERONOMY c1-v22 - POR
--- DEUTERONOMY c1-v23 - POR
--- DEUTERONOMY c1-v24 - POR
--- DEUTERONOMY c1-v25 - POR
--- DEUTERONOMY c1-v26 - POR
--- DEUTERONOMY c1-v27 - POR
--- DEUTERONOMY c1-v28 - POR
--- DEUTERONOMY c1-v29 - POR
--- DEUTERONOMY c1-v30 - POR
--- DEUTERONOMY c1-v31 - POR
--- DEUTERONOMY c1-v32 - POR
--- DEUTERONOMY c1-v33 - POR
--- DEUTERONOMY c1-v34 - POR
--- DEUTERONOMY c1-v35 - POR
--- DEUTERONOMY c1-v36 - POR
--- DEUTERONOMY c1-v37 - POR
--- DEUTERONOMY c1-v38 - POR
--- DEUTERONOMY c1-v39 - POR
--- DEUTERONOMY c1-v40 - POR
--- DEUTERONOMY c1-v41 - POR
--- DEUTERONOMY c1-v42 - POR
--- DEUTERONOMY c1-v43 - POR
--- DEUTERONOMY c1-v44 - POR
--- DEUTERONOMY c1-v45 - POR
--- DEUTERONOMY c1-v46 - POR
--- DEUTERONOMY c2-v1 - POR
--- DEUTERONOMY c2-v2 - POR
--- DEUTERONOMY c2-v3 - POR
--- DEUTERONOMY c2-v4 - POR
--- DEUTERONOMY c2-v5 - POR
--- DEUTERONOMY c2-v6 - POR
--- DEUTERONOMY c2-v7 - POR
--- DEUTERONOMY c2-v8 - POR
--- DEUTERONOMY c2-v9 - POR
--- DEUTERONOMY c2-v10 - POR
--- DEUTERONOMY c2-v11 - POR
--- DEUTERONOMY c2-v12 - POR
--- DEUTERONOMY c2-v13 - POR
--- DEUTERONOMY c2-v14 - POR
--- DEUTERONOMY c2-v15 - POR
--- DEUTERONOMY c2-v16 - POR
--- DEUTERONOMY c2-v17 - POR
--- DEUTERONOMY c2-v18 - POR
--- DEUTERONOMY c2-v19 - POR
--- DEUTERONOMY c2-v20 - POR
--- DEUTERONOMY c2-v21 - POR
--- DEUTERONOMY c2-v22 - POR
--- DEUTERONOMY c2-v23 - POR
--- DEUTERONOMY c2-v24 - POR
--- DEUTERONOMY c2-v25 - POR
--- DEUTERONOMY c2-v26 - POR
--- DEUTERONOMY c2-v27 - POR
--- DEUTERONOMY c2-v28 - POR
--- DEUTERONOMY c2-v29 - POR
--- DEUTERONOMY c2-v30 - POR
--- DEUTERONOMY c2-v31 - POR
--- DEUTERONOMY c2-v32 - POR
--- DEUTERONOMY c2-v33 - POR
--- DEUTERONOMY c2-v34 - POR
--- DEUTERONOMY c2-v35 - POR
--- DEUTERONOMY c2-v36 - POR
--- DEUTERONOMY c2-v37 - POR
--- DEUTERONOMY c3-v1 - POR
--- DEUTERONOMY c3-v2 - POR
--- DEUTERONOMY c3-v3 - POR
--- DEUTERONOMY c3-v4 - POR
--- DEUTERONOMY c3-v5 - POR
--- DEUTERONOMY c3-v6 - POR
--- DEUTERONOMY c3-v7 - POR
--- DEUTERONOMY c3-v8 - POR
--- DEUTERONOMY c3-v9 - POR
--- DEUTERONOMY c3-v10 - POR
--- DEUTERONOMY c3-v11 - POR
--- DEUTERONOMY c3-v12 - POR
--- DEUTERONOMY c3-v13 - POR
--- DEUTERONOMY c3-v14 - POR
--- DEUTERONOMY c3-v15 - POR
--- DEUTERONOMY c3-v16 - POR
--- DEUTERONOMY c3-v17 - POR
--- DEUTERONOMY c3-v18 - POR
--- DEUTERONOMY c3-v19 - POR
--- DEUTERONOMY c3-v20 - POR
--- DEUTERONOMY c3-v21 - POR
--- DEUTERONOMY c3-v22 - POR
--- DEUTERONOMY c3-v23 - POR
--- DEUTERONOMY c3-v24 - POR
--- DEUTERONOMY c3-v25 - POR
--- DEUTERONOMY c3-v26 - POR
--- DEUTERONOMY c3-v27 - POR
--- DEUTERONOMY c3-v28 - POR
--- DEUTERONOMY c3-v29 - POR
--- DEUTERONOMY c4-v1 - POR
--- DEUTERONOMY c4-v2 - POR
--- DEUTERONOMY c4-v3 - POR
--- DEUTERONOMY c4-v4 - POR
--- DEUTERONOMY c4-v5 - POR
--- DEUTERONOMY c4-v6 - POR
--- DEUTERONOMY c4-v7 - POR
--- DEUTERONOMY c4-v8 - POR
--- DEUTERONOMY c4-v9 - POR
--- DEUTERONOMY c4-v10 - POR
--- DEUTERONOMY c4-v11 - POR
--- DEUTERONOMY c4-v12 - POR
--- DEUTERONOMY c4-v13 - POR
--- DEUTERONOMY c4-v14 - POR
--- DEUTERONOMY c4-v15 - POR
--- DEUTERONOMY c4-v16 - POR
--- DEUTERONOMY c4-v17 - POR
--- DEUTERONOMY c4-v18 - POR
--- DEUTERONOMY c4-v19 - POR
--- DEUTERONOMY c4-v20 - POR
--- DEUTERONOMY c4-v21 - POR
--- DEUTERONOMY c4-v22 - POR
--- DEUTERONOMY c4-v23 - POR
--- DEUTERONOMY c4-v24 - POR
--- DEUTERONOMY c4-v25 - POR
--- DEUTERONOMY c4-v26 - POR
--- DEUTERONOMY c4-v27 - POR
--- DEUTERONOMY c4-v28 - POR
--- DEUTERONOMY c4-v29 - POR
--- DEUTERONOMY c4-v30 - POR
--- DEUTERONOMY c4-v31 - POR
--- DEUTERONOMY c4-v32 - POR
--- DEUTERONOMY c4-v33 - POR
--- DEUTERONOMY c4-v34 - POR
--- DEUTERONOMY c4-v35 - POR
--- DEUTERONOMY c4-v36 - POR
--- DEUTERONOMY c4-v37 - POR
--- DEUTERONOMY c4-v38 - POR
--- DEUTERONOMY c4-v39 - POR
--- DEUTERONOMY c4-v40 - POR
--- DEUTERONOMY c4-v41 - POR
--- DEUTERONOMY c4-v42 - POR
--- DEUTERONOMY c4-v43 - POR
--- DEUTERONOMY c4-v44 - POR
--- DEUTERONOMY c4-v45 - POR
--- DEUTERONOMY c4-v46 - POR
--- DEUTERONOMY c4-v47 - POR
--- DEUTERONOMY c4-v48 - POR
--- DEUTERONOMY c4-v49 - POR
--- DEUTERONOMY c5-v1 - POR
--- DEUTERONOMY c5-v2 - POR
--- DEUTERONOMY c5-v3 - POR
--- DEUTERONOMY c5-v4 - POR
--- DEUTERONOMY c5-v5 - POR
--- DEUTERONOMY c5-v6 - POR
--- DEUTERONOMY c5-v7 - POR
--- DEUTERONOMY c5-v8 - POR
--- DEUTERONOMY c5-v9 - POR
--- DEUTERONOMY c5-v10 - POR
--- DEUTERONOMY c5-v11 - POR
--- DEUTERONOMY c5-v12 - POR
--- DEUTERONOMY c5-v13 - POR
--- DEUTERONOMY c5-v14 - POR
--- DEUTERONOMY c5-v15 - POR
--- DEUTERONOMY c5-v16 - POR
--- DEUTERONOMY c5-v17 - POR
--- DEUTERONOMY c5-v18 - POR
--- DEUTERONOMY c5-v19 - POR
--- DEUTERONOMY c5-v20 - POR
--- DEUTERONOMY c5-v21 - POR
--- DEUTERONOMY c5-v22 - POR
--- DEUTERONOMY c5-v23 - POR
--- DEUTERONOMY c5-v24 - POR
--- DEUTERONOMY c5-v25 - POR
--- DEUTERONOMY c5-v26 - POR
--- DEUTERONOMY c5-v27 - POR
--- DEUTERONOMY c5-v28 - POR
--- DEUTERONOMY c5-v29 - POR
--- DEUTERONOMY c5-v30 - POR
--- DEUTERONOMY c5-v31 - POR
--- DEUTERONOMY c5-v32 - POR
--- DEUTERONOMY c5-v33 - POR
--- DEUTERONOMY c6-v1 - POR
--- DEUTERONOMY c6-v2 - POR
--- DEUTERONOMY c6-v3 - POR
--- DEUTERONOMY c6-v4 - POR
--- DEUTERONOMY c6-v5 - POR
--- DEUTERONOMY c6-v6 - POR
--- DEUTERONOMY c6-v7 - POR
--- DEUTERONOMY c6-v8 - POR
--- DEUTERONOMY c6-v9 - POR
--- DEUTERONOMY c6-v10 - POR
--- DEUTERONOMY c6-v11 - POR
--- DEUTERONOMY c6-v12 - POR
--- DEUTERONOMY c6-v13 - POR
--- DEUTERONOMY c6-v14 - POR
--- DEUTERONOMY c6-v15 - POR
--- DEUTERONOMY c6-v16 - POR
--- DEUTERONOMY c6-v17 - POR
--- DEUTERONOMY c6-v18 - POR
--- DEUTERONOMY c6-v19 - POR
--- DEUTERONOMY c6-v20 - POR
--- DEUTERONOMY c6-v21 - POR
--- DEUTERONOMY c6-v22 - POR
--- DEUTERONOMY c6-v23 - POR
--- DEUTERONOMY c6-v24 - POR
--- DEUTERONOMY c6-v25 - POR
--- DEUTERONOMY c7-v1 - POR
--- DEUTERONOMY c7-v2 - POR
--- DEUTERONOMY c7-v3 - POR
--- DEUTERONOMY c7-v4 - POR
--- DEUTERONOMY c7-v5 - POR
--- DEUTERONOMY c7-v6 - POR
--- DEUTERONOMY c7-v7 - POR
--- DEUTERONOMY c7-v8 - POR
--- DEUTERONOMY c7-v9 - POR
--- DEUTERONOMY c7-v10 - POR
--- DEUTERONOMY c7-v11 - POR
--- DEUTERONOMY c7-v12 - POR
--- DEUTERONOMY c7-v13 - POR
--- DEUTERONOMY c7-v14 - POR
--- DEUTERONOMY c7-v15 - POR
--- DEUTERONOMY c7-v16 - POR
--- DEUTERONOMY c7-v17 - POR
--- DEUTERONOMY c7-v18 - POR
--- DEUTERONOMY c7-v19 - POR
--- DEUTERONOMY c7-v20 - POR
--- DEUTERONOMY c7-v21 - POR
--- DEUTERONOMY c7-v22 - POR
--- DEUTERONOMY c7-v23 - POR
--- DEUTERONOMY c7-v24 - POR
--- DEUTERONOMY c7-v25 - POR
--- DEUTERONOMY c7-v26 - POR
--- DEUTERONOMY c8-v1 - POR
--- DEUTERONOMY c8-v2 - POR
--- DEUTERONOMY c8-v3 - POR
--- DEUTERONOMY c8-v4 - POR
--- DEUTERONOMY c8-v5 - POR
--- DEUTERONOMY c8-v6 - POR
--- DEUTERONOMY c8-v7 - POR
--- DEUTERONOMY c8-v8 - POR
--- DEUTERONOMY c8-v9 - POR
--- DEUTERONOMY c8-v10 - POR
--- DEUTERONOMY c8-v11 - POR
--- DEUTERONOMY c8-v12 - POR
--- DEUTERONOMY c8-v13 - POR
--- DEUTERONOMY c8-v14 - POR
--- DEUTERONOMY c8-v15 - POR
--- DEUTERONOMY c8-v16 - POR
--- DEUTERONOMY c8-v17 - POR
--- DEUTERONOMY c8-v18 - POR
--- DEUTERONOMY c8-v19 - POR
--- DEUTERONOMY c8-v20 - POR
--- DEUTERONOMY c9-v1 - POR
--- DEUTERONOMY c9-v2 - POR
--- DEUTERONOMY c9-v3 - POR
--- DEUTERONOMY c9-v4 - POR
--- DEUTERONOMY c9-v5 - POR
--- DEUTERONOMY c9-v6 - POR
--- DEUTERONOMY c9-v7 - POR
--- DEUTERONOMY c9-v8 - POR
--- DEUTERONOMY c9-v9 - POR
--- DEUTERONOMY c9-v10 - POR
--- DEUTERONOMY c9-v11 - POR
--- DEUTERONOMY c9-v12 - POR
--- DEUTERONOMY c9-v13 - POR
--- DEUTERONOMY c9-v14 - POR
--- DEUTERONOMY c9-v15 - POR
--- DEUTERONOMY c9-v16 - POR
--- DEUTERONOMY c9-v17 - POR
--- DEUTERONOMY c9-v18 - POR
--- DEUTERONOMY c9-v19 - POR
--- DEUTERONOMY c9-v20 - POR
--- DEUTERONOMY c9-v21 - POR
--- DEUTERONOMY c9-v22 - POR
--- DEUTERONOMY c9-v23 - POR
--- DEUTERONOMY c9-v24 - POR
--- DEUTERONOMY c9-v25 - POR
--- DEUTERONOMY c9-v26 - POR
--- DEUTERONOMY c9-v27 - POR
--- DEUTERONOMY c9-v28 - POR
--- DEUTERONOMY c9-v29 - POR
--- DEUTERONOMY c10-v1 - POR
--- DEUTERONOMY c10-v2 - POR
--- DEUTERONOMY c10-v3 - POR
--- DEUTERONOMY c10-v4 - POR
--- DEUTERONOMY c10-v5 - POR
--- DEUTERONOMY c10-v6 - POR
--- DEUTERONOMY c10-v7 - POR
--- DEUTERONOMY c10-v8 - POR
--- DEUTERONOMY c10-v9 - POR
--- DEUTERONOMY c10-v10 - POR
--- DEUTERONOMY c10-v11 - POR
--- DEUTERONOMY c10-v12 - POR
--- DEUTERONOMY c10-v13 - POR
--- DEUTERONOMY c10-v14 - POR
--- DEUTERONOMY c10-v15 - POR
--- DEUTERONOMY c10-v16 - POR
--- DEUTERONOMY c10-v17 - POR
--- DEUTERONOMY c10-v18 - POR
--- DEUTERONOMY c10-v19 - POR
--- DEUTERONOMY c10-v20 - POR
--- DEUTERONOMY c10-v21 - POR
--- DEUTERONOMY c10-v22 - POR
--- DEUTERONOMY c11-v1 - POR
--- DEUTERONOMY c11-v2 - POR
--- DEUTERONOMY c11-v3 - POR
--- DEUTERONOMY c11-v4 - POR
--- DEUTERONOMY c11-v5 - POR
--- DEUTERONOMY c11-v6 - POR
--- DEUTERONOMY c11-v7 - POR
--- DEUTERONOMY c11-v8 - POR
--- DEUTERONOMY c11-v9 - POR
--- DEUTERONOMY c11-v10 - POR
--- DEUTERONOMY c11-v11 - POR
--- DEUTERONOMY c11-v12 - POR
--- DEUTERONOMY c11-v13 - POR
--- DEUTERONOMY c11-v14 - POR
--- DEUTERONOMY c11-v15 - POR
--- DEUTERONOMY c11-v16 - POR
--- DEUTERONOMY c11-v17 - POR
--- DEUTERONOMY c11-v18 - POR
--- DEUTERONOMY c11-v19 - POR
--- DEUTERONOMY c11-v20 - POR
--- DEUTERONOMY c11-v21 - POR
--- DEUTERONOMY c11-v22 - POR
--- DEUTERONOMY c11-v23 - POR
--- DEUTERONOMY c11-v24 - POR
--- DEUTERONOMY c11-v25 - POR
--- DEUTERONOMY c11-v26 - POR
--- DEUTERONOMY c11-v27 - POR
--- DEUTERONOMY c11-v28 - POR
--- DEUTERONOMY c11-v29 - POR
--- DEUTERONOMY c11-v30 - POR
--- DEUTERONOMY c11-v31 - POR
--- DEUTERONOMY c11-v32 - POR
--- DEUTERONOMY c12-v1 - POR
--- DEUTERONOMY c12-v2 - POR
--- DEUTERONOMY c12-v3 - POR
--- DEUTERONOMY c12-v4 - POR
--- DEUTERONOMY c12-v5 - POR
--- DEUTERONOMY c12-v6 - POR
--- DEUTERONOMY c12-v7 - POR
--- DEUTERONOMY c12-v8 - POR
--- DEUTERONOMY c12-v9 - POR
--- DEUTERONOMY c12-v10 - POR
--- DEUTERONOMY c12-v11 - POR
--- DEUTERONOMY c12-v12 - POR
--- DEUTERONOMY c12-v13 - POR
--- DEUTERONOMY c12-v14 - POR
--- DEUTERONOMY c12-v15 - POR
--- DEUTERONOMY c12-v16 - POR
--- DEUTERONOMY c12-v17 - POR
--- DEUTERONOMY c12-v18 - POR
--- DEUTERONOMY c12-v19 - POR
--- DEUTERONOMY c12-v20 - POR
--- DEUTERONOMY c12-v21 - POR
--- DEUTERONOMY c12-v22 - POR
--- DEUTERONOMY c12-v23 - POR
--- DEUTERONOMY c12-v24 - POR
--- DEUTERONOMY c12-v25 - POR
--- DEUTERONOMY c12-v26 - POR
--- DEUTERONOMY c12-v27 - POR
--- DEUTERONOMY c12-v28 - POR
--- DEUTERONOMY c12-v29 - POR
--- DEUTERONOMY c12-v30 - POR
--- DEUTERONOMY c12-v31 - POR
--- DEUTERONOMY c12-v32 - POR
--- DEUTERONOMY c13-v1 - POR
--- DEUTERONOMY c13-v2 - POR
--- DEUTERONOMY c13-v3 - POR
--- DEUTERONOMY c13-v4 - POR
--- DEUTERONOMY c13-v5 - POR
--- DEUTERONOMY c13-v6 - POR
--- DEUTERONOMY c13-v7 - POR
--- DEUTERONOMY c13-v8 - POR
--- DEUTERONOMY c13-v9 - POR
--- DEUTERONOMY c13-v10 - POR
--- DEUTERONOMY c13-v11 - POR
--- DEUTERONOMY c13-v12 - POR
--- DEUTERONOMY c13-v13 - POR
--- DEUTERONOMY c13-v14 - POR
--- DEUTERONOMY c13-v15 - POR
--- DEUTERONOMY c13-v16 - POR
--- DEUTERONOMY c13-v17 - POR
--- DEUTERONOMY c13-v18 - POR
--- DEUTERONOMY c14-v1 - POR
--- DEUTERONOMY c14-v2 - POR
--- DEUTERONOMY c14-v3 - POR
--- DEUTERONOMY c14-v4 - POR
--- DEUTERONOMY c14-v5 - POR
--- DEUTERONOMY c14-v6 - POR
--- DEUTERONOMY c14-v7 - POR
--- DEUTERONOMY c14-v8 - POR
--- DEUTERONOMY c14-v9 - POR
--- DEUTERONOMY c14-v10 - POR
--- DEUTERONOMY c14-v11 - POR
--- DEUTERONOMY c14-v12 - POR
--- DEUTERONOMY c14-v13 - POR
--- DEUTERONOMY c14-v14 - POR
--- DEUTERONOMY c14-v15 - POR
--- DEUTERONOMY c14-v16 - POR
--- DEUTERONOMY c14-v17 - POR
--- DEUTERONOMY c14-v18 - POR
--- DEUTERONOMY c14-v19 - POR
--- DEUTERONOMY c14-v20 - POR
--- DEUTERONOMY c14-v21 - POR
--- DEUTERONOMY c14-v22 - POR
--- DEUTERONOMY c14-v23 - POR
--- DEUTERONOMY c14-v24 - POR
--- DEUTERONOMY c14-v25 - POR
--- DEUTERONOMY c14-v26 - POR
--- DEUTERONOMY c14-v27 - POR
--- DEUTERONOMY c14-v28 - POR
--- DEUTERONOMY c14-v29 - POR
--- DEUTERONOMY c15-v1 - POR
--- DEUTERONOMY c15-v2 - POR
--- DEUTERONOMY c15-v3 - POR
--- DEUTERONOMY c15-v4 - POR
--- DEUTERONOMY c15-v5 - POR
--- DEUTERONOMY c15-v6 - POR
--- DEUTERONOMY c15-v7 - POR
--- DEUTERONOMY c15-v8 - POR
--- DEUTERONOMY c15-v9 - POR
--- DEUTERONOMY c15-v10 - POR
--- DEUTERONOMY c15-v11 - POR
--- DEUTERONOMY c15-v12 - POR
--- DEUTERONOMY c15-v13 - POR
--- DEUTERONOMY c15-v14 - POR
--- DEUTERONOMY c15-v15 - POR
--- DEUTERONOMY c15-v16 - POR
--- DEUTERONOMY c15-v17 - POR
--- DEUTERONOMY c15-v18 - POR
--- DEUTERONOMY c15-v19 - POR
--- DEUTERONOMY c15-v20 - POR
--- DEUTERONOMY c15-v21 - POR
--- DEUTERONOMY c15-v22 - POR
--- DEUTERONOMY c15-v23 - POR
--- DEUTERONOMY c16-v1 - POR
--- DEUTERONOMY c16-v2 - POR
--- DEUTERONOMY c16-v3 - POR
--- DEUTERONOMY c16-v4 - POR
--- DEUTERONOMY c16-v5 - POR
--- DEUTERONOMY c16-v6 - POR
--- DEUTERONOMY c16-v7 - POR
--- DEUTERONOMY c16-v8 - POR
--- DEUTERONOMY c16-v9 - POR
--- DEUTERONOMY c16-v10 - POR
--- DEUTERONOMY c16-v11 - POR
--- DEUTERONOMY c16-v12 - POR
--- DEUTERONOMY c16-v13 - POR
--- DEUTERONOMY c16-v14 - POR
--- DEUTERONOMY c16-v15 - POR
--- DEUTERONOMY c16-v16 - POR
--- DEUTERONOMY c16-v17 - POR
--- DEUTERONOMY c16-v18 - POR
--- DEUTERONOMY c16-v19 - POR
--- DEUTERONOMY c16-v20 - POR
--- DEUTERONOMY c16-v21 - POR
--- DEUTERONOMY c16-v22 - POR
--- DEUTERONOMY c17-v1 - POR
--- DEUTERONOMY c17-v2 - POR
--- DEUTERONOMY c17-v3 - POR
--- DEUTERONOMY c17-v4 - POR
--- DEUTERONOMY c17-v5 - POR
--- DEUTERONOMY c17-v6 - POR
--- DEUTERONOMY c17-v7 - POR
--- DEUTERONOMY c17-v8 - POR
--- DEUTERONOMY c17-v9 - POR
--- DEUTERONOMY c17-v10 - POR
--- DEUTERONOMY c17-v11 - POR
--- DEUTERONOMY c17-v12 - POR
--- DEUTERONOMY c17-v13 - POR
--- DEUTERONOMY c17-v14 - POR
--- DEUTERONOMY c17-v15 - POR
--- DEUTERONOMY c17-v16 - POR
--- DEUTERONOMY c17-v17 - POR
--- DEUTERONOMY c17-v18 - POR
--- DEUTERONOMY c17-v19 - POR
--- DEUTERONOMY c17-v20 - POR
--- DEUTERONOMY c18-v1 - POR
--- DEUTERONOMY c18-v2 - POR
--- DEUTERONOMY c18-v3 - POR
--- DEUTERONOMY c18-v4 - POR
--- DEUTERONOMY c18-v5 - POR
--- DEUTERONOMY c18-v6 - POR
--- DEUTERONOMY c18-v7 - POR
--- DEUTERONOMY c18-v8 - POR
--- DEUTERONOMY c18-v9 - POR
--- DEUTERONOMY c18-v10 - POR
--- DEUTERONOMY c18-v11 - POR
--- DEUTERONOMY c18-v12 - POR
--- DEUTERONOMY c18-v13 - POR
--- DEUTERONOMY c18-v14 - POR
--- DEUTERONOMY c18-v15 - POR
--- DEUTERONOMY c18-v16 - POR
--- DEUTERONOMY c18-v17 - POR
--- DEUTERONOMY c18-v18 - POR
--- DEUTERONOMY c18-v19 - POR
--- DEUTERONOMY c18-v20 - POR
--- DEUTERONOMY c18-v21 - POR
--- DEUTERONOMY c18-v22 - POR
--- DEUTERONOMY c19-v1 - POR
--- DEUTERONOMY c19-v2 - POR
--- DEUTERONOMY c19-v3 - POR
--- DEUTERONOMY c19-v4 - POR
--- DEUTERONOMY c19-v5 - POR
--- DEUTERONOMY c19-v6 - POR
--- DEUTERONOMY c19-v7 - POR
--- DEUTERONOMY c19-v8 - POR
--- DEUTERONOMY c19-v9 - POR
--- DEUTERONOMY c19-v10 - POR
--- DEUTERONOMY c19-v11 - POR
--- DEUTERONOMY c19-v12 - POR
--- DEUTERONOMY c19-v13 - POR
--- DEUTERONOMY c19-v14 - POR
--- DEUTERONOMY c19-v15 - POR
--- DEUTERONOMY c19-v16 - POR
--- DEUTERONOMY c19-v17 - POR
--- DEUTERONOMY c19-v18 - POR
--- DEUTERONOMY c19-v19 - POR
--- DEUTERONOMY c19-v20 - POR
--- DEUTERONOMY c19-v21 - POR
--- DEUTERONOMY c20-v1 - POR
--- DEUTERONOMY c20-v2 - POR
--- DEUTERONOMY c20-v3 - POR
--- DEUTERONOMY c20-v4 - POR
--- DEUTERONOMY c20-v5 - POR
--- DEUTERONOMY c20-v6 - POR
--- DEUTERONOMY c20-v7 - POR
--- DEUTERONOMY c20-v8 - POR
--- DEUTERONOMY c20-v9 - POR
--- DEUTERONOMY c20-v10 - POR
--- DEUTERONOMY c20-v11 - POR
--- DEUTERONOMY c20-v12 - POR
--- DEUTERONOMY c20-v13 - POR
--- DEUTERONOMY c20-v14 - POR
--- DEUTERONOMY c20-v15 - POR
--- DEUTERONOMY c20-v16 - POR
--- DEUTERONOMY c20-v17 - POR
--- DEUTERONOMY c20-v18 - POR
--- DEUTERONOMY c20-v19 - POR
--- DEUTERONOMY c20-v20 - POR
--- DEUTERONOMY c21-v1 - POR
--- DEUTERONOMY c21-v2 - POR
--- DEUTERONOMY c21-v3 - POR
--- DEUTERONOMY c21-v4 - POR
--- DEUTERONOMY c21-v5 - POR
--- DEUTERONOMY c21-v6 - POR
--- DEUTERONOMY c21-v7 - POR
--- DEUTERONOMY c21-v8 - POR
--- DEUTERONOMY c21-v9 - POR
--- DEUTERONOMY c21-v10 - POR
--- DEUTERONOMY c21-v11 - POR
--- DEUTERONOMY c21-v12 - POR
--- DEUTERONOMY c21-v13 - POR
--- DEUTERONOMY c21-v14 - POR
--- DEUTERONOMY c21-v15 - POR
--- DEUTERONOMY c21-v16 - POR
--- DEUTERONOMY c21-v17 - POR
--- DEUTERONOMY c21-v18 - POR
--- DEUTERONOMY c21-v19 - POR
--- DEUTERONOMY c21-v20 - POR
--- DEUTERONOMY c21-v21 - POR
--- DEUTERONOMY c21-v22 - POR
--- DEUTERONOMY c21-v23 - POR
--- DEUTERONOMY c22-v1 - POR
--- DEUTERONOMY c22-v2 - POR
--- DEUTERONOMY c22-v3 - POR
--- DEUTERONOMY c22-v4 - POR
--- DEUTERONOMY c22-v5 - POR
--- DEUTERONOMY c22-v6 - POR
--- DEUTERONOMY c22-v7 - POR
--- DEUTERONOMY c22-v8 - POR
--- DEUTERONOMY c22-v9 - POR
--- DEUTERONOMY c22-v10 - POR
--- DEUTERONOMY c22-v11 - POR
--- DEUTERONOMY c22-v12 - POR
--- DEUTERONOMY c22-v13 - POR
--- DEUTERONOMY c22-v14 - POR
--- DEUTERONOMY c22-v15 - POR
--- DEUTERONOMY c22-v16 - POR
--- DEUTERONOMY c22-v17 - POR
--- DEUTERONOMY c22-v18 - POR
--- DEUTERONOMY c22-v19 - POR
--- DEUTERONOMY c22-v20 - POR
--- DEUTERONOMY c22-v21 - POR
--- DEUTERONOMY c22-v22 - POR
--- DEUTERONOMY c22-v23 - POR
--- DEUTERONOMY c22-v24 - POR
--- DEUTERONOMY c22-v25 - POR
--- DEUTERONOMY c22-v26 - POR
--- DEUTERONOMY c22-v27 - POR
--- DEUTERONOMY c22-v28 - POR
--- DEUTERONOMY c22-v29 - POR
--- DEUTERONOMY c22-v30 - POR
--- DEUTERONOMY c23-v1 - POR
--- DEUTERONOMY c23-v2 - POR
--- DEUTERONOMY c23-v3 - POR
--- DEUTERONOMY c23-v4 - POR
--- DEUTERONOMY c23-v5 - POR
--- DEUTERONOMY c23-v6 - POR
--- DEUTERONOMY c23-v7 - POR
--- DEUTERONOMY c23-v8 - POR
--- DEUTERONOMY c23-v9 - POR
--- DEUTERONOMY c23-v10 - POR
--- DEUTERONOMY c23-v11 - POR
--- DEUTERONOMY c23-v12 - POR
--- DEUTERONOMY c23-v13 - POR
--- DEUTERONOMY c23-v14 - POR
--- DEUTERONOMY c23-v15 - POR
--- DEUTERONOMY c23-v16 - POR
--- DEUTERONOMY c23-v17 - POR
--- DEUTERONOMY c23-v18 - POR
--- DEUTERONOMY c23-v19 - POR
--- DEUTERONOMY c23-v20 - POR
--- DEUTERONOMY c23-v21 - POR
--- DEUTERONOMY c23-v22 - POR
--- DEUTERONOMY c23-v23 - POR
--- DEUTERONOMY c23-v24 - POR
--- DEUTERONOMY c23-v25 - POR
--- DEUTERONOMY c24-v1 - POR
--- DEUTERONOMY c24-v2 - POR
--- DEUTERONOMY c24-v3 - POR
--- DEUTERONOMY c24-v4 - POR
--- DEUTERONOMY c24-v5 - POR
--- DEUTERONOMY c24-v6 - POR
--- DEUTERONOMY c24-v7 - POR
--- DEUTERONOMY c24-v8 - POR
--- DEUTERONOMY c24-v9 - POR
--- DEUTERONOMY c24-v10 - POR
--- DEUTERONOMY c24-v11 - POR
--- DEUTERONOMY c24-v12 - POR
--- DEUTERONOMY c24-v13 - POR
--- DEUTERONOMY c24-v14 - POR
--- DEUTERONOMY c24-v15 - POR
--- DEUTERONOMY c24-v16 - POR
--- DEUTERONOMY c24-v17 - POR
--- DEUTERONOMY c24-v18 - POR
--- DEUTERONOMY c24-v19 - POR
--- DEUTERONOMY c24-v20 - POR
--- DEUTERONOMY c24-v21 - POR
--- DEUTERONOMY c24-v22 - POR
--- DEUTERONOMY c25-v1 - POR
--- DEUTERONOMY c25-v2 - POR
--- DEUTERONOMY c25-v3 - POR
--- DEUTERONOMY c25-v4 - POR
--- DEUTERONOMY c25-v5 - POR
--- DEUTERONOMY c25-v6 - POR
--- DEUTERONOMY c25-v7 - POR
--- DEUTERONOMY c25-v8 - POR
--- DEUTERONOMY c25-v9 - POR
--- DEUTERONOMY c25-v10 - POR
--- DEUTERONOMY c25-v11 - POR
--- DEUTERONOMY c25-v12 - POR
--- DEUTERONOMY c25-v13 - POR
--- DEUTERONOMY c25-v14 - POR
--- DEUTERONOMY c25-v15 - POR
--- DEUTERONOMY c25-v16 - POR
--- DEUTERONOMY c25-v17 - POR
--- DEUTERONOMY c25-v18 - POR
--- DEUTERONOMY c25-v19 - POR
--- DEUTERONOMY c26-v1 - POR
--- DEUTERONOMY c26-v2 - POR
--- DEUTERONOMY c26-v3 - POR
--- DEUTERONOMY c26-v4 - POR
--- DEUTERONOMY c26-v5 - POR
--- DEUTERONOMY c26-v6 - POR
--- DEUTERONOMY c26-v7 - POR
--- DEUTERONOMY c26-v8 - POR
--- DEUTERONOMY c26-v9 - POR
--- DEUTERONOMY c26-v10 - POR
--- DEUTERONOMY c26-v11 - POR
--- DEUTERONOMY c26-v12 - POR
--- DEUTERONOMY c26-v13 - POR
--- DEUTERONOMY c26-v14 - POR
--- DEUTERONOMY c26-v15 - POR
--- DEUTERONOMY c26-v16 - POR
--- DEUTERONOMY c26-v17 - POR
--- DEUTERONOMY c26-v18 - POR
--- DEUTERONOMY c26-v19 - POR
--- DEUTERONOMY c27-v1 - POR
--- DEUTERONOMY c27-v2 - POR
--- DEUTERONOMY c27-v3 - POR
--- DEUTERONOMY c27-v4 - POR
--- DEUTERONOMY c27-v5 - POR
--- DEUTERONOMY c27-v6 - POR
--- DEUTERONOMY c27-v7 - POR
--- DEUTERONOMY c27-v8 - POR
--- DEUTERONOMY c27-v9 - POR
--- DEUTERONOMY c27-v10 - POR
--- DEUTERONOMY c27-v11 - POR
--- DEUTERONOMY c27-v12 - POR
--- DEUTERONOMY c27-v13 - POR
--- DEUTERONOMY c27-v14 - POR
--- DEUTERONOMY c27-v15 - POR
--- DEUTERONOMY c27-v16 - POR
--- DEUTERONOMY c27-v17 - POR
--- DEUTERONOMY c27-v18 - POR
--- DEUTERONOMY c27-v19 - POR
--- DEUTERONOMY c27-v20 - POR
--- DEUTERONOMY c27-v21 - POR
--- DEUTERONOMY c27-v22 - POR
--- DEUTERONOMY c27-v23 - POR
--- DEUTERONOMY c27-v24 - POR
--- DEUTERONOMY c27-v25 - POR
--- DEUTERONOMY c27-v26 - POR
--- DEUTERONOMY c28-v1 - POR
--- DEUTERONOMY c28-v2 - POR
--- DEUTERONOMY c28-v3 - POR
--- DEUTERONOMY c28-v4 - POR
--- DEUTERONOMY c28-v5 - POR
--- DEUTERONOMY c28-v6 - POR
--- DEUTERONOMY c28-v7 - POR
--- DEUTERONOMY c28-v8 - POR
--- DEUTERONOMY c28-v9 - POR
--- DEUTERONOMY c28-v10 - POR
--- DEUTERONOMY c28-v11 - POR
--- DEUTERONOMY c28-v12 - POR
--- DEUTERONOMY c28-v13 - POR
--- DEUTERONOMY c28-v14 - POR
--- DEUTERONOMY c28-v15 - POR
--- DEUTERONOMY c28-v16 - POR
--- DEUTERONOMY c28-v17 - POR
--- DEUTERONOMY c28-v18 - POR
--- DEUTERONOMY c28-v19 - POR
--- DEUTERONOMY c28-v20 - POR
--- DEUTERONOMY c28-v21 - POR
--- DEUTERONOMY c28-v22 - POR
--- DEUTERONOMY c28-v23 - POR
--- DEUTERONOMY c28-v24 - POR
--- DEUTERONOMY c28-v25 - POR
--- DEUTERONOMY c28-v26 - POR
--- DEUTERONOMY c28-v27 - POR
--- DEUTERONOMY c28-v28 - POR
--- DEUTERONOMY c28-v29 - POR
--- DEUTERONOMY c28-v30 - POR
--- DEUTERONOMY c28-v31 - POR
--- DEUTERONOMY c28-v32 - POR
--- DEUTERONOMY c28-v33 - POR
--- DEUTERONOMY c28-v34 - POR
--- DEUTERONOMY c28-v35 - POR
--- DEUTERONOMY c28-v36 - POR
--- DEUTERONOMY c28-v37 - POR
--- DEUTERONOMY c28-v38 - POR
--- DEUTERONOMY c28-v39 - POR
--- DEUTERONOMY c28-v40 - POR
--- DEUTERONOMY c28-v41 - POR
--- DEUTERONOMY c28-v42 - POR
--- DEUTERONOMY c28-v43 - POR
--- DEUTERONOMY c28-v44 - POR
--- DEUTERONOMY c28-v45 - POR
--- DEUTERONOMY c28-v46 - POR
--- DEUTERONOMY c28-v47 - POR
--- DEUTERONOMY c28-v48 - POR
--- DEUTERONOMY c28-v49 - POR
--- DEUTERONOMY c28-v50 - POR
--- DEUTERONOMY c28-v51 - POR
--- DEUTERONOMY c28-v52 - POR
--- DEUTERONOMY c28-v53 - POR
--- DEUTERONOMY c28-v54 - POR
--- DEUTERONOMY c28-v55 - POR
--- DEUTERONOMY c28-v56 - POR
--- DEUTERONOMY c28-v57 - POR
--- DEUTERONOMY c28-v58 - POR
--- DEUTERONOMY c28-v59 - POR
--- DEUTERONOMY c28-v60 - POR
--- DEUTERONOMY c28-v61 - POR
--- DEUTERONOMY c28-v62 - POR
--- DEUTERONOMY c28-v63 - POR
--- DEUTERONOMY c28-v64 - POR
--- DEUTERONOMY c28-v65 - POR
--- DEUTERONOMY c28-v66 - POR
--- DEUTERONOMY c28-v67 - POR
--- DEUTERONOMY c28-v68 - POR
--- DEUTERONOMY c29-v1 - POR
--- DEUTERONOMY c29-v2 - POR
--- DEUTERONOMY c29-v3 - POR
--- DEUTERONOMY c29-v4 - POR
--- DEUTERONOMY c29-v5 - POR
--- DEUTERONOMY c29-v6 - POR
--- DEUTERONOMY c29-v7 - POR
--- DEUTERONOMY c29-v8 - POR
--- DEUTERONOMY c29-v9 - POR
--- DEUTERONOMY c29-v10 - POR
--- DEUTERONOMY c29-v11 - POR
--- DEUTERONOMY c29-v12 - POR
--- DEUTERONOMY c29-v13 - POR
--- DEUTERONOMY c29-v14 - POR
--- DEUTERONOMY c29-v15 - POR
--- DEUTERONOMY c29-v16 - POR
--- DEUTERONOMY c29-v17 - POR
--- DEUTERONOMY c29-v18 - POR
--- DEUTERONOMY c29-v19 - POR
--- DEUTERONOMY c29-v20 - POR
--- DEUTERONOMY c29-v21 - POR
--- DEUTERONOMY c29-v22 - POR
--- DEUTERONOMY c29-v23 - POR
--- DEUTERONOMY c29-v24 - POR
--- DEUTERONOMY c29-v25 - POR
--- DEUTERONOMY c29-v26 - POR
--- DEUTERONOMY c29-v27 - POR
--- DEUTERONOMY c29-v28 - POR
--- DEUTERONOMY c29-v29 - POR
--- DEUTERONOMY c30-v1 - POR
--- DEUTERONOMY c30-v2 - POR
--- DEUTERONOMY c30-v3 - POR
--- DEUTERONOMY c30-v4 - POR
--- DEUTERONOMY c30-v5 - POR
--- DEUTERONOMY c30-v6 - POR
--- DEUTERONOMY c30-v7 - POR
--- DEUTERONOMY c30-v8 - POR
--- DEUTERONOMY c30-v9 - POR
--- DEUTERONOMY c30-v10 - POR
--- DEUTERONOMY c30-v11 - POR
--- DEUTERONOMY c30-v12 - POR
--- DEUTERONOMY c30-v13 - POR
--- DEUTERONOMY c30-v14 - POR
--- DEUTERONOMY c30-v15 - POR
--- DEUTERONOMY c30-v16 - POR
--- DEUTERONOMY c30-v17 - POR
--- DEUTERONOMY c30-v18 - POR
--- DEUTERONOMY c30-v19 - POR
--- DEUTERONOMY c30-v20 - POR
--- DEUTERONOMY c31-v1 - POR
--- DEUTERONOMY c31-v2 - POR
--- DEUTERONOMY c31-v3 - POR
--- DEUTERONOMY c31-v4 - POR
--- DEUTERONOMY c31-v5 - POR
--- DEUTERONOMY c31-v6 - POR
--- DEUTERONOMY c31-v7 - POR
--- DEUTERONOMY c31-v8 - POR
--- DEUTERONOMY c31-v9 - POR
--- DEUTERONOMY c31-v10 - POR
--- DEUTERONOMY c31-v11 - POR
--- DEUTERONOMY c31-v12 - POR
--- DEUTERONOMY c31-v13 - POR
--- DEUTERONOMY c31-v14 - POR
--- DEUTERONOMY c31-v15 - POR
--- DEUTERONOMY c31-v16 - POR
--- DEUTERONOMY c31-v17 - POR
--- DEUTERONOMY c31-v18 - POR
--- DEUTERONOMY c31-v19 - POR
--- DEUTERONOMY c31-v20 - POR
--- DEUTERONOMY c31-v21 - POR
--- DEUTERONOMY c31-v22 - POR
--- DEUTERONOMY c31-v23 - POR
--- DEUTERONOMY c31-v24 - POR
--- DEUTERONOMY c31-v25 - POR
--- DEUTERONOMY c31-v26 - POR
--- DEUTERONOMY c31-v27 - POR
--- DEUTERONOMY c31-v28 - POR
--- DEUTERONOMY c31-v29 - POR
--- DEUTERONOMY c31-v30 - POR
--- DEUTERONOMY c32-v1 - POR
--- DEUTERONOMY c32-v2 - POR
--- DEUTERONOMY c32-v3 - POR
--- DEUTERONOMY c32-v4 - POR
--- DEUTERONOMY c32-v5 - POR
--- DEUTERONOMY c32-v6 - POR
--- DEUTERONOMY c32-v7 - POR
--- DEUTERONOMY c32-v8 - POR
--- DEUTERONOMY c32-v9 - POR
--- DEUTERONOMY c32-v10 - POR
--- DEUTERONOMY c32-v11 - POR
--- DEUTERONOMY c32-v12 - POR
--- DEUTERONOMY c32-v13 - POR
--- DEUTERONOMY c32-v14 - POR
--- DEUTERONOMY c32-v15 - POR
--- DEUTERONOMY c32-v16 - POR
--- DEUTERONOMY c32-v17 - POR
--- DEUTERONOMY c32-v18 - POR
--- DEUTERONOMY c32-v19 - POR
--- DEUTERONOMY c32-v20 - POR
--- DEUTERONOMY c32-v21 - POR
--- DEUTERONOMY c32-v22 - POR
--- DEUTERONOMY c32-v23 - POR
--- DEUTERONOMY c32-v24 - POR
--- DEUTERONOMY c32-v25 - POR
--- DEUTERONOMY c32-v26 - POR
--- DEUTERONOMY c32-v27 - POR
--- DEUTERONOMY c32-v28 - POR
--- DEUTERONOMY c32-v29 - POR
--- DEUTERONOMY c32-v30 - POR
--- DEUTERONOMY c32-v31 - POR
--- DEUTERONOMY c32-v32 - POR
--- DEUTERONOMY c32-v33 - POR
--- DEUTERONOMY c32-v34 - POR
--- DEUTERONOMY c32-v35 - POR
--- DEUTERONOMY c32-v36 - POR
--- DEUTERONOMY c32-v37 - POR
--- DEUTERONOMY c32-v38 - POR
--- DEUTERONOMY c32-v39 - POR
--- DEUTERONOMY c32-v40 - POR
--- DEUTERONOMY c32-v41 - POR
--- DEUTERONOMY c32-v42 - POR
--- DEUTERONOMY c32-v43 - POR
--- DEUTERONOMY c32-v44 - POR
--- DEUTERONOMY c32-v45 - POR
--- DEUTERONOMY c32-v46 - POR
--- DEUTERONOMY c32-v47 - POR
--- DEUTERONOMY c32-v48 - POR
--- DEUTERONOMY c32-v49 - POR
--- DEUTERONOMY c32-v50 - POR
--- DEUTERONOMY c32-v51 - POR
--- DEUTERONOMY c32-v52 - POR
--- DEUTERONOMY c33-v1 - POR
--- DEUTERONOMY c33-v2 - POR
--- DEUTERONOMY c33-v3 - POR
--- DEUTERONOMY c33-v4 - POR
--- DEUTERONOMY c33-v5 - POR
--- DEUTERONOMY c33-v6 - POR
--- DEUTERONOMY c33-v7 - POR
--- DEUTERONOMY c33-v8 - POR
--- DEUTERONOMY c33-v9 - POR
--- DEUTERONOMY c33-v10 - POR
--- DEUTERONOMY c33-v11 - POR
--- DEUTERONOMY c33-v12 - POR
--- DEUTERONOMY c33-v13 - POR
--- DEUTERONOMY c33-v14 - POR
--- DEUTERONOMY c33-v15 - POR
--- DEUTERONOMY c33-v16 - POR
--- DEUTERONOMY c33-v17 - POR
--- DEUTERONOMY c33-v18 - POR
--- DEUTERONOMY c33-v19 - POR
--- DEUTERONOMY c33-v20 - POR
--- DEUTERONOMY c33-v21 - POR
--- DEUTERONOMY c33-v22 - POR
--- DEUTERONOMY c33-v23 - POR
--- DEUTERONOMY c33-v24 - POR
--- DEUTERONOMY c33-v25 - POR
--- DEUTERONOMY c33-v26 - POR
--- DEUTERONOMY c33-v27 - POR
--- DEUTERONOMY c33-v28 - POR
--- DEUTERONOMY c33-v29 - POR
--- DEUTERONOMY c34-v1 - POR
--- DEUTERONOMY c34-v2 - POR
--- DEUTERONOMY c34-v3 - POR
--- DEUTERONOMY c34-v4 - POR
--- DEUTERONOMY c34-v5 - POR
--- DEUTERONOMY c34-v6 - POR
--- DEUTERONOMY c34-v7 - POR
--- DEUTERONOMY c34-v8 - POR
--- DEUTERONOMY c34-v9 - POR
--- DEUTERONOMY c34-v10 - POR
--- DEUTERONOMY c34-v11 - POR
--- DEUTERONOMY c34-v12 - POR
+-- c1-v1: § Estas as–palavras que falou Moisés a– todo– Israel no–outro-lado-de o–Jordão no–deserto na–Arabá em-frente-de Sufe entre– Parã e–entre– Tofel e–Labã e–Hazerote e–Di-Zaabe
+-- c1-v2: ¶ Onze — dias de–Horebe caminho-de monte– Seir até Cades-Barneia
+-- c1-v3: ¶ E–aconteceu em–quarenta ano no–décimo– primeiro mês no–primeiro do–mês falou Moisés a– os–filhos-de Israel conforme–tudo que ordenou Yahweh (a)–ele a–eles
+-- c1-v4: ¶ Depois-de ferir–ele (a) Siom rei-de o–amorreu que habitava em–Hesbom e–(a) Ogue rei-de o–Basã que– habitava em–Astarote em–Edrei
+-- c1-v5: ¶ No–outro-lado-de o–Jordão na–terra-de Moabe começou Moisés explicar (a)– a–Lei esta dizendo
+-- c1-v6: ¶ Yahweh nosso–Deus falou a–nós em–Horebe dizendo Suficiente– para–vós habitar no–monte este
+-- c1-v7: ¶ Virai-vos e–parti para–vós e–entrai-em monte-de o–amorreu e–a– todos– seus–vizinhos na–Arabá no–monte e–na–planície e–no–Neguebe e–na–costa-de o–mar terra-de o–cananeu e–o–Líbano até– o–rio o–grande rio– Eufrates
+-- c1-v8: ¶ Vede dei diante-de–vós (a)– a–terra entrai e–possuí (a)– a–terra que jurou Yahweh a–vossos–pais a–Abraão a–Isaque e–a–Jacó dar a–eles e–a–sua–descendência depois-deles
+-- c1-v9: ¶ E–disse a–vós no–tempo aquele dizendo Não– posso sozinho carregar (a)–vós
+-- c1-v10: ¶ Yahweh vosso–Deus multiplicou (a)–vós e–eis-vós hoje como–estrelas-de os–céus em–multidão
+-- c1-v11: ¶ Yahweh Deus-de vossos–pais acrescente sobre–vós como–vós mil vezes e–abençoe (a)–vós como falou a–vós
+-- c1-v12: ¶ Como carregarei sozinho vossa–carga e–vosso–peso e–vossa–disputa
+-- c1-v13: ¶ Dai para–vós homens sábios e–entendidos e–conhecidos para–vossas–tribos e–colocarei–eles como–vossas–cabeças
+-- c1-v14: ¶ E–respondestes (a)–mim e–dissestes Boa– a–palavra que– falaste para–fazer
+-- c1-v15: ¶ E–tomei (a)– cabeças-de vossas–tribos homens sábios e–conhecidos e–coloquei (a)–eles cabeças sobre–vós chefes-de milhares e–chefes-de centenas e–chefes-de cinquentas e–chefes-de dezenas e–oficiais para–vossas–tribos
+-- c1-v16: ¶ E–ordenei (a)– vossos–juízes no–tempo aquele dizendo Ouvi entre– vossos–irmãos e–julgai justiça entre– homem e–entre– seu–irmão e–entre seu–estrangeiro
+-- c1-v17: ¶ Não– reconhecereis faces no–julgamento ao–pequeno como–ao–grande ouvireis não temereis de–face-de– homem pois o–julgamento de–Deus ele e–a–palavra que for–difícil de–vós trareis a–mim e–ouví-la-ei
+-- c1-v18: ¶ E–ordenei (a)–vós no–tempo aquele (a) todas– as–palavras que fareis
+-- c1-v19: ¶ E–partimos de–Horebe e–caminhamos (a) todo– o–deserto o–grande e–o–terrível aquele que vistes caminho-de o–monte-de o–amorreu como ordenou Yahweh nosso–Deus (a)–nós e–viemos até Cades-Barneia
+-- c1-v20: ¶ E–disse a–vós Chegastes até– o–monte-de o–amorreu que– Yahweh nosso–Deus dá a–nós
+-- c1-v21: ¶ Vê deu Yahweh teu–Deus diante-de–ti (a)– a–terra sobe possui como falou Yahweh Deus-de teus–pais a–ti não– temas e–não– desanimes
+-- c1-v22: ¶ E–aproximastes-vos a–mim todos–vós e–dissestes Enviemos homens diante-de–nós e–espiem– para–nós (a)– a–terra e–tragam-de-volta (a)–nós palavra (a)– o–caminho que subiremos– por–ele e–(a) as–cidades que entraremos nelas
+-- c1-v23: ¶ E–pareceu-bem aos–meus–olhos a–palavra e–tomei de–vós doze — homens homem um para–a–tribo
+-- c1-v24: ¶ E–viraram e–subiram à–montanha e–vieram até– vale-de Escol e–espiaram (a)–ela
+-- c1-v25: ¶ E–tomaram em–sua–mão do–fruto-de a–terra e–desceram a–nós e–trouxeram-de-volta (a)–nós palavra e–disseram Boa a–terra que– Yahweh nosso–Deus dá a–nós
+-- c1-v26: ¶ E–não quisestes subir e–rebelastes-vos (contra)– boca-de Yahweh vosso–Deus
+-- c1-v27: ¶ E–murmurastes em–vossas–tendas e–dissestes Por–ódio-de Yahweh (a)–nós tirou–nos de–terra-de Egito para–dar (a)–nós em–mão-de o–amorreu para–destruir–nos
+-- c1-v28: ¶ Para-onde nós subindo Nossos–irmãos derreteram (a)– nosso–coração dizendo Povo grande e–alto de–nós cidades grandes e–fortificadas nos–céus e–também– filhos-de anaquins vimos lá
+-- c1-v29: ¶ E–disse a–vós Não– tremais e–não– temais deles
+-- c1-v30: ¶ Yahweh vosso–Deus o–que–vai diante-de–vós ele lutará por–vós conforme–tudo que fez convosco no–Egito aos–vossos–olhos
+-- c1-v31: ¶ E–no–deserto que viste que carregou–te Yahweh teu–Deus como carrega– homem (a)– seu–filho em–todo– o–caminho que caminhastes até– chegardes até– o–lugar este
+-- c1-v32: ¶ E–na–palavra esta não–estais crendo em–Yahweh vosso–Deus
+-- c1-v33: ¶ O–que–vai diante-de–vós no–caminho para–explorar para–vós lugar para–vosso–acampamento no–fogo de–noite para–vos–mostrar no–caminho que ireis– por–ele e–na–nuvem de–dia
+-- c1-v34: ¶ E–ouviu Yahweh (a)– voz-de vossas–palavras e–irou-se e–jurou dizendo
+-- c1-v35: ¶ Se– verá homem entre–os–homens estes a–geração a–má esta (a) a–terra a–boa que jurei dar a–vossos–pais
+-- c1-v36: ¶ Exceto Calebe filho-de– Jefuné ele vê-la-á e–a–ele– darei (a)– a–terra que pisou– nela e–a–seus–filhos porque — cumpriu após Yahweh
+-- c1-v37: ¶ Também– contra–mim irou-se Yahweh por–vossa–causa dizendo Também– tu não– entrarás lá
+-- c1-v38: ¶ Josué filho-de– Num o–que–está diante-de–ti ele entrará lá (a)–ele fortalece pois– ele fará–herdar–ela (a)– Israel
+-- c1-v39: ¶ E–vossos–pequeninos que dissestes para–despojo serão e–vossos–filhos que não– conhecem hoje bem e–mal eles entrarão lá e–a–eles darei–ela e–eles possuí-la-ão
+-- c1-v40: ¶ E–vós virai-vos para–vós e–parti ao–deserto caminho-de mar– Vermelho
+-- c1-v41: ¶ E–respondestes e–dissestes a–mim Pecamos contra–Yahweh nós subiremos e–lutaremos conforme–tudo que– ordenou–nos Yahweh nosso–Deus e–cingistes homem (a)– armas-de sua–guerra e–preparastes-vos para–subir à–montanha
+-- c1-v42: ¶ E–disse Yahweh a–mim Dize a–eles Não subais e–não– luteis pois não–estou em–vosso–meio e–não sereis–feridos diante-de vossos–inimigos
+-- c1-v43: ¶ E–falei a–vós e–não ouvistes e–rebelastes-vos (contra)– boca-de Yahweh e–foste–presunçosos e–subistes à–montanha
+-- c1-v44: ¶ E–saiu o–amorreu o–que–habita no–monte aquele ao–vosso–encontro e–perseguiram (a)–vós como fazem as–abelhas e–feriram (a)–vós em–Seir até– Hormá
+-- c1-v45: ¶ E–voltastes e–chorastes diante-de Yahweh e–não– ouviu Yahweh vossa–voz e–não deu–ouvidos a–vós
+-- c1-v46: ¶ E–habitastes em–Cades dias muitos como–os–dias que habitastes
+-- c2-v1: § E–viramo-nos e–partimos ao–deserto caminho-de mar– Vermelho como falou Yahweh a–mim e–rodeamos (a)– monte– Seir dias muitos ¶
+-- c2-v2: ¶ E–disse Yahweh a–mim dizendo
+-- c2-v3: ¶ Suficiente– para–vós rodear (a)– o–monte este virai-vos para–vós ao–norte
+-- c2-v4: ¶ E–(a)– o–povo ordena dizendo Vós passais pela–fronteira-de vossos–irmãos filhos-de– Esaú os–que–habitam em–Seir e–temerão de–vós e–guardai-vos muito
+-- c2-v5: ¶ Não– provoqueis contra–eles pois não– darei a–vós de–sua–terra até pisar-de palma-de– pé pois– herança a–Esaú dei (a)– o–monte Seir
+-- c2-v6: ¶ Comida comprareis deles com–prata e–comereis e–também– água comprareis deles com–prata e–bebereis
+-- c2-v7: ¶ Pois Yahweh teu–Deus abençoou–te em–toda obra-de tua–mão ele–conhece teu–caminhar (a)– o–deserto o–grande este este quarenta anos Yahweh teu–Deus contigo não faltou–te coisa
+-- c2-v8: ¶ E–passamos de–junto-de nossos–irmãos filhos-de– Esaú os–que–habitam em–Seir do–caminho-de a–Arabá de–Eilate e–de–Ezião-Geber ¶ e–viramos e–passamos caminho-de deserto-de Moabe
+-- c2-v9: ¶ E–disse Yahweh a–mim Não– aflijas (a)– Moabe e–não– provoques contra–eles guerra pois não– darei a–ti de–sua–terra herança pois aos–filhos-de– Ló dei (a)– Ar herança
+-- c2-v10: ¶ Os–emins antigamente habitavam nela povo grande e–numeroso e–alto como–os–anaquins
+-- c2-v11: ¶ Refains eram–considerados também– eles como–os–anaquins e–os–moabitas chamam a–eles emins
+-- c2-v12: ¶ E–em–Seir habitavam os–horeus antigamente e–os–filhos-de Esaú despossuíram–os e–destruíram–os de–diante-deles e–habitaram em-seu-lugar como fez Israel na–terra-de sua–herança que– deu Yahweh a–eles
+-- c2-v13: ¶ Agora levantai-vos e–passai para–vós (a)– ribeiro-de Zerede e–passamos (a)– ribeiro-de Zerede
+-- c2-v14: ¶ E–os–dias que– caminhamos de–Cades-Barneia até que– passamos (a)– ribeiro-de Zerede trinta e–oito anos até– acabar toda– a–geração homens-de a–guerra do–meio-de o–acampamento como jurou Yahweh a–eles
+-- c2-v15: ¶ E–também mão-de Yahweh foi contra–eles para–perturbá-los do–meio-de o–acampamento até consumirem-se
+-- c2-v16: ¶ E–aconteceu quando– acabaram todos– homens-de a–guerra de–morrer do–meio-de o–povo ¶
+-- c2-v17: ¶ E–falou Yahweh a–mim dizendo
+-- c2-v18: ¶ Tu passas hoje (a)– fronteira-de Moabe (a)– Ar
+-- c2-v19: ¶ E–te-aproximarás em-frente-de filhos-de Amom não– os-aflijas e–não– provoques contra–eles pois não– darei de–terra-de filhos-de– Amom a–ti herança pois aos–filhos-de– Ló dei–a herança
+-- c2-v20: ¶ Terra-de– refains era-considerada também– ela refains habitavam– nela antigamente e–os–amonitas chamam a–eles zanzumins
+-- c2-v21: ¶ Povo grande e–numeroso e–alto como–os–anaquins e–destruiu–os Yahweh de–diante-deles e–despossuíram–os e–habitaram em-seu-lugar
+-- c2-v22: ¶ Como fez para–os–filhos-de Esaú os–que–habitam em–Seir que destruiu (a)– o–horeu de–diante-deles e–despossuíram–os e–habitaram em-seu-lugar até o–dia este
+-- c2-v23: ¶ E–os–aveus os–que–habitam em–aldeias até– Gaza caftorins os–que-saíram de–Caftor destruíram–os e–habitaram em-seu-lugar
+-- c2-v24: ¶ Levantai-vos parti e–passai (a)– ribeiro-de Arnom vede dei em–tua–mão (a)– Siom rei-de– Hesbom o–amorreu e–(a)– sua–terra começa possuir e–provoca contra–ele guerra
+-- c2-v25: ¶ O–dia este começarei pôr teu–terror e–teu–temor sobre– faces-de os–povos debaixo-de todos– os–céus que ouvirão tua–fama e–tremerão e–terão-dor de–tua–face
+-- c2-v26: ¶ E–enviei mensageiros de–deserto-de Quedemote a– Siom rei-de Hesbom palavras-de paz dizendo
+-- c2-v27: ¶ Passarei em–tua–terra pelo–caminho pelo–caminho irei não desviarei direita ou–esquerda
+-- c2-v28: ¶ Comida com–prata vender-me-ás e–comerei e–água com–prata darás– a–mim e–beberei somente passarei com–meus–pés
+-- c2-v29: ¶ Como fizeram– para–mim os–filhos-de Esaú os–que–habitam em–Seir e–os–moabitas os–que–habitam em–Ar até que– passe (a)– o–Jordão a– a–terra que– Yahweh nosso–Deus dá a–nós
+-- c2-v30: ¶ E–não quis Siom rei-de Hesbom deixar-passar–nos por–ele pois– endureceu Yahweh teu–Deus (a)– seu–espírito e–fortaleceu (a)– seu–coração para dá-lo em–tua–mão como–o–dia este ¶
+-- c2-v31: ¶ E–disse Yahweh a–mim Vê comecei dar diante-de–ti (a)– Siom e–(a)– sua–terra começa possuir para–possuir (a)– sua–terra
+-- c2-v32: ¶ E–saiu Siom ao–nosso–encontro ele e–todo– seu–povo para–a–guerra Iaza
+-- c2-v33: ¶ E–deu–o Yahweh nosso–Deus diante-de–nós e–ferimos (a)–ele e–(a)– {seu–filho} (seus–filhos) e–(a)– todo– seu–povo
+-- c2-v34: ¶ E–tomamos (a)– todas– suas–cidades no–tempo aquele e–destruímos (a)– toda– cidade homens e–as–mulheres e–as–crianças não deixamos sobrevivente
+-- c2-v35: ¶ Somente o–gado saqueamos para–nós e–o–despojo-de as–cidades que tomamos
+-- c2-v36: ¶ De–Aroer que sobre– margem-de– ribeiro-de Arnom e–a–cidade que no–ribeiro e–até– o–Gileade não houve cidade que foi-alta-demais de–nós (a)– o–todo deu Yahweh nosso–Deus diante-de–nós
+-- c2-v37: ¶ Somente a– terra-de filhos-de– Amom não te-aproximaste toda– beira-de ribeiro-de Jaboque e–cidades-de a–montanha e–tudo que– ordenou Yahweh nosso–Deus
+-- c3-v1: § E–viramo-nos e–subimos caminho-de o–Basã e–saiu Ogue rei-de– o–Basã ao–nosso–encontro ele e–todo– seu–povo para–a–guerra Edrei
+-- c3-v2: ¶ E–disse Yahweh a–mim Não– temas (a)–ele pois em–tua–mão dei (a)–ele e–(a)– todo– seu–povo e–(a)– sua–terra e–farás a–ele como fizeste a–Siom rei-de o–amorreu que habitava em–Hesbom
+-- c3-v3: ¶ E–deu Yahweh nosso–Deus em–nossa–mão também (a)– Ogue rei-de– o–Basã e–(a)– todo– seu–povo e–ferimo-lo até– não deixar– a–ele sobrevivente
+-- c3-v4: ¶ E–tomamos (a)– todas– suas–cidades no–tempo aquele não houve cidade que não– tomamos deles sessenta cidades toda– região-de Argobe reino-de Ogue em–Basã
+-- c3-v5: ¶ Todas– estas cidades fortificadas muralha alta portas e–trancas além-de cidades-de o–campesino muito muito
+-- c3-v6: ¶ E–destruímos (a)–elas como fizemos a–Siom rei-de Hesbom destruindo toda– cidade homens as–mulheres e–as–crianças
+-- c3-v7: ¶ E–todo– o–gado e–o–despojo-de as–cidades saqueamos para–nós
+-- c3-v8: ¶ E–tomamos no–tempo aquele (a)– a–terra da–mão-de dois reis-de o–amorreu que no–outro-lado-de o–Jordão de–ribeiro-de Arnom até– o–monte Hermom
+-- c3-v9: ¶ Sidônios chamam a–Hermom Siriom e–o–amorreu chamam– a–ele Senir
+-- c3-v10: ¶ Todas cidades-de o–planalto e–todo– o–Gileade e–todo– o–Basã até– Salca e–Edrei cidades-de reino-de Ogue em–Basã
+-- c3-v11: ¶ Pois somente– Ogue rei-de o–Basã permaneceu do–resto-de os–refains eis seu–leito leito-de ferro não ela em–Rabá-de filhos-de Amom nove côvados seu–comprimento e–quatro côvados sua–largura em–côvado-de– homem
+-- c3-v12: ¶ E–(a)– a–terra esta possuímos no–tempo aquele de–Aroer que– sobre– ribeiro-de Arnom e–metade-de monte-de– o–Gileade e–suas–cidades dei ao–rubenita e–ao–gadita
+-- c3-v13: ¶ E–o–resto-de o–Gileade e–todo– o–Basã reino-de Ogue dei a–metade-de tribo-de o–Manassés toda região-de o–Argobe para–todo– o–Basã aquele é-chamado terra-de refains
+-- c3-v14: ¶ Jair filho-de– Manassés tomou (a)– toda– região-de Argobe até– fronteira-de o–gessurita e–o–maacatita e–chamou (a)–elas sobre– seu–nome (a)– o–Basã Havote-Jair até o–dia este
+-- c3-v15: ¶ E–a–Maquir dei (a)– o–Gileade
+-- c3-v16: ¶ E–ao–rubenita e–ao–gadita dei de– o–Gileade e–até– ribeiro-de Arnom meio-de o–ribeiro e–fronteira e–até Jaboque o–ribeiro fronteira-de filhos-de Amom
+-- c3-v17: ¶ E–a–Arabá e–o–Jordão e–fronteira de–Quinerete e–até mar-de a–Arabá mar-de o–Sal debaixo-de encostas-de o–Pisga ao–oriente
+-- c3-v18: ¶ E–ordenei (a)–vós no–tempo aquele dizendo Yahweh vosso–Deus deu a–vós (a)– a–terra esta para–possuí-la armados passareis diante-de vossos–irmãos filhos-de– Israel todos– filhos-de– valor
+-- c3-v19: ¶ Somente vossas–esposas e–vossos–pequeninos e–vosso–gado eu–sei que– gado muito para–vós habitarão em–vossas–cidades que dei a–vós
+-- c3-v20: ¶ Até que– dê–descanso Yahweh a–vossos–irmãos como–a–vós e–possuam também– eles (a)– a–terra que Yahweh vosso–Deus dá a–eles no–outro-lado-de o–Jordão e–voltareis homem a–sua–herança que dei a–vós
+-- c3-v21: ¶ E–(a)– Josué ordenei no–tempo aquele dizendo Teus–olhos estão–vendo (a) tudo– que fez Yahweh vosso–Deus a–dois os–reis estes assim– fará Yahweh a–todos– os–reinos que tu passas lá
+-- c3-v22: ¶ Não os-temais pois Yahweh vosso–Deus ele o–que–luta por–vós ¶
+-- c3-v23: ¶ E–supliquei a– Yahweh no–tempo aquele dizendo
+-- c3-v24: ¶ Ó–Senhor Yahweh tu começaste mostrar (a)– teu–servo (a)– tua–grandeza e–(a)– tua–mão a–forte que quem– Deus nos–céus e–na–terra que– fará como–tuas–obras e–como–tuas–proezas
+-- c3-v25: ¶ Deixa-me-passar– por-favor e–verei (a)– a–terra a–boa que no–outro-lado-de o–Jordão o–monte o–bom este e–o–Líbano
+-- c3-v26: ¶ E–irou-se Yahweh contra–mim por–vossa–causa e–não ouviu a–mim e–disse Yahweh a–mim Suficiente– para–ti não– continues falar a–mim mais sobre–a–palavra esta
+-- c3-v27: ¶ Sobe cume-de o–Pisga e–levanta teus–olhos ao–ocidente e–ao–norte e–ao–sul e–ao–oriente e–vê com–teus–olhos pois– não passarás (a)– o–Jordão este
+-- c3-v28: ¶ E–ordena (a)– Josué e–fortalece–o e–anima–o pois– ele passará diante-de o–povo este e–ele fará–herdar (a)–eles (a)– a–terra que verás
+-- c3-v29: ¶ E–habitamos no–vale em-frente-de Bete-Peor ¶
+-- c4-v1: § E–agora Israel ouve a– os–estatutos e–a– os–juízos que eu ensinando (a)–vós para–fazer para-que vivais e–entreis e–herdeis (a)– a–terra que Yahweh Deus-de vossos–pais dá a–vós
+-- c4-v2: ¶ Não acrescentareis sobre– a–palavra que eu ordeno (a)–vós e–não diminuireis dela para–guardar (a)– mandamentos-de Yahweh vosso–Deus que eu ordeno (a)–vós
+-- c4-v3: ¶ Vossos–olhos estão–vendo (a) o–que– fez Yahweh em–Baal-Peor pois todo– o–homem que caminhou após Baal-Peor destruiu–o Yahweh teu–Deus do–teu–meio
+-- c4-v4: ¶ E–vós os–que–aderem a–Yahweh vosso–Deus vivos todos–vós hoje
+-- c4-v5: ¶ Vede ensinei (a)–vós estatutos e–juízos como ordenou–me Yahweh meu–Deus para–fazer assim no–meio-de a–terra que vós entrando lá para–possuí-la
+-- c4-v6: ¶ E–guardareis e–fareis pois ela vossa–sabedoria e–vosso–entendimento aos–olhos-de os–povos que ouvirão (a) todos– os–estatutos estes e–dirão Somente povo– sábio e–entendido a–nação a–grande esta
+-- c4-v7: ¶ Pois quem– nação grande que– para–ela Deus perto dela como–Yahweh nosso–Deus em–todo– nosso–clamar a–ele
+-- c4-v8: ¶ E–quem nação grande que– para–ela estatutos e–juízos justos como–toda a–Lei esta que eu dando diante-de–vós hoje
+-- c4-v9: ¶ Somente guarda-te para–ti e–guarda tua–alma muito para-que-não– esqueças (a)– as–palavras que– viram teus–olhos e–para-que-não– se-afastem de–teu–coração todos dias-de tua–vida e–farás–conhecê-las a–teus–filhos e–aos–filhos-de teus–filhos
+-- c4-v10: ¶ Dia que estiveste diante-de Yahweh teu–Deus em–Horebe quando–disse Yahweh a–mim Reúne– para–mim (a)– o–povo e–farei–ouvir–os (a)– minhas–palavras que aprenderão para–temer (a)–mim todos– os–dias que eles vivos sobre– a–terra e–(a)– seus–filhos ensinarão
+-- c4-v11: ¶ E–aproximastes-vos e–ficastes-de-pé debaixo-de o–monte e–o–monte queimando com–fogo até– coração-de os–céus escuridão nuvem e–trevas
+-- c4-v12: ¶ E–falou Yahweh a–vós do–meio-de o–fogo som-de palavras vós ouvindo e–forma não–estais vendo somente voz
+-- c4-v13: ¶ E–declarou a–vós (a)– sua–aliança que ordenou (a)–vós fazer dez as–palavras e–escreveu–as sobre– duas tábuas-de pedras
+-- c4-v14: ¶ E–a–mim ordenou Yahweh no–tempo aquele para–ensinar (a)–vós estatutos e–juízos para–fazerdes (a)–eles na–terra que vós passando lá para–possuí-la
+-- c4-v15: ¶ E–guardai-vos muito por–vossas–almas pois não vistes nenhuma– forma no–dia falou Yahweh a–vós em–Horebe do–meio-de o–fogo
+-- c4-v16: ¶ Para-que-não– vos-corrompais e–façais para–vós imagem forma-de qualquer– figura semelhança-de macho ou fêmea
+-- c4-v17: ¶ Semelhança-de qualquer– animal que na–terra semelhança-de qualquer– pássaro alado que voa nos–céus
+-- c4-v18: ¶ Semelhança-de qualquer– rastejante na–terra semelhança-de qualquer– peixe que– nas–águas debaixo-de a–terra
+-- c4-v19: ¶ E–para-que-não– levantes teus–olhos aos–céus e–vejas (a)– o–sol e–(a)– a–lua e–(a)– as–estrelas todo exército-de os–céus e–sejas-impelido e–prostres-te a–eles e–os-sirvas que repartiu Yahweh teu–Deus (a)–eles a–todos os–povos debaixo-de todos– os–céus
+-- c4-v20: ¶ E–(a)–vós tomou Yahweh e–tirou (a)–vós de–cadinho-de o–ferro do–Egito para–ser para–ele povo– herança como–o–dia este
+-- c4-v21: ¶ E–Yahweh irou-se– contra–mim por– vossas–palavras e–jurou para–não meu–passar (a)– o–Jordão e–para–não– entrar a– a–terra a–boa que Yahweh teu–Deus dá a–ti herança
+-- c4-v22: ¶ Pois eu morrendo na–terra esta não–estou passando (a)– o–Jordão e–vós passando e–herdareis (a)– a–terra a–boa esta
+-- c4-v23: ¶ Guardai-vos para–vós para-que-não– esqueçais (a)– aliança-de Yahweh vosso–Deus que cortou convosco e–façais para–vós imagem forma-de qualquer-coisa que ordenou–te Yahweh teu–Deus
+-- c4-v24: ¶ Pois Yahweh teu–Deus fogo consumidor ele Deus zeloso ¶
+-- c4-v25: ¶ Quando– gerardes filhos e–filhos-de filhos e–envelhecerdes na–terra e–vos-corromperdes e–fizerdes imagem forma-de qualquer-coisa e–fizerdes o–mal aos–olhos-de Yahweh– teu–Deus para–provocá-lo
+-- c4-v26: ¶ Tomo-como-testemunha contra–vós hoje (a)– os–céus e–(a)– a–terra que– perecer perecereis rapidamente de–sobre a–terra que vós passando (a)– o–Jordão lá para–possuí-la não– prolongareis dias sobre–ela pois destruir sereis-destruídos
+-- c4-v27: ¶ E–espalhará Yahweh (a)–vós entre–os–povos e–restareis poucos-de número entre–as–nações que conduzirá Yahweh (a)–vós lá
+-- c4-v28: ¶ E–servireis– lá deuses obra-de mãos-de homem madeira e–pedra que não– veem e–não ouvem e–não comem e–não cheiram
+-- c4-v29: ¶ E–buscareis de–lá (a)– Yahweh teu–Deus e–encontrarás quando buscá-lo com–todo– teu–coração e–com–toda– tua–alma
+-- c4-v30: ¶ Na–angústia para–ti e–encontrar-te-ão todas as–palavras estas no–fim-de os–dias e–voltarás até– Yahweh teu–Deus e–ouvirás sua–voz
+-- c4-v31: ¶ Pois Deus misericordioso Yahweh teu–Deus não abandonar–te-á e–não destruir–te-á e–não esquecerá (a)– aliança-de teus–pais que jurou a–eles
+-- c4-v32: ¶ Pois pergunta– por-favor aos–dias primeiros que– foram antes-de–ti desde– o–dia que criou Deus homem sobre– a–terra e–desde–extremo-de os–céus e–até– extremo-de os–céus aconteceu como–a–palavra a–grande esta ou foi-ouvido como–ela
+-- c4-v33: ¶ Ouviu povo voz-de Deus falando do–meio-de– o–fogo como– ouviste tu e–viveu
+-- c4-v34: ¶ Ou tentou Deus vir tomar para–ele nação do–meio-de nação com–provas com–sinais e–com–maravilhas e–com–guerra e–com–mão forte e–com–braço estendido e–com–terrores grandes conforme–tudo que– fez para–vós Yahweh vosso–Deus no–Egito aos–teus–olhos
+-- c4-v35: ¶ Tu foste-mostrado para–saber que Yahweh ele o–Deus não-há outro além-dele
+-- c4-v36: ¶ De– os–céus fez–te–ouvir (a)– sua–voz para–disciplinar–te e–sobre– a–terra mostrou–te (a)– seu–fogo o–grande e–suas–palavras ouviste do–meio-de o–fogo
+-- c4-v37: ¶ E–porque — amou (a)– teus–pais e–escolheu sua–descendência depois-dele e–tirou–te em–sua–presença em–seu–poder o–grande do–Egito
+-- c4-v38: ¶ Para–despossuir nações grandes e–poderosas mais-que-tu de–diante-de–ti para–trazer–te para–dar– a–ti (a)– sua–terra herança como–o–dia este
+-- c4-v39: ¶ E–saberás hoje e–farás–voltar a– teu–coração que Yahweh ele o–Deus nos–céus em-cima e–sobre– a–terra embaixo não-há outro
+-- c4-v40: ¶ E–guardarás (a)– seus–estatutos e–(a)– seus–mandamentos que eu ordeno–te hoje para-que vá–bem para–ti e–para–teus–filhos depois-de–ti e–para-que prolongues dias sobre– a–terra que Yahweh teu–Deus dá a–ti todos– os–dias ¶
+-- c4-v41: § Então separou Moisés três cidades no–outro-lado-de o–Jordão ao–nascer-de sol
+-- c4-v42: ¶ Para–fugir lá homicida que matasse (a)– seu–próximo sem– saber e–ele não– odiando a–ele de–ontem anteontem e–fugisse a– uma de– as–cidades estas e–vivesse
+-- c4-v43: ¶ (A)– Bezer no–deserto na–terra-de o–planalto para–o–rubenita e–(a)– Ramote em–Gileade para–o–gadita e–(a)– Golã em–Basã para–o–manassita
+-- c4-v44: § E–esta a–Lei que– pôs Moisés diante-de filhos-de Israel
+-- c4-v45: ¶ Estes os–testemunhos e–os–estatutos e–os–juízos que falou Moisés a– filhos-de Israel em–sua–saída do–Egito
+-- c4-v46: ¶ No–outro-lado-de o–Jordão no–vale em-frente-de Bete-Peor na–terra-de Siom rei-de o–amorreu que habitava em–Hesbom que feriu Moisés e–os–filhos-de Israel em–sua–saída do–Egito
+-- c4-v47: ¶ E–possuíram (a)– sua–terra e–(a)– terra-de Ogue rei-de– o–Basã dois reis-de o–amorreu que no–outro-lado-de o–Jordão nascer-de sol
+-- c4-v48: ¶ De–Aroer que sobre– margem-de– ribeiro-de Arnom e–até– o–monte Siom ele Hermom
+-- c4-v49: ¶ E–toda– a–Arabá outro-lado-de o–Jordão ao–oriente e–até mar-de a–Arabá debaixo-de encostas-de o–Pisga ¶
+-- c5-v1: § E–chamou Moisés a– todo– Israel e–disse a–eles Ouve Israel (a)– os–estatutos e–(a)– os–juízos que eu falando aos–vossos–ouvidos hoje e–aprendereis (a)–eles e–guardareis para–fazê-los
+-- c5-v2: ¶ Yahweh nosso–Deus cortou conosco aliança em–Horebe
+-- c5-v3: ¶ Não com– nossos–pais cortou Yahweh (a)– a–aliança esta mas conosco nós estes aqui hoje todos-nós vivos
+-- c5-v4: ¶ Face em–face falou Yahweh convosco no–monte do–meio-de o–fogo
+-- c5-v5: ¶ Eu estava-de-pé entre– Yahweh e–entre–vós no–tempo aquele para–declarar a–vós (a)– palavra-de Yahweh pois temestes de–face-de o–fogo e–não– subistes ao–monte dizendo ¶
+-- c5-v6: § Eu Yahweh teu–Deus que tirei–te de–terra-de Egito de–casa-de servos
+-- c5-v7: ¶ Não será– para–ti deuses outros sobre– minha–face
+-- c5-v8: ¶ Não– farás– para–ti imagem qualquer– forma que nos–céus em-cima e–que na–terra embaixo e–que nas–águas debaixo-de a–terra
+-- c5-v9: ¶ Não– prostrar-te-ás a–eles e–não os-servirás pois eu Yahweh teu–Deus Deus zeloso visitando iniquidade-de pais sobre– filhos e–sobre– terceiras-gerações e–sobre– quartas-gerações dos–que-me-odeiam
+-- c5-v10: ¶ E–fazendo misericórdia a–milhares dos–que-me-amam e–dos–que-guardam {seus–mandamentos} (meus–mandamentos) ¶
+-- c5-v11: ¶ Não levantarás (a)– nome-de– Yahweh teu–Deus em–vão pois não inocentará Yahweh (a) que– levantar (a)– seu–nome em–vão ¶
+-- c5-v12: ¶ Guarda (a)– dia-de o–sábado para–santificá-lo como ordenou–te Yahweh teu–Deus
+-- c5-v13: ¶ Seis dias trabalharás e–farás toda– tua–obra
+-- c5-v14: ¶ E–dia o–sétimo sábado para–Yahweh teu–Deus não farás nenhuma– obra tu e–teu–filho– e–tua–filha e–teu–servo– e–tua–serva e–teu–boi e–teu–jumento e–todo– teu–animal e–teu–estrangeiro que em–teus–portões para-que descanse teu–servo e–tua–serva como–tu
+-- c5-v15: ¶ E–lembrarás que– servo foste na–terra-de Egito e–tirou–te Yahweh teu–Deus de–lá com–mão forte e–com–braço estendido sobre– isto ordenou–te Yahweh teu–Deus fazer (a)– dia-de o–sábado ¶
+-- c5-v16: ¶ Honra (a)– teu–pai e–(a)– tua–mãe como ordenou–te Yahweh teu–Deus para-que prolonguem-se teus–dias e–para-que vá–bem para–ti sobre a–terra que– Yahweh teu–Deus dá a–ti ¶
+-- c5-v17: ¶ Não matarás ¶
+-- c5-v18: ¶ E–não adulterarás ¶
+-- c5-v19: ¶ E–não furtarás ¶
+-- c5-v20: ¶ E–não– responderás contra–teu–próximo testemunho falso ¶
+-- c5-v21: ¶ E–não cobiçarás esposa-de teu–próximo ¶ e–não desejarás casa-de teu–próximo seu–campo e–seu–servo e–sua–serva seu–boi e–seu–jumento e–tudo que de–teu–próximo ¶
+-- c5-v22: § (A)– as–palavras estas falou Yahweh a– toda– vossa–assembleia no–monte do–meio-de o–fogo a–nuvem e–a–trevas voz grande e–não acrescentou e–escreveu–as sobre– duas tábuas-de pedras e–deu–as a–mim
+-- c5-v23: ¶ E–aconteceu quando–ouvirdes (a)– a–voz do–meio-de a–escuridão e–o–monte queimando com–fogo e–aproximastes-vos a–mim todas– cabeças-de vossas–tribos e–vossos–anciãos
+-- c5-v24: ¶ E–dissestes Eis mostrou–nos Yahweh nosso–Deus (a)– sua–glória e–(a)– sua–grandeza e–(a)– sua–voz ouvimos do–meio-de o–fogo o–dia este vimos que– fala Deus (a)– o–homem e–vive
+-- c5-v25: ¶ E–agora por-que morreremos pois consumir–nos-á o–fogo o–grande este se– continuarmos nós ouvir (a)– voz-de Yahweh nosso–Deus mais e–morreremos
+-- c5-v26: ¶ Pois quem toda– carne que ouviu voz-de Deus vivo falando do–meio-de– o–fogo como–nós e–viveu
+-- c5-v27: ¶ Aproxima-te tu e–ouve (a) tudo– que disser Yahweh nosso–Deus e–tu falarás a–nós (a) tudo– que falar Yahweh nosso–Deus a–ti e–ouviremos e–faremos
+-- c5-v28: ¶ E–ouviu Yahweh (a)– voz-de vossas–palavras quando–faláveis a–mim e–disse Yahweh a–mim Ouvi (a)– voz-de palavras-de o–povo este que falaram a–ti fizeram-bem tudo– que falaram
+-- c5-v29: ¶ Quem– desse e–fosse seu–coração este a–eles para–temer (a)–mim e–para–guardar (a)– todos– meus–mandamentos todos– os–dias para-que vá–bem a–eles e–a–seus–filhos para–sempre
+-- c5-v30: ¶ Vai dize a–eles Voltai para–vós para–vossas–tendas
+-- c5-v31: ¶ E–tu aqui fica-de-pé comigo e–falarei a–ti (a) todo– o–mandamento e–os–estatutos e–os–juízos que ensinarás–os e–farão na–terra que eu dando a–eles para–possuí-la
+-- c5-v32: ¶ E–guardareis para–fazer como ordenou Yahweh vosso–Deus (a)–vós não desviareis direita ou–esquerda
+-- c5-v33: ¶ Em–todo– o–caminho que ordenou Yahweh vosso–Deus (a)–vós andareis para-que vivais e–bem para–vós e–prolongueis dias na–terra que herdareis
+-- c6-v1: § E–este o–mandamento os–estatutos e–os–juízos que ordenou Yahweh vosso–Deus para–ensinar (a)–vós para–fazer na–terra que vós passando lá para–possuí-la
+-- c6-v2: ¶ Para-que temas (a)– Yahweh teu–Deus para–guardar (a)– todos– seus–estatutos e–seus–mandamentos que eu ordenando–te tu e–teu–filho e–filho-de– teu–filho todos dias-de tua–vida e–para-que prolonguem-se teus–dias
+-- c6-v3: ¶ E–ouvirás Israel e–guardarás para–fazer para-que vá–bem para–ti e–para-que vos-multipliqueis muito como falou Yahweh Deus-de teus–pais a–ti terra fluindo-de leite e–mel ¶
+-- c6-v4: § Ouve Israel Yahweh nosso–Deus Yahweh um
+-- c6-v5: ¶ E–amarás (a) Yahweh teu–Deus com–todo– teu–coração e–com–toda– tua–alma e–com–toda– tua–força
+-- c6-v6: ¶ E–serão as–palavras estas que eu ordenando–te hoje sobre– teu–coração
+-- c6-v7: ¶ E–incutirás–as a–teus–filhos e–falarás nelas ao–sentar-te em–tua–casa e–ao–andar-te no–caminho e–ao–deitar-te e–ao–levantar-te
+-- c6-v8: ¶ E–atá-las-ás para–sinal sobre– tua–mão e–serão para–frontéis entre teus–olhos
+-- c6-v9: ¶ E–escreverás–as sobre– batentes-de tua–casa e–em–teus–portões ¶
+-- c6-v10: § E–será quando trouxer–te Yahweh teu–Deus a– a–terra que jurou a–teus–pais a–Abraão a–Isaque e–a–Jacó dar a–ti cidades grandes e–boas que não– construíste
+-- c6-v11: ¶ E–casas cheias-de todo– bem que não– encheste e–cisternas cavadas que não– cavaste vinhas e–oliveiras que não– plantaste e–comerás e–saciar-te-ás
+-- c6-v12: ¶ Guarda-te para–ti para-que-não– esqueças (a)– Yahweh que tirou–te de–terra-de Egito de–casa-de servos
+-- c6-v13: ¶ (A)– Yahweh teu–Deus temerás e–a–ele servirás e–em–seu–nome jurarás
+-- c6-v14: ¶ Não ireis após deuses outros dos–deuses-de os–povos que ao–vosso–redor
+-- c6-v15: ¶ Pois Deus zeloso Yahweh teu–Deus em–teu–meio para-que-não– acenda-se ira-de– Yahweh teu–Deus contra–ti e–destrua–te de–sobre face-de a–terra ¶
+-- c6-v16: ¶ Não tentareis (a)– Yahweh vosso–Deus como tentastes em–Massá
+-- c6-v17: ¶ Guardar guardareis (a)– mandamentos-de Yahweh vosso–Deus e–seus–testemunhos e–seus–estatutos que ordenou–te
+-- c6-v18: ¶ E–farás o–reto e–o–bom aos–olhos-de Yahweh para-que vá–bem para–ti e–entrarás e–possuirás (a)– a–terra a–boa que– jurou Yahweh a–teus–pais
+-- c6-v19: ¶ Para–expulsar (a)– todos– teus–inimigos de–diante-de–ti como falou Yahweh ¶
+-- c6-v20: § Quando– perguntar–te teu–filho amanhã dizendo Que os–testemunhos e–os–estatutos e–os–juízos que ordenou Yahweh nosso–Deus (a)–vós
+-- c6-v21: ¶ E–dirás a–teu–filho Servos fomos de–Faraó no–Egito e–tirou–nos Yahweh do–Egito com–mão forte
+-- c6-v22: ¶ E–deu Yahweh sinais e–maravilhas grandes e–males no–Egito contra–Faraó e–contra–toda– sua–casa aos–nossos–olhos
+-- c6-v23: ¶ E–a–nós tirou de–lá para-que trouxesse (a)–nós para–dar a–nós (a)– a–terra que jurou a–nossos–pais
+-- c6-v24: ¶ E–ordenou–nos Yahweh fazer (a)– todos– os–estatutos estes para–temer (a)– Yahweh nosso–Deus para–bem a–nós todos– os–dias para–manter-nos-vivos como–o–dia este
+-- c6-v25: ¶ E–justiça será– para–nós quando– guardarmos para–fazer (a)– todo– o–mandamento este diante-de Yahweh nosso–Deus como ordenou–nos ¶
+-- c7-v1: Pois trouxer–te Yahweh teu–Deus para– a–terra que– tu entrando– lá para–possuí–la e–expulsar nações– muitas de–diante–de–ti o–hitita e–o–girgaseu e–o–amorreu e–o–cananeu e–o–perizeu e–o–heveu e–o–jebuseu sete nações maiores e–mais–fortes do–que–tu
+-- c7-v2: E–entregar–os Yahweh teu–Deus diante–de–ti e–golpearás–os destruir destruirás (a)–eles não– cortarás para–eles aliança e–não terás–compaixão–deles
+-- c7-v3: E–não casarás com–eles tua–filha não– darás a–seu–filho e–sua–filha não– tomarás para–teu–filho
+-- c7-v4: Pois– desviará (a)– teu–filho de–após–mim e–servirão deuses outros e–acenderá ira–de– Yahweh contra–vós e–destruir–te–á rapidamente
+-- c7-v5: Pois– se– assim fareis para–eles seus–altares derrubareis e–suas–colunas quebrareis e–seus–postes–sagrados cortareis e–suas–imagens–esculpidas queimareis no–fogo
+-- c7-v6: Pois povo santo tu para–Yahweh teu–Deus em–ti escolheu Yahweh teu–Deus para–ser para–ele para–povo de–possessão–especial de–todos– os–povos que sobre– face–de– a–terra §
+-- c7-v7: Não por–serdes–numerosos de–todos– os–povos desejou Yahweh a–vós e–escolheu a–vós pois– vós o–menor de–todos– os–povos
+-- c7-v8: Pois do–amor–de– Yahweh (a)–vós e–de–guardar (a)– o–juramento que jurou a–vossos–pais fez–sair Yahweh (a)–vós com–mão forte e–resgatou–te de–casa–de– escravos da–mão–de– Faraó rei–de– Egito
+-- c7-v9: E–saberás que– Yahweh teu–Deus ele o–Deus o–Deus o–fiel guardando a–aliança e–a–bondade para–os–que–o–amam e–para–os–que–guardam [seus–mandamentos] seus–mandamentos por–mil gerações
+-- c7-v10: E–retribuindo aos–que–o–odeiam para– sua–face para–destruí–lo não tardará ao–que–o–odeia para– sua–face retribuirá– a–ele
+-- c7-v11: E–guardarás (a)– o–mandamento e–(a)– os–estatutos e–(a)– os–juízos que eu ordeno–te hoje para–fazê–los ¶
+-- c7-v12: E–será porque ouvirdes (a) os–juízos estes e–guardardes e–fizerdes (a)–eles e–guardará Yahweh teu–Deus para–ti (a)– a–aliança e–(a)– a–bondade que jurou a–teus–pais
+-- c7-v13: E–amar–te–á e–abençoar–te–á e–multiplicar–te–á e–abençoará fruto–de– teu–ventre e–fruto–de– tua–terra teu–grão e–teu–vinho–novo e–teu–azeite crias–de– teus–bois e–rebanhos–de– tuas–ovelhas sobre a–terra que– jurou a–teus–pais dar a–ti
+-- c7-v14: Bendito serás de–todos– os–povos não– haverá entre–ti estéril e–estéril e–entre–teu–gado
+-- c7-v15: E–removerá Yahweh de–ti toda– enfermidade e–todas– doenças–de– Egito as–más que conheceste não porá–as em–ti e–porá–as em–todos– os–que–te–odeiam
+-- c7-v16: E–consumirás (a)– todos– os–povos que Yahweh teu–Deus dá a–ti não– terá–pena teu–olho deles e–não servirás (a)– seus–deuses pois– armadilha ele para–ti §
+-- c7-v17: Se disseres em–teu–coração numerosas as–nações estas mais–do–que–eu como poderei desapossá–las
+-- c7-v18: Não temerás delas lembrar lembrarás (a) o–que– fez Yahweh teu–Deus a–Faraó e–a–todo– Egito
+-- c7-v19: As–provações as–grandes que– viram teus–olhos e–os–sinais e–os–prodígios e–a–mão a–forte e–o–braço o–estendido que fez–sair–te Yahweh teu–Deus assim– fará Yahweh teu–Deus a–todos– os–povos que– tu temes de–diante–deles
+-- c7-v20: E–também (a)– a–vespa enviará Yahweh teu–Deus contra–eles até– perecerem os–remanescentes e–os–escondidos de–diante–de–ti
+-- c7-v21: Não ficarás–aterrorizado de–diante–deles pois– Yahweh teu–Deus em–teu–meio Deus grande e–temível
+-- c7-v22: E–expulsará Yahweh teu–Deus (a)– as–nações estas de–diante–de–ti pouco a–pouco não poderás acabar–com–elas rapidamente para–que–não– multipliquem contra–ti animais–de– o–campo
+-- c7-v23: E–entregará–os Yahweh teu–Deus diante–de–ti e–confundi–los–á confusão grande até serem–destruídos
+-- c7-v24: E–entregará seus–reis em–tua–mão e–destruirás (a)– seu–nome de–debaixo–de– os–céus não– ficará–de–pé homem diante–de–ti até destruíres (a)–eles
+-- c7-v25: Imagens–esculpidas–de– seus–deuses queimareis no–fogo não– cobiçarás prata e–ouro sobre–elas e–tomarás para–ti para–que–não– sejas–enlaçado por–isso pois abominação–de– Yahweh teu–Deus é
+-- c7-v26: E–não– trarás abominação para– tua–casa e–serás maldição como–ela detestar detestarás–a e–abominar abominarás–a pois– maldição é ¶
+-- c8-v1: Todo– o–mandamento que eu ordeno–te hoje guardareis para–fazer para–que vivais e–vos–multipliqueis e–entreis e–possuais (a)– a–terra que– jurou Yahweh a–vossos–pais
+-- c8-v2: E–lembrarás (a)– todo– o–caminho que fez–te–andar Yahweh teu–Deus estes quarenta anos no–deserto para–que humilhar–te provar–te para–saber (a)– o–que em–teu–coração se–guardarás [seus–mandamentos] seus–mandamentos ou– não
+-- c8-v3: E–humilhou–te e–fez–te–ter–fome e–alimentou–te (a) o–maná que não– conhecias e–não conheceram teus–pais para–que fazer–te–saber que não de– o–pão somente viverá o–homem mas de– toda– palavra–de– boca–de– Yahweh viverá o–homem
+-- c8-v4: Tua–roupa não envelheceu de–sobre–ti e–teu–pé não inchou estes quarenta anos
+-- c8-v5: E–saberás com– teu–coração que como disciplina homem (a)– seu–filho Yahweh teu–Deus disciplina–te
+-- c8-v6: E–guardarás (a)– mandamentos–de– Yahweh teu–Deus para–andar em–seus–caminhos e–para–temê– lo
+-- c8-v7: Pois Yahweh teu–Deus fazendo–te–entrar em– terra boa terra–de– ribeirões–de– água fontes e–profundezas brotando no–vale e–na–montanha
+-- c8-v8: Terra–de– trigo e–cevada e–videira e–figueira e–romã terra–de– oliveira–de– óleo e–mel
+-- c8-v9: Terra que não em–escassez comerás– nela pão não– falta–te nada nela terra que suas–pedras ferro e–de–seus–montes cavarás cobre
+-- c8-v10: E–comerás e–ficarás–satisfeito e–abençoarás (a)– Yahweh teu–Deus pela– a–terra a–boa que deu– a–ti
+-- c8-v11: Guarda–te para–ti para–que–não– esqueças (a)– Yahweh teu–Deus para–não guardar seus–mandamentos e–seus–juízos e–seus–estatutos que eu ordeno–te hoje
+-- c8-v12: Para–que–não– comeres e–ficares–satisfeito e–casas boas construires e–habitares
+-- c8-v13: E–teu–gado e–tuas–ovelhas multiplicarem e–prata e–ouro multiplicar–se– para–ti e–tudo que– para–ti multiplicar–se
+-- c8-v14: E–exaltar–se teu–coração e–esqueceres (a)– Yahweh teu–Deus que–fez–te–sair de–terra–de– Egito de–casa–de– escravos
+-- c8-v15: Que–fez–te–andar no–deserto o–grande e–o–temível serpente ardente e–escorpião e–sede que não–havia– água que–fez–sair para–ti água de–rocha–de– pederneira
+-- c8-v16: Que–alimentou–te maná no–deserto que não– conheceram teus–pais para–que humilhar–te e–para–que provar–te para–fazer–te–bem no–teu–fim
+-- c8-v17: E–dirás em–teu–coração minha–força e–poder–de– minha–mão fez para–mim (a)– esta–riqueza esta
+-- c8-v18: E–lembrar–te–ás (a)– Yahweh teu–Deus pois ele o–que–dá a–ti força para–fazer riqueza para–que confirmar (a)– sua–aliança que– jurou a–teus–pais como–o–dia este ¶
+-- c8-v19: E–será se– esquecer esqueceres (a)– Yahweh teu–Deus e–andares após deuses outros e–servi–los e–prostrar–te a–eles testifico contra–vós hoje que perecer perecereis
+-- c8-v20: Como–as–nações que Yahweh destrói de–diante–de–vós assim perecereis porque não ouvirdes a–voz–de– Yahweh vosso–Deus ¶
+-- c9-v1: Ouve Israel tu atravessando hoje (a)– o–Jordão para–entrar para–desapossar nações grandes e–mais–fortes do–que–tu cidades grandes e–fortificadas até–o–céu
+-- c9-v2: Povo– grande e–alto filhos–de– anaquins que tu conheces e–tu ouviste quem ficará–de–pé diante–de– filhos–de– Anaque
+-- c9-v3: E–saberás hoje que Yahweh teu–Deus ele– o–que–atravessa diante–de–ti fogo consumidor ele destruirá–os e–ele submeterá–os diante–de–ti e–desapossarás–os e–destruí–los–ás rapidamente como falou Yahweh a–ti
+-- c9-v4: Não– dirás em–teu–coração quando–expulsar Yahweh teu–Deus (a)–eles de–diante–de–ti dizendo por–minha–justiça trouxe–me Yahweh para–desapossar (a)– a–terra esta e–pela–maldade–de– as–nações estas Yahweh desapossando–os de–diante–de–ti
+-- c9-v5: Não por–tua–justiça e–pela–retidão–de– teu–coração tu entrando para–desapossar (a)– sua–terra mas pela–maldade–de– as–nações estas Yahweh teu–Deus desapossando–os de–diante–de–ti e–para–que confirmar (a)– a–palavra que jurou Yahweh a–teus–pais a–Abraão a–Isaque e–a–Jacó
+-- c9-v6: E–saberás que não por–tua–justiça Yahweh teu–Deus dando a–ti (a)– a–terra a–boa esta para–possuí–la pois povo–de– dura– cerviz tu
+-- c9-v7: Lembra–te não– esqueças (a) o–que– provocaste–à–ira (a)– Yahweh teu–Deus no–deserto desde– o–dia que– saíste de–terra–de– Egito até– chegardes até– o–lugar este rebeldes fostes com– Yahweh
+-- c9-v8: E–em–Horebe provocastes–à–ira (a)– Yahweh e–irou–se Yahweh contra–vós para–destruir (a)–vós
+-- c9-v9: Quando–subi o–monte para–receber as–tábuas–de– pedra tábuas–de– a–aliança que– cortou Yahweh convosco e–fiquei no–monte quarenta dias e–quarenta noites pão não comi e–água não bebi
+-- c9-v10: E–deu Yahweh a–mim (a)– duas– tábuas–de– pedra escritas com–dedo–de– Deus e–sobre–elas como–todas– as–palavras que falou Yahweh convosco no–monte do–meio–de– o–fogo no–dia–de– a–assembléia
+-- c9-v11: E–foi ao–fim–de– quarenta dias e–quarenta noites deu Yahweh a–mim (a)– duas– tábuas–de– pedra tábuas–de– a–aliança
+-- c9-v12: E–disse Yahweh a–mim levanta–te desce rapidamente daqui pois corrompeu–se teu–povo que fizeste–sair do–Egito desviaram–se rapidamente de– o–caminho que ordenei–lhes fizeram para–si imagem–fundida
+-- c9-v13: E–disse Yahweh a–mim dizendo vi (a)– o–povo este e–eis povo–de– dura– cerviz é
+-- c9-v14: Deixa–me de–mim e–destruirei–os e–apagarei (a)– seu–nome de–debaixo–de– os–céus e–farei (a)–ti para–nação– poderosa e–numerosa mais–do–que–ele
+-- c9-v15: E–virei–me e–desci de– o–monte e–o–monte ardendo no–fogo e–duas– tábuas–de– a–aliança sobre duas– minhas–mãos
+-- c9-v16: E–vi e–eis pecastes contra–Yahweh vosso–Deus fizestes para–vós bezerro–de– fundição desviastes–vos rapidamente de– o–caminho que– ordenou Yahweh (a)–vós
+-- c9-v17: E–agarrei nas–duas– tábuas e–lancei–as de–sobre duas– minhas–mãos e–quebrei–as diante–de–vossos–olhos
+-- c9-v18: E–prostrei–me diante–de– Yahweh como–na–primeira–vez quarenta dias e–quarenta noites pão não comi e–água não bebi por–causa–de todo– vosso–pecado que pecastes para–fazer o–mal aos–olhos–de– Yahweh para–provocá–lo
+-- c9-v19: Pois temi diante–de– a–ira e–o–furor que irou–se Yahweh contra–vós para–destruir (a)–vós e–ouviu Yahweh a–mim também naquela–vez aquela
+-- c9-v20: E–contra–Arão irou–se Yahweh muito para–destruí–lo e–orei também– por Arão naquele–tempo aquele
+-- c9-v21: E–(a)– vosso–pecado que– fizestes (a)– o–bezerro tomei e–queimei (a)–ele no–fogo e–esmaguei (a)–ele moendo bem até que– fino como–pó e–lancei (a)– seu–pó no– o–ribeiro que–desce de– o–monte
+-- c9-v22: E–em–Taberá e–em–Massá e–em–Quibrote–Hataavá provocando–à–ira fostes (a)– Yahweh
+-- c9-v23: E–quando–enviou Yahweh (a)–vós de–Cades–Barneia dizendo subi e–possuí (a)– a–terra que dei a–vós e–rebelastes–vos contra– boca–de– Yahweh vosso–Deus e–não crestes nele e–não ouvistes a–sua–voz
+-- c9-v24: Rebeldes fostes com– Yahweh desde–o–dia que–conheci (a)–vós
+-- c9-v25: E–prostrei–me diante–de– Yahweh (a) quarenta o–dia e–(a)– quarenta a–noite que prostrei–me pois– disse Yahweh para–destruir (a)–vós
+-- c9-v26: E–orei a– Yahweh e–disse Senhor Yahweh não– destruas teu–povo e–tua–herança que resgataste com–tua–grandeza que– fizeste–sair do–Egito com–mão forte
+-- c9-v27: Lembra–te de–teus–servos de–Abraão de–Isaque e–de–Jacó não– olhes para– dureza–de– o–povo este e–para– sua–maldade e–para– seu–pecado
+-- c9-v28: Para–que–não– digam a–terra que fizeste–nos–sair de–lá por–não– poder Yahweh trazê–los para– a–terra que– falou a–eles e–por–odiá–los (a)–eles fez–os–sair para–matá–los no–deserto
+-- c9-v29: E–eles teu–povo e–tua–herança que fizeste–sair com–tua–força a–grande e–com–teu–braço o–estendido ¶
+-- c10-v1: Naquele–tempo aquele disse Yahweh a–mim talha– para–ti duas– tábuas–de– pedra como–as–primeiras e–sobe a–mim o–monte e–farás para–ti arca–de– madeira
+-- c10-v2: E–escreverei sobre– as–tábuas (a)– as–palavras que estavam sobre– as–tábuas as–primeiras que quebraste e–colocarás–as na–arca
+-- c10-v3: E–fiz arca–de– madeira–de– acácia e–talhei duas– tábuas–de– pedra como–as–primeiras e–subi o–monte e–duas– as–tábuas em–minha–mão
+-- c10-v4: E–escreveu sobre– as–tábuas como–a–escrita a–primeira (a) dez–de– as–palavras que falou Yahweh a–vós no–monte do–meio–de– o–fogo no–dia–de– a–assembléia e–deu–as Yahweh a–mim
+-- c10-v5: E–virei–me e–desci de– o–monte e–coloquei (a)– as–tábuas na–arca que fiz e–ficaram ali como ordenou–me Yahweh
+-- c10-v6: E–os–filhos–de– Israel partiram de–Beerote–Bene–Jaacã Mossera ali morreu Arão e–foi–sepultado ali e–ministrou–como–sacerdote Eleazar seu–filho em–seu–lugar
+-- c10-v7: De–ali partiram a–Gudgodá e–de– Gudgodá Jotbatá terra–de– ribeirões–de– água
+-- c10-v8: Naquele–tempo aquele separou Yahweh (a)– tribo–de– Levi para–carregar (a)– arca–de– aliança–de– Yahweh para–estar diante–de– Yahweh para–servi–lo e–para–abençoar em–seu–nome até o–dia este
+-- c10-v9: Por– isso não– teve Levi parte e–herança com– seus–irmãos Yahweh ele sua–herança como falou Yahweh teu–Deus a–ele
+-- c10-v10: E–eu fiquei no–monte como–os–dias os–primeiros quarenta dias e–quarenta noites e–ouviu Yahweh a–mim também naquela–vez aquela não– quis Yahweh destruir–te
+-- c10-v11: E–disse Yahweh a–mim levanta–te vai para–viagem diante–de– o–povo e–entrarão e–possuirão (a)– a–terra que– jurei a–seus–pais dar a–eles ¶
+-- c10-v12: E–agora Israel o–que Yahweh teu–Deus pede de–ti senão se–não– para–temer (a)– Yahweh teu–Deus para–andar em–todos– seus–caminhos e–para–amar (a)–ele e–para–servir (a)– Yahweh teu–Deus com–todo– teu–coração e–com–toda– tua–alma
+-- c10-v13: Para–guardar (a)– mandamentos–de– Yahweh e–(a)– seus–estatutos que eu ordeno–te hoje para–teu–bem para–ti
+-- c10-v14: Eis a–Yahweh teu–Deus os–céus e–céus–de– os–céus a–terra e–tudo– que– nela
+-- c10-v15: Somente em–teus–pais agradou–se Yahweh para–amar (a)–eles e–escolheu em–sua–semente após–eles a–vós de–todos– os–povos como–o–dia este
+-- c10-v16: E–circuncidareis (a) prepúcio–de– vosso–coração e–vossa–cerviz não endurecereis mais
+-- c10-v17: Pois Yahweh vosso–Deus ele Deus–de– os–deuses e–Senhor–de– os–senhores o–Deus o–grande o–poderoso e–o–temível que não– aceita rostos e–não aceita suborno
+-- c10-v18: Fazendo justiça–de– órfão e–viúva e–amando estrangeiro para–dar a–ele pão e–roupa
+-- c10-v19: E–amareis (a)– o–estrangeiro pois– estrangeiros fostes em–terra–de– Egito
+-- c10-v20: (a)– Yahweh teu–Deus temerás (a)–ele servirás e–nele apegar–te–ás e–em–seu–nome jurarás
+-- c10-v21: Ele teu–louvor e–ele teu–Deus que– fez contigo (a)– as–grandes–coisas e–(a)– as–temíveis estas que viram teus–olhos
+-- c10-v22: Com–setenta almas desceram teus–pais ao–Egito e–agora pôs–te Yahweh teu–Deus como–estrelas–de– os–céus em–multidão
+-- c11-v1: E–amarás (a) Yahweh teu–Deus e–guardarás sua–guarda e–seus–estatutos e–seus–juízos e–seus–mandamentos todos– os–dias
+-- c11-v2: E–sabereis hoje pois não (a)– vossos–filhos que não– conheceram e–que não– viram (a)– disciplina–de– Yahweh vosso–Deus (a)– sua–grandeza (a)– sua–mão a–forte e–seu–braço o–estendido
+-- c11-v3: E–(a)– seus–sinais e–(a)– suas–obras que fez no–meio–de– Egito a–Faraó rei–de– Egito e–a–toda– sua–terra
+-- c11-v4: E–que fez ao–exército–de– Egito a–seus–cavalos e–a–seus–carros que fez–transbordar (a)– águas–de– mar–de– juncos sobre– suas–faces quando–perseguiram após–vós e–destruiu–os Yahweh até o–dia este
+-- c11-v5: E–que fez a–vós no–deserto até– chegardes até– o–lugar este
+-- c11-v6: E–que fez a–Datã e–a–Abirão filhos–de– Eliabe filho–de– Rúben que abriu a–terra (a)– sua–boca e–engoliu–os e–(a)– suas–casas e–(a)– suas–tendas e–(a) toda– a–substância que a–seus–pés no–meio–de– todo– Israel
+-- c11-v7: Pois vossos–olhos os–que–viram (a)– toda– obra–de– Yahweh a–grande que fez
+-- c11-v8: E–guardareis (a)– todo– o–mandamento que eu ordeno–te hoje para–que vos–fortaleçais e–entreis e–possuais (a)– a–terra que vós atravessando para–lá para–possuí–la
+-- c11-v9: E–para–que prolongueis dias sobre– a–terra que jurou Yahweh a–vossos–pais dar a–eles e–a–sua–semente terra–de– fluindo–de– leite e–mel §
+-- c11-v10: Pois a–terra que tu entrando– lá para–possuí–la não como–terra–de– Egito é que saístes de–lá que semeias (a)– tua–semente e–regas com–teu–pé como–horta–de– verdura
+-- c11-v11: E–a–terra que vós atravessando para–lá para–possuí–la terra–de– montes e–vales da–chuva–de– os–céus bebe– água
+-- c11-v12: Terra que– Yahweh teu–Deus busca (a)–ela continuamente olhos–de– Yahweh teu–Deus nela desde–início–de– o–ano e–até fim–de– ano §
+-- c11-v13: E–será se– ouvir ouvirdes a– meus–mandamentos que eu ordeno (a)–vós hoje para–amar (a)– Yahweh vosso–Deus e–para–servi–lo com–todo– vosso–coração e–com–toda– vossa–alma
+-- c11-v14: E–darei chuva–de– vossa–terra em–seu–tempo chuva–temporã e–tardia e–recolherás teu–grão e–teu–vinho–novo e–teu–azeite
+-- c11-v15: E–darei erva em–teu–campo para–teu–gado e–comerás e–ficarás–satisfeito
+-- c11-v16: Guardai–vos para–vós para–que–não– seja–enganado vosso–coração e–vos–desvieis e–sirvais deuses outros e–vos–prostrardes a–eles
+-- c11-v17: E–acenderá ira–de– Yahweh contra–vós e–fechará (a)– os–céus e–não– haverá chuva e–a–terra não dará (a)– sua–produção e–perecereis rapidamente de–sobre a–terra a–boa que Yahweh dando a–vós
+-- c11-v18: E–colocareis (a)– minhas–palavras estas sobre– vosso–coração e–sobre– vossa–alma e–amarrá–las–eis (a)–elas por–sinal sobre– vossa–mão e–serão por–frontal entre vossos–olhos
+-- c11-v19: E–ensinareis (a)–elas (a)– vossos–filhos para–falar nelas quando–sentares em–tua–casa e–quando–andares no–caminho e–quando–deitares e–quando–levantares
+-- c11-v20: E–escreverás–as sobre– umbrais–de– tua–casa e–em–tuas–portas
+-- c11-v21: Para–que multipliquem–se vossos–dias e–dias–de– vossos–filhos sobre a–terra que jurou Yahweh a–vossos–pais dar a–eles como–dias–de– os–céus sobre– a–terra §
+-- c11-v22: Pois se– guardar guardardes (a)– todo– o–mandamento este que eu ordeno (a)–vós para–fazê–lo para–amar (a)– Yahweh vosso–Deus para–andar em–todos– seus–caminhos e–para–apegar–se–a– ele
+-- c11-v23: E–desapossará Yahweh (a)– todas– as–nações estas de–diante–de–vós e–possuireis nações maiores e–mais–fortes do–que–vós
+-- c11-v24: Todo– o–lugar que pisar planta–de– vosso–pé nele para–vós será desde– o–deserto e–o–Líbano desde– o–rio rio–de– Eufrates e–até o–mar o–ocidental será vosso–território
+-- c11-v25: Não– ficará–de–pé homem diante–de–vós vosso–pavor e–vosso–terror porá Yahweh vosso–Deus sobre– face–de– toda– a–terra que pisardes– nela como falou a–vós §
+-- c11-v26: Vede eu dando diante–de–vós hoje bênção e–maldição
+-- c11-v27: (a)– a–bênção se ouvirdes a– mandamentos–de– Yahweh vosso–Deus que eu ordeno (a)–vós hoje
+-- c11-v28: E–a–maldição se– não ouvirdes a– mandamentos–de– Yahweh vosso–Deus e–vos–desviardes de– o–caminho que eu ordeno (a)–vós hoje para–andar após deuses outros que não– conhecestes §
+-- c11-v29: E–será quando trouxer–te Yahweh teu–Deus para– a–terra que– tu entrando– lá para–possuí–la e–darás (a)– a–bênção sobre– monte–de– Gerizim e–(a)– a–maldição sobre– monte–de– Ebal
+-- c11-v30: Não– eles no–outro–lado–de– o–Jordão depois–de– caminho–de– pôr–de– o–sol em–terra–de– o–cananeu que–habita na–Araba defronte–de– Gilgal junto–a– carvalhos–de– Moré
+-- c11-v31: Pois vós atravessando (a)– o–Jordão para–entrar para–desapossar (a)– a–terra que– Yahweh vosso–Deus dando a–vós e–possuireis (a)–ela e–habitareis– nela
+-- c11-v32: E–guardareis para–fazer (a) todos– os–estatutos e–(a)– os–juízos que eu dando diante–de–vós hoje
+-- c12-v1: Estes os–estatutos e–os–juízos que guardareis para–fazer na–terra que deu Yahweh Deus–de– teus–pais a–ti para–possuí–la todos– os–dias que– vós vivos sobre– a–terra
+-- c12-v2: Destruir destruireis (a)– todos– os–lugares que serviram– ali as–nações que vós desapossando (a)–eles (a)– seus–deuses sobre– os–montes os–altos e–sobre– as–colinas e–debaixo–de– toda– árvore verdejante
+-- c12-v3: E–derrubareis (a)– seus–altares e–quebrareis (a)– suas–colunas e–seus–postes–sagrados queimareis no–fogo e–imagens–esculpidas–de– seus–deuses cortareis e–destruireis (a)– seu–nome de– o–lugar aquele
+-- c12-v4: Não– fareis assim a–Yahweh vosso–Deus
+-- c12-v5: Mas se–não– para– o–lugar que– escolher Yahweh vosso–Deus de–todas– vossas–tribos para–pôr (a)– seu–nome ali para–sua–habitação buscareis e–entrarás para–lá
+-- c12-v6: E–trareis para–lá vossos–holocaustos e–vossos–sacrifícios e–(a) vossos–dízimos e–(a) oferta–de– vossa–mão e–vossos–votos e–vossas–ofertas–voluntárias e–primogênitos–de– vosso–gado e–vosso–rebanho
+-- c12-v7: E–comereis– ali diante–de– Yahweh vosso–Deus e–vos–alegrareis em–tudo– empreendimento–de– vossa–mão vós e–vossas–casas que abençoou–te Yahweh teu–Deus
+-- c12-v8: Não fareis como–tudo que nós fazendo aqui hoje cada–um todo– o–reto em–seus–olhos
+-- c12-v9: Pois não– chegastes até– agora para– o–descanso e–para– a–herança que– Yahweh teu–Deus dando a–ti
+-- c12-v10: E–atravessareis (a)– o–Jordão e–habitareis na–terra que– Yahweh vosso–Deus fazendo–herdar (a)–vós e–dará–descanso a–vós de–todos– vossos–inimigos ao–redor e–habitareis– em–segurança
+-- c12-v11: E–será o–lugar que– escolher Yahweh vosso–Deus nele para–habitar seu–nome ali para–lá trareis (a) tudo– que eu ordeno (a)–vós vossos–holocaustos e–vossos–sacrifícios vossos–dízimos e–oferta–de– vossa–mão e–todo– escolhido–de– vossos–votos que votardes a–Yahweh
+-- c12-v12: E–vos–alegrareis diante–de– Yahweh vosso–Deus vós e–vossos–filhos e–vossas–filhas e–vossos–servos e–vossas–servas e–o–levita que em–vossas–portas pois não–há para–ele parte e–herança convosco
+-- c12-v13: Guarda–te para–ti para–que–não– ofereceres teus–holocaustos em–todo– lugar que vires
+-- c12-v14: Mas se–não– no–lugar que– escolher Yahweh em–uma–de– tuas–tribos ali ofereceres teus–holocaustos e–ali farás tudo que eu ordeno–te
+-- c12-v15: Porém em–todo– desejo–de– tua–alma sacrificarás e–comerás carne segundo–bênção–de– Yahweh teu–Deus que deu– a–ti em–todas– tuas–portas o–impuro e–o–puro comerá–a como–a–gazela e–como–o–cervo
+-- c12-v16: Somente o–sangue não comereis sobre– a–terra derramarás–o como–água
+-- c12-v17: Não– poderás comer em–tuas–portas dízimo–de– teu–grão e–teu–vinho–novo e–teu–azeite e–primogênitos–de– teu–gado e–teu–rebanho e–todo– teus–votos que votares e–tuas–ofertas–voluntárias e–oferta–de– tua–mão
+-- c12-v18: Mas se–não– diante–de– Yahweh teu–Deus comerás–o no–lugar que escolher Yahweh teu–Deus nele tu e–teu–filho e–tua–filha e–teu–servo e–tua–serva e–o–levita que em–tuas–portas e–alegrar–te–ás diante–de– Yahweh teu–Deus em–tudo– empreendimento–de– tua–mão
+-- c12-v19: Guarda–te para–ti para–que–não– abandones (a)– o–levita todos– teus–dias sobre– tua–terra §
+-- c12-v20: Quando– alargar Yahweh teu–Deus (a)– teu–território como falou– a–ti e–disseres comerei carne pois– desejar tua–alma comer carne em–todo– desejo–de– tua–alma comerás carne
+-- c12-v21: Se– estiver–longe de–ti o–lugar que escolher Yahweh teu–Deus para–pôr seu–nome ali e–sacrificarás de–teu–gado e–de–teu–rebanho que deu Yahweh a–ti como ordenei–te e–comerás em–tuas–portas em–todo– desejo–de– tua–alma
+-- c12-v22: Somente como come–se (a)– a–gazela e–(a)– o–cervo assim comerás–a o–impuro e–o–puro juntos comerão–a
+-- c12-v23: Somente sê–forte para–não comer o–sangue pois o–sangue ele a–vida e–não– comerás a–vida com– a–carne
+-- c12-v24: Não comerás–o sobre– a–terra derramarás–o como–água
+-- c12-v25: Não comerás–o para–que seja–bem para–ti e–para–teus–filhos após–ti quando– fizeres o–reto aos–olhos–de– Yahweh
+-- c12-v26: Somente tuas–coisas–santas que– tiveres para–ti e–teus–votos tomarás e–entrarás para– o–lugar que– escolher Yahweh
+-- c12-v27: E–farás teus–holocaustos a–carne e–o–sangue sobre– altar–de– Yahweh teu–Deus e–sangue–de– teus–sacrifícios será–derramado sobre– altar–de– Yahweh teu–Deus e–a–carne comerás
+-- c12-v28: Guarda e–ouve (a) todas– as–palavras estas que eu ordeno–te para–que seja–bem para–ti e–para–teus–filhos após–ti até– eternidade quando fizeres o–bom e–o–reto aos–olhos–de– Yahweh teu–Deus §
+-- c12-v29: Quando– cortar Yahweh teu–Deus (a)– as–nações que tu entrando– lá para–desapossar (a)–elas de–diante–de–ti e–desapossarás (a)–elas e–habitarás em–sua–terra
+-- c12-v30: Guarda–te para–ti para–que–não– sejas–enlaçado após–elas depois–de– serem–destruídas de–diante–de–ti e–para–que–não– busques a–seus–deuses dizendo como serviam as–nações estas (a)– seus–deuses e–farei– assim também– eu
+-- c12-v31: Não– farás assim a–Yahweh teu–Deus pois toda– abominação–de– Yahweh que odeia fizeram a–seus–deuses pois até (a)– seus–filhos e–(a)– suas–filhas queimam no–fogo a–seus–deuses
+-- c12-v32: (a) toda– a–palavra que eu ordeno (a)–vós (a)–ela guardareis para–fazer não– acrescentarás sobre–ela e–não diminuirás dela ¶
+-- c13-v1: § Se– levantar-se no–meio–de–ti profeta ou sonhador–de sonho e–der a–ti sinal ou prodígio
+-- c13-v2: e–vier o–sinal e–o–prodígio que– ele–falou a–ti dizendo vamos após deuses outros que não– conheceste e–sirvamo-los
+-- c13-v3: não ouvirás a– palavras–de o–profeta o–esse ou a– sonhador–de o–sonho o–esse porque provando Yahweh vosso–Deus (a)–vós para–saber se–vós amando (a)– Yahweh vosso–Deus com–todo– vosso–coração e–com–toda– vossa–alma
+-- c13-v4: ¶ Após Yahweh vosso–Deus andareis e–(a)–ele temereis e–(a)– seus–mandamentos guardareis e–à–sua–voz ouvireis e–(a)–ele servireis e–a–ele vos–apegareis
+-- c13-v5: ¶ E–o–profeta o–esse ou sonhador–de o–sonho o–esse morrerá porque ele–falou– rebelião contra– Yahweh vosso–Deus o–que–fez–sair (a)–vós de–terra–de Egito e–o–que–te–resgatou de–casa–de escravos para–te–afastar de– o–caminho que te–ordenou Yahweh teu–Deus para–andar nele e–extirparás o–mal do–meio–de–ti
+-- c13-v6: § Se– te–incitar teu–irmão filho–de– tua–mãe ou– teu–filho ou– tua–filha ou esposa–de teu–seio ou teu–amigo que como–tua–alma em–segredo dizendo vamos e–sirvamos deuses outros que não conheceste tu e–teus–pais
+-- c13-v7: de–deuses–de os–povos que ao–redor–de–vós os–próximos de–ti ou os–distantes de–ti de–extremidade–de a–terra e–até– extremidade–de a–terra
+-- c13-v8: não– consentirás a–ele e–não ouvirás a–ele e–não– terá–pena teu–olho sobre–ele e–não– terás–compaixão e–não– o–encobrirás sobre–ele
+-- c13-v9: ¶ Porque matando o–matarás tua–mão será– nele na–primeira para–matá-lo e–mão–de todo– o–povo na–última
+-- c13-v10: e–o–apedrejarás com–as–pedras e–morrerá porque ele–procurou te–afastar de–sobre Yahweh teu–Deus o–que–te–fez–sair de–terra–de Egito de–casa–de escravos
+-- c13-v11: e–todo– Israel ouvirão e–temerão e–não– continuarão a–fazer como–a–coisa a–má a–esta no–meio–de–ti ס
+-- c13-v12: § Se– ouvires em–uma–de tuas–cidades que Yahweh teu–Deus dando a–ti para–habitar ali dizendo
+-- c13-v13: saíram homens filhos–de– Belial do–meio–de–ti e–afastaram (a)– habitantes–de sua–cidade dizendo vamos e–sirvamos deuses outros que não– conhecestes
+-- c13-v14: e–investigarás e–inquirirás e–perguntarás bem e–eis verdade certo a–coisa foi–feita a–abominação a–esta no–meio–de–ti
+-- c13-v15: ¶ Ferindo ferirás (a)– habitantes–de a–cidade [aquele] (aquela) ao–fio–de– espada destruindo–completamente (a)–ela e–(a)– todo– que– nela e–(a)– seus–animais ao–fio–de– espada
+-- c13-v16: e–(a)– todo– seu–despojo reunirás a– meio–de sua–praça e–queimarás com–o–fogo (a)– a–cidade e–(a)– todo– seu–despojo totalmente para–Yahweh teu–Deus e–será monte–de–ruínas para–sempre não será–construída novamente
+-- c13-v17: e–não– se–apegará em–tua–mão coisa–alguma de– o–anátema para–que volte Yahweh de–ardor–de sua–ira e–dará– a–ti misericórdias e–terá–misericórdia–de–ti e–te–multiplicará como jurou a–teus–pais
+-- c13-v18: ¶ Se ouvires à–voz–de Yahweh teu–Deus para–guardar (a)– todos– seus–mandamentos que eu te–ordenando hoje para–fazer o–reto aos–olhos–de Yahweh teu–Deus ס
+-- c14-v1: § Filhos vós para–Yahweh vosso–Deus não vos–cortareis e–não– poreis calvície entre vossos–olhos por–morto
+-- c14-v2: porque povo santo tu para–Yahweh teu–Deus e–em–ti escolheu Yahweh para–ser para–ele para–povo–de tesouro de–todos os–povos que sobre– face–de a–terra ס
+-- c14-v3: não comerás toda– abominação
+-- c14-v4: § Esta a–bêsta que comereis boi ovelha–de cordeiros e–ovelha–de cabras
+-- c14-v5: veado e–gazela e–gamo e–cabra-montês e–íbiex e–antílope e–carneiro-selvagem
+-- c14-v6: ¶ E–toda– bêsta que–fende casco e–divide fenda duas unhas que–faz–subir ruminado entre–as–bêstas (a)–ela comereis
+-- c14-v7: ¶ Porém (a)– este não comereis dos–que–fazem–subir o–ruminado e–dos–que–fendem o–casco a–dividida (a)– o–camelo e–(a)– a–lebre e–(a)– o–hiráx porque– fazendo–subir ruminado eles e–casco não fenderam imundos eles para–vós
+-- c14-v8: e–(a)– o–porco porque– fende casco ele e–não ruminado imundo ele para–vós de–sua–carne não comereis e–em–sua–carcaça não tocareis ס
+-- c14-v9: § (A)– este comereis de–tudo que nas–águas todo que– para–ele barbatana e–escama comereis
+-- c14-v10: e–todo que não– para–ele barbatana e–escama não comereis imundo ele para–vós ס
+-- c14-v11: § Toda– ave pura comereis
+-- c14-v12: e–esta que não– comereis delas a–águia e–o–quebrantosso e–o–abutre
+-- c14-v13: e–o–milhafre e–(a)– o–falcão e–o–abutre segundo–sua–espécie
+-- c14-v14: e–(a) todo– corvo segundo–sua–espécie
+-- c14-v15: e–(a) filha–de o–avestruz e–(a)– a–gaivota e–(a)– a–gaivota e–(a)– o–gavião segundo–sua–espécie
+-- c14-v16: (a)– a–coruja e–(a)– o–mocho e–a–íbis
+-- c14-v17: e–o–pelicano e–(a)– o–abutre-do-egito e–(a)– o–corvo-marinho
+-- c14-v18: e–a–cegonha e–a–garça segundo–sua–espécie e–a–poupa e–o–morcego
+-- c14-v19: ¶ E–todo enxame–de o–voador imundo ele para–vós não serão–comidos
+-- c14-v20: toda– ave pura comereis
+-- c14-v21: § Não comereis toda– carcaça ao–estrangeiro que– em–tuas–portas a–darás e–comerá ou vender a–forâneo porque povo santo tu para–Yahweh teu–Deus não– cozerás cabrito no–leite–de sua–mãe פ
+-- c14-v22: § Dizimando dizimarás (a) toda– produção–de tua–semente a–que–sai o–campo ano ano
+-- c14-v23: e–comerás diante–de Yahweh teu–Deus no–lugar que– ele–escolher para–fazer–habitar seu–nome ali dízimo–de teu–grão teu–vinho–novo e–teu–azeite e–primogênitos–de teu–gado e–teu–rebanho para–que aprendas a–temer (a)– Yahweh teu–Deus todos– os–dias
+-- c14-v24: ¶ E–se– for–longo de–ti o–caminho porque não poderás levá-lo porque– for–longe de–ti o–lugar que escolher Yahweh teu–Deus para–pôr seu–nome ali porque te–abençoar Yahweh teu–Deus
+-- c14-v25: e–o–darás pela–prata e–amarrarás a–prata em–tua–mão e–irás a– o–lugar que escolher Yahweh teu–Deus nele
+-- c14-v26: e–darás a–prata por–todo que– desejar tua–alma pelo–gado e–pelo–rebanho e–pelo–vinho e–pela–bebida–forte e–por–tudo que te–pedir tua–alma e–comerás ali diante–de Yahweh teu–Deus e–alegrar-te-ás tu e–tua–casa
+-- c14-v27: ¶ E–o–levita que– em–tuas–portas não o–abandonarás porque não–há para–ele porção e–herança contigo ס
+-- c14-v28: § Ao–fim–de três anos farás–sair (a)– todo– dízimo–de tua–produção no–ano o–esse e–depositarás em–tuas–portas
+-- c14-v29: e–virá o–levita porque não–há– para–ele porção e–herança contigo e–o–estrangeiro e–o–órfão e–a–viúva que em–tuas–portas e–comerão e–fartar-se-ão para–que te–abençoe Yahweh teu–Deus em–toda– obra–de tua–mão que fizeres ס
+-- c15-v1: § Ao–fim–de sete– anos farás remissão
+-- c15-v2: e–esta palavra–de a–remissão remitindo todo– dono–de empréstimo–de sua–mão que emprestar ao–seu–próximo não– cobrará (a)– seu–próximo e–(a)– seu–irmão porque– proclamou-se remissão para–Yahweh
+-- c15-v3: ¶ (A)– o–forâneo cobrarás e–o–que for para–ti (a)– teu–irmão remitirá tua–mão
+-- c15-v4: ¶ Todavia porque não haverá– em–ti necessitado porque– abençoando te–abençoará Yahweh na–terra que Yahweh teu–Deus dando– a–ti herança para–possuí-la
+-- c15-v5: ¶ Somente se– ouvindo ouvires à–voz–de Yahweh teu–Deus para–guardar para–fazer (a)– todo– o–mandamento o–este que eu te–ordenando hoje
+-- c15-v6: ¶ Porque– Yahweh teu–Deus te–abençoou como falou– a–ti e–emprestarás nações muitas e–tu não tomarás–emprestado e–dominarás sobre–nações muitas e–sobre–ti não dominarão ס
+-- c15-v7: § Se– houver em–ti necessitado de–um–de teus–irmãos em–uma–de tuas–portas em–tua–terra que– Yahweh teu–Deus dando a–ti não endurecerás (a)– teu–coração e–não fecharás (a)– tua–mão de–teu–irmão o–necessitado
+-- c15-v8: ¶ Porque– abrindo abrirás (a)– tua–mão a–ele e–emprestando lhe–emprestarás suficiente–de sua–necessidade que lhe–faltar a–ele
+-- c15-v9: ¶ Guarda-te a–ti para–que–não– haja palavra com– teu–coração Belial dizendo aproxima-se ano–de– o–sete ano–de a–remissão e–for–mal teu–olho contra–teu–irmão o–necessitado e–não deres a–ele e–clamar contra–ti a– Yahweh e–haverá em–ti pecado
+-- c15-v10: ¶ Dando darás a–ele e–não– será–mau teu–coração ao–dares a–ele porque por–causa–de a–coisa a–esta te–abençoará Yahweh teu–Deus em–toda– tua–obra e–em–todo estender–de tua–mão
+-- c15-v11: ¶ Porque não– cessará necessitado do–meio–de a–terra por– isso eu te–ordenando dizendo abrindo abrirás (a)– tua–mão a–teu–irmão a–teu–pobre e–a–teu–necessitado em–tua–terra ס
+-- c15-v12: § Se– for–vendido a–ti teu–irmão o–hebreu ou a–hebreia e–te–servir seis anos e–no–ano o–sétimo o–despedirás livre de–contigo
+-- c15-v13: ¶ E–quando– o–despedires livre de–contigo não o–despedirás vazio
+-- c15-v14: carregando o–carregarás a–ele de–teu–rebanho e–de–tua–eira e–de–teu–lagar que te–abençoou Yahweh teu–Deus darás– a–ele
+-- c15-v15: ¶ E–lembrarás que escravo foste em–terra–de Egito e–te–resgatou Yahweh teu–Deus por– isso eu te–ordenando (a)– a–coisa a–esta hoje
+-- c15-v16: ¶ E–será se– ele–disser a–ti não sairei de–contigo porque te–amo e–(a)– tua–casa porque– bom para–ele contigo
+-- c15-v17: e–tomarás (a)– a–sovela e–a–colocarás em–sua–orelha e–na–porta e–será para–ti escravo para–sempre e–também a–tua–serva farás– assim
+-- c15-v18: ¶ Não– será–duro aos–teus–olhos ao–despedires (a)–ele livre de–contigo porque dobro–de salário–de assalariado te–serviu seis anos e–te–abençoará Yahweh teu–Deus em–tudo que fizeres פ
+-- c15-v19: § Todo– o–primogênito que nascer em–teu–gado e–em–teu–rebanho o–macho consagrarás para–Yahweh teu–Deus não trabalharás com–primogênito–de teu–boi e–não tosquiarás primogênito–de teu–rebanho
+-- c15-v20: ¶ Diante–de Yahweh teu–Deus o–comerás ano em–ano no–lugar que– escolher Yahweh tu e–tua–casa
+-- c15-v21: ¶ E–se– houver nele defeito coxo ou cego todo defeito mau não o–sacrificarás para–Yahweh teu–Deus
+-- c15-v22: em–tuas–portas o–comerás o–imundo e–o–puro juntamente como–a–gazela e–como–o–veado
+-- c15-v23: ¶ Somente (a)– seu–sangue não comerás sobre– a–terra o–derramarás como–as–águas פ
+-- c16-v1: § Guarda (a)– mês–de o–Abibe e–farás Páscoa para–Yahweh teu–Deus porque no–mês–de o–Abibe te–fez–sair Yahweh teu–Deus do–Egito de–noite
+-- c16-v2: ¶ E–sacrificarás Páscoa para–Yahweh teu–Deus ovelhas e–gado no–lugar que– escolher Yahweh para–fazer–habitar seu–nome ali
+-- c16-v3: ¶ Não– comerás sobre–ele levedado sete dias comerás– sobre–ele pães–ázimos pão–de aflição porque com–pressa saíste de–terra–de Egito para–que te–lembres (a)– dia–de tua–saída de–terra–de Egito todos dias–de tua–vida
+-- c16-v4: ¶ E–não– será–visto para–ti fermento em–todo– teu–território sete dias e–não– pernoitará de– a–carne que sacrificares no–entardecer no–dia o–primeiro até–a–manhã
+-- c16-v5: ¶ Não poderás sacrificar (a)– a–Páscoa em–uma–de tuas–portas que– Yahweh teu–Deus dando a–ti
+-- c16-v6: ¶ Mas se–não– a– o–lugar que– escolher Yahweh teu–Deus para–fazer–habitar seu–nome ali sacrificarás (a)– a–Páscoa no–entardecer como–pôr–de o–sol tempo–de tua–saída do–Egito
+-- c16-v7: e–cozerás e–comerás no–lugar que escolher Yahweh teu–Deus nele e–voltarás pela–manhã e–irás a–tuas–tendas
+-- c16-v8: ¶ Seis dias comerás pães–ázimos e–no–dia o–sétimo assembleia–solene para–Yahweh teu–Deus não farás trabalho ס
+-- c16-v9: § Sete semanas contarás– para–ti desde–começar foice na–seara começarás a–contar sete semanas
+-- c16-v10: e–farás festa–de semanas para–Yahweh teu–Deus medida–de oferta–voluntária–de tua–mão que deres como te–abençoar Yahweh teu–Deus
+-- c16-v11: ¶ E–alegrar-te-ás diante–de Yahweh teu–Deus tu e–teu–filho e–tua–filha e–teu–servo e–tua–serva e–o–levita que em–tuas–portas e–o–estrangeiro e–o–órfão e–a–viúva que no–meio–de–ti no–lugar que escolher Yahweh teu–Deus para–fazer–habitar seu–nome ali
+-- c16-v12: ¶ E–lembrarás que– escravo foste no–Egito e–guardarás e–farás (a)– os–estatutos os–estes פ
+-- c16-v13: § Festa–de os–tabernáculos farás para–ti sete dias ao–recolheres de–tua–eira e–de–teu–lagar
+-- c16-v14: e–alegrar-te-ás em–tua–festa tu e–teu–filho e–tua–filha e–teu–servo e–tua–serva e–o–levita e–o–estrangeiro e–o–órfão e–a–viúva que em–tuas–portas
+-- c16-v15: ¶ Sete dias celebrarás para–Yahweh teu–Deus no–lugar que– escolher Yahweh porque te–abençoará Yahweh teu–Deus em–toda tua–produção e–em–toda obra–de tuas–mãos e–serás somente alegre
+-- c16-v16: § Três vezes no–ano será–visto todo– teu–macho (a)– face–de Yahweh teu–Deus no–lugar que escolher na–festa–de os–pães–ázimos e–na–festa–de as–semanas e–na–festa–de os–tabernáculos e–não será–visto (a)– face–de Yahweh vazio
+-- c16-v17: ¶ Cada-homem conforme–doação–de sua–mão conforme–bênção–de Yahweh teu–Deus que deu– a–ti ס
+-- c16-v18: § Juízes e–oficiais darás– para–ti em–todas– tuas–portas que Yahweh teu–Deus dando a–ti para–tuas–tribos e–julgarão (a)– o–povo juízo–de– justiça
+-- c16-v19: ¶ Não– perverterás justiça não farás–acçepção–de faces e–não– tomarás suborno porque o–suborno cega olhos–de sábios e–perverte palavras–de justos
+-- c16-v20: ¶ Justiça justiça perseguirás para–que vivas e–possuas (a)– a–terra que– Yahweh teu–Deus dando a–ti ס
+-- c16-v21: § Não– plantarás para–ti Ashera toda– árvore junto–a altar–de Yahweh teu–Deus que farás– para–ti ס
+-- c16-v22: § E–não– erigirás para–ti coluna que odeia Yahweh teu–Deus ס
+-- c17-v1: § Não– sacrificarás para–Yahweh teu–Deus boi e–ovelha que houver nele defeito toda coisa má porque abominação–de Yahweh teu–Deus ele ס
+-- c17-v2: § Se– for–achado no–meio–de–ti em–uma–de tuas–portas que– Yahweh teu–Deus dando a–ti homem ou– mulher que fizer (a)– o–mal aos–olhos–de Yahweh– teu–Deus para–transgredir sua–aliança
+-- c17-v3: e–for e–servir deuses outros e–prostrar-se a–eles e–ao–sol ou à–lua ou a–todo– exército–de os–céus que não– ordenei
+-- c17-v4: ¶ E–for–contado– a–ti e–ouvires e–investigarás bem e–eis verdade certo a–coisa foi–feita a–abominação a–esta em–Israel
+-- c17-v5: ¶ E–farás–sair (a)– o–homem o–esse ou (a)– a–mulher a–essa que fizeram (a)– a–coisa a–má a–esta a– tuas–portas (a)– o–homem ou (a)– a–mulher e–os–apedrejarás com–as–pedras e–morrerão
+-- c17-v6: ¶ Pela– boca–de dois testemunhas ou três testemunhas morrerá o–que–morre não morrerá pela– boca–de testemunha uma
+-- c17-v7: ¶ Mão–de as–testemunhas será– nele na–primeira para–matá-lo e–mão–de todo– o–povo na–última e–extirparás o–mal do–meio–de–ti פ
+-- c17-v8: § Se for–difícil de–ti coisa para–o–juízo entre– sangue a–sangue entre– causa a–causa e–entre ferida a–ferida assuntos–de contendas em–tuas–portas e–levantar-te-ás e–subirás a– o–lugar que escolher Yahweh teu–Deus nele
+-- c17-v9: ¶ E–virás a– os–sacerdotes os–levitas e–a– o–juiz que houver nos–dias os–aqueles e–inquirirás e–declararão a–ti (a) palavra–de o–juízo
+-- c17-v10: ¶ E–farás conforme– boca–de a–palavra que te–declararem a–ti de– o–lugar o–aquele que escolher Yahweh e–guardarás para–fazer conforme–tudo que te–ensinarem
+-- c17-v11: ¶ Conforme– boca–de a–lei que te–ensinarem e–conforme– o–juízo que– te–disserem a–ti farás não te–desviarás de– a–palavra que– te–declararem a–ti direita e–esquerda
+-- c17-v12: ¶ E–o–homem que– fizer com–presunção para–não ouvir a– o–sacerdote o–que–está para–servir ali (a)– Yahweh teu–Deus ou a– o–juiz e–morrerá o–homem o–esse e–extirparás o–mal de–Israel
+-- c17-v13: e–todo– o–povo ouvirão e–temerão e–não agirão–presunçosamente mais ס
+-- c17-v14: § Quando– entrares a– a–terra que Yahweh teu–Deus dando a–ti e–a–possuíres e–nela–habitares nela e–disseres porei sobre–mim rei como–todas– as–nações que ao–meu–redor
+-- c17-v15: ¶ Pondo porás sobre–ti rei que escolher Yahweh teu–Deus nele do–meio–de teus–irmãos porás sobre–ti rei não poderás dar sobre–ti homem forâneo que não– teu–irmão ele
+-- c17-v16: ¶ Somente não– multiplicará– para–si cavalos e–não– fará–voltar (a)– o–povo ao–Egito para multiplicar cavalo e–Yahweh disse a–vós não continuareis a–voltar pelo–caminho o–este mais
+-- c17-v17: ¶ E–não multiplicará– para–si mulheres e–não se–desviará seu–coração e–prata e–ouro não multiplicará– para–si muito
+-- c17-v18: ¶ E–será ao–assentar-se sobre trono–de seu–reino e–escreverá para–si (a)– cópia–de a–lei a–esta sobre– livro de–diante–de os–sacerdotes os–levitas
+-- c17-v19: ¶ E–estará com–ele e–lerá nele todos– dias–de sua–vida para–que aprenda a–temer (a)– Yahweh seu–Deus para–guardar (a)– todas– palavras–de a–lei a–esta e–(a)– os–estatutos os–estes para–fazê-los
+-- c17-v20: ¶ Para–não exaltar-se– seu–coração de–seus–irmãos e–para–não desviar-se de– o–mandamento direita e–esquerda para–que prolongue dias sobre– seu–reino ele e–seus–filhos no–meio–de Israel ס
+-- c18-v1: § Não– haverá para–os–sacerdotes os–levitas toda– tribo–de Levi porção e–herança com– Israel ofertas-de-fogo–de Yahweh e–sua–herança comerão
+-- c18-v2: ¶ E–herança não– haverá– para–ele no–meio–de seus–irmãos Yahweh ele sua–herança como falou– a–ele ס
+-- c18-v3: § E–este será direito–de os–sacerdotes de–com o–povo de–com os–que–sacrificam o–sacrifício se– boi se– ovelha e–dará ao–sacerdote o–braço e–as–bochechas e–o–estômago
+-- c18-v4: ¶ Primícias–de teu–grão teu–vinho–novo e–teu–azeite e–primícias–de tosquia–de teu–rebanho darás– a–ele
+-- c18-v5: ¶ Porque nele escolheu Yahweh teu–Deus de–todas– tuas–tribos para–estar para–servir em–nome–de– Yahweh ele e–seus–filhos todos– os–dias ס
+-- c18-v6: § E–se– vier o–levita de–uma–de tuas–portas de–todo– Israel onde– ele peregrinando ali e–vier com–todo– desejo–de sua–alma a– o–lugar que– escolher Yahweh
+-- c18-v7: e–servirá em–nome–de Yahweh seu–Deus como–todos– seus–irmãos os–levitas os–que–estão ali diante–de Yahweh
+-- c18-v8: ¶ Porção como–porção comerão além–de suas–vendas sobre– os–pais ס
+-- c18-v9: § Quando tu entrando a– a–terra que– Yahweh teu–Deus dando a–ti não– aprenderás a–fazer conforme–abominações–de as–nações as–aquelas
+-- c18-v10: ¶ Não– será–achado em–ti quem–faz–passar seu–filho– e–sua–filha pelo–fogo adivinhando adivinhações agourando e–encantando e–feiticeiro
+-- c18-v11: e–encantador–de encantamento e–consultor–de espírito–familiar e–adivinho e–consultor–de a– os–mortos
+-- c18-v12: ¶ Porque– abominação–de Yahweh todo– que–faz estas e–por–causa–de as–abominações as–estas Yahweh teu–Deus desapossando (a)–eles de–diante–de–ti
+-- c18-v13: ¶ Íntegro serás com Yahweh teu–Deus ס
+-- c18-v14: § Porque as–nações as–estas que tu desapossando (a)–elas a– agoureiros e–a– adivinhadores ouvem e–tu não assim deu a–ti Yahweh teu–Deus
+-- c18-v15: § Profeta do–meio–de–ti de–teus–irmãos como–eu levantará para–ti Yahweh teu–Deus a–ele ouvireis
+-- c18-v16: ¶ Conforme–tudo que– pediste de–com Yahweh teu–Deus em–Horeb no–dia–de a–assembleia dizendo não continuarei a–ouvir (a)– voz–de Yahweh meu–Deus e–(a)– o–fogo o–grande o–este não– verei mais e–não morrerei
+-- c18-v17: ¶ E–disse Yahweh a–mim fizeram–bem o–que falaram
+-- c18-v18: ¶ Profeta levantarei para–eles do–meio–de seus–irmãos como–tu e–porei minhas–palavras em–sua–boca e–falará a–eles (a) tudo– que eu–lhe–ordenar
+-- c18-v19: ¶ E–será o–homem que não– ouvir a– minhas–palavras que ele–falar em–meu–nome eu requererei de–com–ele
+-- c18-v20: ¶ Porém o–profeta que presumir a–falar palavra em–meu–nome (a) que não– lhe–ordenei a–falar e–que falar em–nome–de deuses outros e–morrerá o–profeta o–esse
+-- c18-v21: ¶ E–se disseres em–teu–coração como saberemos (a)– a–palavra que não– a–falou Yahweh
+-- c18-v22: ¶ Que falar o–profeta em–nome–de Yahweh e–não– acontecer a–coisa e–não vier ela a–coisa que não– a–falou Yahweh com–presunção a–falou o–profeta não temerás dele ס
+-- c19-v1: § Quando– destruir Yahweh teu–Deus (a)– as–nações que Yahweh teu–Deus dá a–ti (a)– sua–terra e–as–possuíres e–habitares em–suas–cidades e–em–suas–casas
+-- c19-v2: três cidades separarás para–ti no–meio–de tua–terra que Yahweh teu–Deus dá a–ti para–possuí–la
+-- c19-v3: Prepararás para–ti o–caminho e–dividirás–em–três (a)– território–de tua–terra que te–fará–herdar Yahweh teu–Deus e–será para–fugir para–lá todo– homicida
+-- c19-v4: ¶ E–este–é o–caso–do homicida que– fugirá para–lá e–viverá aquele–que ferir (a)– seu–próximo sem– conhecimento e–ele não– odeia a–ele de–ontem de–anteontem
+-- c19-v5: E–aquele–que vem com– seu–próximo na–floresta para–cortar madeira e–afasta–se sua–mão com–o–machado para–cortar a–árvore e–escorrega o–ferro de– a–árvore e–atinge (a)– seu–próximo e–morre ele fugirá a– uma–de as–cidades– estas e–viverá
+-- c19-v6: ¶ Para–que–não– persiga vingador–de o–sangue atrás–de o–homicida quando– esquentar seu–coração e–alcançá–lo quando– for–longo o–caminho e–feri–lo de–morte e–a–ele não–há sentença–de– morte porque não odeia ele a–ele de–ontem de–anteontem
+-- c19-v7: § Por– isso eu te–ordeno dizendo três cidades separarás para–ti ¶
+-- c19-v8: E–se– alargar Yahweh teu–Deus (a)– teu–território como jurou a–teus–pais e–der a–ti (a)– toda– a–terra que falou dar a–teus–pais
+-- c19-v9: quando– guardares (a)– todo– o–mandamento este para–fazê–lo que eu te–ordeno hoje para–amar (a)– Yahweh teu–Deus e–para–andar em–seus–caminhos todos– os–dias e–acrescentarás para–ti ainda três cidades sobre as–três estas
+-- c19-v10: § E–não será–derramado sangue inocente no–meio–de tua–terra que Yahweh teu–Deus dá a–ti como–herança e–seria sobre–ti sangues ¶
+-- c19-v11: § E–se– houver um–homem que–odeia seu–próximo e–emboscar a–ele e–levantar–se contra–ele e–feri–lo de–morte e–morrer e–fugir a– uma–de as–cidades estas
+-- c19-v12: ¶ então–enviarão os–anciãos–de sua–cidade e–tomarão a–ele de–lá e–darão a–ele na–mão–de vingador–de o–sangue e–morrerá
+-- c19-v13: Não– terá–pena teu–olho dele e–removerás sangue– inocente de–Israel e–será–bom para–ti ¶
+-- c19-v14: § Não moverás limite–de teu–próximo que demarcaram os–primeiros em–tua–herança que herdarás na–terra que Yahweh teu–Deus dá a–ti para–possuí–la ¶
+-- c19-v15: § Não– se–levantará testemunha uma contra–um–homem para–qualquer– iniquidade e–para–qualquer– pecado em–qualquer– falta que pecar por– boca–de duas testemunhas ou por– boca–de três– testemunhas se–estabelecerá a–questão
+-- c19-v16: § Quando– se–levantar testemunha– de–violência contra–um–homem para–testificar contra–ele falsidade
+-- c19-v17: então–se–apresentarão os–dois– homens que– têm a–disputa diante–de Yahweh diante–de os–sacerdotes e–os–juízes que houver nos–dias aqueles
+-- c19-v18: ¶ E–investigarão os–juízes diligentemente e–eis–que testemunha– de–falsidade a–testemunha falsidade respondeu contra–seu–irmão
+-- c19-v19: então–fareis a–ele como planejou fazer a–seu–irmão e–removerás o–mal de–teu–meio
+-- c19-v20: ¶ E–os–restantes ouvirão e–temerão e–não– continuarão a–fazer mais conforme–a–coisa má esta em–teu–meio
+-- c19-v21: E–não terá–pena teu–olho vida por–vida olho por–olho dente por–dente mão por–mão pé por–pé ¶
+-- c20-v1: § Quando– saíres para–a–guerra contra– teus–inimigos e–vires cavalo e–carro povo numeroso mais–que–ti não temerás deles porque– Yahweh teu–Deus está–contigo o–que–te–fez–subir da–terra–de Egito
+-- c20-v2: ¶ E–será quando–vos–aproximardes a– a–guerra e–aproximar–se–á o–sacerdote e–falará a– o–povo
+-- c20-v3: ¶ e–dirá a–eles ouve Israel vós vos–aproximais hoje para–a–guerra contra– vossos–inimigos não– desmaia vosso–coração não– temais e–não– vos–apresseis e–não– tenhais–pavor de–diante–deles
+-- c20-v4: ¶ porque Yahweh vosso–Deus é–o–que–anda convosco para–lutar por–vós com– vossos–inimigos para–salvar a–vós
+-- c20-v5: § E–falarão os–oficiais a– o–povo dizendo quem– é–o–homem que construiu casa– nova e–não a–dedicou vá e–volte para–sua–casa para–que–não– morra na–guerra e–um–homem outro a–dedique
+-- c20-v6: ¶ E–quem– é–o–homem que– plantou vinha e–não a–aproveitou vá e–volte para–sua–casa para–que–não– morra na–guerra e–um–homem outro a–aproveite
+-- c20-v7: ¶ E–quem– é–o–homem que– desposou uma–mulher e–não a–tomou vá e–volte para–sua–casa para–que–não– morra na–guerra e–um–homem outro a–tome
+-- c20-v8: § E–continuarão os–oficiais a–falar a– o–povo e–dirão quem– é–o–homem temeroso e–fraco–de o–coração vá e–volte para–sua–casa e–não derreta (a)– coração–de seus–irmãos como–seu–coração
+-- c20-v9: ¶ E–será quando–terminarem os–oficiais de–falar a– o–povo e–designarão chefes–de exércitos à–cabeça–de o–povo ¶
+-- c20-v10: § Quando– te–aproximares a– uma–cidade para–lutar contra–ela e–proclamarás a–ela paz
+-- c20-v11: ¶ E–será se– paz te–responder e–abrir–se a–ti e–será todo– o–povo encontrado– nela serão para–ti para–trabalho–forçado e–te–servirão
+-- c20-v12: ¶ E–se– não fizer–paz contigo e–fizer contigo guerra e–sitiares contra–ela
+-- c20-v13: ¶ e–der–a Yahweh teu–Deus em–tua–mão e–ferirás (a)– todo– seu–macho a–fio–de– espada
+-- c20-v14: ¶ Somente as–mulheres e–as–crianças e–os–animais e–tudo que houver na–cidade todo– seu–despojo saquearás para–ti e–comerás (a)– despojo–de teus–inimigos que deu Yahweh teu–Deus a–ti
+-- c20-v15: § Assim farás a–todas– as–cidades distantes de–ti muito que não– são–das–cidades–de as–nações– estas elas
+-- c20-v16: § Somente das–cidades–de os–povos estes que Yahweh teu–Deus dá a–ti como–herança não deixarás–viver qualquer– fôlego
+-- c20-v17: ¶ Pois– completamente–destruir os–destruirás o–hitita e–o–amorreu o–cananeu e–o–ferezeu o–heveu e–o–jebuseu como te–ordenou Yahweh teu–Deus
+-- c20-v18: ¶ para–que que não– vos–ensinem a–vós a–fazer conforme–todas suas–abominações que fizeram a–seus–deuses e–pecaríeis contra–Yahweh vosso–Deus ¶
+-- c20-v19: § Quando– sitiares a– uma–cidade dias muitos para–lutar contra–ela para–tomá–la não– destruirás (a)– sua–árvore para–brandir contra–ela machado porque dela comerás e–a–ela não cortarás pois o–homem é–árvore–de o–campo para–vir de–diante–de–ti no–cerco
+-- c20-v20: ¶ Somente árvore que– sabes que– não– é–árvore–de alimento ela a–ela destruirás e–cortarás e–construirás cerco contra– a–cidade que– ela faz contigo guerra até sua–queda ¶
+-- c21-v1: § Se– for–encontrado morto na–terra que Yahweh teu–Deus dá a–ti para–possuí–la caído no–campo não é–conhecido quem o–feriu
+-- c21-v2: ¶ então–sairão teus–anciãos e–teus–juízes e–medirão até– as–cidades que rodeiam o–morto
+-- c21-v3: ¶ E–será a–cidade mais–próxima a– o–morto e–tomarão os–anciãos–de a–cidade essa novilha–de gado que não– foi–trabalhada nela que não– puxou em–jugo
+-- c21-v4: ¶ e–farão–descer os–anciãos–de a–cidade essa (a)– a–novilha a– vale–de água–corrente que não– é–lavrado nele e–não é–semeado e–quebrarão–o–pescoço–de– lá (a)– a–novilha no–vale
+-- c21-v5: § E–aproximar–se–ão os–sacerdotes filhos–de Levi porque neles escolheu Yahweh teu–Deus para–servi–lo e–para–abençoar em–nome–de Yahweh e–por– sua–boca será toda– disputa e–toda– ferida
+-- c21-v6: ¶ E–todos anciãos–de a–cidade essa os–próximos a– o–morto lavarão (a)– suas–mãos sobre– a–novilha de–pescoço–quebrado no–vale
+-- c21-v7: ¶ e–responderão e–dirão nossas–mãos não [derramaram] derramaram (a)– o–sangue este e–nossos–olhos não viram
+-- c21-v8: ¶ perdoa a–teu–povo Israel que– remiste Yahweh e–não– ponhas sangue inocente no–meio–de teu–povo Israel e–será–perdoado a–eles o–sangue
+-- c21-v9: ¶ E–tu removerás o–sangue inocente de–teu–meio quando– fizeres o–reto aos–olhos–de Yahweh ¶
+-- c21-v10: § Quando– saíres para–a–guerra contra– teus–inimigos e–der–o Yahweh teu–Deus em–tua–mão e–capturares seus–cativos
+-- c21-v11: ¶ e–vires entre–os–cativos mulher–de bela– forma e–desejares a–ela e–tomares para–ti como–mulher
+-- c21-v12: ¶ e–a–trarares a– meio–de tua–casa e–rapará (a)– sua–cabeça e–fará (a)– suas–unhas
+-- c21-v13: ¶ e–removerá (a)– veste–de seu–cativeiro de–sobre–ela e–sentar–se–á em–tua–casa e–chorará (a)– seu–pai e–(a)– sua–mãe mês–de dias e–depois–de assim virás a–ela e–a–possuirás e–será para–ti como–mulher
+-- c21-v14: § E–será se– não te–agradares dela e–a–despedirás para–si–mesma e–vender não– a–venderás por–prata não– a–explorarás nela por–causa–de que a–humilhaste ¶
+-- c21-v15: § Se– forem a–um–homem duas mulheres a–uma amada e–a–uma odiada e–lhe–derem– a–ele filhos a–amada e–a–odiada e–for o–filho primogênito da–odiada
+-- c21-v16: ¶ e–for no–dia–de fazer–herdar–lhe (a)– seus–filhos (a) aquilo–que– houver a–ele não poderá fazer–primogênito (a)– filho–de– a–amada sobre– face–de filho–de– a–odiada o–primogênito
+-- c21-v17: ¶ Pois (a)– o–primogênito filho–de– a–odiada reconhecerá para–dar a–ele porção–de dois em–tudo que– for–encontrado a–ele porque– ele é–princípio–de sua–força a–ele pertence–direito–de a–primogenitura ¶
+-- c21-v18: § Se– houver a–um–homem filho rebelde e–contumaz não ouvindo à–voz–de seu–pai e–à–voz–de sua–mãe e–castigarem a–ele e–não ouvir a–eles
+-- c21-v19: ¶ então–pegarão a–ele seu–pai e–sua–mãe e–o–levarão a–ele aos– anciãos–de sua–cidade e–ao– portão–de seu–lugar
+-- c21-v20: ¶ e–dirão aos– anciãos–de sua–cidade nosso–filho este é–rebelde e–contumaz não ouvindo à–nossa–voz é–glutão e–bêbado
+-- c21-v21: ¶ e–apedreje–o todos– homens–de sua–cidade com–pedras e–morrerá e–removerás o–mal de–teu–meio e–todo– Israel ouvirá e–temerá ¶
+-- c21-v22: § E–se– houver em–um–homem pecado de–sentença–de– morte e–for–morto e–o–pendurarás a–ele sobre– madeiro
+-- c21-v23: ¶ não– permanecerá seu–corpo sobre– o–madeiro porque– certamente–sepultar o–sepultarás no–dia esse porque– é–maldição–de Deus o–pendurado e–não contaminarás (a)– tua–terra que Yahweh teu–Deus dá a–ti como–herança ¶
+-- c22-v1: § Não– verás (a)– boi–de teu–irmão ou (a)– sua–ovelha desgarrados e–te–esconderes deles certamente–devolver os–devolverás a–teu–irmão
+-- c22-v2: ¶ E–se– não é–próximo teu–irmão de–ti e–não o–conheces e–o–recolherás a– meio–de tua–casa e–estará contigo até buscar teu–irmão a–ele e–o–devolverás a–ele
+-- c22-v3: ¶ E–assim farás para–seu–jumento e–assim farás para–sua–veste e–assim farás para–toda– coisa–perdida–de teu–irmão que– se–perder dele e–a–encontrares não poderás te–esconder ¶
+-- c22-v4: § Não– verás (a)– jumento–de teu–irmão ou seu–boi caídos no–caminho e–te–esconderes deles certamente–levantar os–levantarás com–ele ¶
+-- c22-v5: § Não– haverá objeto–de– homem sobre– mulher e–não– vestirá homem veste–de mulher porque é–abominação–de Yahweh teu–Deus todo– que–faz estas–coisas ¶
+-- c22-v6: § Se encontrares ninho–de– pássaro diante–de–ti no–caminho em–qualquer– árvore ou sobre– a–terra filhotes ou ovos e–a–mãe sentada sobre– os–filhotes ou sobre– os–ovos não– tomarás a–mãe com– os–filhos
+-- c22-v7: ¶ certamente–soltar soltarás (a)– a–mãe e–(a)– os–filhos tomarás– para–ti para–que seja–bom a–ti e–prolongues dias ¶
+-- c22-v8: § Quando construíres casa nova e–farás parapeito para–teu–terraço e–não– porás sangues em–tua–casa se– cair o–que–cai dela ¶
+-- c22-v9: § Não– semearás tua–vinha com–duas–espécies para–que–não– se–consagre a–plenitude–de a–semente que semearás e–o–produto–de a–vinha ¶
+-- c22-v10: § Não– ararás com–boi– e–com–jumento juntos ¶
+-- c22-v11: § Não vestirás mistura lã e–linho juntos ¶
+-- c22-v12: § Franjas farás– para–ti sobre– quatro cantos–de tua–cobertura que te–cobrires– com–ela ¶
+-- c22-v13: § Se– tomar um–homem uma–mulher e–entrar a–ela e–a–odiar
+-- c22-v14: ¶ e–puser contra–ela acusações–de palavras e–divulgar sobre–ela nome mau e–disser (a)– a–mulher esta tomei e–me–aproximei a–ela e–não– encontrei a–ela virgindade
+-- c22-v15: § então–tomará o–pai–de [a–moça] a–moça e–sua–mãe e–levarão (a)– virgindade–de [a–moça] a–moça aos– anciãos–de a–cidade ao–portão
+-- c22-v16: ¶ e–dirá o–pai–de [a–moça] a–moça aos– anciãos (a)– minha–filha dei ao–homem este como–mulher e–ele–a–odiou
+-- c22-v17: ¶ e–eis– ele pôs acusações–de palavras dizendo não– encontrei para–tua–filha virgindade e–estas virgindade–de minha–filha e–estenderão a–veste diante–de anciãos–de a–cidade
+-- c22-v18: § E–tomarão anciãos–de a–cidade– essa (a)– o–homem e–o–castigarão a–ele
+-- c22-v19: ¶ e–o–multarão a–ele cem–de prata e–darão ao–pai–de a–moça porque divulgou nome mau sobre virgem–de Israel e–dele– será como–mulher não– poderá despedi–la todos– seus–dias ¶
+-- c22-v20: § E–se– verdade foi a–coisa esta não– foram–encontradas virgindade [para–a–moça] para–a–moça
+-- c22-v21: ¶ então–levarão (a)– [a–moça] a–moça à– entrada–de casa–de– seu–pai e–a–apedrejarão homens–de sua–cidade com–pedras e–morrerá porque– fez loucura em–Israel para–fornicar casa–de seu–pai e–removerás o–mal de–teu–meio ¶
+-- c22-v22: § Se– for–encontrado um–homem deitando com– mulher casada–de– marido e–morrerão também– ambos o–homem o–que–deitou com– a–mulher e–a–mulher e–removerás o–mal de–Israel ¶
+-- c22-v23: § Se houver [moça] moça virgem prometida a–um–homem e–encontrar–a um–homem na–cidade e–deitar–se com–ela
+-- c22-v24: ¶ então–levareis (a)– ambos ao– portão da–cidade essa e–os–apedrejareis a–eles com–pedras e–morrerão (a)– [a–moça] a–moça por– causa–de que não– gritou na–cidade e–(a)– o–homem por– causa–de que– humilhou (a)– mulher–de seu–próximo e–removerás o–mal de–teu–meio ¶
+-- c22-v25: § E–se– no–campo encontrar o–homem (a)– [a–moça] a–moça a–prometida e–agarrar– a–ela o–homem e–deitar–se com–ela e–morrerá o–homem que– se–deitou com–ela somente
+-- c22-v26: ¶ [e–à–moça] e–à–moça não– farás coisa não–há [para–a–moça] para–a–moça pecado de–morte porque como se–levanta um–homem contra– seu–próximo e–o–matou de–alma assim é–a–coisa esta
+-- c22-v27: ¶ pois no–campo a–encontrou gritou [a–moça] a–moça a–prometida e–não–havia salvador para–ela ¶
+-- c22-v28: § Se– encontrar um–homem [moça] moça virgem que não– está–prometida e–a–agarrar e–deitar–se com–ela e–forem–encontrados
+-- c22-v29: ¶ e–dará o–homem o–que–deitou com–ela ao–pai–de [a–moça] a–moça cinquenta–de prata e–dele– será como–mulher por–causa–de que a–humilhou não– poderá despedi–la todos– seus–dias ¶
+-- c22-v30: § Não– tomará um–homem (a)– mulher–de seu–pai e–não descobrirá cobertura–de seu–pai ¶
+-- c23-v1: § Não– entrará ferido–por– esmagamento e–cortado–de membro na–assembléia–de Yahweh ¶
+-- c23-v2: § Não– entrará bastardo na–assembléia–de Yahweh mesmo geração décima não– entrará dele na–assembléia–de Yahweh ¶
+-- c23-v3: § Não– entrará amonita e–moabita na–assembléia–de Yahweh mesmo geração décima não– entrará deles na–assembléia–de Yahweh até– para–sempre
+-- c23-v4: ¶ por– causa–de que não– vos–encontraram a–vós com–o–pão e–com–a–água no–caminho quando–saístes do–Egito e–porque alugou contra–ti (a)– Balaao filho–de– Beor de–Petor–de Arã–Naharayim para–amaldiçoar–te
+-- c23-v5: ¶ e–não– quis Yahweh teu–Deus ouvir a– Balaao e–transformou Yahweh teu–Deus para–ti (a)– a–maldição em–bênção porque te–amou Yahweh teu–Deus
+-- c23-v6: § Não– buscarás sua–paz e–seu–bem todos– teus–dias para–sempre ¶
+-- c23-v7: § Não– abominarás edomita porque teu–irmão ele ¶ não– abominarás egípcio porque– estrangeiro foste em–sua–terra
+-- c23-v8: § Filhos que– nascerem a–eles geração terceira entrarão deles na–assembléia–de Yahweh ¶
+-- c23-v9: § Quando– saíres como–acampamento contra– teus–inimigos e–te–guardarás de–toda coisa má
+-- c23-v10: § Se– houver entre–ti um–homem que não– estiver puro por–acontecimento–de– noite e–sairá para– fora–de o–acampamento não entrará a– meio–de o–acampamento
+-- c23-v11: ¶ E–será ao–voltar–de– tarde se–lavará em–água e–quando–pôr–se o–sol entrará a– meio–de o–acampamento
+-- c23-v12: § E–um–lugar será para–ti fora–de o–acampamento e–sairás para–lá fora
+-- c23-v13: ¶ e–uma–estaca será para–ti sobre– tua–arma e–será quando–te–assentares fora e–cavarás com–ela e–voltarás e–cobrirás (a)– tua–excreta
+-- c23-v14: § Pois Yahweh teu–Deus anda no–meio–de teu–acampamento para–livrar–te e–para–entregar teus–inimigos diante–de–ti e–será teu–acampamento santo e–não– verá em–ti nudez–de coisa e–voltar–se–á de–atrás–de–ti ¶
+-- c23-v15: § Não– entregarás escravo a– seu–senhor que– se–escapar a–ti de–com seu–senhor
+-- c23-v16: ¶ contigo habitará em–teu–meio no–lugar que– escolher em–um–de teus–portões no–bom para–ele não o–oprimirás ¶
+-- c23-v17: § Não– haverá prostituta–cultual dentre–filhas–de Israel e–não– haverá prostituto–cultual dentre–filhos–de Israel
+-- c23-v18: § Não– trarás salário–de prostituta e–preço–de cão à–casa–de Yahweh teu–Deus para–qualquer– voto porque é–abominação–de Yahweh teu–Deus também– ambos
+-- c23-v19: § Não– cobrarás–juros de–teu–irmão juros–de prata juros–de comida juros–de qualquer– coisa que se–cobra–juros
+-- c23-v20: ¶ ao–estrangeiro cobrarás–juros e–a–teu–irmão não cobrarás–juros para–que te–abençoe Yahweh teu–Deus em–tudo–de empreendimento–de tua–mão sobre– a–terra que– tu vais– para–lá para–possuí–la ¶
+-- c23-v21: § Quando– fizeres–voto voto a–Yahweh teu–Deus não demorarás para–cumpri–lo porque– certamente–buscar o–buscará Yahweh teu–Deus de–ti e–seria em–ti pecado
+-- c23-v22: ¶ E–quando te–abstiveres de–votar não– haverá em–ti pecado
+-- c23-v23: § Aquilo–que–sai–de teus–lábios guardarás e–farás como votaste a–Yahweh teu–Deus oferta–voluntária que falaste com–tua–boca ¶
+-- c23-v24: § Quando entrares na–vinha–de teu–próximo e–comerás uvas conforme–tua–alma tua–fartura e–em– teu–recipiente não porás ¶
+-- c23-v25: § Quando entrares na–seara–de teu–próximo e–colherás espigas com–tua–mão e–foice não balancearás sobre a–seara–de teu–próximo ¶
+-- c24-v1: § Quando– tomar um–homem uma–mulher e–a–possuir e–for se– não encontrar– favor em–seus–olhos porque– encontrou nela nudez–de coisa e–escreverá para–ela documento–de divórcio e–dará em–sua–mão e–a–despedirá de–sua–casa
+-- c24-v2: ¶ e–sairá de–sua–casa e–irá e–será de–homem– outro
+-- c24-v3: ¶ e–a–odiar o–homem o–último e–escreverá para–ela documento–de divórcio e–dará em–sua–mão e–a–despedirá de–sua–casa ou se morrer o–homem o–último que– a–tomou a–ele como–mulher
+-- c24-v4: § não– poderá seu–marido o–primeiro que– a–despediu voltar para–tomá–la para–ser a–ele como–mulher depois–de que foi–contaminada porque– é–abominação ela diante–de Yahweh e–não farás–pecar (a)– a–terra que Yahweh teu–Deus dá a–ti como–herança ¶
+-- c24-v5: § Quando– tomar um–homem mulher nova não sairá no–exército e–não– passará sobre–ele para–qualquer– coisa livre estará para–sua–casa ano um e–alegrará (a)– sua–mulher que– tomou ¶
+-- c24-v6: § Não– tomará–em–penhor mó e–pedra porque– vida ele toma–em–penhor ¶
+-- c24-v7: § Se– for–encontrado um–homem sequestrando pessoa dentre–seus–irmãos dentre–filhos–de Israel e–explorando– a–ela e–a–vendendo e–morrerá o–ladrão esse e–removerás o–mal de–teu–meio
+-- c24-v8: § Guarda–te na–praga–de– a–lepra para–guardar muito e–para–fazer conforme–tudo que– vos–ensinarem a–vós os–sacerdotes os–levitas como lhes–ordenei guardareis para–fazer ¶
+-- c24-v9: § Lembra (a) aquilo–que– fez Yahweh teu–Deus a–Miriã no–caminho quando–saístes do–Egito ¶
+-- c24-v10: § Quando– emprestares a–teu–próximo empréstimo–de qualquer–coisa não– entrarás em– sua–casa para–penhorar seu–penhor
+-- c24-v11: ¶ fora ficarás e–o–homem a–quem tu emprestas a–ele levará a–ti (a)– o–penhor para–fora
+-- c24-v12: ¶ E–se– homem pobre ele não dormires em–seu–penhor
+-- c24-v13: § certamente–devolver devolverás a–ele (a)– o–penhor ao–pôr–se o–sol e–dormirá em–sua–veste e–te–abençoará e–para–ti será justiça diante–de Yahweh teu–Deus ¶
+-- c24-v14: § Não– oprimirás trabalhador pobre e–necessitado dentre–teus–irmãos ou dentre–teus–estrangeiros que estão–em–tua–terra em–teus–portões
+-- c24-v15: ¶ no–seu–dia darás seu–salário e–não– se–pôrá sobre–ele o–sol porque pobre ele e–a–ele ele leva (a)– sua–alma e–não– clamará contra–ti a– Yahweh e–seria em–ti pecado ¶
+-- c24-v16: § Não– serão–mortos pais por– filhos e–filhos não– serão–mortos por– pais cada–um por–seu–pecado será–morto ¶
+-- c24-v17: § Não perverterás justiça–de estrangeiro órfão e–não tomarás–em–penhor veste–de viúva
+-- c24-v18: ¶ E–lembrarás que escravo foste no–Egito e–te–remiu Yahweh teu–Deus de–lá por– isso eu te–ordeno a–fazer (a)– a–coisa esta ¶
+-- c24-v19: § Quando colheres tua–colheita em–teu–campo e–esqueceres feixe no–campo não voltarás para–buscá–lo para–o–estrangeiro para–o–órfão e–para–a–viúva será para–que te–abençoe Yahweh teu–Deus em–toda obra–de tuas–mãos
+-- c24-v20: § Quando bateres tua–oliveira não rebuscarás atrás–de–ti para–o–estrangeiro para–o–órfão e–para–a–viúva será ¶
+-- c24-v21: § Quando vindimares tua–vinha não rebuscarás atrás–de–ti para–o–estrangeiro para–o–órfão e–para–a–viúva será
+-- c24-v22: ¶ E–lembrarás que– escravo foste na–terra–de Egito por– isso eu te–ordeno a–fazer (a)– a–coisa esta ¶
+-- c25-v1: quando– houver contenda entre homens e–aproximarem-se a– o–julgamento e–julgá-los-ão e–justificarão (a) o–justo e–condenarão (a) o–perverso
+-- c25-v2: e–será se– filho-de açoite o–perverso e–fá-lo-á-deitar o–juiz e–açoitá-lo-á diante-dele conforme sua–perversidade em–número
+-- c25-v3: quarenta açoitá-lo-á não acrescentará para-que-não– acrescente açoitá-lo sobre– estes golpe grande e–seja-desprezado teu–irmão a–teus–olhos §
+-- c25-v4: não– amordaçarás boi em–seu–debulhar §
+-- c25-v5: quando– habitarem irmãos juntos e–morrer um deles e–filho não-há– a-ele não– será mulher-de– o–morto para-fora a–homem estrangeiro seu–cunhado entrará sobre-ela e–tomá-la-á a-ele por–mulher e–cumprirá-o-dever-de-cunhado-com-ela
+-- c25-v6: e–será o–primogênito que ela–der-à-luz levantará sobre– nome-de seu–irmão o–morto e–não– será-apagado seu–nome de–Israel
+-- c25-v7: e–se– não quiser o–homem tomar (a) sua–cunhada e–subirá sua–cunhada à–porta a– os–anciãos e–dirá recusa meu–cunhado levantar a–seu–irmão nome em–Israel não quer cumprir-o-dever-de-cunhado-comigo
+-- c25-v8: e–chamarão– a-ele anciãos-de– sua–cidade e–falarão a-ele e–permanecerá e–dirá não quero tomá-la
+-- c25-v9: e–aproximar-se-á sua–cunhada a-ele aos–olhos-de os–anciãos e–tirará sua–sandália de–sobre seu–pé e–cuspirá em–sua–face e–responderá e–dirá assim será-feito ao–homem que não– edificar (a) casa-de seu–irmão
+-- c25-v10: e–será-chamado seu–nome em–Israel casa-de tirado a–sandália §
+-- c25-v11: quando– brigarem homens juntos homem e–seu–irmão e–aproximar-se mulher-de um para–livrar (a) seu–marido da–mão-de quem-o-fere e–estender sua–mão e–agarrar suas–partes-íntimas
+-- c25-v12: e–cortarás (a) sua–mão não terá-compaixão teu–olho §
+-- c25-v13: não– terás a-ti em–tua–bolsa peso e–peso grande e–pequeno §
+-- c25-v14: não– terás a-ti em–tua–casa efa e–efa grande e–pequena
+-- c25-v15: peso perfeito e–justo terás– a-ti efa perfeita e–justa terás– a-ti para-que prolonguem teus–dias sobre a–terra que– Yahweh teu–Deus dá a-ti
+-- c25-v16: porque abominação-de Yahweh teu–Deus todo– que-faz estas-coisas todo que-faz injustiça ¶
+-- c25-v17: lembra (a) que– fez a-ti Amaleque no–caminho em–vossa–saída do–Egito
+-- c25-v18: que encontrou-te no–caminho e–atacou-pela-retaguarda em-ti todos– os–debilitados atrás-de-ti e–tu cansado e–exausto e–não temeu Deus
+-- c25-v19: e–será quando–der-descanso Yahweh teu–Deus a-ti de–todos– teus–inimigos ao-redor na–terra que Yahweh– teu–Deus dá a-ti herança para–possuí-la apagarás (a) memória-de Amaleque de–debaixo-de os–céus não esquecerás ¶
+-- c26-v1: e–será quando– entrares a– a–terra que Yahweh teu–Deus dá a-ti herança e–possuí-la-ás e–habitarás nela
+-- c26-v2: e–tomarás das–primícias-de todo– fruto-de a–terra que trarás de–tua–terra que Yahweh teu–Deus dá a-ti e–porás num–cesto e–irás a– o–lugar que escolher Yahweh teu–Deus para–fazer-habitar seu–nome lá
+-- c26-v3: e–virás a– o–sacerdote que houver nos–dias aqueles e–dirás a-ele declaro hoje a–Yahweh teu–Deus que– entrei a– a–terra que jurou Yahweh a–nossos–pais dar a-nós
+-- c26-v4: e–tomará o–sacerdote o–cesto de–tua–mão e–pô-lo-á diante-de altar-de Yahweh teu–Deus
+-- c26-v5: e–responderás e–dirás diante-de Yahweh teu–Deus arameu errante meu–pai e–desceu ao–Egito e–peregrinou lá com–poucos-de número e–tornou-se– lá nação grande poderosa e–numerosa
+-- c26-v6: e–maltrataram a-nós os–egípcios e–afligiram-nos e–puseram sobre-nós trabalho duro
+-- c26-v7: e–clamamos a– Yahweh Deus-de nossos–pais e–ouviu Yahweh (a) nossa–voz e–viu (a) nossa–aflição e–(a) nosso–trabalho e–(a) nossa–opressão
+-- c26-v8: e–tirou-nos Yahweh do–Egito com–mão forte e–com–braço estendido e–com–grande terror e–com–sinais e–com–prodígios
+-- c26-v9: e–trouxe-nos a– o–lugar este e–deu– a-nós (a) a–terra esta terra que-flui leite e–mel
+-- c26-v10: e–agora eis trouxe (a) primícias-de fruto-de a–terra que– deste a-mim Yahweh e–pô-lo-ás diante-de Yahweh teu–Deus e–prostrar-te-ás diante-de Yahweh teu–Deus
+-- c26-v11: e–alegrar-te-ás em–todo– o–bem que deu– a-ti Yahweh teu–Deus e–à–tua–casa tu e–o–levita e–o–estrangeiro que em–teu–meio §
+-- c26-v12: quando terminares de–dizimar (a) todo– dízimo-de tua–colheita no–ano o–terceiro ano-de o–dízimo e–darás ao–levita ao–estrangeiro ao–órfão e–à–viúva e–comerão em–tuas–portas e–saciar-se-ão
+-- c26-v13: e–dirás diante-de Yahweh teu–Deus removi o–sagrado de– a–casa e–também dei-o ao–levita e–ao–estrangeiro ao–órfão e–à–viúva conforme–todo– teu–mandamento que mandaste-me não– transgredi de–teus–mandamentos e–não esqueci
+-- c26-v14: não– comi em–meu–luto dele e–não– tirei dele em–impureza e–não– dei dele para–morto obedeci à–voz-de Yahweh meu–Deus fiz conforme–todo que mandaste-me
+-- c26-v15: olha de–morada-de tua–santidade de– os–céus e–abençoa (a)– teu–povo (a) Israel e–(a) a–terra que deste a-nós como juraste a–nossos–pais terra que-flui leite e–mel §
+-- c26-v16: o–dia este Yahweh teu–Deus manda-te fazer (a) os–estatutos estes e–(a) os–juízos e–guardarás e–farás eles com–todo– teu–coração e–com–toda– tua–alma
+-- c26-v17: (a) Yahweh declaraste hoje ser a-ti por–Deus e–andar em–seus–caminhos e–guardar seus–estatutos e–seus–mandamentos e–seus–juízos e–ouvir a–sua–voz
+-- c26-v18: e–Yahweh declarou-te hoje ser a-ele por–povo especial como falou– a-ti e–guardar todos– seus–mandamentos
+-- c26-v19: e–pôr-te no-alto sobre todas– as–nações que fez para–louvor e–para–fama e–para–glória e–seres povo– santo a–Yahweh teu–Deus como falou §
+-- c27-v1: e–ordenou Moisés e–os–anciãos-de Israel (a) o–povo dizendo guarda (a) todo– o–mandamento que eu mando a-vós hoje
+-- c27-v2: e–será no–dia que atravessardes (a) o–Jordão a– a–terra que– Yahweh teu–Deus dá a-ti e–erguerás a-ti pedras grandes e–cairás elas com–cal
+-- c27-v3: e–escreverás sobre-elas (a)– todas– palavras-de a–Torah esta em–teu–atravessar para-que que entres a– a–terra que– Yahweh teu–Deus dá a-ti terra que-flui leite e–mel como falou Yahweh Deus-de– teus–pais a-ti
+-- c27-v4: e–será em–vosso–atravessar (a) o–Jordão erguereis (a) as–pedras estas que eu mando a-vós hoje no–monte Ebal e–cairás elas com–cal
+-- c27-v5: e–edificarás lá altar a–Yahweh teu–Deus altar-de pedras não– moverás sobre-elas ferro
+-- c27-v6: pedras inteiras edificarás (a) altar-de Yahweh teu–Deus e–oferecerás sobre-ele holocaustos a–Yahweh teu–Deus
+-- c27-v7: e–sacrificarás ofertas-pacíficas e–comerás lá e–alegrar-te-ás diante-de Yahweh teu–Deus
+-- c27-v8: e–escreverás sobre– as–pedras (a)– todas– palavras-de a–Torah esta bem claramente §
+-- c27-v9: e–falou Moisés e–os–sacerdotes os–levitas a todo– Israel dizendo cala– e–ouve Israel o–dia este tornaste-te por–povo a–Yahweh teu–Deus
+-- c27-v10: e–ouvirás à–voz-de Yahweh teu–Deus e–farás (a) seus–mandamentos e–(a) seus–estatutos que eu mando-te hoje §
+-- c27-v11: e–ordenou Moisés (a) o–povo no–dia aquele dizendo
+-- c27-v12: estes ficarão-de-pé para–abençoar (a) o–povo sobre– monte Gerizim em–vosso–atravessar (a) o–Jordão Simeão e–Levi e–Judá e–Issacar e–José e–Benjamim
+-- c27-v13: e–estes ficarão-de-pé sobre– a–maldição no–monte Ebal Rúben Gade e–Aser e–Zebulom Dã e–Naftali
+-- c27-v14: e–responderão os–levitas e–dirão a– todo– homem-de Israel voz alta §
+-- c27-v15: maldito o–homem que fizer ídolo ou–imagem-fundida abominação-de Yahweh obra-de mãos-de artesão e–puser em–secreto e–responderá todo– o–povo e–dirá amém §
+-- c27-v16: maldito quem-desonra seu–pai ou–sua–mãe e–dirá todo– o–povo amém §
+-- c27-v17: maldito quem-remove marco-de seu–próximo e–dirá todo– o–povo amém §
+-- c27-v18: maldito quem-faz-errar cego no–caminho e–dirá todo– o–povo amém §
+-- c27-v19: maldito quem-perverte juízo-de estrangeiro– órfão e–viúva e–dirá todo– o–povo amém §
+-- c27-v20: maldito quem-se-deita com– mulher-de seu–pai porque descobriu cobertura-de seu–pai e–dirá todo– o–povo amém §
+-- c27-v21: maldito quem-se-deita com– qualquer– animal e–dirá todo– o–povo amém §
+-- c27-v22: maldito quem-se-deita com– sua–irmã filha-de– seu–pai ou filha-de– sua–mãe e–dirá todo– o–povo amém §
+-- c27-v23: maldito quem-se-deita com– sua–sogra e–dirá todo– o–povo amém §
+-- c27-v24: maldito quem-fere seu–próximo em–secreto e–dirá todo– o–povo amém §
+-- c27-v25: maldito quem-aceita suborno para–ferir alma-de sangue inocente e–dirá todo– o–povo amém §
+-- c27-v26: maldito que não– confirmar (a) palavras-de a–Torah– esta fazendo elas e–dirá todo– o–povo amém ¶
+-- c28-v1: e–será se– ouvindo ouvires à–voz-de Yahweh teu–Deus para–guardar para–fazer (a) todos– seus–mandamentos que eu mando-te hoje e–pôr-te-á Yahweh teu–Deus no-alto sobre todas– nações-de a–terra
+-- c28-v2: e–virão sobre-ti todas– as–bênçãos estas e–alcançar-te-ão quando ouvires à–voz-de Yahweh teu–Deus
+-- c28-v3: bendito tu na–cidade e–bendito tu no–campo
+-- c28-v4: bendito fruto-de– teu–ventre e–fruto-de tua–terra e–fruto-de teu–gado crias-de tuas–vacas e–filhotes-de teu–rebanho
+-- c28-v5: bendito teu–cesto e–tua–amassadeira
+-- c28-v6: bendito tu em–teu–entrar e–bendito tu em–teu–sair
+-- c28-v7: dará Yahweh (a) teus–inimigos os–que-se-levantam contra-ti derrotados diante-de-ti por–caminho um sairão contra-ti e–por–sete caminhos fugirão diante-de-ti
+-- c28-v8: ordenará Yahweh contigo (a) a–bênção em–teus–celeiros e–em–todo empreendimento-de tua–mão e–abençoar-te-á na–terra que– Yahweh teu–Deus dá a-ti
+-- c28-v9: estabelecer-te-á Yahweh a-ele por–povo santo como jurou– a-ti quando guardares (a) mandamentos-de Yahweh teu–Deus e–andares em–seus–caminhos
+-- c28-v10: e–verão todos– povos-de a–terra que nome-de Yahweh é-chamado sobre-ti e–temerão de-ti
+-- c28-v11: e–far-te-á-prosperar Yahweh para–bem em–fruto-de teu–ventre e–em–fruto-de teu–gado e–em–fruto-de tua–terra sobre a–terra que jurou Yahweh a–teus–pais dar a-ti
+-- c28-v12: abrirá Yahweh a-ti (a) seu–tesouro o–bom (a) os–céus para–dar chuva-de– tua–terra a–seu–tempo e–para–abençoar (a) toda– obra-de tua–mão e–emprestarás a–nações muitas e–tu não pedirás-emprestado
+-- c28-v13: e–pôr-te-á Yahweh por–cabeça e–não por–cauda e–estarás somente por-cima e–não estarás por-baixo quando– ouvires a– mandamentos-de Yahweh teu–Deus que eu mando-te hoje para–guardar e–para–fazer
+-- c28-v14: e–não desviarás de–todas– as–palavras que eu mando a-vós hoje direita ou–esquerda para–andar atrás-de deuses outros para–servi-los §
+-- c28-v15: e–será se– não ouvires à–voz-de Yahweh teu–Deus para–guardar para–fazer (a) todos– seus–mandamentos e–seus–estatutos que eu mando-te hoje e–virão sobre-ti todas– as–maldições estas e–alcançar-te-ão
+-- c28-v16: maldito tu na–cidade e–maldito tu no–campo
+-- c28-v17: maldito teu–cesto e–tua–amassadeira
+-- c28-v18: maldito fruto-de– teu–ventre e–fruto-de tua–terra crias-de tuas–vacas e–filhotes-de teu–rebanho
+-- c28-v19: maldito tu em–teu–entrar e–maldito tu em–teu–sair
+-- c28-v20: enviará Yahweh em-ti (a) a–maldição (a) a–confusão e–(a) a–repreensão em–todo– empreendimento-de tua–mão que fizeres até seres-destruído e–até– pereceres depressa por-causa-de maldade-de tuas–obras que abandonaste-me
+-- c28-v21: fará-aderir Yahweh em-ti (a) a–peste até consumir-te (a)-ti de–sobre a–terra que– tu entrando– lá para–possuí-la
+-- c28-v22: ferir-te-á Yahweh com–tuberculose e–com–febre e–com–inflamação e–com–calor-ardente e–com–espada e–com–queimadura e–com–míldio e–perseguir-te-ão até pereceres
+-- c28-v23: e–serão teus–céus que sobre– tua–cabeça bronze e–a–terra que– debaixo-de-ti ferro
+-- c28-v24: dará Yahweh (a) chuva-de tua–terra pó e–terra de– os–céus descerá sobre-ti até seres-destruído
+-- c28-v25: dar-te-á Yahweh derrotado diante-de teus–inimigos por–caminho um sairás contra-ele e–por–sete caminhos fugirás diante-dele e–serás para–horror a–todos reinos-de a–terra
+-- c28-v26: e–será teu–cadáver para–comida a–toda– ave-de os–céus e–a–animal-de a–terra e–não-haverá quem-espante
+-- c28-v27: ferir-te-á Yahweh com–úlcera-de Egito [e–com–tumores] (e–com–hemorróidas) e–com–sarna e–com–coceira que não– poderás ser-curado
+-- c28-v28: ferir-te-á Yahweh com–loucura e–com–cegueira e–com–pasmo-de coração
+-- c28-v29: e–estarás tateando ao–meio-dia como tateia o–cego na–escuridão e–não prosperarás (a) teus–caminhos e–estarás somente oprimido e–roubado todos– os–dias e–não-haverá quem-salve
+-- c28-v30: mulher desposarás e–homem outro [a-possuirá] (deitar-se-á-com-ela) casa edificarás e–não– habitarás nela vinha plantarás e–não usarás-seu-fruto
+-- c28-v31: teu–boi abatido a–teus–olhos e–não comerás dele teu–jumento roubado de–diante-de-ti e–não voltará a-ti teu–rebanho dado a–teus–inimigos e–não-haverá a-ti quem-salve
+-- c28-v32: teus–filhos e–tuas–filhas dados a–povo outro e–teus–olhos vendo e–falhando por-eles todo– o–dia e–não-haverá poder-de tua–mão
+-- c28-v33: fruto-de tua–terra e–todo– teu–trabalho comerá povo que não– conheceste e–estarás somente oprimido e–esmagado todos– os–dias
+-- c28-v34: e–estarás louco da–visão-de teus–olhos que verás
+-- c28-v35: ferir-te-á Yahweh com–úlcera maligna sobre– os–joelhos e–sobre– as–coxas que não– poderás ser-curado da–planta-de teu–pé e–até tua–coroa
+-- c28-v36: levará Yahweh (a)-ti e–(a)– teu–rei que levantarás sobre-ti a– nação que não– conheceste tu e–teus–pais e–servirás lá deuses outros madeira e–pedra
+-- c28-v37: e–serás para–espanto para–provérbio e–para–zombaria entre–todos os–povos que– conduzir-te-á Yahweh lá
+-- c28-v38: semente muita levarás ao–campo e–pouco colherás porque consumirá o–gafanhoto
+-- c28-v39: vinhas plantarás e–cultivarás e–vinho não– beberás e–não armazenarás porque comerá o–verme
+-- c28-v40: oliveiras terás a-ti em–todo– teu–território e–óleo não ungirás porque cairão tuas–azeitonas
+-- c28-v41: filhos e–filhas gerarás e–não– serão a-ti porque irão em–cativeiro
+-- c28-v42: todo– tua–árvore e–fruto-de tua–terra possuirá o–gafanhoto
+-- c28-v43: o–estrangeiro que em–teu–meio subirá sobre-ti acima acima e–tu descerás abaixo abaixo
+-- c28-v44: ele emprestar-te-á e–tu não emprestarás-a-ele ele será por–cabeça e–tu serás por–cauda
+-- c28-v45: e–virão sobre-ti todas– as–maldições estas e–perseguir-te-ão e–alcançar-te-ão até seres-destruído porque– não ouviste à–voz-de Yahweh teu–Deus para–guardar seus–mandamentos e–seus–estatutos que mandou-te
+-- c28-v46: e–serão em-ti por–sinal e–por–prodígio e–em–tua–descendência até– eternidade
+-- c28-v47: por-causa-de que não– serviste (a) Yahweh teu–Deus com–alegria e–com–bondade-de coração por–abundância-de tudo
+-- c28-v48: e–servirás (a) teus–inimigos que enviará Yahweh em-ti com–fome e–com–sede e–com–nudez e–com–falta-de tudo e–porá jugo-de ferro sobre– teu–pescoço até destruir (a)-ti
+-- c28-v49: levantará Yahweh contra-ti nação de–longe da–extremidade-de a–terra como voa a–águia nação que não– entenderás sua–língua
+-- c28-v50: nação feroz-de rosto que não– levantará rosto a–ancião e–jovem não terá-misericórdia
+-- c28-v51: e–comerá fruto-de teu–gado e–fruto-de– tua–terra até seres-destruído que não– deixará a-ti grão mosto e–azeite crias-de tuas–vacas e–filhotes-de teu–rebanho até destruir (a)-ti
+-- c28-v52: e–sitiar-te-á a-ti em–todas– tuas–portas até caírem tuas–muralhas as–altas e–as–fortificadas que tu confias nelas em–toda– tua–terra e–sitiar-te-á a-ti em–todas– tuas–portas em–toda– tua–terra que deu Yahweh teu–Deus a-ti
+-- c28-v53: e–comerás fruto-de– teu–ventre carne-de teus–filhos e–tuas–filhas que deu– a-ti Yahweh teu–Deus no–cerco e–no–aperto que– apertar-te-á a-ti teu–inimigo
+-- c28-v54: o–homem o–delicado em-ti e–o–mimado muito será-mau seu–olho contra–seu–irmão e–contra–mulher-de seu–seio e–contra–resto-de seus–filhos que restarão
+-- c28-v55: de–dar a–um deles da–carne-de seus–filhos que comerá por–não lhe–restar– a-ele nada no–cerco e–no–aperto que apertar-te-á a-ti teu–inimigo em–todas– tuas–portas
+-- c28-v56: a–delicada em-ti e–a–mimada que não– tentou planta-de– seu–pé pôr sobre– a–terra por–delicadeza e–por–mimo será-mau seu–olho contra–homem-de seu–seio e–contra–seu–filho e–contra–sua–filha
+-- c28-v57: e–contra–sua–placenta a–que-sai de–entre seus–pés e–contra–seus–filhos que der-à-luz porque– comê-los-á por–falta-de– tudo em–secreto no–cerco e–no–aperto que apertar-te-á a-ti teu–inimigo em–tuas–portas
+-- c28-v58: se– não guardares para–fazer (a) todas– palavras-de a–Torah esta as–escritas no–livro este para–temer (a) o–Nome o–glorioso e–o–temido este (a) Yahweh teu–Deus
+-- c28-v59: e–fará-extraordinárias Yahweh (a) tuas–pragas e–(a) pragas-de tua–descendência pragas grandes e–duradouras e–doenças malignas e–duradouras
+-- c28-v60: e–fará-voltar em-ti (a) todas– pestes-de Egito que temeste de–diante-delas e–aderirão em-ti
+-- c28-v61: também toda– doença e–toda– praga que não escrita no–livro-de a–Torah esta fará-subir Yahweh sobre-ti até seres-destruído
+-- c28-v62: e–restareis em–poucos-de número por-causa-de que fostes como–estrelas-de os–céus em–multidão porque– não ouviste à–voz-de Yahweh teu–Deus
+-- c28-v63: e–será como– alegrou-se Yahweh sobre-vós para–fazer-bem a-vós e–para–multiplicar a-vós assim alegrar-se-á Yahweh sobre-vós para–destruir a-vós e–para–aniquilar a-vós e–sereis-arrancados de–sobre a–terra que– tu entrando– lá para–possuí-la
+-- c28-v64: e–dispersar-te-á Yahweh entre–todos– os–povos da–extremidade-de a–terra e–até– extremidade-de a–terra e–servirás lá deuses outros que não– conheceste tu e–teus–pais madeira e–pedra
+-- c28-v65: e–entre–as–nações aquelas não terás-descanso e–não– haverá repouso para–planta-de– teu–pé e–dará Yahweh a-ti lá coração trêmulo e–falha-de olhos e–desespero-de alma
+-- c28-v66: e–será tua–vida suspensa a-ti de–frente e–temerás noite e–dia e–não confiarás em–tua–vida
+-- c28-v67: de–manhã dirás quem– dera tarde e–de–tarde dirás quem– dera manhã por–temor-de teu–coração que temerás e–por–visão-de teus–olhos que verás
+-- c28-v68: e–far-te-á-voltar Yahweh ao–Egito em–navios pelo–caminho que disse a-ti não– acrescentarás mais vê-la e–vos-vendereis lá a–teus–inimigos por–escravos e–por–escravas e–não-haverá quem-compre §
+-- c29-v1: estas palavras-de a–aliança que– ordenou Yahweh (a) Moisés cortar com– filhos-de Israel na–terra-de Moabe além-de a–aliança que– cortou com-eles em–Horebe ¶
+-- c29-v2: e–chamou Moisés a– todo– Israel e–disse a-eles vós vistes (a) tudo– que fez Yahweh a–vossos–olhos na–terra-de Egito a–Faraó e–a–todos– seus–servos e–a–toda– sua–terra
+-- c29-v3: as–provas as–grandes que viram teus–olhos os–sinais e–os–prodígios os–grandes aqueles
+-- c29-v4: e–não– deu Yahweh a-vós coração para–conhecer e–olhos para–ver e–ouvidos para–ouvir até o–dia este
+-- c29-v5: e–conduzi a-vós quarenta anos no–deserto não– gastaram-se vossas–roupas de-sobre-vós e–tua–sandália não– gastou-se de–sobre teu–pé
+-- c29-v6: pão não comestes e–vinho e–bebida-forte não bebestes para-que soubésseis que eu Yahweh vosso–Deus
+-- c29-v7: e–viestes a– o–lugar este e–saiu Siom rei-de– Hesbom e–Ogue rei-de– o–Basã ao–nosso–encontro para–a–batalha e–os-ferimos
+-- c29-v8: e–tomamos (a) sua–terra e–demos-a por–herança ao–rubenita e–ao–gadita e–à–metade-de tribo-de o–manassita
+-- c29-v9: e–guardareis (a) palavras-de a–aliança esta e–fareis elas para-que prospereis (a) tudo– que fizerdes ¶
+-- c29-v10: vós estais-de-pé hoje todos-vós diante-de Yahweh vosso–Deus vossos–chefes vossas–tribos vossos–anciãos e–vossos–oficiais todo homem-de Israel
+-- c29-v11: vossas–crianças vossas–mulheres e–teu–estrangeiro que em–meio-de teu–acampamento desde–cortador-de tua–lenha até tirador-de tua–água
+-- c29-v12: para–entrar na–aliança-de Yahweh teu–Deus e–em–seu–juramento que Yahweh teu–Deus corta contigo hoje
+-- c29-v13: para-que estabelecer– (a)-ti hoje a-ele por–povo e–ele seja– a-ti por–Deus como falou– a-ti e–como jurou a–teus–pais a–Abraão a–Isaque e–a–Jacó
+-- c29-v14: e–não convosco sozinhos eu corto (a) a–aliança esta e–(a) o–juramento este
+-- c29-v15: pois (a) quem há aqui conosco de-pé hoje diante-de Yahweh nosso–Deus e–(a) quem não-está aqui conosco hoje
+-- c29-v16: porque– vós sabeis (a) que– habitamos na–terra-de Egito e–(a) que– passamos em–meio-de as–nações que passastes
+-- c29-v17: e–vistes (a) suas–abominações e–(a) seus–ídolos madeira e–pedra prata e–ouro que com-eles
+-- c29-v18: para-que-não– haja entre-vós homem ou– mulher ou família ou– tribo cujo coração se-desvia hoje de–com Yahweh nosso–Deus para–ir para–servir (a) deuses-de as–nações aquelas para-que-não– haja entre-vós raiz que-produz fel e–absinto
+-- c29-v19: e–será em–seu–ouvir (a) palavras-de o–juramento este e–abençoar-se-á em–seu–coração dizendo paz haverá– a-mim porque na–obstinação-de meu–coração andarei para-que varrer a–regada com– a–sedenta
+-- c29-v20: não– quererá Yahweh perdoar– a-ele porque então fumegará ira-de– Yahweh e–seu–ciume contra–o–homem aquele e–pousará nele toda– a–maldição a–escrita no–livro este e–apagará Yahweh (a) seu–nome de–debaixo-de os–céus
+-- c29-v21: e–separará Yahweh para–mal de–todas tribos-de Israel conforme–todas maldições-de a–aliança a–escrita no–livro-de a–Torah esta
+-- c29-v22: e–dirá a–geração a–futura vossos–filhos que levantar-se-ão depois-de-vós e–o–estrangeiro que virá de–terra distante e–verão (a) pragas-de a–terra aquela e–(a) suas–doenças que– feriu Yahweh nela
+-- c29-v23: enxofre e–sal queimadura toda– sua–terra não será-semeada e–não brotará e–não– subirá nela nenhuma– erva como–destruição-de Sodoma e–Gomorra Admá [e–Zeboim] (e–Zeboim) que destruiu Yahweh em–sua–ira e–em–seu–furor
+-- c29-v24: e–dirão todas– as–nações sobre– que fez Yahweh assim à–terra esta que ardor-de a–ira a–grande esta
+-- c29-v25: e–dirão sobre que abandonaram (a) aliança-de Yahweh Deus-de seus–pais que cortou com-eles em–tirá-los eles da–terra-de Egito
+-- c29-v26: e–foram e–serviram deuses outros e–prostraram-se a-eles deuses que não– conheceram e–não repartiu a-eles
+-- c29-v27: e–acendeu-se– ira-de Yahweh contra–a–terra aquela para–trazer sobre-ela (a) toda– a–maldição a–escrita no–livro este
+-- c29-v28: e–arrancou-os Yahweh de–sobre sua–terra com–ira e–com–furor e–com–indignação grande e–lançou-os a– terra outra como–o–dia este
+-- c29-v29: as–coisas-ocultas a–Yahweh nosso–Deus e–as–coisas-reveladas a-nós e–a–nossos–filhos até– eternidade para–fazer (a) todas– palavras-de a–Torah esta §
+-- c30-v1: e–será quando– vierem sobre-ti todas– as–coisas estas a–bênção e–a–maldição que pus diante-de-ti e–farás-voltar a– teu–coração entre–todas– as–nações que expulsou-te Yahweh teu–Deus lá
+-- c30-v2: e–voltarás até– Yahweh teu–Deus e–ouvirás a–sua–voz conforme–tudo que– eu mando-te hoje tu e–teus–filhos com–todo– teu–coração e–com–toda– tua–alma
+-- c30-v3: e–fará-voltar Yahweh teu–Deus (a) teu–cativeiro e–ter-te-á-compaixão e–voltará e–juntar-te-á de–todos– os–povos que espalhou-te Yahweh teu–Deus lá
+-- c30-v4: se– for teu–desterrado na–extremidade-de os–céus de-lá ajuntar-te-á Yahweh teu–Deus e–de-lá tomar-te-á
+-- c30-v5: e–trazer-te-á Yahweh teu–Deus a– a–terra que– possuíram teus–pais e–possuí-la-ás e–far-te-á-bem e–multiplicar-te-á mais-que–teus–pais
+-- c30-v6: e–circuncidará Yahweh teu–Deus (a) teu–coração e–(a) coração-de tua–descendência para–amar (a) Yahweh teu–Deus com–todo– teu–coração e–com–toda– tua–alma para-que tua–vida
+-- c30-v7: e–porá Yahweh teu–Deus (a) todas– as–maldições estas sobre– teus–inimigos e–sobre– teus–odiadores que perseguiram-te
+-- c30-v8: e–tu voltarás e–ouvirás à–voz-de Yahweh e–farás (a) todos– seus–mandamentos que eu mando-te hoje
+-- c30-v9: e–far-te-á-prosperar Yahweh teu–Deus em–toda obra-de tua–mão em–fruto-de teu–ventre e–em–fruto-de teu–gado e–em–fruto-de tua–terra para–bem porque voltará Yahweh a–alegrar-se sobre-ti para–bem como– alegrou-se sobre– teus–pais
+-- c30-v10: quando ouvires à–voz-de Yahweh teu–Deus para–guardar seus–mandamentos e–seus–estatutos a–escrita no–livro-de a–Torah este quando voltares a– Yahweh teu–Deus com–todo– teu–coração e–com–toda– tua–alma ¶
+-- c30-v11: porque o–mandamento este que eu mando-te hoje não– é-difícil-demais ele de-ti e–não é-distante ele
+-- c30-v12: não nos–céus ele para–dizer quem subirá– para-nós aos–céus e–tomá-lo-á para-nós e–fará-nos-ouvir ele e–faremos
+-- c30-v13: e–não– do-outro-lado-de o–mar ele para–dizer quem atravessará– para-nós a– outro-lado-de o–mar e–tomá-lo-á para-nós e–fará-nos-ouvir ele e–faremos
+-- c30-v14: porque– perto de-ti a–palavra muito em–tua–boca e–em–teu–coração para–fazê-la §
+-- c30-v15: vê pus diante-de-ti hoje (a) a–vida e–(a) o–bem e–(a) a–morte e–(a) o–mal
+-- c30-v16: que eu mando-te hoje para–amar (a) Yahweh teu–Deus para–andar em–seus–caminhos e–para–guardar seus–mandamentos e–seus–estatutos e–seus–juízos e–viverás e–multiplicar-te-ás e–abençoar-te-á Yahweh teu–Deus na–terra que– tu entrando– lá para–possuí-la
+-- c30-v17: e–se– desviar-se teu–coração e–não ouvires e–fores-empurrado e–prostrares-te a–deuses outros e–servi-los
+-- c30-v18: declaro a-vós hoje que certamente perecereis não– prolongareis dias sobre– a–terra que tu atravessando (a) o–Jordão para–entrar lá para–possuí-la
+-- c30-v19: chamo-como-testemunhas contra-vós hoje (a) os–céus e–(a) a–terra a–vida e–a–morte pus diante-de-ti a–bênção e–a–maldição e–escolherás a–vida para-que vivas tu e–tua–descendência
+-- c30-v20: para–amar (a) Yahweh teu–Deus para–ouvir a–sua–voz e–para–apegar-se-a– ele porque ele tua–vida e–comprimento-de teus–dias para–habitar sobre– a–terra que jurou Yahweh a–teus–pais a–Abraão a–Isaque e–a–Jacó dar a-eles ¶
+-- c31-v1: E–foi Moisés e–falou (a) as–palavras as–estas a todo Israel
+-- c31-v2: E–disse a–eles filho–de cem e–vinte anos eu o–dia não sou–capaz ainda de–sair e–de–entrar e–Yahweh disse a–mim não atravessarás (a) o–Jordão o–este
+-- c31-v3: Yahweh teu–Deus ele atravessando diante–de–ti ele destruirá (a) as–nações as–estas de–diante–de–ti e–as–possuirás Josué ele atravessando diante–de–ti como falou Yahweh
+-- c31-v4: E–fará Yahweh a–eles como fez a–Síon e–a–Ogue reis–de o–amorreu e–a–sua–terra que destruiu (a)–eles
+-- c31-v5: E–os–dará Yahweh diante–de–vós e–fareis a–eles conforme–todo o–mandamento que ordenei (a)–vós
+-- c31-v6: Sede–fortes e–sede–corajosos não temais e–não tremais de–diante–deles porque Yahweh teu–Deus ele o–que–anda contigo não te–abandonará e–não te–deixará ¶
+-- c31-v7: E–chamou Moisés a–Josué e–disse a–ele aos–olhos–de todo Israel sê–forte e–sê–corajoso porque tu entrarás com o–povo o–este a a–terra que jurou Yahweh aos–pais–deles para–dar a–eles e–tu a–farás–herdar (a)–eles
+-- c31-v8: E–Yahweh ele o–que–anda diante–de–ti ele será contigo não te–abandonará e–não te–deixará não temas e–não te–desanimes
+-- c31-v9: E–escreveu Moisés (a) a–lei a–esta e–a–deu aos os–sacerdotes filhos–de Levi os–que–carregam (a) arca–de aliança–de Yahweh e–a todos anciãos–de Israel
+-- c31-v10: E–ordenou Moisés (a)–eles dizendo ao–fim–de sete anos no–tempo–de ano–de a–remissão na–festa–de as–tendas
+-- c31-v11: quando–vier todo Israel para–aparecer (a) face–de Yahweh teu–Deus no–lugar que escolher lerás (a) a–lei a–esta diante–de todo Israel aos–ouvidos–deles
+-- c31-v12: Reúne (a) o–povo os–homens e–as–mulheres e–as–crianças e–teu–estrangeiro que nas–tuas–portas para–que ouçam e–para–que aprendam e–temam (a) Yahweh vosso–Deus e–guardem para–fazer (a) todas palavras–de a–lei a–esta
+-- c31-v13: E–seus–filhos que não conheceram ouvirão e–aprenderão a–temer (a) Yahweh vosso–Deus todos os–dias que vós viverdes sobre a–terra que vós atravessardes (a) o–Jordão para–lá para–possuí-la ¶
+-- c31-v14: E–disse Yahweh a Moisés eis aproximaram-se teus–dias para–morrer chama (a) Josué e–apresentai-vos na–tenda–de encontro e–o–ordenarei e–foi Moisés e–Josué e–se–apresentaram na–tenda–de encontro
+-- c31-v15: E–apareceu Yahweh na–tenda em–coluna–de nuvem e–permaneceu coluna–de a–nuvem sobre entrada–de a–tenda §
+-- c31-v16: E–disse Yahweh a Moisés eis–te deitando com teus–pais e–se–levantará o–povo o–este e–se–prostituirá atrás–de deuses–de estrangeiro–de a–terra que ele entrando para–lá no–meio–dele e–me–abandonará e–quebrará (a) minha–aliança que cortei com–ele
+-- c31-v17: E–se–acenderá minha–ira contra–ele no–dia aquele e–os–abandonarei e–esconderei minha–face deles e–será para–devorar e–o–encontrarão males muitos e–angústias e–dirá no–dia aquele acaso–não porque que não–está meu–Deus no–meu–meio me–encontraram os–males os–estes
+-- c31-v18: E–eu escondendo esconderei minha–face no–dia aquele por–causa–de todo o–mal que fez porque se–voltou a deuses outros
+-- c31-v19: E–agora escrevei para–vós (a) o–cântico o–este e–ensinai-o aos filhos–de Israel ponde-o na–boca–deles para–que seja para–mim o–cântico o–este por–testemunha nos–filhos–de Israel
+-- c31-v20: Porque o–trarei a a–terra que jurei aos–pais–dele manando leite e–mel e–comerá e–se–fartará e–engordará e–se–voltará a deuses outros e–os–servirão e–me–desprezarão e–quebrará (a) minha–aliança
+-- c31-v21: E–será quando o–encontrarem (a)–ele males muitos e–angústias e–responderá o–cântico o–este diante–dele por–testemunha porque não será–esquecido da–boca–de sua–semente porque conheço (a) sua–inclinação que ele fazendo o–dia antes–de o–trazer a a–terra que jurei
+-- c31-v22: E–escreveu Moisés (a) o–cântico o–este no–dia aquele e–o–ensinou aos filhos–de Israel
+-- c31-v23: E–ordenou (a) Josué filho–de Num e–disse sê–forte e–sê–corajoso porque tu trarás (a) filhos–de Israel a a–terra que jurei a–eles e–eu serei contigo
+-- c31-v24: E–foi quando–terminou Moisés de–escrever (a) palavras–de a–lei a–esta sobre livro até completá-las
+-- c31-v25: E–ordenou Moisés aos os–levitas carregadores–de arca–de aliança–de Yahweh dizendo
+-- c31-v26: Tomai (a) livro–de a–lei o–este e–colocai (a)–ele ao–lado–de arca–de aliança–de Yahweh vosso–Deus e–será ali contra–ti por–testemunha
+-- c31-v27: Porque eu conheço (a) tua–rebelião e–(a) tua–cerviz a–dura eis enquanto–ainda vivo convosco o–dia rebeldes fostes com Yahweh e–certamente que depois–de minha–morte
+-- c31-v28: Congregai a–mim (a) todos anciãos–de vossas–tribos e–vossos–oficiais e–falarei aos–ouvidos–deles (a) as–palavras as–estas e–chamarei–por–testemunha contra–eles (a) os–céus e–(a) a–terra
+-- c31-v29: Porque sei depois–de minha–morte que corrompendo vos–corrompereis e–vos–desviareis do o–caminho que vos–ordenei (a)–vós e–vos–encontrará (a)–vós o–mal no–fim–de os–dias porque fareis (a) o–mal aos–olhos–de Yahweh para–provocá-lo–à–ira com–obra–de vossas–mãos
+-- c31-v30: E–falou Moisés aos–ouvidos–de toda assembleia–de Israel (a) palavras–de o–cântico o–este até completá-las ¶
+-- c32-v1: Dai–ouvidos ó–céus e–falarei e–ouça a–terra palavras–de minha–boca
+-- c32-v2: Goteje como–a–chuva meu–ensinamento destile como–o–orvalho meu–dito como–chuviscos sobre relva e–como–aguaceiros sobre erva
+-- c32-v3: Porque nome–de Yahweh proclamarei dai grandeza ao–nosso–Deus
+-- c32-v4: A–Rocha perfeita sua–obra porque todos seus–caminhos justiça Deus–de fidelidade e–não–há iniquidade justo e–reto ele
+-- c32-v5: Corrompeu para–ele não seus–filhos seu–defeito geração perversa e–tortuosa
+-- c32-v6: Acaso a–Yahweh retribuís isto povo insensato e–não sábio acaso–não ele teu–pai te–criou ele te–fez e–te–estabeleceu
+-- c32-v7: Lembra dias–de eternidade entendei anos–de geração e–geração pergunta a–teu–pai e–te–contará teus–anciãos e–te–dirão a–ti
+-- c32-v8: Quando–repartir o–Altíssimo nações quando–separar filhos–de Adão fixou fronteiras–de povos conforme–número–de filhos–de Israel
+-- c32-v9: Porque porção–de Yahweh seu–povo Jacó lote–de sua–herança
+-- c32-v10: Achou-o em–terra–de deserto e–em–vazio uivo–de ermo rodeou-o cuidou–dele guardou-o como–menina–de seu–olho
+-- c32-v11: Como–águia desperta seu–ninho sobre seus–filhotes paira estende suas–asas toma-o carrega-o sobre sua–asa
+-- c32-v12: Yahweh sozinho o–guiou e–não–havia com–ele deus estrangeiro
+-- c32-v13: Fez–cavalgar–o sobre [alturas-de] alturas–de terra e–comeu frutos–de campo e–amamentou-o mel de–rocha e–azeite de–pederneira–de rocha
+-- c32-v14: Manteiga–de gado e–leite–de rebanho com gordura–de cordeiros e–carneiros filhos–de Basã e–bodes com gordura–de rins–de trigo e–sangue–de uva bebeste vinho–espumante
+-- c32-v15: E–engordou Jesurum e–coiceou engordaste engrossaste cobriste-te–de–gordura e–abandonou Deus que–o–fez e–desprezou Rocha–de sua–salvação
+-- c32-v16: Provocaram-no–a–ciúmes com–estranhos com–abominações o–provocaram–à–ira
+-- c32-v17: Sacrificaram a–demônios não Deus deuses não conheciam novos de–perto vieram não temeram-nos vossos–pais
+-- c32-v18: Rocha que–te–gerou esqueceste e–esqueceste Deus que–te–formou
+-- c32-v19: E–viu Yahweh e–rejeitou por–provocação–de seus–filhos e–suas–filhas
+-- c32-v20: E–disse esconderei minha–face deles verei qual seu–fim porque geração–de perversidades eles filhos não–há fidelidade neles
+-- c32-v21: Eles me–provocaram–a–ciúmes com–não deus me–irritaram com–suas–vaidades e–eu os–provocarei–a–ciúmes com–não povo com–nação insensata os–irritarei
+-- c32-v22: Porque fogo se–acendeu em–minha–ira e–queimará até Sheol mais–baixo e–devorará terra e–seu–produto e–inflamará fundamentos–de montes
+-- c32-v23: Amontoarei sobre–eles males minhas–flechas consumirei neles
+-- c32-v24: Esgotados–de fome e–consumidos–de febre e–peste amarga e–dente–de animais enviarei contra–eles com veneno–de rastejantes–de pó
+-- c32-v25: De–fora destruirá espada e–de–dentro terror tanto jovem como virgem lactente com homem–de cabelo–grisalho
+-- c32-v26: Disse os–espalharei farei–cessar dentre–homens sua–memória
+-- c32-v27: Se–não–fosse provocação–de inimigo temesse para–que–não desconheçam seus–adversários para–que–não digam nossa–mão exaltada e–não Yahweh fez tudo isto
+-- c32-v28: Porque nação perdida–de conselhos eles e–não–há neles entendimento
+-- c32-v29: Se fossem–sábios compreenderiam isto entenderiam seu–fim
+-- c32-v30: Como perseguiria um mil e–dois fariam–fugir dez–mil se–não que porque sua–Rocha os–vendeu e–Yahweh os–entregou
+-- c32-v31: Porque não como–nossa–Rocha sua–rocha e–nossos–inimigos juízes
+-- c32-v32: Porque da–videira–de Sodoma sua–videira e–dos–campos–de Gomorra suas–uvas uvas–de veneno cachos amargos para–eles
+-- c32-v33: Veneno–de serpentes seu–vinho e–peçonha–de víboras cruel
+-- c32-v34: Acaso–não isto guardado comigo selado em–meus–tesouros
+-- c32-v35: Minha a–vingança e–a–retribuição para–tempo vacilar seu–pé porque perto dia–de sua–calamidade e–apressam-se coisas–preparadas para–eles
+-- c32-v36: Porque julgará Yahweh seu–povo e–sobre seus–servos terá–compaixão quando vir que se–foi força e–não–há preso e–abandonado
+-- c32-v37: E–dirá onde seus–deuses rocha refugiaram-se nela
+-- c32-v38: Que gordura–de seus–sacrifícios comiam bebiam vinho–de sua–libação levantem-se e–vos–ajudem seja sobre–vós refúgio
+-- c32-v39: Vede agora que eu eu sou–ele e–não–há deuses comigo eu mato e–faço–viver feri e–eu sararei e–não–há de–minha–mão libertador
+-- c32-v40: Porque levanto aos céus minha–mão e–digo vivo eu para–sempre
+-- c32-v41: Se afiar relâmpago–de minha–espada e–empunhar em–juízo minha–mão retribuirei vingança aos–meus–adversários e–aos–que–me–odeiam pagarei
+-- c32-v42: Embriagarei minhas–flechas de–sangue e–minha–espada devorará carne de–sangue–de mortos e–cativos de–cabeça–de líderes–de inimigo
+-- c32-v43: Exultai ó–nações seu–povo porque sangue–de seus–servos vingará e–vingança retribuirá aos–seus–adversários e–expiará sua–terra seu–povo ¶
+-- c32-v44: E–veio Moisés e–falou (a) todas palavras–de o–cântico o–este aos–ouvidos–de o–povo ele e–Oséas filho–de Num
+-- c32-v45: E–terminou Moisés de–falar (a) todas as–palavras as–estas a todo Israel
+-- c32-v46: E–disse a–eles ponde vosso–coração a–todas as–palavras que eu testifico contra–vós o–dia que ordenareis aos vossos–filhos para–guardar para–fazer (a) todas palavras–de a–lei a–esta
+-- c32-v47: Porque não palavra vã ela para–vós porque ela vossa–vida e–pela–palavra a–esta prolongareis dias sobre a–terra que vós atravessardes (a) o–Jordão para–lá para–possuí-la ¶
+-- c32-v48: E–falou Yahweh a Moisés naquele–mesmo o–dia o–este dizendo
+-- c32-v49: Sobe a monte–de os–Abarim o–este monte Nebo que em–terra–de Moabe que defronte–de face–de Jericó e–vê (a) terra–de Canaã que eu dando aos–filhos–de Israel por–posse
+-- c32-v50: E–morre no–monte que tu subindo para–lá e–sê–reunido a teus–povos como morreu Arão teu–irmão no–monte Hor e–foi–reunido a seus–povos
+-- c32-v51: Porque que me–traistes contra–mim no–meio–de filhos–de Israel nas–águas–de Meribá–de Cades deserto–de Zim porque que não me–santificastes (a)–mim no–meio–de filhos–de Israel
+-- c32-v52: Porque de–longe verás (a) a–terra e–para–lá não entrarás a a–terra que eu dando aos–filhos–de Israel ¶
+-- c33-v1: E–esta a–bênção que abençoou Moisés homem–de o–Deus (a) filhos–de Israel antes–de sua–morte
+-- c33-v2: E–disse Yahweh do–Sinai veio e–resplandeceu de–Seir para–eles brilhou do–monte–de Parã e–veio de–miríades–de santidade da–sua–direita [fogo-lei] fogo lei para–eles
+-- c33-v3: Também amando povos todos seus–santos na–tua–mão e–eles prostrados aos–teus–pés recebe de–tuas–palavras
+-- c33-v4: Lei ordenou a–nós Moisés herança–de congregação–de Jacó
+-- c33-v5: E–foi em–Jesurum rei quando–se–reuniram chefes–de povo juntos tribos–de Israel
+-- c33-v6: Viva Rúben e–não morra e–sejam seus–homens poucos §
+-- c33-v7: E–esta para–Judá e–disse Ouve Yahweh voz–de Judá e–a seu–povo o–traz suas–mãos lutem por–ele e–ajuda contra–seus–inimigos serás §
+-- c33-v8: E–a–Levi disse teus–Tumim e–teus–Urim para–homem–de teu–fiel que provaste em–Massá contendeste–com–ele junto–às águas–de Meribá
+-- c33-v9: O–que–disse a–seu–pai e–a–sua–mãe não o–vi e–(a) seus–irmãos não reconheceu e–(a) [seu-filho] seus–filhos não conheceu porque guardaram tua–palavra e–tua–aliança observam
+-- c33-v10: Ensinam teus–juízos a–Jacó e–tua–lei a–Israel põem incenso nas–tuas–narinas e–holocausto sobre teu–altar
+-- c33-v11: Abençoa Yahweh sua–força e–obra–de suas–mãos aceita fere lombos–de os–que–se–levantam–contra–ele e–os–que–o–odeiam de se–levantarão §
+-- c33-v12: Para–Benjamim disse amado–de Yahweh habitará em–segurança sobre–ele cobrindo-o sobre–ele todo o–dia e–entre seus–ombros habita §
+-- c33-v13: E–a–José disse abençoada–de Yahweh sua–terra do–melhor–de céus do–orvalho e–do–abismo deitado embaixo
+-- c33-v14: E–do–melhor–de frutos–de sol e–do–melhor–de produção–de luas
+-- c33-v15: E–do–cume–de montes–de antigamente e–do–melhor–de outeiros–de eternidade
+-- c33-v16: E–do–melhor–de terra e–sua–plenitude e–beneplacência–de habitante–de sarça venha para–cabeça–de José e–para–coroa–de consagrado–de seus–irmãos
+-- c33-v17: Primogênito–de seu–boi majestade para–ele e–chifres–de búfalo seus–chifres com–eles povos chifreará juntamente extremidades–de terra e–eles miríades–de Efraim e–eles milhares–de Manassés §
+-- c33-v18: E–a–Zebulom disse alegra-te Zebulom na–tua–saída e–Issacar nas–tuas–tendas
+-- c33-v19: Povos ao–monte chamarão ali sacrificarão sacrifícios–de justiça porque abundância–de mares mamarão e–escondidos–de tesouros–de areia §
+-- c33-v20: E–a–Gade disse bendito o–que–alarga Gade como–leão habita e–despedaça braço até cabeça
+-- c33-v21: E–viu as–primícias para–si porque ali porção–de legislador reservada e–veio chefes–de povo justiça–de Yahweh fez e–seus–juízos com Israel §
+-- c33-v22: E–a–Dã disse Dã filhote–de leão saltando de o–Basã
+-- c33-v23: E–a–Naftali disse Naftali saciado–de favor e–cheio–de bênção–de Yahweh mar e–sul possui §
+-- c33-v24: E–a–Aser disse bendito dentre–filhos Aser seja aceito de–seus–irmãos e–mergulhando no–azeite seu–pé
+-- c33-v25: Ferro e–bronze tuas–trancas e–como–teus–dias tua–força
+-- c33-v26: Não–há como–o–Deus Jesurum cavalgando céus para–tua–ajuda e–em–sua–majestade nuvens
+-- c33-v27: Refúgio Deus–de antigamente e–debaixo braços–de eternidade e–expulsou de–diante–de–ti inimigo e–disse destrói
+-- c33-v28: E–habitou Israel em–segurança sozinho fonte–de Jacó a terra–de grão e–mosto também seus–céus gotejam orvalho
+-- c33-v29: Bem–aventurado Israel quem como–tu povo salvo por–Yahweh escudo–de tua–ajuda e–que espada–de tua–majestade e–se–submeterão teus–inimigos a–ti e–tu sobre suas–alturas pisarás §
+-- c34-v1: E–subiu Moisés das–planícies–de Moabe ao monte–de Nebo cume–de o–Pisga que defronte–de face–de Jericó e–mostrou-lhe Yahweh (a) toda a–terra (a) o–Gileade até Dã
+-- c34-v2: E–(a) todo Naftali e–(a) terra–de Efraim e–Manassés e–(a) toda terra–de Judá até o–mar o–ocidental
+-- c34-v3: E–(a) o–Neguebe e–(a) a–planície vale–de Jericó cidade–de as–palmeiras até Zoar
+-- c34-v4: E–disse Yahweh a–ele esta a–terra que jurei a–Abraão a–Isaque e–a–Jacó dizendo à–tua–semente a–darei fiz-te-ver com–teus–olhos e–para–lá não atravessarás
+-- c34-v5: E–morreu ali Moisés servo–de Yahweh em–terra–de Moabe conforme boca–de Yahweh
+-- c34-v6: E–sepultou (a)–ele no–vale em–terra–de Moabe defronte–de Bete-Peor e–não soube homem (a) seu–sepulcro até o–dia o–este
+-- c34-v7: E–Moisés filho–de cem e–vinte anos quando–morreu não escureceu seu–olho e–não fugiu seu–vigor
+-- c34-v8: E–choraram filhos–de Israel (a) Moisés nas–planícies–de Moabe trinta dias e–completaram-se dias–de choro–de luto–de Moisés
+-- c34-v9: E–Josué filho–de Num cheio–de espírito–de sabedoria porque impôs Moisés (a) suas–mãos sobre–ele e–ouviram a–ele filhos–de Israel e–fizeram como ordenou Yahweh (a) Moisés
+-- c34-v10: E–não se–levantou profeta ainda em–Israel como–Moisés que o–conheceu Yahweh face a face
+-- c34-v11: Em–todos os–sinais e–as–maravilhas que o–enviou Yahweh para–fazer em–terra–de Egito a–Faraó e–a–todos seus–servos e–a–toda sua–terra
+-- c34-v12: E–em–toda a–mão a–poderosa e–em–todo o–temor o–grande que fez Moisés aos–olhos–de todo Israel
 
 BEGIN;
 -- 0500100101: אֵ֣לֶּה (H0428) → "§ Estas" [opus-4.5-chirho]

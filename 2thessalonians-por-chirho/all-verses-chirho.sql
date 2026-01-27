@@ -3,55 +3,55 @@
 -- — John 3:16
 
 -- 2THESSALONIANS - POR Combined
--- Generated: 2026-01-27T21:46:29Z
+-- Generated: 2026-01-27T22:19:37Z
 
--- 2THESSALONIANS c1-v1 - POR
--- 2THESSALONIANS c1-v2 - POR
--- 2THESSALONIANS c1-v3 - POR
--- 2THESSALONIANS c1-v4 - POR
--- 2THESSALONIANS c1-v5 - POR
--- 2THESSALONIANS c1-v6 - POR
--- 2THESSALONIANS c1-v7 - POR
--- 2THESSALONIANS c1-v8 - POR
--- 2THESSALONIANS c1-v9 - POR
--- 2THESSALONIANS c1-v10 - POR
--- 2THESSALONIANS c1-v11 - POR
--- 2THESSALONIANS c1-v12 - POR
--- 2THESSALONIANS c2-v1 - POR
--- 2THESSALONIANS c2-v2 - POR
--- 2THESSALONIANS c2-v3 - POR
--- 2THESSALONIANS c2-v4 - POR
--- 2THESSALONIANS c2-v5 - POR
--- 2THESSALONIANS c2-v6 - POR
--- 2THESSALONIANS c2-v7 - POR
--- 2THESSALONIANS c2-v8 - POR
--- 2THESSALONIANS c2-v9 - POR
--- 2THESSALONIANS c2-v10 - POR
--- 2THESSALONIANS c2-v11 - POR
--- 2THESSALONIANS c2-v12 - POR
--- 2THESSALONIANS c2-v13 - POR
--- 2THESSALONIANS c2-v14 - POR
--- 2THESSALONIANS c2-v15 - POR
--- 2THESSALONIANS c2-v16 - POR
--- 2THESSALONIANS c2-v17 - POR
--- 2THESSALONIANS c3-v1 - POR
--- 2THESSALONIANS c3-v2 - POR
--- 2THESSALONIANS c3-v3 - POR
--- 2THESSALONIANS c3-v4 - POR
--- 2THESSALONIANS c3-v5 - POR
--- 2THESSALONIANS c3-v6 - POR
--- 2THESSALONIANS c3-v7 - POR
--- 2THESSALONIANS c3-v8 - POR
--- 2THESSALONIANS c3-v9 - POR
--- 2THESSALONIANS c3-v10 - POR
--- 2THESSALONIANS c3-v11 - POR
--- 2THESSALONIANS c3-v12 - POR
--- 2THESSALONIANS c3-v13 - POR
--- 2THESSALONIANS c3-v14 - POR
--- 2THESSALONIANS c3-v15 - POR
--- 2THESSALONIANS c3-v16 - POR
--- 2THESSALONIANS c3-v17 - POR
--- 2THESSALONIANS c3-v18 - POR
+-- c1-v1: Paulo e Silvano e Timóteo à igreja dos–tessalonicenses em Deus Pai nosso e Senhor Jesus Cristo
+-- c1-v2: graça a–vós e paz da–parte–de Deus Pai nosso e Senhor Jesus Cristo
+-- c1-v3: Dar–graças devemos a–o Deus sempre acerca–de vós irmãos assim–como digno é porque cresce–muito a fé vossa e abunda o amor de–um cada–um de–todos de–vós para uns–os–outros
+-- c1-v4: de–modo–que nós–mesmos nós em vós gloriamo–nos nas as igrejas do Deus por a perseverança vossa e fé em todas as perseguições vossas e as tribulações que suportais
+-- c1-v5: prova do justo juízo do Deus para o serdes–considerados–dignos vós do reino do Deus pelo–qual do–qual também sofreis
+-- c1-v6: se–de–fato justo diante–de Deus retribuir aos que–vos–atribulam a–vós tribulação
+-- c1-v7: e a–vós os atribulados alívio conosco nós na a revelação do Senhor Jesus do céu com anjos do–poder dele
+-- c1-v8: em fogo de–chama dando vingança aos que–não conhecem Deus e aos que–não obedecem ao evangelho do Senhor nosso Jesus
+-- c1-v9: os–quais pena pagarão destruição eterna da presença do Senhor e da a glória da força dele
+-- c1-v10: quando vier ser–glorificado nos os santos dele e ser–admirado em todos os que–creram porque foi–crido o testemunho nosso para vós naquele o dia aquele
+-- c1-v11: Para o–qual também oramos sempre por vós para–que a–vós considere–dignos da vocação o Deus nosso e cumpra todo propósito de–bondade e obra de–fé com poder
+-- c1-v12: para–que seja–glorificado o nome do Senhor nosso Jesus em vós e vós nele ele segundo a graça do Deus nosso e Senhor Jesus Cristo
+-- c2-v1: Rogamos porém a–vós irmãos acerca da vinda do Senhor nosso Jesus Cristo e nossa reunião com ele
+-- c2-v2: para o não rapidamente serdes–abalados vós da a mente nem serdes–perturbados nem por espírito nem por palavra nem por carta como–se por nós como–se que já–chegou o dia do Senhor
+-- c2-v3: que–não alguém a–vós engane de nenhum modo porque se–não não vier a apostasia primeiro e for–revelado o homem da iniquidade o filho da perdição
+-- c2-v4: o que–se–opõe e que–se–exalta sobre todo chamado Deus ou objeto–de–culto de–modo–que ele no o templo do Deus sentar–se mostrando a–si–mesmo que é Deus
+-- c2-v5: Não lembrais que ainda estando convosco vós estas–coisas dizia a–vós
+-- c2-v6: e agora o que–detém sabeis para o ser–revelado ele no o próprio tempo
+-- c2-v7: o pois mistério já opera da iniquidade somente o que–detém agora até do meio seja–tirado
+-- c2-v8: e então será–revelado o iníquo a–quem o Senhor Jesus destruirá com–o espírito da boca dele e aniquilará com–a manifestação da vinda dele
+-- c2-v9: de–quem é a vinda segundo operação do Satanás com todo poder e sinais e prodígios de–mentira
+-- c2-v10: e com todo engano de–injustiça para–os que–perecem porque os–quais o amor da verdade não aceitaram para o serem–salvos eles
+-- c2-v11: e por isso envia a–eles o Deus operação de–engano para o crerem eles na mentira
+-- c2-v12: para–que sejam–julgados todos os que–não creram na verdade mas tiveram–prazer na injustiça
+-- c2-v13: Nós porém devemos dar–graças a–o Deus sempre por vós irmãos amados pelo Senhor porque escolheu a–vós o Deus desde o–princípio para salvação em santificação do–Espírito e fé da–verdade
+-- c2-v14: para o–qual também chamou a–vós por–meio–do o evangelho nosso para obtenção da–glória do Senhor nosso Jesus Cristo
+-- c2-v15: Assim pois irmãos permanecei–firmes e retende as tradições que fostes–ensinados quer por palavra quer por carta nossa
+-- c2-v16: Ele–mesmo porém o Senhor nosso Jesus Cristo e o Deus o Pai nosso o que–nos–amou a–nós e tendo–dado consolação eterna e esperança boa em graça
+-- c2-v17: console vossos os corações e confirme em toda obra e palavra boa
+-- c3-v1: O finalmente orai irmãos por nós para–que a palavra do Senhor corra e seja–glorificada assim–como também para–convosco vós
+-- c3-v2: e para–que sejamos–livres dos os perversos e maus homens não pois de–todos é a–fé
+-- c3-v3: Fiel porém é o Senhor que vos–confirmará a–vós e vos–guardará do o maligno
+-- c3-v4: confiamos porém no Senhor acerca–de vós que o–que mandamos também fazeis e fareis
+-- c3-v5: O porém Senhor dirija vossos os corações para o amor do Deus e para a perseverança do Cristo
+-- c3-v6: Mandamos porém a–vós irmãos em nome do Senhor nosso Jesus Cristo apartardes–vos vós de todo irmão desordenadamente que–anda e não segundo a tradição que receberam de nós
+-- c3-v7: vós–mesmos pois sabeis como convém imitar a–nós porque não andamos–desordenadamente entre vós
+-- c3-v8: nem de–graça pão comemos de alguém mas com trabalho e fadiga de–noite e de–dia trabalhando para o não sermos–pesados a–algum de–vós
+-- c3-v9: não que não temos autoridade mas para–que a–nós–mesmos exemplo dêssemos a–vós para o imitardes a–nós
+-- c3-v10: e pois quando estávamos convosco vós isto mandávamos a–vós que se alguém não quer trabalhar também–não coma
+-- c3-v11: ouvimos pois alguns que–andam entre vós desordenadamente nada trabalhando mas intrometendo–se
+-- c3-v12: aos porém tais mandamos e exortamos no Senhor Jesus Cristo que com sossego trabalhando o próprio pão comam
+-- c3-v13: Vós porém irmãos não vos–canseis fazendo–o–bem
+-- c3-v14: se porém alguém não obedece à palavra nossa por a carta esse notai não vos–associar com–ele para–que seja–envergonhado
+-- c3-v15: e não como inimigo o–considereis mas admoestai como irmão
+-- c3-v16: Ele–mesmo porém o Senhor da paz vos–dê a–vós a paz por todo em todo modo o Senhor com todos vós
+-- c3-v17: A saudação com–a minha mão de–Paulo a–qual é sinal em toda carta assim escrevo
+-- c3-v18: a graça do Senhor nosso Jesus Cristo com todos vós Amém
 
 BEGIN;
 -- 5300100101: Παῦλος, (G3972) → "Paulo" [opus-4.5-chirho]

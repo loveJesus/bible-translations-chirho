@@ -3,99 +3,99 @@
 -- — John 3:16
 
 -- 1PETER - POR Combined
--- Generated: 2026-01-27T21:46:14Z
+-- Generated: 2026-01-27T22:19:11Z
 
--- 1PETER c1-v1 - POR
--- 1PETER c1-v2 - POR
--- 1PETER c1-v3 - POR
--- 1PETER c1-v4 - POR
--- 1PETER c1-v5 - POR
--- 1PETER c1-v6 - POR
--- 1PETER c1-v7 - POR
--- 1PETER c1-v8 - POR
--- 1PETER c1-v9 - POR
--- 1PETER c1-v10 - POR
--- 1PETER c1-v11 - POR
--- 1PETER c1-v12 - POR
--- 1PETER c1-v13 - POR
--- 1PETER c1-v14 - POR
--- 1PETER c1-v15 - POR
--- 1PETER c1-v16 - POR
--- 1PETER c1-v17 - POR
--- 1PETER c1-v18 - POR
--- 1PETER c1-v19 - POR
--- 1PETER c1-v20 - POR
--- 1PETER c1-v21 - POR
--- 1PETER c1-v22 - POR
--- 1PETER c1-v23 - POR
--- 1PETER c1-v24 - POR
--- 1PETER c1-v25 - POR
--- 1PETER c2-v1 - POR
--- 1PETER c2-v2 - POR
--- 1PETER c2-v3 - POR
--- 1PETER c2-v4 - POR
--- 1PETER c2-v5 - POR
--- 1PETER c2-v6 - POR
--- 1PETER c2-v7 - POR
--- 1PETER c2-v8 - POR
--- 1PETER c2-v9 - POR
--- 1PETER c2-v10 - POR
--- 1PETER c2-v11 - POR
--- 1PETER c2-v12 - POR
--- 1PETER c2-v13 - POR
--- 1PETER c2-v14 - POR
--- 1PETER c2-v15 - POR
--- 1PETER c2-v16 - POR
--- 1PETER c2-v17 - POR
--- 1PETER c2-v18 - POR
--- 1PETER c2-v19 - POR
--- 1PETER c2-v20 - POR
--- 1PETER c2-v21 - POR
--- 1PETER c2-v22 - POR
--- 1PETER c2-v23 - POR
--- 1PETER c2-v24 - POR
--- 1PETER c2-v25 - POR
--- 1PETER c3-v1 - POR
--- 1PETER c3-v2 - POR
--- 1PETER c3-v3 - POR
--- 1PETER c3-v4 - POR
--- 1PETER c3-v5 - POR
--- 1PETER c3-v6 - POR
--- 1PETER c3-v7 - POR
--- 1PETER c3-v8 - POR
--- 1PETER c3-v9 - POR
--- 1PETER c3-v10 - POR
--- 1PETER c3-v11 - POR
--- 1PETER c3-v12 - POR
--- 1PETER c3-v13 - POR
--- 1PETER c3-v14 - POR
--- 1PETER c3-v15 - POR
--- 1PETER c3-v16 - POR
--- 1PETER c3-v17 - POR
--- 1PETER c3-v18 - POR
--- 1PETER c3-v19 - POR
--- 1PETER c3-v20 - POR
--- 1PETER c3-v21 - POR
--- 1PETER c3-v22 - POR
--- 1PETER c4-v1 - POR
--- 1PETER c4-v2 - POR
--- 1PETER c4-v3 - POR
--- 1PETER c4-v4 - POR
--- 1PETER c4-v5 - POR
--- 1PETER c4-v6 - POR
--- 1PETER c4-v7 - POR
--- 1PETER c4-v8 - POR
--- 1PETER c4-v9 - POR
--- 1PETER c4-v10 - POR
--- 1PETER c4-v11 - POR
--- 1PETER c4-v12 - POR
--- 1PETER c4-v13 - POR
--- 1PETER c4-v14 - POR
--- 1PETER c4-v15 - POR
--- 1PETER c4-v16 - POR
--- 1PETER c4-v17 - POR
--- 1PETER c4-v18 - POR
--- 1PETER c4-v19 - POR
+-- c1-v1: Pedro, apóstolo de–Jesus Cristo, aos–eleitos peregrinos da–Dispersão de–Ponto, Galácia, Capadócia, Ásia, e Bitínia,
+-- c1-v2: segundo a–presciência de–Deus Pai, em santificação do–Espírito, para obediência e aspersão do–sangue de–Jesus Cristo: graça a–vós e paz sejam–multiplicadas.
+-- c1-v3: Bendito o Deus e Pai do Senhor nosso, Jesus Cristo, o–que segundo a grande sua misericórdia, nos–regenerou a–nós para esperança viva, por–meio–de ressurreição de–Jesus Cristo dentre mortos,
+-- c1-v4: para herança incorruptível, e imaculada, e imarcescível, reservada nos céus para vós,
+-- c1-v5: os–que pelo poder de–Deus sois–guardados mediante fé, para salvação preparada para–ser–revelada no tempo último.
+-- c1-v6: No–qual vós exultais, um–pouco agora, se necessário [é] entristecidos em várias provações,
+-- c1-v7: para–que a prova de–vossa – fé, mais–preciosa que–ouro o que–perece, por fogo porém sendo–provado, seja–achada para louvor, e glória, e honra, na revelação de–Jesus Cristo;
+-- c1-v8: a–quem não tendo–visto, amais; em quem agora não vendo, crendo porém, exultais com–alegria inefável e glorificada,
+-- c1-v9: alcançando o fim da fé <vossa>, salvação das–almas.
+-- c1-v10: Acerca–da qual salvação, buscaram e investigaram profetas, os–que acerca–da – para vós graça profetizaram;
+-- c1-v11: investigando para que ou qual tempo indicava o neles – Espírito de–Cristo, predizendo os para Cristo sofrimentos, e as depois destas–coisas glórias;
+-- c1-v12: aos–quais foi–revelado, que não a–si–mesmos, a–vós porém ministravam estas–coisas, as–quais agora foram–anunciadas a–vós por–meio–de os–que vos–evangelizaram vos pelo Espírito Santo, enviado do céu; para as–quais desejam anjos atentar.
+-- c1-v13: Por–isso cingindo os lombos da mente vossa, sendo–sóbrios, perfeitamente esperai na a sendo–trazida a–vós graça na revelação de–Jesus Cristo;
+-- c1-v14: como filhos de–obediência, não vos–conformando às anteriores na a ignorância vossa concupiscências;
+-- c1-v15: mas segundo o–que vos–chamou vos Santo, também vós–mesmos santos em toda conduta sede;
+-- c1-v16: porque está–escrito, <que> Santos sereis, porque eu santo [sou].
+-- c1-v17: E se Pai invocais o–que imparcialmente julga, segundo a de–cada–um obra, em temor o da peregrinação vossa tempo conduzi–vos,
+-- c1-v18: sabendo que não com–coisas–corruptíveis– prata ou ouro– fostes–resgatados da – vã vossa conduta herdada–dos–pais;
+-- c1-v19: mas com–precioso sangue, como de–cordeiro sem–defeito, e sem–mancha, de–Cristo;
+-- c1-v20: conhecido–de–antemão por–um–lado antes–de fundação do–mundo, manifestado porém no último dos tempos, por–causa–de vós,
+-- c1-v21: os–que por–meio–dele – crentes em Deus, o–que o–ressuscitou – dentre mortos, e glória a–ele deu; de–modo–que a fé vossa, e esperança, esteja em Deus.
+-- c1-v22: As almas vossas tendo–purificado na a obediência da verdade para amor–fraternal sem–hipocrisia, de [puro] coração, uns–aos–outros amai fervorosamente.
+-- c1-v23: tendo–sido–regenerados, não de semente corruptível, mas incorruptível, mediante palavra viva de–Deus, e permanente.
+-- c1-v24: Porque toda carne é–como erva, e toda glória dela como flor da–erva. Secou a erva, e a flor caiu,
+-- c1-v25: a porém palavra do–Senhor permanece para a eternidade. Esta porém é a palavra a evangelizada a vós.
+-- c2-v1: Despojando-vos pois de-toda malícia, e todo engano, e hipocrisias, e invejas, e todas maledicencias,
+-- c2-v2: como recém-nascidas crianças, o racional não-adulterado leite desejai, para-que nele – cresçais, para salvação,
+-- c2-v3: se provastes que bondoso é-o Senhor,
+-- c2-v4: a quem chegando-vos, pedra viva, pelos homens por-um-lado rejeitada, porém-diante de Deus, eleita preciosa,
+-- c2-v5: também vós-mesmos, como pedras vivas, sois-edificados, casa espiritual, para sacerdócio santo, para-oferecer espirituais sacrifícios agradáveis [a] Deus por-meio-de Jesus Cristo.
+-- c2-v6: Porque contém na Escritura: Eis, ponho em Sião pedra, eleita, angular, preciosa; e o-que crê nela – de-modo-algum – será-envergonhado.
+-- c2-v7: A-vós pois a honra, aos-que creem; aos-que-não-creem porém, pedra que rejeitaram os edificadores, esta tornou-se em cabeça de-esquina;
+-- c2-v8: e, pedra de-tropeço e rocha de-escândalo; os-quais tropeçam na palavra, sendo-desobedientes, para o-qual também foram-postos.
+-- c2-v9: Vós porém geração eleita, real sacerdócio, nação santa, povo de propriedade, para-que as virtudes anuncieis, daquele-que das trevas vos chamou, para a maravilhosa sua luz;
+-- c2-v10: os-que outrora não povo, agora porém povo de-Deus; os-que não tendo-alcançado-misericórdia, agora porém tendo-alcançado-misericórdia.
+-- c2-v11: Amados, exorto-vos como forasteiros e peregrinos, a-abster-vos das carnais concupiscências, as-quais guerreiam contra a alma;
+-- c2-v12: a conduta vossa entre os gentios tendo, boa para-que naquilo-em que falam-mal de-vós como de-malfeitores, das – boas obras observando, glorifiquem a Deus no dia da-visitação.
+-- c2-v13: Sujeitai-vos a-toda humana instituição por-causa-do – Senhor; seja ao-rei, como soberano;
+-- c2-v14: seja aos-governadores, como por-meio-dele – enviados, para castigo dos-malfeitores, louvor porém dos-que-fazem-o-bem;
+-- c2-v15: porque assim é a vontade de Deus: fazendo-o-bem, silenciar a dos insensatos homens ignorância.
+-- c2-v16: Como livres, e não como cobertura tendo da malícia, a liberdade, mas como de-Deus servos.
+-- c2-v17: A-todos honrai. A irmandade amai. A Deus temei. Ao rei honrai.
+-- c2-v18: Os servos, sujeitando-se com todo temor aos senhores, não somente aos bons e moderados, mas também aos perversos.
+-- c2-v19: Isto pois é-graça, se por-causa-de consciência, de-Deus, suporta alguém tristezas, sofrendo injustamente.
+-- c2-v20: Pois-qual – glória, se pecando e sendo-esbofeteados suportais? Mas se fazendo-o-bem e sofrendo suportais, isto é-graça diante-de Deus.
+-- c2-v21: Para isto pois fostes-chamados, porque também Cristo sofreu por vós, a-vós deixando exemplo para-que sigais as pegadas dele;
+-- c2-v22: o-qual pecado não cometeu, nem foi-achado engano na a boca dele;
+-- c2-v23: o-qual, sendo-injuriado, não injuriava-de-volta; sofrendo não ameaçava; mas-entregava – ao-que julga justamente;
+-- c2-v24: o-qual os pecados nossos ele-mesmo levou no o corpo seu sobre o madeiro, para-que, aos pecados tendo-morrido, para-a justiça vivamos; por-cujas – feridas fostes-sarados.
+-- c2-v25: Éreis pois como ovelhas desgarradas, mas voltastes agora ao – Pastor e Bispo das almas vossas.
+-- c3-v1: Semelhantemente [as] mulheres, sujeitando-se aos próprios maridos, para-que, mesmo se alguns são-desobedientes à palavra, mediante a das mulheres conduta, sem palavra, sejam-ganhos;
+-- c3-v2: observando a em temor casta conduta vossa;
+-- c3-v3: cujo seja não o exterior de-trançar de-cabelos, e de-usar de-ouro, ou de-vestir de-vestes adorno;
+-- c3-v4: mas o oculto do coração homem, no o incorruptível de–um manso e tranquilo espírito, o-qual é diante-de – Deus precioso.
+-- c3-v5: Pois-assim –, outrora também as santas mulheres as que-esperavam em Deus adornavam-se a-si-mesmas, sujeitando-se aos próprios maridos;
+-- c3-v6: como Sara obedeceu a Abraão, senhor a-ele chamando; da-qual vos-tornastes filhas, fazendo-o-bem e não temendo nenhuma intimidação.
+-- c3-v7: Os maridos semelhantemente, coabitando segundo conhecimento, como com–mais–fraco vaso o feminino, dando-lhes honra, como também co-herdeiras da-graça da-vida, para – não serem-impedidas as orações vossas.
+-- c3-v8: O porém fim, todos unânimes, compassivos, amando-os-irmãos, misericordiosos, humildes;
+-- c3-v9: não retribuindo mal por mal, ou injúria por injúria; pelo-contrário porém, abençoando; porque para isto fostes-chamados, para-que bênção herdeis.
+-- c3-v10: Pois-o-que – quer vida amar, e ver dias bons, faça-cessar a língua do mal, e os-lábios de-não – falar engano.
+-- c3-v11: Desvie-se porém do mal, e faça o-bem. Busque paz e siga-a –.
+-- c3-v12: Porque os-olhos do-Senhor estão-sobre justos, e os-ouvidos dele para súplica deles. Mas-o-rosto – do-Senhor é-contra os-que-fazem males.
+-- c3-v13: E quem é-o-que vos-fará-mal, – se do bem, zelosos vos-tornardes?
+-- c3-v14: Mas mesmo-se – sofreis por-causa-de justiça, bem-aventurados; o porém temor deles não temais, nem vos-perturbeis;
+-- c3-v15: Senhor porém o Cristo santificai nos os corações vossos; prontos sempre para defesa a-todo o-que vos-pede – razão, acerca-de a em vós esperança; mas com mansidão e temor,
+-- c3-v16: consciência tendo boa, para-que naquilo-em que sois-caluniados, sejam-envergonhados os-que insultam de-vós a boa em Cristo conduta.
+-- c3-v17: Pois-melhor –, fazendo-o-bem se quer a vontade de Deus, sofrer, do-que fazendo-o-mal;
+-- c3-v18: porque também Cristo uma-vez por pecados sofreu, justo por injustos, para-que vos conduzisse a Deus; morto por-um-lado na-carne, vivificado porém no-espírito;
+-- c3-v19: no qual também aos em prisão espíritos, tendo-ido, pregou;
+-- c3-v20: aos-que-foram-desobedientes outrora, quando esperava a de Deus longanimidade, nos dias de-Noé; sendo-preparada arca, na qual poucos, isto-é, – oito almas, foram-salvas através-de água;
+-- c3-v21: o-qual também a-vós como-figura agora salva batismo, não de-carne remoção de-imundice, mas de-consciência boa, resposta para Deus, mediante ressurreição de-Jesus Cristo;
+-- c3-v22: o-qual está à direita [de] Deus, tendo-ido para o-céu, sujeitos a-ele anjos, e autoridades, e poderes.
+-- c4-v1: Cristo pois tendo-sofrido na-carne, também vós a mesma disposição armai-vos; porque o-que sofreu na-carne cessou do-pecado;
+-- c4-v2: para o não-mais dos-homens nas-concupiscências, mas na-vontade de-Deus, o restante na carne viver tempo.
+-- c4-v3: Pois-é-suficiente – o passado tempo para-ter a-vontade dos gentios realizado, tendo-andado em lascívias, concupiscências, bebedeiras, orgias, banquetes, e ilícitas idolatrias.
+-- c4-v4: No-qual – estranham, não concorrendo vós, para a mesma de dissolução inundação, blasfemando,
+-- c4-v5: os-quais darão conta ao-que prontamente está para-julgar vivos, e mortos.
+-- c4-v6: Para isto pois, também a-mortos foi-pregado-o-evangelho, para-que sejam-julgados por-um-lado segundo homens na-carne; vivam porém segundo Deus no-espírito.
+-- c4-v7: De-todas-as-coisas porém o fim se-aproximou. Sede-sóbrios pois, e vigiai para orações;
+-- c4-v8: antes-de-tudo, – o para vós-mesmos amor intenso tendo, porque o-amor cobre multidão de-pecados;
+-- c4-v9: hospitaleiros uns-para-os-outros, – sem murmúrio;
+-- c4-v10: cada-um conforme recebeu dom, uns-aos-outros vós-mesmos o ministrando, como bons administradores da-multiforme graça de-Deus.
+-- c4-v11: Se alguém fala, como oráculos de-Deus; se alguém serve, como de força que supre – Deus, para-que em tudo seja-glorificado – Deus por-meio-de Jesus Cristo, a-quem é a glória, e o domínio, pelos – séculos dos séculos. Amém.
+-- c4-v12: Amados, não estranheis a em vós provação-de-fogo para provação a-vós acontecendo, como coisa-estranha a-vós acontecendo;
+-- c4-v13: mas na-medida-em-que participais dos – de-Cristo sofrimentos, alegrai-vos, para-que também na a revelação da glória dele, vos-alegreis exultando.
+-- c4-v14: Se sois-injuriados no nome de-Cristo, bem-aventurados; porque o da glória, e o de Deus, Espírito sobre vós repousa; <segundo por-um-lado eles é-blasfemado, segundo porém vós é-glorificado>.
+-- c4-v15: Não pois alguém de-vós sofra como homicida, ou ladrão, ou malfeitor, ou como intrometido;
+-- c4-v16: se porém como cristão, não se-envergonhe; glorifique porém a Deus neste – nome –.
+-- c4-v17: Porque é-o tempo de começar o julgamento pela a casa de Deus; se porém primeiro por nós, qual o fim dos-que são-desobedientes ao de Deus evangelho?
+-- c4-v18: E se o justo dificilmente é-salvo, o (porém) ímpio e pecador onde aparecerá?
+-- c4-v19: De-modo-que também, os-que sofrem segundo a vontade de Deus, ao-fiel Criador entreguem as almas deles em fazer-o-bem.
 
 BEGIN;
 -- 6000100101: Πέτρος, (G4074) → "Pedro," [opus-4.5-chirho]

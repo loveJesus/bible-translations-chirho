@@ -3,412 +3,412 @@
 -- — John 3:16
 
 -- REVELATION - POR Combined
--- Generated: 2026-01-27T21:48:03Z
+-- Generated: 2026-01-27T22:22:17Z
 
--- REVELATION c1-v1 - POR
--- REVELATION c1-v2 - POR
--- REVELATION c1-v3 - POR
--- REVELATION c1-v4 - POR
--- REVELATION c1-v5 - POR
--- REVELATION c1-v6 - POR
--- REVELATION c1-v7 - POR
--- REVELATION c1-v8 - POR
--- REVELATION c1-v9 - POR
--- REVELATION c1-v10 - POR
--- REVELATION c1-v11 - POR
--- REVELATION c1-v12 - POR
--- REVELATION c1-v13 - POR
--- REVELATION c1-v14 - POR
--- REVELATION c1-v15 - POR
--- REVELATION c1-v16 - POR
--- REVELATION c1-v17 - POR
--- REVELATION c1-v18 - POR
--- REVELATION c1-v19 - POR
--- REVELATION c1-v20 - POR
--- REVELATION c2-v1 - POR
--- REVELATION c2-v2 - POR
--- REVELATION c2-v3 - POR
--- REVELATION c2-v4 - POR
--- REVELATION c2-v5 - POR
--- REVELATION c2-v6 - POR
--- REVELATION c2-v7 - POR
--- REVELATION c2-v8 - POR
--- REVELATION c2-v9 - POR
--- REVELATION c2-v10 - POR
--- REVELATION c2-v11 - POR
--- REVELATION c2-v12 - POR
--- REVELATION c2-v13 - POR
--- REVELATION c2-v14 - POR
--- REVELATION c2-v15 - POR
--- REVELATION c2-v16 - POR
--- REVELATION c2-v17 - POR
--- REVELATION c2-v18 - POR
--- REVELATION c2-v19 - POR
--- REVELATION c2-v20 - POR
--- REVELATION c2-v21 - POR
--- REVELATION c2-v22 - POR
--- REVELATION c2-v23 - POR
--- REVELATION c2-v24 - POR
--- REVELATION c2-v25 - POR
--- REVELATION c2-v26 - POR
--- REVELATION c2-v27 - POR
--- REVELATION c2-v28 - POR
--- REVELATION c2-v29 - POR
--- REVELATION c3-v1 - POR
--- REVELATION c3-v2 - POR
--- REVELATION c3-v3 - POR
--- REVELATION c3-v4 - POR
--- REVELATION c3-v5 - POR
--- REVELATION c3-v6 - POR
--- REVELATION c3-v7 - POR
--- REVELATION c3-v8 - POR
--- REVELATION c3-v9 - POR
--- REVELATION c3-v10 - POR
--- REVELATION c3-v11 - POR
--- REVELATION c3-v12 - POR
--- REVELATION c3-v13 - POR
--- REVELATION c3-v14 - POR
--- REVELATION c3-v15 - POR
--- REVELATION c3-v16 - POR
--- REVELATION c3-v17 - POR
--- REVELATION c3-v18 - POR
--- REVELATION c3-v19 - POR
--- REVELATION c3-v20 - POR
--- REVELATION c3-v21 - POR
--- REVELATION c3-v22 - POR
--- REVELATION c4-v1 - POR
--- REVELATION c4-v2 - POR
--- REVELATION c4-v3 - POR
--- REVELATION c4-v4 - POR
--- REVELATION c4-v5 - POR
--- REVELATION c4-v6 - POR
--- REVELATION c4-v7 - POR
--- REVELATION c4-v8 - POR
--- REVELATION c4-v9 - POR
--- REVELATION c4-v10 - POR
--- REVELATION c4-v11 - POR
--- REVELATION c5-v1 - POR
--- REVELATION c5-v2 - POR
--- REVELATION c5-v3 - POR
--- REVELATION c5-v4 - POR
--- REVELATION c5-v5 - POR
--- REVELATION c5-v6 - POR
--- REVELATION c5-v7 - POR
--- REVELATION c5-v8 - POR
--- REVELATION c5-v9 - POR
--- REVELATION c5-v10 - POR
--- REVELATION c5-v11 - POR
--- REVELATION c5-v12 - POR
--- REVELATION c5-v13 - POR
--- REVELATION c5-v14 - POR
--- REVELATION c6-v1 - POR
--- REVELATION c6-v2 - POR
--- REVELATION c6-v3 - POR
--- REVELATION c6-v4 - POR
--- REVELATION c6-v5 - POR
--- REVELATION c6-v6 - POR
--- REVELATION c6-v7 - POR
--- REVELATION c6-v8 - POR
--- REVELATION c6-v9 - POR
--- REVELATION c6-v10 - POR
--- REVELATION c6-v11 - POR
--- REVELATION c6-v12 - POR
--- REVELATION c6-v13 - POR
--- REVELATION c6-v14 - POR
--- REVELATION c6-v15 - POR
--- REVELATION c6-v16 - POR
--- REVELATION c6-v17 - POR
--- REVELATION c7-v1 - POR
--- REVELATION c7-v2 - POR
--- REVELATION c7-v3 - POR
--- REVELATION c7-v4 - POR
--- REVELATION c7-v5 - POR
--- REVELATION c7-v6 - POR
--- REVELATION c7-v7 - POR
--- REVELATION c7-v8 - POR
--- REVELATION c7-v9 - POR
--- REVELATION c7-v10 - POR
--- REVELATION c7-v11 - POR
--- REVELATION c7-v12 - POR
--- REVELATION c7-v13 - POR
--- REVELATION c7-v14 - POR
--- REVELATION c7-v15 - POR
--- REVELATION c7-v16 - POR
--- REVELATION c7-v17 - POR
--- REVELATION c8-v1 - POR
--- REVELATION c8-v2 - POR
--- REVELATION c8-v3 - POR
--- REVELATION c8-v4 - POR
--- REVELATION c8-v5 - POR
--- REVELATION c8-v6 - POR
--- REVELATION c8-v7 - POR
--- REVELATION c8-v8 - POR
--- REVELATION c8-v9 - POR
--- REVELATION c8-v10 - POR
--- REVELATION c8-v11 - POR
--- REVELATION c8-v12 - POR
--- REVELATION c8-v13 - POR
--- REVELATION c9-v1 - POR
--- REVELATION c9-v2 - POR
--- REVELATION c9-v3 - POR
--- REVELATION c9-v4 - POR
--- REVELATION c9-v5 - POR
--- REVELATION c9-v6 - POR
--- REVELATION c9-v7 - POR
--- REVELATION c9-v8 - POR
--- REVELATION c9-v9 - POR
--- REVELATION c9-v10 - POR
--- REVELATION c9-v11 - POR
--- REVELATION c9-v12 - POR
--- REVELATION c9-v13 - POR
--- REVELATION c9-v14 - POR
--- REVELATION c9-v15 - POR
--- REVELATION c9-v16 - POR
--- REVELATION c9-v17 - POR
--- REVELATION c9-v18 - POR
--- REVELATION c9-v19 - POR
--- REVELATION c9-v20 - POR
--- REVELATION c9-v21 - POR
--- REVELATION c10-v1 - POR
--- REVELATION c10-v2 - POR
--- REVELATION c10-v3 - POR
--- REVELATION c10-v4 - POR
--- REVELATION c10-v5 - POR
--- REVELATION c10-v6 - POR
--- REVELATION c10-v7 - POR
--- REVELATION c10-v8 - POR
--- REVELATION c10-v9 - POR
--- REVELATION c10-v10 - POR
--- REVELATION c10-v11 - POR
--- REVELATION c11-v1 - POR
--- REVELATION c11-v2 - POR
--- REVELATION c11-v3 - POR
--- REVELATION c11-v4 - POR
--- REVELATION c11-v5 - POR
--- REVELATION c11-v6 - POR
--- REVELATION c11-v7 - POR
--- REVELATION c11-v8 - POR
--- REVELATION c11-v9 - POR
--- REVELATION c11-v10 - POR
--- REVELATION c11-v11 - POR
--- REVELATION c11-v12 - POR
--- REVELATION c11-v13 - POR
--- REVELATION c11-v14 - POR
--- REVELATION c11-v15 - POR
--- REVELATION c11-v16 - POR
--- REVELATION c11-v17 - POR
--- REVELATION c11-v18 - POR
--- REVELATION c11-v19 - POR
--- REVELATION c12-v1 - POR
--- REVELATION c12-v2 - POR
--- REVELATION c12-v3 - POR
--- REVELATION c12-v4 - POR
--- REVELATION c12-v5 - POR
--- REVELATION c12-v6 - POR
--- REVELATION c12-v7 - POR
--- REVELATION c12-v8 - POR
--- REVELATION c12-v9 - POR
--- REVELATION c12-v10 - POR
--- REVELATION c12-v11 - POR
--- REVELATION c12-v12 - POR
--- REVELATION c12-v13 - POR
--- REVELATION c12-v14 - POR
--- REVELATION c12-v15 - POR
--- REVELATION c12-v16 - POR
--- REVELATION c12-v17 - POR
--- REVELATION c13-v1 - POR
--- REVELATION c13-v2 - POR
--- REVELATION c13-v3 - POR
--- REVELATION c13-v4 - POR
--- REVELATION c13-v5 - POR
--- REVELATION c13-v6 - POR
--- REVELATION c13-v7 - POR
--- REVELATION c13-v8 - POR
--- REVELATION c13-v9 - POR
--- REVELATION c13-v10 - POR
--- REVELATION c13-v11 - POR
--- REVELATION c13-v12 - POR
--- REVELATION c13-v13 - POR
--- REVELATION c13-v14 - POR
--- REVELATION c13-v15 - POR
--- REVELATION c13-v16 - POR
--- REVELATION c13-v17 - POR
--- REVELATION c13-v18 - POR
--- REVELATION c14-v1 - POR
--- REVELATION c14-v2 - POR
--- REVELATION c14-v3 - POR
--- REVELATION c14-v4 - POR
--- REVELATION c14-v5 - POR
--- REVELATION c14-v6 - POR
--- REVELATION c14-v7 - POR
--- REVELATION c14-v8 - POR
--- REVELATION c14-v9 - POR
--- REVELATION c14-v10 - POR
--- REVELATION c14-v11 - POR
--- REVELATION c14-v12 - POR
--- REVELATION c14-v13 - POR
--- REVELATION c14-v14 - POR
--- REVELATION c14-v15 - POR
--- REVELATION c14-v16 - POR
--- REVELATION c14-v17 - POR
--- REVELATION c14-v18 - POR
--- REVELATION c14-v19 - POR
--- REVELATION c14-v20 - POR
--- REVELATION c15-v1 - POR
--- REVELATION c15-v2 - POR
--- REVELATION c15-v3 - POR
--- REVELATION c15-v4 - POR
--- REVELATION c15-v5 - POR
--- REVELATION c15-v6 - POR
--- REVELATION c15-v7 - POR
--- REVELATION c15-v8 - POR
--- REVELATION c16-v1 - POR
--- REVELATION c16-v2 - POR
--- REVELATION c16-v3 - POR
--- REVELATION c16-v4 - POR
--- REVELATION c16-v5 - POR
--- REVELATION c16-v6 - POR
--- REVELATION c16-v7 - POR
--- REVELATION c16-v8 - POR
--- REVELATION c16-v9 - POR
--- REVELATION c16-v10 - POR
--- REVELATION c16-v11 - POR
--- REVELATION c16-v12 - POR
--- REVELATION c16-v13 - POR
--- REVELATION c16-v14 - POR
--- REVELATION c16-v15 - POR
--- REVELATION c16-v16 - POR
--- REVELATION c16-v17 - POR
--- REVELATION c16-v18 - POR
--- REVELATION c16-v19 - POR
--- REVELATION c16-v20 - POR
--- REVELATION c16-v21 - POR
--- REVELATION c17-v1 - POR
--- REVELATION c17-v2 - POR
--- REVELATION c17-v3 - POR
--- REVELATION c17-v4 - POR
--- REVELATION c17-v5 - POR
--- REVELATION c17-v6 - POR
--- REVELATION c17-v7 - POR
--- REVELATION c17-v8 - POR
--- REVELATION c17-v9 - POR
--- REVELATION c17-v10 - POR
--- REVELATION c17-v11 - POR
--- REVELATION c17-v12 - POR
--- REVELATION c17-v13 - POR
--- REVELATION c17-v14 - POR
--- REVELATION c17-v15 - POR
--- REVELATION c17-v16 - POR
--- REVELATION c17-v17 - POR
--- REVELATION c17-v18 - POR
--- REVELATION c18-v1 - POR
--- REVELATION c18-v2 - POR
--- REVELATION c18-v3 - POR
--- REVELATION c18-v4 - POR
--- REVELATION c18-v5 - POR
--- REVELATION c18-v6 - POR
--- REVELATION c18-v7 - POR
--- REVELATION c18-v8 - POR
--- REVELATION c18-v9 - POR
--- REVELATION c18-v10 - POR
--- REVELATION c18-v11 - POR
--- REVELATION c18-v12 - POR
--- REVELATION c18-v13 - POR
--- REVELATION c18-v14 - POR
--- REVELATION c18-v15 - POR
--- REVELATION c18-v16 - POR
--- REVELATION c18-v17 - POR
--- REVELATION c18-v18 - POR
--- REVELATION c18-v19 - POR
--- REVELATION c18-v20 - POR
--- REVELATION c18-v21 - POR
--- REVELATION c18-v22 - POR
--- REVELATION c18-v23 - POR
--- REVELATION c18-v24 - POR
--- REVELATION c19-v1 - POR
--- REVELATION c19-v2 - POR
--- REVELATION c19-v3 - POR
--- REVELATION c19-v4 - POR
--- REVELATION c19-v5 - POR
--- REVELATION c19-v6 - POR
--- REVELATION c19-v7 - POR
--- REVELATION c19-v8 - POR
--- REVELATION c19-v9 - POR
--- REVELATION c19-v10 - POR
--- REVELATION c19-v11 - POR
--- REVELATION c19-v12 - POR
--- REVELATION c19-v13 - POR
--- REVELATION c19-v14 - POR
--- REVELATION c19-v15 - POR
--- REVELATION c19-v16 - POR
--- REVELATION c19-v17 - POR
--- REVELATION c19-v18 - POR
--- REVELATION c19-v19 - POR
--- REVELATION c19-v20 - POR
--- REVELATION c19-v21 - POR
--- REVELATION c20-v1 - POR
--- REVELATION c20-v2 - POR
--- REVELATION c20-v3 - POR
--- REVELATION c20-v4 - POR
--- REVELATION c20-v5 - POR
--- REVELATION c20-v6 - POR
--- REVELATION c20-v7 - POR
--- REVELATION c20-v8 - POR
--- REVELATION c20-v9 - POR
--- REVELATION c20-v10 - POR
--- REVELATION c20-v11 - POR
--- REVELATION c20-v12 - POR
--- REVELATION c20-v13 - POR
--- REVELATION c20-v14 - POR
--- REVELATION c20-v15 - POR
--- REVELATION c21-v1 - POR
--- REVELATION c21-v2 - POR
--- REVELATION c21-v3 - POR
--- REVELATION c21-v4 - POR
--- REVELATION c21-v5 - POR
--- REVELATION c21-v6 - POR
--- REVELATION c21-v7 - POR
--- REVELATION c21-v8 - POR
--- REVELATION c21-v9 - POR
--- REVELATION c21-v10 - POR
--- REVELATION c21-v11 - POR
--- REVELATION c21-v12 - POR
--- REVELATION c21-v13 - POR
--- REVELATION c21-v14 - POR
--- REVELATION c21-v15 - POR
--- REVELATION c21-v16 - POR
--- REVELATION c21-v17 - POR
--- REVELATION c21-v18 - POR
--- REVELATION c21-v19 - POR
--- REVELATION c21-v20 - POR
--- REVELATION c21-v21 - POR
--- REVELATION c21-v22 - POR
--- REVELATION c21-v23 - POR
--- REVELATION c21-v24 - POR
--- REVELATION c21-v25 - POR
--- REVELATION c21-v26 - POR
--- REVELATION c21-v27 - POR
--- REVELATION c22-v1 - POR
--- REVELATION c22-v2 - POR
--- REVELATION c22-v3 - POR
--- REVELATION c22-v4 - POR
--- REVELATION c22-v5 - POR
--- REVELATION c22-v6 - POR
--- REVELATION c22-v7 - POR
--- REVELATION c22-v8 - POR
--- REVELATION c22-v9 - POR
--- REVELATION c22-v10 - POR
--- REVELATION c22-v11 - POR
--- REVELATION c22-v12 - POR
--- REVELATION c22-v13 - POR
--- REVELATION c22-v14 - POR
--- REVELATION c22-v15 - POR
--- REVELATION c22-v16 - POR
--- REVELATION c22-v17 - POR
--- REVELATION c22-v18 - POR
--- REVELATION c22-v19 - POR
--- REVELATION c22-v20 - POR
--- REVELATION c22-v21 - POR
+-- c1-v1: Revelação de–Jesus Cristo que deu a–ele o Deus mostrar aos servos dele as–coisas–que é–necessário acontecer em breve e comunicou enviando por–meio–de o anjo dele ao servo dele João
+-- c1-v2: o–qual testemunhou a palavra de Deus e o testemunho de–Jesus Cristo tudo–o–que viu
+-- c1-v3: Bem-aventurado o que–lê e os que–ouvem as palavras da profecia e que–guardam as–coisas em ela escritas o pois tempo está–perto
+-- c1-v4: João às sete igrejas as em a Ásia graça a–vós e paz da–parte–de o que–é e o que–era e o que–vem e da–parte–de os sete Espíritos os–quais diante–de o trono dele
+-- c1-v5: e da–parte–de Jesus Cristo a testemunha a fiel o primogênito dos mortos e o governante dos reis da terra Ao que–ama nos e que–libertou nos de os pecados nossos em o sangue dele
+-- c1-v6: e fez nos reino sacerdotes para–o Deus e Pai dele a–ele a glória e o poder para os séculos dos séculos amém
+-- c1-v7: Eis–que vem com as nuvens e verá ele todo olho e aqueles–que ele traspassaram e lamentarão sobre ele todas as tribos da terra sim amém
+-- c1-v8: Eu sou o Alfa e o Ômega princípio e fim diz o–Senhor o Deus o que–é e o que–era e o que–vem o Todo-Poderoso
+-- c1-v9: Eu João o irmão vosso e coparticipante na a tribulação e reino e perseverança em Jesus estive na a ilha a chamada Patmos por–causa–de a palavra de Deus e o testemunho de–Jesus
+-- c1-v10: estive em Espírito no o do–Senhor dia e ouvi atrás–de mim voz grande como de–trombeta
+-- c1-v11: dizendo Eu sou o Alfa e o Ômega o primeiro e o último e O–que vês escreve em livro e envia às sete igrejas a Éfeso e a Esmirna e a Pérgamo e a Tiatira e a Sardes e a Filadélfia e a Laodiceia
+-- c1-v12: E virei-me para–ver a voz que falava comigo eu e tendo–virado vi sete candeeiros de–ouro
+-- c1-v13: e no meio dos candeeiros semelhante filho de–homem vestido veste–longa e cingido junto–a os peitos cinto de–ouro
+-- c1-v14: a e cabeça dele e os cabelos brancos como lã branca como neve e os olhos dele como chama de–fogo
+-- c1-v15: e os pés dele semelhantes bronze–polido como em fornalha refinado e a voz dele como som de–águas muitas
+-- c1-v16: e tendo na a direita mão dele estrelas sete e de a boca dele espada de–dois–gumes afiada saindo e a face dele como o sol brilha em a força dele
+-- c1-v17: E quando vi ele caí aos os pés dele como morto e colocou a direita dele sobre mim dizendo Não temas eu sou o primeiro e o último
+-- c1-v18: e o Vivente e estive morto e eis–que vivente sou para os séculos dos séculos e tenho as chaves da morte e do Hades
+-- c1-v19: Escreve portanto as–coisas–que viste e as–coisas–que são e as–coisas–que estão–para acontecer depois–de estas
+-- c1-v20: o mistério das sete estrelas as–quais viste sobre a direita minha e os sete candeeiros os de–ouro as sete estrelas anjos das sete igrejas são e os candeeiros os sete sete igrejas são
+-- c2-v1: Ao anjo da em Éfeso igreja escreve Estas–coisas diz o que–segura as sete estrelas na a direita dele o que–anda no meio dos sete candeeiros os de–ouro
+-- c2-v2: Conheço as obras tuas e o trabalho e a perseverança tua e que não podes suportar maus e provaste os que–dizem a–si–mesmos apóstolos e não são e achaste eles mentirosos
+-- c2-v3: e perseverança tens e suportaste por–causa–de o nome meu e não te–cansaste
+-- c2-v4: Mas tenho contra ti que o amor teu o primeiro abandonaste
+-- c2-v5: Lembra portanto de–onde caíste e arrepende-te e as primeiras obras faze Se porém não venho a–ti e moverei o candeeiro teu de o lugar dele se não te–arrependeres
+-- c2-v6: Mas isto tens que odeias as obras dos nicolaitas as–quais eu–também odeio
+-- c2-v7: O que–tem ouvido ouça o–que o Espírito diz às igrejas Ao que–vence darei a–ele comer da a árvore da vida que está no o Paraíso de Deus
+-- c2-v8: E ao anjo da em Esmirna igreja escreve Estas–coisas diz o primeiro e o último o–qual tornou-se morto e viveu
+-- c2-v9: Conheço tua a tribulação e a pobreza mas rico és e a blasfêmia dos os que–dizem judeus ser a–si–mesmos e não são mas sinagoga de Satanás
+-- c2-v10: Nada temas das–coisas–que estás–para sofrer eis–que está–para lançar o diabo de–entre vós em prisão para–que sejais–provados e tereis tribulação de–dias dez Sê fiel até morte e darei a–ti a coroa da vida
+-- c2-v11: O que–tem ouvido ouça o–que o Espírito diz às igrejas O que–vence não de–modo–algum será–ferido pela a morte a segunda
+-- c2-v12: E ao anjo da em Pérgamo igreja escreve Estas–coisas diz o que–tem a espada a de–dois–gumes a afiada
+-- c2-v13: Conheço onde habitas onde o trono de Satanás e reténs o nome meu e não negaste a fé minha e nos os dias Antipas a testemunha minha o fiel meu o–qual foi–morto entre vós onde o Satanás habita
+-- c2-v14: Mas tenho contra ti poucas–coisas que tens aí os–que–retêm a doutrina de–Balaão o–qual ensinava a Balaque lançar tropeço diante–de os filhos de–Israel comer coisas–sacrificadas–a–ídolos e fornicar
+-- c2-v15: Assim tens também tu os–que–retêm a doutrina dos nicolaitas igualmente
+-- c2-v16: Arrepende-te portanto Se porém não venho a–ti depressa e guerrearei com eles com a espada da boca minha
+-- c2-v17: O que–tem ouvido ouça o–que o Espírito diz às igrejas Ao que–vence darei a–ele do maná o escondido e darei a–ele pedra branca e sobre a pedra nome novo escrito que ninguém conhece se não o que–recebe
+-- c2-v18: E ao anjo da em Tiatira igreja escreve Estas–coisas diz o Filho de Deus o que–tem os olhos dele como chama de–fogo e os pés dele semelhantes bronze–polido
+-- c2-v19: Conheço tuas as obras e o amor e a fé e o serviço e a perseverança tua e as obras tuas as últimas mais do–que–as primeiras
+-- c2-v20: Mas tenho contra ti que toleras a mulher Jezabel a–qual diz–ser a–si–mesma profetisa e ensina e seduz os meus servos a–fornicar e a–comer coisas–sacrificadas–a–ídolos
+-- c2-v21: e dei a–ela tempo para–que se–arrependesse e não quer arrepender-se da a fornicação dela
+-- c2-v22: Eis–que lanço ela em cama e os que–adulteram com ela em tribulação grande se não se–arrependerem das as obras dela
+-- c2-v23: e os filhos dela matarei com morte e conhecerão todas as igrejas que eu sou o que–sonda rins e corações e darei a–vós a–cada–um segundo as obras vossas
+-- c2-v24: A–vós porém digo aos restantes os em Tiatira todos–os–que não têm a doutrina esta os–quais não conheceram as profundezas de Satanás como dizem não lanço sobre vós outro peso
+-- c2-v25: Contudo o–que tendes retende até que se eu–venha
+-- c2-v26: E o que–vence e o que–guarda até fim as obras minhas darei a–ele autoridade sobre as nações
+-- c2-v27: e apascentará eles com vara de–ferro como os vasos os de–barro serão–quebrados como eu–também recebi de o Pai meu
+-- c2-v28: e darei a–ele a estrela a da–manhã
+-- c2-v29: O que–tem ouvido ouça o–que o Espírito diz às igrejas
+-- c3-v1: E ao anjo da em Sardes igreja escreve Estas–coisas diz o que–tem os sete Espíritos de Deus e as sete estrelas Conheço tuas as obras que nome tens que vives e morto és
+-- c3-v2: Sê vigilante e fortalece as restantes–coisas as–quais estavam–para morrer não pois encontrei tuas as obras completas diante–de o Deus meu
+-- c3-v3: Lembra portanto como recebeste e ouviste e guarda e arrepende-te Se portanto não vigiares virei como ladrão e não de–modo–algum saberás qual hora virei sobre ti
+-- c3-v4: Mas tens poucos nomes em Sardes os–quais não mancharam as vestes deles e andarão comigo eu em brancas porque dignos são
+-- c3-v5: O que–vence assim será–vestido em vestes brancas e não de–modo–algum apagarei o nome dele do o livro da vida e confessarei o nome dele diante–de o Pai meu e diante–de os anjos dele
+-- c3-v6: O que–tem ouvido ouça o–que o Espírito diz às igrejas
+-- c3-v7: E ao anjo da em Filadélfia igreja escreve Estas–coisas diz o santo o verdadeiro o que–tem a chave de–Davi o que–abre e ninguém fechará e que–fecha e ninguém abre
+-- c3-v8: Conheço tuas as obras eis–que dei diante–de ti porta aberta a–qual ninguém pode fechar ela porque pequena tens força e guardaste minha a palavra e não negaste o nome meu
+-- c3-v9: eis–que dou de a sinagoga de Satanás dos que–dizem a–si–mesmos judeus ser e não são mas mentem eis–que farei eles para–que venham e adorem diante–de os pés teus e conheçam que eu amei te
+-- c3-v10: Porque guardaste a palavra da perseverança minha eu–também te guardarei da a hora da provação a que–está–para vir sobre o mundo inteiro para–provar os que–habitam sobre a terra
+-- c3-v11: Venho depressa Retém o–que tens para–que ninguém tome a coroa tua
+-- c3-v12: O que–vence farei ele coluna no o templo de Deus meu e para–fora não de–modo–algum sairá mais e escreverei sobre ele o nome de Deus meu e o nome da cidade de Deus meu a nova Jerusalém a que–desce do o céu da–parte–de o Deus meu e o nome meu o novo
+-- c3-v13: O que–tem ouvido ouça o–que o Espírito diz às igrejas
+-- c3-v14: E ao anjo da em Laodiceia igreja escreve Estas–coisas diz o Amém a testemunha a fiel e o verdadeiro o princípio da criação de Deus
+-- c3-v15: Conheço tuas as obras que nem frio és nem quente Oxalá frio fosses ou quente
+-- c3-v16: Assim porque morno és e nem quente nem frio estou–para te vomitar da a boca minha
+-- c3-v17: Porque dizes que Rico sou e enriqueci e de–nada necessidade tenho e não sabes que tu és o miserável e digno–de–pena e pobre e cego e nu
+-- c3-v18: Aconselho te comprar de mim ouro refinado do fogo para–que enriqueças e vestes brancas para–que te–vistas e não seja–manifesta a vergonha da nudez tua e colírio para–ungir os olhos teus para–que vejas
+-- c3-v19: Eu a–quantos se amo repreendo e disciplino Sê–zeloso portanto e arrepende-te
+-- c3-v20: Eis–que estou à a porta e bato Se alguém ouvir a voz minha e abrir a porta e entrarei para ele e cearei com ele e ele comigo eu
+-- c3-v21: O que–vence darei a–ele sentar comigo eu no o trono meu como eu–também venci e sentei com o Pai meu no o trono dele
+-- c3-v22: O que–tem ouvido ouça o–que o Espírito diz às igrejas
+-- c4-v1: Depois–de estas–coisas vi e eis porta aberta no – céu e a voz – primeira que ouvi como de–trombeta falando com migo dizendo Sobe aqui e mostrarei a–ti o–que é–necessário acontecer depois–de estas–coisas
+-- c4-v2: Imediatamente fiquei em Espírito e eis trono estava–posto no – céu e sobre o trono sentado
+-- c4-v3: e o sentado semelhante em–aparência a–pedra de–jaspe e sardônio e arco-íris ao–redor do trono semelhante em–aparência a–esmeralda
+-- c4-v4: E ao–redor do trono tronos vinte e–quatro e sobre os tronos vinte e–quatro anciãos sentados vestidos em vestes brancas e sobre as cabeças deles coroas de–ouro
+-- c4-v5: E do – trono procedem relâmpagos e vozes e trovões e sete tochas de–fogo ardendo diante do trono as–quais são os sete Espíritos – de–Deus
+-- c4-v6: E diante do trono como mar de–vidro semelhante a–cristal e no meio do trono e ao–redor do trono quatro seres–viventes cheios de–olhos pela–frente e por–trás
+-- c4-v7: E o ser–vivente – primeiro semelhante a–leão e o segundo ser–vivente semelhante a–bezerro e o terceiro ser–vivente tendo o rosto como de–homem e o quarto ser–vivente semelhante a–águia voando
+-- c4-v8: E os quatro seres–viventes um por um deles tendo cada–um asas seis ao–redor e por–dentro estão–cheios de–olhos e descanso não têm de–dia e de–noite dizendo Santo santo santo Senhor – Deus o Todo-Poderoso o–que era e o–que é e o–que vem
+-- c4-v9: E quando dão os seres–viventes glória e honra e ação–de–graças ao sentado sobre o trono ao que–vive pelos – séculos dos séculos
+-- c4-v10: prostrar-se-ão os vinte e–quatro anciãos diante do sentado sobre o trono e adorarão ao que–vive pelos – séculos dos séculos e lançarão as coroas deles diante do trono dizendo
+-- c4-v11: Digno és – Senhor e – Deus nosso de–receber a glória e a honra e o poder porque tu criaste – todas–as–coisas e por–causa–de a vontade tua existiam e foram–criadas
+-- c5-v1: E vi sobre a direita do sentado sobre o trono livro escrito por–dentro e por–trás selado com–selos sete
+-- c5-v2: E vi anjo forte proclamando em voz grande Quem é–digno de–abrir o livro e de–desatar os selos dele
+-- c5-v3: E ninguém podia no – céu nem sobre a terra nem debaixo da terra abrir o livro nem olhar para–ele
+-- c5-v4: E eu chorava muito porque ninguém digno foi–achado de–abrir o livro nem de–olhar para–ele
+-- c5-v5: E um dos – anciãos diz me Não chores eis venceu o Leão o da – tribo de–Judá a Raiz de–Davi para–abrir o livro e os sete selos dele
+-- c5-v6: E vi no meio do trono e dos quatro seres–viventes e no meio dos anciãos Cordeiro em–pé como imolado tendo chifres sete e olhos sete os–quais são os sete Espíritos – de–Deus enviados a toda a terra
+-- c5-v7: E veio e tomou da – direita do sentado sobre o trono
+-- c5-v8: E quando tomou o livro os quatro seres–viventes e os vinte e–quatro anciãos prostraram-se diante do Cordeiro tendo cada–um harpa e taças de–ouro cheias de–incensos as–quais são as orações dos santos
+-- c5-v9: E cantam cântico novo dizendo Digno és de–tomar o livro e de–abrir os selos dele porque foste–imolado e compraste para–o Deus com–o – sangue teu de toda tribo e língua e povo e nação
+-- c5-v10: e fizeste –os para–o Deus nosso reino e sacerdotes e reinarão sobre a terra
+-- c5-v11: E vi e ouvi voz de–anjos muitos ao–redor do trono e dos seres–viventes e dos anciãos e era o número deles miríades de–miríades e milhares de–milhares
+-- c5-v12: dizendo em–voz grande Digno é o Cordeiro o imolado de–receber o poder e riqueza e sabedoria e força e honra e glória e bênção
+-- c5-v13: E toda criatura que no – céu e sobre a terra e debaixo da terra e sobre o mar está e os neles – todos ouvi dizendo Ao sentado sobre o trono e ao Cordeiro a bênção e a honra e a glória e o domínio pelos – séculos dos séculos
+-- c5-v14: E os quatro seres–viventes diziam Amém e os anciãos prostraram-se e adoraram ao–que–vive pelos – séculos dos séculos
+-- c6-v1: E vi quando abriu o Cordeiro um dos – sete selos e ouvi um dos – quatro seres–viventes dizendo como voz de–trovão Vem
+-- c6-v2: E vi e eis cavalo branco e o sentado sobre ele tendo arco e foi–dada a–ele coroa e saiu vencendo e para vencer
+-- c6-v3: E quando abriu o selo – segundo ouvi o segundo ser–vivente dizendo Vem
+-- c6-v4: E saiu outro cavalo vermelho e ao sentado sobre ele foi–dado a–ele tirar a paz da – terra e para–que uns–aos–outros matem e foi–dada a–ele espada grande
+-- c6-v5: E quando abriu o selo – terceiro ouvi o terceiro ser–vivente dizendo Vem e vi e eis cavalo preto e o sentado sobre ele tendo balança na – mão dele
+-- c6-v6: E ouvi como voz no meio dos quatro seres–viventes dizendo Medida–de–trigo de–trigo por–um–denário e três medidas de–cevada por–um–denário e o azeite e o vinho não danifiques
+-- c6-v7: E quando abriu o selo – quarto ouvi voz do quarto ser–vivente dizendo Vem
+-- c6-v8: E vi e eis cavalo amarelo e o sentado em–cima dele nome a–ele A Morte e o Hades seguia com ele e foi–dada a–eles autoridade sobre a quarta–parte da terra para–matar com espada e com fome e com morte e pelas – feras da terra
+-- c6-v9: E quando abriu o quinto selo vi debaixo do altar as almas dos imolados por–causa–de a palavra – de–Deus e por–causa–de o testemunho que tinham
+-- c6-v10: e clamaram em–voz grande dizendo Até quando ó Soberano – santo e verdadeiro não julgas e vingas o sangue nosso dos – que–habitam sobre a terra
+-- c6-v11: E foi–dada a–eles a–cada–um veste branca e foi–dito a–eles que descansassem ainda tempo pouco até–que se–completem também os conservos deles e os irmãos deles os que–estão–para ser–mortos como também eles
+-- c6-v12: E vi quando abriu o selo – sexto e terremoto grande houve e o sol tornou-se negro como saco de–pelo e a lua toda tornou-se como sangue
+-- c6-v13: e as estrelas do céu caíram para a terra como figueira lança os figos–verdes dela por vento grande sendo–sacudida
+-- c6-v14: e o céu afastou-se como livro enrolado e todo monte e ilha dos – lugares deles foram–movidos
+-- c6-v15: E os reis da terra e os grandes e os comandantes e os ricos e os fortes e todo escravo e livre esconderam-se a–si–mesmos nas – cavernas e nas – rochas dos montes
+-- c6-v16: e dizem aos montes e às rochas Caí sobre nós e escondei-nos –nos da face do sentado sobre o trono e da – ira do Cordeiro
+-- c6-v17: porque chegou o dia – grande da ira deles e quem pode ficar–em–pé
+-- c7-v1: Depois–de isto vi quatro anjos em–pé sobre os quatro cantos da terra segurando os quatro ventos da terra para–que não soprasse vento sobre a terra nem sobre o mar nem sobre qualquer árvore
+-- c7-v2: E vi outro anjo subindo do oriente do–sol tendo selo de–Deus vivente e clamou com–voz grande aos quatro anjos aos–quais foi–dado a–eles danificar a terra e o mar
+-- c7-v3: dizendo Não danifiqueis a terra nem o mar nem as árvores até–que selemos os servos do Deus nosso sobre as frontes deles
+-- c7-v4: E ouvi o número dos selados cento–e quarenta–e quatro mil selados de toda tribo dos–filhos de–Israel
+-- c7-v5: da tribo de–Judá doze mil selados da tribo de–Rúben doze mil da tribo de–Gade doze mil
+-- c7-v6: da tribo de–Aser doze mil da tribo de–Naftali doze mil da tribo de–Manassés doze mil
+-- c7-v7: da tribo de–Simeão doze mil da tribo de–Levi doze mil da tribo de–Issacar doze mil
+-- c7-v8: da tribo de–Zebulom doze mil da tribo de–José doze mil da tribo de–Benjamim doze mil selados
+-- c7-v9: Depois–de estas–coisas vi e eis multidão grande a–qual contar ela ninguém podia de toda nação e tribos e povos e línguas em–pé diante do trono e diante do Cordeiro vestidos–de vestes brancas e palmas nas suas mãos deles
+-- c7-v10: e clamam com–voz grande dizendo A salvação ao Deus nosso ao que–está–sentado sobre o trono e ao Cordeiro
+-- c7-v11: e todos os anjos estavam–em–pé ao–redor do trono e dos anciãos e dos quatro seres–viventes e caíram diante do trono sobre os rostos deles e adoraram a Deus
+-- c7-v12: dizendo Amém A bênção e a glória e a sabedoria e a ação–de–graças e a honra e o poder e a força ao Deus nosso pelos – séculos dos séculos amém
+-- c7-v13: E respondeu um de – os–anciãos dizendo a–mim Estes os vestidos com–as vestes – brancas quem são e de–onde vieram
+-- c7-v14: E disse a–ele Senhor meu tu sabes E disse a–mim Estes são os que–vêm da – tribulação – grande e lavaram as vestes deles e branquearam elas no – sangue do Cordeiro
+-- c7-v15: Por–isso – estão diante do trono – de–Deus e servem a–ele dia e noite no – templo dele e o que–está–sentado sobre o trono habitará sobre eles
+-- c7-v16: Não terão–fome mais nem terão–sede mais nem – cairá sobre eles o sol nem qualquer calor
+-- c7-v17: porque o Cordeiro o–que no meio do trono apascentará eles e guiará eles a de–vida fontes de–águas e enxugará – Deus toda lágrima de – os–olhos deles
+-- c8-v1: E quando abriu o selo o sétimo houve silêncio no – céu como meia–hora
+-- c8-v2: e vi os sete anjos que diante de Deus estão–em–pé e foram–dadas a–eles sete trombetas
+-- c8-v3: E outro anjo veio e ficou–em–pé sobre o altar tendo incensário de–ouro e foi–dado a–ele incenso muito para–que desse com–as orações dos santos todos sobre o altar – de–ouro o–que diante do trono
+-- c8-v4: e subiu a fumaça dos incensos com–as orações dos santos da mão do anjo diante de Deus
+-- c8-v5: e tomou o anjo o incensário e encheu ele do – fogo do altar e lançou sobre a terra e houve trovões e vozes e relâmpagos e terremoto
+-- c8-v6: E os sete anjos os tendo as sete trombetas prepararam a–si–mesmos para–que tocassem
+-- c8-v7: E o primeiro tocou e houve granizo e fogo misturados com sangue e foram–lançados sobre a terra e a terça–parte da terra foi–queimada e a terça–parte das árvores foi–queimada e toda erva verde foi–queimada
+-- c8-v8: E o segundo anjo tocou e como montanha grande com–fogo ardendo foi–lançada no – mar e tornou–se a terça–parte do mar sangue
+-- c8-v9: e morreu a terça–parte das criaturas as no – mar as tendo vida e a terça–parte dos navios foi–destruída
+-- c8-v10: E o terceiro anjo tocou e caiu do – céu estrela grande ardendo como tocha e caiu sobre a terça–parte dos rios e sobre as fontes das águas
+-- c8-v11: e o nome da estrela é–chamado – Absinto e tornou–se a terça–parte das águas em absinto e muitos dos homens morreram por–causa das águas porque foram–feitas–amargas
+-- c8-v12: E o quarto anjo tocou e foi–ferida a terça–parte do sol e a terça–parte da lua e a terça–parte das estrelas para–que fosse–escurecida a terça–parte deles e o dia não brilhasse a terça–parte dele e a noite igualmente
+-- c8-v13: E vi e ouvi uma águia voando no meio–do–céu dizendo com–voz grande Ai ai ai dos que–habitam sobre a terra por–causa dos restantes sons da trombeta dos três anjos os–que estão–para tocar
+-- c9-v1: E o quinto anjo tocou e vi estrela do – céu caída sobre a terra e foi–dada a–ela a chave do poço do abismo
+-- c9-v2: e abriu o poço do abismo e subiu fumaça do – poço como fumaça de–fornalha grande e foi–escurecido o sol e o ar por – a–fumaça do poço
+-- c9-v3: e da – fumaça saíram gafanhotos sobre a terra e foi–dado a–eles autoridade como têm autoridade os escorpiões da terra
+-- c9-v4: e foi–dito a–eles que não danificassem a erva da terra nem qualquer–coisa verde nem qualquer árvore senão somente os homens os–quais não têm o selo de Deus sobre as frontes
+-- c9-v5: e foi–dado a–eles que não os–matassem eles mas que fossem–atormentados meses cinco e o tormento deles como tormento de–escorpião quando fere homem
+-- c9-v6: e naqueles – dias – buscarão os homens a morte e de–modo–algum – a–encontrarão – e desejarão morrer e foge a morte de eles
+-- c9-v7: e as semelhanças dos gafanhotos semelhantes a–cavalos preparados para guerra e sobre as cabeças deles como coroas semelhantes a–ouro e os rostos deles como rostos de–homens
+-- c9-v8: e tinham cabelos como cabelos de–mulheres e os dentes deles como de–leões eram
+-- c9-v9: e tinham couraças como couraças de–ferro e o som das asas deles como som de–carros de–cavalos muitos correndo para guerra
+-- c9-v10: e têm caudas semelhantes a–escorpiões e ferrões e nas – caudas deles a autoridade deles de–danificar os homens meses cinco
+-- c9-v11: Têm sobre eles rei o anjo do abismo nome a–ele em–hebraico Abadom e em – grego nome tem Apoliom
+-- c9-v12: O ai – primeiro passou eis vem ainda dois ais depois–de estas–coisas
+-- c9-v13: E o sexto anjo tocou e ouvi voz uma das – quatro pontas do altar – de–ouro o–que diante de Deus
+-- c9-v14: dizendo ao sexto anjo o que–tem a trombeta Solta os quatro anjos os amarrados junto–ao – rio – grande Eufrates
+-- c9-v15: e foram–soltos os quatro anjos os preparados para a hora e dia e mês e ano para–que matassem a terça–parte dos homens
+-- c9-v16: e o número dos exércitos da cavalaria duas–miríades (miríades) de–miríades ouvi o número deles
+-- c9-v17: e assim vi os cavalos na – visão e os que–estavam–sentados sobre eles tendo couraças de–fogo e de–jacinto e de–enxofre e as cabeças dos cavalos como cabeças de–leões e das – bocas deles sai fogo e fumaça e enxofre
+-- c9-v18: por – estas–três pragas – foi–morta a terça–parte dos homens pelo – fogo e pela fumaça e pelo enxofre o que–saía das – bocas deles
+-- c9-v19: pois – a–autoridade dos cavalos na – boca deles está e nas – caudas deles pois – as–caudas deles semelhantes a–serpentes tendo cabeças e com elas danificam
+-- c9-v20: E os restantes dos homens que não foram–mortos por estas pragas – nem–mesmo se–arrependeram das – obras das mãos deles para–que não adorassem os demônios e os ídolos os de–ouro e os de–prata e os de–bronze e os de–pedra e os de–madeira que nem ver podem nem ouvir nem andar
+-- c9-v21: e não se–arrependeram dos – homicídios deles nem das – feitiçarias deles nem da – prostituíção deles nem dos – furtos deles
+-- c10-v1: E vi outro anjo forte descendo do – céu vestido–de nuvem e o arco–íris sobre a cabeça dele e o rosto dele como o sol e os pés dele como colunas de–fogo
+-- c10-v2: e tendo na – mão dele livrinho aberto e pôs o pé dele o direito sobre o mar o e esquerdo sobre a terra
+-- c10-v3: e clamou com–voz grande como leão ruge e quando clamou falaram os sete trovões as suas–próprias vozes
+-- c10-v4: E quando falaram os sete trovões estava–para escrever e ouvi voz do – céu dizendo Sela as–coisas–que falaram os sete trovões e não elas escrevas
+-- c10-v5: E o anjo que vi em–pé sobre o mar e sobre a terra levantou a mão dele – direita para o céu
+-- c10-v6: e jurou pelo – que–vive pelos – séculos dos séculos que criou o céu e as–coisas nele – e a terra e as–coisas nela – e o mar e as–coisas nele – que tempo não–mais haverá
+-- c10-v7: mas nos – dias da voz do sétimo anjo quando estiver–para tocar também será–consumado o mistério de Deus como anunciou aos seus–próprios servos – os–profetas
+-- c10-v8: E a voz que ouvi do – céu de–novo falando comigo – e dizendo Vai toma o livro o aberto na – mão do anjo o–que está–em–pé sobre o mar e sobre a terra
+-- c10-v9: e fui ao – anjo dizendo a–ele dar a–mim o livrinho e diz a–mim Toma e devora ele e amargará teu – ventre mas na – boca tua será doce como mel
+-- c10-v10: e tomei o livrinho da – mão do anjo e devorei ele e era na – boca minha como mel doce e quando comi ele foi–amargado o ventre meu
+-- c10-v11: e dizem a–mim É–necessário tu de–novo profetizares sobre povos e nações e línguas e reis muitos
+-- c11-v1: E foi–dada a–mim cana semelhante a–vara dizendo Levanta–te e mede o santuário de– Deus e o altar e os– adorando nele –
+-- c11-v2: e o pátio o– de–fora do santuário lança–fora para–fora e não o meças porque foi–dado às– nações e a cidade a– santa pisarão meses quarenta e dois
+-- c11-v3: e darei às– duas testemunhas minhas e profetizarão dias mil duzentos sessenta vestidos–de sacos
+-- c11-v4: Estes são as– duas oliveiras e os– dois candelabros os– diante do Senhor da terra estando–de–pé
+-- c11-v5: e se alguém a–eles quiser prejudicar fogo sai de a– boca deles e devora os– inimigos deles e se alguém quiser a–eles prejudicar assim é–necessário ele ser–morto
+-- c11-v6: estes têm a autoridade para–fechar o céu para–que não chuva chova os– dias da profecia deles e autoridade têm sobre as– águas para–converter elas em sangue e para–ferir a terra com toda praga quantas–vezes se quiserem
+-- c11-v7: e quando terminarem o testemunho deles a besta a– subindo do – abismo fará com eles guerra e vencerá a–eles e matará a–eles
+-- c11-v8: e o cadáver deles sobre a– praça da– cidade a– grande a–qual é–chamada espiritualmente Sodoma e Egito onde também o Senhor deles foi–crucificado
+-- c11-v9: e veem dos – povos e tribos e línguas e nações o cadáver deles dias três e meio e os– cadáveres deles não permitem serem–postos em sepulcro
+-- c11-v10: e os– habitando sobre a– terra alegram–se sobre eles e regozijam–se e presentes enviarão uns–aos–outros porque estes os– dois profetas atormentaram os– habitando sobre a– terra
+-- c11-v11: e depois–de os– três dias e meio espírito de–vida de – Deus entrou neles – e puseram–se–de–pé sobre os– pés deles e temor grande caiu sobre os– vendo a–eles
+-- c11-v12: e ouviram voz grande do – céu dizendo a–eles Subi para–cá e subiram para o céu na – nuvem e viram a–eles os– inimigos deles
+-- c11-v13: E naquela – – hora houve terremoto grande e a– décima–parte da– cidade caiu e foram–mortos no – terremoto nomes de–homens milhares sete e os– restantes atemorizados ficaram e deram glória ao– Deus do– céu
+-- c11-v14: O Ai o– segundo passou eis o– Ai o– terceiro vem depressa
+-- c11-v15: E o– sétimo anjo tocou–a–trombeta e houve vozes grandes no – céu dizendo Tornou–se o reino do– mundo do– Senhor nosso e do– Cristo dele e reinará pelos– – séculos dos– séculos
+-- c11-v16: e os– vinte quatro anciãos os– diante de– Deus sentados sobre os– tronos deles caíram sobre as– faces deles e adoraram a– Deus
+-- c11-v17: dizendo Damos–te–graças a–ti Senhor o– Deus o– Todo–Poderoso o– que–é e o– que–era e o– que–vem porque tomaste o– poder teu o– grande e reinaste
+-- c11-v18: e as– nações iraram–se e veio a– ira tua e o– tempo dos– mortos serem–julgados e para–dar o– galardão aos– servos teus os– profetas e aos– santos e aos– temendo o– nome teu os– pequenos e os– grandes e para–destruir os– destruindo a– terra
+-- c11-v19: e foi–aberto o santuário de– Deus o– no – céu e foi–vista a– arca da– aliança dele no – santuário dele e houve relâmpagos e vozes e trovões e terremoto e granizo grande
+-- c12-v1: E sinal grande apareceu no – céu mulher vestida–de o sol e a– lua debaixo dos– pés dela e sobre a– cabeça dela coroa de–estrelas doze
+-- c12-v2: e no ventre tendo e clama estando–em–dores–de–parto e sendo–atormentada para–dar–à–luz
+-- c12-v3: e apareceu outro sinal no – céu e eis dragão vermelho grande tendo cabeças sete e chifres dez e sobre as– cabeças dele sete diademas
+-- c12-v4: e a– cauda dele arrasta a– terça–parte das– estrelas do– céu e lançou a–elas para a– terra e o– dragão estava–de–pé diante da– mulher a– prestes–a dar–à–luz para–que quando desse–à–luz o– filho dela devorasse
+-- c12-v5: e deu–à–luz filho varão que está–para apascentar todas as– nações com vara de–ferro e foi–arrebatado o– filho dela para – Deus e para o– trono dele
+-- c12-v6: e a– mulher fugiu para o– deserto onde tem ali lugar preparado de – Deus para–que ali alimentem a–ela dias mil duzentos sessenta
+-- c12-v7: E houve guerra no – céu – Miguel e os– anjos dele – para–guerrear contra o– dragão e o– dragão guerreou e os– anjos dele
+-- c12-v8: e não prevaleceu nem lugar foi–achado deles ainda no – céu
+-- c12-v9: e foi–lançado o– dragão o– grande a– serpente a– antiga o– chamado Diabo e – Satanás o– enganando a– terra–habitada toda foi–lançado para a– terra e os– anjos dele com ele foram–lançados
+-- c12-v10: e ouvi voz grande no – céu dizendo Agora veio a– salvação e o– poder e o– reino do– Deus nosso e a– autoridade do– Cristo dele porque foi–lançado o– acusador dos– irmãos nossos o– acusando a–eles diante de– Deus nosso dia e noite
+-- c12-v11: e eles venceram a–ele por o– sangue do– Cordeiro e por a– palavra do– testemunho deles e não amaram a– vida deles até à–morte
+-- c12-v12: por–isso – alegrai–vos ó– céus e os– neles – habitando ai da– terra e do– mar porque desceu o– diabo a vós tendo fúria grande sabendo que pouco tempo tem
+-- c12-v13: E quando viu o– dragão que foi–lançado para a– terra perseguiu a– mulher a–qual deu–à–luz o– varão
+-- c12-v14: e foram–dadas à– mulher as– duas asas da– águia a– grande para–que voasse para o– deserto para o– lugar dela onde é–alimentada ali tempo e tempos e metade de–tempo da face da– serpente
+-- c12-v15: e lançou a– serpente de a– boca dela atrás da– mulher água como rio para–que a–ela arrastada–pelo–rio fizesse
+-- c12-v16: e ajudou a– terra à– mulher e abriu a– terra a– boca dela e engoliu o– rio que lançou o– dragão de a– boca dele
+-- c12-v17: e irou–se o– dragão contra a– mulher e foi fazer guerra com os– restantes da– semente dela os– guardando os– mandamentos de– Deus e tendo o– testemunho de–Jesus e parou sobre a– areia do– mar
+-- c13-v1: E vi de o– mar besta subindo tendo chifres dez e cabeças sete e sobre os– chifres dela dez diademas e sobre as– cabeças dela nomes de–blasfêmia
+-- c13-v2: e a– besta que vi era semelhante a–leopardo e os– pés dela como de–urso e a– boca dela como boca de–leão e deu a–ela o– dragão o– poder dele e o– trono dele e autoridade grande
+-- c13-v3: e uma das– as– cabeças dela como tendo–sido–morta para morte e a– ferida da– morte dela foi–curada e maravilhou-se toda a– terra após a– besta
+-- c13-v4: e adoraram ao– dragão porque deu a– autoridade à– besta e adoraram à– besta dizendo Quem semelhante à– besta e quem pode guerrear com ela
+-- c13-v5: e foi–dada a–ela boca falando grandes–coisas e blasfêmias e foi–dada a–ela autoridade para–fazer meses quarenta e dois
+-- c13-v6: e abriu a– boca dela para blasfêmias contra o– Deus para–blasfemar o– nome dele e a– tenda dele os– em o– céu habitando
+-- c13-v7: e foi–dada a–ela fazer guerra com os– santos e vencê-los eles e foi–dada a–ela autoridade sobre toda tribo e povo e língua e nação
+-- c13-v8: e adorarão ela todos os– habitando sobre a– terra de–quem não foi–escrito o– nome dele no– o– livro da– vida do– Cordeiro o– morto desde fundação do–mundo
+-- c13-v9: Se alguém tem ouvido ouça
+-- c13-v10: se alguém para cativeiro para cativeiro vai se alguém com espada ser–morto é–necessário ele com espada ser–morto Aqui está a– perseverança e a– fé dos– santos
+-- c13-v11: E vi outra besta subindo de a– terra e tinha chifres dois semelhantes a–cordeiro e falava como dragão
+-- c13-v12: e a– autoridade da– primeira besta toda exerce diante dela e faz a– terra e os– nela nela habitando que adorem a– besta a– primeira de–quem foi–curada a– ferida da– morte dela
+-- c13-v13: e faz sinais grandes que até fogo faça do– o– céu descer à– a– terra diante dos– homens
+-- c13-v14: e engana os– habitando sobre a– terra por–causa dos– sinais que foi–dado a–ela fazer diante da– besta dizendo aos– habitando sobre a– terra fazer imagem à– besta que tem a– ferida da– espada e viveu
+-- c13-v15: e foi–dado a–ela dar fôlego à– imagem da– besta que até fale a– imagem da– besta e faça que quantos se não adorarem a– imagem da– besta sejam–mortos
+-- c13-v16: e faz todos os– pequenos e os– grandes e os– ricos e os– pobres e os– livres e os– escravos que lhes–deem a–eles marca sobre a– mão deles a– direita ou sobre a– testa deles
+-- c13-v17: e que não alguém possa comprar ou vender se não o– tendo a– marca o– nome da– besta ou o– número do– nome dela
+-- c13-v18: Aqui a– sabedoria está O– tendo entendimento calcule o– número da– besta número pois de–homem é e o– número dele seiscentos sessenta seis
+-- c14-v1: E vi e eis o– Cordeiro de–pé sobre o– monte Sião e com ele cento e–quarenta e–quatro mil tendo o– nome dele e o– nome do– Pai dele escrito sobre as– testas deles
+-- c14-v2: e ouvi voz do– o– céu como voz de–águas muitas e como voz de–trovão grande e a– voz que ouvi como de–citaristas tocando nas– as– cítaras deles
+-- c14-v3: e cantam como cântico novo diante do– trono e diante dos– quatro seres–viventes e dos– anciãos e ninguém podia aprender o– cântico se não os– cento e–quarenta e–quatro mil os– comprados da– a– terra
+-- c14-v4: Estes são os–que com mulheres não se–contaminaram virgens pois são Estes os– seguindo o– Cordeiro onde quer–que vá Estes foram–comprados dentre– os– homens primícias para– Deus e para– o–Cordeiro
+-- c14-v5: e na– a– boca deles não foi–achada mentira irrepreensíveis são diante do– trono do– Deus
+-- c14-v6: E vi outro anjo voando no– meio–do–céu tendo evangelho eterno para–evangelizar aos– os– assentados sobre a– terra e a– toda nação e tribo e língua e povo
+-- c14-v7: dizendo em voz grande Temei a– Deus e dai a–ele glória porque veio a– hora do– juízo dele e adorai ao– que–fez o– céu e a– terra e mar e fontes de–águas
+-- c14-v8: E outro anjo segundo seguiu dizendo Caiu caiu Babilônia a– grande que do– o– vinho da– ira da– prostituição dela fez–beber todas as– nações
+-- c14-v9: E outro anjo terceiro seguiu a–eles dizendo em voz grande Se alguém adora a– besta e a– imagem dela e recebe marca sobre a– testa dele ou sobre a– mão dele
+-- c14-v10: também ele beberá do– o– vinho da– ira de– Deus o– misturado puro no– o– cálice da– ira dele e será–atormentado com fogo e enxofre diante de–anjos santos e diante do– Cordeiro
+-- c14-v11: e a– fumaça do– tormento deles para séculos de–séculos sobe e não têm descanso de–dia e de–noite os– adorando a– besta e a– imagem dela e se alguém recebe a– marca do– nome dela
+-- c14-v12: Aqui a– perseverança dos– santos está os– guardando os– mandamentos de– Deus e a– fé de–Jesus
+-- c14-v13: E ouvi voz do– o– céu dizendo Escreve Bem-aventurados os– mortos os– no– Senhor morrendo desde agora Sim diz o– Espírito que descansem dos– os– trabalhos deles as– pois obras deles seguem com eles
+-- c14-v14: E vi e eis nuvem branca e sobre a– nuvem assentado semelhante a–filho de–homem tendo sobre a– cabeça dele coroa de–ouro e na– a– mão dele foice afiada
+-- c14-v15: E outro anjo saiu do– o– templo clamando em voz grande ao– assentado sobre a– nuvem Envia a– foice tua e ceifa porque veio a– hora de–ceifar porque secou a– seara da– terra
+-- c14-v16: e lançou o– assentado sobre a– nuvem a– foice dele sobre a– terra e foi–ceifada a– terra
+-- c14-v17: E outro anjo saiu do– o– templo o– no– o– céu tendo também ele foice afiada
+-- c14-v18: E outro anjo saiu do– o– altar o– tendo autoridade sobre o– fogo e clamou em–voz grande ao– tendo a– foice a– afiada dizendo Envia tua a– foice a– afiada e vindima os– cachos da– vinha da– terra porque amadureceram as– uvas dela
+-- c14-v19: e lançou o– anjo a– foice dele à– a– terra e vindimou a– vinha da– terra e lançou no– o– lagar da– ira de– Deus o– grande
+-- c14-v20: e foi–pisado o– lagar fora da– cidade e saiu sangue do– o– lagar até os– freios dos– cavalos por estádios mil e–seiscentos
+-- c15-v1: E vi outro sinal no– o– céu grande e maravilhoso anjos sete tendo pragas sete as– últimas porque nelas nelas se–consumou a– ira de– Deus
+-- c15-v2: E vi como mar de–vidro misturado com–fogo e os– vencedores da– a– besta e da– a– imagem dela e do– o– número do– nome dela de–pé sobre o– mar o– de–vidro tendo harpas de– Deus
+-- c15-v3: e cantam o– cântico de–Moisés o– servo de– Deus e o– cântico do– Cordeiro dizendo Grandes e maravilhosas as– obras tuas Senhor o– Deus o– Todo-poderoso justos e verdadeiros os– caminhos teus ó– Rei das– nações
+-- c15-v4: Quem não não temerá Senhor e glorificará o– nome teu porque só santo porque todas as– nações virão e adorarão diante de–ti porque os– juízos teus foram–manifestados
+-- c15-v5: E depois destas–coisas vi e foi–aberto o– templo da– tenda do– testemunho no– o– céu
+-- c15-v6: e saíram os– sete anjos os– tendo as– sete pragas do– o– templo vestidos de–linho puro resplandecente e cingidos ao–redor dos– peitos cintos de–ouro
+-- c15-v7: e um dos– os– quatro seres–viventes deu aos– sete anjos sete taças de–ouro cheias da– ira de– Deus o– vivendo para os– séculos dos– séculos
+-- c15-v8: e encheu-se o– templo de–fumaça da– a– glória de– Deus e do– o– poder dele e ninguém podia entrar no– o– templo até se–consumarem as– sete pragas dos– sete anjos
+-- c16-v1: E ouvi grande voz do– o– templo dizendo aos– sete anjos Ide e derramai as– sete taças da– ira de– Deus sobre a– terra
+-- c16-v2: E foi o– primeiro e derramou a– taça dele sobre a– terra e veio úlcera má e maligna sobre os– homens os– tendo a– marca da– besta e os– adorando a– imagem dela
+-- c16-v3: E o– segundo derramou a– taça dele sobre o– mar e tornou-se sangue como de–morto e toda alma de–vida morreu as–coisas– no– o– mar
+-- c16-v4: E o– terceiro derramou a– taça dele sobre os– rios e as– fontes das– águas e tornou-se sangue
+-- c16-v5: E ouvi o– anjo das– águas dizendo Justo és o– que–és e o– que–eras o– Santo porque estas–coisas julgaste
+-- c16-v6: porque sangue de–santos e de–profetas derramaram e sangue a–eles deste para–beber dignos são
+-- c16-v7: E ouvi o– altar dizendo Sim Senhor o– Deus o– Todo-poderoso verdadeiros e justos os– juízos teus
+-- c16-v8: E o– quarto derramou a– taça dele sobre o– sol e foi–dado a–ele queimar os– homens com fogo
+-- c16-v9: e foram–queimados os– homens com–calor grande e blasfemaram o– nome de– Deus o– tendo a– autoridade sobre as– pragas estas e não se–arrependeram para–dar a–ele glória
+-- c16-v10: E o– quinto derramou a– taça dele sobre o– trono da– besta e tornou-se o– reino dela entenebrecido e mordiam as– línguas deles por–causa– da– dor
+-- c16-v11: e blasfemaram o– Deus do– céu por–causa das– dores deles e por–causa das– úlceras deles e não se–arrependeram das– as– obras deles
+-- c16-v12: E o– sexto derramou a– taça dele sobre o– rio o– grande o– Eufrates e secou a– água dele para–que fosse–preparado o– caminho dos– reis os– do– nascente do–sol
+-- c16-v13: E vi da– a– boca do– dragão e da– a– boca da– besta e da– a– boca do– falso–profeta espíritos três imundos como rãs
+-- c16-v14: são pois espíritos de–demônios fazendo sinais que saem sobre os– reis da– terra–habitada toda para–reunir eles para a– guerra do– dia do– grande de– Deus o– Todo-poderoso
+-- c16-v15: Eis venho como ladrão Bem-aventurado o– vigiando e guardando as– vestes dele para–que não nu ande e vejam a– vergonha dele
+-- c16-v16: e os–reuniu eles no– o– lugar o– chamado em–hebraico Armagedom
+-- c16-v17: E o– sétimo derramou a– taça dele sobre o– ar e saiu voz grande do– o– templo do– o– trono dizendo Está–feito
+-- c16-v18: e houve relâmpagos e vozes e trovões e terremoto houve grande qual não houve desde–que de–quando homem houve sobre a– terra tão–grande terremoto tão grande
+-- c16-v19: e tornou-se a– cidade a– grande em três partes e as– cidades das– nações caíram e Babilônia a– grande foi–lembrada diante de– Deus para–dar a–ela o– cálice do– vinho da– ira da– ira dele
+-- c16-v20: e toda ilha fugiu e montes não foram–achados
+-- c16-v21: e saraiva grande como de–peso–de–talento desce do– o– céu sobre os– homens e blasfemaram os– homens o– Deus por–causa da– praga da– saraiva porque grande é a– praga dela extremamente
+-- c17-v1: E veio um de os sete anjos os tendo as sete taças e falou com mim dizendo Vem mostrarei a–ti o julgamento da prostituta a grande a sentada sobre águas muitas
+-- c17-v2: com quem prostituíram-se os reis da terra e embriagaram-se os habitando a terra com o vinho da prostituição dela
+-- c17-v3: e levou me para deserto em Espírito e vi mulher sentada sobre besta escarlate cheia–de nomes de–blasfêmia tendo cabeças sete e chifres dez
+-- c17-v4: e a mulher estava vestida–de púrpura e escarlate e adornada–com–ouro ouro e pedra preciosa e pérolas tendo cálice de–ouro em a mão dela cheio de–abominações e as imundícies da prostituição dela
+-- c17-v5: e sobre a testa dela nome escrito mistério BABILÔNIA A GRANDE A MÃE DAS PROSTITUTAS E DAS ABOMINAÇÕES DA TERRA
+-- c17-v6: e vi a mulher embriagada do o sangue dos santos e do o sangue das testemunhas de–Jesus E admirei-me vendo ela admiração grande
+-- c17-v7: e disse a–mim o anjo Por quê admiraste? eu direi a–ti o mistério da mulher e da besta a carregando ela a tendo as sete cabeças e os dez chifres
+-- c17-v8: a besta que viste era e não é e está–prestes a–subir do o abismo e para destruição vai e admirar-se-ão os habitando sobre a terra cujos não está–escrito o nome sobre o livro da vida desde fundação do–mundo vendo a besta que era e não é e virá
+-- c17-v9: Aqui a mente a tendo sabedoria as sete cabeças sete montes são onde a mulher está–sentada sobre eles
+-- c17-v10: e reis sete são os cinco caíram o um é o outro ainda–não veio e quando vier pouco ele deve permanecer
+-- c17-v11: e a besta que era e não é e ele oitavo é e dos os sete é e para destruição vai
+-- c17-v12: e os dez chifres que viste dez reis são os–quais reino ainda–não receberam mas autoridade como reis uma hora recebem com a besta
+-- c17-v13: estes uma mente têm e o poder e autoridade deles à besta dão
+-- c17-v14: estes contra o Cordeiro guerrearão e o Cordeiro vencerá eles porque Senhor dos–senhores é e Rei dos–reis e os com ele chamados e escolhidos e fiéis
+-- c17-v15: E diz a–mim As águas que viste onde a prostituta está–sentada povos e multidões são e nações e línguas
+-- c17-v16: e os dez chifres que viste e a besta estes odiarão a prostituta e devastada farão ela e nua e as carnes dela comerão e ela queimarão com fogo
+-- c17-v17: o pois Deus deu nos os corações deles fazer a vontade dele e fazer uma vontade e dar o reino deles à besta até cumprir-se-ão as palavras de Deus
+-- c17-v18: e a mulher que viste é a cidade a grande a tendo reino sobre os reis da terra
+-- c18-v1: Depois destas–coisas vi outro anjo descendo do o céu tendo autoridade grande e a terra foi–iluminada pela a glória dele
+-- c18-v2: e clamou com forte voz dizendo Caiu caiu Babilônia a grande! e tornou-se habitação de–demônios e prisão de–todo espírito imundo e prisão de–toda ave imunda e prisão de–toda besta imunda e odiada
+-- c18-v3: porque do o vinho da ira da prostituição dela beberam todas as nações e os reis da terra com ela prostituíram-se e os mercadores da terra do o poder da luxúria dela enriqueceram
+-- c18-v4: E ouvi outra voz do o céu dizendo Saí ó povo meu dela dela para–que não participeis dos pecados dela e das as pragas dela para–que não recebais
+-- c18-v5: porque juntaram-se dela os pecados até o céu e lembrou-se o Deus das injustiças dela
+-- c18-v6: retribuí a–ela como também ela retribuiu e duplicai o dobro segundo as obras dela no o cálice em–que misturou misturai a–ela dobro
+-- c18-v7: quanto glorificou a–si–mesma e viveu–em–luxúria tanto dai a–ela tormento e luto porque no o coração dela diz que Sento-me rainha e viúva não sou e luto não de–modo–algum verei
+-- c18-v8: por isso em um dia virão as pragas dela morte e luto e fome e com fogo será–queimada porque forte Senhor o Deus o julgando ela
+-- c18-v9: e chorarão e lamentar-se-ão sobre ela os reis da terra os com ela prostituídos e vivido–em–luxúria quando virem a fumaça do incendiar dela
+-- c18-v10: de longe estando–de–pé por–causa do medo do tormento dela dizendo Ai ai a cidade a grande Babilônia a cidade a forte! porque em–uma hora veio o juízo teu
+-- c18-v11: e os mercadores da terra choram e pranteiam sobre ela porque a carga deles ninguém compra mais
+-- c18-v12: carga de–ouro e de–prata e de–pedra preciosa e de–pérolas e de–linho–fino e de–púrpura e de–seda e de–escarlate e toda madeira de–cedro e todo objeto de–marfim e todo objeto de madeira precíosíssima e de–bronze e de–ferro e de–mármore
+-- c18-v13: e canela e âmomo e incensos e mirra e olíbano e vinho e azeite e flor–de–farinha e trigo e gado e ovelhas e de–cavalos e de–carros e de–corpos e almas de–homens
+-- c18-v14: e o fruto teu do desejo da alma foi-se de ti e todas as coisas–suntuosas e as coisas–esplêndidas pereceram de ti e nunca–mais não de–modo–algum elas encontrarão
+-- c18-v15: os mercadores destas–coisas os enriquecidos por ela de longe estarão–de–pé por–causa do medo do tormento dela chorando e pranteando
+-- c18-v16: dizendo Ai ai a cidade a grande a vestida–de linho–fino e púrpura e escarlate e adornada–com–ouro em ouro e pedra preciosa e pérola!
+-- c18-v17: porque em–uma hora foi–devastada a tanta riqueza e todo piloto e todo o para lugar navegando e marinheiros e quantos o mar trabalham de longe pararam
+-- c18-v18: e clamavam vendo a fumaça do incendiar dela dizendo Quem semelhante à cidade a grande?
+-- c18-v19: e lançaram pó sobre as cabeças deles e clamavam chorando e pranteando dizendo Ai ai a cidade a grande na qual enriqueceram todos os tendo os navios no o mar pela a preciosidade dela! porque em–uma hora foi–devastada
+-- c18-v20: Alegra-te sobre ela ó–céu e os santos e os apóstolos e os profetas porque julgou o Deus o juízo vosso contra ela
+-- c18-v21: E levantou um anjo forte pedra como de–mó grande e lançou no o mar dizendo Assim com–ímpeto será–lançada Babilônia a grande cidade e não de–modo–algum será–encontrada mais
+-- c18-v22: e voz de–citaristas e de–músicos e de–flautistas e de–trombeteiros não de–modo–algum será–ouvida em ti mais e todo artesão de–toda arte não de–modo–algum será–encontrado em ti mais e voz de–mó não de–modo–algum será–ouvida em ti mais
+-- c18-v23: e luz de–candeia não de–modo–algum brilhará em ti mais e voz de–noivo e de–noiva não de–modo–algum será–ouvida em ti mais porque os mercadores teus eram os magnatas da terra porque pela a feitiçaria tua foram–enganadas todas as nações
+-- c18-v24: e nela dela sangue de–profetas e de–santos foi–encontrado e de–todos os mortos sobre a terra
+-- c19-v1: Depois–de estas–coisas ouvi como voz grande de–multidão numerosa no – céu dizendo Aleluia A salvação e a glória e o poder do Deus nosso
+-- c19-v2: porque verdadeiros e justos os juízos dele porque julgou a prostituta – grande que corrompeu a terra com a prostituição dela e vingou o sangue dos servos dele da mão dela
+-- c19-v3: e segunda–vez disseram Aleluia e a fumaça dela sobe pelos – séculos dos séculos
+-- c19-v4: e prostraram-se os anciãos os vinte quatro e os quatro seres–viventes e adoraram ao Deus ao assentado sobre o trono dizendo Amém Aleluia
+-- c19-v5: e voz do – trono saiu dizendo Louvai ao Deus nosso todos os servos dele e os que–temem a–ele os pequenos e os grandes
+-- c19-v6: E ouvi como voz de–multidão numerosa e como voz de–águas muitas e como voz de–trovões poderosos dizendo Aleluia porque reinou Senhor o Deus nosso o Todo-Poderoso
+-- c19-v7: alegremo-nos e exultemos e demos a glória a–ele porque veio as bodas do Cordeiro e a esposa dele preparou a–si–mesma
+-- c19-v8: e foi–dado a–ela para–que se–vestisse de–linho–fino resplandecente puro o pois linho–fino os atos–justos dos santos é
+-- c19-v9: E diz a–mim Escreve Bem-aventurados os para a ceia das bodas do Cordeiro convidados e diz a–mim Estas as palavras verdadeiras de Deus são
+-- c19-v10: e caí diante–de os pés dele para–adorar a–ele e diz a–mim Olha não conservo teu sou e dos irmãos teus dos que–têm o testemunho de–Jesus a Deus adora o pois testemunho de–Jesus é o espírito da profecia
+-- c19-v11: E vi o céu aberto e eis cavalo branco e o assentado sobre ele chamado Fiel e Verdadeiro e em justiça julga e guerreia
+-- c19-v12: os E olhos dele como chama de–fogo e sobre a cabeça dele diademas muitos tendo nome escrito que ninguém conhece se não ele–mesmo
+-- c19-v13: e vestido–de manto tingido em–sangue e é–chamado o nome dele O Verbo de Deus
+-- c19-v14: e os exércitos os no – céu seguiam a–ele em cavalos brancos vestidos–de linho–fino branco puro
+-- c19-v15: e da – boca dele sai espada afiada para–que com ela fira as nações e ele apascentará a–elas com vara de–ferro e ele pisa o lagar do vinho do furor da ira do Deus – Todo-Poderoso
+-- c19-v16: e tem sobre o manto e sobre a coxa dele nome escrito REI DOS–REIS E SENHOR DOS–SENHORES
+-- c19-v17: E vi um anjo em–pé no – sol e clamou em voz grande dizendo a–todas as aves as que–voam no meio–do–céu Vinde reuní-vos para a ceia – grande de Deus
+-- c19-v18: para–que comais carnes de–reis e carnes de–comandantes e carnes de–poderosos e carnes de–cavalos e dos assentados sobre eles e carnes de–todos livres – e escravos e pequenos e grandes
+-- c19-v19: E vi a besta e os reis da terra e os exércitos deles reunidos para–fazer a guerra contra o assentado sobre o cavalo e contra o exército dele
+-- c19-v20: e foi–presa a besta e com ela o falso–profeta o que–fez os sinais diante–de ela com os–quais enganou os que–receberam a marca da besta e os que–adoravam a imagem dela vivos foram–lançados os dois no – lago do fogo – que–arde com enxofre
+-- c19-v21: e os restantes foram–mortos pela – espada do assentado sobre o cavalo a que–saiu da – boca dele e todas as aves fartaram-se das – carnes deles
+-- c20-v1: E vi anjo descendo do – céu tendo a chave do abismo e corrente grande em a mão dele
+-- c20-v2: e agarrou o dragão a serpente – antiga que é Diabo e – Satanás e amarrou a–ele mil anos
+-- c20-v3: e lançou a–ele no – abismo e fechou e selou sobre ele para–que não engane mais as nações até–que se–completem os mil anos depois–de estas–coisas é–necessário ser–solto ele pequeno tempo
+-- c20-v4: E vi tronos e assentaram-se sobre eles e julgamento foi–dado a–eles e as almas dos decapitados por–causa–do – testemunho de–Jesus e por–causa–da – palavra de Deus e os–quais não adoraram a besta nem a imagem dela e não receberam a marca sobre a testa e sobre a mão deles e viveram e reinaram com o Cristo mil anos
+-- c20-v5: os restantes dos mortos não viveram até–que se–completassem os mil anos esta a ressurreição – primeira
+-- c20-v6: bem-aventurado e santo o que–tem parte na – ressurreição – primeira sobre estes a segunda morte não tem autoridade mas serão sacerdotes de Deus e do Cristo e reinarão com ele os mil anos
+-- c20-v7: E quando se–completarem os mil anos será–solto o Satanás da – prisão dele
+-- c20-v8: e sairá para–enganar as nações as nos – quatro cantos da terra – Gogue e Magogue para–reunir a–eles para a guerra cujo o número deles como a areia do mar
+-- c20-v9: e subiram sobre a largura da terra e cercaram o acampamento dos santos e a cidade – amada e desceu fogo do – céu e os–devorou a–eles
+-- c20-v10: e o diabo o que–engana a–eles foi–lançado no – lago do fogo e enxofre onde também a besta e o falso–profeta e serão–atormentados dia e noite pelos – séculos dos séculos
+-- c20-v11: E vi trono grande branco e o assentado sobre ele de–cuja – – presença fugiu a terra e o céu e lugar não foi–achado para–eles
+-- c20-v12: e vi os mortos os grandes e os pequenos em–pé diante–do – trono e livros foram–abertos e outro livro foi–aberto que é da vida e foram–julgados os mortos pelas–coisas – escritas nos – livros segundo as obras deles
+-- c20-v13: e entregou o mar os mortos os nele – e a morte e o Hades entregaram os mortos os neles – e foram–julgados cada–um segundo as obras deles
+-- c20-v14: e a morte e o Hades foram–lançados no – lago do fogo esta a morte – segunda é o lago do fogo
+-- c20-v15: e se alguém não foi–achado no – livro da vida escrito foi–lançado no – lago do fogo
+-- c21-v1: E vi céu novo e terra nova o pois primeiro céu e a primeira terra passaram e o mar não existe mais
+-- c21-v2: e a cidade – santa Jerusalém nova vi descendo do – céu de – Deus preparada como noiva adornada para–o marido dela
+-- c21-v3: e ouvi voz grande do – trono dizendo Eis a tenda de Deus com os homens e habitará com eles e eles povos dele serão e ele–mesmo o Deus com eles estará deles Deus
+-- c21-v4: e enxugará toda lágrima dos – olhos deles e a morte não existirá mais nem luto nem clamor nem dor não existirá mais porque as–coisas primeiras passaram
+-- c21-v5: e disse o assentado sobre o trono Eis novas faço todas–as–coisas e diz Escreve porque estas – palavras fiéis e verdadeiras são
+-- c21-v6: e disse a–mim Está–feito eu sou o Alfa e o Ômega o princípio e o fim eu ao que–tem–sede darei da – fonte da água da vida de–graça
+-- c21-v7: o que–vence herdará estas–coisas e serei a–ele Deus e ele será a–mim filho
+-- c21-v8: aos porém covardes e incrédulos e abomináveis e homicidas e impuros e feticeiros e idólatras e todos os mentirosos a parte deles no – lago – que–arde em–fogo e enxofre que é a morte – segunda
+-- c21-v9: E veio um dos – sete anjos dos que–tinham as sete taças – cheias das sete pragas – últimas e falou com migo dizendo Vem mostrarei a–ti a noiva a esposa do Cordeiro
+-- c21-v10: e levou a–mim em Espírito a monte grande e alto e mostrou a–mim a cidade – santa Jerusalém descendo do – céu de – Deus
+-- c21-v11: tendo a glória de Deus o brilho dela semelhante a–pedra precíosíssima como pedra de–jaspe cristalina
+-- c21-v12: tendo muro grande e alto tendo portas doze e sobre as portas anjos doze e nomes inscritos que são os nomes das doze tribos dos–filhos de–Israel
+-- c21-v13: do oriente portas três e do norte portas três e do sul portas três e do ocidente portas três
+-- c21-v14: e o muro da cidade tendo fundamentos doze e sobre eles doze nomes dos doze apóstolos do Cordeiro
+-- c21-v15: E o que–falava com migo tinha medida vara de–ouro para–que medisse a cidade e as portas dela e o muro dela
+-- c21-v16: e a cidade quadrada está e o comprimento dela tanto–quanto também a largura e mediu a cidade com–a vara por estádios doze mil o comprimento e a largura e a altura dela iguais são
+-- c21-v17: e mediu o muro dela cento quarenta quatro côvados medida de–homem que é de–anjo
+-- c21-v18: e a construção do muro dela jaspe e a cidade ouro puro semelhante a–vidro puro
+-- c21-v19: os fundamentos do muro da cidade com–toda pedra preciosa adornados o fundamento – primeiro jaspe o segundo safira o terceiro calcedônia o quarto esmeralda
+-- c21-v20: o quinto sardônica o sexto sardônio o sétimo crisólito o oitavo berilo o nono topázio o décimo crisópraso o décimo–primeiro jacinto o décimo–segundo ametista
+-- c21-v21: e as doze portas doze pérolas cada uma cada–uma das portas era de uma pérola e a praça da cidade ouro puro como vidro transparente
+-- c21-v22: E templo não vi nela – o pois Senhor o Deus o Todo-Poderoso templo dela é e o Cordeiro
+-- c21-v23: e a cidade não necessidade tem do sol nem da lua para–que brilhem nela a pois glória de Deus iluminou a–ela e a lâmpada dela o Cordeiro
+-- c21-v24: e andarão as nações pela – luz dela e os reis da terra trazem a glória e honra das nações deles para ela
+-- c21-v25: e as portas dela não – serão–fechadas de–dia noite pois não haverá ali
+-- c21-v26: e trarão a glória e a honra das nações para ela
+-- c21-v27: e não – entrará nela – coisa–alguma impura e o que–pratica abominação e mentira senão – os escritos no – livro da vida do Cordeiro
+-- c22-v1: e mostrou a–mim rio de–água de–vida resplandecente como cristal procedendo do – trono de Deus e do Cordeiro
+-- c22-v2: no meio da praça dela e do rio deste–lado e daquele–lado árvore de–vida produzindo frutos doze a–cada mês cada–um dando o fruto dele e as folhas da árvore para cura das nações
+-- c22-v3: e toda maldição não haverá mais e o trono de Deus e do Cordeiro nela – estará e os servos dele o–servirão a–ele
+-- c22-v4: e verão a face dele e o nome dele sobre as testas deles
+-- c22-v5: e noite não haverá mais e não têm necessidade de–luz de–lâmpada e luz de–sol porque Senhor o Deus iluminará sobre eles e reinarão pelos – séculos dos séculos
+-- c22-v6: E disse a–mim Estas – palavras fiéis e verdadeiras e o Senhor o Deus dos espíritos dos profetas enviou o anjo dele para–mostrar aos servos dele as–coisas–que é–necessário acontecer em breve
+-- c22-v7: e eis venho depressa bem-aventurado o que–guarda as palavras da profecia do livro este
+-- c22-v8: E–eu João o que–ouve e que–vê estas–coisas e quando ouvi e vi caí para–adorar diante–dos – pés do anjo do que–mostrava a–mim estas–coisas
+-- c22-v9: e diz a–mim Olha não conservo teu sou e dos irmãos teus os profetas e dos que–guardam as palavras do livro este a Deus adora
+-- c22-v10: E diz a–mim Não seles as palavras da profecia do livro este o tempo pois perto está
+-- c22-v11: o que–pratica–injustiça pratique–injustiça ainda e o imundo torne-se–imundo ainda e o justo justiça pratique ainda e o santo santifique-se ainda
+-- c22-v12: Eis venho depressa e a recompensa minha comigo – para–retribuir a–cada–um como a obra é dele
+-- c22-v13: eu o Alfa e o Ômega o primeiro e o último o princípio e o fim
+-- c22-v14: bem-aventurados os que–lavam as vestes deles para–que seja a autoridade deles sobre a árvore da vida e pelas portas entrem na – cidade
+-- c22-v15: fora os cães e os feiticeiros e os impuros e os homicidas e os idólatras e todo que–ama e pratica mentira
+-- c22-v16: Eu Jesus enviei o anjo meu para–testificar a–vós estas–coisas sobre as igrejas eu sou a raiz e a descendência de–Davi a estrela – resplandecente – da–manhã
+-- c22-v17: E o Espírito e a noiva dizem Vem e o que–ouve diga Vem e o que–tem–sede venha o que–quer tome água de–vida de–graça
+-- c22-v18: Testifico eu a–todo o que–ouve as palavras da profecia do livro este se alguém acrescentar a elas acrescentará o Deus sobre ele as pragas – escritas neste – livro –
+-- c22-v19: e se alguém tirar das – palavras do livro da profecia esta tirará o Deus a parte dele da – árvore da vida e da – cidade – santa das–coisas escritas neste – livro –
+-- c22-v20: Diz o que–testifica estas–coisas Sim venho depressa Amém vem Senhor Jesus
+-- c22-v21: A graça do Senhor Jesus Cristo com todos santos Amém
 
 BEGIN;
 -- 6600100101: Ἀποκάλυψις (G0602) → "Revelação" [opus-4.5-chirho]

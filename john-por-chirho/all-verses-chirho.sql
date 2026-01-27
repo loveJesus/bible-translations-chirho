@@ -3,662 +3,662 @@
 -- — John 3:16
 
 -- JOHN - POR Combined
--- Generated: 2026-01-27T21:47:18Z
+-- Generated: 2026-01-27T22:21:01Z
 
--- JOHN c1-v1 - POR
--- JOHN c1-v2 - POR
--- JOHN c1-v3 - POR
--- JOHN c1-v4 - POR
--- JOHN c1-v5 - POR
--- JOHN c1-v6 - POR
--- JOHN c1-v7 - POR
--- JOHN c1-v8 - POR
--- JOHN c1-v9 - POR
--- JOHN c1-v10 - POR
--- JOHN c1-v11 - POR
--- JOHN c1-v12 - POR
--- JOHN c1-v13 - POR
--- JOHN c1-v14 - POR
--- JOHN c1-v15 - POR
--- JOHN c1-v16 - POR
--- JOHN c1-v17 - POR
--- JOHN c1-v18 - POR
--- JOHN c1-v19 - POR
--- JOHN c1-v20 - POR
--- JOHN c1-v21 - POR
--- JOHN c1-v22 - POR
--- JOHN c1-v23 - POR
--- JOHN c1-v24 - POR
--- JOHN c1-v25 - POR
--- JOHN c1-v26 - POR
--- JOHN c1-v27 - POR
--- JOHN c1-v28 - POR
--- JOHN c1-v29 - POR
--- JOHN c1-v30 - POR
--- JOHN c1-v31 - POR
--- JOHN c1-v32 - POR
--- JOHN c1-v33 - POR
--- JOHN c1-v34 - POR
--- JOHN c1-v35 - POR
--- JOHN c1-v36 - POR
--- JOHN c1-v37 - POR
--- JOHN c1-v38 - POR
--- JOHN c1-v39 - POR
--- JOHN c1-v40 - POR
--- JOHN c1-v41 - POR
--- JOHN c1-v42 - POR
--- JOHN c1-v43 - POR
--- JOHN c1-v44 - POR
--- JOHN c1-v45 - POR
--- JOHN c1-v46 - POR
--- JOHN c1-v47 - POR
--- JOHN c1-v48 - POR
--- JOHN c1-v49 - POR
--- JOHN c1-v50 - POR
--- JOHN c1-v51 - POR
--- JOHN c2-v1 - POR
--- JOHN c2-v2 - POR
--- JOHN c2-v3 - POR
--- JOHN c2-v4 - POR
--- JOHN c2-v5 - POR
--- JOHN c2-v6 - POR
--- JOHN c2-v7 - POR
--- JOHN c2-v8 - POR
--- JOHN c2-v9 - POR
--- JOHN c2-v10 - POR
--- JOHN c2-v11 - POR
--- JOHN c2-v12 - POR
--- JOHN c2-v13 - POR
--- JOHN c2-v14 - POR
--- JOHN c2-v15 - POR
--- JOHN c2-v16 - POR
--- JOHN c2-v17 - POR
--- JOHN c2-v18 - POR
--- JOHN c2-v19 - POR
--- JOHN c2-v20 - POR
--- JOHN c2-v21 - POR
--- JOHN c2-v22 - POR
--- JOHN c2-v23 - POR
--- JOHN c2-v24 - POR
--- JOHN c2-v25 - POR
--- JOHN c3-v1 - POR
--- JOHN c3-v2 - POR
--- JOHN c3-v3 - POR
--- JOHN c3-v4 - POR
--- JOHN c3-v5 - POR
--- JOHN c3-v6 - POR
--- JOHN c3-v7 - POR
--- JOHN c3-v8 - POR
--- JOHN c3-v9 - POR
--- JOHN c3-v10 - POR
--- JOHN c3-v11 - POR
--- JOHN c3-v12 - POR
--- JOHN c3-v13 - POR
--- JOHN c3-v14 - POR
--- JOHN c3-v15 - POR
--- JOHN c3-v16 - POR
--- JOHN c3-v17 - POR
--- JOHN c3-v18 - POR
--- JOHN c3-v19 - POR
--- JOHN c3-v20 - POR
--- JOHN c3-v21 - POR
--- JOHN c3-v22 - POR
--- JOHN c3-v23 - POR
--- JOHN c3-v24 - POR
--- JOHN c3-v25 - POR
--- JOHN c3-v26 - POR
--- JOHN c3-v27 - POR
--- JOHN c3-v28 - POR
--- JOHN c3-v29 - POR
--- JOHN c3-v30 - POR
--- JOHN c3-v31 - POR
--- JOHN c3-v32 - POR
--- JOHN c3-v33 - POR
--- JOHN c3-v34 - POR
--- JOHN c3-v35 - POR
--- JOHN c3-v36 - POR
--- JOHN c4-v1 - POR
--- JOHN c4-v2 - POR
--- JOHN c4-v3 - POR
--- JOHN c4-v4 - POR
--- JOHN c4-v5 - POR
--- JOHN c4-v6 - POR
--- JOHN c4-v7 - POR
--- JOHN c4-v8 - POR
--- JOHN c4-v9 - POR
--- JOHN c4-v10 - POR
--- JOHN c4-v11 - POR
--- JOHN c4-v12 - POR
--- JOHN c4-v13 - POR
--- JOHN c4-v14 - POR
--- JOHN c4-v15 - POR
--- JOHN c4-v16 - POR
--- JOHN c4-v17 - POR
--- JOHN c4-v18 - POR
--- JOHN c4-v19 - POR
--- JOHN c4-v20 - POR
--- JOHN c4-v21 - POR
--- JOHN c4-v22 - POR
--- JOHN c4-v23 - POR
--- JOHN c4-v24 - POR
--- JOHN c4-v25 - POR
--- JOHN c4-v26 - POR
--- JOHN c4-v27 - POR
--- JOHN c4-v28 - POR
--- JOHN c4-v29 - POR
--- JOHN c4-v30 - POR
--- JOHN c4-v31 - POR
--- JOHN c4-v32 - POR
--- JOHN c4-v33 - POR
--- JOHN c4-v34 - POR
--- JOHN c4-v35 - POR
--- JOHN c4-v36 - POR
--- JOHN c4-v37 - POR
--- JOHN c4-v38 - POR
--- JOHN c4-v39 - POR
--- JOHN c4-v40 - POR
--- JOHN c4-v41 - POR
--- JOHN c4-v42 - POR
--- JOHN c4-v43 - POR
--- JOHN c4-v44 - POR
--- JOHN c4-v45 - POR
--- JOHN c4-v46 - POR
--- JOHN c4-v47 - POR
--- JOHN c4-v48 - POR
--- JOHN c4-v49 - POR
--- JOHN c4-v50 - POR
--- JOHN c4-v51 - POR
--- JOHN c4-v52 - POR
--- JOHN c4-v53 - POR
--- JOHN c4-v54 - POR
--- JOHN c7-v1 - POR
--- JOHN c7-v2 - POR
--- JOHN c7-v3 - POR
--- JOHN c7-v4 - POR
--- JOHN c7-v5 - POR
--- JOHN c7-v6 - POR
--- JOHN c7-v7 - POR
--- JOHN c7-v8 - POR
--- JOHN c7-v9 - POR
--- JOHN c7-v10 - POR
--- JOHN c7-v11 - POR
--- JOHN c7-v12 - POR
--- JOHN c7-v13 - POR
--- JOHN c7-v14 - POR
--- JOHN c7-v15 - POR
--- JOHN c7-v16 - POR
--- JOHN c7-v17 - POR
--- JOHN c7-v18 - POR
--- JOHN c7-v19 - POR
--- JOHN c7-v20 - POR
--- JOHN c7-v21 - POR
--- JOHN c7-v22 - POR
--- JOHN c7-v23 - POR
--- JOHN c7-v24 - POR
--- JOHN c7-v25 - POR
--- JOHN c7-v26 - POR
--- JOHN c7-v27 - POR
--- JOHN c7-v28 - POR
--- JOHN c7-v29 - POR
--- JOHN c7-v30 - POR
--- JOHN c7-v31 - POR
--- JOHN c7-v32 - POR
--- JOHN c7-v33 - POR
--- JOHN c7-v34 - POR
--- JOHN c7-v35 - POR
--- JOHN c7-v36 - POR
--- JOHN c7-v37 - POR
--- JOHN c7-v38 - POR
--- JOHN c7-v39 - POR
--- JOHN c7-v40 - POR
--- JOHN c7-v41 - POR
--- JOHN c7-v42 - POR
--- JOHN c7-v43 - POR
--- JOHN c7-v44 - POR
--- JOHN c7-v45 - POR
--- JOHN c7-v46 - POR
--- JOHN c7-v47 - POR
--- JOHN c7-v48 - POR
--- JOHN c7-v49 - POR
--- JOHN c7-v50 - POR
--- JOHN c7-v51 - POR
--- JOHN c7-v52 - POR
--- JOHN c7-v53 - POR
--- JOHN c8-v1 - POR
--- JOHN c8-v2 - POR
--- JOHN c8-v3 - POR
--- JOHN c8-v4 - POR
--- JOHN c8-v5 - POR
--- JOHN c8-v6 - POR
--- JOHN c8-v7 - POR
--- JOHN c8-v8 - POR
--- JOHN c8-v9 - POR
--- JOHN c8-v10 - POR
--- JOHN c8-v11 - POR
--- JOHN c8-v12 - POR
--- JOHN c8-v13 - POR
--- JOHN c8-v14 - POR
--- JOHN c8-v15 - POR
--- JOHN c8-v16 - POR
--- JOHN c8-v17 - POR
--- JOHN c8-v18 - POR
--- JOHN c8-v19 - POR
--- JOHN c8-v20 - POR
--- JOHN c8-v21 - POR
--- JOHN c8-v22 - POR
--- JOHN c8-v23 - POR
--- JOHN c8-v24 - POR
--- JOHN c8-v25 - POR
--- JOHN c8-v26 - POR
--- JOHN c8-v27 - POR
--- JOHN c8-v28 - POR
--- JOHN c8-v29 - POR
--- JOHN c8-v30 - POR
--- JOHN c8-v31 - POR
--- JOHN c8-v32 - POR
--- JOHN c8-v33 - POR
--- JOHN c8-v34 - POR
--- JOHN c8-v35 - POR
--- JOHN c8-v36 - POR
--- JOHN c8-v37 - POR
--- JOHN c8-v38 - POR
--- JOHN c8-v39 - POR
--- JOHN c8-v40 - POR
--- JOHN c8-v41 - POR
--- JOHN c8-v42 - POR
--- JOHN c8-v43 - POR
--- JOHN c8-v44 - POR
--- JOHN c8-v45 - POR
--- JOHN c8-v46 - POR
--- JOHN c8-v47 - POR
--- JOHN c8-v48 - POR
--- JOHN c8-v49 - POR
--- JOHN c8-v50 - POR
--- JOHN c8-v51 - POR
--- JOHN c8-v52 - POR
--- JOHN c8-v53 - POR
--- JOHN c8-v54 - POR
--- JOHN c8-v55 - POR
--- JOHN c8-v56 - POR
--- JOHN c8-v57 - POR
--- JOHN c8-v58 - POR
--- JOHN c8-v59 - POR
--- JOHN c9-v1 - POR
--- JOHN c9-v2 - POR
--- JOHN c9-v3 - POR
--- JOHN c9-v4 - POR
--- JOHN c9-v5 - POR
--- JOHN c9-v6 - POR
--- JOHN c9-v7 - POR
--- JOHN c9-v8 - POR
--- JOHN c9-v9 - POR
--- JOHN c9-v10 - POR
--- JOHN c9-v11 - POR
--- JOHN c9-v12 - POR
--- JOHN c9-v13 - POR
--- JOHN c9-v14 - POR
--- JOHN c9-v15 - POR
--- JOHN c9-v16 - POR
--- JOHN c9-v17 - POR
--- JOHN c9-v18 - POR
--- JOHN c9-v19 - POR
--- JOHN c9-v20 - POR
--- JOHN c9-v21 - POR
--- JOHN c9-v22 - POR
--- JOHN c9-v23 - POR
--- JOHN c9-v24 - POR
--- JOHN c9-v25 - POR
--- JOHN c9-v26 - POR
--- JOHN c9-v27 - POR
--- JOHN c9-v28 - POR
--- JOHN c9-v29 - POR
--- JOHN c9-v30 - POR
--- JOHN c9-v31 - POR
--- JOHN c9-v32 - POR
--- JOHN c9-v33 - POR
--- JOHN c9-v34 - POR
--- JOHN c9-v35 - POR
--- JOHN c9-v36 - POR
--- JOHN c9-v37 - POR
--- JOHN c9-v38 - POR
--- JOHN c9-v39 - POR
--- JOHN c9-v40 - POR
--- JOHN c9-v41 - POR
--- JOHN c10-v1 - POR
--- JOHN c10-v2 - POR
--- JOHN c10-v3 - POR
--- JOHN c10-v4 - POR
--- JOHN c10-v5 - POR
--- JOHN c10-v6 - POR
--- JOHN c10-v7 - POR
--- JOHN c10-v8 - POR
--- JOHN c10-v9 - POR
--- JOHN c10-v10 - POR
--- JOHN c10-v11 - POR
--- JOHN c10-v12 - POR
--- JOHN c10-v13 - POR
--- JOHN c10-v14 - POR
--- JOHN c10-v15 - POR
--- JOHN c10-v16 - POR
--- JOHN c10-v17 - POR
--- JOHN c10-v18 - POR
--- JOHN c10-v19 - POR
--- JOHN c10-v20 - POR
--- JOHN c10-v21 - POR
--- JOHN c10-v22 - POR
--- JOHN c10-v23 - POR
--- JOHN c10-v24 - POR
--- JOHN c10-v25 - POR
--- JOHN c10-v26 - POR
--- JOHN c10-v27 - POR
--- JOHN c10-v28 - POR
--- JOHN c10-v29 - POR
--- JOHN c10-v30 - POR
--- JOHN c10-v31 - POR
--- JOHN c10-v32 - POR
--- JOHN c10-v33 - POR
--- JOHN c10-v34 - POR
--- JOHN c10-v35 - POR
--- JOHN c10-v36 - POR
--- JOHN c10-v37 - POR
--- JOHN c10-v38 - POR
--- JOHN c10-v39 - POR
--- JOHN c10-v40 - POR
--- JOHN c10-v41 - POR
--- JOHN c10-v42 - POR
--- JOHN c13-v1 - POR
--- JOHN c13-v2 - POR
--- JOHN c13-v3 - POR
--- JOHN c13-v4 - POR
--- JOHN c13-v5 - POR
--- JOHN c13-v6 - POR
--- JOHN c13-v7 - POR
--- JOHN c13-v8 - POR
--- JOHN c13-v9 - POR
--- JOHN c13-v10 - POR
--- JOHN c13-v11 - POR
--- JOHN c13-v12 - POR
--- JOHN c13-v13 - POR
--- JOHN c13-v14 - POR
--- JOHN c13-v15 - POR
--- JOHN c13-v16 - POR
--- JOHN c13-v17 - POR
--- JOHN c13-v18 - POR
--- JOHN c13-v19 - POR
--- JOHN c13-v20 - POR
--- JOHN c13-v21 - POR
--- JOHN c13-v22 - POR
--- JOHN c13-v23 - POR
--- JOHN c13-v24 - POR
--- JOHN c13-v25 - POR
--- JOHN c13-v26 - POR
--- JOHN c13-v27 - POR
--- JOHN c13-v28 - POR
--- JOHN c13-v29 - POR
--- JOHN c13-v30 - POR
--- JOHN c13-v31 - POR
--- JOHN c13-v32 - POR
--- JOHN c13-v33 - POR
--- JOHN c13-v34 - POR
--- JOHN c13-v35 - POR
--- JOHN c13-v36 - POR
--- JOHN c13-v37 - POR
--- JOHN c13-v38 - POR
--- JOHN c14-v1 - POR
--- JOHN c14-v2 - POR
--- JOHN c14-v3 - POR
--- JOHN c14-v4 - POR
--- JOHN c14-v5 - POR
--- JOHN c14-v6 - POR
--- JOHN c14-v7 - POR
--- JOHN c14-v8 - POR
--- JOHN c14-v9 - POR
--- JOHN c14-v10 - POR
--- JOHN c14-v11 - POR
--- JOHN c14-v12 - POR
--- JOHN c14-v13 - POR
--- JOHN c14-v14 - POR
--- JOHN c14-v15 - POR
--- JOHN c14-v16 - POR
--- JOHN c14-v17 - POR
--- JOHN c14-v18 - POR
--- JOHN c14-v19 - POR
--- JOHN c14-v20 - POR
--- JOHN c14-v21 - POR
--- JOHN c14-v22 - POR
--- JOHN c14-v23 - POR
--- JOHN c14-v24 - POR
--- JOHN c14-v25 - POR
--- JOHN c14-v26 - POR
--- JOHN c14-v27 - POR
--- JOHN c14-v28 - POR
--- JOHN c14-v29 - POR
--- JOHN c14-v30 - POR
--- JOHN c14-v31 - POR
--- JOHN c15-v1 - POR
--- JOHN c15-v2 - POR
--- JOHN c15-v3 - POR
--- JOHN c15-v4 - POR
--- JOHN c15-v5 - POR
--- JOHN c15-v6 - POR
--- JOHN c15-v7 - POR
--- JOHN c15-v8 - POR
--- JOHN c15-v9 - POR
--- JOHN c15-v10 - POR
--- JOHN c15-v11 - POR
--- JOHN c15-v12 - POR
--- JOHN c15-v13 - POR
--- JOHN c15-v14 - POR
--- JOHN c15-v15 - POR
--- JOHN c15-v16 - POR
--- JOHN c15-v17 - POR
--- JOHN c15-v18 - POR
--- JOHN c15-v19 - POR
--- JOHN c15-v20 - POR
--- JOHN c15-v21 - POR
--- JOHN c15-v22 - POR
--- JOHN c15-v23 - POR
--- JOHN c15-v24 - POR
--- JOHN c15-v25 - POR
--- JOHN c15-v26 - POR
--- JOHN c15-v27 - POR
--- JOHN c16-v1 - POR
--- JOHN c16-v2 - POR
--- JOHN c16-v3 - POR
--- JOHN c16-v4 - POR
--- JOHN c16-v5 - POR
--- JOHN c16-v6 - POR
--- JOHN c16-v7 - POR
--- JOHN c16-v8 - POR
--- JOHN c16-v9 - POR
--- JOHN c16-v10 - POR
--- JOHN c16-v11 - POR
--- JOHN c16-v12 - POR
--- JOHN c16-v13 - POR
--- JOHN c16-v14 - POR
--- JOHN c16-v15 - POR
--- JOHN c16-v16 - POR
--- JOHN c16-v17 - POR
--- JOHN c16-v18 - POR
--- JOHN c16-v19 - POR
--- JOHN c16-v20 - POR
--- JOHN c16-v21 - POR
--- JOHN c16-v22 - POR
--- JOHN c16-v23 - POR
--- JOHN c16-v24 - POR
--- JOHN c16-v25 - POR
--- JOHN c16-v26 - POR
--- JOHN c16-v27 - POR
--- JOHN c16-v28 - POR
--- JOHN c16-v29 - POR
--- JOHN c16-v30 - POR
--- JOHN c16-v31 - POR
--- JOHN c16-v32 - POR
--- JOHN c16-v33 - POR
--- JOHN c17-v1 - POR
--- JOHN c17-v2 - POR
--- JOHN c17-v3 - POR
--- JOHN c17-v4 - POR
--- JOHN c17-v5 - POR
--- JOHN c17-v6 - POR
--- JOHN c17-v7 - POR
--- JOHN c17-v8 - POR
--- JOHN c17-v9 - POR
--- JOHN c17-v10 - POR
--- JOHN c17-v11 - POR
--- JOHN c17-v12 - POR
--- JOHN c17-v13 - POR
--- JOHN c17-v14 - POR
--- JOHN c17-v15 - POR
--- JOHN c17-v16 - POR
--- JOHN c17-v17 - POR
--- JOHN c17-v18 - POR
--- JOHN c17-v19 - POR
--- JOHN c17-v20 - POR
--- JOHN c17-v21 - POR
--- JOHN c17-v22 - POR
--- JOHN c17-v23 - POR
--- JOHN c17-v24 - POR
--- JOHN c17-v25 - POR
--- JOHN c17-v26 - POR
--- JOHN c18-v1 - POR
--- JOHN c18-v2 - POR
--- JOHN c18-v3 - POR
--- JOHN c18-v4 - POR
--- JOHN c18-v5 - POR
--- JOHN c18-v6 - POR
--- JOHN c18-v7 - POR
--- JOHN c18-v8 - POR
--- JOHN c18-v9 - POR
--- JOHN c18-v10 - POR
--- JOHN c18-v11 - POR
--- JOHN c18-v12 - POR
--- JOHN c18-v13 - POR
--- JOHN c18-v14 - POR
--- JOHN c18-v15 - POR
--- JOHN c18-v16 - POR
--- JOHN c18-v17 - POR
--- JOHN c18-v18 - POR
--- JOHN c18-v19 - POR
--- JOHN c18-v20 - POR
--- JOHN c18-v21 - POR
--- JOHN c18-v22 - POR
--- JOHN c18-v23 - POR
--- JOHN c18-v24 - POR
--- JOHN c18-v25 - POR
--- JOHN c18-v26 - POR
--- JOHN c18-v27 - POR
--- JOHN c18-v28 - POR
--- JOHN c18-v29 - POR
--- JOHN c18-v30 - POR
--- JOHN c18-v31 - POR
--- JOHN c18-v32 - POR
--- JOHN c18-v33 - POR
--- JOHN c18-v34 - POR
--- JOHN c18-v35 - POR
--- JOHN c18-v36 - POR
--- JOHN c18-v37 - POR
--- JOHN c18-v38 - POR
--- JOHN c18-v39 - POR
--- JOHN c18-v40 - POR
--- JOHN c19-v1 - POR
--- JOHN c19-v2 - POR
--- JOHN c19-v3 - POR
--- JOHN c19-v4 - POR
--- JOHN c19-v5 - POR
--- JOHN c19-v6 - POR
--- JOHN c19-v7 - POR
--- JOHN c19-v8 - POR
--- JOHN c19-v9 - POR
--- JOHN c19-v10 - POR
--- JOHN c19-v11 - POR
--- JOHN c19-v12 - POR
--- JOHN c19-v13 - POR
--- JOHN c19-v14 - POR
--- JOHN c19-v15 - POR
--- JOHN c19-v16 - POR
--- JOHN c19-v17 - POR
--- JOHN c19-v18 - POR
--- JOHN c19-v19 - POR
--- JOHN c19-v20 - POR
--- JOHN c19-v21 - POR
--- JOHN c19-v22 - POR
--- JOHN c19-v23 - POR
--- JOHN c19-v24 - POR
--- JOHN c19-v25 - POR
--- JOHN c19-v26 - POR
--- JOHN c19-v27 - POR
--- JOHN c19-v28 - POR
--- JOHN c19-v29 - POR
--- JOHN c19-v30 - POR
--- JOHN c19-v31 - POR
--- JOHN c19-v32 - POR
--- JOHN c19-v33 - POR
--- JOHN c19-v34 - POR
--- JOHN c19-v35 - POR
--- JOHN c19-v36 - POR
--- JOHN c19-v37 - POR
--- JOHN c19-v38 - POR
--- JOHN c19-v39 - POR
--- JOHN c19-v40 - POR
--- JOHN c19-v41 - POR
--- JOHN c19-v42 - POR
--- JOHN c20-v1 - POR
--- JOHN c20-v2 - POR
--- JOHN c20-v3 - POR
--- JOHN c20-v4 - POR
--- JOHN c20-v5 - POR
--- JOHN c20-v6 - POR
--- JOHN c20-v7 - POR
--- JOHN c20-v8 - POR
--- JOHN c20-v9 - POR
--- JOHN c20-v10 - POR
--- JOHN c20-v11 - POR
--- JOHN c20-v12 - POR
--- JOHN c20-v13 - POR
--- JOHN c20-v14 - POR
--- JOHN c20-v15 - POR
--- JOHN c20-v16 - POR
--- JOHN c20-v17 - POR
--- JOHN c20-v18 - POR
--- JOHN c20-v19 - POR
--- JOHN c20-v20 - POR
--- JOHN c20-v21 - POR
--- JOHN c20-v22 - POR
--- JOHN c20-v23 - POR
--- JOHN c20-v24 - POR
--- JOHN c20-v25 - POR
--- JOHN c20-v26 - POR
--- JOHN c20-v27 - POR
--- JOHN c20-v28 - POR
--- JOHN c20-v29 - POR
--- JOHN c20-v30 - POR
--- JOHN c20-v31 - POR
--- JOHN c21-v1 - POR
--- JOHN c21-v2 - POR
--- JOHN c21-v3 - POR
--- JOHN c21-v4 - POR
--- JOHN c21-v5 - POR
--- JOHN c21-v6 - POR
--- JOHN c21-v7 - POR
--- JOHN c21-v8 - POR
--- JOHN c21-v9 - POR
--- JOHN c21-v10 - POR
--- JOHN c21-v11 - POR
--- JOHN c21-v12 - POR
--- JOHN c21-v13 - POR
--- JOHN c21-v14 - POR
--- JOHN c21-v15 - POR
--- JOHN c21-v16 - POR
--- JOHN c21-v17 - POR
--- JOHN c21-v18 - POR
--- JOHN c21-v19 - POR
--- JOHN c21-v20 - POR
--- JOHN c21-v21 - POR
--- JOHN c21-v22 - POR
--- JOHN c21-v23 - POR
--- JOHN c21-v24 - POR
--- JOHN c21-v25 - POR
+-- c1-v1: No princípio era o Verbo, e o Verbo era com –o Deus, e Deus era o Verbo.
+-- c1-v2: Este era no princípio com –o Deus.
+-- c1-v3: Todas–as–coisas por–meio–de ele foram–feitas, e sem ele foi–feito nem uma–só–coisa que foi–feita.
+-- c1-v4: Nele vida vida havia, e a vida era a luz dos homens.
+-- c1-v5: E a luz nas –a trevas brilha, e as trevas a–ela não venceram.
+-- c1-v6: Surgiu homem enviado da–parte–de Deus, nome dele João.
+-- c1-v7: Este veio para testemunho, a–fim–de–que testemunhasse acerca da luz, a–fim–de–que todos cressem por–meio–de ele.
+-- c1-v8: Não era ele a luz, mas a–fim–de–que testemunhasse acerca da luz.
+-- c1-v9: Era a luz –a verdadeira, que ilumina todo homem, vindo ao –o mundo.
+-- c1-v10: No –o mundo estava, e o mundo por–meio–de ele foi–feito, e o mundo a–ele não conheceu.
+-- c1-v11: Ao –o próprio veio, e os seus a–ele não receberam.
+-- c1-v12: Quantos porém receberam a–ele, deu a–eles autoridade, filhos de–Deus tornarem–se, aos que–creem no –o nome dele,
+-- c1-v13: os–quais não de sangues, nem de vontade de–carne, nem de vontade de–varão, mas de Deus nasceram.
+-- c1-v14: E o Verbo carne tornou–se, e habitou entre nós, e contemplamos a glória dele, glória como de–unigênito da–parte–do Pai, cheio de–graça e de–verdade.
+-- c1-v15: João testemunha acerca dele, e clamou, dizendo, Este era de–quem eu–disse, O após mim que–vem, antes de–mim veio–a–ser, porque primeiro de–mim era.
+-- c1-v16: Porque da –a plenitude dele, nós todos recebemos e graça sobre graça.
+-- c1-v17: Porque a lei por–meio–de Moisés foi–dada; a graça e a verdade por–meio–de Jesus Cristo vieram.
+-- c1-v18: A–Deus ninguém viu jamais; unigênito Deus, o que–está no –o seio do Pai, aquele revelou.
+-- c1-v19: E este é o testemunho –de João, quando enviaram a ele os judeus de Jerusalém, sacerdotes e levitas, a–fim–de–que perguntassem a–ele, Tu quem és?
+-- c1-v20: E confessou e não negou, e confessou, – Eu não sou o Cristo.
+-- c1-v21: E perguntaram a–ele, Que pois? Tu Elias és? E diz, Não sou. O profeta és tu? E respondeu, Não.
+-- c1-v22: Disseram pois a–ele, Quem és? A–fim–de–que resposta demos aos que–enviaram nos: que dizes acerca de–ti–mesmo?
+-- c1-v23: Disse, Eu voz do–que–clama no –o deserto, Endireitai o caminho do–Senhor, conforme disse Isaías o profeta.
+-- c1-v24: E enviados eram dentre os fariseus.
+-- c1-v25: E perguntaram a–ele e disseram a–ele, Por–que pois batizas, se tu não és o Cristo, nem Elias, nem o profeta?
+-- c1-v26: Respondeu a–eles –o João dizendo, Eu batizo em água; no–meio de–vós está quem vós não conheceis,
+-- c1-v27: o após mim que–vem, de–quem não sou eu digno, a–fim–de–que desate dele a correia da sandália.
+-- c1-v28: Estas–coisas em Betânia aconteceram, além do Jordão, onde estava –o João batizando.
+-- c1-v29: No dia–seguinte vê –a Jesus vindo a ele, e diz, Eis o Cordeiro –de Deus, o que–tira o pecado do mundo.
+-- c1-v30: Este é sobre quem eu disse, Após mim vem varão, que antes de–mim veio–a–ser, porque primeiro de–mim era.
+-- c1-v31: E–eu não conhecia a–ele; mas a–fim–de–que fosse–manifestado a–o Israel, por–causa–de isto, vim eu em água batizando.
+-- c1-v32: E testemunhou João dizendo, – Contemplei o Espírito, descendo como pomba do céu, e permaneceu sobre ele.
+-- c1-v33: E–eu não conhecia a–ele; mas o que–enviou me batizar em água, aquele a–mim disse, Sobre quem – vires o Espírito descendo e permanecendo sobre ele, este é o que–batiza em Espírito Santo.
+-- c1-v34: E–eu vi, e testemunhei que este é o Filho –de Deus.
+-- c1-v35: No dia–seguinte de–novo estava –o João, e dentre os discípulos dele dois.
+-- c1-v36: E olhando–fixamente para–a Jesus andando, diz, Eis o Cordeiro –de Deus!
+-- c1-v37: E ouviram os dois discípulos dele falando, e seguiram –a Jesus.
+-- c1-v38: Voltando–se porém –o Jesus, e vendo a–eles seguindo, diz a–eles, Que buscais? –Os porém disseram a–ele, Rabi– que é–dito sendo–traduzido, Mestre– onde moras?
+-- c1-v39: Diz a–eles, Vinde e vereis. Foram pois e viram onde mora; e com ele permaneceram –o dia aquele. Hora era como décima.
+-- c1-v40: Era André, o irmão de–Simão Pedro, um dos –os dois –os que–ouviram de João, e que–seguiram a–ele.
+-- c1-v41: Encontra este primeiro o irmão –o próprio Simão, e diz a–ele, Encontramos o Messias, que é sendo–traduzido Cristo.
+-- c1-v42: Levou a–ele a –o Jesus. Olhando–fixamente para–ele, –o Jesus disse, Tu és Simão o filho de–João; tu serás–chamado Cefas, que é–traduzido Pedro.
+-- c1-v43: No dia–seguinte quis sair para a Galileia, e encontra Filipe. E diz a–ele –o Jesus, Segue me.
+-- c1-v44: Era porém –o Filipe de Betsaida, da –a cidade de–André e Pedro.
+-- c1-v45: Encontra Filipe –a Natanael, e diz a–ele, De–quem escreveu Moisés na –a lei e os profetas, encontramos, Jesus filho –de José, –o de Nazaré.
+-- c1-v46: E disse a–ele Natanael, De Nazaré pode algo bom haver? Diz a–ele –o Filipe, Vem e vê.
+-- c1-v47: Viu –o Jesus –a Natanael vindo a ele, e diz acerca dele, Eis verdadeiramente israelita, em quem engano não há.
+-- c1-v48: Diz a–ele Natanael, De–onde me conheces? Respondeu Jesus e disse a–ele, Antes –de te Filipe chamar, estando debaixo da figueira, vi te.
+-- c1-v49: Respondeu a–ele Natanael, Rabi, tu és o Filho –de Deus, tu Rei és –de Israel.
+-- c1-v50: Respondeu Jesus e disse a–ele, Porque te–disse a–ti, que vi te debaixo da figueira, crês? Maiores–coisas do–que–estas verás.
+-- c1-v51: E diz a–ele, Em–verdade em–verdade digo a–vós, vereis o céu aberto, e os anjos –de Deus subindo e descendo sobre o Filho –do homem.
+-- c2-v1: E no dia –o terceiro bodas houve em Caná da Galileia, e estava a mãe –de Jesus ali.
+-- c2-v2: Foi–chamado porém também –o Jesus, e os discípulos dele, para –as bodas.
+-- c2-v3: E faltando vinho, diz a mãe –de Jesus a ele, Vinho não têm.
+-- c2-v4: E diz a–ela –o Jesus, Que a–mim e a–ti, mulher? Ainda–não chegou a hora minha.
+-- c2-v5: Diz a mãe dele aos servos, O–que – – disser a–vós, fazei.
+-- c2-v6: Estavam porém ali de–pedra, talhas seis, segundo a purificação dos judeus, postas, contendo cada–uma metretas duas ou três.
+-- c2-v7: Diz a–eles –o Jesus, Enchei as talhas de–água. E encheram a–elas até em–cima.
+-- c2-v8: E diz a–eles, Tirai agora e levai ao mestre–sala. –Os porém levaram.
+-- c2-v9: Quando porém provou o mestre–sala, a água vinho tornada, e não sabia de–onde é, –os porém servos sabiam os que–tiraram a água, chama o noivo o mestre–sala,
+-- c2-v10: e diz a–ele, Todo homem primeiro o bom vinho põe, e quando se–embriagarem, o inferior; tu guardaste o bom vinho até agora.
+-- c2-v11: Este fez princípio dos sinais, –o Jesus em Caná da Galileia, e manifestou a glória dele; e creram nele –a–ele os discípulos dele.
+-- c2-v12: Depois disto desceu para Cafarnaum, ele e a mãe dele e os irmãos [dele], e os discípulos dele, e ali permaneceram não muitos dias.
+-- c2-v13: E perto estava a páscoa dos judeus, e subiu para Jerusalém –o Jesus.
+-- c2-v14: E encontrou no –o templo os que–vendiam bois e ovelhas e pombas, e os cambistas sentados.
+-- c2-v15: E tendo–feito açoite de cordas, todos expulsou do –o templo, –as – ovelhas e os bois; e dos cambistas derramou as moedas, e as mesas virou.
+-- c2-v16: E aos –as pombas que–vendiam disse, Tirai estas–coisas daqui; não façais a casa do Pai meu casa de–comércio.
+-- c2-v17: Lembraram os discípulos dele que escrito está, O zelo da casa tua devorará me.
+-- c2-v18: Responderam pois os judeus e disseram a–ele, Que sinal mostras a–nós, que estas–coisas fazes?
+-- c2-v19: Respondeu Jesus e disse a–eles, Destruí este santuário, este, e em três dias levantarei a–ele.
+-- c2-v20: Disseram pois os judeus, Quarenta e seis anos, foi–edificado este santuário este, e tu em três dias levantarás a–ele?
+-- c2-v21: Aquele porém dizia acerca do santuário do corpo dele.
+-- c2-v22: Quando pois ressuscitou dos mortos, lembraram os discípulos dele que isto dizia, e creram na escritura e na palavra que disse –o Jesus.
+-- c2-v23: Quando porém estava em –a Jerusalém na –a páscoa, na –a festa, muitos creram no –o nome dele, vendo dele os sinais que fazia.
+-- c2-v24: Ele–mesmo porém Jesus não confiava a–si–mesmo a–eles, por–causa –do ele conhecer a–todos.
+-- c2-v25: E porque não necessidade tinha de–que alguém testemunhasse acerca do homem, ele–mesmo pois conhecia o–que havia no –o homem.
+-- c3-v1: Havia porém homem dos –os fariseus, Nicodemos nome dele, governante dos judeus;
+-- c3-v2: este veio a ele de–noite, e disse a–ele, Rabi, sabemos que de Deus vieste, mestre; ninguém pois pode estes –os sinais fazer, que tu fazes, se não for –o Deus com ele.
+-- c3-v3: Respondeu Jesus e disse a–ele, Em–verdade, em–verdade digo a–ti, se não alguém nascer de–cima, não pode ver o reino –de Deus.
+-- c3-v4: Diz a ele –o Nicodemos, Como pode homem nascer, velho sendo? Por–acaso pode no –o ventre da mãe dele segunda–vez entrar, e nascer?
+-- c3-v5: Respondeu (–o) Jesus, Em–verdade em–verdade digo a–ti, se não alguém nascer de água e Espírito, não pode entrar no –o reino –de Deus.
+-- c3-v6: O nascido da –a carne, carne é; e o nascido do –o Espírito, espírito é.
+-- c3-v7: Não te–admires que te–disse a–ti, É–necessário vós nascer de–cima.
+-- c3-v8: O vento onde quer sopra, e a voz dele ouves, mas não sabes de–onde vem, e para–onde vai; assim é todo o nascido do –o Espírito.
+-- c3-v9: Respondeu Nicodemos e disse a–ele, Como podem estas–coisas acontecer?
+-- c3-v10: Respondeu Jesus e disse a–ele, Tu és o mestre –de Israel, e estas–coisas não conheces?
+-- c3-v11: Em–verdade em–verdade digo a–ti, que o–que sabemos falamos, e o–que vimos testemunhamos; e o testemunho nosso não recebeis.
+-- c3-v12: Se as–coisas terrenas vos–disse a–vós, e não credes, como se vos–disser a–vós as–coisas celestiais, crereis?
+-- c3-v13: E ninguém subiu ao –o céu, senão – o do –o céu que–desceu, o Filho –do homem, <o que–está no –o céu>.
+-- c3-v14: E assim–como Moisés levantou a serpente no –o deserto, assim ser–levantado é–necessário o Filho –do homem,
+-- c3-v15: a–fim–de–que todo o que–crê nele –a–ele tenha vida eterna.
+-- c3-v16: Porque assim amou –o Deus o mundo, que o Filho, –o unigênito, deu, a–fim–de–que todo o que–crê nele –a–ele, não pereça, mas tenha vida eterna.
+-- c3-v17: Não pois enviou –o Deus o Filho ao –o mundo, a–fim–de–que julgue o mundo, mas a–fim–de–que seja–salvo o mundo por–meio–de ele.
+-- c3-v18: O que–crê nele –a–ele não é–julgado; o <porém> não que–crê, já foi–julgado, porque não creu no –o nome do unigênito Filho –de Deus.
+-- c3-v19: Este porém é o juízo, que a luz veio ao –o mundo, e amaram os homens mais as trevas, do–que a luz; eram pois deles más as obras.
+-- c3-v20: Todo pois o más–coisas que–pratica, odeia a luz, e não vem para a luz, a–fim–de–que não sejam–expostas as obras dele;
+-- c3-v21: o porém que–pratica a verdade, vem para a luz, a–fim–de–que sejam–manifestadas dele as obras, que em Deus foram praticadas.
+-- c3-v22: Depois destas–coisas veio –o Jesus, e os discípulos dele, para a Judeia terra; e ali permanecia com eles, e batizava.
+-- c3-v23: Estava porém também <o> João batizando em Enom, perto –de Salim, porque águas muitas havia ali; e vinham e eram–batizados.
+-- c3-v24: Ainda–não pois havia sido–lançado na –a prisão <o> João.
+-- c3-v25: Surgiu pois discussão dos –os discípulos de–João, com judeu, acerca de–purificação.
+-- c3-v26: E vieram a –o João e disseram a–ele, Rabi, aquele–que estava contigo –de–ti além do Jordão, a–quem tu testemunhaste, eis este batiza, e todos vêm a ele.
+-- c3-v27: Respondeu João e disse, Não pode homem receber, nem <uma–coisa> se não for dado a–ele do –o céu.
+-- c3-v28: Vós–mesmos vós a–mim testemunhais, que disse [–] Não sou eu o Cristo, mas que Enviado sou diante daquele.
+-- c3-v29: O que–tem a noiva, noivo é; o porém amigo do noivo, o que–está e ouvindo a–ele, de–alegria alegra–se por–causa–de a voz do noivo, esta pois, –a alegria –a minha, foi–cumprida.
+-- c3-v30: A–ele é–necessário crescer, a–mim porém diminuir.
+-- c3-v31: O de–cima que–vem, acima de–todos está. O que–é da –a terra, da –a terra é, e da –a terra fala. O do –o céu que–vem, acima de–todos está.
+-- c3-v32: O–que viu e ouviu, isto testemunha; e o testemunho dele, ninguém recebe.
+-- c3-v33: O que–recebeu dele o testemunho, selou, que –o Deus verdadeiro é;
+-- c3-v34: quem pois enviou –o Deus, as palavras –de Deus fala; não pois por medida, dá o Espírito.
+-- c3-v35: O Pai ama o Filho, e todas–as–coisas deu na –a mão dele.
+-- c3-v36: O que–crê no –o Filho tem vida eterna; o porém que–desobedece ao Filho, não verá vida, mas a ira –de Deus permanece sobre ele.
+-- c4-v1: Quando pois soube –o Jesus, que ouviram os fariseus, que Jesus mais discípulos faz e batiza do–que João,
+-- c4-v2: embora Jesus ele–mesmo não batizava, mas os discípulos dele,
+-- c4-v3: deixou a Judeia, e partiu de–novo para a Galileia.
+-- c4-v4: Era–necessário porém a–ele passar pela –a Samaria.
+-- c4-v5: Chega pois a cidade da Samaria chamada Sicar, perto do campo que deu Jacó <a–o> José, ao filho dele.
+-- c4-v6: Estava porém ali, fonte –de Jacó; –o pois Jesus, cansado da –a viagem, sentou–se assim junto –à fonte. Hora era como sexta.
+-- c4-v7: Vem mulher da –a Samaria tirar água. Diz a–ela –o Jesus, Dá me de–beber;
+-- c4-v8: –os pois discípulos dele tinham–ido para a cidade, a–fim–de–que alimentos comprassem.
+-- c4-v9: Diz pois a–ele a mulher –a samaritana, Como tu judeu sendo, de mim de–beber pedes, mulher samaritana sendo? Não pois tratam–com judeus samaritanos.
+-- c4-v10: Respondeu Jesus e disse a–ela, Se conhecesses o dom –de Deus, e quem é o que–diz a–ti, Dá me de–beber, tu – terias–pedido a–ele, e teria–dado – a–ti água viva.
+-- c4-v11: Diz a–ele <a mulher>, Senhor, nem balde tens, e o poço é fundo; de–onde pois tens a água –a viva?
+-- c4-v12: Por–acaso tu maior és do–que–o pai nosso Jacó, que nos–deu a–nós o poço, e ele–mesmo dele –dele bebeu, e os filhos dele, e os rebanhos dele?
+-- c4-v13: Respondeu Jesus e disse a–ela, Todo o que–bebe desta –a água, desta, terá–sede de–novo;
+-- c4-v14: quem porém – beber da –a água que eu darei a–ele, não de–modo–algum terá–sede, para –a eternidade. Mas a água que darei a–ele tornar–se–á nele –a–ele fonte de–água, jorrando para vida eterna.
+-- c4-v15: Diz a ele a mulher, Senhor, dá me esta –a água, a–fim–de–que não tenha–sede, nem venha aqui tirar.
+-- c4-v16: Diz a–ela Vai, chama o marido, teu e vem aqui.
+-- c4-v17: Respondeu a mulher e disse <a–ele>, Não tenho marido. Diz a–ela –o Jesus, Bem disseste que, Marido não tenho;
+-- c4-v18: cinco pois maridos tiveste, e agora o–que tens, não é teu marido; isto verdade disseste.
+-- c4-v19: Diz a–ele a mulher, Senhor, vejo que profeta és tu.
+-- c4-v20: Os pais nossos neste –o monte este adoraram, e vós dizeis que em Jerusalém está o lugar onde adorar é–necessário.
+-- c4-v21: Diz a–ela –o Jesus, Crê me, mulher, que vem hora, quando nem neste –o monte este, nem em Jerusalém, adorareis ao Pai.
+-- c4-v22: Vós adorais o–que não conheceis; nós adoramos o–que conhecemos; porque a salvação dos –os judeus é.
+-- c4-v23: Mas vem hora e agora é, quando os verdadeiros adoradores adorarão ao Pai em espírito e verdade; e de–fato o Pai tais busca, os que–adoram a–ele.
+-- c4-v24: Espírito –o Deus, e os que–adoram <a–ele>, em espírito e verdade é–necessário adorar.
+-- c4-v25: Diz a–ele a mulher, Sei que Messias vem, o chamado Cristo; quando vier aquele, anunciará a–nós todas–as–coisas.
+-- c4-v26: Diz a–ela –o Jesus, Eu sou, o que–fala contigo.
+-- c4-v27: E nisto –isto vieram os discípulos dele, e admiravam–se que com mulher falava; ninguém contudo disse, Que buscas? Ou que falas com ela?
+-- c4-v28: Deixou pois o cântaro dela a mulher, e foi para a cidade, e diz aos homens,
+-- c4-v29: Vinde, vede homem que me–disse a–mim todas–as–coisas quantas fiz; por–acaso este é o Cristo?
+-- c4-v30: Saíram da –a cidade, e vinham a ele.
+-- c4-v31: No –o entremeio pediam a–ele os discípulos, dizendo, Rabi, come.
+-- c4-v32: –O porém disse a–eles, Eu alimento tenho para–comer, que vós não conheceis.
+-- c4-v33: Diziam pois os discípulos a uns–aos–outros, Por–acaso alguém trouxe a–ele para–comer?
+-- c4-v34: Diz a–eles –o Jesus, Meu alimento é que faça a vontade do que–enviou me, e complete dele a obra.
+-- c4-v35: Não vós dizeis, que Ainda quatro–meses é e a ceifa vem? Eis, digo a–vós, levantai os olhos vossos, e vede os campos, que brancos estão para ceifa já.
+-- c4-v36: O que–ceifa salário, recebe e ajunta fruto para vida eterna, a–fim–de–que o que–semeia juntamente alegre–se, e o que–ceifa.
+-- c4-v37: Nisso pois –isto o dito é verdadeiro, que outro é o que–semeia, e outro o que–ceifa.
+-- c4-v38: Eu enviei vós ceifar o–que não vós trabalhaste; outros trabalharam, e vós no –o trabalho deles entrastes.
+-- c4-v39: Daquela porém –a cidade, daquela, muitos creram nele –a–ele dos samaritanos, por–causa da palavra da mulher que–testemunhava –, Disse me todas–as–coisas que fiz.
+-- c4-v40: Quando pois vieram a ele os samaritanos, pediam a–ele ficar com eles, e ficou ali dois dias.
+-- c4-v41: E muito mais creram, por–causa da palavra dele;
+-- c4-v42: à – mulher diziam, – Já–não por–causa da tua fala cremos; nós–mesmos pois ouvimos, e sabemos que este é verdadeiramente o Salvador do mundo,
+-- c4-v43: Depois porém –os dois dias, saiu dali, para a Galileia;
+-- c4-v44: ele–mesmo pois Jesus testemunhou, que profeta na –a própria pátria, honra não tem.
+-- c4-v45: Quando pois veio para a Galileia, receberam a–ele os galileus, todas–as–coisas tendo–visto quantas fez em Jerusalém, na –a festa; e eles–mesmos pois foram para a festa.
+-- c4-v46: Veio pois de–novo para –a Caná da Galileia, onde fez a água vinho. E havia certo oficial–real, de–quem o filho estava–doente em Cafarnaum.
+-- c4-v47: Este tendo–ouvido que Jesus vinha da –a Judeia para a Galileia, foi a ele, e pedia que descesse, e curasse dele o filho; estava pois para–morrer.
+-- c4-v48: Disse pois –o Jesus a ele, Se não sinais e prodígios virdes, não de–modo–algum crereis.
+-- c4-v49: Diz a ele o oficial–real, Senhor, desce antes de–morrer o filhinho meu.
+-- c4-v50: Diz a–ele –o Jesus, Vai, o filho teu vive. Creu o homem na palavra que disse a–ele –o Jesus, e foi.
+-- c4-v51: Já porém dele descendo, os servos <dele> encontraram a–ele, dizendo, que o menino dele vive.
+-- c4-v52: Perguntou pois a hora deles, –deles, em que melhor teve. Disseram pois a–ele –, Ontem hora sétima, deixou a–ele a febre.
+-- c4-v53: Conheceu pois o pai que [naquela] naquela –a hora em que disse a–ele –o Jesus, O filho teu vive. E creu ele–mesmo, e a casa dele toda.
+-- c4-v54: Este porém de–novo segundo sinal fez –o Jesus, tendo–vindo da –a Judeia para a Galileia.
+-- c7-v1: E após estas–coisas andava o Jesus na a Galileia não pois queria na a Judeia andar porque buscavam –o os judeus matar
+-- c7-v2: estava porém perto a festa dos judeus a dos–tabernáculos
+-- c7-v3: disseram então para ele os irmãos dele Parte daqui e vai para a Judeia para–que também os discípulos teus vejam as obras tuas que fazes
+-- c7-v4: ninguém pois algo em oculto faz e busca ele–mesmo em franqueza ser Se estas–coisas fazes manifesta a–ti–mesmo ao mundo
+-- c7-v5: nem pois os irmãos dele criam nele nele
+-- c7-v6: diz então a–eles o Jesus O tempo o meu ainda–não chegou o porém tempo o vosso sempre está pronto
+-- c7-v7: não pode o mundo odiar vos a–mim porém odeia porque eu testemunho acerca dele que as obras dele más são
+-- c7-v8: Vós subi para a festa eu não subo para a festa esta porque o meu tempo ainda–não se–cumpriu
+-- c7-v9: estas–coisas porém tendo–dito ele–mesmo permaneceu na a Galileia
+-- c7-v10: Quando porém subiram os irmãos dele para a festa então também ele–mesmo subiu não abertamente mas como em oculto
+-- c7-v11: os então judeus buscavam –o na a festa e diziam Onde está aquele
+-- c7-v12: e murmuração acerca dele havia muita entre as multidões uns de–um–lado diziam que Bom é outros porém diziam Não mas engana a multidão
+-- c7-v13: ninguém porém abertamente falava acerca dele por–causa do medo dos judeus
+-- c7-v14: Já porém da festa no–meio subiu Jesus para o templo e ensinava
+-- c7-v15: maravilhavam–se então os judeus dizendo Como este letras sabe não tendo–aprendido
+-- c7-v16: respondeu então a–eles o Jesus e disse A minha doutrina não é minha mas do que–enviou me
+-- c7-v17: se alguém quiser a vontade dele fazer conhecerá acerca da doutrina se de o Deus é ou eu de mim–mesmo falo
+-- c7-v18: o de si–mesmo que–fala a glória a própria busca o porém que–busca a glória do que–enviou –o este verdadeiro é e injustiça nele nele não há
+-- c7-v19: não Moisés deu a–vós a Lei e ninguém de vós cumpre a Lei Por–que me buscais matar
+-- c7-v20: respondeu a multidão Demônio tens quem te busca matar
+-- c7-v21: respondeu Jesus e disse a–eles Uma obra fiz e todos vos–maravilhais
+-- c7-v22: por isso Moisés deu a–vós a circuncisão não que de o Moisés seja mas dos os pais e no sábado circuncidais homem
+-- c7-v23: se circuncisão recebe o homem em sábado para–que não seja–quebrada a Lei de–Moisés contra–mim vos–irais porque todo homem são fiz no sábado
+-- c7-v24: não julgueis segundo aparência mas o justo juízo julgai
+-- c7-v25: Diziam então alguns dos os de–Jerusalém Não este é a–quem buscam matar
+-- c7-v26: e eis abertamente fala e nada a–ele dizem Será que verdadeiramente conheceram os governantes que este é o Cristo
+-- c7-v27: mas este sabemos de–onde é o porém Cristo quando vier ninguém conhece de–onde é
+-- c7-v28: clamou então no o templo ensinando o Jesus e dizendo E–a–mim conheceis e sabeis de–onde sou e de mim–mesmo não vim mas é verdadeiro o que–enviou me a–quem vós não conheceis
+-- c7-v29: eu conheço –o porque da–parte dele sou e–aquele me enviou
+-- c7-v30: Buscavam então –o prender e ninguém lançou sobre ele a mão porque ainda–não tinha–chegado a hora dele
+-- c7-v31: Da a multidão porém muitos creram nele nele e diziam O Cristo quando vier porventura mais sinais fará dos–que este fez
+-- c7-v32: Ouviram os fariseus a multidão murmurando acerca dele estas–coisas e enviaram os principais–sacerdotes e os fariseus guardas para–que prendessem –o
+-- c7-v33: disse então o Jesus Ainda tempo pequeno convosco convosco estou e vou para o que–enviou me
+-- c7-v34: buscar–me–eis me e não me–achareis me e onde estou eu vós não podeis ir
+-- c7-v35: disseram então os judeus entre si Para–onde este está–para ir que nós não o–acharemos –o Porventura para a Dispersão dos gregos está–para ir e ensinar os gregos
+-- c7-v36: qual é a palavra esta que disse Buscar–me–eis me e não me–achareis me e onde estou eu vós não podeis ir
+-- c7-v37: No porém o último dia o grande da festa estava–de–pé o Jesus e clamou dizendo Se alguém tem–sede venha a mim e beba
+-- c7-v38: o que–crê em mim como disse a Escritura rios de o ventre dele fluirão de–água viva
+-- c7-v39: isto porém disse acerca do Espírito que estavam–para receber os que–creram nele nele ainda–não pois havia Espírito porque Jesus ainda–não fora–glorificado
+-- c7-v40: Da a multidão então tendo–ouvido as palavras estas diziam que Este é verdadeiramente o profeta
+-- c7-v41: outros diziam Este é o Cristo outros porém diziam Porventura pois da a Galileia o Cristo vem
+-- c7-v42: não a Escritura disse que da a semente de–Davi e de Belém da aldeia onde estava Davi vem o Cristo
+-- c7-v43: divisão então houve na a multidão por–causa dele
+-- c7-v44: alguns porém queriam de eles prender –o mas ninguém lançou sobre ele as mãos
+-- c7-v45: Foram então os guardas aos os principais–sacerdotes e fariseus e disseram a–eles aqueles Por que não o–trouxestes –o
+-- c7-v46: responderam os guardas Nunca falou assim homem como este fala o homem
+-- c7-v47: responderam então a–eles os fariseus Porventura também vós fostes–enganados
+-- c7-v48: porventura alguém dos os governantes creu nele nele ou dos os fariseus
+-- c7-v49: mas a multidão esta a que–não conhece a Lei malditos são
+-- c7-v50: diz Nicodemos a eles o que–veio a ele o antes um sendo de eles
+-- c7-v51: Porventura a Lei nossa julga o homem se não ouvir primeiro da–parte dele e conhecer o–que faz
+-- c7-v52: responderam e disseram a–ele Porventura também tu da a Galileia és Examina e vê que da a Galileia profeta não surge
+-- c7-v53: E foram cada–um para a casa dele
+-- c8-v1: Jesus porém foi para o monte das Oliveiras
+-- c8-v2: De–manhã porém novamente veio para o templo e todo o povo vinha a ele e tendo–se–sentado ensinava –os
+-- c8-v3: trazem porém os escribas e os fariseus a ele mulher em adultério apanhada e tendo–posto –a no meio
+-- c8-v4: dizem a–ele Mestre esta a mulher foi–apanhada em flagrante adulterando
+-- c8-v5: na porém a Lei Moisés a–nós ordenou as tais apedrejar tu então o–que dizes
+-- c8-v6: isto porém diziam tentando –o para–que tivessem de–acusar –o o porém Jesus abaixo inclinando–se com–o dedo escrevia na a terra
+-- c8-v7: como porém continuavam perguntando –o levantou–se e disse a–eles O sem–pecado de–vós primeiro a pedra sobre ela lance
+-- c8-v8: e novamente abaixo–inclinando–se escrevia na a terra
+-- c8-v9: os porém tendo–ouvido e pela a consciência sendo–redarguidos saíam um por um começando dos os mais–velhos até os últimos e foi–deixado só o Jesus e a mulher no meio estando
+-- c8-v10: Levantando–se porém o Jesus e a–ninguém tendo–visto exceto a mulher disse a–ela Ó mulher onde estão aqueles os acusadores teus ninguém te condenou
+-- c8-v11: ela porém disse Ninguém Senhor disse porém a–ela o Jesus Nem eu te condeno vai e de o agora não–mais peques
+-- c8-v12: Novamente então a–eles falou o Jesus dizendo Eu sou a luz do mundo o que–segue a–mim não jamais andará nas as trevas mas terá a luz da vida
+-- c8-v13: disseram então a–ele os fariseus Tu acerca de–ti–mesmo testemunhas o testemunho teu não é verdadeiro
+-- c8-v14: respondeu Jesus e disse a–eles Ainda–que eu testemuñe acerca de–mim–mesmo verdadeiro é o testemunho meu porque sei de–onde vim e para–onde vou vós porém não sabeis de–onde venho ou para–onde vou
+-- c8-v15: vós segundo a carne julgais eu não julgo a–ninguém
+-- c8-v16: e se julgo porém eu o juízo o meu verdadeiro é porque só não estou mas eu e o que–enviou me Pai
+-- c8-v17: e na a Lei porém a vossa está–escrito que de–dois homens o testemunho verdadeiro é
+-- c8-v18: eu sou o que–testemunha acerca de–mim–mesmo e testemunha acerca de–mim o que–enviou me Pai
+-- c8-v19: diziam então a–ele Onde está o Pai teu respondeu Jesus Nem a–mim conheceis nem o Pai meu se a–mim conhecíeis também o Pai meu – conheceríeis
+-- c8-v20: Estas as palavras falou no o tesouraria ensinando no o templo e ninguém o–prendeu –o porque ainda–não tinha–chegado a hora dele
+-- c8-v21: Disse então novamente a–eles Eu vou e me–buscareis me e no o pecado vosso morrereis para–onde eu vou vós não podeis ir
+-- c8-v22: diziam então os judeus Porventura se–matará a–si–mesmo porque diz Para–onde eu vou vós não podeis ir
+-- c8-v23: e dizia a–eles Vós de os debaixo sois eu de os do–alto sou vós deste deste o mundo sois eu não sou deste o mundo deste
+-- c8-v24: disse então a–vós que morrereis nos os pecados vossos se pois não crerdes que eu sou morrereis nos os pecados vossos
+-- c8-v25: diziam então a–ele Tu quem és disse a–eles o Jesus No princípio o–que também falo a–vós
+-- c8-v26: muitas–coisas tenho acerca de–vós falar e julgar mas o que–enviou me verdadeiro é e–eu as–coisas–que ouvi da–parte dele estas falo ao o mundo
+-- c8-v27: não entenderam que do Pai a–eles dizia
+-- c8-v28: disse então a–eles o Jesus Quando levantardes o Filho do homem então conhecereis que eu sou e de mim–mesmo faço nada mas como ensinou me o Pai estas–coisas falo
+-- c8-v29: e o que–enviou me comigo comigo está não deixou me só porque eu as–coisas agradáveis a–ele faço sempre
+-- c8-v30: Estas–coisas dele falando muitos creram nele nele
+-- c8-v31: Dizia então o Jesus aos os que–creram nele judeus Se vós permanecerdes na a palavra a minha verdadeiramente discípulos meus sois
+-- c8-v32: e conhecereis a verdade e a verdade libertará vos
+-- c8-v33: responderam a ele Semente de–Abraão somos e a–ninguém temos–servido jamais como tu dizes que Livres sereis
+-- c8-v34: respondeu a–eles o Jesus Em–verdade em–verdade digo a–vós que todo o que–pratica o pecado servo é do pecado
+-- c8-v35: o porém servo não permanece na a casa para o sempre o filho permanece para o sempre
+-- c8-v36: se então o Filho vos libertar verdadeiramente livres sereis
+-- c8-v37: sei que semente de–Abraão sois mas buscais me matar porque a palavra a minha não tem–lugar em vós
+-- c8-v38: as–coisas–que eu vi junto ao Pai falo e vós então as–coisas–que ouvistes junto do pai fazeis
+-- c8-v39: responderam e disseram a–ele O pai nosso Abraão é diz a–eles o Jesus Se filhos de Abraão sois as obras de Abraão faríeis
+-- c8-v40: agora porém buscais me matar homem que a verdade a–vós tenho–falado a–qual ouvi junto de Deus isto Abraão não fez
+-- c8-v41: vós fazeis as obras do pai vosso disseram então a–ele Nós de fornicação não nascemos um Pai temos a Deus
+-- c8-v42: disse a–eles o Jesus Se o Deus Pai vosso fosse amaríeis – a–mim eu pois de o Deus saí e estou–aqui nem pois de mim–mesmo vim mas aquele me enviou
+-- c8-v43: por que a linguagem a minha não entendeis porque não podeis ouvir a palavra a minha
+-- c8-v44: vós do o pai o diabo sois e os desejos do pai vosso quereis fazer aquele homicida era desde o–princípio e na a verdade não permaneceu porque não há verdade nele nele quando fala a mentira do o próprio fala porque mentiroso é e o pai dela
+-- c8-v45: eu porém porque a verdade digo não credes em–mim
+-- c8-v46: quem de vós convence me de pecado se verdade digo por que vós não credes em–mim
+-- c8-v47: o que–é de o Deus as palavras de Deus ouve por isso vós não ouvis porque de o Deus não sois
+-- c8-v48: Responderam os judeus e disseram a–ele Não bem dizemos nós que samaritano és tu e demônio tens
+-- c8-v49: respondeu Jesus Eu demônio não tenho mas honro o Pai meu e vós me–desonrais me
+-- c8-v50: eu porém não busco a glória minha há o que–busca e julga
+-- c8-v51: em–verdade em–verdade digo a–vós se alguém a minha palavra guardar morte não jamais verá para o sempre
+-- c8-v52: disseram então a–ele os judeus Agora conhecemos que demônio tens Abraão morreu e os profetas e tu dizes Se alguém a palavra minha guardar não jamais provará de–morte para o sempre
+-- c8-v53: porventura tu maior és do pai nosso Abraão que morreu e os profetas morreram a–quem a–ti–mesmo fazes
+-- c8-v54: respondeu Jesus Se eu glorificar a–mim–mesmo a glória minha nada é é o Pai meu o que–glorifica me a–quem vós dizeis que Deus nosso é
+-- c8-v55: e não o–tendes–conhecido –o eu porém conheço –o e–se disser que não conheço –o serei semelhante a–vós mentiroso mas conheço –o e a palavra dele guardo
+-- c8-v56: Abraão o pai vosso exultou para–que visse o dia o meu e viu e alegrou–se
+-- c8-v57: disseram então os judeus a ele Cinquenta anos ainda–não tens e Abraão tens–visto
+-- c8-v58: disse a–eles Jesus Em–verdade em–verdade digo a–vós antes de–Abraão existir eu sou
+-- c8-v59: levantaram então pedras para–que lançassem sobre ele Jesus porém escondeu–se e saiu do o templo passando pelo meio deles e assim–passou assim
+-- c9-v1: E passando viu homem cego de nascença
+-- c9-v2: e perguntaram –lhe os discípulos dele dizendo Rabi quem pecou este ou os pais dele para–que cego nascesse
+-- c9-v3: respondeu Jesus Nem este pecou nem os pais dele mas para–que fossem–manifestadas as obras de Deus nele nele
+-- c9-v4: a–nós é–necessário trabalhar as obras do que–enviou me enquanto dia é vem noite quando ninguém pode trabalhar
+-- c9-v5: enquanto no o mundo estou luz sou do mundo
+-- c9-v6: estas–coisas tendo–dito cuspiu no–chão e fez lodo do o cuspe e ungiu dele os lodo sobre os olhos
+-- c9-v7: e disse a–ele Vai lava–te no o tanque de Siloé que se–traduz Enviado foi então e lavou–se e veio vendo
+-- c9-v8: Os então vizinhos e os que–viam –o o antes que mendigo era diziam Não este é o que–sentava e mendigava
+-- c9-v9: outros diziam que Este é outros diziam Não mas semelhante a–ele é aquele dizia que Eu sou
+-- c9-v10: diziam então a–ele Como então foram–abertos teus os olhos
+-- c9-v11: respondeu aquele O homem o chamado Jesus lodo fez e ungiu de–mim os olhos e disse a–mim que Vai ao o Siloé e lava–te tendo–ido então e tendo–me–lavado vi
+-- c9-v12: e disseram a–ele Onde está aquele diz Não sei
+-- c9-v13: Levam –o aos os fariseus o outrora cego
+-- c9-v14: era porém sábado no qual dia o lodo fez o Jesus e abriu dele os olhos
+-- c9-v15: novamente então perguntavam –lhe também os fariseus como viu ele porém disse a–eles Lodo pôs de–mim sobre os olhos e lavei–me e vejo
+-- c9-v16: diziam então dos os fariseus alguns Não é este da–parte de–Deus o homem porque o sábado não guarda outros porém diziam Como pode homem pecador tais sinais fazer e divisão havia entre eles
+-- c9-v17: dizem então ao cego novamente O–que tu dizes acerca dele porque abriu teus os olhos ele porém disse que Profeta é
+-- c9-v18: não creram então os judeus acerca dele que era cego e vira até que chamaram os pais dele do que–vira
+-- c9-v19: e perguntaram –lhes dizendo Este é o filho vosso de–quem vós dizeis que cego nasceu como então vê agora
+-- c9-v20: responderam então os pais dele e disseram Sabemos que este é o filho nosso e que cego nasceu
+-- c9-v21: como porém agora vê não sabemos ou quem abriu dele os olhos nós não sabemos a–ele perguntai idade tem ele–mesmo acerca de–si–mesmo falará
+-- c9-v22: estas–coisas disseram os pais dele porque temiam os judeus já pois tinham–combinado os judeus que se alguém –o confessasse Cristo expulso–da–sinagoga fosse
+-- c9-v23: por isso os pais dele disseram que Idade tem a–ele perguntai
+-- c9-v24: Chamaram então o homem de segunda–vez que era cego e disseram a–ele Dá glória a Deus nós sabemos que este o homem pecador é
+-- c9-v25: respondeu então aquele Se pecador é não sei uma–coisa sei que cego sendo agora vejo
+-- c9-v26: disseram então a–ele O–que fez a–ti como abriu teus os olhos
+-- c9-v27: respondeu a–eles Disse a–vós já e não ouvistes por–que novamente quereis ouvir porventura também vós quereis dele discípulos tornar–vos
+-- c9-v28: e injuriaram –o e disseram Tu discípulo és daquele nós porém de Moisés somos discípulos
+-- c9-v29: nós sabemos que a–Moisés falou o Deus este porém não sabemos de–onde é
+-- c9-v30: respondeu o homem e disse a–eles Nisto nisto pois o maravilhoso é que vós não sabeis de–onde é e abriu de–mim os olhos
+-- c9-v31: sabemos que o Deus de–pecadores não ouve mas se alguém temente–a–Deus for e a vontade dele fizer a–este ouve
+-- c9-v32: desde o século não se–ouviu que abriu alguém olhos de–cego nascido
+-- c9-v33: se não fosse este da–parte de–Deus não poderia fazer nada
+-- c9-v34: responderam e disseram a–ele Em pecados tu nasceste inteiramente e tu nos–ensinas a–nós e expulsaram –o fora
+-- c9-v35: Ouviu Jesus que o–expulsaram –o fora e tendo–o–achado –o disse Tu crês no o Filho do homem
+-- c9-v36: respondeu aquele e disse E quem é Senhor para–que creia nele nele
+-- c9-v37: disse a–ele o Jesus Tanto o–viste –o e o que–fala contigo contigo aquele é
+-- c9-v38: ele porém disse Creio Senhor e adorou –o
+-- c9-v39: e disse o Jesus Para juízo eu a o mundo este vim para–que os que–não veem vejam e os que–veem cegos se–tornem
+-- c9-v40: ouviram dos os fariseus estas–coisas os com ele estando e disseram a–ele Porventura também nós cegos somos
+-- c9-v41: disse a–eles o Jesus Se cegos fôsseis não – teríeis pecado agora porém dizeis que Vemos o pecado vosso permanece
+-- c10-v1: Em–verdade em–verdade digo a–vós o que–não entra pela a porta no o curral das ovelhas mas sobe por–outro–lugar esse ladrão é e salteador
+-- c10-v2: o porém que–entra pela a porta pastor é das ovelhas
+-- c10-v3: a–este o porteiro abre e as ovelhas a voz dele ouvem e as próprias ovelhas chama por nome e conduz –as
+-- c10-v4: quando as próprias todas põe–para–fora diante delas vai e as ovelhas –o seguem porque conhecem a voz dele
+-- c10-v5: a–estranho porém não de–modo–algum seguirão mas fugirão dele dele porque não conhecem dos estranhos a voz
+-- c10-v6: Esta a parábola disse a–eles o Jesus aqueles porém não entenderam que–coisas eram que falava a–eles
+-- c10-v7: Disse então novamente a–eles o Jesus Em–verdade em–verdade digo a–vós que eu sou a porta das ovelhas
+-- c10-v8: todos quantos vieram antes de–mim ladrões são e salteadores mas não ouviram a–eles as ovelhas
+-- c10-v9: eu sou a porta por mim se alguém entrar será–salvo e entrará e sairá e pasto achará
+-- c10-v10: o ladrão não vem senão para para–que roube e mate e destrua eu vim para–que vida tenham e abundância tenham
+-- c10-v11: eu sou o pastor o bom o pastor o bom a vida dele põe pelas as ovelhas
+-- c10-v12: o mercenário e não sendo pastor de–quem não são as ovelhas próprias vê o lobo vindo e deixa as ovelhas e foge e o lobo arrebata –as e dispersa
+-- c10-v13: porque mercenário é e não importa a–ele com as ovelhas
+-- c10-v14: eu sou o pastor o bom e conheço as minhas e conhecem me as minhas
+-- c10-v15: assim–como conhece me o Pai e–eu conheço o Pai e a vida minha ponho pelas as ovelhas
+-- c10-v16: e outras ovelhas tenho que não são deste o curral deste também–aquelas é–necessário me conduzir e a voz minha ouvirão e haverá um rebanho um pastor
+-- c10-v17: por isso me o Pai ama porque eu ponho a vida minha para–que novamente tome –a
+-- c10-v18: ninguém tira –a de mim mas eu ponho –a de mim–mesmo autoridade tenho de–pôr –a e autoridade tenho novamente de–tomá –a este o mandamento recebi da–parte do Pai meu
+-- c10-v19: Divisão novamente houve entre os judeus por–causa das palavras estas
+-- c10-v20: diziam porém muitos de eles Demônio tem e está–louco por–que dele ouvis
+-- c10-v21: outros diziam Estas as palavras não são de–endemoninhado porventura demônio pode de–cegos olhos abrir
+-- c10-v22: Houve então a dedicação em os Jerusalém inverno era
+-- c10-v23: e andava o Jesus no o templo no o pórtico de Salomão
+-- c10-v24: cercaram então –o os judeus e diziam a–ele Até quando a alma nossa suspendes se tu és o Cristo dize a–nós abertamente
+-- c10-v25: respondeu a–eles o Jesus Disse a–vós e não credes as obras que eu faço no o nome do Pai meu estas testificam acerca de–mim
+-- c10-v26: mas vós não credes porque não sois das as ovelhas as minhas
+-- c10-v27: as ovelhas as minhas a voz minha ouvem e–eu conheço –as e me–seguem me
+-- c10-v28: e–eu dou a–elas vida eterna e não de–modo–algum perecerão para o sempre e não arrebatará alguém –as da a mão minha
+-- c10-v29: o Pai meu o–que tem–dado a–mim de–todos maior é e ninguém pode arrebatar da a mão do Pai
+-- c10-v30: eu e o Pai um somos
+-- c10-v31: Levantaram então novamente pedras os judeus para–que o–apedrejassem –o
+-- c10-v32: respondeu a–eles o Jesus Muitas obras mostrei a–vós boas do o Pai por qual delas obra a–mim apedrejais
+-- c10-v33: responderam a–ele os judeus Por boa obra não te–apedrejamos te mas por blasfêmia e porque tu homem sendo fazes a–ti–mesmo Deus
+-- c10-v34: respondeu a–eles o Jesus Não está escrito na a Lei vossa que Eu disse Deuses sois
+-- c10-v35: se aqueles chamou deuses a quem a palavra de Deus veio e não pode ser–anulada a Escritura
+-- c10-v36: a–quem o Pai santificou e enviou ao o mundo vós dizeis que Blasfemas porque disse Filho de Deus sou
+-- c10-v37: se não faço as obras do Pai meu não creiais em–mim
+-- c10-v38: se porém faço ainda–que em–mim não creiais nas obras crede para–que conheçais e conhecendo que em mim o Pai e–eu no o Pai
+-- c10-v39: Buscavam então –o novamente prender e saiu da a mão deles
+-- c10-v40: E foi novamente para–além do Jordão para o lugar onde estava João o primeiro batizando e permaneceu ali
+-- c10-v41: e muitos vieram a ele e diziam que João de–um–lado sinal fez nenhum todas–as–coisas porém quantas disse João acerca deste verdadeiras eram
+-- c10-v42: e muitos creram nele nele ali
+-- c13-v1: Antes porém da– festa da– páscoa sabendo o– Jesus que veio dele a– hora para–que passasse de– o– mundo este para o– Pai tendo–amado os– seus os– no– o– mundo até fim amou eles
+-- c13-v2: e ceia acontecendo o– diabo já tendo–lançado no– o– coração para–que entregasse ele Judas de–Simão Iscariotes
+-- c13-v3: sabendo que todas–as–coisas deu a–ele o– Pai nas– as– mãos e que de– Deus saiu e para o– Deus vai
+-- c13-v4: levanta–se da– a– ceia e põe as– vestes e tendo–tomado toalha cingiu a–si–mesmo
+-- c13-v5: então lança água na– a– bacia e começou a–lavar os– pés dos– discípulos e a–enxugar com–a– toalha com–a–qual estava cingido
+-- c13-v6: vem pois a Simão Pedro diz a–ele Senhor tu de–mim lavas os– pés
+-- c13-v7: respondeu Jesus e disse a–ele O–que eu faço tu não sabes agora saberás porém depois–de estas–coisas
+-- c13-v8: diz a–ele Pedro Não de–modo–algum lavarás de–mim os– pés para o– sempre respondeu Jesus a–ele Se não lavar te não tens parte comigo 
+-- c13-v9: diz a–ele Simão Pedro Senhor não os– pés de–mim somente mas também as– mãos e a– cabeça
+-- c13-v10: diz a–ele o– Jesus O– que–está–lavado não tem necessidade senão de os– pés lavar mas está limpo todo e vós limpos estais mas não todos
+-- c13-v11: sabia pois o– que–o–entregaria ele por–isso  disse  Não todos limpos estais
+-- c13-v12: Quando pois lavou os– pés deles e tomou as– vestes dele e reclinou–se de–novo disse a–eles Sabeis o–que fiz a–vós
+-- c13-v13: vós chamais me O– Mestre e o– Senhor e bem dizeis sou pois
+-- c13-v14: se pois eu lavei de–vós os– pés o– Senhor e o– Mestre também vós deveis uns–dos–outros lavar os– pés
+-- c13-v15: exemplo pois dei a–vós para–que assim–como eu fiz a–vós também vós façais
+-- c13-v16: amém amém digo a–vós não é servo maior do–que–o– senhor dele nem apóstolo maior do–que–o– que–enviou ele
+-- c13-v17: se estas–coisas sabeis bem–aventurados sois se fizerdes elas
+-- c13-v18: não acerca–de todos de–vós falo eu sei quais escolhi mas para–que a– Escritura se–cumpra O– que–come de–mim o– pão levantou contra mim o– calcanhar dele
+-- c13-v19: desde agora digo a–vós antes do– acontecer para–que creiais quando acontecer que EU SOU
+-- c13-v20: amém amém digo a–vós o– que–recebe a–qualquer  que–eu–enviar a–mim recebe o– porém a–mim que–recebe recebe o– que–enviou me
+-- c13-v21: Estas–coisas tendo–dito o– Jesus perturbou–se no– espírito e testemunhou e disse Amém amém digo a–vós que um de vós entregará me
+-- c13-v22: olhavam para uns–aos–outros os– discípulos perplexos acerca–de quem fala
+-- c13-v23: estava reclinado um dos– os– discípulos dele no– o– peito do– Jesus o–qual amava o– Jesus
+-- c13-v24: acena pois a–este Simão Pedro e diz a–ele perguntar quem seria  acerca–de quem fala
+-- c13-v25: reclinando–se pois aquele assim sobre o– peito do– Jesus diz a–ele Senhor quem é
+-- c13-v26: responde pois o– Jesus Aquele é a–quem eu molharei o– bocado e darei a–ele tendo–molhado pois o– bocado toma e dá a–Judas de–Simão Iscariotes
+-- c13-v27: e depois–de o– bocado então entrou em aquele o– Satanás diz pois a–ele o– Jesus O–que fazes faze mais–depressa
+-- c13-v28: isto porém ninguém soube dos– que–estavam–reclinados para que disse a–ele
+-- c13-v29: alguns pois pensavam porque a– bolsa tinha Judas que diz a–ele o– Jesus Compra das–quais necessidade temos para a– festa ou aos– pobres para–que algo desse
+-- c13-v30: tendo–tomado pois o– bocado aquele saiu imediatamente era porém noite
+-- c13-v31: Quando pois saiu diz Jesus Agora foi–glorificado o– Filho do– homem e o– Deus foi–glorificado nele 
+-- c13-v32: se o– Deus foi–glorificado nele  também o– Deus glorificará ele em si–mesmo e imediatamente glorificará ele
+-- c13-v33: filhinhos ainda pouco convosco  estou buscareis me e assim–como disse aos– judeus  Para–onde eu vou vós não podeis vir também a–vós digo agora
+-- c13-v34: mandamento novo dou a–vós para–que ameis uns–aos–outros assim–como amei vos para–que também vós ameis uns–aos–outros
+-- c13-v35: nisto  conhecerão todos que meus discípulos sois se amor tiverdes entre uns–aos–outros
+-- c13-v36: Diz a–ele Simão Pedro Senhor para–onde vais respondeu a–ele Jesus Para–onde vou não podes me agora seguir seguirás porém depois
+-- c13-v37: diz a–ele o– Pedro Senhor por que não posso te seguir agora a– vida minha por ti darei
+-- c13-v38: responde Jesus A– vida tua por mim darás amém amém digo a–ti não de–modo–algum galo cantará até que negues me três–vezes
+-- c14-v1: Não seja–perturbado de–vós o– coração crede em o– Deus e em mim crede
+-- c14-v2: na– a– casa do– Pai meu moradas muitas há se porém não teria–dito  a–vós que vou preparar lugar para–vós
+-- c14-v3: e se for e preparar lugar para–vós de–novo venho e tomarei vos para mim–mesmo para–que onde estou eu também vós estejais
+-- c14-v4: e para–onde eu vou sabeis o– caminho
+-- c14-v5: Diz a–ele Tomé Senhor não sabemos para–onde vais como podemos o– caminho saber
+-- c14-v6: diz a–ele o– Jesus Eu sou o– caminho e a– verdade e a– vida ninguém vem ao– o– Pai senão  por mim
+-- c14-v7: se conhecíeis me também o– Pai meu teríeis conhecido desde agora conheceis ele e tendes–visto ele
+-- c14-v8: Diz a–ele Filipe Senhor mostra a–nós o– Pai e basta para–nós
+-- c14-v9: diz a–ele o– Jesus Tanto tempo convosco  estou e não conheces me Filipe o– que–viu a–mim viu o– Pai como tu dizes Mostra a–nós o– Pai
+-- c14-v10: não crês que eu no– o– Pai e o– Pai em mim está as– palavras que eu digo a–vós de– mim–mesmo não falo o– porém Pai em mim permanecendo faz as– obras dele
+-- c14-v11: crede me que eu no– o– Pai e o– Pai em mim se porém não por–causa–de as– obras mesmas crede
+-- c14-v12: amém amém digo a–vós o– que–crê em mim as– obras que eu faço também–aquele fará e maiores do–que–estas fará porque eu para o– Pai vou
+-- c14-v13: e o–que  pedirdes no– o– nome meu isto farei para–que seja–glorificado o– Pai no– o– Filho
+-- c14-v14: se algo pedirdes me no– o– nome meu eu farei
+-- c14-v15: Se amardes me os– mandamentos os– meus guardareis
+-- c14-v16: e–eu rogarei ao– Pai e outro Consolador dará a–vós para–que esteja convosco  para o– sempre
+-- c14-v17: o– Espírito da– verdade o–qual o– mundo não pode receber porque não vê ele nem conhece vós conheceis ele porque junto–a– vós permanece e em vós estará
+-- c14-v18: não deixarei vos órfãos venho a vós
+-- c14-v19: ainda pouco e o– mundo me não–mais vê vós porém vedes me porque eu vivo e vós vivereis
+-- c14-v20: naquele  o– dia conhecereis vós que eu no– o– Pai meu e vós em mim e–eu em vós
+-- c14-v21: o– que–tem os– mandamentos meus e guarda eles aquele é o– que–ama me o– porém que–ama me será–amado pelo– o– Pai meu e–eu amarei ele e manifestarei a–ele a–mim–mesmo
+-- c14-v22: Diz a–ele Judas não o– Iscariotes Senhor e o–que aconteceu que a–nós estás–prestes–a manifestar a–ti–mesmo e não ao– mundo
+-- c14-v23: respondeu Jesus e disse a–ele Se alguém amar me a– palavra minha guardará e o– Pai meu amará ele e a ele viremos e morada com ele faremos
+-- c14-v24: o– que–não ama me as– palavras minhas não guarda e a– palavra que ouvis não é minha mas do– que–enviou me Pai
+-- c14-v25: Estas–coisas tenho–falado a–vós junto–a– vós permanecendo
+-- c14-v26: o– porém Consolador o– Espírito o– Santo que enviará o– Pai no– o– nome meu aquele vos ensinará todas–as–coisas e lembrará vos todas–as–coisas que disse a–vós eu
+-- c14-v27: Paz deixo a–vós paz a– minha dou a–vós não como o– mundo dá eu dou a–vós não seja–perturbado de–vós o– coração nem tenha–medo
+-- c14-v28: ouvistes que eu disse a–vós Vou e venho a vós se amásseis me teríeis–alegrado  porque vou para o– Pai porque o– Pai maior do–que–eu é
+-- c14-v29: e agora disse a–vós antes–de acontecer para–que quando acontecer creiais
+-- c14-v30: não–mais muitas–coisas falarei convosco  vem pois o– do– mundo príncipe e em mim não tem nada
+-- c14-v31: mas para–que conheça o– mundo que amo o– Pai e como ordenou deu me o– Pai assim faço Levantai–vos vamos daqui
+-- c15-v1: Eu sou a– videira a– verdadeira e o– Pai meu o– agricultor é
+-- c15-v2: todo ramo em mim que–não produz fruto tira ele e todo o– fruto que–produz limpa ele para–que fruto mais produza
+-- c15-v3: já vós limpos estais por–causa–de a– palavra que tenho–falado a–vós
+-- c15-v4: permanecei em mim e–eu em vós assim–como o– ramo não pode fruto produzir de– si–mesmo se não permanecer na– a– videira assim nem vós se não em mim permanecerdes
+-- c15-v5: eu sou a– videira vós os– ramos o– que–permanece em mim e–eu nele  este produz fruto muito porque sem mim não podeis fazer nada
+-- c15-v6: se não alguém permanecer em mim foi–lançado fora como o– ramo e secou e ajuntam eles e no– o– fogo lançam e queimam
+-- c15-v7: se permanecerdes em mim e as– palavras minhas em vós permanecerem o–que se quiserdes pedi e será–feito para–vós
+-- c15-v8: nisto  foi–glorificado o– Pai meu para–que fruto muito produzais e sejais meus discípulos
+-- c15-v9: assim–como amou me o– Pai também–eu vos amei permanecei no– o– amor o– meu
+-- c15-v10: se os– mandamentos meus guardardes permanecereis no– o– amor meu assim–como eu do– Pai meu os– mandamentos tenho–guardado e permaneço dele no– o– amor
+-- c15-v11: Estas–coisas tenho–falado a–vós para–que a– alegria a– minha em vós esteja e a– alegria de–vós seja–completa
+-- c15-v12: este é o– mandamento o– meu para–que ameis uns–aos–outros assim–como amei vos
+-- c15-v13: maior do–que–este amor ninguém tem que alguém a– vida dele ponha pelos– os– amigos dele
+-- c15-v14: vós amigos meus sois se fizerdes o–que eu mando a–vós
+-- c15-v15: não–mais chamo vos servos porque o– servo não sabe o–que faz dele o– senhor vos porém tenho–chamado amigos porque todas–as–coisas que ouvi do– o– Pai meu fiz–conhecer a–vós
+-- c15-v16: não vós a–mim escolhestes mas eu escolhi vos e pus vos para–que vós vades e fruto produzais e o– fruto de–vós permaneça para–que o–que  pedirdes ao– Pai no– o– nome meu dê a–vós
+-- c15-v17: estas–coisas mando a–vós para–que ameis uns–aos–outros
+-- c15-v18: Se o– mundo vos odeia sabei que a–mim primeiro do–que–a–vós odiou
+-- c15-v19: se do– o– mundo fôsseis o– mundo  o– seu amaria porque porém do– o– mundo não sois mas eu escolhi vos do– o– mundo por–isso  odeia vos o– mundo
+-- c15-v20: lembrai–vos da– palavra que eu disse a–vós Não é servo maior do–que–o– senhor dele se a–mim perseguiram também a–vós perseguirão se a– palavra minha guardaram também a– vossa guardarão
+-- c15-v21: mas estas–coisas todas farão contra vós por–causa–de o– nome meu porque não conhecem o– que–enviou me
+-- c15-v22: se não tivesse–vindo e falado a–eles pecado não teriam agora porém pretexto não têm acerca–de o– pecado deles
+-- c15-v23: o– a–mim que–odeia também o– Pai meu odeia
+-- c15-v24: se as– obras não tivesse–feito entre eles que ninguém outro fez pecado não teriam agora porém também viram e odiaram tanto a–mim como o– Pai meu
+-- c15-v25: mas para–que seja–cumprida a– palavra a– na– a– lei deles escrita  Odiaram me sem–motivo
+-- c15-v26: Quando vier o– Consolador que eu enviarei a–vós da–parte–de– o– Pai o– Espírito da– verdade que da–parte–de– o– Pai procede aquele testificará acerca–de mim
+-- c15-v27: e vós também testificais porque desde princípio comigo  estais
+-- c16-v1: Estas–coisas tenho–falado a–vós para–que não sejais–escandalizados
+-- c16-v2: expulsos–da–sinagoga farão vos mas vem hora para–que todo o– que–matar vos pense serviço oferecer a– Deus
+-- c16-v3: e estas–coisas farão porque não conheceram o– Pai nem a–mim
+-- c16-v4: mas estas–coisas tenho–falado a–vós para–que quando vier a– hora delas lembreis delas que eu disse a–vós estas–coisas porém a–vós desde princípio não disse porque convosco  estava
+-- c16-v5: agora porém vou para o– que–enviou me e ninguém de vós pergunta me Para–onde vais
+-- c16-v6: mas porque estas–coisas tenho–falado a–vós a– tristeza encheu de–vós o– coração
+-- c16-v7: mas eu a– verdade digo a–vós convem para–vós que eu vá se pois não for o– Consolador não de–modo–algum virá a vós se porém for enviarei ele a vós
+-- c16-v8: e tendo–vindo aquele convencerá o– mundo acerca–de pecado e acerca–de justiça e acerca–de juízo
+-- c16-v9: acerca–de pecado de–fato porque não creem em mim
+-- c16-v10: acerca–de justiça porém porque para o– Pai vou e não–mais vedes me
+-- c16-v11: acerca–de porém juízo porque o– príncipe do– mundo deste está–julgado
+-- c16-v12: Ainda muitas–coisas tenho a–vós dizer mas não podeis suportar agora
+-- c16-v13: quando porém vier aquele o– Espírito da– verdade guiará vos em toda–a– verdade  não pois falará de– si–mesmo mas o–que ouvir falará e as–coisas– que–vêm anunciará a–vós
+-- c16-v14: aquele a–mim glorificará porque do– o– meu receberá e anunciará a–vós
+-- c16-v15: todas–as–coisas que tem o– Pai minhas são por–isso  disse que do– o– meu recebe e anunciará a–vós
+-- c16-v16: Pouco e não–mais vedes me e de–novo pouco e vereis me porque vou para o– Pai
+-- c16-v17: Disseram pois dos– os– discípulos dele uns–aos–outros  Que é isto que diz a–nós Pouco e não vedes me e de–novo pouco e vereis me e Porque vou para o– Pai
+-- c16-v18: diziam pois Isto que é que diz o– pouco não sabemos o–que fala
+-- c16-v19: soube o– Jesus que queriam ele perguntar e disse a–eles Acerca–de isto indagais entre uns–aos–outros porque disse Pouco e não vedes me e de–novo pouco e vereis me
+-- c16-v20: amém amém digo a–vós que chorareis e lamentareis vós o– porém mundo alegrar–se–á vós sereis–entristecidos mas a– tristeza de–vós em alegria tornar–se–á
+-- c16-v21: a– mulher quando dá–à–luz tristeza tem porque veio a– hora dela quando porém der–à–luz a– criança não–mais lembra da– aflição por–causa–de a– alegria porque nasceu homem no– o– mundo
+-- c16-v22: e vós pois agora de–fato tristeza tendes de–novo porém verei vos e alegrar–se–á de–vós o– coração e a– alegria de–vós ninguém tira de– vós
+-- c16-v23: e naquele  o– dia a–mim não perguntareis nada amém amém digo a–vós se algo pedirdes ao– Pai dará a–vós no– o– nome meu
+-- c16-v24: até agora não pedistes nada no– o– nome meu pedi e recebereis para–que a– alegria de–vós seja completa
+-- c16-v25: Estas–coisas em parábolas tenho–falado a–vós vem hora quando não–mais em parábolas falarei a–vós mas abertamente acerca–de o– Pai anunciarei a–vós
+-- c16-v26: naquele  o– dia no– o– nome meu pedireis e não digo a–vós que eu rogarei ao– Pai acerca–de vós
+-- c16-v27: ele–mesmo pois o– Pai ama vos porque vós a–mim tendes–amado e tendes–crido que eu da–parte–de– o– Deus saí
+-- c16-v28: saí de– o– Pai e vim ao– o– mundo de–novo deixo o– mundo e vou para o– Pai
+-- c16-v29: Dizem os– discípulos dele Eis agora abertamente  falas e parábola nenhuma dizes
+-- c16-v30: agora sabemos que sabes todas–as–coisas e não necessidade tens que alguém te pergunte nisto  cremos que de– Deus saíste
+-- c16-v31: respondeu a–eles Jesus Agora credes
+-- c16-v32: eis vem hora e veio para–que sejais–dispersos cada–um para as– próprias–coisas e–a–mim só deixeis e não estou só porque o– Pai comigo  está
+-- c16-v33: estas–coisas tenho–falado a–vós para–que em mim paz tenhais no– o– mundo tribulação tendes mas tende–ânimo eu venci o– mundo
+-- c17-v1: Estas–coisas falou Jesus e levantando os– olhos dele para o– céu disse Pai veio a– hora glorifica de–ti o– Filho para–que o– Filho glorifique a–ti
+-- c17-v2: assim–como deste a–ele autoridade sobre–toda carne para–que todo o–que deste a–ele dê a–eles vida eterna
+-- c17-v3: esta porém é a– eterna vida que conheçam a–ti o– único verdadeiro Deus e a–quem enviaste Jesus Cristo
+-- c17-v4: eu a–ti glorifiquei sobre a– terra a– obra tendo–completado que deste me para–que fizesse
+-- c17-v5: e agora glorifica me tu Pai junto–a– ti–mesmo com–a– glória que tinha antes–de o– o– mundo existir junto–a– ti
+-- c17-v6: Manifestei de–ti o– nome aos– homens os–quais deste me do– o– mundo teus eram e–a–mim eles deste e a– palavra tua têm–guardado
+-- c17-v7: agora conheceram que todas–as–coisas que deste me da–parte–de– ti são
+-- c17-v8: porque as– palavras que deste me dei a–eles e eles receberam e conheceram verdadeiramente que da–parte–de– ti saí e creram que tu a–mim enviaste
+-- c17-v9: Eu acerca–de eles rogo não acerca–de o– mundo rogo mas acerca–de os–quais deste me porque teus são
+-- c17-v10: e as–coisas– minhas todas tuas são e as–coisas– tuas minhas e tenho–sido–glorificado neles 
+-- c17-v11: e não–mais estou no– o– mundo e eles no– o– mundo estão e–eu a ti venho Pai santo guarda eles no– o– nome teu que deste me para–que sejam um assim–como nós
+-- c17-v12: quando estava com eles eu guardava eles no– o– nome teu que deste me e protegi e ninguém deles  pereceu senão  o– filho da– perdição para–que a– Escritura se–cumprisse
+-- c17-v13: agora porém a ti venho e estas–coisas falo no– o– mundo para–que tenham a– alegria a– minha completa em si–mesmos
+-- c17-v14: eu dei a–eles a– palavra tua e o– mundo odiou eles porque não são do– o– mundo assim–como eu não sou do– o– mundo
+-- c17-v15: não rogo que tires eles do– o– mundo mas que guardes eles do– o– maligno
+-- c17-v16: do– o– mundo não são assim–como eu não sou do– o– mundo
+-- c17-v17: santifica eles na– a– verdade a– palavra a– tua verdade é
+-- c17-v18: assim–como a–mim enviaste ao– o– mundo também–eu enviei eles ao– o– mundo
+-- c17-v19: e por eles eu santifico a–mim–mesmo para–que sejam também eles santificados em verdade
+-- c17-v20: Não acerca–de estes porém rogo somente mas também acerca–de os– que–creem por a– palavra deles em mim
+-- c17-v21: para–que todos um sejam assim–como tu Pai em mim e–eu em ti para–que também eles em nós sejam para–que o– mundo creia que tu a–mim enviaste
+-- c17-v22: e–eu a– glória que deste me dei a–eles para–que sejam um assim–como nós um
+-- c17-v23: eu neles  e tu em mim para–que sejam aperfeiçoados em um para–que conheça o– mundo que tu a–mim enviaste e amaste eles assim–como a–mim amaste
+-- c17-v24: Pai o–que deste me quero que onde estou eu também–aqueles estejam comigo  para–que vejam a– glória a– minha que deste me porque amaste me antes–de fundação do–mundo
+-- c17-v25: Pai justo também o– mundo a–ti não conheceu eu porém a–ti conheci e estes conheceram que tu a–mim enviaste
+-- c17-v26: e fiz–conhecer a–eles o– nome teu e farei–conhecer para–que o– amor com–que amaste me neles  esteja e–eu neles 
+-- c18-v1: Estas–coisas tendo–dito Jesus saiu com os discípulos dele para–além do ribeiro de Cedrom onde havia jardim em o–qual entrou ele e os discípulos dele
+-- c18-v2: sabia e também Judas o que–entrega ele o lugar porque muitas–vezes reuniu–se Jesus ali com os discípulos dele
+-- c18-v3: o pois Judas tendo–tomado a coorte e dos – sumos–sacerdotes e dos – fariseus guardas vem ali com lanternas e tochas e armas
+-- c18-v4: Jesus pois sabendo todas–as–coisas as que–vinham sobre ele saiu e diz a–eles A–quem buscais
+-- c18-v5: responderam a–ele Jesus o Nazareno diz a–eles Eu sou estava–de–pé e também Judas o que–entrega ele com eles
+-- c18-v6: quando pois disse a–eles Eu sou foram para – trás e caíram por–terra
+-- c18-v7: novamente pois perguntou a–eles A–quem buscais – e disseram Jesus o Nazareno
+-- c18-v8: respondeu Jesus Disse a–vós que eu sou se pois a–mim buscais deixai estes ir
+-- c18-v9: para–que fosse–cumprida a palavra que disse – Os–que deste a–mim não perdi de eles nenhum
+-- c18-v10: Simão pois Pedro tendo espada desembainhou ela e feriu o do sumo–sacerdote servo e cortou dele a orelha a direita era e nome do servo Malco
+-- c18-v11: disse pois – Jesus a Pedro Mete a espada na a bainha o cálice que deu a–mim o Pai não – beberei dele
+-- c18-v12: A pois coorte e o tribuno e os guardas dos judeus prenderam – Jesus e amarraram ele
+-- c18-v13: e levaram a Anás primeiro era pois sogro de Caifás o–qual era sumo–sacerdote daquele ano –
+-- c18-v14: era e Caifás o que–aconselhou aos judeus que convém um homem morrer pelo – povo
+-- c18-v15: Seguia e – Jesus Simão Pedro e outro discípulo – e discípulo aquele era conhecido do sumo–sacerdote e entrou–junto com Jesus no – pátio do sumo–sacerdote
+-- c18-v16: – mas Pedro estava–de–pé junto à porta fora saiu pois o discípulo o outro o conhecido do sumo–sacerdote e disse à porteira e fez–entrar – Pedro
+-- c18-v17: diz pois a Pedro a serva a porteira Não também tu dos – discípulos és deste homem – diz ele Não sou
+-- c18-v18: estavam–de–pé e os servos e os guardas braseiro tendo–feito porque frio estava e aqueciam–se estava e também – Pedro com eles de–pé e aquecendo–se
+-- c18-v19: O pois sumo–sacerdote perguntou a Jesus acerca dos discípulos dele e acerca do ensino dele
+-- c18-v20: respondeu a–ele Jesus Eu abertamente falei ao mundo eu sempre ensinei em sinagoga e no – templo onde todos os judeus reúnem–se e em oculto falei nada
+-- c18-v21: por–que a–mim perguntas pergunta aos que–ouviram o–que falei a–eles eis estes sabem as–coisas–que disse eu
+-- c18-v22: estas–coisas e ele tendo–dito um que–estava–perto dos guardas deu bofetada a Jesus dizendo Assim respondes ao sumo–sacerdote
+-- c18-v23: respondeu a–ele Jesus Se mal falei dá–testemunho acerca do mal se porém bem por–que a–mim feres
+-- c18-v24: enviou pois ele – Anás amarrado a Caifás o sumo–sacerdote
+-- c18-v25: Estava e Simão Pedro de–pé e aquecendo–se disseram pois a–ele Não também tu dos – discípulos dele és negou ele e disse Não sou
+-- c18-v26: diz um dos – servos do sumo–sacerdote parente sendo de–quem cortou Pedro a orelha Não eu te vi no – jardim com ele
+-- c18-v27: novamente pois negou Pedro e imediatamente galo cantou
+-- c18-v28: Levam pois – Jesus de – Caifás ao – pretório era e manhã e eles não entraram no – pretório para–que não fossem–contaminados mas comessem a páscoa
+-- c18-v29: saiu pois – Pilatos fora para eles e diz Que acusação trazeis contra – homem este
+-- c18-v30: responderam e disseram a–ele Se não fosse este mal fazendo não – a–ti teríamos–entregue ele
+-- c18-v31: disse pois a–eles – Pilatos Tomai ele vós e segundo a lei vossa julgai ele disseram a–ele os judeus A–nós não é–permitido matar ninguém
+-- c18-v32: para–que a palavra de Jesus fosse–cumprida que disse indicando de–que morte estava–para morrer
+-- c18-v33: Entrou pois novamente no – pretório – Pilatos e chamou – Jesus e disse a–ele Tu és o Rei dos judeus
+-- c18-v34: respondeu Jesus De ti–mesmo tu isto dizes ou outros disseram a–ti acerca de–mim
+-- c18-v35: respondeu – Pilatos Porventura eu judeu sou a nação a tua e os sumos–sacerdotes entregaram te a–mim que fizeste
+-- c18-v36: respondeu Jesus O reino o meu não é deste – mundo – se deste – mundo – fosse o reino o meu os servos – – meus lutariam para–que não fosse–entregue aos judeus agora porém o reino o meu não é daqui
+-- c18-v37: disse pois a–ele – Pilatos Logo rei és tu respondeu – Jesus Tu dizes que rei sou eu para isto nasci e para isto vim ao – mundo para–que dê–testemunho à verdade todo o–que é da – verdade ouve minha – voz
+-- c18-v38: diz a–ele – Pilatos O–que é verdade E isto tendo–dito novamente saiu para os judeus e diz a–eles Eu nenhuma acho nele – culpa
+-- c18-v39: é porém costume vosso que um solte a–vós na – páscoa quereis pois solte a–vós o Rei dos judeus
+-- c18-v40: gritaram pois novamente dizendo Não este mas – Barrabás era e – Barrabás ladrão
+-- c19-v1: Então pois tomou – Pilatos – Jesus e açoitou
+-- c19-v2: e os soldados tendo–entrançado coroa de espinhos colocaram dele na cabeça e manto purpúreo vestiram ele
+-- c19-v3: e vinham a ele e diziam Salve – Rei dos judeus e davam a–ele bofetadas
+-- c19-v4: E saiu novamente fora – Pilatos e diz a–eles Eis trago a–vós ele fora para–que saibais que nenhuma culpa acho nele –
+-- c19-v5: saiu pois – Jesus fora vestindo a de–espinhos coroa e o purpúreo manto e diz a–eles Eis o homem
+-- c19-v6: quando pois viram ele os sumos–sacerdotes e os guardas gritaram dizendo Crucifica crucifica diz a–eles – Pilatos Tomai ele vós e crucificai eu pois não acho nele – culpa
+-- c19-v7: responderam a–ele os judeus Nós lei temos e segundo a lei deve morrer porque Filho de–Deus a–si–mesmo fez
+-- c19-v8: Quando pois ouviu – Pilatos esta – palavra mais temeu
+-- c19-v9: e entrou no – pretório novamente e diz a Jesus De–onde és tu – mas Jesus resposta não deu a–ele
+-- c19-v10: diz pois a–ele – Pilatos A–mim não falas não sabes que autoridade tenho soltar te e autoridade tenho crucificar te
+-- c19-v11: respondeu a–ele Jesus Não terias autoridade contra mim nenhuma se não tivesse–sido dado a–ti de–cima por–isso – o–que entregou me a–ti maior pecado tem
+-- c19-v12: desde então – Pilatos buscava soltar ele – mas judeus gritaram dizendo Se este soltares não és amigo de César todo o–que rei a–si–mesmo faz opõe–se a César
+-- c19-v13: – pois Pilatos tendo–ouvido – palavras estas trouxe fora – Jesus e sentou–se sobre tribunal em lugar chamado Pavimento em–hebraico porém Gabatá
+-- c19-v14: era e Preparação da páscoa hora era como sexta e diz aos judeus Eis o Rei vosso
+-- c19-v15: gritaram pois eles Fora fora crucifica ele diz a–eles – Pilatos O Rei vosso crucificarei responderam os sumos–sacerdotes Não temos rei senão – César
+-- c19-v16: então pois entregou ele a–eles para–que fosse–crucificado Tomaram pois – Jesus
+-- c19-v17: e carregando ele–mesmo a cruz saiu para o chamado do–Crânio lugar que é–chamado em–hebraico Gólgota
+-- c19-v18: onde ele crucificaram e com ele outros dois deste–lado e daquele–lado no–meio porém – Jesus
+-- c19-v19: escreveu e também título – Pilatos e colocou sobre a cruz estava e escrito JESUS O NAZARENO O REI DOS JUDEUS
+-- c19-v20: este pois – título muitos leram dos judeus porque perto estava o lugar da cidade onde foi–crucificado – Jesus e estava escrito em–hebraico em–latim em–grego
+-- c19-v21: diziam pois a Pilatos os sumos–sacerdotes dos judeus Não escrevas O Rei dos judeus mas que ele disse Rei sou dos judeus
+-- c19-v22: respondeu – Pilatos O–que escrevi escrevi
+-- c19-v23: Os pois soldados quando crucificaram – Jesus tomaram as vestes dele e fizeram quatro partes a–cada soldado parte e a túnica era e a túnica sem–costura de – cima tecida em todo
+-- c19-v24: disseram pois uns–aos–outros – Não rasguemos ela mas lancemos–sortes sobre ela de–quem será para–que a escritura fosse–cumprida a que–diz Dividiram as vestes minhas entre–si e sobre a roupa minha lançaram sorte Os – pois soldados estas–coisas fizeram
+-- c19-v25: estavam–de–pé e junto à cruz de Jesus a mãe dele e a irmã da mãe dele Maria a de Clopas e Maria a Madalena
+-- c19-v26: Jesus pois vendo a mãe e o discípulo presente a–quem amava diz à mãe Mulher eis o filho teu
+-- c19-v27: depois diz ao discípulo Eis a mãe tua e desde aquela – hora tomou o discípulo ela para os próprios
+-- c19-v28: Depois disto sabendo – Jesus que já todas–as–coisas estão–cumpridas para–que fosse–completada a escritura diz Tenho–sede
+-- c19-v29: vaso estava de–vinagre cheio esponja pois cheia do vinagre em–hissopo colocando ofereceram dele à boca
+-- c19-v30: quando pois tomou o vinagre – Jesus disse Está–consumado e inclinando a cabeça entregou o espírito
+-- c19-v31: Os pois judeus visto–que Preparação era para–que não ficassem sobre a cruz os corpos no – sábado era pois grande o dia daquele – sábado pediram a Pilatos que fossem–quebradas deles as pernas e fossem–tirados
+-- c19-v32: vieram pois os soldados e do – primeiro quebraram as pernas e do outro – crucificado–com ele
+-- c19-v33: a porém – Jesus tendo–vindo como viram já ele morto não quebraram dele as pernas
+-- c19-v34: mas um dos soldados com–lança dele o lado furou e saiu imediatamente sangue e água
+-- c19-v35: e o que–viu testemunhou e verdadeiro dele é o testemunho e ele sabe que verdade diz para–que também vós creiais
+-- c19-v36: aconteceram pois estas–coisas para–que a escritura fosse–cumprida Osso não será–quebrado dele
+-- c19-v37: e novamente outra escritura diz Verão para o–qual traspassaram
+-- c19-v38: Depois e destas–coisas pediu a Pilatos José – de Arimateia sendo discípulo de Jesus oculto porém por–causa do medo dos judeus que levasse o corpo de Jesus e permitiu – Pilatos veio pois e tirou o corpo dele
+-- c19-v39: veio e também Nicodemos o que–viera a ele de–noite a primeira trazendo mistura de–mirra e aloés como libras cem
+-- c19-v40: tomaram pois o corpo de Jesus e envolveram ele em–faixas com os aromas como costume é aos judeus sepultar
+-- c19-v41: havia e no – lugar onde foi–crucificado jardim e no – jardim sepulcro novo no qual ainda–não ninguém tinha–sido posto
+-- c19-v42: ali pois por–causa da Preparação dos judeus porque perto estava o sepulcro puseram – Jesus
+-- c20-v1: No e primeiro dos sábados Maria a Madalena vem de–manhã escuridão ainda havendo ao – sepulcro e vê a pedra tirada do – sepulcro
+-- c20-v2: corre pois e vem a Simão Pedro e ao – outro discípulo a–quem amava – Jesus e diz a–eles Tiraram o Senhor do – sepulcro e não sabemos onde puseram ele
+-- c20-v3: Saiu pois – Pedro e o outro discípulo e vinham ao – sepulcro
+-- c20-v4: corriam e os dois juntos e o outro discípulo correu–na–frente mais–rápido que Pedro e chegou primeiro ao – sepulcro
+-- c20-v5: e inclinando–se vê postos os lençóis não porém entrou
+-- c20-v6: vem pois também Simão Pedro seguindo ele e entrou no – sepulcro e vê os lençóis postos
+-- c20-v7: e o lenço que estava sobre a cabeça dele não com os lençóis posto mas à–parte enrolado em um lugar
+-- c20-v8: então pois entrou também o outro discípulo o que–viera primeiro ao – sepulcro e viu e creu
+-- c20-v9: ainda–não pois sabiam a escritura que é–necessário ele dentre mortos ressuscitar
+-- c20-v10: foram pois novamente para si–mesmos os discípulos
+-- c20-v11: Maria porém estava–de–pé junto ao sepulcro fora chorando enquanto pois chorava inclinou–se para o sepulcro
+-- c20-v12: e vê dois anjos em branco sentados um à – cabeça e um aos – pés onde jazia o corpo de Jesus
+-- c20-v13: e dizem a–ela aqueles Mulher por–que choras diz a–eles – Tiraram o Senhor meu e não sei onde puseram ele
+-- c20-v14: estas–coisas tendo–dito virou–se para – trás e vê – Jesus de–pé e não sabia que Jesus é
+-- c20-v15: diz a–ela Jesus Mulher por–que choras a–quem buscas ela pensando que o jardineiro é diz a–ele Senhor se tu levaste ele diz a–mim onde puseste ele e–eu ele levarei
+-- c20-v16: diz a–ela Jesus Maria virando–se ela diz a–ele em–hebraico Raboni que significa Mestre
+-- c20-v17: diz a–ela Jesus Não a–mim toques ainda–não pois subi ao – Pai vai porém aos – irmãos meus e diz a–eles Subo ao – Pai meu e Pai vosso e Deus meu e Deus vosso
+-- c20-v18: vem Maria a Madalena anunciando aos discípulos – Vi o Senhor e estas–coisas disse a–ela
+-- c20-v19: Sendo pois tarde naquele dia – no primeiro dos–sábados e as portas estando–fechadas onde estavam os discípulos por–causa do medo dos judeus veio – Jesus e pôs–se no – meio e diz a–eles Paz a–vós
+-- c20-v20: e isto tendo–dito mostrou também as mãos e o lado a–eles alegraram–se pois os discípulos tendo–visto o Senhor
+-- c20-v21: disse pois a–eles – Jesus novamente Paz a–vós assim–como enviou a–mim o Pai também–eu envio a–vós
+-- c20-v22: e isto tendo–dito soprou e diz a–eles Recebei Espírito Santo
+-- c20-v23: de–quaisquer alguns perdoardes os pecados são–perdoados a–eles de–quaisquer alguns retiverdes estão–retidos
+-- c20-v24: Tomé porém um dos – doze o chamado Dídimo não estava com eles quando veio Jesus
+-- c20-v25: diziam pois a–ele os outros discípulos Vimos o Senhor – mas disse a–eles Se não vir nas – mãos dele a marca dos pregos e colocar o dedo meu na a marca dos pregos e colocar minha a mão no – lado dele não – crerei
+-- c20-v26: E depois dias oito novamente estavam dentro os discípulos dele e Tomé com eles vem – Jesus as portas estando–fechadas e pôs–se no – meio e disse Paz a–vós
+-- c20-v27: depois diz a Tomé Traz o dedo teu aqui e vê as mãos minhas e traz a mão tua e coloca no – lado meu e não sejas incrédulo mas crente
+-- c20-v28: respondeu Tomé e disse a–ele O Senhor meu e o Deus meu
+-- c20-v29: diz a–ele – Jesus Porque viste a–mim creste bem–aventurados os–que não viram e creram
+-- c20-v30: Muitos – pois também outros sinais fez – Jesus diante dos discípulos dele os–quais não estão escritos neste – livro –
+-- c20-v31: estas–coisas porém foram–escritas para–que creiais que Jesus é o Cristo o Filho de Deus e para–que crendo vida tenhais no – nome dele
+-- c21-v1: Depois destas–coisas manifestou a–si–mesmo novamente – Jesus aos discípulos junto ao mar de Tiberíades manifestou e assim
+-- c21-v2: estavam juntos Simão Pedro e Tomé o chamado Dídimo e Natanael o de Caná da Galileia e os de Zebedeu e outros dos – discípulos dele dois
+-- c21-v3: diz a–eles Simão Pedro Vou pescar dizem a–ele Vamos também nós com ti saíram e entraram no – barco e naquela – – noite pegaram nada
+-- c21-v4: de–manhã e já tendo–surgido pôs–se Jesus na a praia não porém sabiam os discípulos que Jesus é
+-- c21-v5: diz pois a–eles – Jesus Meninos não algum peixe tendes responderam a–ele Não
+-- c21-v6: – e disse a–eles Lançai à – direita parte do barco a rede e achareis lançaram pois e já–não ela puxar conseguiam por–causa da multidão dos peixes
+-- c21-v7: diz pois o discípulo aquele a–quem amava – Jesus a Pedro O Senhor é Simão pois Pedro ouvindo que o Senhor é a veste cingiu estava pois nu e lançou a–si–mesmo no – mar
+-- c21-v8: – mas outros discípulos no barquinho vieram não pois estavam longe da – terra mas como a côvados duzentos arrastando a rede dos peixes
+-- c21-v9: quando pois desembarcaram na a terra veem braseiro posto e peixe colocado–sobre e pão
+-- c21-v10: diz a–eles – Jesus Trazei dos – peixes que pegastes agora
+-- c21-v11: subiu pois Simão Pedro e puxou a rede para a terra cheia de–peixes grandes cento cinquenta e–três e tantos sendo não rasgou–se a rede
+-- c21-v12: diz a–eles – Jesus Vinde almoçai nenhum porém ousava dos discípulos perguntar a–ele Tu quem és sabendo que o Senhor é
+-- c21-v13: vem – Jesus e toma o pão e dá a–eles e o peixe igualmente
+-- c21-v14: esta já terceira foi–manifestado – Jesus aos discípulos tendo–ressuscitado dentre mortos
+-- c21-v15: Quando pois almoçaram diz a Simão Pedro – Jesus Simão de–João amas a–mim mais do–que–estes diz a–ele Sim Senhor tu sabes que amo te diz a–ele Apascenta os cordeiros meus
+-- c21-v16: diz a–ele novamente segunda–vez Simão de–João amas a–mim diz a–ele Sim Senhor tu sabes que amo te diz a–ele Pastoreia as ovelhas minhas
+-- c21-v17: diz a–ele a terceira–vez Simão de–João amas a–mim entristeceu–se – Pedro porque disse a–ele a terceira–vez Amas a–mim e disse a–ele Senhor todas–as–coisas tu sabes tu conheces que amo te diz a–ele – Jesus Apascenta as ovelhas minhas
+-- c21-v18: em–verdade em–verdade digo a–ti quando eras mais–jovem cingias a–ti–mesmo e andavas onde querias quando porém envelheceres estenderás as mãos tuas e outro cingirá te e levará onde não queres
+-- c21-v19: isto e disse indicando de–que morte glorificará – Deus e isto tendo–dito diz a–ele Segue a–mim
+-- c21-v20: virando–se – Pedro vê o discípulo a–quem amava – Jesus seguindo o–qual também reclinou–se na – ceia sobre o peito dele e disse Senhor quem é o–que entrega te
+-- c21-v21: a–este pois vendo – Pedro diz a Jesus Senhor este porém que
+-- c21-v22: diz a–ele – Jesus Se ele quero permanecer até eu–venha que a ti tu a–mim segue
+-- c21-v23: saiu pois esta a palavra aos – irmãos que o discípulo aquele não morre não disse porém a–ele – Jesus que não morre mas Se ele quero permanecer até eu–venha que a ti
+-- c21-v24: Este é o discípulo o que–testemunha acerca destas–coisas e o que–escreveu estas–coisas e sabemos que verdadeiro dele o testemunho é
+-- c21-v25: Há e também outras muitas–coisas que fez – Jesus as–quais se fossem–escritas uma–por–uma – nem mesmo creio o mundo conter os que–seriam–escritos livros
 
 BEGIN;
 -- 4300100101: Ἐν (G1722) → "No" [opus-4.5-chirho]

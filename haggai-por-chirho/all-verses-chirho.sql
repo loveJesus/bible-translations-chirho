@@ -3,46 +3,46 @@
 -- — John 3:16
 
 -- HAGGAI - POR Combined
--- Generated: 2026-01-27T21:47:00Z
+-- Generated: 2026-01-27T22:20:30Z
 
--- HAGGAI c1-v1 - POR
--- HAGGAI c1-v2 - POR
--- HAGGAI c1-v3 - POR
--- HAGGAI c1-v4 - POR
--- HAGGAI c1-v5 - POR
--- HAGGAI c1-v6 - POR
--- HAGGAI c1-v7 - POR
--- HAGGAI c1-v8 - POR
--- HAGGAI c1-v9 - POR
--- HAGGAI c1-v10 - POR
--- HAGGAI c1-v11 - POR
--- HAGGAI c1-v12 - POR
--- HAGGAI c1-v13 - POR
--- HAGGAI c1-v14 - POR
--- HAGGAI c1-v15 - POR
--- HAGGAI c2-v1 - POR
--- HAGGAI c2-v2 - POR
--- HAGGAI c2-v3 - POR
--- HAGGAI c2-v4 - POR
--- HAGGAI c2-v5 - POR
--- HAGGAI c2-v6 - POR
--- HAGGAI c2-v7 - POR
--- HAGGAI c2-v8 - POR
--- HAGGAI c2-v9 - POR
--- HAGGAI c2-v10 - POR
--- HAGGAI c2-v11 - POR
--- HAGGAI c2-v12 - POR
--- HAGGAI c2-v13 - POR
--- HAGGAI c2-v14 - POR
--- HAGGAI c2-v15 - POR
--- HAGGAI c2-v16 - POR
--- HAGGAI c2-v17 - POR
--- HAGGAI c2-v18 - POR
--- HAGGAI c2-v19 - POR
--- HAGGAI c2-v20 - POR
--- HAGGAI c2-v21 - POR
--- HAGGAI c2-v22 - POR
--- HAGGAI c2-v23 - POR
+-- c1-v1: No–ano dois de–Daryavesh o–rei no–mês o–sexto no–dia um do–mês veio a–palavra–de YHWH pela–mão–de Chaggay o–profeta a Zerubbavel filho–de She'altiy'el governador–de Yehudah e–a Yehoshua' filho–de Yehotsadaq o–sacerdote o–grande dizendo
+-- c1-v2: Assim disse YHWH dos–exércitos dizendo O–povo este disse Não tempo–de vir tempo–de casa–de YHWH para–ser–construída ¶
+-- c1-v3: E–veio a–palavra–de YHWH pela–mão–de Chaggay o–profeta dizendo
+-- c1-v4: É–tempo para–vós vós de–habitar nas–vossas–casas revestidas e–a–casa esta arruinada
+-- c1-v5: E–agora assim disse YHWH dos–exércitos Ponde vosso–coração sobre vossos–caminhos
+-- c1-v6: Semeais muito e–trazeis pouco comeis e–não–há para–saciar bebeis e–não–há para–embriagar vestis e–não–há para–aquecer para–ele e–o–que–ganha–salário ganha–salário para bolsa furada ¶
+-- c1-v7: Assim disse YHWH dos–exércitos Ponde vosso–coração sobre vossos–caminhos
+-- c1-v8: Subi ao–monte e–trazei madeira e–edificai a–casa e–agradar–me–ei nela [e–serei–glorificado] (e–serei–glorificado) disse YHWH
+-- c1-v9: Olhais para muito e–eis para–pouco e–trouxestes a–casa e–soprei nela por–causa–de quê declara YHWH dos–exércitos Por–causa–de minha–casa que ela arruinada e–vós correis cada–homem para–sua–casa
+-- c1-v10: Sobre assim sobre–vós retiveram os–céus do–orvalho e–a–terra reteve sua–produção
+-- c1-v11: E–chamei seca sobre a–terra e–sobre os–montes e–sobre o–grão e–sobre o–vinho–novo e–sobre o–azeite e–sobre o–que produz o–solo e–sobre o–homem e–sobre o–animal e–sobre todo trabalho–de mãos §
+-- c1-v12: E–ouviu Zerubbavel filho–de She'altiy'el e–Yehoshua' filho–de Yehotsadaq o–sacerdote o–grande e–todo o–remanescente–de o–povo na–voz–de YHWH seu–Deus e–nas palavras–de Chaggay o–profeta como enviou–o YHWH seu–Deus e–temeu o–povo de–diante–de YHWH
+-- c1-v13: E–disse Chaggay mensageiro–de YHWH na–mensagem–de YHWH ao–povo dizendo Eu convosco declara YHWH
+-- c1-v14: E–despertou YHWH (a) o–espírito–de Zerubbavel filho–de She'altiy'el governador–de Yehudah e–(a) o–espírito–de Yehoshua' filho–de Yehotsadaq o–sacerdote o–grande e–(a) o–espírito–de todo o–remanescente–de o–povo e–vieram e–fizeram obra na–casa–de YHWH dos–exércitos seu–Deus ¶
+-- c1-v15: No–dia vinte e–quatro do–mês no–sexto no–ano dois de–Daryavesh o–rei
+-- c2-v1: No–sétimo no–vinte e–um do–mês veio a–palavra–de YHWH pela–mão–de Chaggay o–profeta dizendo
+-- c2-v2: Dize por–favor a Zerubbavel filho–de She'altiy'el governador–de Yehudah e–a Yehoshua' filho–de Yehotsadaq o–sacerdote o–grande e–ao remanescente–de o–povo dizendo
+-- c2-v3: Quem entre–vós o–que–restou que viu (a) a–casa esta em–sua–glória a–primeira e–que vós vedes ela agora Acaso–não como–ela como–nada em–vossos–olhos
+-- c2-v4: E–agora sê–forte Zerubbavel declara YHWH e–sê–forte Yehoshua' filho–de Yehotsadaq o–sacerdote o–grande e–sê–forte todo povo–de a–terra declara YHWH e–fazei pois Eu convosco declara YHWH dos–exércitos
+-- c2-v5: (a) a–palavra que cortei convosco na–vossa–saída do–Egito e–meu–espírito permanece no–vosso–meio não temais §
+-- c2-v6: Pois assim disse YHWH dos–exércitos Ainda uma pouco ela e–eu farei–tremer (a) os–céus e–(a) a–terra e–(a) o–mar e–(a) a–terra–seca
+-- c2-v7: E–farei–tremer (a) todas as–nações e–virão os–tesouros–de todas as–nações e–encherei (a) a–casa esta glória disse YHWH dos–exércitos
+-- c2-v8: Minha a–prata e–meu o–ouro declara YHWH dos–exércitos
+-- c2-v9: Grande será a–glória–de a–casa esta a–última mais–que a–primeira disse YHWH dos–exércitos e–neste–lugar este darei paz declara YHWH dos–exércitos ¶
+-- c2-v10: No–vinte e–quatro do–nono no–ano dois de–Daryavesh veio a–palavra–de YHWH a Chaggay o–profeta dizendo
+-- c2-v11: Assim disse YHWH dos–exércitos Pergunta por–favor (a) os–sacerdotes instrução dizendo
+-- c2-v12: Eis carrega um–homem carne santa na–aba–de sua–veste e–toca com–sua–aba no pão e–no cozido e–no vinho e–no azeite e–em todo alimento tornar–se–á–santo E–responderam os–sacerdotes e–disseram Não
+-- c2-v13: E–disse Chaggay Se tocar impuro–de alma em–qualquer–de estes tornar–se–á–impuro E–responderam os–sacerdotes e–disseram Tornar–se–á–impuro
+-- c2-v14: E–respondeu Chaggay e–disse Assim o–povo este e–assim a–nação esta diante–de–mim declara YHWH e–assim toda obra–de suas–mãos e–o–que oferecem lá impuro ele
+-- c2-v15: E–agora ponde por–favor vosso–coração desde o–dia este e–acima de–antes–de colocar pedra sobre pedra no–templo–de YHWH
+-- c2-v16: Desde–serem vindo a monte–de vinte e–era dez vindo ao lagar para–tirar cinquenta medidas e–eram vinte
+-- c2-v17: Feri vós com–murchão e–com–ferrugem e–com–granizo (a) toda obra–de vossas–mãos e–não–havia vós a–mim declara YHWH
+-- c2-v18: Ponde por–favor vosso–coração desde o–dia este e–acima desde–o–dia vinte e–quatro do–nono desde o–dia que foi–fundado o–templo–de YHWH ponde vosso–coração
+-- c2-v19: Ainda a–semente no–celeiro e–até a–videira e–a–figueira e–a–romãzeira e–árvore–de a–oliveira não produziu desde o–dia este abençoarei §
+-- c2-v20: E–veio a–palavra–de YHWH segunda–vez a Chaggay no–vinte e–quatro do–mês dizendo
+-- c2-v21: Dize a Zerubbavel governador–de Yehudah dizendo Eu farei–tremer (a) os–céus e–(a) a–terra
+-- c2-v22: E–derrubarei o–trono–de reinos e–destruirei a–força–de reinos–de as–nações e–derrubarei carro e–seus–cavaleiros e–descenderão cavalos e–seus–cavaleiros cada–homem pela–espada–de seu–irmão
+-- c2-v23: No–dia aquele declara YHWH dos–exércitos tomar–te–ei Zerubbavel filho–de She'altiy'el meu–servo declara YHWH e–colocar–te–ei como–selo pois em–ti escolhi declara YHWH dos–exércitos
 
 BEGIN;
 -- 3700100101: בִּשְׁנַ֤ת (H8141) → "No–ano" [opus-4.5-chirho]

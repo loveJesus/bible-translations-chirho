@@ -3,884 +3,884 @@
 -- — John 3:16
 
 -- MATTHEW - POR Combined
--- Generated: 2026-01-27T21:47:36Z
+-- Generated: 2026-01-27T22:21:32Z
 
--- MATTHEW c1-v1 - POR
--- MATTHEW c1-v2 - POR
--- MATTHEW c1-v3 - POR
--- MATTHEW c1-v4 - POR
--- MATTHEW c1-v5 - POR
--- MATTHEW c1-v6 - POR
--- MATTHEW c1-v7 - POR
--- MATTHEW c1-v8 - POR
--- MATTHEW c1-v9 - POR
--- MATTHEW c1-v10 - POR
--- MATTHEW c1-v11 - POR
--- MATTHEW c1-v12 - POR
--- MATTHEW c1-v13 - POR
--- MATTHEW c1-v14 - POR
--- MATTHEW c1-v15 - POR
--- MATTHEW c1-v16 - POR
--- MATTHEW c1-v17 - POR
--- MATTHEW c1-v18 - POR
--- MATTHEW c1-v19 - POR
--- MATTHEW c1-v20 - POR
--- MATTHEW c1-v21 - POR
--- MATTHEW c1-v22 - POR
--- MATTHEW c1-v23 - POR
--- MATTHEW c1-v24 - POR
--- MATTHEW c1-v25 - POR
--- MATTHEW c2-v1 - POR
--- MATTHEW c2-v2 - POR
--- MATTHEW c2-v3 - POR
--- MATTHEW c2-v4 - POR
--- MATTHEW c2-v5 - POR
--- MATTHEW c2-v6 - POR
--- MATTHEW c2-v7 - POR
--- MATTHEW c2-v8 - POR
--- MATTHEW c2-v9 - POR
--- MATTHEW c2-v10 - POR
--- MATTHEW c2-v11 - POR
--- MATTHEW c2-v12 - POR
--- MATTHEW c2-v13 - POR
--- MATTHEW c2-v14 - POR
--- MATTHEW c2-v15 - POR
--- MATTHEW c2-v16 - POR
--- MATTHEW c2-v17 - POR
--- MATTHEW c2-v18 - POR
--- MATTHEW c2-v19 - POR
--- MATTHEW c2-v20 - POR
--- MATTHEW c2-v21 - POR
--- MATTHEW c2-v22 - POR
--- MATTHEW c2-v23 - POR
--- MATTHEW c3-v1 - POR
--- MATTHEW c3-v2 - POR
--- MATTHEW c3-v3 - POR
--- MATTHEW c3-v4 - POR
--- MATTHEW c3-v5 - POR
--- MATTHEW c3-v6 - POR
--- MATTHEW c3-v7 - POR
--- MATTHEW c3-v8 - POR
--- MATTHEW c3-v9 - POR
--- MATTHEW c3-v10 - POR
--- MATTHEW c3-v11 - POR
--- MATTHEW c3-v12 - POR
--- MATTHEW c3-v13 - POR
--- MATTHEW c3-v14 - POR
--- MATTHEW c3-v15 - POR
--- MATTHEW c3-v16 - POR
--- MATTHEW c3-v17 - POR
--- MATTHEW c4-v1 - POR
--- MATTHEW c4-v2 - POR
--- MATTHEW c4-v3 - POR
--- MATTHEW c4-v4 - POR
--- MATTHEW c4-v5 - POR
--- MATTHEW c4-v6 - POR
--- MATTHEW c4-v7 - POR
--- MATTHEW c4-v8 - POR
--- MATTHEW c4-v9 - POR
--- MATTHEW c4-v10 - POR
--- MATTHEW c4-v11 - POR
--- MATTHEW c4-v12 - POR
--- MATTHEW c4-v13 - POR
--- MATTHEW c4-v14 - POR
--- MATTHEW c4-v15 - POR
--- MATTHEW c4-v16 - POR
--- MATTHEW c4-v17 - POR
--- MATTHEW c4-v18 - POR
--- MATTHEW c4-v19 - POR
--- MATTHEW c4-v20 - POR
--- MATTHEW c4-v21 - POR
--- MATTHEW c4-v22 - POR
--- MATTHEW c4-v23 - POR
--- MATTHEW c4-v24 - POR
--- MATTHEW c4-v25 - POR
--- MATTHEW c5-v1 - POR
--- MATTHEW c5-v2 - POR
--- MATTHEW c5-v3 - POR
--- MATTHEW c5-v4 - POR
--- MATTHEW c5-v5 - POR
--- MATTHEW c5-v6 - POR
--- MATTHEW c5-v7 - POR
--- MATTHEW c5-v8 - POR
--- MATTHEW c5-v9 - POR
--- MATTHEW c5-v10 - POR
--- MATTHEW c5-v11 - POR
--- MATTHEW c5-v12 - POR
--- MATTHEW c5-v13 - POR
--- MATTHEW c5-v14 - POR
--- MATTHEW c5-v15 - POR
--- MATTHEW c5-v16 - POR
--- MATTHEW c5-v17 - POR
--- MATTHEW c5-v18 - POR
--- MATTHEW c5-v19 - POR
--- MATTHEW c5-v20 - POR
--- MATTHEW c5-v21 - POR
--- MATTHEW c5-v22 - POR
--- MATTHEW c5-v23 - POR
--- MATTHEW c5-v24 - POR
--- MATTHEW c5-v25 - POR
--- MATTHEW c5-v26 - POR
--- MATTHEW c5-v27 - POR
--- MATTHEW c5-v28 - POR
--- MATTHEW c5-v29 - POR
--- MATTHEW c5-v30 - POR
--- MATTHEW c5-v31 - POR
--- MATTHEW c5-v32 - POR
--- MATTHEW c5-v33 - POR
--- MATTHEW c5-v34 - POR
--- MATTHEW c5-v35 - POR
--- MATTHEW c5-v36 - POR
--- MATTHEW c5-v37 - POR
--- MATTHEW c5-v38 - POR
--- MATTHEW c5-v39 - POR
--- MATTHEW c5-v40 - POR
--- MATTHEW c5-v41 - POR
--- MATTHEW c5-v42 - POR
--- MATTHEW c5-v43 - POR
--- MATTHEW c5-v44 - POR
--- MATTHEW c5-v45 - POR
--- MATTHEW c5-v46 - POR
--- MATTHEW c5-v47 - POR
--- MATTHEW c5-v48 - POR
--- MATTHEW c6-v1 - POR
--- MATTHEW c6-v2 - POR
--- MATTHEW c6-v3 - POR
--- MATTHEW c6-v4 - POR
--- MATTHEW c6-v5 - POR
--- MATTHEW c6-v6 - POR
--- MATTHEW c6-v7 - POR
--- MATTHEW c6-v8 - POR
--- MATTHEW c6-v9 - POR
--- MATTHEW c6-v10 - POR
--- MATTHEW c6-v11 - POR
--- MATTHEW c6-v12 - POR
--- MATTHEW c6-v13 - POR
--- MATTHEW c6-v14 - POR
--- MATTHEW c6-v15 - POR
--- MATTHEW c6-v16 - POR
--- MATTHEW c6-v17 - POR
--- MATTHEW c6-v18 - POR
--- MATTHEW c6-v19 - POR
--- MATTHEW c6-v20 - POR
--- MATTHEW c6-v21 - POR
--- MATTHEW c6-v22 - POR
--- MATTHEW c6-v23 - POR
--- MATTHEW c6-v24 - POR
--- MATTHEW c6-v25 - POR
--- MATTHEW c6-v26 - POR
--- MATTHEW c6-v27 - POR
--- MATTHEW c6-v28 - POR
--- MATTHEW c6-v29 - POR
--- MATTHEW c6-v30 - POR
--- MATTHEW c6-v31 - POR
--- MATTHEW c6-v32 - POR
--- MATTHEW c6-v33 - POR
--- MATTHEW c6-v34 - POR
--- MATTHEW c7-v1 - POR
--- MATTHEW c7-v2 - POR
--- MATTHEW c7-v3 - POR
--- MATTHEW c7-v4 - POR
--- MATTHEW c7-v5 - POR
--- MATTHEW c7-v6 - POR
--- MATTHEW c7-v7 - POR
--- MATTHEW c7-v8 - POR
--- MATTHEW c7-v9 - POR
--- MATTHEW c7-v10 - POR
--- MATTHEW c7-v11 - POR
--- MATTHEW c7-v12 - POR
--- MATTHEW c7-v13 - POR
--- MATTHEW c7-v14 - POR
--- MATTHEW c7-v15 - POR
--- MATTHEW c7-v16 - POR
--- MATTHEW c7-v17 - POR
--- MATTHEW c7-v18 - POR
--- MATTHEW c7-v19 - POR
--- MATTHEW c7-v20 - POR
--- MATTHEW c7-v21 - POR
--- MATTHEW c7-v22 - POR
--- MATTHEW c7-v23 - POR
--- MATTHEW c7-v24 - POR
--- MATTHEW c7-v25 - POR
--- MATTHEW c7-v26 - POR
--- MATTHEW c7-v27 - POR
--- MATTHEW c7-v28 - POR
--- MATTHEW c7-v29 - POR
--- MATTHEW c8-v1 - POR
--- MATTHEW c8-v2 - POR
--- MATTHEW c8-v3 - POR
--- MATTHEW c8-v4 - POR
--- MATTHEW c8-v5 - POR
--- MATTHEW c8-v6 - POR
--- MATTHEW c8-v7 - POR
--- MATTHEW c8-v8 - POR
--- MATTHEW c8-v9 - POR
--- MATTHEW c8-v10 - POR
--- MATTHEW c8-v11 - POR
--- MATTHEW c8-v12 - POR
--- MATTHEW c8-v13 - POR
--- MATTHEW c8-v14 - POR
--- MATTHEW c8-v15 - POR
--- MATTHEW c8-v16 - POR
--- MATTHEW c8-v17 - POR
--- MATTHEW c8-v18 - POR
--- MATTHEW c8-v19 - POR
--- MATTHEW c8-v20 - POR
--- MATTHEW c8-v21 - POR
--- MATTHEW c8-v22 - POR
--- MATTHEW c8-v23 - POR
--- MATTHEW c8-v24 - POR
--- MATTHEW c8-v25 - POR
--- MATTHEW c8-v26 - POR
--- MATTHEW c8-v27 - POR
--- MATTHEW c8-v28 - POR
--- MATTHEW c8-v29 - POR
--- MATTHEW c8-v30 - POR
--- MATTHEW c8-v31 - POR
--- MATTHEW c8-v32 - POR
--- MATTHEW c8-v33 - POR
--- MATTHEW c8-v34 - POR
--- MATTHEW c9-v1 - POR
--- MATTHEW c9-v2 - POR
--- MATTHEW c9-v3 - POR
--- MATTHEW c9-v4 - POR
--- MATTHEW c9-v5 - POR
--- MATTHEW c9-v6 - POR
--- MATTHEW c9-v7 - POR
--- MATTHEW c9-v8 - POR
--- MATTHEW c9-v9 - POR
--- MATTHEW c9-v10 - POR
--- MATTHEW c9-v11 - POR
--- MATTHEW c9-v12 - POR
--- MATTHEW c9-v13 - POR
--- MATTHEW c9-v14 - POR
--- MATTHEW c9-v15 - POR
--- MATTHEW c9-v16 - POR
--- MATTHEW c9-v17 - POR
--- MATTHEW c9-v18 - POR
--- MATTHEW c9-v19 - POR
--- MATTHEW c9-v20 - POR
--- MATTHEW c9-v21 - POR
--- MATTHEW c9-v22 - POR
--- MATTHEW c9-v23 - POR
--- MATTHEW c9-v24 - POR
--- MATTHEW c9-v25 - POR
--- MATTHEW c9-v26 - POR
--- MATTHEW c9-v27 - POR
--- MATTHEW c9-v28 - POR
--- MATTHEW c9-v29 - POR
--- MATTHEW c9-v30 - POR
--- MATTHEW c9-v31 - POR
--- MATTHEW c9-v32 - POR
--- MATTHEW c9-v33 - POR
--- MATTHEW c9-v34 - POR
--- MATTHEW c9-v35 - POR
--- MATTHEW c9-v36 - POR
--- MATTHEW c9-v37 - POR
--- MATTHEW c9-v38 - POR
--- MATTHEW c10-v1 - POR
--- MATTHEW c10-v2 - POR
--- MATTHEW c10-v3 - POR
--- MATTHEW c10-v4 - POR
--- MATTHEW c10-v5 - POR
--- MATTHEW c10-v6 - POR
--- MATTHEW c10-v7 - POR
--- MATTHEW c10-v8 - POR
--- MATTHEW c10-v9 - POR
--- MATTHEW c10-v10 - POR
--- MATTHEW c10-v11 - POR
--- MATTHEW c10-v12 - POR
--- MATTHEW c10-v13 - POR
--- MATTHEW c10-v14 - POR
--- MATTHEW c10-v15 - POR
--- MATTHEW c10-v16 - POR
--- MATTHEW c10-v17 - POR
--- MATTHEW c10-v18 - POR
--- MATTHEW c10-v19 - POR
--- MATTHEW c10-v20 - POR
--- MATTHEW c10-v21 - POR
--- MATTHEW c10-v22 - POR
--- MATTHEW c10-v23 - POR
--- MATTHEW c10-v24 - POR
--- MATTHEW c10-v25 - POR
--- MATTHEW c10-v26 - POR
--- MATTHEW c10-v27 - POR
--- MATTHEW c10-v28 - POR
--- MATTHEW c10-v29 - POR
--- MATTHEW c10-v30 - POR
--- MATTHEW c10-v31 - POR
--- MATTHEW c10-v32 - POR
--- MATTHEW c10-v33 - POR
--- MATTHEW c10-v34 - POR
--- MATTHEW c10-v35 - POR
--- MATTHEW c10-v36 - POR
--- MATTHEW c10-v37 - POR
--- MATTHEW c10-v38 - POR
--- MATTHEW c10-v39 - POR
--- MATTHEW c10-v40 - POR
--- MATTHEW c10-v41 - POR
--- MATTHEW c10-v42 - POR
--- MATTHEW c11-v1 - POR
--- MATTHEW c11-v2 - POR
--- MATTHEW c11-v3 - POR
--- MATTHEW c11-v4 - POR
--- MATTHEW c11-v5 - POR
--- MATTHEW c11-v6 - POR
--- MATTHEW c11-v7 - POR
--- MATTHEW c11-v8 - POR
--- MATTHEW c11-v9 - POR
--- MATTHEW c11-v10 - POR
--- MATTHEW c11-v11 - POR
--- MATTHEW c11-v12 - POR
--- MATTHEW c11-v13 - POR
--- MATTHEW c11-v14 - POR
--- MATTHEW c11-v15 - POR
--- MATTHEW c11-v16 - POR
--- MATTHEW c11-v17 - POR
--- MATTHEW c11-v18 - POR
--- MATTHEW c11-v19 - POR
--- MATTHEW c11-v20 - POR
--- MATTHEW c11-v21 - POR
--- MATTHEW c11-v22 - POR
--- MATTHEW c11-v23 - POR
--- MATTHEW c11-v24 - POR
--- MATTHEW c11-v25 - POR
--- MATTHEW c11-v26 - POR
--- MATTHEW c11-v27 - POR
--- MATTHEW c11-v28 - POR
--- MATTHEW c11-v29 - POR
--- MATTHEW c11-v30 - POR
--- MATTHEW c13-v1 - POR
--- MATTHEW c13-v2 - POR
--- MATTHEW c13-v3 - POR
--- MATTHEW c13-v4 - POR
--- MATTHEW c13-v5 - POR
--- MATTHEW c13-v6 - POR
--- MATTHEW c13-v7 - POR
--- MATTHEW c13-v8 - POR
--- MATTHEW c13-v9 - POR
--- MATTHEW c13-v10 - POR
--- MATTHEW c13-v11 - POR
--- MATTHEW c13-v12 - POR
--- MATTHEW c13-v13 - POR
--- MATTHEW c13-v14 - POR
--- MATTHEW c13-v15 - POR
--- MATTHEW c13-v16 - POR
--- MATTHEW c13-v17 - POR
--- MATTHEW c13-v18 - POR
--- MATTHEW c13-v19 - POR
--- MATTHEW c13-v20 - POR
--- MATTHEW c13-v21 - POR
--- MATTHEW c13-v22 - POR
--- MATTHEW c13-v23 - POR
--- MATTHEW c13-v24 - POR
--- MATTHEW c13-v25 - POR
--- MATTHEW c13-v26 - POR
--- MATTHEW c13-v27 - POR
--- MATTHEW c13-v28 - POR
--- MATTHEW c13-v29 - POR
--- MATTHEW c13-v30 - POR
--- MATTHEW c13-v31 - POR
--- MATTHEW c13-v32 - POR
--- MATTHEW c13-v33 - POR
--- MATTHEW c13-v34 - POR
--- MATTHEW c13-v35 - POR
--- MATTHEW c13-v36 - POR
--- MATTHEW c13-v37 - POR
--- MATTHEW c13-v38 - POR
--- MATTHEW c13-v39 - POR
--- MATTHEW c13-v40 - POR
--- MATTHEW c13-v41 - POR
--- MATTHEW c13-v42 - POR
--- MATTHEW c13-v43 - POR
--- MATTHEW c13-v44 - POR
--- MATTHEW c13-v45 - POR
--- MATTHEW c13-v46 - POR
--- MATTHEW c13-v47 - POR
--- MATTHEW c13-v48 - POR
--- MATTHEW c13-v49 - POR
--- MATTHEW c13-v50 - POR
--- MATTHEW c13-v51 - POR
--- MATTHEW c13-v52 - POR
--- MATTHEW c13-v53 - POR
--- MATTHEW c13-v54 - POR
--- MATTHEW c13-v55 - POR
--- MATTHEW c13-v56 - POR
--- MATTHEW c13-v57 - POR
--- MATTHEW c13-v58 - POR
--- MATTHEW c14-v1 - POR
--- MATTHEW c14-v2 - POR
--- MATTHEW c14-v3 - POR
--- MATTHEW c14-v4 - POR
--- MATTHEW c14-v5 - POR
--- MATTHEW c14-v6 - POR
--- MATTHEW c14-v7 - POR
--- MATTHEW c14-v8 - POR
--- MATTHEW c14-v9 - POR
--- MATTHEW c14-v10 - POR
--- MATTHEW c14-v11 - POR
--- MATTHEW c14-v12 - POR
--- MATTHEW c14-v13 - POR
--- MATTHEW c14-v14 - POR
--- MATTHEW c14-v15 - POR
--- MATTHEW c14-v16 - POR
--- MATTHEW c14-v17 - POR
--- MATTHEW c14-v18 - POR
--- MATTHEW c14-v19 - POR
--- MATTHEW c14-v20 - POR
--- MATTHEW c14-v21 - POR
--- MATTHEW c14-v22 - POR
--- MATTHEW c14-v23 - POR
--- MATTHEW c14-v24 - POR
--- MATTHEW c14-v25 - POR
--- MATTHEW c14-v26 - POR
--- MATTHEW c14-v27 - POR
--- MATTHEW c14-v28 - POR
--- MATTHEW c14-v29 - POR
--- MATTHEW c14-v30 - POR
--- MATTHEW c14-v31 - POR
--- MATTHEW c14-v32 - POR
--- MATTHEW c14-v33 - POR
--- MATTHEW c14-v34 - POR
--- MATTHEW c14-v35 - POR
--- MATTHEW c14-v36 - POR
--- MATTHEW c15-v1 - POR
--- MATTHEW c15-v2 - POR
--- MATTHEW c15-v3 - POR
--- MATTHEW c15-v4 - POR
--- MATTHEW c15-v5 - POR
--- MATTHEW c15-v6 - POR
--- MATTHEW c15-v7 - POR
--- MATTHEW c15-v8 - POR
--- MATTHEW c15-v9 - POR
--- MATTHEW c15-v10 - POR
--- MATTHEW c15-v11 - POR
--- MATTHEW c15-v12 - POR
--- MATTHEW c15-v13 - POR
--- MATTHEW c15-v14 - POR
--- MATTHEW c15-v15 - POR
--- MATTHEW c15-v16 - POR
--- MATTHEW c15-v17 - POR
--- MATTHEW c15-v18 - POR
--- MATTHEW c15-v19 - POR
--- MATTHEW c15-v20 - POR
--- MATTHEW c15-v21 - POR
--- MATTHEW c15-v22 - POR
--- MATTHEW c15-v23 - POR
--- MATTHEW c15-v24 - POR
--- MATTHEW c15-v25 - POR
--- MATTHEW c15-v26 - POR
--- MATTHEW c15-v27 - POR
--- MATTHEW c15-v28 - POR
--- MATTHEW c15-v29 - POR
--- MATTHEW c15-v30 - POR
--- MATTHEW c15-v31 - POR
--- MATTHEW c15-v32 - POR
--- MATTHEW c15-v33 - POR
--- MATTHEW c15-v34 - POR
--- MATTHEW c15-v35 - POR
--- MATTHEW c15-v36 - POR
--- MATTHEW c15-v37 - POR
--- MATTHEW c15-v38 - POR
--- MATTHEW c15-v39 - POR
--- MATTHEW c16-v1 - POR
--- MATTHEW c16-v2 - POR
--- MATTHEW c16-v3 - POR
--- MATTHEW c16-v4 - POR
--- MATTHEW c16-v5 - POR
--- MATTHEW c16-v6 - POR
--- MATTHEW c16-v7 - POR
--- MATTHEW c16-v8 - POR
--- MATTHEW c16-v9 - POR
--- MATTHEW c16-v10 - POR
--- MATTHEW c16-v11 - POR
--- MATTHEW c16-v12 - POR
--- MATTHEW c16-v13 - POR
--- MATTHEW c16-v14 - POR
--- MATTHEW c16-v15 - POR
--- MATTHEW c16-v16 - POR
--- MATTHEW c16-v17 - POR
--- MATTHEW c16-v18 - POR
--- MATTHEW c16-v19 - POR
--- MATTHEW c16-v20 - POR
--- MATTHEW c16-v21 - POR
--- MATTHEW c16-v22 - POR
--- MATTHEW c16-v23 - POR
--- MATTHEW c16-v24 - POR
--- MATTHEW c16-v25 - POR
--- MATTHEW c16-v26 - POR
--- MATTHEW c16-v27 - POR
--- MATTHEW c16-v28 - POR
--- MATTHEW c17-v1 - POR
--- MATTHEW c17-v2 - POR
--- MATTHEW c17-v3 - POR
--- MATTHEW c17-v4 - POR
--- MATTHEW c17-v5 - POR
--- MATTHEW c17-v6 - POR
--- MATTHEW c17-v7 - POR
--- MATTHEW c17-v8 - POR
--- MATTHEW c17-v9 - POR
--- MATTHEW c17-v10 - POR
--- MATTHEW c17-v11 - POR
--- MATTHEW c17-v12 - POR
--- MATTHEW c17-v13 - POR
--- MATTHEW c17-v14 - POR
--- MATTHEW c17-v15 - POR
--- MATTHEW c17-v16 - POR
--- MATTHEW c17-v17 - POR
--- MATTHEW c17-v18 - POR
--- MATTHEW c17-v19 - POR
--- MATTHEW c17-v20 - POR
--- MATTHEW c17-v21 - POR
--- MATTHEW c17-v22 - POR
--- MATTHEW c17-v23 - POR
--- MATTHEW c17-v24 - POR
--- MATTHEW c17-v25 - POR
--- MATTHEW c17-v26 - POR
--- MATTHEW c17-v27 - POR
--- MATTHEW c19-v1 - POR
--- MATTHEW c19-v2 - POR
--- MATTHEW c19-v3 - POR
--- MATTHEW c19-v4 - POR
--- MATTHEW c19-v5 - POR
--- MATTHEW c19-v6 - POR
--- MATTHEW c19-v7 - POR
--- MATTHEW c19-v8 - POR
--- MATTHEW c19-v9 - POR
--- MATTHEW c19-v10 - POR
--- MATTHEW c19-v11 - POR
--- MATTHEW c19-v12 - POR
--- MATTHEW c19-v13 - POR
--- MATTHEW c19-v14 - POR
--- MATTHEW c19-v15 - POR
--- MATTHEW c19-v16 - POR
--- MATTHEW c19-v17 - POR
--- MATTHEW c19-v18 - POR
--- MATTHEW c19-v19 - POR
--- MATTHEW c19-v20 - POR
--- MATTHEW c19-v21 - POR
--- MATTHEW c19-v22 - POR
--- MATTHEW c19-v23 - POR
--- MATTHEW c19-v24 - POR
--- MATTHEW c19-v25 - POR
--- MATTHEW c19-v26 - POR
--- MATTHEW c19-v27 - POR
--- MATTHEW c19-v28 - POR
--- MATTHEW c19-v29 - POR
--- MATTHEW c19-v30 - POR
--- MATTHEW c20-v1 - POR
--- MATTHEW c20-v2 - POR
--- MATTHEW c20-v3 - POR
--- MATTHEW c20-v4 - POR
--- MATTHEW c20-v5 - POR
--- MATTHEW c20-v6 - POR
--- MATTHEW c20-v7 - POR
--- MATTHEW c20-v8 - POR
--- MATTHEW c20-v9 - POR
--- MATTHEW c20-v10 - POR
--- MATTHEW c20-v11 - POR
--- MATTHEW c20-v12 - POR
--- MATTHEW c20-v13 - POR
--- MATTHEW c20-v14 - POR
--- MATTHEW c20-v15 - POR
--- MATTHEW c20-v16 - POR
--- MATTHEW c20-v17 - POR
--- MATTHEW c20-v18 - POR
--- MATTHEW c20-v19 - POR
--- MATTHEW c20-v20 - POR
--- MATTHEW c20-v21 - POR
--- MATTHEW c20-v22 - POR
--- MATTHEW c20-v23 - POR
--- MATTHEW c20-v24 - POR
--- MATTHEW c20-v25 - POR
--- MATTHEW c20-v26 - POR
--- MATTHEW c20-v27 - POR
--- MATTHEW c20-v28 - POR
--- MATTHEW c20-v29 - POR
--- MATTHEW c20-v30 - POR
--- MATTHEW c20-v31 - POR
--- MATTHEW c20-v32 - POR
--- MATTHEW c20-v33 - POR
--- MATTHEW c20-v34 - POR
--- MATTHEW c21-v1 - POR
--- MATTHEW c21-v2 - POR
--- MATTHEW c21-v3 - POR
--- MATTHEW c21-v4 - POR
--- MATTHEW c21-v5 - POR
--- MATTHEW c21-v6 - POR
--- MATTHEW c21-v7 - POR
--- MATTHEW c21-v8 - POR
--- MATTHEW c21-v9 - POR
--- MATTHEW c21-v10 - POR
--- MATTHEW c21-v11 - POR
--- MATTHEW c21-v12 - POR
--- MATTHEW c21-v13 - POR
--- MATTHEW c21-v14 - POR
--- MATTHEW c21-v15 - POR
--- MATTHEW c21-v16 - POR
--- MATTHEW c21-v17 - POR
--- MATTHEW c21-v18 - POR
--- MATTHEW c21-v19 - POR
--- MATTHEW c21-v20 - POR
--- MATTHEW c21-v21 - POR
--- MATTHEW c21-v22 - POR
--- MATTHEW c21-v23 - POR
--- MATTHEW c21-v24 - POR
--- MATTHEW c21-v25 - POR
--- MATTHEW c21-v26 - POR
--- MATTHEW c21-v27 - POR
--- MATTHEW c21-v28 - POR
--- MATTHEW c21-v29 - POR
--- MATTHEW c21-v30 - POR
--- MATTHEW c21-v31 - POR
--- MATTHEW c21-v32 - POR
--- MATTHEW c21-v33 - POR
--- MATTHEW c21-v34 - POR
--- MATTHEW c21-v35 - POR
--- MATTHEW c21-v36 - POR
--- MATTHEW c21-v37 - POR
--- MATTHEW c21-v38 - POR
--- MATTHEW c21-v39 - POR
--- MATTHEW c21-v40 - POR
--- MATTHEW c21-v41 - POR
--- MATTHEW c21-v42 - POR
--- MATTHEW c21-v43 - POR
--- MATTHEW c21-v44 - POR
--- MATTHEW c21-v45 - POR
--- MATTHEW c21-v46 - POR
--- MATTHEW c22-v1 - POR
--- MATTHEW c22-v2 - POR
--- MATTHEW c22-v3 - POR
--- MATTHEW c22-v4 - POR
--- MATTHEW c22-v5 - POR
--- MATTHEW c22-v6 - POR
--- MATTHEW c22-v7 - POR
--- MATTHEW c22-v8 - POR
--- MATTHEW c22-v9 - POR
--- MATTHEW c22-v10 - POR
--- MATTHEW c22-v11 - POR
--- MATTHEW c22-v12 - POR
--- MATTHEW c22-v13 - POR
--- MATTHEW c22-v14 - POR
--- MATTHEW c22-v15 - POR
--- MATTHEW c22-v16 - POR
--- MATTHEW c22-v17 - POR
--- MATTHEW c22-v18 - POR
--- MATTHEW c22-v19 - POR
--- MATTHEW c22-v20 - POR
--- MATTHEW c22-v21 - POR
--- MATTHEW c22-v22 - POR
--- MATTHEW c22-v23 - POR
--- MATTHEW c22-v24 - POR
--- MATTHEW c22-v25 - POR
--- MATTHEW c22-v26 - POR
--- MATTHEW c22-v27 - POR
--- MATTHEW c22-v28 - POR
--- MATTHEW c22-v29 - POR
--- MATTHEW c22-v30 - POR
--- MATTHEW c22-v31 - POR
--- MATTHEW c22-v32 - POR
--- MATTHEW c22-v33 - POR
--- MATTHEW c22-v34 - POR
--- MATTHEW c22-v35 - POR
--- MATTHEW c22-v36 - POR
--- MATTHEW c22-v37 - POR
--- MATTHEW c22-v38 - POR
--- MATTHEW c22-v39 - POR
--- MATTHEW c22-v40 - POR
--- MATTHEW c22-v41 - POR
--- MATTHEW c22-v42 - POR
--- MATTHEW c22-v43 - POR
--- MATTHEW c22-v44 - POR
--- MATTHEW c22-v45 - POR
--- MATTHEW c22-v46 - POR
--- MATTHEW c25-v1 - POR
--- MATTHEW c25-v2 - POR
--- MATTHEW c25-v3 - POR
--- MATTHEW c25-v4 - POR
--- MATTHEW c25-v5 - POR
--- MATTHEW c25-v6 - POR
--- MATTHEW c25-v7 - POR
--- MATTHEW c25-v8 - POR
--- MATTHEW c25-v9 - POR
--- MATTHEW c25-v10 - POR
--- MATTHEW c25-v11 - POR
--- MATTHEW c25-v12 - POR
--- MATTHEW c25-v13 - POR
--- MATTHEW c25-v14 - POR
--- MATTHEW c25-v15 - POR
--- MATTHEW c25-v16 - POR
--- MATTHEW c25-v17 - POR
--- MATTHEW c25-v18 - POR
--- MATTHEW c25-v19 - POR
--- MATTHEW c25-v20 - POR
--- MATTHEW c25-v21 - POR
--- MATTHEW c25-v22 - POR
--- MATTHEW c25-v23 - POR
--- MATTHEW c25-v24 - POR
--- MATTHEW c25-v25 - POR
--- MATTHEW c25-v26 - POR
--- MATTHEW c25-v27 - POR
--- MATTHEW c25-v28 - POR
--- MATTHEW c25-v29 - POR
--- MATTHEW c25-v30 - POR
--- MATTHEW c25-v31 - POR
--- MATTHEW c25-v32 - POR
--- MATTHEW c25-v33 - POR
--- MATTHEW c25-v34 - POR
--- MATTHEW c25-v35 - POR
--- MATTHEW c25-v36 - POR
--- MATTHEW c25-v37 - POR
--- MATTHEW c25-v38 - POR
--- MATTHEW c25-v39 - POR
--- MATTHEW c25-v40 - POR
--- MATTHEW c25-v41 - POR
--- MATTHEW c25-v42 - POR
--- MATTHEW c25-v43 - POR
--- MATTHEW c25-v44 - POR
--- MATTHEW c25-v45 - POR
--- MATTHEW c25-v46 - POR
--- MATTHEW c26-v1 - POR
--- MATTHEW c26-v2 - POR
--- MATTHEW c26-v3 - POR
--- MATTHEW c26-v4 - POR
--- MATTHEW c26-v5 - POR
--- MATTHEW c26-v6 - POR
--- MATTHEW c26-v7 - POR
--- MATTHEW c26-v8 - POR
--- MATTHEW c26-v9 - POR
--- MATTHEW c26-v10 - POR
--- MATTHEW c26-v11 - POR
--- MATTHEW c26-v12 - POR
--- MATTHEW c26-v13 - POR
--- MATTHEW c26-v14 - POR
--- MATTHEW c26-v15 - POR
--- MATTHEW c26-v16 - POR
--- MATTHEW c26-v17 - POR
--- MATTHEW c26-v18 - POR
--- MATTHEW c26-v19 - POR
--- MATTHEW c26-v20 - POR
--- MATTHEW c26-v21 - POR
--- MATTHEW c26-v22 - POR
--- MATTHEW c26-v23 - POR
--- MATTHEW c26-v24 - POR
--- MATTHEW c26-v25 - POR
--- MATTHEW c26-v26 - POR
--- MATTHEW c26-v27 - POR
--- MATTHEW c26-v28 - POR
--- MATTHEW c26-v29 - POR
--- MATTHEW c26-v30 - POR
--- MATTHEW c26-v31 - POR
--- MATTHEW c26-v32 - POR
--- MATTHEW c26-v33 - POR
--- MATTHEW c26-v34 - POR
--- MATTHEW c26-v35 - POR
--- MATTHEW c26-v36 - POR
--- MATTHEW c26-v37 - POR
--- MATTHEW c26-v38 - POR
--- MATTHEW c26-v39 - POR
--- MATTHEW c26-v40 - POR
--- MATTHEW c26-v41 - POR
--- MATTHEW c26-v42 - POR
--- MATTHEW c26-v43 - POR
--- MATTHEW c26-v44 - POR
--- MATTHEW c26-v45 - POR
--- MATTHEW c26-v46 - POR
--- MATTHEW c26-v47 - POR
--- MATTHEW c26-v48 - POR
--- MATTHEW c26-v49 - POR
--- MATTHEW c26-v50 - POR
--- MATTHEW c26-v51 - POR
--- MATTHEW c26-v52 - POR
--- MATTHEW c26-v53 - POR
--- MATTHEW c26-v54 - POR
--- MATTHEW c26-v55 - POR
--- MATTHEW c26-v56 - POR
--- MATTHEW c26-v57 - POR
--- MATTHEW c26-v58 - POR
--- MATTHEW c26-v59 - POR
--- MATTHEW c26-v60 - POR
--- MATTHEW c26-v61 - POR
--- MATTHEW c26-v62 - POR
--- MATTHEW c26-v63 - POR
--- MATTHEW c26-v64 - POR
--- MATTHEW c26-v65 - POR
--- MATTHEW c26-v66 - POR
--- MATTHEW c26-v67 - POR
--- MATTHEW c26-v68 - POR
--- MATTHEW c26-v69 - POR
--- MATTHEW c26-v70 - POR
--- MATTHEW c26-v71 - POR
--- MATTHEW c26-v72 - POR
--- MATTHEW c26-v73 - POR
--- MATTHEW c26-v74 - POR
--- MATTHEW c26-v75 - POR
--- MATTHEW c27-v1 - POR
--- MATTHEW c27-v2 - POR
--- MATTHEW c27-v3 - POR
--- MATTHEW c27-v4 - POR
--- MATTHEW c27-v5 - POR
--- MATTHEW c27-v6 - POR
--- MATTHEW c27-v7 - POR
--- MATTHEW c27-v8 - POR
--- MATTHEW c27-v9 - POR
--- MATTHEW c27-v10 - POR
--- MATTHEW c27-v11 - POR
--- MATTHEW c27-v12 - POR
--- MATTHEW c27-v13 - POR
--- MATTHEW c27-v14 - POR
--- MATTHEW c27-v15 - POR
--- MATTHEW c27-v16 - POR
--- MATTHEW c27-v17 - POR
--- MATTHEW c27-v18 - POR
--- MATTHEW c27-v19 - POR
--- MATTHEW c27-v20 - POR
--- MATTHEW c27-v21 - POR
--- MATTHEW c27-v22 - POR
--- MATTHEW c27-v23 - POR
--- MATTHEW c27-v24 - POR
--- MATTHEW c27-v25 - POR
--- MATTHEW c27-v26 - POR
--- MATTHEW c27-v27 - POR
--- MATTHEW c27-v28 - POR
--- MATTHEW c27-v29 - POR
--- MATTHEW c27-v30 - POR
--- MATTHEW c27-v31 - POR
--- MATTHEW c27-v32 - POR
--- MATTHEW c27-v33 - POR
--- MATTHEW c27-v34 - POR
--- MATTHEW c27-v35 - POR
--- MATTHEW c27-v36 - POR
--- MATTHEW c27-v37 - POR
--- MATTHEW c27-v38 - POR
--- MATTHEW c27-v39 - POR
--- MATTHEW c27-v40 - POR
--- MATTHEW c27-v41 - POR
--- MATTHEW c27-v42 - POR
--- MATTHEW c27-v43 - POR
--- MATTHEW c27-v44 - POR
--- MATTHEW c27-v45 - POR
--- MATTHEW c27-v46 - POR
--- MATTHEW c27-v47 - POR
--- MATTHEW c27-v48 - POR
--- MATTHEW c27-v49 - POR
--- MATTHEW c27-v50 - POR
--- MATTHEW c27-v51 - POR
--- MATTHEW c27-v52 - POR
--- MATTHEW c27-v53 - POR
--- MATTHEW c27-v54 - POR
--- MATTHEW c27-v55 - POR
--- MATTHEW c27-v56 - POR
--- MATTHEW c27-v57 - POR
--- MATTHEW c27-v58 - POR
--- MATTHEW c27-v59 - POR
--- MATTHEW c27-v60 - POR
--- MATTHEW c27-v61 - POR
--- MATTHEW c27-v62 - POR
--- MATTHEW c27-v63 - POR
--- MATTHEW c27-v64 - POR
--- MATTHEW c27-v65 - POR
--- MATTHEW c27-v66 - POR
+-- c1-v1: Livro de–geração de–Jesus Cristo filho de–Davi filho de–Abraão
+-- c1-v2: Abraão gerou a Isaque Isaque e gerou a Jacó Jacó e gerou a Judá e os irmãos dele
+-- c1-v3: Judá e gerou a Perez e a Zerá de a Tamar Perez e gerou a Esrom Esrom e gerou a Arão
+-- c1-v4: Arão e gerou a Aminadabe Aminadabe e gerou a Naassom Naassom e gerou a Salmom
+-- c1-v5: Salmom e gerou a Boaz de a Raabe Boaz e gerou a Obede de a Rute Obede e gerou a Jessé
+-- c1-v6: Jessé e gerou a Davi o rei Davi e gerou a Salomão de a do Urias
+-- c1-v7: Salomão e gerou a Roboão Roboão e gerou a Abias Abias e gerou a Asa
+-- c1-v8: Asa e gerou a Josafá Josafá e gerou a Jorão Jorão e gerou a Ozias
+-- c1-v9: Ozias e gerou a Joatão Joatão e gerou a Acaz Acaz e gerou a Ezequias
+-- c1-v10: Ezequias e gerou a Manassés Manassés e gerou a Amom Amom e gerou a Josias
+-- c1-v11: Josias e gerou a Jeconias e os irmãos dele durante a deportação para–Babilônia
+-- c1-v12: Depois e a deportação para–Babilônia Jeconias gerou a Salatiel Salatiel e gerou a Zorobabel
+-- c1-v13: Zorobabel e gerou a Abiúde Abiúde e gerou a Eliaquim Eliaquim e gerou a Azor
+-- c1-v14: Azor e gerou a Sadoque Sadoque e gerou a Aquim Aquim e gerou a Eliúde
+-- c1-v15: Eliúde e gerou a Eleazar Eleazar e gerou a Matã Matã e gerou a Jacó
+-- c1-v16: Jacó e gerou a José o marido de–Maria de quem nasceu Jesus o chamado Cristo
+-- c1-v17: Todas portanto as gerações desde Abraão até Davi gerações catorze e desde Davi até a deportação para–Babilônia gerações catorze e desde a deportação para–Babilônia até o Cristo gerações catorze
+-- c1-v18: Do e Jesus Cristo a origem assim foi estando–desposada a mãe dele Maria a José antes que coabitassem eles foi–achada em ventre tendo do Espírito Santo
+-- c1-v19: José e o marido dela justo sendo e não querendo a–ela expor–publicamente resolveu secretamente despedi -la
+-- c1-v20: estas–coisas e dele tendo–considerado eis anjo do–Senhor em sonho apareceu a–ele dizendo José filho de–Davi não temas receber Maria a mulher tua o pois nela nela gerado do Espírito é Santo
+-- c1-v21: dará–à–luz e filho e chamarás o nome dele Jesus ele pois salvará o povo dele dos os pecados deles
+-- c1-v22: Isto e tudo aconteceu para–que se–cumprisse o dito pelo Senhor por–meio do profeta dizendo
+-- c1-v23: Eis a virgem em ventre terá e dará–à–luz filho e chamarão o nome dele Emanuel que é traduzido Com nós o Deus
+-- c1-v24: tendo–despertado e o José do o sono fez como ordenou a–ele o anjo do–Senhor e recebeu a mulher dele
+-- c1-v25: e não a–conhecia ela até que deu–à–luz filho e chamou o nome dele Jesus
+-- c2-v1: Do e Jesus tendo–nascido em Belém da Judeia em dias de–Herodes o rei eis magos do oriente chegaram a Jerusalém
+-- c2-v2: dizendo Onde está o nascido rei dos judeus vimos pois dele a estrela no o oriente e viemos adorar a–ele
+-- c2-v3: tendo–ouvido e o rei Herodes perturbou–se e toda Jerusalém com ele
+-- c2-v4: e tendo–reunido todos os principais–sacerdotes e escribas do povo perguntava deles deles onde o Cristo nasce
+-- c2-v5: eles e disseram a–ele Em Belém da Judeia assim pois está–escrito por–meio do profeta
+-- c2-v6: E tu Belém terra de–Judá de–modo–algum menor és entre os governantes de–Judá de ti pois sairá governante que apascentará o povo meu o Israel
+-- c2-v7: Então Herodes secretamente tendo–chamado os magos inquiriu deles deles o tempo da aparecendo estrela
+-- c2-v8: e tendo–enviado eles a Belém disse Tendo–ido examinai cuidadosamente acerca do menino quando e encontrardes anunciai -me para–que também–eu tendo–ido adore a–ele
+-- c2-v9: eles e tendo–ouvido o rei partiram e eis a estrela que viram no o oriente ia–adiante deles até tendo–vindo parou sobre onde estava o menino
+-- c2-v10: tendo–visto e a estrela alegraram–se com–alegria grande muito
+-- c2-v11: e tendo–entrado em a casa viram o menino com Maria a mãe dele e tendo–prostrado adoraram a–ele e tendo–aberto os tesouros deles ofereceram a–ele presentes ouro e incenso e mirra
+-- c2-v12: e tendo–sido–avisados em sonho não voltar a Herodes por outro caminho retiraram–se para a terra deles
+-- c2-v13: Tendo–partido e eles eis anjo do–Senhor aparece em sonho a José dizendo Tendo–levantado toma o menino e a mãe dele e foge para Egito e está lá até que eu–diga a–ti está–para pois Herodes procurar o menino para destruir a–ele
+-- c2-v14: ele e tendo–levantado tomou o menino e a mãe dele de–noite e retirou–se para Egito
+-- c2-v15: e esteve lá até a morte de–Herodes para–que se–cumprisse o dito pelo Senhor por–meio do profeta dizendo Do Egito chamei o filho meu
+-- c2-v16: Então Herodes tendo–visto que foi–enganado pelos os magos irou–se muito e tendo–enviado matou todos os meninos os em Belém e em todos os limites dela de dois–anos e abaixo segundo o tempo que inquiriu dos os magos
+-- c2-v17: então cumpriu–se o dito por–meio de–Jeremias o profeta dizendo
+-- c2-v18: Voz em Ramá foi–ouvida choro e lamentação muita Raquel chorando os filhos dela e não queria ser–consolada porque não existem
+-- c2-v19: Tendo–morrido e o Herodes eis anjo do–Senhor aparece em sonho a José no Egito
+-- c2-v20: dizendo Tendo–levantado toma o menino e a mãe dele e vai para terra de–Israel morreram pois os que–procuravam a vida do menino
+-- c2-v21: ele e tendo–levantado tomou o menino e a mãe dele e entrou na terra de–Israel
+-- c2-v22: tendo–ouvido e que Arquelau reina da Judeia em–lugar do pai dele Herodes temeu lá ir tendo–sido–avisado e em sonho retirou–se para as regiões da Galileia
+-- c2-v23: e tendo–vindo habitou em cidade chamada Nazaré para–que se–cumprisse o dito por–meio dos profetas que Nazareno será–chamado
+-- c3-v1: Em e os dias aqueles aparece João o Batista pregando no o deserto da Judeia
+-- c3-v2: e dizendo Arrependei–vos aproximou–se pois o reino dos céus
+-- c3-v3: este pois é o dito por–meio de–Isaías o profeta dizendo Voz do–que–clama no o deserto Preparai o caminho do–Senhor retas fazei as veredas dele
+-- c3-v4: ele e o João tinha a veste dele de pelos de–camelo e cinto de–couro ao–redor dos lombos dele o e alimento era dele gafanhotos e mel silvestre
+-- c3-v5: Então saía a ele Jerusalém e toda a Judeia e toda a região–ao–redor do Jordão
+-- c3-v6: e eram–batizados no o Jordão rio por ele confessando os pecados deles
+-- c3-v7: Tendo–visto e muitos dos fariseus e saduceus vindo ao o batismo dele disse a–eles Raça de–víboras quem vos–mostrou a–vós fugir da a vindoura ira
+-- c3-v8: produzi portanto fruto digno do arrependimento
+-- c3-v9: e não penseis dizer em vós–mesmos Pai temos o Abraão digo pois a–vós que pode o Deus destas as pedras destas suscitar filhos a Abraão
+-- c3-v10: já e o machado à a raiz das árvores está–posto toda portanto árvore não produzindo fruto bom é–cortada e para fogo é–lançada
+-- c3-v11: eu por–um–lado a–vós batizo em água para arrependimento o e depois de–mim vindo mais–forte de–mim é de–quem não sou digno as sandálias carregar ele a–vós batizará em Espírito Santo e fogo
+-- c3-v12: de–quem a pá na a mão dele e limpará a eira dele e recolherá o trigo dele no o celeiro a e palha queimará com–fogo inextinguível
+-- c3-v13: Então chega o Jesus da a Galileia ao o Jordão a o João para ser–batizado por ele
+-- c3-v14: o e João impedia a–ele dizendo Eu necessidade tenho por ti ser–batizado e tu vens a mim
+-- c3-v15: tendo–respondido e o Jesus disse a ele Deixa agora assim pois conveniente é a–nós cumprir toda justiça então permitiu a–ele
+-- c3-v16: tendo–sido–batizado e o Jesus imediatamente subiu da a água e eis foram–abertos a–ele os céus e viu o Espírito de Deus descendo como pomba e vindo sobre ele
+-- c3-v17: e eis voz dos os céus dizendo Este é o Filho meu o amado em quem me–agradei
+-- c4-v1: Então o Jesus foi–levado para o deserto pelo o Espírito para–ser–tentado pelo o diabo
+-- c4-v2: e tendo–jejuado dias quarenta e quarenta noites depois teve–fome
+-- c4-v3: e tendo–se–aproximado o tentador disse a–ele Se Filho és de Deus dize que estas pedras estas pães se–tornem
+-- c4-v4: ele e tendo–respondido disse Está–escrito Não de pão só viverá o homem mas de toda palavra que–procede da boca de–Deus
+-- c4-v5: Então leva a–ele o diabo para a santa cidade e colocou a–ele sobre o pináculo do templo
+-- c4-v6: e diz a–ele Se Filho és de Deus lança a–ti–mesmo abaixo está–escrito pois que Aos anjos dele ordenará acerca de–ti e nas mãos te–levantarão te para–que–não alguma–vez tropeces contra pedra o pé teu
+-- c4-v7: disse a–ele o Jesus Por–outro–lado está–escrito Não tentarás o–Senhor o Deus teu
+-- c4-v8: Por–outro–lado leva a–ele o diabo para monte alto muito e mostra a–ele todos os reinos do mundo e a glória deles
+-- c4-v9: e disse a–ele Estas–coisas a–ti todas darei se tendo–prostrado me–adorares a–mim
+-- c4-v10: então diz a–ele o Jesus Vai–embora Satanás está–escrito pois Ao–Senhor o Deus teu adorarás e a–ele só servirás
+-- c4-v11: Então deixa a–ele o diabo e eis anjos aproximaram–se e serviam a–ele
+-- c4-v12: Tendo–ouvido e que João foi–entregue retirou–se para a Galileia
+-- c4-v13: e tendo–deixado a Nazaré tendo–vindo habitou em Cafarnaum a marítima em territórios de–Zebulom e de–Naftali
+-- c4-v14: para–que se–cumprisse o dito por–meio de–Isaías o profeta dizendo
+-- c4-v15: Terra de–Zebulom e terra de–Naftali caminho do–mar além do Jordão Galileia das nações
+-- c4-v16: o povo o sentado em trevas luz viu grande e aos sentados em região e sombra de–morte luz raiou a–eles
+-- c4-v17: Desde então começou o Jesus a–pregar e a–dizer Arrependei–vos aproximou–se pois o reino dos céus
+-- c4-v18: Caminhando e junto ao mar da Galileia viu dois irmãos Simão o chamado Pedro e André o irmão dele lançando rede no o mar eram pois pescadores
+-- c4-v19: e diz a–eles Vinde após mim e farei a–vós pescadores de–homens
+-- c4-v20: eles e imediatamente tendo–deixado as redes seguiram a–ele
+-- c4-v21: E tendo–avançado dali viu outros dois irmãos Tiago o do Zebedeu e João o irmão dele no o barco com Zebedeu o pai deles consertando as redes deles e chamou a–eles
+-- c4-v22: eles e imediatamente tendo–deixado o barco e o pai deles seguiram a–ele
+-- c4-v23: E percorria em toda a Galileia ensinando nas as sinagogas deles e pregando o evangelho do reino e curando toda doença e toda enfermidade entre o povo
+-- c4-v24: e saiu a fama dele por toda a Síria e trouxeram a–ele todos os mal tendo com–diversas doenças e tormentos afligidos e endemoninhados e lunáticos e paralíticos e curou a–eles
+-- c4-v25: e seguiram a–ele multidões muitas da a Galileia e Decápolis e de–Jerusalém e Judeia e além do Jordão
+-- c5-v1: Tendo–visto e as multidões subiu ao o monte e tendo–sentado ele aproximaram–se a–ele os discípulos dele
+-- c5-v2: e tendo–aberto a boca dele ensinava a–eles dizendo
+-- c5-v3: Bem–aventurados os pobres no espírito porque deles é o reino dos céus
+-- c5-v4: bem–aventurados os que–choram porque eles serão–consolados
+-- c5-v5: bem–aventurados os mansos porque eles herdarão a terra
+-- c5-v6: bem–aventurados os que–têm–fome e que–têm–sede da justiça porque eles serão–saciados
+-- c5-v7: bem–aventurados os misericordiosos porque eles alcançarão–misericórdia
+-- c5-v8: bem–aventurados os puros de coração porque eles a Deus verão
+-- c5-v9: bem–aventurados os pacificadores porque eles filhos de–Deus serão–chamados
+-- c5-v10: bem–aventurados os perseguidos por–causa da–justiça porque deles é o reino dos céus
+-- c5-v11: bem–aventurados sois quando vos–insultarem a–vós e vos–perseguirem e disserem todo mal contra vós mentindo por–causa de–mim
+-- c5-v12: alegrai–vos e exultai porque a recompensa vossa grande nos os céus assim pois perseguiram os profetas os antes de–vós
+-- c5-v13: Vós sois o sal da terra se e o sal tornar–se–insípido com que será–salgado para nada serve mais se não ser–lançado fora para–ser–pisado pelos os homens
+-- c5-v14: Vós sois a luz do mundo não pode cidade esconder–se sobre monte posta
+-- c5-v15: nem acendem candeia e colocam a–ela debaixo do alqueire mas sobre o velador e ilumina a–todos os na a casa
+-- c5-v16: assim resplandeça a luz vossa diante dos homens para–que vejam vossas as boas obras e glorifiquem o Pai vosso o nos os céus
+-- c5-v17: Não penseis que vim destruir a lei ou os profetas não vim destruir mas cumprir
+-- c5-v18: amém pois digo a–vós até que passe o céu e a terra um–iota um ou um til de–modo–algum não passará da a lei até que tudo aconteça
+-- c5-v19: aquele–que portanto portanto quebrar um dos mandamentos destes dos menores e ensinar assim aos homens mínimo será–chamado no o reino dos céus aquele–que e porém praticar e ensinar este grande será–chamado no o reino dos céus
+-- c5-v20: digo pois a–vós que se não exceder vossa a justiça mais dos escribas e fariseus de–modo–algum não entrareis no o reino dos céus
+-- c5-v21: Ouvistes que foi–dito aos antigos Não matarás aquele–que e porém matar réu será do juízo
+-- c5-v22: eu e digo a–vós que todo o que–se–ira com–o irmão dele réu será do juízo aquele–que e porém disser ao irmão dele Raca réu será do sinédrio aquele–que e porém disser Louco réu será da a geena do fogo
+-- c5-v23: se portanto trouxeres a oferta tua ao o altar e–ali lembrares que o irmão teu tem algo contra ti
+-- c5-v24: deixa ali a oferta tua diante do altar e vai primeiro reconcilia–te com–o irmão teu e então tendo–vindo oferece a oferta tua
+-- c5-v25: sê benévolo com–o adversário teu depressa enquanto que estás com ele no o caminho para–que–não alguma–vez te entregue o adversário ao juiz e o juiz ao oficial e em prisão sejas–lançado
+-- c5-v26: amém digo a–ti de–modo–algum não sairás dali até que pagues o último centavo
+-- c5-v27: Ouvistes que foi–dito Não cometerás–adultério
+-- c5-v28: eu e digo a–vós que todo o que–olha mulher para a cobiçar a–ela já adulterou a–ela no o coração dele
+-- c5-v29: se e o olho teu o direito te–faz–tropeçar a–ti arranca a–ele e lança de ti convem pois a–ti que pereça um dos membros teus e não todo o corpo teu seja–lançado na geena
+-- c5-v30: e se a direita tua mão te–faz–tropeçar a–ti corta a–ela e lança de ti convem pois a–ti que pereça um dos membros teus e não todo o corpo teu para geena vá
+-- c5-v31: Foi–dito e Aquele–que porém despedir a mulher dele dê a–ela carta–de–divórcio
+-- c5-v32: eu e digo a–vós que todo o que–despede a mulher dele exceto por–causa de–imoralidade faz a–ela adulterar e aquele–que se a–despedida casar–com adultera
+-- c5-v33: Novamente ouvistes que foi–dito aos antigos Não jurarás–falsamente cumprirás e ao Senhor os juramentos teus
+-- c5-v34: eu e digo a–vós não jurar de–modo–algum nem pelo o céu porque trono é de Deus
+-- c5-v35: nem pela a terra porque estrado é dos pés dele nem por Jerusalém porque cidade é do grande Rei
+-- c5-v36: nem pela a cabeça tua jures porque não podes um cabelo branco fazer ou preto
+-- c5-v37: seja e a palavra vossa sim sim não não o e mais do–que–isso do o maligno é
+-- c5-v38: Ouvistes que foi–dito Olho por olho e dente por dente
+-- c5-v39: eu e digo a–vós não resistir ao maligno mas quem–quer–que te bater na a direita face tua volta a–ele também a outra
+-- c5-v40: e ao que–quer a–ti processar e a túnica tua tirar deixa a–ele também a capa
+-- c5-v41: e quem–quer–que te obrigar–a–ir milha uma vai com ele duas
+-- c5-v42: ao que–te–pede a–ti dá e ao que–quer de ti tomar–emprestado não te–desvies
+-- c5-v43: Ouvistes que foi–dito Amarás o próximo teu e odiarás o inimigo teu
+-- c5-v44: eu e digo a–vós amai os inimigos vossos e orai pelos os que–vos–perseguem a–vós abençoai os que–vos–amaldiçoam a–vós bem fazei aos que–vos–maltratam a–vós e que–vos–odeiam a–vós
+-- c5-v45: para–que sejais filhos do Pai vosso do nos céus porque o sol dele faz–nascer sobre maus e bons e chove sobre justos e injustos
+-- c5-v46: se pois amardes os que–vos–amam a–vós que recompensa tendes não também os publicanos o mesmo fazem
+-- c5-v47: e se saudardes os irmãos vossos somente que mais fazeis não também os gentílicos o mesmo fazem
+-- c5-v48: Sede portanto vós perfeitos como o Pai vosso o celestial perfeito é
+-- c6-v1: Guardai–vos e a justiça vossa não praticar diante dos homens para o serdes–vistos por–eles se e de–outra–forma recompensa não tendes junto ao Pai vosso o nos os céus
+-- c6-v2: Quando portanto deres esmola não faças–tocar–trombeta diante de–ti como os hipócritas fazem nas as sinagogas e nas as ruas para–que sejam–glorificados pelos os homens amém digo a–vós já–recebem a recompensa deles
+-- c6-v3: tu e fazendo esmola não saiba a esquerda tua o–que faz a direita tua
+-- c6-v4: para–que esteja tua a esmola em o oculto e o Pai teu o que–vê em o oculto recompensará a–ti
+-- c6-v5: E quando orardes não sereis como os hipócritas porque gostam nas as sinagogas e nas as esquinas das praças em–pé de–orar para–que apareçam aos homens amém digo a–vós já–recebem a recompensa deles
+-- c6-v6: tu e quando orares entra no o quarto teu e tendo–fechado a porta tua ora ao Pai teu o em o oculto e o Pai teu o que–vê em o oculto recompensará a–ti
+-- c6-v7: Orando e não useis–de–vãs–repetições como os gentílicos pensam pois que pela a muita–palavraria deles serão–ouvidos
+-- c6-v8: não portanto vos–assemelheis a–eles sabe pois o Deus o Pai vosso de–que necessidade tendes antes de vós pedirdes a–ele
+-- c6-v9: assim portanto orai vós Pai nosso o nos os céus Santificado–seja o nome teu
+-- c6-v10: venha o reino teu seja–feita a vontade tua como no céu assim na terra
+-- c6-v11: O pão nosso o de–cada–dia dá a–nós hoje
+-- c6-v12: e perdoa a–nós as dívidas nossas assim–como também nós perdoamos aos devedores nossos
+-- c6-v13: e não nos–deixes–cair a–nós em tentação mas livra a–nós do o maligno Porque teu é o reino e o poder e a glória para os séculos Amém
+-- c6-v14: Se pois perdoardes aos homens as ofensas deles perdoará também a–vós o Pai vosso o celestial
+-- c6-v15: se e não perdoardes aos homens as ofensas deles nem o Pai vosso perdoará as ofensas vossas
+-- c6-v16: Quando e jejuardes não vos–torneis como os hipócritas de–rosto–triste desfiguram pois os rostos deles para–que apareçam aos homens jejuando amém digo a–vós já–recebem a recompensa deles
+-- c6-v17: tu e jejuando unge tua a cabeça e o rosto teu lava
+-- c6-v18: para–que não apareças aos homens jejuando mas ao Pai teu o em o oculto e o Pai teu o que–vê em o oculto recompensará a–ti
+-- c6-v19: Não ajunteis para–vós tesouros sobre a terra onde traça e ferrugem destroem e onde ladrões arrombam e roubam
+-- c6-v20: ajuntai e para–vós tesouros no céu onde nem traça nem ferrugem destroem e onde ladrões não arrombam nem roubam
+-- c6-v21: onde pois está o tesouro teu lá estará também o coração teu
+-- c6-v22: A candeia do corpo é o olho se portanto for o olho teu bom todo o corpo teu luminoso será
+-- c6-v23: se e o olho teu mau for todo o corpo teu tenebroso será se portanto a luz a em ti trevas é as trevas quão–grandes
+-- c6-v24: Ninguém pode a–dois senhores servir ou pois um um odiará e o outro amará ou a–um se–dedicará e do outro desprezará não podeis a–Deus servir e a–Mamom
+-- c6-v25: Por–isso isto digo a–vós não andeis–ansiosos pela vida vossa o–que comereis ou o–que bebereis nem pelo corpo vosso o–que vestireis não a vida mais é do–que–o alimento e o corpo do–que–a roupa
+-- c6-v26: olhai para as aves do céu que não semeiam nem ceifam nem ajuntam em celeiros e o Pai vosso o celestial as–alimenta a–elas não vós muito–mais valeis do–que–elas
+-- c6-v27: quem e de vós sendo–ansioso pode acrescentar à a estatura dele côvado um
+-- c6-v28: e por roupa por–que andais–ansiosos considerai os lírios do campo como crescem não trabalham nem fiam
+-- c6-v29: digo e a–vós que nem Salomão em toda a glória dele se–vestiu como um destes
+-- c6-v30: se e a erva do campo hoje existindo e amanhã no forno sendo–lançada o Deus assim veste não muito mais a–vós homens–de–pouca–fé
+-- c6-v31: não portanto andeis–ansiosos dizendo Que comeremos ou Que beberemos ou Que vestiremos
+-- c6-v32: todas pois estas–coisas as nações buscam sabe pois o Pai vosso o celestial que necessitais de–todas estas–coisas
+-- c6-v33: buscai e primeiro o reino de Deus e a justiça dele e estas–coisas todas vos–serão–acrescentadas a–vós
+-- c6-v34: não portanto andeis–ansiosos pelo o amanhã o pois amanhã se–preocupará de–si–mesmo basta ao dia o mal dele
+-- c7-v1: Não julgueis para–que não sejais–julgados
+-- c7-v2: em o–qual pois juízo julgais sereis–julgados e em a–qual medida medis será–medido a–vós
+-- c7-v3: por–que porém vês o argueiro o em o olho do irmão teu a porém em o teu olho trave não percebes
+-- c7-v4: ou como dirás ao irmão teu Deixa eu–tire o argueiro de o olho teu e eis a trave em o olho teu
+-- c7-v5: Hipócrita tira primeiro de o olho teu a trave e então verás–claramente tirar o argueiro de o olho do irmão teu
+-- c7-v6: Não deis o santo aos cães nem lanceis as pérolas vossas diante dos porcos para–que–não jamais pisem elas com os pés deles e voltando-se rasguem vós
+-- c7-v7: Pedi e será–dado a–vós buscai e encontrareis batei e será–aberto a–vós
+-- c7-v8: todo pois o que–pede recebe e o que–busca encontra e ao que–bate será–aberto
+-- c7-v9: ou quem é de vós homem a–quem pedirá o filho dele pão não pedra dará a–ele
+-- c7-v10: ou também peixe pedirá não serpente dará a–ele
+-- c7-v11: se portanto vós maus sendo sabeis dádivas boas dar aos filhos vossos quanto mais o Pai vosso o nos os céus dará boas–coisas aos que–pedem a–ele
+-- c7-v12: Todas–as–coisas portanto quantas se quiserdes que façam a–vós os homens assim também vós fazei a–eles esta pois é a lei e os profetas
+-- c7-v13: Entrai pela a estreita porta porque larga a porta e espaçoso o caminho o que–leva à a perdição e muitos são os que–entram por ela
+-- c7-v14: porque estreita a porta e apertado o caminho o que–leva à a vida e poucos são os que–encontram ela
+-- c7-v15: Guardai-vos dos os falsos–profetas que vêm a vós em vestes de–ovelhas interiormente porém são lobos vorazes
+-- c7-v16: pelos os frutos deles conhecereis eles porventura colhem de espinhos uvas ou de abrolhos figos
+-- c7-v17: assim toda árvore boa frutos bons produz a porém má árvore frutos maus produz
+-- c7-v18: não pode árvore boa frutos maus produzir nem árvore má frutos bons produzir
+-- c7-v19: toda árvore não que–produz fruto bom é–cortada e no fogo é–lançada
+-- c7-v20: assim–pois pelos os frutos deles conhecereis eles
+-- c7-v21: Não todo o que–diz a–mim Senhor Senhor entrará no o reino dos céus mas o que–faz a vontade do Pai meu do nos os céus
+-- c7-v22: muitos dirão a–mim naquele aquele o dia Senhor Senhor não no teu nome profetizámos e no teu nome demónios expulsámos e no teu nome milagres muitos fizemos
+-- c7-v23: e então declararei a–eles que Nunca vos–conheci vós afastai-vos de mim os que–praticam a iniquidade
+-- c7-v24: Todo portanto aquele–que ouve minhas as palavras estas e pratica elas será–comparado a–homem prudente que edificou sua a casa sobre a rocha
+-- c7-v25: e desceu a chuva e vieram os rios e sopraram os ventos e bateram–contra a casa aquela e não caiu estava–fundada pois sobre a rocha
+-- c7-v26: e todo o que–ouve minhas as palavras estas e não pratica elas será–comparado a–homem insensato que edificou sua a casa sobre a areia
+-- c7-v27: e desceu a chuva e vieram os rios e sopraram os ventos e bateram–contra a casa aquela e caiu e foi a queda dela grande
+-- c7-v28: E aconteceu quando terminou o Jesus as palavras estas ficavam–admiradas as multidões com o ensino dele
+-- c7-v29: estava pois ensinando eles como autoridade tendo e não como os escribas deles
+-- c8-v1: Tendo–descido porém ele do o monte seguiram a–ele multidões muitas
+-- c8-v2: e eis um–leproso aproximando-se adorava a–ele dizendo Senhor se quiseres podes me purificar
+-- c8-v3: e estendendo a mão tocou nele dizendo Quero sê–purificado e imediatamente foi–purificada dele a lepra
+-- c8-v4: e diz a–ele o Jesus Vê a–ninguém digas mas vai a–ti–mesmo mostra ao sacerdote e oferece a oferta que ordenou Moisés para testemunho a–eles
+-- c8-v5: Tendo–entrado porém ele em Cafarnaum aproximou-se dele um–centurião rogando a–ele
+-- c8-v6: e dizendo Senhor o servo meu está–prostrado na a casa paralítico terrivelmente atormentado
+-- c8-v7: e diz a–ele Eu tendo–ido curarei ele
+-- c8-v8: respondendo porém o centurião disse Senhor não sou digno que meu sob o teto entres mas somente diz uma–palavra e será–curado o servo meu
+-- c8-v9: pois também eu homem sou sob autoridade designado tendo sob mim–mesmo soldados e digo a–este Vai e vai e a–outro Vem e vem e ao servo meu Faz isto e faz
+-- c8-v10: ouvindo porém o Jesus admirou-se e disse aos que–seguiam Em–verdade digo a–vós de ninguém tamanha fé em o Israel encontrei
+-- c8-v11: digo porém a–vós que muitos do oriente e ocidente virão e reclinar-se-ão com Abraão e Isaque e Jacó no o reino dos céus
+-- c8-v12: os porém filhos do reino serão–lançados–fora nas as trevas as exteriores ali haverá o choro e o ranger dos dentes
+-- c8-v13: e disse o Jesus ao centurião Vai como creste seja–feito a–ti e foi–curado o servo dele naquela a hora mesma
+-- c8-v14: E tendo–vindo o Jesus à a casa de–Pedro viu a sogra dele prostrada e com–febre
+-- c8-v15: e tocou na mão dela e deixou ela a febre e levantou-se e servia a–ele
+-- c8-v16: Da–tarde porém tendo–chegado trouxeram a–ele endemoninhados muitos e expulsou os espíritos com–palavra e todos os que–mal estavam curou
+-- c8-v17: para–que se–cumprisse o dito por Isaías o profeta que–diz Ele as enfermidades nossas tomou e as doenças carregou
+-- c8-v18: Tendo–visto porém o Jesus grande multidão ao–redor dele ordenou partir para o outro–lado
+-- c8-v19: E aproximando-se um escriba disse a–ele Mestre seguirei a–ti onde–quer que fores
+-- c8-v20: e diz a–ele o Jesus As raposas covis têm e as aves do céu ninhos o porém Filho do homem não tem onde a cabeça reclinar
+-- c8-v21: outro porém dos discípulos dele disse a–ele Senhor permite a–mim primeiro ir e sepultar o pai meu
+-- c8-v22: o porém Jesus diz a–ele Segue a–mim e deixa os mortos sepultarem os seus–próprios mortos
+-- c8-v23: E tendo–embarcado ele em o barco seguiram a–ele os discípulos dele
+-- c8-v24: e eis tempestade grande aconteceu no o mar de–modo–que o barco ser–coberto pelas as ondas ele porém dormia
+-- c8-v25: e aproximando-se acordaram a–ele dizendo Senhor salva estamos–perecendo
+-- c8-v26: e diz a–eles Por–que covardes sois homens–de–pouca–fé então tendo–se–levantado repreendeu os ventos e o mar e houve calmaria grande
+-- c8-v27: os porém homens admiraram-se dizendo Que–tipo é este que até os ventos e o mar a–ele obedecem
+-- c8-v28: E tendo–ele–vindo ele para o outro–lado à a região dos gadarenos vieram–ao–encontro dele dois endemoninhados dos os sepulcros saindo perigosos muito de–modo–que não podia alguém passar por aquele caminho aquele
+-- c8-v29: e eis gritaram dizendo Que a–nós e a–ti Filho de Deus vieste aqui antes do–tempo atormentar nós
+-- c8-v30: havia porém longe deles deles manada de–porcos muitos pastando
+-- c8-v31: os porém demónios rogavam a–ele dizendo Se expulsas nós envia nós para a manada dos porcos
+-- c8-v32: e disse a–eles Ide os porém tendo–saído foram para os porcos e eis precipitou-se toda a manada pelo o precipicio no o mar e morreram nas as águas
+-- c8-v33: os porém que–apascentavam fugiram e tendo–ido à a cidade anunciaram tudo e o dos endemoninhados
+-- c8-v34: e eis toda a cidade saiu ao encontro de Jesus e tendo–visto a–ele rogaram que se–retirasse dos os territórios deles
+-- c9-v1: E tendo–embarcado em barco atravessou e veio à a própria cidade
+-- c9-v2: E eis traziam a–ele um–paralítico sobre cama deitado e tendo–visto o Jesus a fé deles disse ao paralítico Tem–ânimo filho são–perdoados teus os pecados
+-- c9-v3: e eis alguns dos escribas disseram em si–mesmos Este blasfema
+-- c9-v4: e tendo–percebido o Jesus os pensamentos deles disse Por que pensais coisas–más nos os corações vossos
+-- c9-v5: o–que pois é mais–fácil dizer São–perdoados teus os pecados ou dizer Levanta-te e anda
+-- c9-v6: para–que porém saibais que autoridade tem o Filho do homem sobre a terra perdoar pecados então diz ao paralítico Tendo–te–levantado toma tua a cama e vai para a casa tua
+-- c9-v7: e tendo–se–levantado partiu para a casa dele
+-- c9-v8: tendo–visto porém as multidões temeram e glorificaram o Deus o tendo–dado autoridade tal aos homens
+-- c9-v9: E passando o Jesus dali viu um–homem sentado na a colétoria Mateus chamado e diz a–ele Segue a–mim e tendo–se–levantado seguiu a–ele
+-- c9-v10: E aconteceu dele estando–à–mesa na a casa e eis muitos cobradores–de–impostos e pecadores tendo–vindo estavam–reclinados–juntos com–o Jesus e com–os discípulos dele
+-- c9-v11: e tendo–visto os fariseus diziam aos discípulos dele Por que com os cobradores–de–impostos e pecadores come o mestre vosso
+-- c9-v12: o porém tendo–ouvido disse Não necessidade têm os que–têm–saúde de–médico mas os que–mal estão
+-- c9-v13: tendo–ido porém aprendei o–que é Misericórdia quero e não sacrifício não pois vim chamar justos mas pecadores
+-- c9-v14: Então aproximam-se dele os discípulos de–João dizendo Por que nós e os fariseus jejuamos muito os porém discípulos teus não jejuam
+-- c9-v15: e disse a–eles o Jesus Podem podem os filhos da câmara–nupcial lamentar enquanto quanto com eles está o noivo virão porém dias quando for–tirado de eles o noivo e então jejuarão
+-- c9-v16: ninguém porém põe remendo de–pano não–encolhido sobre veste velha tira pois o enchimento dela da a veste e pior rasgo acontece
+-- c9-v17: nem põem vinho novo em odres velhos se porém de–outro–modo rompem-se os odres e o vinho derrama-se e os odres perecem mas põem vinho novo em odres novos e ambos se–conservam
+-- c9-v18: Estas–coisas ele falando a–eles eis governante um tendo–vindo adorava a–ele dizendo que A filha minha agora morreu mas tendo–vindo põe a mão tua sobre ela e viverá
+-- c9-v19: e tendo–se–levantado o Jesus seguia a–ele e os discípulos dele
+-- c9-v20: E eis uma–mulher com–hemorragia doze anos tendo–se–aproximado por–trás tocou na orla da veste dele
+-- c9-v21: dizia pois em si–mesma Se apenas tocar na veste dele serei–salva
+-- c9-v22: o porém Jesus voltando-se e tendo–visto ela disse Tem–ânimo filha a fé tua salvou te e foi–salva a mulher desde aquela hora mesma
+-- c9-v23: e tendo–vindo o Jesus à a casa do governante e tendo–visto os flautistas e a multidão fazendo–alarido
+-- c9-v24: dizia Retirai-vos pois não morreu a menina mas dorme e zombavam dele
+-- c9-v25: quando porém foi–expulsa a multidão tendo–entrado segurou a mão dela e levantou-se a menina
+-- c9-v26: e saiu a fama esta por toda aquela terra aquela
+-- c9-v27: E passando dali o Jesus seguiram a–ele dois cegos clamando e dizendo Tem–misericórdia–de–nós a–nós filho de–Davi
+-- c9-v28: tendo–vindo porém à a casa aproximaram-se dele os cegos e diz a–eles o Jesus Credes que posso isto fazer dizem a–ele Sim Senhor
+-- c9-v29: então tocou nos olhos deles dizendo Segundo a fé vossa seja–feito a–vós
+-- c9-v30: e foram–abertos deles os olhos e advertiu–severamente a–eles o Jesus dizendo Vede ninguém saiba
+-- c9-v31: os porém tendo–saído espalharam–a–fama dele em toda aquela terra aquela
+-- c9-v32: Eles porém saindo eis trouxeram a–ele homem mudo endemoninhado
+-- c9-v33: e tendo–sido–expulso o demónio falou o mudo e admiraram-se as multidões dizendo Nunca se–viu assim em o Israel
+-- c9-v34: os porém fariseus diziam Pelo o príncipe dos demónios expulsa os demónios
+-- c9-v35: E percorria o Jesus as cidades todas e as aldeias ensinando nas as sinagogas deles e pregando o evangelho do reino e curando toda doença e toda enfermidade
+-- c9-v36: Tendo–visto porém as multidões compadeceu-se delas delas porque estavam cansadas e abatidas como ovelhas não tendo pastor
+-- c9-v37: então diz aos discípulos dele A na–verdade seara grande os porém trabalhadores poucos
+-- c9-v38: rogai portanto ao Senhor da seara que envie trabalhadores para a seara dele
+-- c10-v1: E tendo–chamado os doze discípulos dele deu a–eles autoridade sobre–espíritos impuros para expulsá-los eles e curar toda doença e toda enfermidade
+-- c10-v2: Dos porém doze apóstolos os nomes são estes primeiro Simão o chamado Pedro e André o irmão dele e Tiago o de Zebedeu e João o irmão dele
+-- c10-v3: Filipe e Bartolomeu Tomé e Mateus o cobrador–de–impostos Tiago o de Alfeu e Tadeu
+-- c10-v4: Simão o cananeu e Judas o Iscariotes o que também traiu–ele
+-- c10-v5: Estes os doze enviou o Jesus tendo–ordenado a–eles dizendo A caminho de–gentios não vades e em cidade de–samaritanos não entreis
+-- c10-v6: ide porém antes às as ovelhas as perdidas da–casa de–Israel
+-- c10-v7: indo porém pregai dizendo que Aproximou-se o reino dos céus
+-- c10-v8: enfermos curai mortos ressuscitai leprosos purificai demónios expulsai de–graça recebestes de–graça dai
+-- c10-v9: Não adquirais ouro nem prata nem cobre para os cintos vossos
+-- c10-v10: nem alforje para o–caminho nem duas túnicas nem sandálias nem bordão digno pois o trabalhador do sustento dele
+-- c10-v11: em a–qual porém porventura cidade ou aldeia entrardes indagai quem nela nela digno é e–ali permanecei até que sairdes
+-- c10-v12: entrando porém na a casa saudai ela
+-- c10-v13: e se na–verdade for a casa digna venha a paz vossa sobre ela se porém não for digna a paz vossa para vós volte
+-- c10-v14: e quem porventura não receber vós nem ouvir as palavras vossas saindo fora da casa ou da cidade aquela sacudi o pó dos pés vossos
+-- c10-v15: em–verdade digo a–vós mais–tolerável será para–terra de–Sodoma e de–Gomorra no dia de–juízo do–que para–aquela cidade aquela
+-- c10-v16: Eis eu envio vós como ovelhas no meio de–lobos sede portanto prudentes como as serpentes e simples como as pombas
+-- c10-v17: Guardai-vos porém dos os homens entregarão pois vós a sinédrios e nas as sinagogas deles açoitarão vós
+-- c10-v18: e perante governadores porém e reis sereis–levados por–causa de–mim para testemunho a–eles e às nações
+-- c10-v19: quando porém entregarem vós não vos–preocupeis como ou o–que falareis será–dado pois a–vós naquela naquela a hora o–que falareis
+-- c10-v20: não pois vós sois os que–falam mas o Espírito do Pai vosso o que–fala em vós
+-- c10-v21: entregará porém irmão irmão à morte e pai filho e levantar-se-ão filhos contra pais e os–matarão eles
+-- c10-v22: e sereis odiados por todos por–causa do nome meu o porém que–perseverar até o–fim este será–salvo
+-- c10-v23: quando porém perseguirem vós nesta a cidade esta fugi para a outra em–verdade pois digo a–vós de–modo–algum não acabareis as cidades de Israel até que venha o Filho do homem
+-- c10-v24: Não é discípulo acima do mestre nem servo acima do senhor dele
+-- c10-v25: basta ao discípulo que se–torne como o mestre dele e o servo como o senhor dele se ao dono–da–casa Belzebu chamaram quanto mais aos domésticos dele
+-- c10-v26: não portanto temais eles nada pois há encoberto que não será–revelado e oculto que não será–conhecido
+-- c10-v27: o–que digo a–vós nas as trevas dizei na a luz e o–que no o ouvido ouvis proclamai sobre os telhados
+-- c10-v28: e não temais os os que–matam o corpo a porém alma não podendo matar temei porém antes o que–pode tanto alma quanto corpo destruir no inferno
+-- c10-v29: não dois passarinhos por–um–asse são–vendidos e um deles deles não cairá sobre a terra sem o Pai vosso
+-- c10-v30: vossos porém até os cabelos da cabeça todos contados estão
+-- c10-v31: não portanto temais de–muitos passarinhos valeis–mais vós
+-- c10-v32: Todo portanto aquele–que confessar em mim diante dos homens confessarei também–eu nele nele diante do Pai meu do nos os céus
+-- c10-v33: aquele–que porém porventura negar a–mim diante dos homens negarei também–eu ele diante do Pai meu do nos os céus
+-- c10-v34: Não penseis que vim trazer paz sobre a terra não vim trazer paz mas espada
+-- c10-v35: vim pois separar homem contra o pai dele e filha contra a mãe dela e nora contra a sogra dela
+-- c10-v36: e inimigos do homem os domésticos dele
+-- c10-v37: O que–ama pai ou mãe mais–do–que a–mim não é de–mim digno e o que–ama filho ou filha mais–do–que a–mim não é de–mim digno
+-- c10-v38: e quem não toma a cruz dele e segue após mim não é de–mim digno
+-- c10-v39: o que–achar a vida dele perderá ela e o que–perder a vida dele por–causa de–mim achará ela
+-- c10-v40: O que–recebe vós a–mim recebe e o a–mim que–recebe recebe o que–enviou me
+-- c10-v41: o que–recebe profeta em nome de–profeta galardão de–profeta receberá e o que–recebe justo em nome de–justo galardão de–justo receberá
+-- c10-v42: e quem porventura der–de–beber a–um destes pequeninos destes copo de–água–fria somente em nome de–discípulo em–verdade digo a–vós de–modo–algum não perderá o galardão dele
+-- c11-v1: E aconteceu quando terminou o Jesus de–ordenar aos doze discípulos dele partiu dali para ensinar e pregar nas as cidades deles
+-- c11-v2: O porém João tendo–ouvido na a prisão as obras do Cristo tendo–enviado por–meio dos discípulos dele
+-- c11-v3: disse a–ele Tu és o que–vem ou outro devemos–esperar
+-- c11-v4: e respondendo o Jesus disse a–eles Tendo–ido anunciai a–João o–que ouvis e vedes
+-- c11-v5: cegos recuperam–a–vista e coxos andam leprosos são–purificados e surdos ouvem e mortos são–ressuscitados e pobres são–evangelizados
+-- c11-v6: e bem-aventurado é aquele–que não não se–escandalizar em mim
+-- c11-v7: Destes porém partindo começou o Jesus a–dizer às multidões acerca de–João Que saístes ao o deserto ver caniço pelo vento agitado
+-- c11-v8: mas que saístes ver homem em vestes–finas vestido eis os as vestes–finas que–usam nas as casas dos reis estão
+-- c11-v9: mas que saístes profeta ver sim digo a–vós e mais que–profeta
+-- c11-v10: este é acerca de–quem está–escrito Eis eu envio o mensageiro meu diante da–face tua o–qual preparará o caminho teu diante de–ti
+-- c11-v11: em–verdade digo a–vós não tem–se–levantado entre nascidos de–mulheres maior do–que–João o Batista o porém menor no o reino dos céus maior do–que–ele é
+-- c11-v12: desde porém os dias de–João o Batista até agora o reino dos céus é–tomado–à–força e violentos arrebatam ele
+-- c11-v13: todos pois os profetas e a lei até João profetizaram
+-- c11-v14: e se quereis aceitar ele é Elias o que–está para–vir
+-- c11-v15: o que–tem ouvidos ouça
+-- c11-v16: A–que porém compararei esta geração esta semelhante é a–crianças sentadas nas as praças que chamando aos outros
+-- c11-v17: dizem Tocamos–flauta a–vós e não dançastes lamentamos e não pranteastes
+-- c11-v18: veio pois João nem comendo nem bebendo e dizem Demónio tem
+-- c11-v19: veio o Filho do homem comendo e bebendo e dizem Eis homem glutão e beberrão de–cobradores–de–impostos amigo e de–pecadores e foi–justificada a sabedoria pelas as obras dela
+-- c11-v20: Então começou a–repreender as cidades nas quais aconteceram os mais milagres dele porque não se–arrependeram
+-- c11-v21: Ai de–ti Corazim ai de–ti Betsaida porque se em Tiro e Sidom tivessem–acontecido os milagres os que–aconteceram em vós há–muito já em saco e cinza teriam–se–arrependido
+-- c11-v22: contudo digo a–vós para–Tiro e para–Sidom mais–tolerável será no dia de–juízo do–que para–vós
+-- c11-v23: e tu Cafarnaum porventura até o–céu serás–exaltada até o–Hades descerás porque se em Sodoma tivessem–acontecido os milagres os que–aconteceram em ti teria–permanecido até até o dia–de–hoje
+-- c11-v24: contudo digo a–vós que para–terra de–Sodoma mais–tolerável será no dia de–juízo do–que para–ti
+-- c11-v25: Naquele naquele o tempo respondendo o Jesus disse Louvo-te a–ti Pai Senhor do céu e da terra porque escondeste estas–coisas dos sábios e entendidos e revelaste elas a–crianças
+-- c11-v26: sim ó Pai porque assim foi–bom foi diante de–ti
+-- c11-v27: Todas–as–coisas a–mim foram–entregues pelo o Pai meu e ninguém conhece o Filho senão o o Pai nem o Pai alguém conhece senão o o Filho e a–quem quer quiser o Filho revelar
+-- c11-v28: Vinde a mim todos os que–estais–cansados e sobrecarregados e–eu vos–darei–descanso vós
+-- c11-v29: tomai o jugo meu sobre vós e aprendei de mim que manso sou e humilde de coração e encontrareis descanso para–as almas vossas
+-- c11-v30: o pois jugo meu suave e o fardo meu leve é
+-- c13-v1: Em o– dia aquele tendo–saído o– Jesus da– casa sentava–se junto–a o– mar
+-- c13-v2: e foram–reunidas a ele multidões muitas de–modo–que ele em barco tendo–entrado sentar–se e toda a– multidão sobre a– praia estava–de–pé
+-- c13-v3: e falou a–eles muitas–coisas em parábolas dizendo Eis saiu o– semeador para– semear
+-- c13-v4: e no– – semear ele umas de–um–lado caíram junto–a o– caminho e tendo–vindo as– aves devoraram elas
+-- c13-v5: outras porém caíram sobre os– lugares–pedregosos onde não tinha terra muita e imediatamente brotaram por–causa–de o– não ter profundidade de–terra
+-- c13-v6: sol porém tendo–nascido foram–queimadas e por–causa–de o– não ter raiz secaram
+-- c13-v7: outras porém caíram sobre os– espinhos e subiram os– espinhos e sufocaram elas
+-- c13-v8: outras porém caíram sobre a– terra a– boa e davam fruto uma de–um–lado cem uma porém sessenta uma porém trinta
+-- c13-v9: O–que– tendo ouvidos ouça
+-- c13-v10: E tendo–se–aproximado os– discípulos disseram a–ele Por–causa–de que em parábolas falas a–eles
+-- c13-v11: o– porém tendo–respondido disse a–eles Porque A–vós foi–dado conhecer os– mistérios do– reino dos– céus àqueles porém não foi–dado
+-- c13-v12: Quem pois tem ser–lhe–á–dado a–ele e será–feito–abundar quem porém não tem até o–que tem ser–lhe–á–tirado de ele
+-- c13-v13: por–causa–de isto em parábolas a–eles falo porque vendo não veem e ouvindo não ouvem nem entendem
+-- c13-v14: e é–cumprida a–eles a– profecia de–Isaías a– que–diz Com–audição ouvireis e não de–modo–algum entendereis e vendo vereis e não de–modo–algum percebereis
+-- c13-v15: Engrossou pois o– coração do– povo este e com–os– ouvidos dificilmente ouviram e os– olhos deles fecharam para–que–não alguma–vez vejam com–os– olhos e com–os– ouvidos ouçam e com–o– coração entendam e se–convertam e eu–os–cure eles
+-- c13-v16: de–vós porém bem–aventurados os– olhos porque veem e os– ouvidos de–vós porque ouvem
+-- c13-v17: Amém pois digo a–vós que muitos profetas e justos desejaram ver o–que vedes e não viram e ouvir o–que ouvis e não ouviram
+-- c13-v18: Vós portanto ouvi a– parábola do– que–semeou
+-- c13-v19: De–todo que–ouve a– palavra do– reino e não entende vem o– maligno e arrebata o– semeado no– – coração dele Este é o– junto–a o– caminho semeado
+-- c13-v20: o– porém sobre os– lugares–pedregosos semeado este é o–que– a– palavra ouvindo e imediatamente com alegria recebendo ela
+-- c13-v21: não tem porém raiz em si–mesmo mas temporário é tendo–surgido porém tribulação ou perseguição por–causa–de a– palavra imediatamente escandaliza–se
+-- c13-v22: o– porém entre os– espinhos semeado este é o–que– a– palavra ouvindo e a– preocupação do– século este e o– engano da– riqueza sufoca a– palavra e infrutífero torna–se
+-- c13-v23: o– porém sobre a– boa terra semeado este é o–que– a– palavra ouvindo e entendendo o–qual de–fato frutifica e produz um de–um–lado cem um porém sessenta um porém trinta
+-- c13-v24: Outra parábola propôs a–eles dizendo Foi–comparado o– reino dos– céus a–um–homem que–semeou boa semente no– – campo dele
+-- c13-v25: no– porém – dormirem os– homens veio dele o– inimigo e semeou–por–cima joio no– meio do– trigo e foi–embora
+-- c13-v26: quando porém brotou a– erva e fruto fez então apareceu também o– joio
+-- c13-v27: tendo–se–aproximado porém os– servos do– pai–de–família disseram a–ele Senhor não boa semente semeaste no– – teu campo De–onde então tem joio
+-- c13-v28: o– porém disse a–eles Um–inimigo homem isto fez os– porém servos a–ele dizem Queres então tendo–ido colhamos eles
+-- c13-v29: o– porém diz Não para–que–não alguma–vez colhendo o– joio arranqueis juntamente com–eles o– trigo
+-- c13-v30: Deixai crescerem–juntos ambos até a– ceifa e no– tempo da– ceifa direi aos– ceifeiros Colhei primeiro o– joio e atai ele em feixes para o– queimar eles o– porém trigo ajuntai no– – celeiro meu
+-- c13-v31: Outra parábola propôs a–eles dizendo Semelhante é o– reino dos– céus a–um–grão de–mostarda o–qual tendo–tomado um–homem semeou no– – campo dele
+-- c13-v32: o–qual menor por–um–lado é de–todas as– sementes quando porém tiver–crescido maior que–as– hortaliças é e torna–se árvore de–modo–que virem as– aves do– céu e fazerem–ninho nos– – ramos dela
+-- c13-v33: Outra parábola falou a–eles Semelhante é o– reino dos– céus a–fermento o–qual tendo–tomado uma–mulher escondeu em de–farinha medidas três até que foi–fermentado todo
+-- c13-v34: Estas–coisas todas falou o– Jesus em parábolas às– multidões e sem parábola nada falava a–eles
+-- c13-v35: para–que fosse–cumprido o– dito por–meio–de o– profeta que–diz Abrirei em parábolas a– boca minha proferirei coisas–ocultas desde a–fundação do–mundo
+-- c13-v36: Então tendo–despedido as– multidões veio para a– casa E aproximaram–se a–ele os– discípulos dele dizendo Explica–nos a–nós a– parábola do– joio do– campo
+-- c13-v37: o– porém tendo–respondido disse O–que– semeia a– boa semente é o– Filho do– homem
+-- c13-v38: o– porém campo é o– mundo a– porém boa semente estes são os– filhos do– reino o– porém joio são os– filhos do– maligno
+-- c13-v39: o– porém inimigo o–que– o–semeou ele é o– diabo a– porém ceifa consumação do–século é os– porém ceifeiros anjos são
+-- c13-v40: Assim–como portanto é–colhido o– joio e com–fogo é–queimado assim será na– – consumação do– século
+-- c13-v41: Enviará o– Filho do– homem os– anjos dele e colherão de o– reino dele todos os– escândalos e os–que– praticam a– iniquidade
+-- c13-v42: e lançarão eles na– – fornalha do– fogo ali haverá o– choro e o– ranger dos– dentes
+-- c13-v43: então os– justos resplandecerão como o– sol no– – reino do– Pai deles O–que– tendo ouvidos ouça
+-- c13-v44: Semelhante é o– reino dos– céus a–um–tesouro escondido no– – campo o–qual tendo–achado um–homem escondeu e da– – alegria dele vai e vende tudo quanto tem e compra o– campo aquele
+-- c13-v45: De–novo semelhante é o– reino dos– céus a–um–homem mercador que–busca boas pérolas
+-- c13-v46: tendo–achado porém uma de–muito–valor pérola tendo–ido vendeu tudo quanto tinha e comprou ela
+-- c13-v47: De–novo semelhante é o– reino dos– céus a–uma–rede lançada no– – mar e de todo gênero que–juntou
+-- c13-v48: a–qual quando foi–enchida tendo–puxado para a– praia e tendo–sentado recolheram os– bons em vasilhas os– porém ruins fora lançaram
+-- c13-v49: assim será na– – consumação do– século sairão os– anjos e separarão os– maus do meio dos– justos
+-- c13-v50: e lançarão eles na– – fornalha do– fogo ali haverá o– choro e o– ranger dos– dentes
+-- c13-v51: Entendestes estas–coisas todas Dizem a–ele Sim
+-- c13-v52: o– porém disse a–eles Por–causa–de isto todo escriba discipulado para–o– reino dos– céus semelhante é a–um–homem dono–de–casa o–qual tira do– – tesouro dele coisas–novas e velhas
+-- c13-v53: E aconteceu quando terminou o– Jesus as– parábolas estas partiu dali
+-- c13-v54: e tendo–vindo para a– pátria dele ensinava eles na– – sinagoga deles de–modo–que ficarem–admirados eles e dizerem De–onde a–este a– sabedoria esta e os– poderes
+-- c13-v55: Não este é o– do– carpinteiro filho Não a– mãe dele é–chamada Maria e os– irmãos dele Tiago e José e Simão e Judas
+-- c13-v56: e as– irmãs dele não todas conosco nós estão De–onde então a–este estas–coisas todas
+-- c13-v57: e escandalizavam–se com ele o– porém Jesus disse a–eles Não há profeta desonrado se não na– – pátria e na– – casa dele
+-- c13-v58: e não fez ali milagres muitos por–causa–de a– incredulidade deles
+-- c14-v1: Em aquele o– tempo ouviu Herodes o– tetrarca a– fama de–Jesus
+-- c14-v2: e disse aos– servos dele Este é João o– Batista ele foi–ressuscitado dos– – mortos e por–causa–de isto os– poderes operam nele ele
+-- c14-v3: o– pois Herodes tendo–prendido o– João prendeu ele e em prisão colocou por–causa–de Herodias a– mulher de–Filipe o– irmão dele
+-- c14-v4: dizia pois o– João a–ele Não é–lícito a–ti ter ela
+-- c14-v5: e querendo ele matar temeu a– multidão porque como profeta ele tinham
+-- c14-v6: aniversário porém havendo do– Herodes dançou a– filha da– Herodias no– – meio e agradou ao– Herodes
+-- c14-v7: pelo–que com juramento prometeu a–ela dar o–que se pedisse
+-- c14-v8: ela porém tendo–sido–instigada por a– mãe dela Dá a–mim diz aqui sobre um–prato a– cabeça de–João o– Batista
+-- c14-v9: e tendo–se–entristecido o– rei por–causa–de os– juramentos e os–que– reclinavam–à–mesa–com ordenou ser–dada
+-- c14-v10: e tendo–enviado decapitou o– João na– – prisão
+-- c14-v11: e foi–trazida a– cabeça dele sobre um–prato e foi–dada à– jovem e levou à– mãe dela
+-- c14-v12: e tendo–se–aproximado os– discípulos dele levantaram o– corpo e sepultaram ele e tendo–vindo anunciaram ao– Jesus
+-- c14-v13: Tendo–ouvido porém o– Jesus retirou–se dali em barco para deserto lugar em particular e tendo–ouvido as– multidões seguiram a–ele a–pé das– – cidades
+-- c14-v14: E tendo–saído viu grande multidão e compadeceu–se de eles e curou os– enfermos deles
+-- c14-v15: tarde porém havendo aproximaram–se a–ele os– discípulos dizendo Deserto é o– lugar e a– hora já passou Despede portanto as– multidões para–que tendo–ido para as– aldeias comprem para–si–mesmos alimentos
+-- c14-v16: o– porém Jesus disse a–eles Não necessidade têm de–ir–embora dai a–eles vós de–comer
+-- c14-v17: os– porém dizem a–ele Não temos aqui senão – cinco pães e dois peixes
+-- c14-v18: o– porém disse Trazei a–mim aqui eles
+-- c14-v19: e tendo–ordenado as– multidões reclinarem–se sobre a– relva tendo–tomado os– cinco pães e os– dois peixes tendo–olhado–para–cima para o– céu abençoou e tendo–partido deu aos– discípulos os– pães os– porém discípulos às– multidões
+-- c14-v20: e comeram todos e foram–saciados e levantaram o– que–sobrou dos– pedaços doze cestos cheios
+-- c14-v21: os–que– porém comiam eram homens cerca–de cinco–mil sem–contar mulheres e crianças
+-- c14-v22: E imediatamente obrigou os– discípulos a–entrar no– – barco e a–ir–adiante dele para o– outro–lado até que despedisse as– multidões
+-- c14-v23: e tendo–despedido as– multidões subiu ao– – monte em particular para–orar tarde porém havendo só estava ali
+-- c14-v24: o– porém barco já estádios muitos da– – terra distava sendo–açoitado pelas– – ondas estava pois contrário o– vento
+-- c14-v25: na–quarta porém vigília da– noite veio a eles andando sobre o– mar
+-- c14-v26: os– porém discípulos tendo–o–visto ele sobre o– mar andando perturbaram–se dizendo que Um–fantasma é e de o– medo gritaram
+-- c14-v27: imediatamente porém falou o– Jesus a–eles dizendo Tende–ânimo eu sou não temais
+-- c14-v28: Tendo–respondido porém a–ele o– Pedro disse Senhor se tu és ordena a–mim vir a ti sobre as– águas
+-- c14-v29: o– porém disse Vem e tendo–descido do– – barco o– Pedro andou sobre as– águas e veio a o– Jesus
+-- c14-v30: vendo porém o– vento forte temeu e começando a–afundar gritou dizendo Senhor salva me
+-- c14-v31: imediatamente porém o– Jesus tendo–estendido a– mão segurou dele e diz a–ele Homem–de–pouca–fé para que duvidaste
+-- c14-v32: e tendo–subido eles no– – barco cessou o– vento
+-- c14-v33: os–que– porém no– – barco adoraram a–ele dizendo Verdadeiramente de–Deus Filho és
+-- c14-v34: E tendo–atravessado vieram para a– terra para Genesaré
+-- c14-v35: e tendo–o–reconhecido ele os– homens do– lugar aquele enviaram para toda a– região–ao–redor aquela e trouxeram a–ele todos os–que– mal estavam
+-- c14-v36: e rogavam a–ele para–que somente tocassem na– orla da– veste dele e quantos tocaram foram–curados
+-- c15-v1: Então aproximam–se do– Jesus de Jerusalém fariseus e escribas dizendo
+-- c15-v2: Por–causa–de que os– discípulos teus transgridem a– tradição dos– anciãos não pois lavam as– mãos deles quando pão comem
+-- c15-v3: o– porém tendo–respondido disse a–eles Por–causa–de que também vós transgredis o– mandamento de– Deus por–causa–de a– tradição de–vós
+-- c15-v4: o– pois Deus disse Honra o– pai e a– mãe e O–que– amaldiçoa pai ou mãe com–morte morra
+-- c15-v5: vós porém dizeis Quem quer–que disser ao– pai ou à– mãe Oferta o–que se de mim fores–beneficiado
+-- c15-v6: não de–modo–algum honrará o– pai dele ou a– mãe dele e invalidastes a– palavra de– Deus por–causa–de a– tradição de–vós
+-- c15-v7: Hipócritas bem profetizou acerca–de vós Isaías dizendo
+-- c15-v8: O– povo este com–os– lábios a–mim honra o– porém coração deles longe está de mim
+-- c15-v9: em–vão porém adoram a–mim ensinando como–doutrinas mandamentos de–homens
+-- c15-v10: E tendo–chamado a– multidão disse a–eles Ouvi e entendei
+-- c15-v11: não o–que– entra na– – boca contamina o– homem mas o–que– sai da– – boca isto contamina o– homem
+-- c15-v12: Então tendo–se–aproximado os– discípulos dizem a–ele Sabes que os– fariseus tendo–ouvido a– palavra escandalizaram–se
+-- c15-v13: o– porém tendo–respondido disse Toda planta que não plantou o– Pai meu o– celestial será–arrancada
+-- c15-v14: deixai eles cegos são guias de–cegos cego porém cego se guiar ambos em cova cairão
+-- c15-v15: Tendo–respondido porém o– Pedro disse a–ele Explica–nos a–nós a– parábola esta
+-- c15-v16: o– porém disse Ainda também vós sem–entendimento estais
+-- c15-v17: não entendeis que tudo o–que– entra na– – boca para o– ventre vai e para latrina é–lançado
+-- c15-v18: as–coisas–que– porém saem da– – boca do– – coração saem e–aquelas contaminam o– homem
+-- c15-v19: do– pois – coração saem pensamentos maus homicídios adultérios fornicações furtos falsos–testemunhos blasfêmias
+-- c15-v20: estas–coisas são as–que– contaminam o– homem o– porém com–não–lavadas mãos comer não contamina o– homem
+-- c15-v21: E tendo–saído dali o– Jesus retirou–se para as– regiões de–Tiro e de–Sidom
+-- c15-v22: e eis uma–mulher cananeia daquelas – fronteiras aquelas tendo–saído clamava dizendo Tem–misericórdia–de mim Senhor Filho de–Davi a– filha minha terrivelmente está–endemoninhada
+-- c15-v23: ele porém não respondeu a–ela palavra e tendo–se–aproximado os– discípulos dele rogavam a–ele dizendo Despede ela porque clama atrás–de nós
+-- c15-v24: ele porém tendo–respondido disse Não fui–enviado senão – às– – ovelhas as– perdidas da–casa de–Israel
+-- c15-v25: ela porém tendo–vindo adorava a–ele dizendo Senhor ajuda a–mim
+-- c15-v26: ele porém tendo–respondido disse Não é bom tomar o– pão dos– filhos e lançar aos– cãezinhos
+-- c15-v27: ela porém disse Sim Senhor pois também os– cãezinhos comem das– – migalhas das–que– caem da– – mesa dos– senhores deles
+-- c15-v28: então tendo–respondido o– Jesus disse a–ela Ó mulher grande tua a– fé seja–feito a–ti como queres e foi–curada a– filha dela desde – hora aquela
+-- c15-v29: E tendo–partido dali o– Jesus veio para–junto–de o– mar da– Galileia e tendo–subido ao– – monte sentava–se ali
+-- c15-v30: e aproximaram–se a–ele multidões muitas tendo consigo si coxos aleijados cegos mudos e outros muitos e puseram eles junto–a os– pés dele e curou eles
+-- c15-v31: de–modo–que a– multidão se–admirar vendo mudos falando aleijados sãos e coxos andando e cegos vendo e glorificaram o– Deus de–Israel
+-- c15-v32: O– porém Jesus tendo–chamado os– discípulos dele disse Compadeço–me da– – multidão porque já dias três permanecem–comigo a–mim e não têm o–que comam e despedir eles em–jejum não quero para–que–não alguma–vez desmaiem no– – caminho
+-- c15-v33: e dizem a–ele os– discípulos De–onde a–nós em deserto pães tantos de–modo–a saciar multidão tão–grande
+-- c15-v34: e diz a–eles o– Jesus Quantos pães tendes eles– porém disseram Sete e poucos peixinhos
+-- c15-v35: e tendo–ordenado à– multidão reclinar–se sobre a– terra
+-- c15-v36: tomou os– sete pães e os– peixes e tendo–dado–graças partiu e dava aos– discípulos os– porém discípulos às– multidões
+-- c15-v37: e comeram todos e foram–saciados e o– que–sobrou dos– pedaços levantaram sete cestos cheios
+-- c15-v38: os–que– porém comiam eram quatro–mil homens sem–contar mulheres e crianças
+-- c15-v39: E tendo–despedido as– multidões entrou no– – barco e veio para as– fronteiras de–Magadã
+-- c16-v1: E tendo–se–aproximado os– fariseus e saduceus tentando perguntaram a–ele sinal do– – céu mostrar a–eles
+-- c16-v2: ele porém tendo–respondido disse a–eles Tarde havendo dizeis Bom–tempo está–vermelho pois o– céu
+-- c16-v3: e de–manhã Hoje tempestade está–vermelho pois carregado o– céu a– por–um–lado face do– céu sabeis discernir os– porém sinais dos– tempos não podeis
+-- c16-v4: Geração má e adúltera sinal busca e sinal não lhe–será–dado a–ela senão – o– sinal de–Jonas e tendo–deixado eles foi–embora
+-- c16-v5: E tendo–vindo os– discípulos para o– outro–lado esqueceram–se pães de–tomar
+-- c16-v6: o– porém Jesus disse a–eles Vede e acautelai–vos do– – fermento dos– fariseus e saduceus
+-- c16-v7: eles– porém arrazoavam entre si–mesmos dizendo que Pães não trouxemos
+-- c16-v8: tendo–percebido porém o– Jesus disse Por–que arrazoais entre vós–mesmos homens–de–pouca–fé que pães não tendes
+-- c16-v9: ainda–não entendeis nem vos–lembrais dos– cinco pães dos– cinco–mil e quantos cestos tomastes
+-- c16-v10: nem dos– sete pães dos– quatro–mil e quantos cestos tomastes
+-- c16-v11: como não entendeis que não acerca–de pães vos–disse a–vós acautelai–vos porém do– – fermento dos– fariseus e saduceus
+-- c16-v12: então entenderam que não disse acautelarem–se do– – fermento dos– pães mas da– – doutrina dos– fariseus e saduceus
+-- c16-v13: Tendo–vindo porém o– Jesus para as– regiões de–Cesareia a– de–Filipe perguntava aos– discípulos dele dizendo Quem dizem os– homens ser o– Filho do– homem
+-- c16-v14: eles– porém disseram Uns– por–um–lado João o– Batista outros porém Elias outros porém Jeremias ou um dos– profetas
+-- c16-v15: Diz a–eles Vós porém quem a–mim dizeis ser
+-- c16-v16: Tendo–respondido porém Simão Pedro disse Tu és o– Cristo o– Filho do– Deus o– vivo
+-- c16-v17: Tendo–respondido porém o– Jesus disse a–ele Bem–aventurado és Simão Bar–Jonas porque carne e sangue não revelou a–ti mas o– Pai meu o– nos– – céus
+-- c16-v18: E–eu porém a–ti digo que tu és Pedro e sobre esta – pedra edificarei minha a– igreja e portas do–Hades não prevalecerão–contra ela
+-- c16-v19: Darei a–ti as– chaves do– reino dos– céus e o–que quer–que ligares sobre a– terra será ligado nos– – céus e o–que quer–que desligares sobre a– terra será desligado nos– – céus
+-- c16-v20: então ordenou aos– discípulos que a–ninguém dissessem que ele é o– Cristo
+-- c16-v21: Desde então começou o– Jesus Cristo a–mostrar aos– discípulos dele que é–necessário ele a Jerusalém ir e muitas–coisas sofrer dos– – anciãos e sumos–sacerdotes e escribas e ser–morto e ao– terceiro dia ser–ressuscitado
+-- c16-v22: e tendo–o–tomado–à–parte ele o– Pedro começou a–repreender a–ele dizendo Misericórdia a–ti Senhor não de–modo–algum acontecerá a–ti isto
+-- c16-v23: ele porém tendo–se–voltado disse ao– Pedro Vai atrás–de mim Satanás escândalo és de–mim porque não pensas nas–coisas– – de–Deus mas nas–coisas– – dos–homens
+-- c16-v24: Então o– Jesus disse aos– discípulos dele Se alguém quer após mim vir negue–se a–si–mesmo e tome a– cruz dele e siga a–mim
+-- c16-v25: quem pois quer–que quiser a– vida dele salvar perderá ela quem porém – perder a– vida dele por–causa–de mim achará ela
+-- c16-v26: que pois aproveitará a–um–homem se o– mundo inteiro ganhar a– porém vida dele perder ou que dará um–homem em–troca da– vida dele
+-- c16-v27: está–para pois o– Filho do– homem vir na– – glória do– Pai dele com os– anjos dele e então recompensará a–cada–um segundo a– ação dele
+-- c16-v28: Amém digo a–vós que há alguns dos–que– aqui estão–de–pé os–quais não de–modo–algum provarão morte até que vejam o– Filho do– homem vindo no– – reino dele
+-- c17-v1: E após dias seis toma–consigo o– Jesus o– Pedro e Tiago e João o– irmão dele e leva eles a um–monte alto em particular
+-- c17-v2: e foi–transfigurado diante–de eles e resplandeceu o– rosto dele como o– sol as– porém vestes dele tornaram–se brancas como a– luz
+-- c17-v3: e eis apareceu a–eles Moisés e Elias conversando com ele
+-- c17-v4: Tendo–respondido porém o– Pedro disse ao– Jesus Senhor bom é para–nós aqui estarmos se queres farei aqui três tendas para–ti uma e para–Moisés uma e para–Elias uma
+-- c17-v5: ainda ele falando eis uma–nuvem luminosa os–cobriu eles e eis uma–voz da– – nuvem dizendo Este é o– Filho meu o– amado em quem me–comprazo ouvi a–ele
+-- c17-v6: e tendo–ouvido os– discípulos caíram sobre rosto deles e temeram grandemente
+-- c17-v7: e aproximou–se o– Jesus e tendo–os–tocado eles disse Levantai–vos e não temais
+-- c17-v8: tendo–levantado porém os– olhos deles a–ninguém viram senão – ele Jesus só
+-- c17-v9: E descendo eles do– – monte ordenou a–eles o– Jesus dizendo A–ninguém digais a– visão até que o– Filho do– homem dos– mortos seja–ressuscitado
+-- c17-v10: E perguntaram a–ele os– discípulos dizendo Por–que então os– escribas dizem que Elias é–necessário vir primeiro
+-- c17-v11: ele porém tendo–respondido disse Elias por–um–lado vem e restaurará todas–as–coisas
+-- c17-v12: digo porém a–vós que Elias já veio e não o–reconheceram ele mas fizeram nele dele quantas–coisas quiseram assim também o– Filho do– homem está–para sofrer da–parte–de eles
+-- c17-v13: então entenderam os– discípulos que acerca–de João o– Batista disse a–eles
+-- c17-v14: E tendo–vindo para a– multidão aproximou–se a–ele um–homem ajoelhando–se–diante–de ele
+-- c17-v15: e dizendo Senhor tem–misericórdia–de meu o– filho porque é–lunático e gravemente sofre muitas–vezes pois cai no– – fogo e muitas–vezes na– – água
+-- c17-v16: e trouxe ele aos– discípulos teus e não puderam ele curar
+-- c17-v17: Tendo–respondido porém o– Jesus disse Ó geração incrédula e pervertida até quando convosco vós estarei até quando suportarei vós Trazei a–mim ele aqui
+-- c17-v18: e repreendeu a–ele o– Jesus e saiu dele dele o– demônio e foi–curado o– menino desde – hora aquela
+-- c17-v19: Então tendo–se–aproximado os– discípulos ao– Jesus em particular disseram Por–causa–de que nós não pudemos expulsá–lo ele
+-- c17-v20: ele porém diz a–eles Por–causa–de a– pouca–fé de–vós amém pois digo a–vós se tiverdes fé como um–grão de–mostarda direis ao– monte este Passa daqui para–ali e passará e nada será–impossível a–vós
+-- c17-v21: Esta porém – espécie não sai senão – com oração e jejum
+-- c17-v22: Estando–reunidos porém eles na– – Galileia disse a–eles o– Jesus Está–para o– Filho do– homem ser–entregue em mãos de–homens
+-- c17-v23: e o–matarão ele e ao– terceiro dia será–ressuscitado e entristeceram–se grandemente
+-- c17-v24: Tendo–vindo porém eles a Cafarnaum aproximaram–se os–que– – duas–dracmas recebem ao– Pedro e disseram O– mestre de–vós não paga as– duas–dracmas
+-- c17-v25: Diz Sim e tendo–vindo para a– casa antecipou–se a–ele o– Jesus dizendo Que a–ti parece Simão os– reis da– terra de quem recebem impostos ou tributo dos– – filhos deles ou dos– – estranhos
+-- c17-v26: tendo–dito porém Dos– – estranhos disse a–ele o– Jesus Portanto livres são os– filhos
+-- c17-v27: para–que porém não os–escandalizemos eles tendo–ido ao mar lança um–anzol e o– que–subir primeiro peixe toma e tendo–aberto a– boca dele acharás um–estater aquele tendo–tomado dá a–eles por mim e ti
+-- c19-v1: E aconteceu, quando terminou o– Jesus as– palavras estas, partiu de– a– Galileia, e veio para– os– confins da– Judeia além do– Jordão.
+-- c19-v2: E seguiram –o multidões grandes, e curou –os ali.
+-- c19-v3: E aproximaram-se dele fariseus, tentando –o, e dizendo, É lícito a–um–homem despedir a– esposa sua por toda causa?
+-- c19-v4: o– Porém respondendo, disse, Não lestes, que o– que–criou desde– o–princípio, macho e fêmea os–fez –os,
+-- c19-v5: e disse, Por–causa disto deixará homem o– pai e a– mãe, e unir-se-á à– esposa sua, e serão os– dois em– carne uma?
+-- c19-v6: De–modo–que já–não são dois, mas carne uma. O–que pois o– Deus uniu, homem não separe.
+-- c19-v7: Dizem –lhe, Por–que então Moisés ordenou dar carta de–divórcio, e despedi –la?
+-- c19-v8: Diz –lhes, Porque Moisés pela– a– dureza–de–coração vossa permitiu –vos despedir as– esposas vossas; desde– o–princípio porém não foi assim.
+-- c19-v9: Digo porém –vos, que quem quer–que despedir a– esposa sua não por imoralidade, e casar–com outra, comete–adultério; e o–que com–a–despedida casar, comete–adultério.
+-- c19-v10: Dizem –lhe os– discípulos dele, Se assim é a– situação do– homem com a– esposa, não convém casar.
+-- c19-v11: o– Porém disse –lhes, Nem todos compreendem a– palavra esta, mas aos–que foi–dado.
+-- c19-v12: Há pois eunucos que de– ventre de–mãe nasceram assim, e há eunucos que foram–feitos–eunucos pelos– os– homens, e há eunucos que fizeram–eunucos–a si–mesmos por–causa do– reino dos– céus. O–que puder compreender, compreenda.
+-- c19-v13: Então foram–trazidas a–ele crianças, para–que as– mãos impusesse sobre–elas, e orasse. os– Porém discípulos repreenderam –os.
+-- c19-v14: o– Porém Jesus disse, Deixai as– crianças, e não impeçais –as de–vir a– mim; dos– pois tais é o– reino dos– céus.
+-- c19-v15: E tendo–imposto as– mãos sobre–eles, partiu dali.
+-- c19-v16: E eis–que, um aproximando-se dele, disse, Mestre, que bem farei, para–que tenha vida eterna?
+-- c19-v17: o– Porém disse –lhe, Por–que –me perguntas acerca do– bem? Um é o– bom. Se porém queres na– a– vida entrar, guarda os– mandamentos.
+-- c19-v18: Diz –lhe, Quais? o– Porém Jesus disse O, Não matarás; Não adulterarás; Não furtarás; Não darás–falso–testemunho;
+-- c19-v19: Honra o– pai e a– mãe; e, Amarás o– próximo teu como a–ti–mesmo.
+-- c19-v20: Diz –lhe o– jovem, Estas–coisas todas guardei. Que ainda me–falta?
+-- c19-v21: Disse –lhe o– Jesus, Se queres perfeito ser, vai, vende teus os– bens, e dá aos– pobres, e terás tesouro nos– céus; e vem, segue –me.
+-- c19-v22: Ouvindo porém, o– jovem a– palavra esta, foi–se entristecido; era pois tendo possessões muitas.
+-- c19-v23: O– Porém Jesus disse aos– discípulos seus, Em–verdade digo –vos, que rico dificilmente entrará no– o– reino dos– céus.
+-- c19-v24: De–novo porém digo –vos, mais–fácil é camelo pelo– buraco de–agulha passar, do–que rico entrar no– o– reino de– Deus.
+-- c19-v25: Ouvindo porém os– discípulos ficaram–admirados muito, dizendo, Quem então pode ser–salvo?
+-- c19-v26: Olhando–fixamente porém, o– Jesus disse –lhes, Para– homens isto impossível é, para– porém Deus tudo é–possível.
+-- c19-v27: Então respondendo, o– Pedro disse –lhe, Eis–que, nós deixamos tudo e seguimos –te; que então será para–nós?
+-- c19-v28: o– Porém Jesus disse –lhes, Em–verdade digo –vos, que vós os– que–me–seguistes a–mim, na– a– regeneração, quando sentar-se o– Filho do– homem sobre– trono de–glória sua, sentar-vos-eis também vós sobre– doze tronos, julgando as– doze tribos de– Israel.
+-- c19-v29: E todo–o–que qualquer–que deixou casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou esposa, ou filhos, ou campos, por–causa do– meu nome, cem–vezes–mais receberá, e vida eterna herdará;
+-- c19-v30: Muitos porém serão primeiros últimos, e últimos primeiros.
+-- c20-v1: Semelhante pois é o– reino dos– céus a–homem, dono–de–casa, que saiu logo– de–manhã contratar trabalhadores para– a– vinha sua.
+-- c20-v2: Tendo–concordado porém com– os– trabalhadores por– um–denário o– dia, enviou –os para– a– vinha sua.
+-- c20-v3: E tendo–saído por–volta–da– terceira hora, viu outros estando–em–pé na– a– praça ociosos;
+-- c20-v4: e àqueles disse, Ide também vós para– a– vinha, e o–que quer–que for justo, darei –vos.
+-- c20-v5: os– Porém foram. De–novo porém tendo–saído por–volta–da– sexta e nona hora, fez do–mesmo–modo.
+-- c20-v6: Por–volta–da– porém a– décima–primeira, tendo–saído, encontrou outros estando–em–pé, e diz –lhes, Por–que aqui estais–em–pé todo– o– dia ociosos?
+-- c20-v7: Dizem –lhe, Porque ninguém –nos contratou. Diz –lhes, Ide também vós para– a– vinha, e o–que quer–que for justo recebereis.
+-- c20-v8: Da–tarde porém chegando, diz o– senhor da– vinha ao– administrador seu, Chama os– trabalhadores, e paga –lhes o– salário, começando dos– os– últimos até– os– primeiros.
+-- c20-v9: E tendo–vindo os– da– a– décima–primeira hora, receberam cada–um– um–denário.
+-- c20-v10: E tendo–vindo os– primeiros, pensaram que mais receberiam, e receberam o– cada–um– um–denário também eles.
+-- c20-v11: Tendo–recebido, porém murmuravam contra– o– dono–de–casa,
+-- c20-v12: dizendo, Estes os– últimos, uma hora trabalharam, e iguais –os a–nós fizeste, aos–que suportaram o– peso do– dia e o– calor.
+-- c20-v13: o– Porém respondendo a–um deles, disse, Amigo, não faço–injustiça a–ti. Não por–um–denário concordaste comigo?
+-- c20-v14: Toma o– teu e vai. Quero porém a–este o– último dar, como também a–ti.
+-- c20-v15: Ou não é–lícito a–mim o–que quero fazer com– as– minhas–coisas? Ou o– olho teu mau é, porque eu bom sou?
+-- c20-v16: Assim serão os– últimos primeiros, e os– primeiros, últimos; muitos pois são chamados, poucos porém escolhidos.
+-- c20-v17: E estando–para subindo o– Jesus a– Jerusalém, tomou–consigo os– doze discípulos à– parte, e no– o– caminho, disse –lhes,
+-- c20-v18: Eis–que, subimos a– Jerusalém, e o– Filho do– homem será–entregue aos– principais–sacerdotes e escribas, e condenarão –o à– morte,
+-- c20-v19: e entregarão –o aos– gentios, para– o– escarnecer e açoitar e crucificar; e no– terceiro dia ressuscitará.
+-- c20-v20: Então aproximou-se dele a– mãe dos– filhos de–Zebedeu com– os– filhos dela, adorando, e pedindo algo de– ele.
+-- c20-v21: o– Porém disse –lhe, Que queres? Diz –lhe, Dize que sentem-se estes os– dois filhos meus um à– direita tua, e um à– esquerda tua, no– o– reino teu.
+-- c20-v22: Respondendo porém, o– Jesus disse, Não sabeis o–que pedis. Podeis beber o– cálice que eu estou–para beber? ou o– batismo com–que eu sou–batizado ser–batizados? Dizem –lhe, Podemos.
+-- c20-v23: Diz –lhes, O– de–fato cálice meu bebereis; o–batismo com–que eu sou–batizado, sereis–batizados; o– porém sentar à– direita minha e, à– esquerda, não é meu isto dar; mas aos–que foi–preparado pelo– o– Pai meu.
+-- c20-v24: E ouvindo, os– dez indignaram-se acerca– dos– dois irmãos.
+-- c20-v25: o– Porém Jesus, tendo-os–chamado, –os, disse, Sabeis que os– governantes das– nações dominam–sobre elas, e os– grandes exercem–autoridade–sobre elas.
+-- c20-v26: Não assim será entre– vós; mas quem quer–que quiser entre– vós grande tornar-se, será vosso servo;
+-- c20-v27: e quem quer–que quiser entre– vós ser primeiro, será vosso escravo;
+-- c20-v28: assim–como o– Filho do– homem não veio para–ser–servido, mas para–servir, e dar a– vida sua resgate em–lugar–de– muitos.
+-- c20-v29: E saindo eles de– Jericó, seguiu –o multidão grande.
+-- c20-v30: E eis–que, dois cegos sentados junto– ao– caminho, ouvindo que Jesus passa, clamaram, dizendo, Senhor, tem–misericórdia de–nós, filho de–Davi.
+-- c20-v31: a– Porém multidão repreendeu –os, para–que se–calassem. os– Porém mais clamavam, dizendo, Senhor, tem–misericórdia de–nós, filho de–Davi.
+-- c20-v32: E parando, o– Jesus chamou –os, e disse, Que quereis que–faça a–vós?
+-- c20-v33: Dizem –lhe, Senhor, que sejam–abertos os– olhos nossos.
+-- c20-v34: Comovido–de–compaixão porém, o– Jesus tocou os– olhos deles; e imediatamente viram, e seguiram –o.
+-- c21-v1: E quando aproximaram-se de– Jerusalém e chegaram a– Betfagé ao– o– monte das– Oliveiras, então Jesus enviou dois discípulos,
+-- c21-v2: dizendo –lhes, Ide à– a– aldeia a– defronte de–vós, e imediatamente encontrareis jumenta amarrada, e jumentinho com– ela; desatando-os trazei a–mim.
+-- c21-v3: E se alguém –vos disser algo, direis, que O– Senhor deles necessidade tem. Imediatamente porém, enviará –os.
+-- c21-v4: Isto porém aconteceu, para–que fosse–cumprido o– dito por–meio– do– profeta, dizendo,
+-- c21-v5: Dizei à– filha de–Sião, Eis, o– Rei teu vem a–ti, manso e montado sobre– jumenta, e sobre– jumentinho, filho de–animal–de–carga.
+-- c21-v6: Tendo–ido porém os– discípulos, e tendo–feito como ordenou –lhes o– Jesus,
+-- c21-v7: trouxeram a– jumenta e o– jumentinho, e puseram sobre– eles as– vestes, e sentou-se sobre– eles.
+-- c21-v8: a– Porém maior–parte–da multidão estendeu suas as– vestes no– o– caminho; outros porém cortavam ramos das– as– árvores, e espalhavam no– o– caminho.
+-- c21-v9: as– Porém multidões as– que–iam–adiante–de ele, e as– que–seguiam, clamavam, dizendo, Hosana ao– Filho de–Davi! Bendito o– que–vem em– nome do–Senhor! Hosana nas– as– alturas!
+-- c21-v10: E tendo–entrado ele em– Jerusalém, agitou-se toda a– cidade, dizendo, Quem é este?
+-- c21-v11: as– Porém multidões diziam, Este é o– profeta, Jesus, o– de– Nazaré da– Galileia.
+-- c21-v12: E entrou Jesus no– o– templo e expulsou todos os– que–vendiam e que–compravam no– o– templo, e as– mesas dos– cambistas derrubou, e as– cadeiras dos– que–vendiam as– pombas.
+-- c21-v13: E diz –lhes, Está–escrito, A– casa minha casa de–oração será–chamada; vós porém –a fazeis covil de–ladrões.
+-- c21-v14: E aproximaram-se dele cegos e coxos no– o– templo, e curou –os.
+-- c21-v15: Vendo porém os– principais–sacerdotes e os– escribas, as– maravilhas que fez, e os– meninos os– que–clamavam no– o– templo, e que–diziam, Hosana ao– Filho de–Davi, indignaram-se,
+-- c21-v16: e disseram –lhe, Ouves o–que estes dizem? o– Porém Jesus diz –lhes, Sim, nunca lestes, que Da– boca de–crianças e de–que–mamam, aperfeiçoaste louvor?
+-- c21-v17: E tendo-os–deixado, –os, saiu fora da– cidade para– Betânia, e pernoitou ali.
+-- c21-v18: De–manhã porém, voltando para– a– cidade, teve–fome,
+-- c21-v19: e vendo figueira uma junto– do– caminho, foi até– ela, e nada encontrou nela– ela, senão não folhas somente. E diz –lhe, Não nunca–mais de– ti fruto haja, para– a– eternidade. E secou imediatamente a– figueira.
+-- c21-v20: E vendo os– discípulos admiraram-se, dizendo, Como imediatamente secou a– figueira?
+-- c21-v21: Respondendo porém, o– Jesus disse –lhes, Em–verdade, digo –vos, se tiverdes fé, e não duvidardes, não somente o– da– figueira fareis, mas ainda–que a–este– monte este disserdes, Levanta-te e lança-te no– o– mar, acontecerá.
+-- c21-v22: E tudo– quanto quer–que pedirdes na– a– oração, crendo, recebereis.
+-- c21-v23: E tendo–entrado ele no– o– templo. aproximaram-se dele ensinando os– principais–sacerdotes e os– anciãos do– povo, dizendo, Em– que autoridade estas–coisas fazes? E quem a–ti deu a– autoridade esta?
+-- c21-v24: Respondendo porém, o– Jesus disse –lhes, Perguntarei –vos também–eu palavra uma, a–qual se responderdes a–mim, também–eu –vos direi, em– que autoridade estas–coisas faço.
+-- c21-v25: O– batismo o– de–João, de–onde era? Do– céu, ou dos– homens? os– Porém raciocinavam entre– si–mesmos, dizendo, Se dissermos, Do– céu, dirá –nos, Por–que que então não crestes nele?
+-- c21-v26: Se porém dissermos, Dos– homens, tememos a– multidão; todos pois como profeta têm o– João.
+-- c21-v27: E respondendo ao– Jesus, disseram, Não sabemos. Disse –lhes também ele, Nem eu digo –vos, em– que autoridade estas–coisas faço.
+-- c21-v28: Que porém –vos parece? Homem tinha filhos dois, e aproximando-se do– primeiro disse, Filho, vai hoje, trabalha na– a– vinha.
+-- c21-v29: o– Porém respondendo disse, Senhor Não quero; depois porém, arrependendo-se, foi.
+-- c21-v30: Aproximando-se porém do– segundo, disse do–mesmo–modo. o– Porém respondendo disse, Eu senhor, e não foi.
+-- c21-v31: Qual dos– os– dois fez a– vontade do– pai? Dizem, O– primeiro. Diz –lhes o– Jesus, Em–verdade digo –vos, que os– cobradores–de–impostos e as– prostitutas vão–adiante–de –vós para– o– reino de– Deus.
+-- c21-v32: Veio pois João a– vós em– caminho de–justiça, e não crestes nele, os– porém cobradores–de–impostos e as– prostitutas creram nele; vós porém, vendo, nem vos–arrependestes depois para– crer nele.
+-- c21-v33: Outra parábola ouvi: Homem havia, dono–de–casa, que plantou vinha, e cerca a–ela colocou–ao–redor, e cavou nela– ela lagar, e construiu torre, e arrendou –a a–lavradores, e viajou.
+-- c21-v34: Quando porém aproximou-se o– tempo dos– frutos, enviou os– servos seus aos– os– lavradores, para–receber os– frutos seus.
+-- c21-v35: E tendo–tomado os– lavradores os– servos dele, a–um de–fato espancaram, a–outro porém mataram, a–outro porém apedrejaram.
+-- c21-v36: De–novo enviou outros servos, mais do–que–os– primeiros, e fizeram –lhes do–mesmo–modo.
+-- c21-v37: Por–fim porém, enviou a– eles o– filho seu, dizendo, Respeitarão o– filho meu.
+-- c21-v38: os– Porém lavradores vendo o– filho, disseram entre– si–mesmos, Este é o– herdeiro; vinde, matemos –o, e tenhamos a– herança dele.
+-- c21-v39: E tendo-o–tomado, –o, lançaram–fora fora da– vinha e mataram.
+-- c21-v40: Quando pois vier o– senhor da– vinha, que fará aos– lavradores aqueles?
+-- c21-v41: Dizem –lhe, Maus malvadamente destruirá –os, e a– vinha arrendará a–outros lavradores, que entregarão –lhe os– frutos nos– os– tempos deles.
+-- c21-v42: Diz –lhes o– Jesus, Nunca lestes nas– as– escrituras, Pedra que rejeitaram os– que–edificavam, esta tornou-se em– cabeça de–esquina; da–parte– do–Senhor aconteceu esta, e é maravilhosa aos– olhos nossos?
+-- c21-v43: Por–isso isto digo –vos, que será–tirado de– vós o– reino de– Deus, e será–dado a–nação que–produz os– frutos dele.
+-- c21-v44: E o–que cair sobre– a– pedra esta, será–despedaçado; sobre– quem porém quer–que ela–cair, esmagará –o.
+-- c21-v45: E ouvindo os– principais–sacerdotes e os– fariseus as– parábolas dele, perceberam que acerca– deles fala.
+-- c21-v46: E procurando –o prender, temeram as– multidões, pois como– profeta –o tinham.
+-- c22-v1: E respondendo o– Jesus de–novo disse em– parábolas –lhes, dizendo,
+-- c22-v2: Comparado–foi o– reino dos– céus a–homem, rei, que fez bodas para–o– filho seu,
+-- c22-v3: e enviou os– servos seus, para–chamar os– convidados para– as– bodas, e não queriam vir.
+-- c22-v4: De–novo enviou outros servos, dizendo, Dizei aos– convidados, Eis, o– banquete meu preparei, os– touros meus, e os– animais–cevados foram–mortos, e tudo está–pronto; vinde para– as– bodas.
+-- c22-v5: os– Porém negligenciando foram–se, um de–fato para– o– próprio campo, outro porém para– o– negócio seu.
+-- c22-v6: os– Porém restantes, agarrando os– servos dele, maltrataram e mataram.
+-- c22-v7: o– Porém rei irou-se, e tendo–enviado os– exércitos seus, destruiu os– assassinos aqueles, e a– cidade deles incendiou.
+-- c22-v8: Então diz aos– servos seus, O– de–fato casamento pronto está, os– porém convidados não eram dignos;
+-- c22-v9: ide pois às– as– encruzilhadas dos– caminhos, e quantos quer–que encontrardes, chamai para– as– bodas.
+-- c22-v10: E tendo–saído, os– servos aqueles aos– os– caminhos, reuniram todos quantos encontraram, maus tanto como bons; e encheu-se o– casamento de–convivas.
+-- c22-v11: Tendo–entrado porém o– rei para–ver os– convivas, viu ali homem não vestido de–veste de–casamento;
+-- c22-v12: e diz –lhe, Amigo, como entraste aqui não tendo veste de–casamento? o– Porém emudeceu.
+-- c22-v13: Então o– rei disse aos– serventes, Atando–lhe os– pés e mãos, lançai –o nas– as– trevas as– exteriores; ali haverá o– choro e o– ranger dos– dentes.
+-- c22-v14: Muitos pois são chamados, poucos porém escolhidos.
+-- c22-v15: Então tendo–ido, os– fariseus conselho tomaram de–como –o apanhassem–em–armadilha em– palavra.
+-- c22-v16: E enviam –lhe os– discípulos deles, com– os– herodianos, dizendo, Mestre, sabemos que verdadeiro és, e o– caminho de– Deus em– verdade ensinas, e não importa a–ti de– ninguém, não pois olhas para– face de–homens;
+-- c22-v17: dize pois –nos, que a–ti parece? É–lícito dar tributo a–César, ou não?
+-- c22-v18: Conhecendo porém o– Jesus a– malícia deles, disse, Por–que –me tentais, hipócritas?
+-- c22-v19: Mostrai –me a– moeda do– tributo. os– Porém trouxeram –lhe um–denário.
+-- c22-v20: E diz –lhes, De–quem é–a– imagem esta? E a– inscrição?
+-- c22-v21: Dizem –lhe, De–César. Então diz –lhes, Dai pois as–coisas– de–César a–César, e as–coisas– de– Deus a– Deus.
+-- c22-v22: E ouvindo admiraram-se; e tendo-o–deixado –o foram–se.
+-- c22-v23: Naquele– aquele o– dia aproximaram-se dele saduceus, que–dizem não haver ressurreição, e perguntaram –lhe,
+-- c22-v24: dizendo, Mestre, Moisés disse, Se alguém morrer não tendo filhos, casar-se-á o– irmão dele com–a– mulher dele, e suscitará descendência ao– irmão dele.
+-- c22-v25: Havia porém entre– nós sete irmãos; e o– primeiro, tendo–casado, morreu, e não tendo descendência, deixou a– mulher sua ao– irmão seu.
+-- c22-v26: Semelhantemente também o– segundo, e o– terceiro, até– os– sete.
+-- c22-v27: Por–último porém de–todos, morreu a– mulher.
+-- c22-v28: Na– a– ressurreição, pois, de–qual dos– sete será mulher? Todos pois tiveram –a.
+-- c22-v29: Respondendo porém, o– Jesus disse –lhes, Errais, não conhecendo as– escrituras, nem o– poder de– Deus.
+-- c22-v30: Na– pois a– ressurreição, nem casam, nem são–dados–em–casamento, mas como anjos de–Deus no– o– céu são.
+-- c22-v31: Acerca– porém da– ressurreição dos– mortos, não lestes o– dito –vos por– o– Deus, dizendo,
+-- c22-v32: Eu sou o– Deus de–Abraão e o– Deus de–Isaque e o– Deus de–Jacó? Não é o– Deus de–mortos, mas de–vivos.
+-- c22-v33: E ouvindo, as– multidões admiravam-se com– o– ensino dele.
+-- c22-v34: Os– Porém fariseus, ouvindo que calou os– saduceus, reuniram-se no– o– mesmo,
+-- c22-v35: e perguntou um dentre– eles, intérprete–da–lei, tentando –o,
+-- c22-v36: Mestre, qual é–o–mandamento grande na– a– lei?
+-- c22-v37: o– Porém disse –lhe, Amarás ao–Senhor o– Deus teu de– todo– o– coração teu, e de– toda– a– alma tua, e de– todo– o– entendimento teu.
+-- c22-v38: Este é o– grande e primeiro mandamento.
+-- c22-v39: Segundo porém semelhante a–ele: Amarás o– próximo teu como a–ti–mesmo.
+-- c22-v40: Nestes– estes os– dois mandamentos, toda– a– lei depende, e os– profetas.
+-- c22-v41: Reunidos porém os– fariseus, perguntou –lhes o– Jesus,
+-- c22-v42: dizendo, Que –vos parece acerca– do– Cristo? De–quem filho é? Dizem –lhe, De– Davi.
+-- c22-v43: Diz –lhes, Como então, Davi em– Espírito chama –o Senhor, dizendo,
+-- c22-v44: Disse o–Senhor ao– Senhor meu, Senta-te à– direita minha, até– que ponha os– inimigos teus debaixo dos– pés teus.
+-- c22-v45: Se pois, Davi chama –o Senhor, como filho dele é?
+-- c22-v46: E ninguém podia responder –lhe palavra, nem ousou alguém desde– aquele o– dia perguntar –lhe mais.
+-- c25-v1: Então será–comparado o reino dos céus dez virgens as–quais tendo–tomado as lâmpadas delas saíram para encontro do noivo
+-- c25-v2: cinco porém dentre elas eram tolas e cinco prudentes
+-- c25-v3: as pois tolas tendo–tomado as lâmpadas delas não tomaram consigo delas–mesmas azeite
+-- c25-v4: as porém prudentes tomaram azeite nos vasos vasos junto–com as lâmpadas delas
+-- c25-v5: demorando porém o noivo cochilaram todas e dormiam
+-- c25-v6: meia porém noite clamor houve Eis o noivo saí para encontro dele
+-- c25-v7: então levantaram–se todas as virgens aquelas e prepararam as lâmpadas delas
+-- c25-v8: as porém tolas às prudentes disseram Dai nos do do azeite vosso porque as lâmpadas nossas apagam–se
+-- c25-v9: responderam porém as prudentes dizendo Para–que–não não não baste nos e vos ide antes aos que vendem e comprai para–vós–mesmas
+-- c25-v10: indo porém elas comprar veio o noivo e as preparadas entraram com ele para as bodas e foi–fechada a porta
+-- c25-v11: depois porém vêm também as restantes virgens dizendo Senhor senhor abre nos
+-- c25-v12: ele porém respondendo disse Em–verdade digo vos não conheço vos
+-- c25-v13: Vigiai portanto porque não sabeis o dia nem a hora em que o Filho do homem vem
+-- c25-v14: Pois–assim–como pois homem partindo–em–viagem chamou os próprios servos e entregou lhes os bens dele
+-- c25-v15: e a–um de–um–lado deu cinco talentos a–outro porém dois a–outro porém um a–cada–um segundo a própria capacidade e partiu imediatamente
+-- c25-v16: tendo–ido o os cinco talentos tendo–recebido negociou com eles e ganhou outros cinco
+-- c25-v17: igualmente o os dois ganhou outros dois
+-- c25-v18: o porém o um tendo–recebido tendo–partido cavou terra e escondeu a prata do senhor dele
+-- c25-v19: depois–de porém muito tempo vem o senhor dos servos aqueles e acerta contas com eles
+-- c25-v20: e tendo–se–aproximado o os cinco talentos tendo–recebido trouxe outros cinco talentos dizendo Senhor cinco talentos me entregaste vê outros cinco talentos ganhei
+-- c25-v21: disse lhe o senhor dele Bem servo bom e fiel sobre pouco foste fiel sobre muito te colocarei entra na a alegria do senhor teu
+-- c25-v22: tendo–se–aproximado porém também o os dois talentos disse Senhor dois talentos me entregaste vê outros dois talentos ganhei
+-- c25-v23: disse lhe o senhor dele Bem servo bom e fiel sobre pouco foste fiel sobre muito te colocarei entra na a alegria do senhor teu
+-- c25-v24: tendo–se–aproximado porém também o o um talento tendo–recebido disse Senhor conheci te que duro és homem ceifando onde não semeaste e ajuntando donde não espalhaste
+-- c25-v25: e tendo–temido tendo–partido escondi o talento teu na a terra vê tens o teu
+-- c25-v26: respondendo porém o senhor dele disse lhe Mau servo e preguiçoso sabias que ceifo onde não semeei e ajunto donde não espalhei
+-- c25-v27: convinha te portanto depositar as pratas minhas aos banqueiros e tendo–vindo eu receberia certamente o meu com juros
+-- c25-v28: tirai portanto dele dele o talento e dai ao que–tem os dez talentos
+-- c25-v29: ao pois que–tem todo será–dado e terá–em–abundância do porém não tem também o–que tem será–tirado dele dele
+-- c25-v30: e o inútil servo lançai nas as trevas as exteriores ali haverá o choro e o ranger dos dentes
+-- c25-v31: Quando porém vier o Filho do homem na a glória dele e todos os anjos com ele então sentar–se–á sobre trono glória dele
+-- c25-v32: e serão–reunidas diante dele todas as nações e separará eles uns dos–outros assim–como o pastor separa as ovelhas dos dos cabritos
+-- c25-v33: e colocará as de–um–lado ovelhas à direita dele as porém cabritos à esquerda
+-- c25-v34: então dirá o Rei aos da direita dele Vinde os benditos do Pai meu herdai o preparado vos reino desde fundação mundo
+-- c25-v35: tive–fome pois e destes me comer tive–sede e destes–de–beber me estrangeiro era e acolhestes me
+-- c25-v36: nu e vestistes me adoeci e visitastes me em prisão estava e viestes a mim
+-- c25-v37: então responderão lhe os justos dizendo Senhor quando te vimos faminto e alimentamos ou sedento e demos–de–beber
+-- c25-v38: quando porém te vimos estrangeiro e acolhemos ou nu e vestimos
+-- c25-v39: quando porém te vimos doente ou em prisão e fomos a ti
+-- c25-v40: e respondendo o Rei dirá lhes Em–verdade digo vos na–medida–em–que quanto fizestes a–um destes dos irmãos meus dos menores a–mim fizestes
+-- c25-v41: então dirá também aos da esquerda Apartai–vos de mim os malditos para o fogo o eterno o preparado para–o diabo e para–os anjos dele
+-- c25-v42: tive–fome pois e não destes me comer e tive–sede e não destes–de–beber me
+-- c25-v43: estrangeiro era e não acolhestes me nu e não vestistes me doente e em prisão e não visitastes me
+-- c25-v44: então responderão também eles dizendo Senhor quando te vimos faminto ou sedento ou estrangeiro ou nu ou doente ou em prisão e não servimos te
+-- c25-v45: então responderá lhes dizendo Em–verdade digo vos na–medida–em–que quanto não fizestes a–um destes dos menores nem a–mim fizestes
+-- c25-v46: e irão estes para castigo eterno os porém justos para vida eterna
+-- c26-v1: E aconteceu quando terminou o Jesus todas as palavras estas disse aos discípulos dele
+-- c26-v2: Sabeis que depois–de dois dias a Páscoa acontece e o Filho do homem é–entregue para o ser–crucificado
+-- c26-v3: Então reuniram–se os sumos–sacerdotes e os anciãos do povo no o pátio do sumo–sacerdote do chamado Caifás
+-- c26-v4: e deliberaram para–que o Jesus com–engano prendessem e matassem
+-- c26-v5: diziam porém Não na a festa para–que não tumulto haja no o povo
+-- c26-v6: Do porém Jesus tendo–estado em Betânia em casa Simão do leproso
+-- c26-v7: aproximou–se dele mulher tendo alabastro perfúm precioso e derramou sobre a cabeça dele estando–reclinado
+-- c26-v8: tendo–visto porém os discípulos indignaram–se dizendo Para quê o desperdício este
+-- c26-v9: podia pois isto ser–vendido muito e ser–dado pobres
+-- c26-v10: tendo–percebido porém o Jesus disse lhes Por–que problemas causais à mulher obra pois boa realizou para mim
+-- c26-v11: sempre pois os pobres tendes convosco convosco a–mim porém não sempre tendes
+-- c26-v12: tendo–derramado pois esta o perfúm este sobre o corpo meu para o embalsamar me fez
+-- c26-v13: em–verdade digo vos onde–quer–que for pregado o evangelho este em todo o mundo será–dito também o–que fez esta para memória dela
+-- c26-v14: Então tendo–ido um dos doze o chamado Judas Iscariotes aos aos sumos–sacerdotes
+-- c26-v15: disse Que quereis me dar e–eu vos entregarei ele eles porém fixaram lhe trinta moedas–de–prata
+-- c26-v16: e desde então buscava oportunidade para–que ele entregasse
+-- c26-v17: No porém primeiro dos ázimos aproximaram–se os discípulos de Jesus dizendo Onde queres preparemos te comer a Páscoa
+-- c26-v18: ele porém disse Ide à a cidade ao o tal e dizei lhe O Mestre diz O tempo meu perto está em ti faço a Páscoa com os discípulos meus
+-- c26-v19: e fizeram os discípulos como ordenou lhes o Jesus e prepararam a Páscoa
+-- c26-v20: Tarde porém tendo–chegado estava–reclinado com os doze discípulos
+-- c26-v21: e comendo eles disse Em–verdade digo vos que um dentre vós entregará me
+-- c26-v22: e entristecendo–se muito começaram dizer lhe um cada–um Por–acaso eu sou Senhor
+-- c26-v23: ele porém respondendo disse O tendo–mergulhado comigo comigo a mão no o prato este me entregará
+-- c26-v24: o de–um–lado Filho do homem vai assim–como está–escrito acerca dele ai porém do homem aquele por quem o Filho do homem é–entregue bom era lhe se não tivesse–nascido o homem aquele
+-- c26-v25: respondendo porém Judas o que–entrega ele disse Por–acaso eu sou Rabi diz lhe Tu disseste
+-- c26-v26: Comendo porém eles tendo–tomado o Jesus pão e tendo–abençoado partiu e tendo–dado aos discípulos disse Tomai comei isto é o corpo meu
+-- c26-v27: e tendo–tomado cálice e tendo–dado–graças deu lhes dizendo Bebei dele dele todos
+-- c26-v28: isto pois é o sangue meu da aliança o por muitos derramado para remissão pecados
+-- c26-v29: digo porém vos não não beberei desde agora deste deste do fruto da videira até o dia aquele quando ele beba convosco convosco novo no o reino do Pai meu
+-- c26-v30: E tendo–cantado–hino saíram para o monte das Oliveiras
+-- c26-v31: Então diz lhes o Jesus Todos vós sereis–escandalizados em mim nesta a noite esta está–escrito pois Ferirei o pastor e serão–dispersas as ovelhas do rebanho
+-- c26-v32: depois–de porém o ser–ressuscitado eu irei–adiante vos para a Galileia
+-- c26-v33: respondendo porém o Pedro disse lhe Se todos forem–escandalizados em ti eu nunca serei–escandalizado
+-- c26-v34: disse lhe o Jesus Em–verdade digo te que nesta esta a noite antes galo cantar três–vezes negarás me
+-- c26-v35: diz lhe o Pedro Mesmo–se for–necessário me contigo contigo morrer não não te negarei igualmente também todos os discípulos disseram
+-- c26-v36: Então vem com eles o Jesus a lugar chamado Getsêmani e diz aos discípulos Sentai–vos aqui até que tendo–ido ali ore
+-- c26-v37: e tendo–levado–consigo o Pedro e os dois filhos Zebedeu começou entristecer–se e angustiar–se
+-- c26-v38: então diz lhes Muito–triste está a alma minha até morte permanecei aqui e vigiai comigo comigo
+-- c26-v39: e tendo–avançado pouco caiu sobre rosto dele orando e dizendo Pai meu se possível é passe de mim o cálice este porém não como eu quero mas como tu
+-- c26-v40: e vem aos aos discípulos e encontra eles dormindo e diz a Pedro Assim não pudestes uma hora vigiar comigo comigo
+-- c26-v41: vigiai e orai para–que não entreis em tentação o de–um–lado espírito pronto a porém carne fraca
+-- c26-v42: novamente pela segunda–vez tendo–ido orou dizendo Pai meu se não é–possível isto passar se não ele beba seja–feita a vontade tua
+-- c26-v43: e tendo–vindo novamente encontrou eles dormindo estavam pois deles os olhos pesados
+-- c26-v44: e tendo–deixado eles novamente tendo–ido orou pela terceira–vez a mesma palavra tendo–dito novamente
+-- c26-v45: então vem aos aos discípulos e diz lhes Dormi o restante e descansai eis aproximou–se a hora e o Filho do homem é–entregue nas mãos pecadores
+-- c26-v46: levantai–vos vamos eis aproximou–se o que–entrega me
+-- c26-v47: E ainda ele falando eis Judas um dos doze veio e com ele multidão grande com espadas e paus da–parte dos sumos–sacerdotes e anciãos do povo
+-- c26-v48: o porém que–entregava ele deu lhes sinal dizendo Aquele–que eu beijar ele é prendei o
+-- c26-v49: e imediatamente tendo–se–aproximado de Jesus disse Salve Rabi e beijou o
+-- c26-v50: o porém Jesus disse lhe Amigo para o–que estás–aqui então tendo–se–aproximado lançaram as mãos sobre o Jesus e prenderam o
+-- c26-v51: e eis um dos com Jesus tendo–estendido a mão desembainhou a espada dele e tendo–ferido o servo do sumo–sacerdote cortou dele a orelha
+-- c26-v52: então diz lhe o Jesus Guarda a espada tua no o lugar dela todos pois os que–tomam espada pela espada perecerão
+-- c26-v53: ou pensas que não posso rogar ao Pai meu e enviará me agora mais–de doze legiões anjos
+-- c26-v54: como então cumprir–se–ão as Escrituras que assim é–necessário acontecer
+-- c26-v55: Naquela aquela a hora disse o Jesus às multidões Como contra ladrão saístes com espadas e paus prender me cada dia no o templo sentava–me ensinando e não prendestes me
+-- c26-v56: Isto porém tudo aconteceu para–que cumprissem–se as Escrituras dos profetas Então os discípulos todos tendo–deixado o fugiram
+-- c26-v57: Os porém tendo–prendido o Jesus levaram a Caifás o sumo–sacerdote onde os escribas e os anciãos reuniram–se
+-- c26-v58: o porém Pedro seguia o de longe até o pátio do sumo–sacerdote e tendo–entrado dentro sentou–se com os guardas ver o fim
+-- c26-v59: Os porém sumos–sacerdotes e o sinédrio todo buscavam falso–testemunho contra o Jesus para–que o matassem
+-- c26-v60: e não encontraram muitas tendo–vindo falsas–testemunhas por–fim porém tendo–vindo dois
+-- c26-v61: disseram Este disse Posso destruir o templo de Deus e em três dias reedificar
+-- c26-v62: e tendo–se–levantado o sumo–sacerdote disse lhe Nada respondes que estes de–ti testificam
+-- c26-v63: o porém Jesus calava–se e o sumo–sacerdote disse lhe Conjuro–te te pelo o Deus o vivente que nos digas se tu és o Cristo o Filho de Deus
+-- c26-v64: diz lhe o Jesus Tu disseste porém digo vos desde agora vereis o Filho do homem sentado à direita do Poder e vindo sobre as nuvens do céu
+-- c26-v65: então o sumo–sacerdote rasgou as vestes dele dizendo Blasfemou que ainda necessidade temos testemunhas vê agora ouvistes a blasfêmia
+-- c26-v66: que vos parece eles porém respondendo disseram Réu morte é
+-- c26-v67: Então cuspiram no o rosto dele e esmurraram o outros porém esbofetearam
+-- c26-v68: dizendo Profetiza nos Cristo quem é o que–bateu te
+-- c26-v69: O porém Pedro estava–sentado fora no o pátio e aproximou–se dele uma criada dizendo Também tu estavas com Jesus o Galileu
+-- c26-v70: ele porém negou diante todos dizendo Não sei o–que dizes
+-- c26-v71: tendo–saído porém para o pórtico viu o outra e diz aos ali Este estava com Jesus o Nazareno
+-- c26-v72: e novamente negou com juramento que Não conheço o homem
+-- c26-v73: depois–de pouco porém tendo–se–aproximado os que–estavam disseram a Pedro Verdadeiramente também tu dentre eles és também pois a fala tua evidente te faz
+-- c26-v74: então começou amaldiçoar–se e jurar que Não conheço o homem e imediatamente galo cantou
+-- c26-v75: e lembrou–se o Pedro da palavra Jesus tendo–dito que Antes galo cantar três–vezes negarás me e tendo–saído fora chorou amargamente
+-- c27-v1: Manhã porém tendo–chegado conselho tomaram todos os sumos–sacerdotes e os anciãos do povo contra o Jesus de–modo–a matá–lo ele
+-- c27-v2: e tendo–amarrado ele levaram e entregaram Pilatos ao governador
+-- c27-v3: Então tendo–visto Judas o que–entregava ele que foi–condenado tendo–se–arrependido devolveu as trinta moedas–de–prata aos sumos–sacerdotes e anciãos
+-- c27-v4: dizendo Pequei tendo–entregado sangue inocente eles porém disseram Que para nós tu verás
+-- c27-v5: e tendo–lançado as moedas–de–prata no o templo retirou–se e tendo–ido enforcou–se
+-- c27-v6: os porém sumos–sacerdotes tendo–tomado as moedas–de–prata disseram Não é–lícito lançar elas no o tesouro pois preço sangue é
+-- c27-v7: conselho porém tendo–tomado compraram com elas o campo do oleiro para sepultura aos estrangeiros
+-- c27-v8: por–isso foi–chamado o campo aquele Campo Sangue até o hoje
+-- c27-v9: então cumpriu–se o dito por Jeremias o profeta dizendo E tomaram as trinta moedas–de–prata o preço do avaliado que avaliaram dos filhos Israel
+-- c27-v10: e deram elas para o campo do oleiro conforme ordenou me Senhor
+-- c27-v11: O porém Jesus foi–posto diante do governador e perguntou lhe o governador dizendo Tu és o Rei dos Judeus o porém Jesus disse Tu dizes
+-- c27-v12: e no o ser–acusado ele pelos pelos sumos–sacerdotes e anciãos nada respondeu
+-- c27-v13: então diz lhe o Pilatos Não ouves quantas–coisas de–ti testificam
+-- c27-v14: e não respondeu lhe a nem uma palavra de–modo–que admirar–se o governador muito
+-- c27-v15: Por porém festa costumava o governador soltar um à multidão prisioneiro que queriam
+-- c27-v16: tinham porém então prisioneiro notório chamado Jesus Barrabás
+-- c27-v17: reunidos portanto eles disse lhes o Pilatos Quem quereis solte vos Jesus o Barrabás ou Jesus o chamado Cristo
+-- c27-v18: sabia pois que por inveja entregaram ele
+-- c27-v19: Sentado porém ele sobre o tribunal enviou a ele a mulher dele dizendo Nada a–ti e a–esse justo esse muito pois sofri hoje por sonho por–causa dele
+-- c27-v20: Os porém sumos–sacerdotes e os anciãos persuadiram as multidões para–que pedissem o Barrabás o porém Jesus destruíssem
+-- c27-v21: respondendo porém o governador disse lhes Qual quereis dos dos dois solte vos eles porém disseram O Barrabás
+-- c27-v22: diz lhes o Pilatos Que então farei Jesus o chamado Cristo dizem todos Seja–crucificado
+-- c27-v23: ele porém disse Que pois mal fez eles porém excessivamente gritavam dizendo Seja–crucificado
+-- c27-v24: tendo–visto porém o Pilatos que nada adianta mas antes tumulto acontece tendo–tomado água lavou as mãos diante da multidão dizendo Inocente sou do do sangue deste vós vereis
+-- c27-v25: e respondendo todo o povo disse O sangue dele sobre nós e sobre os filhos nossos
+-- c27-v26: então soltou lhes o Barrabás o porém Jesus tendo–açoitado entregou para–que fosse–crucificado
+-- c27-v27: Então os soldados do governador tendo–levado o Jesus ao o pretório reuniram contra ele toda a coorte
+-- c27-v28: e tendo–despido ele manto escarlate colocaram lhe
+-- c27-v29: e tendo–trançado coroa de espinhos puseram sobre a cabeça dele e cana na a direita dele e tendo–se–ajoelhado diante dele zombavam dele dizendo Salve Rei dos Judeus
+-- c27-v30: e tendo–cuspido nele nele tomaram a cana e batiam na a cabeça dele
+-- c27-v31: e quando zombaram dele despiram dele o manto e vestiram dele as vestes dele e levaram o para o crucificar
+-- c27-v32: Saindo porém encontraram homem Cireneu de–nome Simão a–este requisitaram para–que carregasse a cruz dele
+-- c27-v33: E tendo–vindo ao lugar chamado Gólgota que é Cavêra lugar chamado
+-- c27-v34: deram lhe beber vinho com fel misturado e tendo–provado não quis beber
+-- c27-v35: tendo–crucificado porém ele dividiram as vestes dele lançando sorte para–que cumprisse o dito pelo o profeta Dividiram as vestes minhas entre–si e sobre a roupa minha lançaram sorte
+-- c27-v36: e sentados guardavam ele ali
+-- c27-v37: e puseram acima da cabeça dele a acusação dele escrita ESTE É JESUS O REI DOS JUDEUS
+-- c27-v38: Então são–crucificados com ele dois ladrões um à direita e um à esquerda
+-- c27-v39: Os porém que–passavam blasfemavam dele meneando as cabeças deles
+-- c27-v40: e dizendo O–que destrói o templo e em três dias edifica salva a–ti–mesmo se Filho és de Deus e desce da da cruz
+-- c27-v41: igualmente também os sumos–sacerdotes zombando com os escribas e anciãos diziam
+-- c27-v42: Outros salvou a–si–mesmo não pode salvar Rei Israel é desça agora da da cruz e creremos nele nele
+-- c27-v43: confiou em o Deus livre agora se quer ele disse pois que Deus sou Filho
+-- c27-v44: o porém mesmo também os ladrões os co–crucificados com ele insultavam o
+-- c27-v45: Desde porém sexta hora trevas houve sobre toda a terra até hora nona
+-- c27-v46: por–volta porém a nona hora clamou o Jesus voz grande dizendo Eli Eli lema sabactani isto é Deus meu Deus meu por que me abandonaste
+-- c27-v47: alguns porém dos ali que–estavam tendo–ouvido diziam que Elias chama este
+-- c27-v48: e imediatamente tendo–corrido um dentre eles e tendo–tomado esponja tendo–enchido e vinagre e tendo–posto numa–cana dava–de–beber lhe
+-- c27-v49: os porém demais diziam Deixa vejamos se vem Elias para–salvar o outro porém tendo–tomado lança furou dele o lado e saiu água e sangue
+-- c27-v50: o porém Jesus novamente tendo–clamado voz grande entregou o espírito
+-- c27-v51: E eis o véu do templo rasgou–se de cima até baixo em dois e a terra tremeu e as rochas fenderam–se
+-- c27-v52: e os sepulcros abriram–se e muitos corpos dos que–dormiam santos ressuscitaram
+-- c27-v53: e tendo–saído dos dos sepulcros depois a ressurreição dele entraram na a santa cidade e apareceram a–muitos
+-- c27-v54: O porém centurião e os com ele guardando o Jesus tendo–visto o terremoto e as–coisas acontecidas temeram muito dizendo Verdadeiramente Deus Filho era este
+-- c27-v55: Estavam porém ali mulheres muitas de longe observando as–quais seguiram a Jesus desde a Galileia servindo lhe
+-- c27-v56: entre as–quais estava Maria a Madalena e Maria a de Tiago e José mãe e a mãe dos filhos Zebedeu
+-- c27-v57: Tarde porém tendo–chegado veio homem rico de Arimateia de–nome José o–qual também ele tornou–se–discípulo de Jesus
+-- c27-v58: este tendo–se–aproximado de Pilatos pediu o corpo de Jesus então o Pilatos ordenou ser–dado
+-- c27-v59: e tendo–tomado o corpo o José envolveu o em lençol limpo
+-- c27-v60: e colocou ele no o novo dele sepulcro que escavou na a rocha e tendo–rolado pedra grande à porta do sepulcro partiu
+-- c27-v61: Estava porém ali Maria a Madalena e a outra Maria sentadas defronte do túmulo
+-- c27-v62: No porém dia–seguinte o–qual é depois a Preparação reuniram–se os sumos–sacerdotes e os Fariseus diante–de Pilatos
+-- c27-v63: dizendo Senhor lembramos que aquele o enganador disse ainda vivendo Depois–de três dias ressuscitarei
+-- c27-v64: ordena portanto ser–guardado o túmulo até o terceiro dia para–que–não nunca tendo–vindo os discípulos dele roubem ele e digam ao povo Ressuscitou dos dos mortos e será o último engano pior do–que–o primeiro
+-- c27-v65: disse lhes o Pilatos Tendes guarda ide guardai como sabeis
+-- c27-v66: eles porém tendo–ido guardaram o túmulo tendo–selado a pedra com a guarda
 
 BEGIN;
 -- 4000100101: Βίβλος (G0976) → "Livro" [opus-4.5-chirho]

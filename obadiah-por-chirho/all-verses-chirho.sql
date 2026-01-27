@@ -3,29 +3,29 @@
 -- — John 3:16
 
 -- OBADIAH - POR Combined
--- Generated: 2026-01-27T21:47:48Z
+-- Generated: 2026-01-27T22:21:51Z
 
--- OBADIAH c1-v1 - POR
--- OBADIAH c1-v2 - POR
--- OBADIAH c1-v3 - POR
--- OBADIAH c1-v4 - POR
--- OBADIAH c1-v5 - POR
--- OBADIAH c1-v6 - POR
--- OBADIAH c1-v7 - POR
--- OBADIAH c1-v8 - POR
--- OBADIAH c1-v9 - POR
--- OBADIAH c1-v10 - POR
--- OBADIAH c1-v11 - POR
--- OBADIAH c1-v12 - POR
--- OBADIAH c1-v13 - POR
--- OBADIAH c1-v14 - POR
--- OBADIAH c1-v15 - POR
--- OBADIAH c1-v16 - POR
--- OBADIAH c1-v17 - POR
--- OBADIAH c1-v18 - POR
--- OBADIAH c1-v19 - POR
--- OBADIAH c1-v20 - POR
--- OBADIAH c1-v21 - POR
+-- c1-v1: Visão de–Obadias Assim disse o–Senhor YHWH a–Edom Notícia ouvimos de YHWH e–mensageiro entre–as–nações foi–enviado Levantai–vos e–levantemo–nos contra–ela para–a–batalha
+-- c1-v2: Eis pequeno te–fiz entre–as–nações desprezado tu muito
+-- c1-v3: Soberba do–teu–coração te–enganou habitante nas–fendas–da rocha altura da–sua–habitação dizendo em–seu–coração Quem me–fará–descer à–terra
+-- c1-v4: Se te–elevares como–águia e–se entre as–estrelas puseres teu–ninho de–lá te–farei–descer oráculo–de YHWH
+-- c1-v5: Se ladrões viessem a–ti se saqueadores de–noite como foste–destruído acaso–não roubariam o–suficiente Se vindimadores viessem a–ti acaso–não deixariam respigas
+-- c1-v6: Como foi–revistado Esaú foram–descobertos seus–tesouros
+-- c1-v7: Até–a fronteira te–enviaram Todos os–homens–de tua–aliança te–enganaram prevaleceram contra–ti os–homens–de tua–paz Teu–pão puseram armadilha debaixo–de–ti Não–há entendimento nele
+-- c1-v8: Acaso–não naquele–dia aquele oráculo–de YHWH destruirei os–sábios de–Edom e–entendimento do–monte de–Esaú
+-- c1-v9: E–serão–aterrados teus–guerreiros ó–Temã para–que seja–cortado todo–homem do–monte de–Esaú pela–matança
+-- c1-v10: Por–causa–da–violência contra–teu–irmão Jacó te–cobrirá vergonha e–serás–cortado para–sempre
+-- c1-v11: No–dia em–que–estavas do–lado–oposto no–dia levarem–cativos estrangeiros sua–riqueza e–estranhos entraram nas–suas–portas nos–seus–portões e–sobre Jerusalém lançaram sorte também tu como–um deles
+-- c1-v12: E–não olhes no–dia–de teu–irmão no–dia da–sua–desgraça e–não te–alegres sobre–os–filhos–de Judá no–dia da–sua–destruição e–não abras–grande tua–boca no–dia da–angústia
+-- c1-v13: Não entres no–portão–de meu–povo no–dia da–sua–calamidade Não olhes também tu para–seu–mal no–dia da–sua–calamidade e–não estendas–as–mãos sobre–sua–riqueza no–dia da–sua–calamidade
+-- c1-v14: E–não fiques na encruzilhada para–cortares os seus–fugitivos e–não entregues seus–sobreviventes no–dia da–angústia
+-- c1-v15: Porque está–perto o–dia–de YHWH sobre todas as–nações Como fizeste será–feito a–ti tua–retribuição voltará sobre–tua–cabeça
+-- c1-v16: Porque assim–como bebestes sobre o–monte da–minha–santidade beberão todas as–nações continuamente e–beberão e–engolirão e–serão como–se–não tivessem–sido
+-- c1-v17: E–no–monte Sião haverá livramento e–será santo e–possuirá a–casa–de Jacó as suas–possessões
+-- c1-v18: E–será a–casa–de Jacó fogo e–a–casa–de José chama e–a–casa–de Esaú palha e–incendiarão neles e–os–consumirão e–não haverá sobrevivente para–a–casa–de Esaú porque YHWH falou
+-- c1-v19: E–possuirão o–Neguebe o monte de–Esaú e–a–planície os filisteus e–possuirão o campo–de Efraim e–o campo–de Samaria e–Benjamim a Gileade
+-- c1-v20: E–os–exilados–de este–exército este dos–filhos–de Israel que–estão–entre os–cananeus até Sarepta e–os–exilados–de Jerusalém que–estão em–Sefarade possuirão as cidades–do Neguebe
+-- c1-v21: E–subirão salvadores ao–monte Sião para–julgar o monte de–Esaú e–será de–YHWH o–reino
 
 BEGIN;
 -- 3100100101: חֲז֖וֹן (H2377) → "Visão" [opus-4.5-chirho]

@@ -3,1078 +3,1078 @@
 -- — John 3:16
 
 -- JOB - POR Combined
--- Generated: 2026-01-27T21:47:13Z
+-- Generated: 2026-01-27T22:20:53Z
 
--- JOB c1-v1 - POR
--- JOB c1-v2 - POR
--- JOB c1-v3 - POR
--- JOB c1-v4 - POR
--- JOB c1-v5 - POR
--- JOB c1-v6 - POR
--- JOB c1-v7 - POR
--- JOB c1-v8 - POR
--- JOB c1-v9 - POR
--- JOB c1-v10 - POR
--- JOB c1-v11 - POR
--- JOB c1-v12 - POR
--- JOB c1-v13 - POR
--- JOB c1-v14 - POR
--- JOB c1-v15 - POR
--- JOB c1-v16 - POR
--- JOB c1-v17 - POR
--- JOB c1-v18 - POR
--- JOB c1-v19 - POR
--- JOB c1-v20 - POR
--- JOB c1-v21 - POR
--- JOB c1-v22 - POR
--- JOB c2-v1 - POR
--- JOB c2-v2 - POR
--- JOB c2-v3 - POR
--- JOB c2-v4 - POR
--- JOB c2-v5 - POR
--- JOB c2-v6 - POR
--- JOB c2-v7 - POR
--- JOB c2-v8 - POR
--- JOB c2-v9 - POR
--- JOB c2-v10 - POR
--- JOB c2-v11 - POR
--- JOB c2-v12 - POR
--- JOB c2-v13 - POR
--- JOB c3-v1 - POR
--- JOB c3-v2 - POR
--- JOB c3-v3 - POR
--- JOB c3-v4 - POR
--- JOB c3-v5 - POR
--- JOB c3-v6 - POR
--- JOB c3-v7 - POR
--- JOB c3-v8 - POR
--- JOB c3-v9 - POR
--- JOB c3-v10 - POR
--- JOB c3-v11 - POR
--- JOB c3-v12 - POR
--- JOB c3-v13 - POR
--- JOB c3-v14 - POR
--- JOB c3-v15 - POR
--- JOB c3-v16 - POR
--- JOB c3-v17 - POR
--- JOB c3-v18 - POR
--- JOB c3-v19 - POR
--- JOB c3-v20 - POR
--- JOB c3-v21 - POR
--- JOB c3-v22 - POR
--- JOB c3-v23 - POR
--- JOB c3-v24 - POR
--- JOB c3-v25 - POR
--- JOB c3-v26 - POR
--- JOB c4-v1 - POR
--- JOB c4-v2 - POR
--- JOB c4-v3 - POR
--- JOB c4-v4 - POR
--- JOB c4-v5 - POR
--- JOB c4-v6 - POR
--- JOB c4-v7 - POR
--- JOB c4-v8 - POR
--- JOB c4-v9 - POR
--- JOB c4-v10 - POR
--- JOB c4-v11 - POR
--- JOB c4-v12 - POR
--- JOB c4-v13 - POR
--- JOB c4-v14 - POR
--- JOB c4-v15 - POR
--- JOB c4-v16 - POR
--- JOB c4-v17 - POR
--- JOB c4-v18 - POR
--- JOB c4-v19 - POR
--- JOB c4-v20 - POR
--- JOB c4-v21 - POR
--- JOB c5-v1 - POR
--- JOB c5-v2 - POR
--- JOB c5-v3 - POR
--- JOB c5-v4 - POR
--- JOB c5-v5 - POR
--- JOB c5-v6 - POR
--- JOB c5-v7 - POR
--- JOB c5-v8 - POR
--- JOB c5-v9 - POR
--- JOB c5-v10 - POR
--- JOB c5-v11 - POR
--- JOB c5-v12 - POR
--- JOB c5-v13 - POR
--- JOB c5-v14 - POR
--- JOB c5-v15 - POR
--- JOB c5-v16 - POR
--- JOB c5-v17 - POR
--- JOB c5-v18 - POR
--- JOB c5-v19 - POR
--- JOB c5-v20 - POR
--- JOB c5-v21 - POR
--- JOB c5-v22 - POR
--- JOB c5-v23 - POR
--- JOB c5-v24 - POR
--- JOB c5-v25 - POR
--- JOB c5-v26 - POR
--- JOB c5-v27 - POR
--- JOB c6-v1 - POR
--- JOB c6-v2 - POR
--- JOB c6-v3 - POR
--- JOB c6-v4 - POR
--- JOB c6-v5 - POR
--- JOB c6-v6 - POR
--- JOB c6-v7 - POR
--- JOB c6-v8 - POR
--- JOB c6-v9 - POR
--- JOB c6-v10 - POR
--- JOB c6-v11 - POR
--- JOB c6-v12 - POR
--- JOB c6-v13 - POR
--- JOB c6-v14 - POR
--- JOB c6-v15 - POR
--- JOB c6-v16 - POR
--- JOB c6-v17 - POR
--- JOB c6-v18 - POR
--- JOB c6-v19 - POR
--- JOB c6-v20 - POR
--- JOB c6-v21 - POR
--- JOB c6-v22 - POR
--- JOB c6-v23 - POR
--- JOB c6-v24 - POR
--- JOB c6-v25 - POR
--- JOB c6-v26 - POR
--- JOB c6-v27 - POR
--- JOB c6-v28 - POR
--- JOB c6-v29 - POR
--- JOB c6-v30 - POR
--- JOB c7-v1 - POR
--- JOB c7-v2 - POR
--- JOB c7-v3 - POR
--- JOB c7-v4 - POR
--- JOB c7-v5 - POR
--- JOB c7-v6 - POR
--- JOB c7-v7 - POR
--- JOB c7-v8 - POR
--- JOB c7-v9 - POR
--- JOB c7-v10 - POR
--- JOB c7-v11 - POR
--- JOB c7-v12 - POR
--- JOB c7-v13 - POR
--- JOB c7-v14 - POR
--- JOB c7-v15 - POR
--- JOB c7-v16 - POR
--- JOB c7-v17 - POR
--- JOB c7-v18 - POR
--- JOB c7-v19 - POR
--- JOB c7-v20 - POR
--- JOB c7-v21 - POR
--- JOB c8-v1 - POR
--- JOB c8-v2 - POR
--- JOB c8-v3 - POR
--- JOB c8-v4 - POR
--- JOB c8-v5 - POR
--- JOB c8-v6 - POR
--- JOB c8-v7 - POR
--- JOB c8-v8 - POR
--- JOB c8-v9 - POR
--- JOB c8-v10 - POR
--- JOB c8-v11 - POR
--- JOB c8-v12 - POR
--- JOB c8-v13 - POR
--- JOB c8-v14 - POR
--- JOB c8-v15 - POR
--- JOB c8-v16 - POR
--- JOB c8-v17 - POR
--- JOB c8-v18 - POR
--- JOB c8-v19 - POR
--- JOB c8-v20 - POR
--- JOB c8-v21 - POR
--- JOB c8-v22 - POR
--- JOB c9-v1 - POR
--- JOB c9-v2 - POR
--- JOB c9-v3 - POR
--- JOB c9-v4 - POR
--- JOB c9-v5 - POR
--- JOB c9-v6 - POR
--- JOB c9-v7 - POR
--- JOB c9-v8 - POR
--- JOB c9-v9 - POR
--- JOB c9-v10 - POR
--- JOB c9-v11 - POR
--- JOB c9-v12 - POR
--- JOB c9-v13 - POR
--- JOB c9-v14 - POR
--- JOB c9-v15 - POR
--- JOB c9-v16 - POR
--- JOB c9-v17 - POR
--- JOB c9-v18 - POR
--- JOB c9-v19 - POR
--- JOB c9-v20 - POR
--- JOB c9-v21 - POR
--- JOB c9-v22 - POR
--- JOB c9-v23 - POR
--- JOB c9-v24 - POR
--- JOB c9-v25 - POR
--- JOB c9-v26 - POR
--- JOB c9-v27 - POR
--- JOB c9-v28 - POR
--- JOB c9-v29 - POR
--- JOB c9-v30 - POR
--- JOB c9-v31 - POR
--- JOB c9-v32 - POR
--- JOB c9-v33 - POR
--- JOB c9-v34 - POR
--- JOB c9-v35 - POR
--- JOB c10-v1 - POR
--- JOB c10-v2 - POR
--- JOB c10-v3 - POR
--- JOB c10-v4 - POR
--- JOB c10-v5 - POR
--- JOB c10-v6 - POR
--- JOB c10-v7 - POR
--- JOB c10-v8 - POR
--- JOB c10-v9 - POR
--- JOB c10-v10 - POR
--- JOB c10-v11 - POR
--- JOB c10-v12 - POR
--- JOB c10-v13 - POR
--- JOB c10-v14 - POR
--- JOB c10-v15 - POR
--- JOB c10-v16 - POR
--- JOB c10-v17 - POR
--- JOB c10-v18 - POR
--- JOB c10-v19 - POR
--- JOB c10-v20 - POR
--- JOB c10-v21 - POR
--- JOB c10-v22 - POR
--- JOB c11-v1 - POR
--- JOB c11-v2 - POR
--- JOB c11-v3 - POR
--- JOB c11-v4 - POR
--- JOB c11-v5 - POR
--- JOB c11-v6 - POR
--- JOB c11-v7 - POR
--- JOB c11-v8 - POR
--- JOB c11-v9 - POR
--- JOB c11-v10 - POR
--- JOB c11-v11 - POR
--- JOB c11-v12 - POR
--- JOB c11-v13 - POR
--- JOB c11-v14 - POR
--- JOB c11-v15 - POR
--- JOB c11-v16 - POR
--- JOB c11-v17 - POR
--- JOB c11-v18 - POR
--- JOB c11-v19 - POR
--- JOB c11-v20 - POR
--- JOB c12-v1 - POR
--- JOB c12-v2 - POR
--- JOB c12-v3 - POR
--- JOB c12-v4 - POR
--- JOB c12-v5 - POR
--- JOB c12-v6 - POR
--- JOB c12-v7 - POR
--- JOB c12-v8 - POR
--- JOB c12-v9 - POR
--- JOB c12-v10 - POR
--- JOB c12-v11 - POR
--- JOB c12-v12 - POR
--- JOB c12-v13 - POR
--- JOB c12-v14 - POR
--- JOB c12-v15 - POR
--- JOB c12-v16 - POR
--- JOB c12-v17 - POR
--- JOB c12-v18 - POR
--- JOB c12-v19 - POR
--- JOB c12-v20 - POR
--- JOB c12-v21 - POR
--- JOB c12-v22 - POR
--- JOB c12-v23 - POR
--- JOB c12-v24 - POR
--- JOB c12-v25 - POR
--- JOB c13-v1 - POR
--- JOB c13-v2 - POR
--- JOB c13-v3 - POR
--- JOB c13-v4 - POR
--- JOB c13-v5 - POR
--- JOB c13-v6 - POR
--- JOB c13-v7 - POR
--- JOB c13-v8 - POR
--- JOB c13-v9 - POR
--- JOB c13-v10 - POR
--- JOB c13-v11 - POR
--- JOB c13-v12 - POR
--- JOB c13-v13 - POR
--- JOB c13-v14 - POR
--- JOB c13-v15 - POR
--- JOB c13-v16 - POR
--- JOB c13-v17 - POR
--- JOB c13-v18 - POR
--- JOB c13-v19 - POR
--- JOB c13-v20 - POR
--- JOB c13-v21 - POR
--- JOB c13-v22 - POR
--- JOB c13-v23 - POR
--- JOB c13-v24 - POR
--- JOB c13-v25 - POR
--- JOB c13-v26 - POR
--- JOB c13-v27 - POR
--- JOB c13-v28 - POR
--- JOB c14-v1 - POR
--- JOB c14-v2 - POR
--- JOB c14-v3 - POR
--- JOB c14-v4 - POR
--- JOB c14-v5 - POR
--- JOB c14-v6 - POR
--- JOB c14-v7 - POR
--- JOB c14-v8 - POR
--- JOB c14-v9 - POR
--- JOB c14-v10 - POR
--- JOB c14-v11 - POR
--- JOB c14-v12 - POR
--- JOB c14-v13 - POR
--- JOB c14-v14 - POR
--- JOB c14-v15 - POR
--- JOB c14-v16 - POR
--- JOB c14-v17 - POR
--- JOB c14-v18 - POR
--- JOB c14-v19 - POR
--- JOB c14-v20 - POR
--- JOB c14-v21 - POR
--- JOB c14-v22 - POR
--- JOB c15-v1 - POR
--- JOB c15-v2 - POR
--- JOB c15-v3 - POR
--- JOB c15-v4 - POR
--- JOB c15-v5 - POR
--- JOB c15-v6 - POR
--- JOB c15-v7 - POR
--- JOB c15-v8 - POR
--- JOB c15-v9 - POR
--- JOB c15-v10 - POR
--- JOB c15-v11 - POR
--- JOB c15-v12 - POR
--- JOB c15-v13 - POR
--- JOB c15-v14 - POR
--- JOB c15-v15 - POR
--- JOB c15-v16 - POR
--- JOB c15-v17 - POR
--- JOB c15-v18 - POR
--- JOB c15-v19 - POR
--- JOB c15-v20 - POR
--- JOB c15-v21 - POR
--- JOB c15-v22 - POR
--- JOB c15-v23 - POR
--- JOB c15-v24 - POR
--- JOB c15-v25 - POR
--- JOB c15-v26 - POR
--- JOB c15-v27 - POR
--- JOB c15-v28 - POR
--- JOB c15-v29 - POR
--- JOB c15-v30 - POR
--- JOB c15-v31 - POR
--- JOB c15-v32 - POR
--- JOB c15-v33 - POR
--- JOB c15-v34 - POR
--- JOB c15-v35 - POR
--- JOB c16-v1 - POR
--- JOB c16-v2 - POR
--- JOB c16-v3 - POR
--- JOB c16-v4 - POR
--- JOB c16-v5 - POR
--- JOB c16-v6 - POR
--- JOB c16-v7 - POR
--- JOB c16-v8 - POR
--- JOB c16-v9 - POR
--- JOB c16-v10 - POR
--- JOB c16-v11 - POR
--- JOB c16-v12 - POR
--- JOB c16-v13 - POR
--- JOB c16-v14 - POR
--- JOB c16-v15 - POR
--- JOB c16-v16 - POR
--- JOB c16-v17 - POR
--- JOB c16-v18 - POR
--- JOB c16-v19 - POR
--- JOB c16-v20 - POR
--- JOB c16-v21 - POR
--- JOB c16-v22 - POR
--- JOB c17-v1 - POR
--- JOB c17-v2 - POR
--- JOB c17-v3 - POR
--- JOB c17-v4 - POR
--- JOB c17-v5 - POR
--- JOB c17-v6 - POR
--- JOB c17-v7 - POR
--- JOB c17-v8 - POR
--- JOB c17-v9 - POR
--- JOB c17-v10 - POR
--- JOB c17-v11 - POR
--- JOB c17-v12 - POR
--- JOB c17-v13 - POR
--- JOB c17-v14 - POR
--- JOB c17-v15 - POR
--- JOB c17-v16 - POR
--- JOB c18-v1 - POR
--- JOB c18-v2 - POR
--- JOB c18-v3 - POR
--- JOB c18-v4 - POR
--- JOB c18-v5 - POR
--- JOB c18-v6 - POR
--- JOB c18-v7 - POR
--- JOB c18-v8 - POR
--- JOB c18-v9 - POR
--- JOB c18-v10 - POR
--- JOB c18-v11 - POR
--- JOB c18-v12 - POR
--- JOB c18-v13 - POR
--- JOB c18-v14 - POR
--- JOB c18-v15 - POR
--- JOB c18-v16 - POR
--- JOB c18-v17 - POR
--- JOB c18-v18 - POR
--- JOB c18-v19 - POR
--- JOB c18-v20 - POR
--- JOB c18-v21 - POR
--- JOB c19-v1 - POR
--- JOB c19-v2 - POR
--- JOB c19-v3 - POR
--- JOB c19-v4 - POR
--- JOB c19-v5 - POR
--- JOB c19-v6 - POR
--- JOB c19-v7 - POR
--- JOB c19-v8 - POR
--- JOB c19-v9 - POR
--- JOB c19-v10 - POR
--- JOB c19-v11 - POR
--- JOB c19-v12 - POR
--- JOB c19-v13 - POR
--- JOB c19-v14 - POR
--- JOB c19-v15 - POR
--- JOB c19-v16 - POR
--- JOB c19-v17 - POR
--- JOB c19-v18 - POR
--- JOB c19-v19 - POR
--- JOB c19-v20 - POR
--- JOB c19-v21 - POR
--- JOB c19-v22 - POR
--- JOB c19-v23 - POR
--- JOB c19-v24 - POR
--- JOB c19-v25 - POR
--- JOB c19-v26 - POR
--- JOB c19-v27 - POR
--- JOB c19-v28 - POR
--- JOB c19-v29 - POR
--- JOB c20-v1 - POR
--- JOB c20-v2 - POR
--- JOB c20-v3 - POR
--- JOB c20-v4 - POR
--- JOB c20-v5 - POR
--- JOB c20-v6 - POR
--- JOB c20-v7 - POR
--- JOB c20-v8 - POR
--- JOB c20-v9 - POR
--- JOB c20-v10 - POR
--- JOB c20-v11 - POR
--- JOB c20-v12 - POR
--- JOB c20-v13 - POR
--- JOB c20-v14 - POR
--- JOB c20-v15 - POR
--- JOB c20-v16 - POR
--- JOB c20-v17 - POR
--- JOB c20-v18 - POR
--- JOB c20-v19 - POR
--- JOB c20-v20 - POR
--- JOB c20-v21 - POR
--- JOB c20-v22 - POR
--- JOB c20-v23 - POR
--- JOB c20-v24 - POR
--- JOB c20-v25 - POR
--- JOB c20-v26 - POR
--- JOB c20-v27 - POR
--- JOB c20-v28 - POR
--- JOB c20-v29 - POR
--- JOB c21-v1 - POR
--- JOB c21-v2 - POR
--- JOB c21-v3 - POR
--- JOB c21-v4 - POR
--- JOB c21-v5 - POR
--- JOB c21-v6 - POR
--- JOB c21-v7 - POR
--- JOB c21-v8 - POR
--- JOB c21-v9 - POR
--- JOB c21-v10 - POR
--- JOB c21-v11 - POR
--- JOB c21-v12 - POR
--- JOB c21-v13 - POR
--- JOB c21-v14 - POR
--- JOB c21-v15 - POR
--- JOB c21-v16 - POR
--- JOB c21-v17 - POR
--- JOB c21-v18 - POR
--- JOB c21-v19 - POR
--- JOB c21-v20 - POR
--- JOB c21-v21 - POR
--- JOB c21-v22 - POR
--- JOB c21-v23 - POR
--- JOB c21-v24 - POR
--- JOB c21-v25 - POR
--- JOB c21-v26 - POR
--- JOB c21-v27 - POR
--- JOB c21-v28 - POR
--- JOB c21-v29 - POR
--- JOB c21-v30 - POR
--- JOB c21-v31 - POR
--- JOB c21-v32 - POR
--- JOB c21-v33 - POR
--- JOB c21-v34 - POR
--- JOB c22-v1 - POR
--- JOB c22-v2 - POR
--- JOB c22-v3 - POR
--- JOB c22-v4 - POR
--- JOB c22-v5 - POR
--- JOB c22-v6 - POR
--- JOB c22-v7 - POR
--- JOB c22-v8 - POR
--- JOB c22-v9 - POR
--- JOB c22-v10 - POR
--- JOB c22-v11 - POR
--- JOB c22-v12 - POR
--- JOB c22-v13 - POR
--- JOB c22-v14 - POR
--- JOB c22-v15 - POR
--- JOB c22-v16 - POR
--- JOB c22-v17 - POR
--- JOB c22-v18 - POR
--- JOB c22-v19 - POR
--- JOB c22-v20 - POR
--- JOB c22-v21 - POR
--- JOB c22-v22 - POR
--- JOB c22-v23 - POR
--- JOB c22-v24 - POR
--- JOB c22-v25 - POR
--- JOB c22-v26 - POR
--- JOB c22-v27 - POR
--- JOB c22-v28 - POR
--- JOB c22-v29 - POR
--- JOB c22-v30 - POR
--- JOB c23-v1 - POR
--- JOB c23-v2 - POR
--- JOB c23-v3 - POR
--- JOB c23-v4 - POR
--- JOB c23-v5 - POR
--- JOB c23-v6 - POR
--- JOB c23-v7 - POR
--- JOB c23-v8 - POR
--- JOB c23-v9 - POR
--- JOB c23-v10 - POR
--- JOB c23-v11 - POR
--- JOB c23-v12 - POR
--- JOB c23-v13 - POR
--- JOB c23-v14 - POR
--- JOB c23-v15 - POR
--- JOB c23-v16 - POR
--- JOB c23-v17 - POR
--- JOB c24-v1 - POR
--- JOB c24-v2 - POR
--- JOB c24-v3 - POR
--- JOB c24-v4 - POR
--- JOB c24-v5 - POR
--- JOB c24-v6 - POR
--- JOB c24-v7 - POR
--- JOB c24-v8 - POR
--- JOB c24-v9 - POR
--- JOB c24-v10 - POR
--- JOB c24-v11 - POR
--- JOB c24-v12 - POR
--- JOB c24-v13 - POR
--- JOB c24-v14 - POR
--- JOB c24-v15 - POR
--- JOB c24-v16 - POR
--- JOB c24-v17 - POR
--- JOB c24-v18 - POR
--- JOB c24-v19 - POR
--- JOB c24-v20 - POR
--- JOB c24-v21 - POR
--- JOB c24-v22 - POR
--- JOB c24-v23 - POR
--- JOB c24-v24 - POR
--- JOB c24-v25 - POR
--- JOB c25-v1 - POR
--- JOB c25-v2 - POR
--- JOB c25-v3 - POR
--- JOB c25-v4 - POR
--- JOB c25-v5 - POR
--- JOB c25-v6 - POR
--- JOB c26-v1 - POR
--- JOB c26-v2 - POR
--- JOB c26-v3 - POR
--- JOB c26-v4 - POR
--- JOB c26-v5 - POR
--- JOB c26-v6 - POR
--- JOB c26-v7 - POR
--- JOB c26-v8 - POR
--- JOB c26-v9 - POR
--- JOB c26-v10 - POR
--- JOB c26-v11 - POR
--- JOB c26-v12 - POR
--- JOB c26-v13 - POR
--- JOB c26-v14 - POR
--- JOB c27-v1 - POR
--- JOB c27-v2 - POR
--- JOB c27-v3 - POR
--- JOB c27-v4 - POR
--- JOB c27-v5 - POR
--- JOB c27-v6 - POR
--- JOB c27-v7 - POR
--- JOB c27-v8 - POR
--- JOB c27-v9 - POR
--- JOB c27-v10 - POR
--- JOB c27-v11 - POR
--- JOB c27-v12 - POR
--- JOB c27-v13 - POR
--- JOB c27-v14 - POR
--- JOB c27-v15 - POR
--- JOB c27-v16 - POR
--- JOB c27-v17 - POR
--- JOB c27-v18 - POR
--- JOB c27-v19 - POR
--- JOB c27-v20 - POR
--- JOB c27-v21 - POR
--- JOB c27-v22 - POR
--- JOB c27-v23 - POR
--- JOB c28-v1 - POR
--- JOB c28-v2 - POR
--- JOB c28-v3 - POR
--- JOB c28-v4 - POR
--- JOB c28-v5 - POR
--- JOB c28-v6 - POR
--- JOB c28-v7 - POR
--- JOB c28-v8 - POR
--- JOB c28-v9 - POR
--- JOB c28-v10 - POR
--- JOB c28-v11 - POR
--- JOB c28-v12 - POR
--- JOB c28-v13 - POR
--- JOB c28-v14 - POR
--- JOB c28-v15 - POR
--- JOB c28-v16 - POR
--- JOB c28-v17 - POR
--- JOB c28-v18 - POR
--- JOB c28-v19 - POR
--- JOB c28-v20 - POR
--- JOB c28-v21 - POR
--- JOB c28-v22 - POR
--- JOB c28-v23 - POR
--- JOB c28-v24 - POR
--- JOB c28-v25 - POR
--- JOB c28-v26 - POR
--- JOB c28-v27 - POR
--- JOB c28-v28 - POR
--- JOB c29-v1 - POR
--- JOB c29-v2 - POR
--- JOB c29-v3 - POR
--- JOB c29-v4 - POR
--- JOB c29-v5 - POR
--- JOB c29-v6 - POR
--- JOB c29-v7 - POR
--- JOB c29-v8 - POR
--- JOB c29-v9 - POR
--- JOB c29-v10 - POR
--- JOB c29-v11 - POR
--- JOB c29-v12 - POR
--- JOB c29-v13 - POR
--- JOB c29-v14 - POR
--- JOB c29-v15 - POR
--- JOB c29-v16 - POR
--- JOB c29-v17 - POR
--- JOB c29-v18 - POR
--- JOB c29-v19 - POR
--- JOB c29-v20 - POR
--- JOB c29-v21 - POR
--- JOB c29-v22 - POR
--- JOB c29-v23 - POR
--- JOB c29-v24 - POR
--- JOB c29-v25 - POR
--- JOB c30-v1 - POR
--- JOB c30-v2 - POR
--- JOB c30-v3 - POR
--- JOB c30-v4 - POR
--- JOB c30-v5 - POR
--- JOB c30-v6 - POR
--- JOB c30-v7 - POR
--- JOB c30-v8 - POR
--- JOB c30-v9 - POR
--- JOB c30-v10 - POR
--- JOB c30-v11 - POR
--- JOB c30-v12 - POR
--- JOB c30-v13 - POR
--- JOB c30-v14 - POR
--- JOB c30-v15 - POR
--- JOB c30-v16 - POR
--- JOB c30-v17 - POR
--- JOB c30-v18 - POR
--- JOB c30-v19 - POR
--- JOB c30-v20 - POR
--- JOB c30-v21 - POR
--- JOB c30-v22 - POR
--- JOB c30-v23 - POR
--- JOB c30-v24 - POR
--- JOB c30-v25 - POR
--- JOB c30-v26 - POR
--- JOB c30-v27 - POR
--- JOB c30-v28 - POR
--- JOB c30-v29 - POR
--- JOB c30-v30 - POR
--- JOB c30-v31 - POR
--- JOB c31-v1 - POR
--- JOB c31-v2 - POR
--- JOB c31-v3 - POR
--- JOB c31-v4 - POR
--- JOB c31-v5 - POR
--- JOB c31-v6 - POR
--- JOB c31-v7 - POR
--- JOB c31-v8 - POR
--- JOB c31-v9 - POR
--- JOB c31-v10 - POR
--- JOB c31-v11 - POR
--- JOB c31-v12 - POR
--- JOB c31-v13 - POR
--- JOB c31-v14 - POR
--- JOB c31-v15 - POR
--- JOB c31-v16 - POR
--- JOB c31-v17 - POR
--- JOB c31-v18 - POR
--- JOB c31-v19 - POR
--- JOB c31-v20 - POR
--- JOB c31-v21 - POR
--- JOB c31-v22 - POR
--- JOB c31-v23 - POR
--- JOB c31-v24 - POR
--- JOB c31-v25 - POR
--- JOB c31-v26 - POR
--- JOB c31-v27 - POR
--- JOB c31-v28 - POR
--- JOB c31-v29 - POR
--- JOB c31-v30 - POR
--- JOB c31-v31 - POR
--- JOB c31-v32 - POR
--- JOB c31-v33 - POR
--- JOB c31-v34 - POR
--- JOB c31-v35 - POR
--- JOB c31-v36 - POR
--- JOB c31-v37 - POR
--- JOB c31-v38 - POR
--- JOB c31-v39 - POR
--- JOB c31-v40 - POR
--- JOB c32-v1 - POR
--- JOB c32-v2 - POR
--- JOB c32-v3 - POR
--- JOB c32-v4 - POR
--- JOB c32-v5 - POR
--- JOB c32-v6 - POR
--- JOB c32-v7 - POR
--- JOB c32-v8 - POR
--- JOB c32-v9 - POR
--- JOB c32-v10 - POR
--- JOB c32-v11 - POR
--- JOB c32-v12 - POR
--- JOB c32-v13 - POR
--- JOB c32-v14 - POR
--- JOB c32-v15 - POR
--- JOB c32-v16 - POR
--- JOB c32-v17 - POR
--- JOB c32-v18 - POR
--- JOB c32-v19 - POR
--- JOB c32-v20 - POR
--- JOB c32-v21 - POR
--- JOB c32-v22 - POR
--- JOB c33-v1 - POR
--- JOB c33-v2 - POR
--- JOB c33-v3 - POR
--- JOB c33-v4 - POR
--- JOB c33-v5 - POR
--- JOB c33-v6 - POR
--- JOB c33-v7 - POR
--- JOB c33-v8 - POR
--- JOB c33-v9 - POR
--- JOB c33-v10 - POR
--- JOB c33-v11 - POR
--- JOB c33-v12 - POR
--- JOB c33-v13 - POR
--- JOB c33-v14 - POR
--- JOB c33-v15 - POR
--- JOB c33-v16 - POR
--- JOB c33-v17 - POR
--- JOB c33-v18 - POR
--- JOB c33-v19 - POR
--- JOB c33-v20 - POR
--- JOB c33-v21 - POR
--- JOB c33-v22 - POR
--- JOB c33-v23 - POR
--- JOB c33-v24 - POR
--- JOB c33-v25 - POR
--- JOB c33-v26 - POR
--- JOB c33-v27 - POR
--- JOB c33-v28 - POR
--- JOB c33-v29 - POR
--- JOB c33-v30 - POR
--- JOB c33-v31 - POR
--- JOB c33-v32 - POR
--- JOB c33-v33 - POR
--- JOB c34-v1 - POR
--- JOB c34-v2 - POR
--- JOB c34-v3 - POR
--- JOB c34-v4 - POR
--- JOB c34-v5 - POR
--- JOB c34-v6 - POR
--- JOB c34-v7 - POR
--- JOB c34-v8 - POR
--- JOB c34-v9 - POR
--- JOB c34-v10 - POR
--- JOB c34-v11 - POR
--- JOB c34-v12 - POR
--- JOB c34-v13 - POR
--- JOB c34-v14 - POR
--- JOB c34-v15 - POR
--- JOB c34-v16 - POR
--- JOB c34-v17 - POR
--- JOB c34-v18 - POR
--- JOB c34-v19 - POR
--- JOB c34-v20 - POR
--- JOB c34-v21 - POR
--- JOB c34-v22 - POR
--- JOB c34-v23 - POR
--- JOB c34-v24 - POR
--- JOB c34-v25 - POR
--- JOB c34-v26 - POR
--- JOB c34-v27 - POR
--- JOB c34-v28 - POR
--- JOB c34-v29 - POR
--- JOB c34-v30 - POR
--- JOB c34-v31 - POR
--- JOB c34-v32 - POR
--- JOB c34-v33 - POR
--- JOB c34-v34 - POR
--- JOB c34-v35 - POR
--- JOB c34-v36 - POR
--- JOB c34-v37 - POR
--- JOB c35-v1 - POR
--- JOB c35-v2 - POR
--- JOB c35-v3 - POR
--- JOB c35-v4 - POR
--- JOB c35-v5 - POR
--- JOB c35-v6 - POR
--- JOB c35-v7 - POR
--- JOB c35-v8 - POR
--- JOB c35-v9 - POR
--- JOB c35-v10 - POR
--- JOB c35-v11 - POR
--- JOB c35-v12 - POR
--- JOB c35-v13 - POR
--- JOB c35-v14 - POR
--- JOB c35-v15 - POR
--- JOB c35-v16 - POR
--- JOB c36-v1 - POR
--- JOB c36-v2 - POR
--- JOB c36-v3 - POR
--- JOB c36-v4 - POR
--- JOB c36-v5 - POR
--- JOB c36-v6 - POR
--- JOB c36-v7 - POR
--- JOB c36-v8 - POR
--- JOB c36-v9 - POR
--- JOB c36-v10 - POR
--- JOB c36-v11 - POR
--- JOB c36-v12 - POR
--- JOB c36-v13 - POR
--- JOB c36-v14 - POR
--- JOB c36-v15 - POR
--- JOB c36-v16 - POR
--- JOB c36-v17 - POR
--- JOB c36-v18 - POR
--- JOB c36-v19 - POR
--- JOB c36-v20 - POR
--- JOB c36-v21 - POR
--- JOB c36-v22 - POR
--- JOB c36-v23 - POR
--- JOB c36-v24 - POR
--- JOB c36-v25 - POR
--- JOB c36-v26 - POR
--- JOB c36-v27 - POR
--- JOB c36-v28 - POR
--- JOB c36-v29 - POR
--- JOB c36-v30 - POR
--- JOB c36-v31 - POR
--- JOB c36-v32 - POR
--- JOB c36-v33 - POR
--- JOB c37-v1 - POR
--- JOB c37-v2 - POR
--- JOB c37-v3 - POR
--- JOB c37-v4 - POR
--- JOB c37-v5 - POR
--- JOB c37-v6 - POR
--- JOB c37-v7 - POR
--- JOB c37-v8 - POR
--- JOB c37-v9 - POR
--- JOB c37-v10 - POR
--- JOB c37-v11 - POR
--- JOB c37-v12 - POR
--- JOB c37-v13 - POR
--- JOB c37-v14 - POR
--- JOB c37-v15 - POR
--- JOB c37-v16 - POR
--- JOB c37-v17 - POR
--- JOB c37-v18 - POR
--- JOB c37-v19 - POR
--- JOB c37-v20 - POR
--- JOB c37-v21 - POR
--- JOB c37-v22 - POR
--- JOB c37-v23 - POR
--- JOB c37-v24 - POR
--- JOB c38-v1 - POR
--- JOB c38-v2 - POR
--- JOB c38-v3 - POR
--- JOB c38-v4 - POR
--- JOB c38-v5 - POR
--- JOB c38-v6 - POR
--- JOB c38-v7 - POR
--- JOB c38-v8 - POR
--- JOB c38-v9 - POR
--- JOB c38-v10 - POR
--- JOB c38-v11 - POR
--- JOB c38-v12 - POR
--- JOB c38-v13 - POR
--- JOB c38-v14 - POR
--- JOB c38-v15 - POR
--- JOB c38-v16 - POR
--- JOB c38-v17 - POR
--- JOB c38-v18 - POR
--- JOB c38-v19 - POR
--- JOB c38-v20 - POR
--- JOB c38-v21 - POR
--- JOB c38-v22 - POR
--- JOB c38-v23 - POR
--- JOB c38-v24 - POR
--- JOB c38-v25 - POR
--- JOB c38-v26 - POR
--- JOB c38-v27 - POR
--- JOB c38-v28 - POR
--- JOB c38-v29 - POR
--- JOB c38-v30 - POR
--- JOB c38-v31 - POR
--- JOB c38-v32 - POR
--- JOB c38-v33 - POR
--- JOB c38-v34 - POR
--- JOB c38-v35 - POR
--- JOB c38-v36 - POR
--- JOB c38-v37 - POR
--- JOB c38-v38 - POR
--- JOB c38-v39 - POR
--- JOB c38-v40 - POR
--- JOB c38-v41 - POR
--- JOB c39-v1 - POR
--- JOB c39-v2 - POR
--- JOB c39-v3 - POR
--- JOB c39-v4 - POR
--- JOB c39-v5 - POR
--- JOB c39-v6 - POR
--- JOB c39-v7 - POR
--- JOB c39-v8 - POR
--- JOB c39-v9 - POR
--- JOB c39-v10 - POR
--- JOB c39-v11 - POR
--- JOB c39-v12 - POR
--- JOB c39-v13 - POR
--- JOB c39-v14 - POR
--- JOB c39-v15 - POR
--- JOB c39-v16 - POR
--- JOB c39-v17 - POR
--- JOB c39-v18 - POR
--- JOB c39-v19 - POR
--- JOB c39-v20 - POR
--- JOB c39-v21 - POR
--- JOB c39-v22 - POR
--- JOB c39-v23 - POR
--- JOB c39-v24 - POR
--- JOB c39-v25 - POR
--- JOB c39-v26 - POR
--- JOB c39-v27 - POR
--- JOB c39-v28 - POR
--- JOB c39-v29 - POR
--- JOB c39-v30 - POR
--- JOB c40-v1 - POR
--- JOB c40-v2 - POR
--- JOB c40-v3 - POR
--- JOB c40-v4 - POR
--- JOB c40-v5 - POR
--- JOB c40-v6 - POR
--- JOB c40-v7 - POR
--- JOB c40-v8 - POR
--- JOB c40-v9 - POR
--- JOB c40-v10 - POR
--- JOB c40-v11 - POR
--- JOB c40-v12 - POR
--- JOB c40-v13 - POR
--- JOB c40-v14 - POR
--- JOB c40-v15 - POR
--- JOB c40-v16 - POR
--- JOB c40-v17 - POR
--- JOB c40-v18 - POR
--- JOB c40-v19 - POR
--- JOB c40-v20 - POR
--- JOB c40-v21 - POR
--- JOB c40-v22 - POR
--- JOB c40-v23 - POR
--- JOB c40-v24 - POR
--- JOB c41-v1 - POR
--- JOB c41-v2 - POR
--- JOB c41-v3 - POR
--- JOB c41-v4 - POR
--- JOB c41-v5 - POR
--- JOB c41-v6 - POR
--- JOB c41-v7 - POR
--- JOB c41-v8 - POR
--- JOB c41-v9 - POR
--- JOB c41-v10 - POR
--- JOB c41-v11 - POR
--- JOB c41-v12 - POR
--- JOB c41-v13 - POR
--- JOB c41-v14 - POR
--- JOB c41-v15 - POR
--- JOB c41-v16 - POR
--- JOB c41-v17 - POR
--- JOB c41-v18 - POR
--- JOB c41-v19 - POR
--- JOB c41-v20 - POR
--- JOB c41-v21 - POR
--- JOB c41-v22 - POR
--- JOB c41-v23 - POR
--- JOB c41-v24 - POR
--- JOB c41-v25 - POR
--- JOB c41-v26 - POR
--- JOB c41-v27 - POR
--- JOB c41-v28 - POR
--- JOB c41-v29 - POR
--- JOB c41-v30 - POR
--- JOB c41-v31 - POR
--- JOB c41-v32 - POR
--- JOB c41-v33 - POR
--- JOB c41-v34 - POR
--- JOB c42-v1 - POR
--- JOB c42-v2 - POR
--- JOB c42-v3 - POR
--- JOB c42-v4 - POR
--- JOB c42-v5 - POR
--- JOB c42-v6 - POR
--- JOB c42-v7 - POR
--- JOB c42-v8 - POR
--- JOB c42-v9 - POR
--- JOB c42-v10 - POR
--- JOB c42-v11 - POR
--- JOB c42-v12 - POR
--- JOB c42-v13 - POR
--- JOB c42-v14 - POR
--- JOB c42-v15 - POR
--- JOB c42-v16 - POR
--- JOB c42-v17 - POR
+-- c1-v1: homem havia na–terra–de Uts Iyyov nome–dele e–era o–homem esse íntegro e–reto e–temente–a Elohim e–afastando–se de–mal
+-- c1-v2: e–nasceram para–ele sete filhos e–três filhas
+-- c1-v3: e–era gado–dele sete milhares–de ovelhas e–três milhares–de camelos e–cinco centenas–de juntas–de gado e–cinco centenas–de jumentas e–servidão muita muito e–era o–homem esse grande de–todos filhos–de oriente
+-- c1-v4: e–iam filhos–dele e–faziam banquete casa–de homem dia–dele e–enviavam e–chamavam para–três [irmãs–deles] (irmãs–deles) para–comer e–para–beber com–eles
+-- c1-v5: e–era quando completavam dias–de o–banquete e–enviava Iyyov e–santificava–os e–levantava–cedo na–manhã e–fazia–subir holocaustos número–de todos–eles porque disse Iyyov talvez pecaram filhos–meus e–amaldiçoaram Elohim em–coração–deles assim fazia Iyyov todos os–dias ¶
+-- c1-v6: e–era o–dia e–vieram filhos–de o–Elohim para–apresentar–se sobre YHWH e–veio também o–Satan no–meio–deles
+-- c1-v7: e–disse YHWH para o–Satan de–onde vens e–respondeu o–Satan (a) YHWH e–disse de–vagar na–terra e–de–andar nela
+-- c1-v8: e–disse YHWH para o–Satan puseste coração–teu sobre servo–meu Iyyov porque não–há como–ele na–terra homem íntegro e–reto temente–a Elohim e–afastando–se de–mal
+-- c1-v9: e–respondeu o–Satan (a) YHWH e–disse por–nada teme Iyyov Elohim
+-- c1-v10: não [tu] (tu) cercaste por–ele e–por casa–dele e–por tudo que para–ele ao–redor obra–de mãos–dele abençoaste e–gado–dele rompeu na–terra
+-- c1-v11: e–porém estende por–favor mão–tua e–toca em–tudo que para–ele se não sobre face–tua te–amaldiçoará
+-- c1-v12: e–disse YHWH para o–Satan eis tudo que para–ele em–mão–tua somente para–ele não estendas mão–tua e–saiu o–Satan de–com face–de YHWH
+-- c1-v13: e–era o–dia e–filhos–dele e–filhas–dele comendo e–bebendo vinho em–casa–de irmão–deles o–primogênito
+-- c1-v14: e–mensageiro veio para Iyyov e–disse o–gado estava arando e–as–jumentas pastando ao–lado delas
+-- c1-v15: e–caiu Sheva e–tomou–os e–(a) os–jovens feriram ao–fio–de espada e–escapei somente eu sozinho para–contar a–ti
+-- c1-v16: ainda este falando e–este veio e–disse fogo–de Elohim caiu de os–céus e–queimou nas–ovelhas e–nos–jovens e–consumiu–os e–escapei somente eu sozinho para–contar a–ti
+-- c1-v17: ainda este falando e–este veio e–disse Kasdim puseram três cabeças e–atacaram sobre os–camelos e–tomaram–os e–(a) os–jovens feriram ao–fio–de espada e–escapei somente eu sozinho para–contar a–ti
+-- c1-v18: enquanto este falando e–este veio e–disse filhos–teus e–filhas–tuas comendo e–bebendo vinho em–casa–de irmão–deles o–primogênito
+-- c1-v19: e–eis vento grande veio de–além–de o–deserto e–tocou nas–quatro cantos–de a–casa e–caiu sobre os–jovens e–morreram e–escapei somente eu sozinho para–contar a–ti
+-- c1-v20: e–levantou–se Iyyov e–rasgou (a) manto–dele e–tosquiou (a) cabeça–dele e–caiu terra e–prostrou–se
+-- c1-v21: e–disse nu [saí] (saí) de–ventre–de mãe–minha e–nu voltarei para–lá YHWH deu e–YHWH tomou seja nome–de YHWH bendito
+-- c1-v22: em–tudo isso não pecou Iyyov e–não deu insensatez a–Elohim ¶
+-- c2-v1: e–era o–dia e–vieram filhos–de o–Elohim para–apresentar–se sobre YHWH e–veio também o–Satan no–meio–deles para–apresentar–se sobre YHWH
+-- c2-v2: e–disse YHWH para o–Satan de–onde isto vens e–respondeu o–Satan (a) YHWH e–disse de–vagar na–terra e–de–andar nela
+-- c2-v3: e–disse YHWH para o–Satan puseste coração–teu para servo–meu Iyyov porque não–há como–ele na–terra homem íntegro e–reto temente–a Elohim e–afastando–se de–mal e–ainda–ele segurando em–integridade–dele e–incitaste–me contra–ele para–destruí–lo de–graça
+-- c2-v4: e–respondeu o–Satan (a) YHWH e–disse pele por pele e–tudo que para–o–homem dará por vida–dele
+-- c2-v5: porém estende por–favor mão–tua e–toca em osso–dele e–em carne–dele se não em face–tua te–amaldiçoará
+-- c2-v6: e–disse YHWH para o–Satan eis–ele em–mão–tua porém (a) vida–dele guarda
+-- c2-v7: e–saiu o–Satan de–com face–de YHWH e–feriu (a) Iyyov com–úlcera má de–planta–de pé–dele [até] (e–até) coroa–da–cabeça–dele
+-- c2-v8: e–tomou para–ele caco para–raspar–se com–ele e–ele sentado no–meio–de a–cinza
+-- c2-v9: e–disse para–ele mulher–dele ainda–tu segurando em–integridade–tua amaldiçoa Elohim e–morre
+-- c2-v10: e–disse para–ela como–falar–de uma–de as–tolas falas também (a) o–bem receberemos de–com o–Elohim e–(a) o–mal não receberemos em–tudo isso não pecou Iyyov com–lábios–dele ¶
+-- c2-v11: e–ouviram três–de amigos–de Iyyov (a) todo o–mal esse o–vindo sobre–ele e–vieram homem de–lugar–dele Elifaz o–temanita e–Bildad o–suíta e–Tsofar o–naamatita e–reuniram–se juntos para–vir para–condoer–se com–ele e–para–consolá–lo
+-- c2-v12: e–levantaram (a) olhos–deles de–longe e–não reconheceram–o e–levantaram voz–deles e–choraram e–rasgaram homem manto–dele e–jogaram pó sobre cabeças–deles aos–céus
+-- c2-v13: e–sentaram–se com–ele na–terra sete–de dias e–sete–de noites e–não–havia falante para–ele palavra porque viram que era–grande a–dor muito
+-- c3-v1: depois–de assim abriu Iyyov (a) boca–dele e–amaldiçoou (a) dia–dele ¶
+-- c3-v2: e–respondeu Iyyov e–disse
+-- c3-v3: pereça dia nasci nele e–a–noite disse foi–concebido varão
+-- c3-v4: o–dia esse seja escuridão não busque–o Eloah de–cima e–não brilhe sobre–ele luz
+-- c3-v5: resgatem–o escuridão e–sombra–de–morte habite sobre–ele nuvem assustem–o como–amarguras–de dia
+-- c3-v6: a–noite essa tome–a trevas não alegre–se em–dias–de ano em–número–de meses não entre
+-- c3-v7: eis a–noite essa seja estéril não entre canto–de–alegria nela
+-- c3-v8: amaldiçoem–a amaldiçoadores–de dia os–preparados para–despertar Livyatan
+-- c3-v9: escureçam estrelas–de crepúsculo–dela espere por–luz e–não–haja e–não veja pálpebras–de alvorada
+-- c3-v10: porque não fechou portas–de ventre–meu e–escondeu sofrimento de–olhos–meus
+-- c3-v11: por–que não de–ventre morri de–ventre saí e–expirei
+-- c3-v12: por–que anteciparam–me joelhos e–por–que seios que mamasse
+-- c3-v13: porque agora deitaria e–estaria–quieto dormiria então haveria–descanso para–mim
+-- c3-v14: com reis e–conselheiros–de terra os–construtores–de ruínas para–si
+-- c3-v15: ou com príncipes ouro para–eles os–que–enchem casas–deles prata
+-- c3-v16: ou como–aborto escondido não seria como–crianças não viram luz
+-- c3-v17: lá ímpios cessam agitação e–lá descansam cansados–de força
+-- c3-v18: juntos prisioneiros estão–tranquilos não ouvem voz–de opressor
+-- c3-v19: pequeno e–grande lá ele e–servo livre de–senhor–dele
+-- c3-v20: por–que dá para–sofredor luz e–vida para–amargos–de alma
+-- c3-v21: os–que–esperam pela–morte e–não–há e–cavam–a mais–que–tesouros
+-- c3-v22: os–que–se–alegram para júbilo exultam quando encontram sepultura
+-- c3-v23: para–homem que caminho–dele está–escondido e–cercou Eloah por–ele
+-- c3-v24: porque diante–de pão–meu gemido–meu vem e–derramam–se como–as–águas rugidos–meus
+-- c3-v25: porque terror temi e–veio–a–mim e–que temia veio para–mim
+-- c3-v26: não tive–sossego e–não tive–quietude e–não tive–descanso e–veio agitação ¶
+-- c4-v1: e–respondeu Elifaz o–temanita e–disse
+-- c4-v2: se–tentarmos palavra a–ti cansarás e–conter em–palavras quem poderá
+-- c4-v3: eis instruiste muitos e–mãos fracas fortaleceste
+-- c4-v4: o–tropeçante levantavam palavras–tuas e–joelhos curvando firmaste
+-- c4-v5: porque agora vem a–ti e–cansas toca a–ti e–te–assustas
+-- c4-v6: não temor–teu confiança–tua esperança–tua e–integridade–de caminhos–teus
+-- c4-v7: lembra por–favor quem ele inocente pereceu e–onde retos foram–cortados
+-- c4-v8: como vi lavradores–de iniquidade e–semeadores–de sofrimento colhem–o
+-- c4-v9: de–sopro–de Eloah perecem e–de–vento–de ira–dele são–consumidos
+-- c4-v10: rugido–de leão e–voz–de leão–feroz e–dentes–de leõezinhos são–quebrados
+-- c4-v11: leão–velho perece por–falta–de presa e–filhotes–de leoa são–dispersos
+-- c4-v12: e–a–mim palavra foi–trazida–furtivamente e–tomou ouvido–meu sussurro dela
+-- c4-v13: em–pensamentos de–visões–de noite ao–cair sono–profundo sobre homens
+-- c4-v14: pavor encontrou–me e–tremor e–multidão–de ossos–meus fez–tremer
+-- c4-v15: e–espírito sobre face–minha passou eriou pelos–de carne–minha
+-- c4-v16: parou e–não reconheci aparência–dele forma diante–de olhos–meus silêncio e–voz ouvi
+-- c4-v17: o–mortal de–Eloah será–mais–justo se de–fazedor–dele será–mais–puro homem
+-- c4-v18: eis em–servos–dele não confia e–em–anjos–dele põe loucura
+-- c4-v19: quanto–mais moradores–de casas–de barro que em–pó fundação–deles esmagam–os diante–de traça
+-- c4-v20: de–manhã até–tarde são–despedaçados sem que–ponha–atenção para–sempre perecem
+-- c4-v21: não foi–arrancada excelência–deles neles morrem e–não com–sabedoria
+-- c5-v1: chama por–favor há respondente–teu e–para quem dos–santos te–voltarás
+-- c5-v2: porque para–o–tolo mata ira e–o–simples mata ciúme
+-- c5-v3: eu vi tolo enraizando e–amaldiçoei morada–dele de–repente
+-- c5-v4: estarão–longe filhos–dele de–salvação e–serão–esmagados na–porta e–não–há libertador
+-- c5-v5: que colheita–dele faminto come e–para espinhos toma–a e–engole armadilha riqueza–deles
+-- c5-v6: porque não sai de–pó iniquidade e–de–terra não brota sofrimento
+-- c5-v7: porque homem para–sofrimento nasce e–filhos–de faísca elevam vôo
+-- c5-v8: porém eu buscaria a El e–a Elohim poria causa–minha
+-- c5-v9: fazedor–de grandezas e–não–há investigação maravilhas até não–há número
+-- c5-v10: o–que–dá chuva sobre face–de terra e–envia águas sobre face–de ruas
+-- c5-v11: para–pôr humildes no–alto e–enlutados são–exaltados salvação
+-- c5-v12: frustrando planos–de astutos e–não realizam mãos–deles sucesso
+-- c5-v13: apanhando sábios em–astúcia–deles e–conselho–de perversos é–precipitado
+-- c5-v14: de–dia encontram escuridão e–como–noite tâteam ao–meio–dia
+-- c5-v15: e–salva de–espada de–boca–deles e–de–mão–de forte pobre
+-- c5-v16: e–há para–o–pobre esperança e–injustiça fecha boca–dela
+-- c5-v17: eis feliz homem corrige–o Eloah e–disciplina–de Shaddai não rejeites
+-- c5-v18: porque ele fere e–enfaixa esmaga [e–mão–dele] (e–mãos–dele) curam
+-- c5-v19: em–seis tribulações te–livrará e–em–sete não tocará em–ti mal
+-- c5-v20: em–fome resgata–te de–morte e–em–guerra de–mãos–de espada
+-- c5-v21: de–açoite–de língua serás–escondido e–não temerás de–destruição quando vier
+-- c5-v22: de–destruição e–de–fome rirás e–de–animais–de a–terra não temerás
+-- c5-v23: porque com pedras–de o–campo aliança–tua e–animais–de o–campo fazem–paz contigo
+-- c5-v24: e–saberás que paz tenda–tua e–visitarás habitação–tua e–não pecarás
+-- c5-v25: e–saberás que muita semente–tua e–descendência–tua como–erva–de a–terra
+-- c5-v26: virás em–vigor para sepultura como–subir feixe em–tempo–dele
+-- c5-v27: eis isso investigamos assim é ouve–a e–tu sabe para–ti ¶
+-- c6-v1: e–respondeu Iyyov e–disse
+-- c6-v2: oh–se pesar fosse–pesado minha–aflição [e–calamidade–minha] (e–calamidade–minha) em–balanças levantassem juntas
+-- c6-v3: porque agora de–areia–de mares seria–mais–pesada sobre assim palavras–minhas foram–engolidas
+-- c6-v4: porque flechas–de Shaddai comigo que veneno–delas bebe espírito–meu terrores–de Eloah dispuseram–se–contra–mim
+-- c6-v5: zurra jumento–selvagem sobre relva se muge boi sobre forragem–dele
+-- c6-v6: será–comido insípido sem sal se há sabor em–baba–de malva
+-- c6-v7: recusa a–tocar alma–minha elas como–doença–de pão–meu
+-- c6-v8: quem desse viesse pedição–minha e–esperança–minha desse Eloah
+-- c6-v9: e–quisesse Eloah e–esmagasse–me soltasse mão–dele e–cortasse–me
+-- c6-v10: e–seria ainda consolação–minha e–saltaria em–dor não poupa porque não escondi palavras–de Santo
+-- c6-v11: que força–minha que esperaria e–que fim–meu que prolongaria alma–minha
+-- c6-v12: se força–de pedras força–minha se carne–minha bronze
+-- c6-v13: não não–há ajuda–minha em–mim e–sucesso foi–afastado de–mim
+-- c6-v14: para–o–que–desfalece de–amigo–dele bondade e–temor–de Shaddai abandona
+-- c6-v15: irmãos–meus traíram como torrente como–leito–de torrentes passam
+-- c6-v16: os–turvos de gelo sobre–eles derrete–se neve
+-- c6-v17: no–tempo secam são–cortados no–calor–dele são–extintos de–lugar–deles
+-- c6-v18: serpenteiam caminhos–de caminho–deles sobem no–vazio e–perecem
+-- c6-v19: olharam caravanas–de Tema viajantes–de Sheva esperaram por–elas
+-- c6-v20: envergonharam–se porque confiou vieram até–ela e–decepcionaram–se
+-- c6-v21: porque agora fostes [não] (para–ele) vedes terror e–temeis
+-- c6-v22: porventura disse dai a–mim e–de–força–vossa subornai por–mim
+-- c6-v23: e–livrai–me de–mão–de adversário e–de–mão–de opressores resgatai–me
+-- c6-v24: ensinai–me e–eu calarei e–que errei fazei–entender a–mim
+-- c6-v25: quão são–dolorosas palavras–de retidão e–que prova provar de–vós
+-- c6-v26: para–repreender palavras pensais e–para–vento palavras–de desesperado
+-- c6-v27: até sobre órfão lançais e–cavareis sobre amigo–vosso
+-- c6-v28: e–agora dignai–vos voltai para–mim e–sobre faces–vossas se mentirei
+-- c6-v29: voltai por–favor não haja injustiça [e–voltai] (e–voltai) ainda justiça–minha nela
+-- c6-v30: há em–língua–minha injustiça se paladar–meu não discerne calamidades
+-- c7-v1: não serviço–militar para–homem [sobre] (sobre) terra e–como–dias–de diarista dias–dele
+-- c7-v2: como–servo anseia–por sombra e–como–diarista espera salário–dele
+-- c7-v3: assim herdei para–mim meses–de vaidade e–noites–de sofrimento foram–contadas para–mim
+-- c7-v4: se deito e–digo quando levantarei e–fugiu tarde e–fui–farto de–agitação até crepúsculo
+-- c7-v5: vestiu carne–minha vermes [e–crosta] (e–torrão–de) pó pele–minha endureceu e–foi–rejeitada
+-- c7-v6: dias–meus são–mais–rápidos que tear e–terminam sem esperança
+-- c7-v7: lembra que vento vida–minha não voltará olho–meu para–ver bem
+-- c7-v8: não me–verá olho–de vidente olhos–teus em–mim e–não–sou
+-- c7-v9: consome–se nuvem e–vai assim descer–ao Sheol não subirá
+-- c7-v10: não voltará mais para–casa–dele e–não conhecerá–o mais lugar–dele
+-- c7-v11: também eu não conterei boca–minha falarei em–angústia–de espírito–meu queixar–me–ei em–amargura–de alma–minha
+-- c7-v12: porventura–mar eu se monstro–marinho que pões sobre–mim guarda
+-- c7-v13: porque disse consolar–me–á cama–minha levantará em–conversa–minha leito–meu
+-- c7-v14: e–assustas–me com–sonhos e–de–visões aterrorizas–me
+-- c7-v15: e–escolheu estrangulamento alma–minha morte mais–que–ossos–meus
+-- c7-v16: rejeitei não para–sempre viverei deixa de–mim porque sopro dias–meus
+-- c7-v17: que homem que o–engrandeces e–que pões para–ele coração–teu
+-- c7-v18: e–visitas–o nas–manhãs a–momentos provas–o
+-- c7-v19: quanto–tempo não olharás–para–longe de–mim não me–soltarás até engolir saliva–minha
+-- c7-v20: pequei que farei a–ti guardião–de o–homem por–que puseste–me como–alvo a–ti e–tornei–me sobre–mim como–fardo
+-- c7-v21: e–por–que não levantas transgressao–minha e–fazes–passar (a) iniquidade–minha porque agora no–pó deitarei e–buscar–me–ás e–não–sou ¶
+-- c8-v1: E–respondeu Bildad o–Shuíta e–disse
+-- c8-v2: Até– quando falarás– estas-coisas e–vento grande palavras-de– tua-boca
+-- c8-v3: Será-que–o–Deus perverterá justiça ou–se– Shadday perverterá– retidão
+-- c8-v4: Se– teus-filhos pecaram– contra-ele e–os-enviou na-mão-de– sua-transgressão
+-- c8-v5: Se– tu buscares-diligentemente a– Deus e–a– Shadday suplicares
+-- c8-v6: Se– puro e–reto tu pois– agora despertará sobre-ti e–restaurará habitação-de tua-justiça
+-- c8-v7: E–será teu-princípio pequeno e–teu-fim crescerá muito
+-- c8-v8: Pois– pergunta– por-favor à–geração primeira e–prepara-te para–investigação-de seus-pais
+-- c8-v9: Pois– de-ontem nós e–não sabemos pois sombra nossos-dias sobre– terra
+-- c8-v10: Não– eles te-ensinarão te-dirão a-ti e–de-seu-coração farão-sair palavras
+-- c8-v11: Crescerá– papiro sem– pântano crescerá– junco sem– água
+-- c8-v12: Ainda em–sua-verdura não é-colhido e–diante-de toda– erva secará
+-- c8-v13: Assim caminhos-de todos– que-esquecem-de Deus e–esperança-de hipócrita perecerá
+-- c8-v14: Que– será-cortada sua-confiança e–casa-de aranha sua-segurança
+-- c8-v15: Apoiar-se-á sobre– sua-casa e–não ficará-em-pé agarrar-se-á a-ela e–não se-levantará
+-- c8-v16: Viçoso ele diante-de– sol e–sobre seu-jardim seus-brotos saem
+-- c8-v17: Sobre– montículo suas-raízes se-entrelaçam casa-de pedras vê
+-- c8-v18: Se– o-engolir de-seu-lugar e–negar a-ele não te-vi
+-- c8-v19: Eis– ele alegria-de seu-caminho e–do-pó outro brotará
+-- c8-v20: Eis– Deus não rejeitará– íntegro e–não– sustentará na-mão-de– malfeitores
+-- c8-v21: Até– encher riso tua-boca e–teus-lábios grito-de-alegria
+-- c8-v22: Teus-odiadores vestir-se-ão-de– vergonha e–tenda-de ímpios não-é ¶
+-- c9-v1: E–respondeu Iyyov e–disse
+-- c9-v2: Verdadeiramente sei que– assim e–como– será-justo homem com– Deus
+-- c9-v3: Se– desejar contender com-ele não– lhe-responderá uma de– mil
+-- c9-v4: Sábio de-coração e–forte de-força Quem– endureceu contra-ele e–ficou-iléso
+-- c9-v5: O–que-remove montanhas e–não sabem que as-transtornou em-sua-ira
+-- c9-v6: O–que-faz-tremer terra de-seu-lugar e–suas-colunas estremecem
+-- c9-v7: O–que-diz ao–sol e–não brilha e–atrás-de estrelas sela
+-- c9-v8: Estendendo céus sozinho e–pisando sobre– alturas-de mar
+-- c9-v9: Fazendo– Ursa Orião e–Plêiades e–câmaras-de sul
+-- c9-v10: Fazendo coisas-grandes até– sem investigação e–maravilhas até– sem número
+-- c9-v11: Eis passa por-mim e–não vejo e–prossegue e–não– entendo a-ele
+-- c9-v12: Eis arrebata quem o-fará-voltar Quem– dirá a-ele Que– fazes
+-- c9-v13: Deus não– desviará sua-ira [debaixo-dele] (debaixo-dele) se-curvaram ajudadores-de Rahav
+-- c9-v14: Quanto-mais que– eu lhe-responderá escolherei minhas-palavras com-ele
+-- c9-v15: Que se– fui-justo não responderia a–meu-juiz suplicaria
+-- c9-v16: Se– chamei e–me-respondeu não– acreditaria que– desse-ouvidos a-minha-voz
+-- c9-v17: Que– em–tempestade me-esmaga e–multiplica minhas-feridas sem-causa
+-- c9-v18: Não– me-permite recobrar meu-fôlego pois me-farta de-amarguras
+-- c9-v19: Se– de–força forte eis e–se– de–julgamento quem me-citará
+-- c9-v20: Se– me-justificar minha-boca me-condenará Íntegro– eu e–me-declarará-perverso
+-- c9-v21: Íntegro– eu não– conheço minha-alma desprezo minha-vida
+-- c9-v22: Uma-coisa ela por– isso disse Íntegro e–ímpio ele destrói
+-- c9-v23: Se– açoite matar de-repente de–provação-de inocentes zombará
+-- c9-v24: Terra foi-entregue em-mão-de– ímpio rosto-de– seus-juízes cobre Se– não então quem– ele
+-- c9-v25: E–meus-dias foram-mais-velozes que– corredor fugiram não– viram bem
+-- c9-v26: Passaram com– barcos-de papiro como–águia desce sobre– alimento
+-- c9-v27: Se– disser esquecerei minha-queixa deixarei meu-rosto e–me-alegrarei
+-- c9-v28: Temo todas– minhas-dores sei que– não me-declararás-inocente
+-- c9-v29: Eu sou-ímpio Por-que– isto em-vão me-esforcei
+-- c9-v30: Se– me-lavar [com-águas-de–] (com-águas-de–) neve e–purificar com–pureza minhas-mãos
+-- c9-v31: Então na–cova me-mergulharás e–me-abominarão minhas-vestes
+-- c9-v32: Pois– não– homem como-eu lhe-responderia viremos juntos em–julgamento
+-- c9-v33: Não há– entre-nós árbitro ponha sua-mão sobre– nós-dois
+-- c9-v34: Afaste de-sobre-mim sua-vara e–seu-terror não– me-espante
+-- c9-v35: Falarei e–não o-temerei pois não– assim eu em-mim-mesmo
+-- c10-v1: Enfastia-se minha-alma em–minha-vida deixarei sobre-mim minha-queixa falarei em–amargura-de minha-alma
+-- c10-v2: Direi a– Deus não– me-condenes faze-me-saber sobre que– contendes-comigo
+-- c10-v3: É-bom para-ti que– oprimas que– rejeites trabalho-de tuas-mãos e–sobre– conselho-de ímpios resplandeças
+-- c10-v4: Olhos-de carne para-ti Se– como–ver-de homem vês
+-- c10-v5: Como–dias-de homem teus-dias Se– teus-anos como–dias-de varão
+-- c10-v6: Que– buscas por–minha-iniquidade e–por–meu-pecado investigas
+-- c10-v7: Sobre– teu-conhecimento que– não sou-ímpio e–não-há de-tua-mão livrador
+-- c10-v8: Tuas-mãos me-formaram e–me-fizeram juntos ao-redor e–me-destróis
+-- c10-v9: Lembra– por-favor que– como–barro me-fizeste e–ao– pó me-farás-voltar
+-- c10-v10: Não como–leite me-derramaste e–como–queijo me-coalhaste
+-- c10-v11: Pele e–carne me-vestiste e–com–ossos e–tendões me-entrelaçaste
+-- c10-v12: Vida e–benignidade fizeste comigo e–teu-cuidado guardou meu-espírito
+-- c10-v13: E–estas-coisas escondeste em-teu-coração sei que– isto com-ti
+-- c10-v14: Se– pequei e–me-guardaste e–de–minha-iniquidade não me-declararás-inocente
+-- c10-v15: Se– fui-ímpio ai de-mim e–fui-justo não– levantarei minha-cabeça farto-de vergonha e–vê minha-aflição
+-- c10-v16: E–se-elevar como–leão me-caças e–de-novo te-mostras-maravilhoso– contra-mim
+-- c10-v17: Renovas tuas-testemunhas contra-mim e–multiplicas tua-ira comigo mudanças e–guerra contra-mim
+-- c10-v18: E–por-que de–ventre me-tiraste expiraria e–olho não– me-veria
+-- c10-v19: Como–se não– tivesse-sido seria de–ventre para–sepultura levado
+-- c10-v20: Não– poucos meus-dias [cesse] (e–cesse) [ponha] (e–ponha) de-mim e–me-alegrarei um-pouco
+-- c10-v21: Antes-de ir e–não voltarei à– terra-de trevas e–sombra-de-morte
+-- c10-v22: Terra-de escuridão como– trevas sombra-de-morte e–não ordem e–brilha como– trevas ¶
+-- c11-v1: E–respondeu Tsofar o–Naamatita e–disse
+-- c11-v2: Multidão-de palavras não será-respondida e–se– homem de-lábios será-justificado
+-- c11-v3: Teus-palavrórios homens calarão e–zombaste e–não-há quem-envergonhe
+-- c11-v4: E–disseste puro meu-ensino e–limpo fui a-teus-olhos
+-- c11-v5: E–mas quem– dera Deus falasse e–abrisse seus-lábios contigo
+-- c11-v6: E–declarasse– a-ti segredos-de sabedoria que– o-dobro para–eficácia e–sabe que– faz-esquecer a-ti Deus de-tua-iniquidade
+-- c11-v7: Investigação-de Deus encontrarás Se até– perfeição-de Shadday encontrarás
+-- c11-v8: Alturas-de céus que– farás profunda mais-que–Sheol que– saberás
+-- c11-v9: Mais-longa que–terra sua-medida e–mais-larga do-que– mar
+-- c11-v10: Se– passar e–encarcerar e–convocar-assembléia e–quem o-fará-voltar
+-- c11-v11: Pois– ele conhece homens-de– falsidade e–vê– iniquidade e–não considerará
+-- c11-v12: E–homem oco terá-entendimento e–cria-de jumento-selvagem homem nascerá
+-- c11-v13: Se– tu preparaste teu-coração e–estendeste a-ele tua-palma
+-- c11-v14: Se– iniquidade em–tua-mão afasta-a e–não– deixes-habitar em–tuas-tendas injustiça
+-- c11-v15: Pois– então levantarás teu-rosto sem-defeito e–serás firme e–não temerás
+-- c11-v16: Pois– tu trabalho esquecerás como–águas passaram lembrarás
+-- c11-v17: E–do-meio-dia levantar-se-á vida escuridão como–manhã será
+-- c11-v18: E–confiarás porque– há esperança e–cavarás em–segurança te-deitarás
+-- c11-v19: E–te-recostarás e–não-há quem-espante e–implorarão teu-rosto muitos
+-- c11-v20: E–olhos-de ímpios desfalecerão e–refúgio perecerá deles e–sua-esperança último-suspiro–de– alma ¶
+-- c12-v1: E–respondeu Iyyov e–disse
+-- c12-v2: Verdadeiramente que vós– povo e–convosco morrerá sabedoria
+-- c12-v3: Também– a-mim coração como-vós não– inferior eu de-vós e–(a)– quem– não como– estas-coisas
+-- c12-v4: Riso para–seu-amigo serei chamando a–Deus e–lhe-responde riso justo íntegro
+-- c12-v5: Tocha-de desprezo para–pensamento-de tranquilo preparada para–vacilantes-de pé
+-- c12-v6: Prosperam tendas de–destruidores e–seguranças para–provocadores-de Deus para–aquele-que trouxe Deus em-sua-mão
+-- c12-v7: E–mas pergunta– por-favor aos-animais e–te-ensinará e–aves-de os–céus e–te-declarará– a-ti
+-- c12-v8: Ou fala à–terra e–te-ensinará e–te-contarão a–ti peixes-de o–mar
+-- c12-v9: Quem não– sabe em–todas– estas-coisas que mão-de– YHWH fez (a)–isto
+-- c12-v10: Que em–sua-mão alma-de todo– vivente e–espírito-de toda– carne–de– homem
+-- c12-v11: Não– ouvido palavras prova e–paladar comida saboreia– para-ele
+-- c12-v12: Nos–idosos sabedoria e–longura-de dias entendimento
+-- c12-v13: Com-ele sabedoria e–poder a-ele conselho e–entendimento
+-- c12-v14: Eis derruba e–não será-construído encerra sobre– homem e–não será-aberto
+-- c12-v15: Eis retém as–águas e–secam e–as-envia e–transtornam terra
+-- c12-v16: Com-ele força e–eficácia a-ele extraviado e–extraviador
+-- c12-v17: Fazendo-andar conselheiros despojados e–juízes enlouquece
+-- c12-v18: Vínculo-de reis solta e–ata cinto em-seus-lombos
+-- c12-v19: Fazendo-andar sacerdotes despojados e–fortes subverte
+-- c12-v20: Removendo fala de–fiéis e–discernimento-de anciãos toma
+-- c12-v21: Derramando desprezo sobre– nobres e–cinto-de fortes afrouxa
+-- c12-v22: Revelando profundezas de– trevas e–traz-à-luz para–a–luz sombra-de-morte
+-- c12-v23: Engrandecendo as–nações e–as-destrói espalhando as–nações e–as-conduz
+-- c12-v24: Removendo coração-de líderes-de povo–de– a–terra e–os-faz-vagar em–caos não– caminho
+-- c12-v25: Apalpam– trevas e–não– luz e–os-faz-cambalear como–bêbado
+-- c13-v1: Eis– tudo viu meu-olho ouviu meu-ouvido e–entendeu para-si
+-- c13-v2: Como–vosso-conhecimento sei também– eu não– inferior eu de-vós
+-- c13-v3: Mas eu a– Shadday falarei e–argumentar a– Deus desejo
+-- c13-v4: E–mas vós inventores-de– falsidade curadores-de nada todos-vós
+-- c13-v5: Quem– dera calar calásseis e–seria para-vós para–sabedoria
+-- c13-v6: Ouvi– por-favor minha-argumentação e–contendas-de meus-lábios atendei
+-- c13-v7: Para–o–Deus falareis injustiça e–para-ele falareis engano
+-- c13-v8: Seu-rosto levantareis Se– para-o–Deus contendereis
+-- c13-v9: É-bom que– pesquise (a)–vós Se– como–zombar de–homem zombareis dele
+-- c13-v10: Repreender repreenderá (a)–vós se– em–segredo rostos levantardes
+-- c13-v11: Não sua-majestade vos-espantará (a)–vós e–seu-terror cairá sobre-vós
+-- c13-v12: Vossas-memórias provérbios-de– cinza para–montículos-de– barro vossos-montículos
+-- c13-v13: Calai-vos de-mim e–falarei– eu e–passará sobre-mim o-que
+-- c13-v14: Por– que levarei minha-carne em-meus-dentes e–minha-alma porei em-minha-palma
+-- c13-v15: Eis me-matará [não] (nele) esperarei somente– meus-caminhos a– seu-rosto defenderei
+-- c13-v16: Também– ele– a-mim para–salvação pois– não diante-dele hipócrita virá
+-- c13-v17: Ouvi ouvindo minha-palavra e–minha-declaração em-vossos-ouvidos
+-- c13-v18: Eis– por-favor preparei causa sei que– eu serei-justificado
+-- c13-v19: Quem– ele contenderá comigo pois– agora me-calarei e–expirarei
+-- c13-v20: Somente– duas-coisas não– faças comigo então de-tua-face não me-esconderei
+-- c13-v21: Tua-palma de-sobre-mim afasta e–teu-terror não– me-espante
+-- c13-v22: E–chama e–eu responderei ou– falarei e–me-responde
+-- c13-v23: Quantas a-mim iniquidades e–pecados minha-transgressão e–meu-pecado faze-me-saber
+-- c13-v24: Por-que– tua-face escondes e–me-consideras por–inimigo para-ti
+-- c13-v25: Folha impelida assustarás e–(a)– palha seca perseguirás
+-- c13-v26: Pois– escreves contra-mim amarguras e–me-fazes-herdar iniquidades-de minha-juventude
+-- c13-v27: E–pões no–cepo meus-pés e–vigias todos– meus-caminhos sobre– raízes-de meus-pés te-inscreves
+-- c13-v28: E–ele como–podridão se-consome como–veste que-comeu-a traça
+-- c14-v1: Homem nascido-de mulher curto-de dias e–farto-de– tormento
+-- c14-v2: Como–flor saiu e–é-cortada e–foge como–sombra e–não permanece
+-- c14-v3: Também– sobre– este abriste teu-olho e–(a)–mim trazes em–julgamento contigo
+-- c14-v4: Quem– dará puro de–impuro não um
+-- c14-v5: Se determinados seus-dias número-de seus-meses contigo [seus-decretos] (seus-decretos) fizeste e–não passará
+-- c14-v6: Desvia de-sobre-ele e–cessará até– completar como–diário seu-dia
+-- c14-v7: Pois há para–árvore esperança se– for-cortada e–de-novo brotará e–seu-rebento não cessará
+-- c14-v8: Se– envelhecer na–terra sua-raiz e–no–pó morrer seu-tronco
+-- c14-v9: Do–cheiro-de água florescerá e–produzirá colheita como– planta
+-- c14-v10: E–varão morre e–jaz-abatido e–expira homem e–onde-está-ele
+-- c14-v11: Escoaram–se– águas de– mar e–rio seca e–murcha
+-- c14-v12: E–homem deitou-se e–não– se-levanta até– não-mais céus não acordarão e–não– serão-despertados de-seu-sono
+-- c14-v13: Quem dera no–Sheol me-escondesses me-ocultasses até– voltar tua-ira designasses a-mim limite e–te-lembrasses-de-mim
+-- c14-v14: Se– morrer varão viverá todos– dias-de minha-luta esperarei até– vir minha-mudança
+-- c14-v15: Chamarás e–eu te-responderei por–obra-de tuas-mãos terás-saudade
+-- c14-v16: Pois– agora meus-passos contas não– vigias sobre– meu-pecado
+-- c14-v17: Selado em–saco minha-transgressão e–cobriste sobre– minha-iniquidade
+-- c14-v18: E–mas monte– caindo se-desmorona e–rocha remove-se de-seu-lugar
+-- c14-v19: Pedras desgastaram águas arrastas– seus-brotos pó-de– terra e–esperança-de homem destruiste
+-- c14-v20: O-prevaleces-contra-ele para–sempre e–vai-se mudando seu-rosto e–o-despedes
+-- c14-v21: Honrados seus-filhos e–não sabe e–são-humilhados e–não– percebe para-eles
+-- c14-v22: Somente– sua-carne sobre-ele sente-dor e–sua-alma sobre-ele pranteia ¶
+-- c15-v1: E–respondeu Elifaz o–Temanita e–disse
+-- c15-v2: Acaso–o–sábio responderá conhecimento-de vento e–encherá oriental seu–ventre
+-- c15-v3: Argumentando com–palavra não beneficia e–palavras não aproveitam nelas
+-- c15-v4: Certamente tu anulas temor e–diminuis meditação diante-de Deus
+-- c15-v5: Pois ensina tua–iniquidade tua–boca e–escolhes língua-de astutos
+-- c15-v6: Te–condena tua–boca e–não eu e–teus–lábios testemunham contra–ti
+-- c15-v7: Acaso–o–primeiro homem nasceste E–antes-de colinas foste–formado
+-- c15-v8: Acaso–o–conselho-de Deus ouves e–restringes para–ti sabedoria
+-- c15-v9: Que sabes e–não sabemos Entendes e–não conosco está
+-- c15-v10: Também grisalho também ancião entre–nós maior que–teu–pai em–dias
+-- c15-v11: Acaso–pouca para–ti consolações-de Deus e–palavra gentilmente contigo
+-- c15-v12: Que te–leva teu–coração e–que piscam teus–olhos
+-- c15-v13: Pois voltas contra Deus teu–espírito e–fazes–sair de–tua–boca palavras
+-- c15-v14: Que é–o–homem para–que seja–puro E–para–que seja–justo nascido-de mulher
+-- c15-v15: Eis [em–seu–santo] em–seus–santos não confia e–os–céus não são–puros em–seus–olhos
+-- c15-v16: Quanto–mais pois detestável e–corrompido homem que–bebe como–água iniquidade
+-- c15-v17: Te–declararei ouve a–mim e–isto vi e–contarei
+-- c15-v18: Que sábios declararam e–não esconderam de–seus–pais
+-- c15-v19: A–eles sozinhos foi–dada a–terra e–não passou estrangeiro entre–eles
+-- c15-v20: Todos os–dias-de ímpio ele se–contorce e–número-de anos estão–escondidos para–o–tirano
+-- c15-v21: Voz-de terrores em–seus–ouvidos na–paz destruidor virá–sobre–ele
+-- c15-v22: Não crê voltar de trevas [e–vigiado] e–destinado ele para espada
+-- c15-v23: Vagando ele por–pão Onde Sabe que preparado em–sua–mão dia-de trevas
+-- c15-v24: O–aterrorizam aflição e–angústia o–dominam como–rei preparado para–batalha
+-- c15-v25: Pois estendeu contra Deus sua–mão e–contra Shaddai se–fortalece
+-- c15-v26: Corre contra–ele com–pescoço com–espessura-de lombos-de seus–escudos
+-- c15-v27: Pois cobriu seu–rosto com–sua–gordura e–fez gordura sobre lombos
+-- c15-v28: E–habitou cidades destruídas casas não habitadas por–eles que estavam–destinadas a–ruínas
+-- c15-v29: Não enriquecerá e–não permanecerá sua–riqueza e–não se–estenderá para–a–terra sua–possessão
+-- c15-v30: Não se–afastará de trevas seus–ramos secará chama e–passará pelo–sopro-de sua–boca
+-- c15-v31: Não confie [em–vaidade] em–vaidade o–enganado pois vaidade será sua–recompensa
+-- c15-v32: Antes-de seu–dia será–cumprida e–sua–folhagem não verdejante
+-- c15-v33: Sacudirá como–a–videira suas–uvas–verdes e–lançará como–a–oliveira sua–flor
+-- c15-v34: Pois assembleia-de hipócrita estéril e–fogo consome tendas-de suborno
+-- c15-v35: Concebendo trabalho e–dando–à–luz iniquidade e–seu–ventre prepara engano §
+-- c16-v1: E–respondeu Iyyov e–disse
+-- c16-v2: Ouvi como–estas muitas consoladores-de trabalho todos–vós
+-- c16-v3: Acaso–há–fim para–palavras-de vento Ou que te–provoca que respondes
+-- c16-v4: Também eu como–vós falaria Se estivesse vossa–alma no–lugar-de minha–alma uniria contra–vós com–palavras e–menearia contra–vós com minha–cabeça
+-- c16-v5: Vos–fortaleceria com minha–boca e–movimento-de meus–lábios conteria
+-- c16-v6: Se eu–falar não é–aliviada minha–dor e–se–eu–parar que de–mim parte
+-- c16-v7: Mas agora me–exauriu Devastaste toda minha–comunidade
+-- c16-v8: E–me–enrugaste por–testemunho tornou-se e–levantou-se contra–mim minha–magreza em–meu–rosto testemunha
+-- c16-v9: Sua–ira rasgou e–me–perseguiu rangeu contra–mim com–seus–dentes meu–adversário aguça seus–olhos contra–mim
+-- c16-v10: Abriram contra–mim com–sua–boca com–insulto feriram minha–face juntos contra–mim se–ajuntam
+-- c16-v11: Me–entrega Deus ao perverso e–sobre mãos-de ímpios me–lança
+-- c16-v12: Em–paz eu–estava e–me–despedaçou e–agarrou pelo–meu–pescoço e–me–esmagou e–me–colocou para–ele como–alvo
+-- c16-v13: Cercaram-me sobre–mim seus–arqueiros traspassam meus–rins e–não poupa derrama para–a–terra minha–bílis
+-- c16-v14: Me–rompe brecha sobre face-de brecha corre sobre–mim como–guerreiro
+-- c16-v15: Saco cosi sobre minha–pele e–enfiei no–pó meu–chifre
+-- c16-v16: Meu–rosto [avermelhou] avermelharam de choro e–sobre minhas–pálpebras sombra–de–morte
+-- c16-v17: Sobre não violência em–minhas–mãos e–minha–oração pura
+-- c16-v18: Terra não cubras meu–sangue e–não haja lugar para–meu–clamor
+-- c16-v19: Também agora eis nos–céus minha–testemunha e–meu–defensor nas–alturas
+-- c16-v20: Meus–escarnecedores meus–amigos para Deus goteja meu–olho
+-- c16-v21: E–que–argumente para–o–homem com Deus e–filho-de homem por–seu–próximo
+-- c16-v22: Pois anos-de número virão e–caminho não voltarei irei
+-- c17-v1: Meu–espírito está–corrompido meus–dias estão–extintos sepulcros para–mim
+-- c17-v2: Se–não não zombadores comigo e–em–sua–provocação passa–a–noite meu–olho
+-- c17-v3: Coloca por–favor dá–me–penhor contigo Quem é–aquele em–minha–mão baterá
+-- c17-v4: Pois seu–coração escondeste de–entendimento por-isso assim não exaltarás
+-- c17-v5: Por–parte anuncia amigos e–olhos-de seus–filhos desfalecerão
+-- c17-v6: E–me–colocou como–provérbio-de povos e–cusparada na–face me–tornei
+-- c17-v7: E–escureceu de–ira meu–olho e–meus–membros como–sombra todos–eles
+-- c17-v8: Ficarão–chocados retos por isto e–inocente contra hipócrita se–despertará
+-- c17-v9: E–manterá justo seu–caminho e–limpo-de mãos acrescentará força
+-- c17-v10: E–porém todos–vós voltai e–vinde por–favor e–não acharei entre–vós sábio
+-- c17-v11: Meus–dias passaram meus–planos foram–cortados possesões-de meu–coração
+-- c17-v12: Noite para–dia transformam luz perto da–face-de trevas
+-- c17-v13: Se eu–espero Sheol minha–casa na–escuridão estendi minha–cama
+-- c17-v14: Para–a–cova chamei meu–pai tu minha–mãe e–minha–irmã para–o–verme
+-- c17-v15: E–onde então minha–esperança e–minha–esperança quem a–verá
+-- c17-v16: Barras-de Sheol descerão se juntos sobre pó descanso §
+-- c18-v1: E–respondeu Bildad o–Shuíta e–disse
+-- c18-v2: Até-quando quando porás fins para–palavras Entendei e–depois falaremos
+-- c18-v3: Por–que somos–considerados como–bestas Somos–impuros em–vossos–olhos
+-- c18-v4: Que–despedaça sua–alma em–sua–ira Acaso–por–tua–causa será–abandonada terra e–mover–se–á rocha de–seu–lugar
+-- c18-v5: Também luz-de ímpios se–apagará e–não brilhará faísca-de seu–fogo
+-- c18-v6: Luz escureceu em–sua–tenda e–sua–lâmpada sobre–ele se–apagará
+-- c18-v7: São–apertados passos-de sua–força e–o–lançará seu–próprio–conselho
+-- c18-v8: Pois foi–lançado em–rede por–seus–pés e–sobre trama andará
+-- c18-v9: Agarrará pelo–calcanhar armadilha o–segurará sobre–ele laço
+-- c18-v10: Escondida na–terra sua–corda e–sua–cilada sobre caminho
+-- c18-v11: Ao–redor o–aterrorizam terrores e–o–dispersam a–seus–pés
+-- c18-v12: Seja faminto sua–força e–calamidade preparada a–seu–lado
+-- c18-v13: Devorará partes-de sua–pele devorará seus–membros primogênito-de morte
+-- c18-v14: Será–arrancado de–sua–tenda sua–confiança e–o–fará–marchar para–rei-de terrores
+-- c18-v15: Habitará em–sua–tenda sem ele será–espalhado sobre sua–morada enxofre
+-- c18-v16: De–baixo suas–raízes secarão e–de–cima murchará sua–colheita
+-- c18-v17: Sua–memória perecerá da terra e–não nome para–ele sobre face-de fora
+-- c18-v18: O–empurrarão de–luz para trevas e–do–mundo o–expulsarão
+-- c18-v19: Não filho para–ele e–não neto entre–seu–povo e–não sobrevivente em–suas–moradas
+-- c18-v20: Por seu–dia ficarão–horrorizados os–de–depois e–os–de–antes serão–tomados–de pavor
+-- c18-v21: Certamente estas moradas-de perverso e–este lugar-de não conhece Deus §
+-- c19-v1: E–respondeu Iyyov e–disse
+-- c19-v2: Até-quando quando afligireis minha–alma e–me–esmagareis com–palavras
+-- c19-v3: Isto dez vezes me–insultastes não vos–envergonhais me–maltratais
+-- c19-v4: E–mesmo–se verdadeiramente errei comigo permanece meu–erro
+-- c19-v5: Se verdadeiramente contra–mim vos–engrandeceis e–provareis contra–mim minha–desgraca
+-- c19-v6: Sabei então que Deus me–perverteu e–sua–rede sobre–mim cercou
+-- c19-v7: Eis clamo violência e–não sou–respondido grito e–não–há justiça
+-- c19-v8: Meu–caminho cercou e–não passo e–sobre minhas–veredas trevas coloca
+-- c19-v9: Minha–glória de–sobre–mim despiu e–removeu coroa-de minha–cabeça
+-- c19-v10: Me–demole ao–redor e–vou–me e–arrancou como–árvore minha–esperança
+-- c19-v11: E–acendeu contra–mim sua–ira e–me–considerou para–ele como–seus–inimigos
+-- c19-v12: Juntos vêm seus–exércitos e–levantam contra–mim seu–caminho e–acampam ao–redor de–minha–tenda
+-- c19-v13: Meus–irmãos de–sobre–mim afastou e–meus–conhecidos certamente se–tornaram–estranhos de–mim
+-- c19-v14: Cessaram meus–parentes e–meus–íntimos me–esqueceram
+-- c19-v15: Moradores-de minha–casa e–minhas–servas como–estrangeiro me–consideram estranho me–tornei em–seus–olhos
+-- c19-v16: A–meu–servo chamei e–não responde com minha–boca suplico a–ele
+-- c19-v17: Meu–hálito é–estranho para–minha–esposa e–minha–súplica para–filhos-de meu–ventre
+-- c19-v18: Também crianças me–desprezam a–mim levanto-me e–falam contra–mim
+-- c19-v19: Me–abominam todos homens-de meu–círculo e–estes que–amei se–viraram contra–mim
+-- c19-v20: Em–minha–pele e–em–minha–carne se–apegaram meus–ossos e–escapei com–pele-de meus–dentes
+-- c19-v21: Tende–piedade tende–piedade-de–mim vós meus–amigos pois mão-de Deus me–tocou a–mim
+-- c19-v22: Por–que me–perseguis como Deus e–de–minha–carne não vos–fartais
+-- c19-v23: Quem dera então e–fossem–escritas minhas–palavras Quem dera em–livro e–fossem–gravadas
+-- c19-v24: Com–pena-de ferro e–chumbo para–sempre na–rocha fossem–esculpidas
+-- c19-v25: E–eu sei meu–Redentor vive e–por–último sobre pó se–levantará
+-- c19-v26: E–depois minha–pele destruírem isto e–de–minha–carne verei Deus
+-- c19-v27: Que eu verei para–mim e–meus–olhos verão e–não estranho Consomem-se meus–rins em–meu–peito
+-- c19-v28: Pois direis Por–que o–perseguimos a–ele e–raiz-de assunto foi–encontrada em–mim
+-- c19-v29: Temei para–vós da–face-de espada pois ira iniquidades espada para–que saibais [julgamento] julgamento §
+-- c20-v1: E–respondeu Tsofar o–Naamatita e–disse
+-- c20-v2: Portanto meus–pensamentos me–fazem–responder e–por–causa-de minha–agitação em–mim
+-- c20-v3: Reprovação-de minha–vergonha ouço e–espírito de–meu–entendimento me–responde
+-- c20-v4: Acaso–isto sabes de antigamente desde colocar homem sobre terra
+-- c20-v5: Que alegria-de ímpios de–perto e–júbilo-de hipócrita até momento
+-- c20-v6: Se subir aos–céus sua–alteza e–sua–cabeça à–nuvem alcançar
+-- c20-v7: Como–seu–esterco para–sempre perecerá os–que–o–viam dirão Onde–está–ele
+-- c20-v8: Como–sonho voará e–não o–acharão e–será–afugentado como–visão-de noite
+-- c20-v9: Olho que–o–viu e–não novamente e–não mais o–avistará seu–lugar
+-- c20-v10: Seus–filhos buscarão–favor-de pobres e–suas–mãos devolverão sua–riqueza
+-- c20-v11: Seus–ossos estão–cheios-de [sua–juventude] sua–juventude e–com–ele sobre pó se–deitará
+-- c20-v12: Se for–doce em–sua–boca mal o–esconde debaixo-de sua–língua
+-- c20-v13: Poupa sobre–ela e–não a–abandona e–a–retém no–meio-de seu–paladar
+-- c20-v14: Seu–pão em–suas–entranhas é–transformado veneno-de víboras em–seu–interior
+-- c20-v15: Riqueza engoliu e–a–vomitará de–seu–ventre o–fará–vomitar Deus
+-- c20-v16: Cabeça-de víboras mamará o–matará língua-de serpente
+-- c20-v17: Não verá em–correntes rios torrentes-de mel e–manteiga
+-- c20-v18: Devolvendo trabalho e–não engolirá como–riqueza-de sua–negociação e–não se–alegrará
+-- c20-v19: Pois esmagou abandonou pobres casa roubou e–não a–construirá
+-- c20-v20: Pois não conheceu tranquilidade em–seu–ventre em–seu–desejo não escapará
+-- c20-v21: Não–há sobrevivente para–sua–comida por-isso assim não durará seu–bem
+-- c20-v22: Na–plenitude-de sua–suficiência será–apertado para–ele toda mão-de sofredor virá–sobre–ele
+-- c20-v23: Seja para–encher seu–ventre enviará contra–ele furor-de sua–ira e–fará–chover sobre–eles em–sua–comida
+-- c20-v24: Fugirá de–arma-de ferro o–traspassará arco-de bronze
+-- c20-v25: Arranca e–sai de–seu–corpo e–relâmpago de–sua–bílis anda sobre–ele terrores
+-- c20-v26: Toda escuridão escondida para–seus–tesouros o–consumirá fogo não soprado irá–mal sobrevivente em–sua–tenda
+-- c20-v27: Revelarão céus sua–iniquidade e–terra se–levantando contra–ele
+-- c20-v28: Será–removida produção-de sua–casa será–arrastada no–dia-de sua–ira
+-- c20-v29: Esta porção-de homem ímpio de–Deus e–herança-de sua–palavra de–Deus ¶
+-- c21-v1: E–respondeu Iyyov e–disse
+-- c21-v2: Ouvi ouvindo minha–palavra e–seja esta vossas–consolações
+-- c21-v3: Suportai-me e–eu falarei e–depois meu–falar zombareis
+-- c21-v4: Acaso–eu para–homem minha–queixa e–se por–que não seria–encurtado meu–espírito
+-- c21-v5: Virai para–mim e–ficai–chocados e–colocai mão sobre boca
+-- c21-v6: E–se lembro e–fico–perturbado e–agarra minha–carne tremor
+-- c21-v7: Por–que ímpios vivem Envelhecem também se–fortalecem em–poder
+-- c21-v8: Sua–descendência estabelecida diante–deles com–eles e–seus–rebentos diante–de–seus–olhos
+-- c21-v9: Suas–casas paz de–medo e–não vara-de Deus sobre–eles
+-- c21-v10: Seu–touro emprenha e–não falha dá–à–luz sua–vaca e–não aborta
+-- c21-v11: Enviam como–rebanho seus–meninos e–seus–filhos dançam
+-- c21-v12: Levantam tamboril e–harpa e–se–alegram à–voz-de flauta
+-- c21-v13: [Passam] Completam em–bem seus–dias e–em–momento Sheol descem
+-- c21-v14: E–dizem a–Deus afasta-te de–nós e–conhecimento-de teus–caminhos não desejamos
+-- c21-v15: Que é–Shaddai que o–sirvamos e–que aproveitamos que nos–encontremos nele
+-- c21-v16: Eis não em–sua–mão seu–bem conselho-de ímpios está–longe de–mim
+-- c21-v17: Quantas–vezes lâmpada-de ímpios se–apaga e–vem sobre–eles sua–calamidade dores distribui em–sua–ira
+-- c21-v18: Sejam como–palha diante-de vento e–como–pragana que–roubou tempestade
+-- c21-v19: Deus reserva para–seus–filhos sua–calamidade retribui a–ele e–saberá
+-- c21-v20: Verão [seu–olho] seus–olhos sua–destruição e–de–ira-de Shaddai beberá
+-- c21-v21: Pois que é–seu–desejo em–sua–casa depois–dele e–número-de seus–meses foi–cortado
+-- c21-v22: Acaso–a–Deus ensinará conhecimento e–ele exaltados julga
+-- c21-v23: Este morre na–essência-de sua–integridade totalmente tranquilo e–em–paz
+-- c21-v24: Seus–baldes estão–cheios-de leite e–tutano-de seus–ossos está–irrigado
+-- c21-v25: E–este morre com–alma amarga e–não comeu em–bem
+-- c21-v26: Juntos sobre pó se–deitam e–verme cobre sobre–eles
+-- c21-v27: Eis conheço vossos–pensamentos e–tramas contra–mim tramais–violentamente
+-- c21-v28: Pois direis Onde–está casa-de nobre e–onde–está tenda moradas-de ímpios
+-- c21-v29: Acaso–não perguntastes-a viajantes-de caminho e–seus–sinais não reconheceis
+-- c21-v30: Pois para–dia-de calamidade é–poupado mal para–dia-de furas são–levados
+-- c21-v31: Quem declarará sobre sua–face seu–caminho e–ele fez quem o–retribuirá a–ele
+-- c21-v32: E–ele para–sepulcros será–levado e–sobre monte vigiará
+-- c21-v33: São–doces para–ele torrões-de vale e–depois–dele todo homem arrastará e–antes–dele não–há número
+-- c21-v34: E–como me–consolais vaidade e–vossas–respostas resta infidelidade §
+-- c22-v1: E–respondeu Elifaz o–temanita e–disse:
+-- c22-v2: Porventura–a–Deus é–útil um–homem, pois é–útil sobre–ele um–sábio?
+-- c22-v3: Porventura–deleite ao–Shaddai que sejas–justo? E–se ganho que aperfeiçoes teus–caminhos?
+-- c22-v4: Porventura–pelo–teu–temor te–reprova? Entra contigo em–juízo?
+-- c22-v5: Não é–tua–maldade grande? E–não–há fim para–tuas–iniquidades.
+-- c22-v6: Pois penhoravas teus–irmãos sem–causa e–as–vestes dos–nus despias.
+-- c22-v7: Não água ao–cansado davas–de–beber e–do–faminto retinhas pão.
+-- c22-v8: E–ao–homem de–braço para–ele era–a–terra e–o–favorecido de–rosto habitava nela.
+-- c22-v9: Viúvas despedias vazias e–os–braços dos–órfãos eram–esmagados.
+-- c22-v10: Por isso ao–teu–redor há–laços e–te–aterroriza pavor repentino.
+-- c22-v11: Ou trevas não vês? E–abundância–de águas te–cobre.
+-- c22-v12: Não–é Deus nas–alturas dos–céus? E–vê a–cabeça das–estrelas quão elevadas.
+-- c22-v13: E–dizes Que sabe Deus? Porventura–através–de escuridão julgará?
+-- c22-v14: Nuvens são–esconderijo para–ele e–não vê; e–o–círculo dos–céus percorre.
+-- c22-v15: Porventura–o–caminho antigo guardarás, que pisaram homens–de iniquidade?
+-- c22-v16: Que foram–cortados e–não–em tempo; um–rio foi–derramado sobre–seu–fundamento.
+-- c22-v17: Os–que–diziam a–Deus: Afasta-te de–nós, e–que fará o–Shaddai a–eles?
+-- c22-v18: E–ele encheu suas–casas de–bem; e–o–conselho dos–ímpios está–longe de–mim.
+-- c22-v19: Verão os–justos e–se–alegrarão e–o–inocente zombará deles:
+-- c22-v20: Certamente não foi–cortado nosso–adversário e–sua–abundância consumiu fogo.
+-- c22-v21: Reconcilia-te agora com–ele e–tem–paz; por–eles te–virá bem.
+-- c22-v22: Recebe agora de–sua–boca instrução e–põe suas–palavras em–teu–coração.
+-- c22-v23: Se voltares ao Shaddai, serás–edificado; afasta injustiça de–tua–tenda.
+-- c22-v24: E–põe sobre o–pó ouro; e–entre–rochas de–torrentes o–ouro–de–Ofir.
+-- c22-v25: E–será o–Shaddai teu–ouro e–prata preciosa para–ti.
+-- c22-v26: Pois então no Shaddai te–deleitarás e–levantarás a Deus teu–rosto.
+-- c22-v27: Suplicarás a–ele e–te–ouvirá e–teus–votos cumprirás.
+-- c22-v28: E–decretarás uma–palavra e–se–cumprirá para–ti e–sobre teus–caminhos brilhará luz.
+-- c22-v29: Quando se–humilham e–dizes Soberba! e–aos–humildes de–olhos salvará.
+-- c22-v30: Livrará o–não inocente e–será–liberto pela–pureza de–tuas–mãos. ¶
+-- c23-v1: E–respondeu Iyov e–disse:
+-- c23-v2: Também hoje é–amarga minha–queixa; minha–mão é–pesada sobre meu–gemido.
+-- c23-v3: Quem dera eu–soubesse e–o–achasse; viesse até seu–trono.
+-- c23-v4: Apresentaria diante–dele minha–causa e–minha–boca encheria de–argumentos.
+-- c23-v5: Saberia as–palavras que–me–responderia e–entenderia que me–diria. §
+-- c23-v6: Porventura–com–grande poder contenderia comigo? Não! Apenas ele poria–atenção em–mim.
+-- c23-v7: Ali o–reto raciocinaria com–ele e–eu–escaparia para–sempre do–meu–juiz.
+-- c23-v8: Eis adiante vou e–não–está; e–para–trás e–não o–percebo. §
+-- c23-v9: À–esquerda quando–ele–age e–não o–alcanço; vira–se à–direita e–não o–vejo.
+-- c23-v10: Pois ele–conhece o–caminho comigo; quando–me–provar, como–ouro sairei.
+-- c23-v11: Em–seus–passos segurou meu–pé; seu–caminho guardei e–não me–desviei.
+-- c23-v12: Do–mandamento de–seus–lábios e–não me–afastei; mais–que–minha–porção escondi as–palavras–de sua–boca.
+-- c23-v13: E–ele é–um; e–quem o–fará–voltar? E–sua–alma desejou e–fez.
+-- c23-v14: Pois cumprirá meu–decreto; e–como–estas muitas com–ele.
+-- c23-v15: Por isso de–sua–face me–perturbo; considero e–temo dele.
+-- c23-v16: E–Deus amoleceu meu–coração e–o–Shaddai me–aterrorizou.
+-- c23-v17: Pois não fui–cortado por–causa–das trevas e–de–minha–face cobriu escuridão.
+-- c24-v1: Por–que do–Shaddai não são–guardados tempos [e–os–que–o–conhecem] (e–os–que–o–conhecem) não vêem seus–dias?
+-- c24-v2: Limites mudam; rebanho roubam e–apascentam.
+-- c24-v3: Jumento de–órfãos levam; tomam–como–penhor boi de–viúva.
+-- c24-v4: Desviam os–necessitados do–caminho; juntos se–escondem os–pobres–da terra.
+-- c24-v5: Eis jumentos–selvagens no–deserto saem em–seu–trabalho buscando–de–madrugada presa; a–estepe para–ele é–pão para–os–jovens.
+-- c24-v6: No–campo sua–forragem [colhem] (colhem) e–a–vinha do–ímpio respigam.
+-- c24-v7: Nus passam–a–noite sem roupa e–não–há cobertura no–frio.
+-- c24-v8: Da–chuva dos–montes se–molham e–por–falta–de refúgio abraçam a–rocha.
+-- c24-v9: Arrancam do–seio o–órfão e–sobre o–pobre tomam–penhor.
+-- c24-v10: Nus andam sem roupa e–famintos carregam feixe.
+-- c24-v11: Entre seus–muros espremem–azeite; lagares pisam e–têm–sede.
+-- c24-v12: Da–cidade os–moribundos gemem e–a–alma–dos feridos clama; e–Deus não atribui loucura.
+-- c24-v13: Esses são os–que–se–rebelam–contra a–luz; não conhecem seus–caminhos e–não permanecem em–suas–veredas.
+-- c24-v14: À–luz se–levanta o–assassino; mata o–pobre e–o–necessitado; e–de–noite é como–ladrão.
+-- c24-v15: E–o–olho do–adúltero aguarda o–crepúsculo, dizendo: Não me–verá olho; e–disfarce de–rosto põe.
+-- c24-v16: Cava na–escuridão casas; de–dia se–fecham para–si; não conhecem a–luz.
+-- c24-v17: Pois juntos a–manhã para–eles é–sombra–de–morte; pois conhecem os–terrores da–sombra–de–morte.
+-- c24-v18: Leve é–ele sobre a–face–das águas; é–amaldiçoada sua–porção na–terra; não se–volta pelo–caminho das–vinhas.
+-- c24-v19: Secura também calor roubam águas–de neve; o–Sheol aos–que–pecaram.
+-- c24-v20: Esquecerá–o o–ventre; é–doce–para–ele o–verme; mais não será–lembrado; e–será–quebrada como–árvore a–injustiça.
+-- c24-v21: Ele–devora a–estéril que–não dá–à–luz; e–à–viúva não faz–bem.
+-- c24-v22: E–arrasta os–poderosos com–sua–força; levanta-se e–não crê na–vida.
+-- c24-v23: Dá–lhe § segurança e–se–apoia; e–seus–olhos estão–sobre seus–caminhos.
+-- c24-v24: São–exaltados um–pouco e–não–estão; e–são–abatidos como–todos são–colhidos; e–como–cabeça de–espiga são–cortados.
+-- c24-v25: E–se não, pois, quem me–desmentirá e–fará nada minha–palavra? §
+-- c25-v1: E–respondeu Bildad o–shuíta e–disse:
+-- c25-v2: Domínio e–temor com–ele; o–que–faz paz nas–suas–alturas.
+-- c25-v3: Há número para–seus–exércitos? E–sobre quem não se–levanta sua–luz?
+-- c25-v4: E–como será–justo o–homem com Deus? E–como será–puro o–nascido de–mulher?
+-- c25-v5: Eis até a–lua e–não brilha; e–as–estrelas não são–puras aos–seus–olhos.
+-- c25-v6: Quanto–mais pois o–homem é–verme; e–o–filho–de Adão é–larva. ¶
+-- c26-v1: E–respondeu Iyov e–disse:
+-- c26-v2: Como ajudaste ao–sem força! Salvaste braço sem poder!
+-- c26-v3: Como aconselhaste ao–sem sabedoria! E–verdadeira–sabedoria em–abundância fizeste–saber.
+-- c26-v4: (a) Quem declaraste palavras? E–o–fôlego–de quem saiu de–ti?
+-- c26-v5: Os–refains tremem debaixo–das águas e–seus–habitantes.
+-- c26-v6: Nu é–o–Sheol diante–dele e–não–há cobertura para–o–Abaddon.
+-- c26-v7: Estende o–norte sobre o–vazio; pendura a–terra sobre o–nada. §
+-- c26-v8: Ata águas em–suas–nuvens e–não se–rasga a–nuvem debaixo–delas.
+-- c26-v9: Encobre a–face–de seu–trono; estende sobre–ele sua–nuvem.
+-- c26-v10: Limite traçou sobre a–face–das águas até o–fim da–luz com as–trevas.
+-- c26-v11: As–colunas dos–céus estremecem e–se–espantam de–sua–repreensão.
+-- c26-v12: Com–seu–poder agitou o–mar [e–por–sua–inteligência] (e–por–sua–inteligência) feriu Raab.
+-- c26-v13: Por–seu–espírito os–céus são–formosos; formou sua–mão a–serpente fugitiva.
+-- c26-v14: Eis estes são–as–bordas [de–seu–caminho] (de–seus–caminhos) e–quão leve palavra é–ouvida dele! E–o–trovão [de–seu–poder] (de–seus–poderes) quem entenderá? §
+-- c27-v1: E–continuou Iyov a–levantar seu–discurso e–disse:
+-- c27-v2: Vive Deus que–retirou meu–juízo e–o–Shaddai que–amargurou minha–alma!
+-- c27-v3: Pois todo enquanto meu–fôlego em–mim e–o–espírito de–Deus em–meu–nariz,
+-- c27-v4: se falarem meus–lábios injustiça e–minha–língua se murmurar engano!
+-- c27-v5: Longe de–mim se vos–justificar! (a)–vós Até eu–expirar não removerei minha–integridade de–mim.
+-- c27-v6: Em–minha–justiça me–apeguei e–não a–largarei; não reprovará meu–coração de–meus–dias.
+-- c27-v7: Seja como–ímpio meu–inimigo e–o–que–se–levanta–contra–mim como–injusto.
+-- c27-v8: Pois qual é–a–esperança do–hipócrita quando cortar? Quando arrancar Deus sua–alma?
+-- c27-v9: Porventura–seu–clamor ouvirá Deus quando vier sobre–ele angústia?
+-- c27-v10: Porventura–no Shaddai se–deleitará? § Invocará Deus em–todo tempo?
+-- c27-v11: Ensinarei a–vós pela–mão–de Deus; o–que está–com o–Shaddai não esconderei.
+-- c27-v12: Eis vós todos vistes; e–por–que isto vaidade desvaneceis?
+-- c27-v13: Esta é–a–porção–do homem ímpio com Deus e–a–herança dos–tiranos do–Shaddai receberão.
+-- c27-v14: Se se–multiplicarem seus–filhos para a–espada; e–seus–descendentes não se–fartarão–de pão.
+-- c27-v15: [Seus–sobreviventes] (Seus–sobreviventes) na–morte serão–sepultados e–suas–viúvas não chorarão.
+-- c27-v16: Se amontoar como–pó prata e–como–barro preparar vestimenta,
+-- c27-v17: ele–preparará e–o–justo vestirá; e–a–prata o–inocente dividirá.
+-- c27-v18: Construiu como–traça sua–casa e–como–cabana fez o–guarda.
+-- c27-v19: Rico deitará e–não será–recolhido; seus–olhos abrirá e–não–está.
+-- c27-v20: Alcançará–o como–as–águas terrores; de–noite roubou–o tempestade.
+-- c27-v21: Levantará–o o–vento–leste e–irá e–o–varrerá de–seu–lugar.
+-- c27-v22: E–lançará sobre–ele e–não poupará; de–sua–mão fugindo fugirá.
+-- c27-v23: Baterá sobre–eles suas–mãos e–assobiará sobre–ele de–seu–lugar.
+-- c28-v1: Pois há para–a–prata uma–mina e–lugar para–o–ouro que–refinam.
+-- c28-v2: Ferro do–pó é–tirado e–pedra derrama bronze.
+-- c28-v3: Fim pôs para–as–trevas e–para–todo limite ele investiga; pedra de–escuridão e–sombra–de–morte.
+-- c28-v4: Rompeu um–poço longe–de habitante; os–esquecidos de pé; penduram, longe–de–homem balançam.
+-- c28-v5: Terra, dela sai pão e–debaixo–dela é–revolvida como fogo.
+-- c28-v6: Lugar–de safira suas–pedras e–pós de–ouro para–ele.
+-- c28-v7: Vereda não a–conhece ave–de–rapina e–não a–avistou olho de–falcão.
+-- c28-v8: Não a–pisaram filhos–de orgulho; não passou sobre–ela leão.
+-- c28-v9: No–pedernal estendeu sua–mão; revirou desde–a–raiz os–montes.
+-- c28-v10: Nas–rochas canais abriu e–toda preciosidade viu seu–olho.
+-- c28-v11: Do–prantear dos–rios represou e–o–oculto traz à–luz. ¶
+-- c28-v12: E–a–sabedoria de–onde será–achada? E–onde é–este o–lugar do–entendimento?
+-- c28-v13: Não conhece o–homem seu–valor e–não é–achada na–terra dos–viventes.
+-- c28-v14: O–abismo disse: Não em–mim está; e–o–mar disse: Não–há comigo.
+-- c28-v15: Não será–dada por–ouro–fechado em–troca–dela e–não será–pesada prata como–seu–preço.
+-- c28-v16: Não será–avaliada com–ouro–de Ofir; com–ônix precioso e–safira.
+-- c28-v17: Não a–igualará ouro e–cristal; e–sua–troca é–vaso–de ouro–fino.
+-- c28-v18: Coral e–cristal não serão–mencionados; e–o–adquirir sabedoria é–mais–que–pérolas.
+-- c28-v19: Não a–igualará o–topázio–da Etiópia; com–ouro puro não será–avaliada. ¶
+-- c28-v20: E–a–sabedoria de–onde virá? E–onde é–este o–lugar do–entendimento?
+-- c28-v21: E–está–oculta dos–olhos–de todo vivente e–das–aves dos–céus está–escondida.
+-- c28-v22: Abaddon e–morte disseram: Com–nossos–ouvidos ouvimos sua–fama.
+-- c28-v23: Deus entende seu–caminho e–ele conhece (a) seu–lugar.
+-- c28-v24: Pois ele aos–confins–da terra olha; debaixo de–todo o–céu vê.
+-- c28-v25: Ao–fazer para–o–vento peso e–as–águas regulou por–medida;
+-- c28-v26: ao–fazer para–a–chuva decreto e–caminho para–o–relâmpago de–trovões.
+-- c28-v27: Então a–viu e–a–declarou; a–estabeleceu e–também a–investigou.
+-- c28-v28: E–disse ao–homem: Eis o–temor do–Senhor, isto é–sabedoria; e–apartar-se do–mal é–entendimento. §
+-- c29-v1: E–acrescentou Iyyov levantar seu–provérbio e–disse
+-- c29-v2: Quem me–dará como–meses–de outrora como–dias–de Eloah me–guardava
+-- c29-v3: No–brilhar sua–lâmpada sobre minha–cabeça por–sua–luz andava escuridão
+-- c29-v4: Como–quando eu–estava nos–dias–de minha–maturidade no–conselho–de Eloah sobre minha–tenda
+-- c29-v5: Enquanto–ainda Shaddai comigo ao–meu–redor meus–jovens
+-- c29-v6: Quando–lavar meus–passos em–manteiga e–rocha derramava para–mim ribeiros–de azeite
+-- c29-v7: Quando–eu–saía portão sobre cidade na–praça preparava meu–assento
+-- c29-v8: Viam–me jovens e–escondiam–se e–anciãos levantavam–se ficavam–de–pé
+-- c29-v9: Príncipes continham em–palavras e–palma punham em–suas–bocas
+-- c29-v10: Voz–de nobres escondia–se e–sua–língua a–seu–paladar colava
+-- c29-v11: Pois ouvido ouvia e–me–abençoava e–olho via e–testemunhava–de–mim
+-- c29-v12: Pois eu–livrava pobre clamando e–órfão e–não–havia ajudador para–ele
+-- c29-v13: Bênção–de perecendo sobre–mim vinha e–coração–de viúva eu–fazia–cantar
+-- c29-v14: Justiça eu–vestia e–ela–me–vestia como–manto e–turbante meu–juízo
+-- c29-v15: Olhos eu–era para–o–cego e–pés para–o–manco eu
+-- c29-v16: Pai eu para–os–necessitados e–causa não conhecia eu–investigava
+-- c29-v17: E–eu–quebrava queixadas–de perverso e–de–seus–dentes eu–arrancava presa
+-- c29-v18: E–eu–dizia com meu–ninho expirarei e–como–areia multiplicarei dias
+-- c29-v19: Minha–raiz aberta para águas e–orvalho pernoitava em–meu–ramo
+-- c29-v20: Minha–glória nova comigo e–meu–arco em–minha–mão renovava
+-- c29-v21: A–mim ouviam e–esperavam e–calavam–se para meu–conselho
+-- c29-v22: Depois–de minha–palavra não repetiam e–sobre–eles gotejava minha–fala
+-- c29-v23: E–esperavam como–chuva por–mim e–sua–boca abriam para–chuva–tardia
+-- c29-v24: Eu–sorria para–eles não acreditavam e–luz–de minha–face não faziam–cair
+-- c29-v25: Eu–escolhia seu–caminho e–sentava–me cabeça e–habitava como–rei no–exército como–aquele–que enlutados consola
+-- c30-v1: E–agora riem de–mim mais–jovens do–que–eu em–dias cujos eu–rejeitava seus–pais para–pôr com cães–de meu–rebanho
+-- c30-v2: Também força–de suas–mãos para–quê para–mim sobre–eles pereceu vigor
+-- c30-v3: Em–carência e–em–fome estéreis os–que–roem terra–seca ontem desolação e–devastação
+-- c30-v4: Os–que–colhem malva junto–a arbusto e–raiz–de giestas seu–pão
+-- c30-v5: Do–meio comunidade são–expulsos gritam sobre–eles como–ladrão
+-- c30-v6: Em–ravina–de vales para–habitar buracos–de pó e–rochas
+-- c30-v7: Entre arbustos zurram debaixo–de urtiga são–ajuntados
+-- c30-v8: Filhos–de tolo também filhos–de sem nome foram–açoitados da terra
+-- c30-v9: E–agora sua–canção–de–zombaria tornei–me e–tornei–me para–eles provérbio
+-- c30-v10: Abominam–me afastam–se de–mim e–de–minha–face não retêm cuspe
+-- c30-v11: Pois [Ketiv] minha–corda soltou e–me–afligiu e–freio de–minha–face soltaram
+-- c30-v12: Sobre direita gentalha levanta–se meus–pés empurram e–pavimentam contra–mim caminhos–de sua–destruição
+-- c30-v13: Destroem minha–vereda para–minha–ruína contribuem não ajudador para–eles
+-- c30-v14: Como–brecha larga vêm debaixo–de devastação rolam–se
+-- c30-v15: Voltou–se sobre–mim terrores perseguem como–vento minha–nobreza e–como–nuvem passou minha–salvação
+-- c30-v16: E–agora sobre–mim derrama–se minha–alma apoderam–se–de–mim dias–de aflição
+-- c30-v17: Noite meus–ossos são–perfurados de–sobre–mim e–meus–que–roem não descansam
+-- c30-v18: Com–grande força disforça–se minha–veste como–gola–de minha–túnica cinge–me
+-- c30-v19: Lançou–me na–lama e–tornei–me–semelhante como–pó e–cinza
+-- c30-v20: Clamo a–ti e–não respondes–me ponho–me–de–pé e–consideras em–mim
+-- c30-v21: Transformas–te em–cruel para–mim com–poder–de tua–mão persegues–me
+-- c30-v22: Levantas–me para vento fazes–me–cavalgar e–dissolves–me [Ketiv] sabedoria
+-- c30-v23: Pois sei morte me–levarás–de–volta e–casa–de reunião para–todo vivente
+-- c30-v24: Certamente não contra–ruína estenderá mão se em–sua–destruição para–eles clamor
+-- c30-v25: Se não chorei pelo–de–duro dia entristeceu–se minha–alma pelo–necessitado
+-- c30-v26: Pois bem esperava e–veio mal e–aguardava por–luz e–veio escuridão
+-- c30-v27: Minhas–entranhas fervem e–não descansam confrontaram–me dias–de aflição
+-- c30-v28: Escurecido andei sem sol levantei–me na–assembléia clamo
+-- c30-v29: Irmão tornei–me de–chacais e–companheiro de–filhas–de avestruz
+-- c30-v30: Minha–pele enegreceu de–sobre–mim e–meu–osso queima de calor
+-- c30-v31: E–tornou–se para–lamento minha–harpa e–minha–flauta para–voz–de chorando
+-- c31-v1: Aliança fiz com–meus–olhos e–como olharia para virgem
+-- c31-v2: E–qual porção–de Eloah de–cima e–herança–de Shaddai das–alturas
+-- c31-v3: Não–é calamidade para–perverso e–estranhamento para–praticantes–de iniquidade
+-- c31-v4: Não–é ele vê meus–caminhos e–todos meus–passos conta
+-- c31-v5: Se andei com falsidade e–apressou–se para engano meu–pé
+-- c31-v6: Pese–me em–balanças–de justiça e–conheça Eloah minha–integridade
+-- c31-v7: Se desviou–se meu–passo do caminho e–após meus–olhos foi meu–coração e–em–minhas–palmas grudou mancha ¶
+-- c31-v8: Eu–semeie e–outro coma e–meus–descendentes sejam–desarraigados
+-- c31-v9: Se foi–seduzido meu–coração por mulher e–junto–a porta–de meu–próximo espreitei
+-- c31-v10: Moa para–outro minha–esposa e–sobre–ela ajoelhem–se outros
+-- c31-v11: Pois [Ketiv] ela infamidade [Ketiv] e–ele iniquidade de–juízes
+-- c31-v12: Pois fogo ela até Abaddon consome e–em–toda minha–colheita desarraigaria
+-- c31-v13: Se desprezei juízo–de meu–servo e–minha–serva em–sua–contenda comigo
+-- c31-v14: E–que farei quando levantar–se El e–quando visitar que responderei–lhe
+-- c31-v15: Não–é no–ventre meu–fazedor fez–o e–formou–nos no–útero um
+-- c31-v16: Se retive de–desejo–de pobres e–olhos–de viúva fiz–desfalecer
+-- c31-v17: E–comi meu–boca–do sozinho e–não comeu órfão dela
+-- c31-v18: Pois desde–minha–juventude criou–me como–pai e–desde–ventre–de minha–mãe guiei–a
+-- c31-v19: Se via perecendo por–falta–de roupa e–não–havia cobertura para–necessitado
+-- c31-v20: Se não abençoaram–me [Ketiv] seus–lombos e–de–lã–de minhas–ovelhas aquecia–se
+-- c31-v21: Se balancei contra órfão minha–mão pois eu–via no–portão minha–ajuda
+-- c31-v22: Meu–ombro da–omoplata caia e–meu–braço do–osso quebre–se
+-- c31-v23: Pois terror para–mim calamidade–de El e–de–sua–majestade não posso
+-- c31-v24: Se pus ouro minha–confiança e–para–ouro–fino disse minha–segurança
+-- c31-v25: Se alegrava–me porque grande minha–riqueza e–porque abundante encontrou minha–mão
+-- c31-v26: Se via luz quando brilhava e–lua preciosa andando
+-- c31-v27: E–foi–seduzido em–segredo meu–coração e–beijou minha–mão minha–boca
+-- c31-v28: Também ele iniquidade–de juízes pois teria–negado a–El de–cima
+-- c31-v29: Se alegrava–me em–destruição–de meu–odiador e–exultei quando encontrou–o mal
+-- c31-v30: E–não dei para–pecar meu–paladar para–pedir com–maldição sua–vida
+-- c31-v31: Se não disseram homens–de minha–tenda Quem dará de–sua–carne não seremos–saciados
+-- c31-v32: Fora não pernoitava estrangeiro minhas–portas para–o–viajante abria
+-- c31-v33: Se cobri como–Adão minhas–transgressões para–esconder em–meu–seio minha–iniquidade
+-- c31-v34: Pois temo multidão grande e–desprezo–de famílias aterroriza–me e–fiquei–calado não saí porta
+-- c31-v35: Quem me–dará a–mim ouvinte para–mim Eis minha–marca Shaddai responda–me e–documento escreveu homem–de minha–contenda
+-- c31-v36: Se não sobre meu–ombro levaré–lo–ia amarraré–lo–ia coroas para–mim
+-- c31-v37: Número–de meus–passos declararé–lo–ia como príncipe aproximar–me–ia–dele
+-- c31-v38: Se contra–mim minha–terra clama e–juntos seus–sulcos choram
+-- c31-v39: Se sua–força comi sem dinheiro e–alma–de seus–donos fiz–expirar
+-- c31-v40: Em–vez–de trigo saia espinho e–em–vez–de cevada erva–daninha Terminaram palavras–de Iyyov ¶
+-- c32-v1: E–cessaram três os–homens estes de–responder (a) Iyyov porque ele justo em–seus–olhos ¶
+-- c32-v2: E–acendeu–se ira–de Elihu filho–de Barakhel o–buzita da–família–de Ram contra–Iyyov acendeu–se sua–ira por justificar sua–alma mais–que–Elohim
+-- c32-v3: E–contra–três seus–amigos acendeu–se sua–ira sobre que não encontraram resposta e–condenaram (a) Iyyov
+-- c32-v4: E–Elihu esperou (a) Iyyov com–palavras porque mais–velhos eles do–que–ele em–dias
+-- c32-v5: E–viu Elihu que não–havia resposta na–boca–de três os–homens e–acendeu–se sua–ira ¶
+-- c32-v6: E–respondeu Elihu filho–de Barakhel o–buzita e–disse Jovem eu em–dias e–vós anciãos por isso encolhi–me e–temi de–declarar meu–conhecimento a–vós
+-- c32-v7: Eu–dizia dias falarão e–multidão–de anos ensinarão sabedoria
+-- c32-v8: Certamente espírito ela no–homem e–sopro–de Shaddai dá–lhes–entendimento
+-- c32-v9: Não muitos são–sábios e–anciãos entendem juízo
+-- c32-v10: Por–isso eu–digo Ouve a–mim declararei meu–conhecimento também eu
+-- c32-v11: Eis esperei por–vossas–palavras dei–ouvidos até vossos–entendimentos até investigardes palavras
+-- c32-v12: E–a–vós prestava–atenção e–eis não–há para–Iyyov refutador respondendo suas–palavras dentre–vós
+-- c32-v13: Para–que–não digais Encontramos sabedoria El rebate–o não homem
+-- c32-v14: E–não ordenou a–mim palavras e–com–vossas–palavras não responderei–lhe
+-- c32-v15: Ficaram–confusos não responderam mais afastaram deles palavras
+-- c32-v16: E–esperei porque não falam porque pararam não responderam mais
+-- c32-v17: Responderei também eu minha–parte declararei meu–conhecimento também eu
+-- c32-v18: Pois estou–cheio–de palavras constrange–me espírito–de meu–ventre
+-- c32-v19: Eis meu–ventre como–vinho não aberto como–odres novos arrebentará
+-- c32-v20: Falarei e–terei–alívio para–mim abrirei meus–lábios e–responderei
+-- c32-v21: Não por–favor levantarei face–de homem e–a humano não lisonjarei
+-- c32-v22: Pois não sei lisonjear logo levar–me–ia meu–fazedor
+-- c33-v1: E–porém Ouve por–favor Iyyov minhas–palavras e–todas minhas–falas dá–ouvidos
+-- c33-v2: Eis por–favor abri minha–boca falou minha–língua em–meu–paladar
+-- c33-v3: Retidão–de meu–coração minhas–palavras e–conhecimento meus–lábios puramente falam
+-- c33-v4: Espírito–de El fez–me e–sopro–de Shaddai vivifica–me
+-- c33-v5: Se podes responde–me prepara–te diante–de–mim coloca–te–de–pé
+-- c33-v6: Eis eu como–tua–boca para–El do–barro fui–formado também eu
+-- c33-v7: Eis meu–terror não te–aterrorizará e–minha–pressão sobre–ti não será–pesada
+-- c33-v8: Certamente disseste em–meus–ouvidos e–som–de palavras ouvi
+-- c33-v9: Puro eu sem transgressão limpo eu e–não–há iniquidade em–mim
+-- c33-v10: Eis pretextos contra–mim encontra considera–me como–inimigo para–ele
+-- c33-v11: Põe no–tronco meus–pés vigia todos meus–caminhos
+-- c33-v12: Eis isto não estás–certo respondo–te pois maior–é Eloah do–que–humano
+-- c33-v13: Por–que contra–ele contendeste pois todas suas–palavras não responde
+-- c33-v14: Pois de–uma–forma fala El e–de–duas não percebe–se
+-- c33-v15: Em–sonho visão–de noite no–cair–de sono–profundo sobre homens em–cochilos sobre cama
+-- c33-v16: Então revela ouvido–de homens e–com–sua–instrução sela
+-- c33-v17: Para–afastar homem de–obra e–soberba de–homem cobre
+-- c33-v18: Retém sua–alma da cova e–sua–vida de–passar pela–espada
+-- c33-v19: E–é–corrigido com–dor sobre sua–cama [Ketiv] e–contenda–de seus–ossos constante
+-- c33-v20: E–abomina–o sua–vida pão e–sua–alma comida–de desejo
+-- c33-v21: Consome–se sua–carne de–vista [Ketiv] e–aparecem seus–ossos não vistos
+-- c33-v22: E–aproxima–se da–cova sua–alma e–sua–vida dos–que–matam
+-- c33-v23: Se houver sobre–ele anjo mediador um de mil para–declarar ao–homem sua–retidão
+-- c33-v24: E–apieda–se–dele e–diz Livra–o de–descer à–cova encontrei resgate
+-- c33-v25: Tornará–fresca sua–carne mais–que–juventude voltará a–dias–de sua–mocidade
+-- c33-v26: Orará a Eloah e–aceitá–lo–á e–verá sua–face com–júbilo e–restaurará ao–humano sua–justiça
+-- c33-v27: Cantará sobre homens e–dirá Pequei e–reto perverti e–não valeu para–mim
+-- c33-v28: Resgatou [Ketiv] sua–alma de–passar pela–cova [Ketiv] e–sua–vida na–luz verá
+-- c33-v29: Eis todas estas–coisas faz El duas–vezes três com homem
+-- c33-v30: Para–trazer–de–volta sua–alma da cova para–iluminar–se com–luz–de os–viventes
+-- c33-v31: Presta–atenção Iyyov Ouve a–mim cala–te e–eu falarei
+-- c33-v32: Se houver palavras responde–me Fala pois desejo justificar–te
+-- c33-v33: Se não tu Ouve a–mim cala–te e–ensinar–te–ei sabedoria §
+-- c34-v1: E–respondeu Elihu e–disse
+-- c34-v2: Ouvi sábios minhas–palavras e–conhecedores dai–ouvidos a–mim
+-- c34-v3: Pois ouvido palavras prova e–paladar prova para–comer
+-- c34-v4: Juízo escolhamos para–nós conheçamos entre–nós o–que–é bom
+-- c34-v5: Pois disse Iyyov Estou–justo e–El afastou meu–juízo
+-- c34-v6: Sobre meu–juízo mentirei incurável minha–flecha sem transgressão
+-- c34-v7: Quem–é homem como–Iyyov bebe zombaria como–água
+-- c34-v8: E–caminha para–companhia com praticantes–de iniquidade e–para–andar com homens–de maldade
+-- c34-v9: Pois disse Não aproveita homem em–seu–agradar com Elohim
+-- c34-v10: Por–isso homens–de coração ouvi a–mim Longe–seja de–El de–maldade e–Shaddai de–injustiça
+-- c34-v11: Pois obra–de homem pagar–lhe–á a–ele e–conforme–caminho–de homem fará–encontrá–lo
+-- c34-v12: Também verdadeiramente El não age–perversamente e–Shaddai não perverte juízo
+-- c34-v13: Quem designou sobre–ele terra e–quem pôs mundo todo–ele
+-- c34-v14: Se pusesse para–ele seu–coração seu–espírito e–seu–sopro para–ele recolheria
+-- c34-v15: Expiraria toda carne juntamente e–homem ao pó voltaria
+-- c34-v16: E–se entendimento Ouve isto dá–ouvidos à–voz–de minhas–palavras
+-- c34-v17: Por–acaso–também odiador–de juízo governará e–se justo poderoso condenarás
+-- c34-v18: É–para–dizer a–rei Belial perverso a nobres
+-- c34-v19: Que não levanta face–de príncipes e–não é–reconhecido rico diante–de pobre pois obra–de suas–mãos todos–eles
+-- c34-v20: Num–instante morrerão e–meia noite serão–sacudidos povo e–passarão e–removerão poderoso não por–mão
+-- c34-v21: Pois seus–olhos sobre caminhos–de homem e–todos seus–passos vê
+-- c34-v22: Não–há escuridão e–não–há sombra–de–morte para–esconder–se lá praticantes–de iniquidade
+-- c34-v23: Pois não sobre homem põe mais para–ir a El em–juízo
+-- c34-v24: Despedaça poderosos sem investigação e–faz–estar–de–pé outros em–seu–lugar
+-- c34-v25: Por–isso reconhece suas–obras e–vira noite e–são–esmagados
+-- c34-v26: Debaixo–de perversos golpeou–os em–lugar–de vendo
+-- c34-v27: Que por isso desviaram–se de–trás–dele e–todos seus–caminhos não consideraram
+-- c34-v28: Para–trazer sobre–ele clamor–de pobre e–clamor–de aflitos ouve
+-- c34-v29: E–ele aquieta e–quem condenará e–esconde face e–quem perceberá–lo–á e–sobre nação e–sobre humano juntamente
+-- c34-v30: De–reinar homem profano de–armadilhas–de povo
+-- c34-v31: Pois a El é–dito Carreguei não agirei–perversamente
+-- c34-v32: Além–do–que vejo tu ensina–me se injustiça pratiquei não acrescentarei
+-- c34-v33: De–contigo pagará–a porque rejeitaste pois tu escolherás e–não eu e–o–que sabes Fala
+-- c34-v34: Homens–de coração dirão a–mim e–homem sábio ouvinte a–mim
+-- c34-v35: Iyyov não com–conhecimento fala e–suas–palavras não com–entendimento
+-- c34-v36: Meu–pai seja–provado Iyyov até fim sobre respostas por–homens–de iniquidade
+-- c34-v37: Pois acrescenta sobre seu–pecado transgressão entre–nós bate–palmas e–multiplica suas–palavras contra–El §
+-- c35-v1: E–respondeu Elihu e–disse
+-- c35-v2: Isto pensaste como–juízo disseste Minha–justiça mais–que–El
+-- c35-v3: Pois dizes O–que aproveita a–ti O–que lucro do–que–meu–pecado
+-- c35-v4: Eu responder–te–ei palavras e–a teus–amigos contigo
+-- c35-v5: Olha céus e–vê e–contempla nuvens altas do–que–tu
+-- c35-v6: Se pecaste o–que realizas nele e–multiplicaram–se tuas–transgressões o–que fazes a–ele
+-- c35-v7: Se fosses–justo o–que dás a–ele ou o–que de–tua–mão recebe
+-- c35-v8: Para–homem como–tu tua–maldade e–para–filho–de humano tua–justiça
+-- c35-v9: Da–multidão–de oprimidos clamam gritam–por–socorro do–braço–de muitos
+-- c35-v10: E–não diz Onde–está Eloah meu–fazedor dando cânticos na–noite
+-- c35-v11: Ensinando–nos mais–que–animais–de terra e–mais–que–aves–de os–céus faz–nos–sábios
+-- c35-v12: Lá clamam e–não responde por–causa–da soberba–de maus
+-- c35-v13: Certamente falsidade não ouve El e–Shaddai não percebe–a
+-- c35-v14: Quanto–mais quando dizes não o–percebês juízo diante–dele e–espera por–ele
+-- c35-v15: E–agora porque não visitou sua–ira e–não conheceu na–transgressão muito
+-- c35-v16: E–Iyyov vaidade abre sua–boca sem conhecimento palavras multiplica ¶
+-- c36-v1: E–continuou Elihu e–disse:
+-- c36-v2: Espera– por–mim um–pouco e–te–mostrarei porque ainda para–Deus palavras.
+-- c36-v3: Trarei meu–conhecimento de–longe e–ao–meu–Criador darei– justiça.
+-- c36-v4: Porque– verdadeiramente não– falsidade minhas–palavras; perfeito em–conhecimentos contigo.
+-- c36-v5: Eis– Deus poderoso e–não despreza; poderoso em–força de–coração.
+-- c36-v6: Não– deixará–viver o–ímpio e–justiça aos–aflitos dará.
+-- c36-v7: Não– retirará do–justo seus–olhos e–com– reis ao–trono e–os–assenta para–sempre e–são–exaltados.
+-- c36-v8: E–se– presos em–grilhões são–amarrados em–cordas–de– aflição.
+-- c36-v9: E–declara a–eles sua–obra e–suas–transgressões que se–fortaleceram.
+-- c36-v10: E–abre seu–ouvido à–disciplina e–diz que– se–convertam da–iniquidade.
+-- c36-v11: Se– ouvirem e–servirem completarão seus–dias em–bem e–seus–anos em–prazeres.
+-- c36-v12: E–se– não ouvirem por–espada passarão e–expirarão sem– conhecimento.
+-- c36-v13: E–hipócritas–de– coração acumulam ira; não clamarão quando os–prende.
+-- c36-v14: Morrerá na–juventude sua–alma e–sua–vida entre–os–prostitutos.
+-- c36-v15: Livrará o–aflito em–sua–aflição e–abrirá na–opressão seu–ouvido.
+-- c36-v16: E–também te–atrairia da–boca–de– angústia a–largura não– estreiteza debaixo–dela e–o–descanso de–tua–mesa cheio de–gordura.
+-- c36-v17: E–julgamento–de– ímpio encheste; julgamento e–justiça sustentarão.
+-- c36-v18: Porque– ira para–que–não– te–incite com–aplauso e–grande– resgate não– te–desvie.
+-- c36-v19: Ordenará teu–clamor não em–angústia e–todo esforço–de– força?
+-- c36-v20: Não– aneies pela–noite para–subir povos de–sob–eles.
+-- c36-v21: Guarda–te não– te–voltes para– iniquidade porque– sobre– isto escolheste antes–que–aflição.
+-- c36-v22: Eis– Deus exalta em–seu–poder; quem como–ele mestre?
+-- c36-v23: Quem– ordenou sobre–ele seu–caminho e–quem– disse: fizeste injustiça?
+-- c36-v24: Lembra que– magnificas sua–obra que cantaram os–homens.
+-- c36-v25: Todo– homem contemplou– nela; ser–humano olha de–longe.
+-- c36-v26: Eis– Deus grande e–não conhecemos; número de–seus–anos e–não– investigável.
+-- c36-v27: Porque atrai gotas–de– água destilam chuva de–seu–vapor.
+-- c36-v28: Que– derramam as–nuvens gotejam sobre– homem abundantemente.
+-- c36-v29: Também se– entenderá extensões–de– nuvem trovoadas de–sua–tenda?
+-- c36-v30: Eis– estende sobre–ele sua–luz e–as–raízes do–mar cobriu.
+-- c36-v31: Porque– por–elas julga povos dá– alimento em–abundância.
+-- c36-v32: Sobre– palmas cobre– luz e–ordena sobre–ela pelo–alvo.
+-- c36-v33: Declara sobre–ele seu–trovão o–gado também sobre– o–que–sobe.
+-- c37-v1: Também– por–isto treme meu–coração e–salta de–seu–lugar.
+-- c37-v2: Ouvi atentamente no–trovão sua–voz e–o–rugido de–sua–boca sai.
+-- c37-v3: Debaixo–de– todos– os–céus o–solta e–sua–luz sobre– os–confins da–terra.
+-- c37-v4: Depois–dele ruge– voz troveja com–voz–de– sua–majestade e–não os–retém quando– é–ouvida sua–voz.
+-- c37-v5: Troveja Deus com–sua–voz maravilhas fazendo grandes–coisas e–não conhecemos.
+-- c37-v6: Porque à–neve diz: Sê terra; e–chuva de–chuva e–chuva de–chuvas de–sua–força.
+-- c37-v7: Na–mão–de– todo– homem sela para–conhecer todos– os–homens–de– sua–obra.
+-- c37-v8: E–entra a–fera em– refúgio e–em–suas–tocas habita.
+-- c37-v9: De– o–recesso vem tempestade e–dos–ventos–dispersores frio.
+-- c37-v10: Do–sopro–de– Deus dá– gelo e–largura–de– águas em–fundição.
+-- c37-v11: Também– com–umidade carrega nuvem espalha nuvem–de– sua–luz.
+-- c37-v12: E–ela em–circuitos voltando (ketiv) por–sua–direção para–sua–obra tudo que lhes–ordena sobre– a–face–de– o–mundo à–terra.
+-- c37-v13: Se– para–vara se– para–sua–terra se– para–misericórdia o–faz–encontrar.
+-- c37-v14: Escuta isto Iyyov para; e–contempla as–maravilhas–de– Deus.
+-- c37-v15: Sabes quando–dispõe– Deus sobre–elas e–faz–resplandecer a–luz–de– sua–nuvem?
+-- c37-v16: Sabes sobre– os–equilíbrios–de– nuvem as–maravilhas–de– o–perfeito em–conhecimentos?
+-- c37-v17: Tu–cujas– vestes são–quentes quando–aquieta a–terra do–sul.
+-- c37-v18: Estendeste com–ele os–céus firmes como–espelho fundido?
+-- c37-v19: Faze–nos–saber o–que– diremos a–ele; não– podemos–ordenar por–causa–de– escuridão.
+-- c37-v20: Será–contado– a–ele que falo? Se– disser um–homem que será–engolido?
+-- c37-v21: E–agora não veem a–luz brilhante ela nos–céus; e–vento passou e–os–purificou.
+-- c37-v22: Do–norte ouro vem; sobre– Deus temível majestade.
+-- c37-v23: Shaddai não– o–encontramos grande–em– poder e–justiça e–grande– retidão não oprime.
+-- c37-v24: Portanto o–temem os–homens; não– verá todos– os–sábios–de– coração. ¶
+-- c38-v1: E–respondeu– YHWH (a) Iyyov (ketiv) (ketiv) de– a–tempestade e–disse:
+-- c38-v2: Quem é–este que–escurece conselho com–palavras sem– conhecimento?
+-- c38-v3: Cinge– agora como–homem teus–lombos e–te–perguntarei e–faze–me–saber.
+-- c38-v4: Onde estavas quando–fundei– terra? Declara se– conheces entendimento.
+-- c38-v5: Quem– pôs suas–medidas que sabes? Ou quem– estendeu sobre–ela linha?
+-- c38-v6: Sobre– que suas–bases foram–afundadas? Ou quem– lançou pedra–de– seu–canto?
+-- c38-v7: Quando–cantavam– juntas estrelas–de– manhã e–jubilavam todos– os–filhos–de– Deus.
+-- c38-v8: E–fechou com–portas o–mar quando–brotava do–ventre saiu.
+-- c38-v9: Quando–pus nuvem sua–veste e–densa–escuridão sua–faixa.
+-- c38-v10: E–decretei sobre–ele meu–limite e–pus tranca e–portas.
+-- c38-v11: E–disse: Até– aqui virás e–não prosseguirás e–aqui– colocará no–orgulho de–tuas–ondas.
+-- c38-v12: Desde–teus–dias ordenaste à–manhã (ketiv) (ketiv) fizeste–conhecer a–alvorada seu–lugar?
+-- c38-v13: Para–segurar os–confins–da– terra e–sejam–sacudidos os–ímpios dela.
+-- c38-v14: Transforma–se como–barro de–selo e–apresentam–se como veste.
+-- c38-v15: E–é–retida dos–ímpios sua–luz e–braço levantado será–quebrado.
+-- c38-v16: Entraste até– as–fontes–do– mar e–na–investigação–do– abismo andaste?
+-- c38-v17: Foram–reveladas a–ti portas–de– morte e–portas–de– sombra–de–morte verás?
+-- c38-v18: Consideraste até– as–larguras–da– terra? Declara se– conheces toda–ela.
+-- c38-v19: Onde– é–este o–caminho habita– luz? E–escuridão onde– é–este seu–lugar?
+-- c38-v20: Que a–leves ao– seu–limite e–que– entendas as–veredas–de– sua–casa.
+-- c38-v21: Sabias porque– então nascerias e–número–de– teus–dias muitos.
+-- c38-v22: Entraste nos– tesouros–de– neve? E–os–tesouros–de– granizo verás?
+-- c38-v23: Que– reservei para–tempo–de– angústia para–dia–de– batalha e–guerra.
+-- c38-v24: Onde– é–este o–caminho é–distribuída luz? Espalha vento–leste sobre– terra?
+-- c38-v25: Quem– dividiu para–o–dilúvio canal e–caminho para–o–relâmpago de–vozes?
+-- c38-v26: Para–chover sobre– terra sem– homem deserto sem– ser–humano nele.
+-- c38-v27: Para–satisfazer desolação e–ermo e–para–brotar saída de–relva.
+-- c38-v28: Há– para–a–chuva pai? Ou quem– gerou gotas–de– orvalho?
+-- c38-v29: Do–ventre–de– quem saiu o–gelo? E–geada–de– céus quem a–gerou?
+-- c38-v30: Como–pedra águas se–escondem e–a–face–do– abismo se–congela.
+-- c38-v31: Podes–amarrar os–laços–de– Plêiades? Ou– as–cordas–de– Orion podes–abrir?
+-- c38-v32: Farás–sair Mazzarot em–seu–tempo? E–Ayish sobre– seus–filhos guiarás?
+-- c38-v33: Conheces os–estatutos–de– céus? Se– colocarás seu–domínio na–terra?
+-- c38-v34: Levantarás à–nuvem tua–voz e–abundância–de– águas te–cobrirá?
+-- c38-v35: Enviarás relâmpagos e–irão e–dirão a–ti aqui–estamos?
+-- c38-v36: Quem– pôs nas–partes–internas sabedoria? Ou quem– deu ao–galo entendimento?
+-- c38-v37: Quem– contará as–nuvens em–sabedoria? E–os–odres–de– céus quem fará–deitar?
+-- c38-v38: Quando–derrama pó em–fundição e–torrões se–grudavam.
+-- c38-v39: Caçarás para–a–leoa presa? E–a–fome–de– leoncitos satisfarás?
+-- c38-v40: Quando– se–agacham nas–tocas ficam na–toca em– emboscada.
+-- c38-v41: Quem prepara para–o–corvo seu–alimento quando– (ketiv) seus–filhotes a– Deus clamam vagam sem– comida?
+-- c39-v1: Conheces tempo de–dar–à–luz as–cabras–montêses–de– rocha? O–parir–de– corvas observas?
+-- c39-v2: Contas os–meses completam? E–conheces tempo de–seu–parir?
+-- c39-v3: Ajoelham–se seus–filhotes dão–à–luz suas–dores enviam.
+-- c39-v4: Crescem seus–filhos multiplicam–se no–campo; saem e–não– voltam para–elas.
+-- c39-v5: Quem– enviou o–jumento–selvagem livre? E–as–ataduras–do– asno–selvagem quem abriu?
+-- c39-v6: Que– pus a–estepe sua–casa e–suas–moradas terra–salgada.
+-- c39-v7: Ri do–tumulto–de– cidade; gritos–de– feitor não ouve.
+-- c39-v8: Busca montes seu–pasto e–após todo– verde procura.
+-- c39-v9: Quererá o–boi–selvagem servir–te? Se– passará–a–noite junto–a– tua–manjedoura?
+-- c39-v10: Amarrarás– o–boi–selvagem no–sulco com–sua–corda? Se– gradará vales após–ti?
+-- c39-v11: Confiarás– nele porque– grande sua–força? E–deixarás a–ele teu–trabalho?
+-- c39-v12: Crerás nele que– (ketiv) devolverá tua–semente e–tua–eira recolherá?
+-- c39-v13: Asa–de– avestruzes exulta; se– pena de–cegonha e–pluma.
+-- c39-v14: Pois– abandona à–terra seus–ovos e–sobre– pó aquece.
+-- c39-v15: E–esquece que– pé os–esmagará e–fera–do– campo os–pisará.
+-- c39-v16: Trata–duramente seus–filhos como–não– dela em–vão seu–trabalho sem– temor.
+-- c39-v17: Porque– a–fez–esquecer Deus sabedoria e–não– repartiu a–ela entendimento.
+-- c39-v18: Quando no–alto se–levanta ri do–cavalo e–de–seu–cavaleiro.
+-- c39-v19: Darás ao–cavalo força? Vestirás seu–pescoço com–crina?
+-- c39-v20: Fá–lo–ás–saltar como–gafanhoto? A–glória–de– seu–relincho terror.
+-- c39-v21: Escavam no–vale e–regozija–se em–força; sai ao–encontro–de– armas.
+-- c39-v22: Ri do–medo e–não se–aterroriza e–não– volta de–diante–de– espada.
+-- c39-v23: Sobre–ele ressoa aljava lâmina–de– lança e–dardo.
+-- c39-v24: Com–impeto e–fria devora– terra e–não– crê que– som–de– trombeta.
+-- c39-v25: A–cada– trombeta diz: Ahá! E–de–longe fareja batalha trovão–de– comandantes e–grito–de–guerra.
+-- c39-v26: É–por–teu–entendimento alca–voo– falcão estende (ketiv) suas–asas para–o–sul?
+-- c39-v27: É– por– tua–ordem eleva–se águia? E–porque levanta seu–ninho?
+-- c39-v28: Rocha habita e–pernoita sobre– pico–de– rocha e–fortaleza.
+-- c39-v29: Dali busca– comida de–longe seus–olhos olham.
+-- c39-v30: (ketiv) E–seus–filhotes sorvem– sangue e–onde mortos ali ele. ¶
+-- c40-v1: E–respondeu YHWH (a) Iyyov e–disse:
+-- c40-v2: Acaso com– Shaddai contenderá? O–que–repreende a–Deus responda–lhe. ¶
+-- c40-v3: E–respondeu Iyyov (a) YHWH e–disse:
+-- c40-v4: Eis sou–insignificante; que te–responderei? Minha–mão pus sobre– minha–boca.
+-- c40-v5: Uma–vez falei e–não responderei; e–duas e–não acrescentarei. ¶
+-- c40-v6: E–respondeu– YHWH (a) Iyyov (ketiv) (ketiv) de– tempestade e–disse:
+-- c40-v7: Cinge– agora como–homem teus–lombos; te–perguntarei e–faze–me–saber.
+-- c40-v8: Acaso anularás meu–juizo? Me–condenarás para–que sejas–justificado?
+-- c40-v9: E–se– braço como–Deus para–ti? E–com–voz como–ele trovejas?
+-- c40-v10: Adorna–te agora de–majestade e–altura e–de–glória e–de–esplendor veste–te.
+-- c40-v11: Derrama as–frias–de– tua–ira e–olha todo– soberbo e–humilha–o.
+-- c40-v12: Olha todo– soberbo abate–o e–pisa os–ímpios debaixo–deles.
+-- c40-v13: Esconde–os no–pó juntos suas–faces amarra no–escondido.
+-- c40-v14: E–também– eu te–louvarei que– salva a–ti tua–destra.
+-- c40-v15: Eis– agora Beemot que– fiz contigo; erva como–o–boi come.
+-- c40-v16: Eis– agora sua–força em–seus–lombos e–seu–vigor nos–músculos–de– seu–ventre.
+-- c40-v17: Endurece sua–cauda como– cedro; tendões–de– (ketiv) suas–coxas estão–entrelaçados.
+-- c40-v18: Seus–ossos tubos–de– bronze seus–membros como–barra–de– ferro.
+-- c40-v19: Ele é–o–princípio–dos– caminhos–de– Deus; o–que–o–fez pode–aproximar sua–espada.
+-- c40-v20: Porque– produto de–montes trazem– a–ele e–toda– fera–do– campo brinca– ali.
+-- c40-v21: Debaixo–de– lótus deita no–esconderijo–de– junco e–pântano.
+-- c40-v22: Cobrem–no lótus sua–sombra cercam–no salgueiros–de– ribeiro.
+-- c40-v23: Eis oprime o–rio não se–apressa; confia que– transborde Jordão em– sua–boca.
+-- c40-v24: Por–seus–olhos o–tomará? Com–laços furará– nariz?
+-- c41-v1: Puxarás Livyatan com–anzol? E–com–corda afundarás sua–língua?
+-- c41-v2: Colocarás junco em–seu–nariz? E–com–espinho furarás sua–mandíbula?
+-- c41-v3: Multiplicará a–ti súplicas? Se– falará a–ti branduras?
+-- c41-v4: Fará aliança contigo? Tomá–lo–ás como–escravo perpetúo?
+-- c41-v5: Brincarás– com–ele como–pássaro? E–o–amarrarás para–tuas–moças?
+-- c41-v6: Negociarão sobre–ele companheiros? O–dividirão entre comerciantes?
+-- c41-v7: Encherás de–arpões sua–pele? E–com–arpão–de– peixes sua–cabeça?
+-- c41-v8: Põe– sobre–ele tua–mão; lembra a–batalha não– acrescentes.
+-- c41-v9: Eis– sua–esperança é–vã; também à– sua–aparência será–derrubado?
+-- c41-v10: Não– é–feroz que o–desperte; e–quem é diante–de–mim se–apresentará?
+-- c41-v11: Quem me–antecipou que–eu–pague? Debaixo–de– todos– os–céus meu– é.
+-- c41-v12: (ketiv) Não calarei seus–membros e–palavra–de– proezas e–graça–de– sua–estrutura.
+-- c41-v13: Quem– descobriu a–face–de– sua–veste? Com–dobra–de– seu–freio quem entrará?
+-- c41-v14: Portas–de– sua–face quem abriu? Ao–redor–de– seus–dentes terror.
+-- c41-v15: Orgulho fileiras–de– escudos fechado selo apertado.
+-- c41-v16: Um ao–outro se–aproximam e–ar não– entra entre–eles.
+-- c41-v17: Cada–um– a–seu–irmão estão–grudados se–agarram e–não se–separam.
+-- c41-v18: Seus–espirros brilham luz e–seus–olhos como–pálpebras–de– aurora.
+-- c41-v19: De–sua–boca tochas saem faíscas–de– fogo escapam.
+-- c41-v20: De–suas–narinas sai fumaça como–caldeira soprada e–junco.
+-- c41-v21: Seu–hálito brasas acende e–chama de–sua–boca sai.
+-- c41-v22: Em–seu–pescoço habita força e–diante–dele salta desespero.
+-- c41-v23: Dobras–de– sua–carne estão–unidas fundida sobre–ele não– se–move.
+-- c41-v24: Seu–coração fundido como– pedra e–fundido como–parte–de– mó–inferior.
+-- c41-v25: De–seu–levantar temem poderosos de–espanto se–purificam.
+-- c41-v26: Alcançando–o espada não se–sustenta lança dardo e–couraça.
+-- c41-v27: Considera como–palha ferro como–madeira–de– podridão bronze.
+-- c41-v28: Não– o–fará–fugir filho–de– arco; em–restolho se–transformam– para–ele pedras–de– funda.
+-- c41-v29: Como–restolho são–considerados clava e–ri do–tremor–de– dardo.
+-- c41-v30: Debaixo–dele pontas–de– caco estende trilho sobre– lama.
+-- c41-v31: Faz–ferver como–panela o–abismo; o–mar faz como–ungüento.
+-- c41-v32: Após–ele ilumina vereda; pensa–se o–abismo como–cabelos–brancos.
+-- c41-v33: Não–há– sobre– pó seu–igual; o–feito sem– medo.
+-- c41-v34: (a) todo– alto vê; ele é–rei sobre– todos– os–filhos–de– orgulho. §
+-- c42-v1: E–respondeu Iyyov (a) YHWH e–disse:
+-- c42-v2: (ketiv) Sei que– tudo podes e–não– é–impedido de–ti propósito.
+-- c42-v3: Quem é–este que–esconde conselho sem– conhecimento? Portanto declarei e–não entendia; maravilhas de–mim e–não sabia.
+-- c42-v4: Ouve– agora e–eu falarei; te–perguntarei e–faze–me–saber.
+-- c42-v5: Por–ouvir–de– orelha te–ouvi e–agora meu–olho te–vê.
+-- c42-v6: Por– isso me–rejeito e–me–arrependo sobre– pó e–cinza. ¶
+-- c42-v7: E–foi depois–de– falar YHWH (a) as–palavras estas a– Iyyov e–disse YHWH a– Elifaz o–temanita: Acendeu–se minha–ira contra–ti e–contra–dois de–teus–amigos porque não falastes de–mim corretamente como–meu–servo Iyyov.
+-- c42-v8: E–agora tomai– para–vós sete– touros e–sete carneiros e–ide a– meu–servo Iyyov e–oferecei holocausto por–vós; e–Iyyov meu–servo orará por–vós; porque se– sua–face levantarei para–não– fazer convosco loucura porque não falastes de–mim corretamente como–meu–servo Iyyov.
+-- c42-v9: E–foram Elifaz o–temanita e–Bildad o–suita Tsofar o–naamatita e–fizeram como falou a–eles YHWH; e–levantou YHWH (a) a–face–de– Iyyov.
+-- c42-v10: E–YHWH restaurou (a) (ketiv) a–fortuna–de– Iyyov quando–orou em–favor–de– seus–amigos; e–acrescentou YHWH (a) tudo– que pertencia–a–Iyyov ao–dobro.
+-- c42-v11: E–vieram a–ele todos– seus–irmãos e–todas– (ketiv) suas–irmãs e–todos– os–que–o–conheciam de–antes e–comeram com–ele pão em–sua–casa e–lamentaram por–ele e–consolaram (a)–ele sobre todo– o–mal que– trouxe YHWH sobre–ele; e–deram– a–ele cada–um uma–quesita uma e–cada–um um–anel–de– ouro um. §
+-- c42-v12: E–YHWH abençoou (a) o–fim–de– Iyyov mais–que–seu–princípio; e–teve– ele catorze mil milhares–de– ovelhas e–seis milhares–de– camelos e–mil– juntas–de– bois e–mil jumentas.
+-- c42-v13: E–teve– ele sete filhos e–três filhas.
+-- c42-v14: E–chamou nome–da– primeira Yemimah e–nome–da– segunda Qetsi'ah e–nome–da– terceira Qeren Happuk.
+-- c42-v15: E–não foram–encontradas mulheres belas como–filhas–de– Iyyov em–toda– a–terra; e–deu a–elas seu–pai herança no–meio–de– seus–irmãos. §
+-- c42-v16: E–viveu Iyyov depois–de– isto cento e–quarenta anos; (ketiv) e–viu (a) seus–filhos e–(a) os–filhos–de– seus–filhos quatro gerações.
+-- c42-v17: E–morreu Iyyov velho e–farto de–dias.
 
 BEGIN;
 -- 1800100101: אִ֛ישׁ (H0376) → "homem" [opus-4.5-chirho]

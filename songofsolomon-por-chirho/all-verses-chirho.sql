@@ -3,125 +3,125 @@
 -- — John 3:16
 
 -- SONGOFSOLOMON - POR Combined
--- Generated: 2026-01-27T21:48:07Z
+-- Generated: 2026-01-27T22:22:24Z
 
--- SONGOFSOLOMON c1-v1 - POR
--- SONGOFSOLOMON c1-v2 - POR
--- SONGOFSOLOMON c1-v3 - POR
--- SONGOFSOLOMON c1-v4 - POR
--- SONGOFSOLOMON c1-v5 - POR
--- SONGOFSOLOMON c1-v6 - POR
--- SONGOFSOLOMON c1-v7 - POR
--- SONGOFSOLOMON c1-v8 - POR
--- SONGOFSOLOMON c1-v9 - POR
--- SONGOFSOLOMON c1-v10 - POR
--- SONGOFSOLOMON c1-v11 - POR
--- SONGOFSOLOMON c1-v12 - POR
--- SONGOFSOLOMON c1-v13 - POR
--- SONGOFSOLOMON c1-v14 - POR
--- SONGOFSOLOMON c1-v15 - POR
--- SONGOFSOLOMON c1-v16 - POR
--- SONGOFSOLOMON c1-v17 - POR
--- SONGOFSOLOMON c2-v1 - POR
--- SONGOFSOLOMON c2-v2 - POR
--- SONGOFSOLOMON c2-v3 - POR
--- SONGOFSOLOMON c2-v4 - POR
--- SONGOFSOLOMON c2-v5 - POR
--- SONGOFSOLOMON c2-v6 - POR
--- SONGOFSOLOMON c2-v7 - POR
--- SONGOFSOLOMON c2-v8 - POR
--- SONGOFSOLOMON c2-v9 - POR
--- SONGOFSOLOMON c2-v10 - POR
--- SONGOFSOLOMON c2-v11 - POR
--- SONGOFSOLOMON c2-v12 - POR
--- SONGOFSOLOMON c2-v13 - POR
--- SONGOFSOLOMON c2-v14 - POR
--- SONGOFSOLOMON c2-v15 - POR
--- SONGOFSOLOMON c2-v16 - POR
--- SONGOFSOLOMON c2-v17 - POR
--- SONGOFSOLOMON c3-v1 - POR
--- SONGOFSOLOMON c3-v2 - POR
--- SONGOFSOLOMON c3-v3 - POR
--- SONGOFSOLOMON c3-v4 - POR
--- SONGOFSOLOMON c3-v5 - POR
--- SONGOFSOLOMON c3-v6 - POR
--- SONGOFSOLOMON c3-v7 - POR
--- SONGOFSOLOMON c3-v8 - POR
--- SONGOFSOLOMON c3-v9 - POR
--- SONGOFSOLOMON c3-v10 - POR
--- SONGOFSOLOMON c3-v11 - POR
--- SONGOFSOLOMON c4-v1 - POR
--- SONGOFSOLOMON c4-v2 - POR
--- SONGOFSOLOMON c4-v3 - POR
--- SONGOFSOLOMON c4-v4 - POR
--- SONGOFSOLOMON c4-v5 - POR
--- SONGOFSOLOMON c4-v6 - POR
--- SONGOFSOLOMON c4-v7 - POR
--- SONGOFSOLOMON c4-v8 - POR
--- SONGOFSOLOMON c4-v9 - POR
--- SONGOFSOLOMON c4-v10 - POR
--- SONGOFSOLOMON c4-v11 - POR
--- SONGOFSOLOMON c4-v12 - POR
--- SONGOFSOLOMON c4-v13 - POR
--- SONGOFSOLOMON c4-v14 - POR
--- SONGOFSOLOMON c4-v15 - POR
--- SONGOFSOLOMON c4-v16 - POR
--- SONGOFSOLOMON c5-v1 - POR
--- SONGOFSOLOMON c5-v2 - POR
--- SONGOFSOLOMON c5-v3 - POR
--- SONGOFSOLOMON c5-v4 - POR
--- SONGOFSOLOMON c5-v5 - POR
--- SONGOFSOLOMON c5-v6 - POR
--- SONGOFSOLOMON c5-v7 - POR
--- SONGOFSOLOMON c5-v8 - POR
--- SONGOFSOLOMON c5-v9 - POR
--- SONGOFSOLOMON c5-v10 - POR
--- SONGOFSOLOMON c5-v11 - POR
--- SONGOFSOLOMON c5-v12 - POR
--- SONGOFSOLOMON c5-v13 - POR
--- SONGOFSOLOMON c5-v14 - POR
--- SONGOFSOLOMON c5-v15 - POR
--- SONGOFSOLOMON c5-v16 - POR
--- SONGOFSOLOMON c6-v1 - POR
--- SONGOFSOLOMON c6-v2 - POR
--- SONGOFSOLOMON c6-v3 - POR
--- SONGOFSOLOMON c6-v4 - POR
--- SONGOFSOLOMON c6-v5 - POR
--- SONGOFSOLOMON c6-v6 - POR
--- SONGOFSOLOMON c6-v7 - POR
--- SONGOFSOLOMON c6-v8 - POR
--- SONGOFSOLOMON c6-v9 - POR
--- SONGOFSOLOMON c6-v10 - POR
--- SONGOFSOLOMON c6-v11 - POR
--- SONGOFSOLOMON c6-v12 - POR
--- SONGOFSOLOMON c6-v13 - POR
--- SONGOFSOLOMON c7-v1 - POR
--- SONGOFSOLOMON c7-v2 - POR
--- SONGOFSOLOMON c7-v3 - POR
--- SONGOFSOLOMON c7-v4 - POR
--- SONGOFSOLOMON c7-v5 - POR
--- SONGOFSOLOMON c7-v6 - POR
--- SONGOFSOLOMON c7-v7 - POR
--- SONGOFSOLOMON c7-v8 - POR
--- SONGOFSOLOMON c7-v9 - POR
--- SONGOFSOLOMON c7-v10 - POR
--- SONGOFSOLOMON c7-v11 - POR
--- SONGOFSOLOMON c7-v12 - POR
--- SONGOFSOLOMON c7-v13 - POR
--- SONGOFSOLOMON c8-v1 - POR
--- SONGOFSOLOMON c8-v2 - POR
--- SONGOFSOLOMON c8-v3 - POR
--- SONGOFSOLOMON c8-v4 - POR
--- SONGOFSOLOMON c8-v5 - POR
--- SONGOFSOLOMON c8-v6 - POR
--- SONGOFSOLOMON c8-v7 - POR
--- SONGOFSOLOMON c8-v8 - POR
--- SONGOFSOLOMON c8-v9 - POR
--- SONGOFSOLOMON c8-v10 - POR
--- SONGOFSOLOMON c8-v11 - POR
--- SONGOFSOLOMON c8-v12 - POR
--- SONGOFSOLOMON c8-v13 - POR
--- SONGOFSOLOMON c8-v14 - POR
+-- c1-v1: Cântico dos–cânticos que de–Shelomoh
+-- c1-v2: Que–ele–me–beije dos–beijos de–sua–boca porque bons teus–amores do–que–vinho
+-- c1-v3: Quanto–ao–cheiro de–teus–óleos bons óleo derramado teu–nome por isso virgens te–amam
+-- c1-v4: Atrai–me após–ti corramos Trouxe–me o–rei aos–seus–aposentos exultaremos e–alegrar–nos–emos em–ti lembraremos de–teus–amores mais–do–que–vinho retidões te–amam §
+-- c1-v5: Negra eu e–formosa filhas–de Yerushalayim como–as–tendas–de Qedar como–as–cortinas–de Shelomoh
+-- c1-v6: Não me–olheis porque–eu morena porque–queimou–me o–sol os–filhos–de minha–mãe irritaram–se contra–mim puseram–me guardiã (a) as–vinhas minha–vinha que–é–minha não guardei
+-- c1-v7: Diz–me a–mim que–ama minha–alma onde apascentas onde fazes–descansar ao–meio–dia por–que seria como–errante junto–a os–rebanhos–de teus–companheiros
+-- c1-v8: Se não sabes a–ti ó–bela entre–as–mulheres sai a–ti pelos–rastros–de o–rebanho e–apascenta (a) tuas–cabrinhas junto–a as–moradas–de os–pastores §
+-- c1-v9: À–minha–égua nos–carros–de Faraó comparei–te minha–amada
+-- c1-v10: Formosas tuas–faces entre–as–joias teu–pescoço entre–os–colares
+-- c1-v11: Joias–de ouro faremos a–ti com pontos–de a–prata
+-- c1-v12: Enquanto o–rei em–seu–divã meu–nardo deu seu–cheiro
+-- c1-v13: Sachê–de mirra meu–amado para–mim entre meus–seios pernoitará
+-- c1-v14: Cacho–de hena meu–amado para–mim nas–vinhas–de En Gedi §
+-- c1-v15: Eis–te bela minha–amada eis–te bela teus–olhos pombas
+-- c1-v16: Eis–te belo meu–amado também amável também nosso–leito verdejante
+-- c1-v17: Vigas–de nossas–casas cedros [nosso–revestimento] (nosso–revestimento) ciprestes
+-- c2-v1: Eu a–rosa do–Sharon o–lírio dos–vales
+-- c2-v2: Como–um–lírio entre os–espinhos assim minha–amada entre as–filhas
+-- c2-v3: Como–uma–maçã entre–as–árvores–de o–bosque assim meu–amado entre os–filhos À–sua–sombra deleitei–me e–sentei–me e–seu–fruto doce ao–meu–paladar
+-- c2-v4: Trouxe–me a casa–de o–vinho e–sua–bandeira sobre–mim amor
+-- c2-v5: Sustentai–me com–bolos–de–passas confortai–me com–maçãs porque enferma–de amor eu
+-- c2-v6: Sua–mão–esquerda debaixo–de minha–cabeça e–sua–mão–direita me–abraça
+-- c2-v7: Conjuro–vos a–vós filhas–de Yerushalayim pelas–gazelas ou pelas–cervas–de o–campo se desperteis ou–se acordeis (a) o–amor até–que queira §
+-- c2-v8: Voz–de meu–amado eis este vem saltando sobre os–montes pulando sobre as–colinas
+-- c2-v9: Semelhante meu–amado a–uma–gazela ou a–um–filhote–de os–cervos eis este de–pé atrás–de nossa–parede espreitando de as–janelas olhando de as–frestas
+-- c2-v10: Respondeu meu–amado e–disse a–mim levanta–te a–ti minha–amada minha–bela e–vai a–ti
+-- c2-v11: Porque eis [o–inverno] (o–inverno) passou a–chuva cessou foi embora
+-- c2-v12: As–flores apareceram na–terra tempo–de o–cantar chegou e–a–voz–de a–rola ouviu–se em–nossa–terra
+-- c2-v13: A–figueira amadureceu seus–figos–verdes e–as–videiras em–flor deram cheiro levanta–te [vai] (a–ti) minha–amada minha–bela e–vai a–ti §
+-- c2-v14: Minha–pomba nas–fendas–de a–rocha no–esconderijo–de a–escada mostra–me (a) tua–aparência faze–me–ouvir (a) tua–voz porque tua–voz doce e–tua–aparência formosa §
+-- c2-v15: Apanhai para–nós raposas raposas pequenas que–destroçam vinhas e–nossas–vinhas em–flor
+-- c2-v16: Meu–amado para–mim e–eu para–ele o–que–apascenta entre–os–lírios
+-- c2-v17: Até–que sopre o–dia e–fujam as–sombras volta sê–semelhante a–ti meu–amado a–uma–gazela ou a–um–filhote–de os–cervos sobre os–montes–de Beter §
+-- c3-v1: Sobre minha–cama nas–noites busquei (a) que–ama minha–alma busquei–o e–não encontrei–o
+-- c3-v2: Levantarei–me por–favor e–rodearei pela–cidade pelas–ruas e–pelas–praças buscarei (a) que–ama minha–alma busquei–o e–não encontrei–o
+-- c3-v3: Encontraram–me os–guardas os–que–rodeiam pela–cidade (a) que–ama minha–alma vistes
+-- c3-v4: Mal tinha–passado deles até–que encontrei (a) que–ama minha–alma agarrei–o e–não soltarei–o até–que o–trouxesse a casa–de minha–mãe e–a câmara–de a–que–me–concebeu
+-- c3-v5: Conjuro–vos a–vós filhas–de Yerushalayim pelas–gazelas ou pelas–cervas–de o–campo se desperteis ou–se acordeis (a) o–amor até–que queira §
+-- c3-v6: Quem é–esta subindo de o–deserto como–colunas–de fumaça perfumada–de mirra e–incenso de–todo pó–de mercador
+-- c3-v7: Eis seu–leito que–é–de–Shelomoh sessenta guerreiros ao–redor–de ele dos–guerreiros–de Yisra’el
+-- c3-v8: Todos–eles segurando espada treinados–na guerra cada–um sua–espada sobre sua–coxa por–causa–do–medo–de nas–noites §
+-- c3-v9: Palanquim fez para–si o–rei Shelomoh das–madeiras–de o–Líbano
+-- c3-v10: Suas–colunas fez prata seu–reclinário ouro seu–assento púrpura seu–interior pavimentado–de amor pelas–filhas–de Yerushalayim
+-- c3-v11: Saí e–vede filhas–de Tsiyon no–rei Shelomoh com–a–coroa que–coroou a–ele sua–mãe no–dia–de seu–casamento e–no–dia–de alegria–de seu–coração §
+-- c4-v1: Eis–te bela minha–amada eis–te bela teus–olhos pombas por–detrás–de teu–véu teu–cabelo como–um–rebanho–de as–cabras que–descem do–monte Gil’ad
+-- c4-v2: Teus–dentes como–um–rebanho–de as–tosquiadas que–sobem de o–lavadouro que–todas–elas gêmeas e–estéril não entre–elas
+-- c4-v3: Como–um–fio–de o–escarlate teus–lábios e–tua–boca formosa como–uma–fatia–de a–romã tua–têmpora por–detrás–de teu–véu
+-- c4-v4: Como–a–torre–de David teu–pescoço construída para–armaria mil o–escudo pendurado sobre–ela todos escudos–de os–guerreiros
+-- c4-v5: Dois teus–seios como–dois filhotes gêmeos–de gazela os–que–pastam entre–os–lírios
+-- c4-v6: Até–que sopre o–dia e–fujam as–sombras irei para–mim ao monte–de a–mirra e–ao outeiro–de o–incenso
+-- c4-v7: Toda–tu bela minha–amada e–defeito não em–ti §
+-- c4-v8: Comigo do–Líbano noiva comigo do–Líbano virás olharás do–topo–de Amana do–topo–de Senir e–Hermon dos–covis–de leões dos–montes–de leopardos
+-- c4-v9: Roubaste–meu–coração minha–irmã noiva roubaste–meu–coração [com–um] (com–um) de–teus–olhos com–um colar de–teu–pescoço
+-- c4-v10: Quão belos teus–amores minha–irmã noiva quão bons teus–amores mais–do–que–vinho e–o–cheiro–de teus–óleos mais–do–que–todos os–perfumes
+-- c4-v11: Favo gotejam teus–lábios noiva mel e–leite debaixo–de tua–língua e–o–cheiro–de tuas–vestes como–o–cheiro–de o–Líbano §
+-- c4-v12: Jardim fechado minha–irmã noiva fonte fechada manâncial selado
+-- c4-v13: Teus–renovo pomar–de romãs com frutos preciosos henas com nardos
+-- c4-v14: Nardo e–açafrão cálamo e–canela com todas árvores–de incenso mirra e–aloés com todos principais–de perfumes
+-- c4-v15: Fonte–de jardins poço–de águas vivas e–correntes de o–Líbano
+-- c4-v16: Desperta ó–norte e–vem ó–sul sopra–sobre meu–jardim que–fluam seus–perfumes venha meu–amado ao–seu–jardim e–coma fruto–de suas–delícias
+-- c5-v1: Vim ao–meu–jardim minha–irmã noiva colhi minha–mirra com meu–perfume comi meu–favo com meu–mel bebi meu–vinho com meu–leite comei amigos bebei e–embriagai–vos amados §
+-- c5-v2: Eu dormindo e–meu–coração acordado voz–de meu–amado batendo abre a–mim minha–irmã minha–amada minha–pomba minha–perfeita porque–minha–cabeça encheu–se de–orvalho meus–cachos de–gotas–de a–noite
+-- c5-v3: Despi (a) minha–túnica como a–vestirei lavei (a) meus–pés como os–sujarei
+-- c5-v4: Meu–amado estendeu sua–mão de o–buraco e–minhas–entranhas estremeceram por–ele
+-- c5-v5: Levantei–me eu para–abrir ao–meu–amado e–minhas–mãos gotejaram mirra e–meus–dedos mirra líquida sobre as–alças–de a–fechadura
+-- c5-v6: Abri eu ao–meu–amado e–meu–amado tinha–retirado passado minha–alma saiu ao–seu–falar busquei–o e–não encontrei–o chamei–o e–não me–respondeu
+-- c5-v7: Encontraram–me os–guardas os–que–rodeiam pela–cidade feriram–me machucaram–me levaram (a) meu–manto de–sobre–mim os–guardas–de as–muralhas
+-- c5-v8: Conjuro–vos a–vós filhas–de Yerushalayim se encontrardes (a) meu–amado que direis a–ele que–enferma–de amor eu
+-- c5-v9: Que–é teu–amado mais–do–que–outro–amado ó–bela entre–as–mulheres que–é teu–amado mais–do–que–outro–amado que–assim nos–conjuraste
+-- c5-v10: Meu–amado resplandecente e–vermelho notável entre–dez–mil
+-- c5-v11: Sua–cabeça ouro puro seus–cachos ondulados negros como–o–corvo
+-- c5-v12: Seus–olhos como–pombas junto–a os–ribeiros–de águas lavados em–leite assentados junto–a plenitude
+-- c5-v13: Suas–faces como–canteiro–de o–perfume torres–de aromas seus–lábios lírios gotejando mirra líquida
+-- c5-v14: Suas–mãos anéis–de ouro engastados–de crisolita seu–ventre obra–de marfim coberta–de safiras
+-- c5-v15: Suas–pernas colunas–de mármore fundadas sobre bases–de ouro–puro sua–aparência como–o–Líbano eleito como–os–cedros
+-- c5-v16: Seu–paladar doçuras e–todo–ele desejável Este meu–amado e–este meu–amigo filhas–de Yerushalayim
+-- c6-v1: Para–onde foi teu–amado ó–bela entre–as–mulheres para–onde virou–se teu–amado e–buscaremo–lo contigo
+-- c6-v2: Meu–amado desceu ao–seu–jardim aos–canteiros–de o–perfume para–pastorear nos–jardins e–para–colher lírios
+-- c6-v3: Eu do–meu–amado e–meu–amado para–mim o–que–apascenta entre–os–lírios §
+-- c6-v4: Bela tu minha–amada como–Tirtsa formosa como–Yerushalayim imponente como–exércitos–com–bandeiras
+-- c6-v5: Desvia teus–olhos de–diante–de–mim porque–eles me–perturbam teu–cabelo como–um–rebanho–de as–cabras que–descem de o–Gil’ad
+-- c6-v6: Teus–dentes como–um–rebanho–de as–ovelhas que–sobem de o–lavadouro que–todas–elas gêmeas e–estéril não entre–elas
+-- c6-v7: Como–uma–fatia–de a–romã tua–têmpora por–detrás–de teu–véu
+-- c6-v8: Sessenta são rainhas e–oitenta concubinas e–virgens sem número
+-- c6-v9: Única ela minha–pomba minha–perfeita única ela para–sua–mãe pura ela para–a–que–a–gerou viram–na filhas e–chamaram–na–feliz rainhas e–concubinas e–louvaram–na §
+-- c6-v10: Quem é–esta que–aparece como a–aurora bela como–a–lua pura como–o–sol imponente como–exércitos–com–bandeiras §
+-- c6-v11: Ao jardim–de nozes desci para–ver os–brotos–de o–vale para–ver se–brotou a–videira se–floresceram as–romãs
+-- c6-v12: Não sabia minha–alma pôs–me carros–de meu–povo nobre
+-- c6-v13: Volta volta ó–Shulamita volta volta e–contemplaremos em–ti Que contemplareis na–Shulamita como–a–dança–de Mahanaim
+-- c7-v1: Quão belos teus–pés nas–sandálias filha–de príncipe as–curvas–de tuas–coxas como jóias obra–de mãos–de artífice
+-- c7-v2: Teu–umbigo taça redonda não falte o–vinho–misturado teu–ventre monte–de trigo cercado–de lírios
+-- c7-v3: Dois teus–seios como–dois filhotes gêmeos–de gazela
+-- c7-v4: Teu–pescoço como–a–torre–de o–marfim teus–olhos piscinas em–Heshbon junto–ao portão–de Bat–Rabim teu–nariz como–a–torre–de o–Líbano que–vigia a–face–de Dammesheq
+-- c7-v5: Tua–cabeça sobre–ti como–o–Carmelo e–a–tranca–de tua–cabeça como–a–púrpura um–rei preso nas–galerias
+-- c7-v6: Quão formosa e–quão agradável ó–amor nas–delícias
+-- c7-v7: Esta tua–estatura semelhante–a palmeira e–teus–seios a–cachos
+-- c7-v8: Disse subirei na–palmeira agarrarei em–seus–ramos e–sejam por–favor teus–seios como–cachos–de a–videira e–o–cheiro–de teu–nariz como–maçãs
+-- c7-v9: E–teu–paladar como–vinho o–bom que–corre para–meu–amado suavemente fazendo–falar lábios–de os–que–dormem
+-- c7-v10: Eu do–meu–amado e–para–mim seu–desejo §
+-- c7-v11: Vem meu–amado saiamos ao–campo passemos–a–noite nas–aldeias
+-- c7-v12: Levantemo–nos–cedo às–vinhas vejamos se brotou a–videira abriu a–flor se–floresceram as–romãs ali darei (a) meus–amores a–ti
+-- c7-v13: As–mandrágoras deram cheiro e–sobre nossas–portas todas delícias novas também velhas meu–amado guardei para–ti
+-- c8-v1: Quem te–dera como–irmão para–mim que–mamou os–seios–de minha–mãe encontrando–te na–rua beijaria–te também não desprezariam a–mim
+-- c8-v2: Guiaria–te traria–te a casa–de minha–mãe tu–me–ensinarias daria–te–a–beber de–vinho o–aromatizado do–suco–de minha–romã
+-- c8-v3: Sua–mão–esquerda debaixo–de minha–cabeça e–sua–mão–direita me–abraça
+-- c8-v4: Conjuro–vos a–vós filhas–de Yerushalayim por–que despertareis ou–por–que acordareis (a) o–amor até–que queira §
+-- c8-v5: Quem é–esta subindo de o–deserto apoiando–se sobre seu–amado Debaixo–de a–maçã despertei–te ali teve–dores–de–parto–de–ti tua–mãe ali teve–dores–de–parto a–que–te–gerou
+-- c8-v6: Põe–me como–selo sobre teu–coração como–selo sobre teu–braço porque forte como–a–morte o–amor duro como–o–Sheol o–ciúme suas–chamas chamas–de fogo labareda–de–Yah
+-- c8-v7: Águas muitas não podem apagar (a) o–amor e–rios não o–inundarão se desse um–homem (a) toda riqueza–de sua–casa pelo–amor desprezo desprezariam a–ele §
+-- c8-v8: Irmã para–nós pequena e–seios não para–ela que faremos para–nossa–irmã no–dia–que se–falar nela
+-- c8-v9: Se muro ela construiremos sobre–ela ameias–de prata e–se porta ela cercaremos sobre–ela tábua–de cedro
+-- c8-v10: Eu muro e–meus–seios como–as–torres então fui a–seus–olhos como–a–que–encontrou paz ¶
+-- c8-v11: Vinha teve Shelomoh em–Ba’al–Hamon deu (a) a–vinha aos–guardas cada–um traria por–seu–fruto mil de–prata
+-- c8-v12: Minha–vinha que–é–minha diante–de–mim os–mil para–ti Shelomoh e–duzentos aos–guardas–de (a) seu–fruto
+-- c8-v13: Ó–que–habitas nos–jardins companheiros atentos à–tua–voz faze–me–ouvir
+-- c8-v14: Foge meu–amado e–sê–semelhante a–ti a–uma–gazela ou a–um–filhote–de os–cervos sobre os–montes–de perfumes
 
 BEGIN;
 -- 2200100101: שִׁ֥יר (H7892a) → "Cântico" [opus-4.5-chirho]

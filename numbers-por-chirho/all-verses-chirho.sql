@@ -3,1296 +3,1296 @@
 -- — John 3:16
 
 -- NUMBERS - POR Combined
--- Generated: 2026-01-27T21:47:43Z
+-- Generated: 2026-01-27T22:21:42Z
 
--- NUMBERS c1-v1 - POR
--- NUMBERS c1-v2 - POR
--- NUMBERS c1-v3 - POR
--- NUMBERS c1-v4 - POR
--- NUMBERS c1-v5 - POR
--- NUMBERS c1-v6 - POR
--- NUMBERS c1-v7 - POR
--- NUMBERS c1-v8 - POR
--- NUMBERS c1-v9 - POR
--- NUMBERS c1-v10 - POR
--- NUMBERS c1-v11 - POR
--- NUMBERS c1-v12 - POR
--- NUMBERS c1-v13 - POR
--- NUMBERS c1-v14 - POR
--- NUMBERS c1-v15 - POR
--- NUMBERS c1-v16 - POR
--- NUMBERS c1-v17 - POR
--- NUMBERS c1-v18 - POR
--- NUMBERS c1-v19 - POR
--- NUMBERS c1-v20 - POR
--- NUMBERS c1-v21 - POR
--- NUMBERS c1-v22 - POR
--- NUMBERS c1-v23 - POR
--- NUMBERS c1-v24 - POR
--- NUMBERS c1-v25 - POR
--- NUMBERS c1-v26 - POR
--- NUMBERS c1-v27 - POR
--- NUMBERS c1-v28 - POR
--- NUMBERS c1-v29 - POR
--- NUMBERS c1-v30 - POR
--- NUMBERS c1-v31 - POR
--- NUMBERS c1-v32 - POR
--- NUMBERS c1-v33 - POR
--- NUMBERS c1-v34 - POR
--- NUMBERS c1-v35 - POR
--- NUMBERS c1-v36 - POR
--- NUMBERS c1-v37 - POR
--- NUMBERS c1-v38 - POR
--- NUMBERS c1-v39 - POR
--- NUMBERS c1-v40 - POR
--- NUMBERS c1-v41 - POR
--- NUMBERS c1-v42 - POR
--- NUMBERS c1-v43 - POR
--- NUMBERS c1-v44 - POR
--- NUMBERS c1-v45 - POR
--- NUMBERS c1-v46 - POR
--- NUMBERS c1-v47 - POR
--- NUMBERS c1-v48 - POR
--- NUMBERS c1-v49 - POR
--- NUMBERS c1-v50 - POR
--- NUMBERS c1-v51 - POR
--- NUMBERS c1-v52 - POR
--- NUMBERS c1-v53 - POR
--- NUMBERS c1-v54 - POR
--- NUMBERS c2-v1 - POR
--- NUMBERS c2-v2 - POR
--- NUMBERS c2-v3 - POR
--- NUMBERS c2-v4 - POR
--- NUMBERS c2-v5 - POR
--- NUMBERS c2-v6 - POR
--- NUMBERS c2-v7 - POR
--- NUMBERS c2-v8 - POR
--- NUMBERS c2-v9 - POR
--- NUMBERS c2-v10 - POR
--- NUMBERS c2-v11 - POR
--- NUMBERS c2-v12 - POR
--- NUMBERS c2-v13 - POR
--- NUMBERS c2-v14 - POR
--- NUMBERS c2-v15 - POR
--- NUMBERS c2-v16 - POR
--- NUMBERS c2-v17 - POR
--- NUMBERS c2-v18 - POR
--- NUMBERS c2-v19 - POR
--- NUMBERS c2-v20 - POR
--- NUMBERS c2-v21 - POR
--- NUMBERS c2-v22 - POR
--- NUMBERS c2-v23 - POR
--- NUMBERS c2-v24 - POR
--- NUMBERS c2-v25 - POR
--- NUMBERS c2-v26 - POR
--- NUMBERS c2-v27 - POR
--- NUMBERS c2-v28 - POR
--- NUMBERS c2-v29 - POR
--- NUMBERS c2-v30 - POR
--- NUMBERS c2-v31 - POR
--- NUMBERS c2-v32 - POR
--- NUMBERS c2-v33 - POR
--- NUMBERS c2-v34 - POR
--- NUMBERS c3-v1 - POR
--- NUMBERS c3-v2 - POR
--- NUMBERS c3-v3 - POR
--- NUMBERS c3-v4 - POR
--- NUMBERS c3-v5 - POR
--- NUMBERS c3-v6 - POR
--- NUMBERS c3-v7 - POR
--- NUMBERS c3-v8 - POR
--- NUMBERS c3-v9 - POR
--- NUMBERS c3-v10 - POR
--- NUMBERS c3-v11 - POR
--- NUMBERS c3-v12 - POR
--- NUMBERS c3-v13 - POR
--- NUMBERS c3-v14 - POR
--- NUMBERS c3-v15 - POR
--- NUMBERS c3-v16 - POR
--- NUMBERS c3-v17 - POR
--- NUMBERS c3-v18 - POR
--- NUMBERS c3-v19 - POR
--- NUMBERS c3-v20 - POR
--- NUMBERS c3-v21 - POR
--- NUMBERS c3-v22 - POR
--- NUMBERS c3-v23 - POR
--- NUMBERS c3-v24 - POR
--- NUMBERS c3-v25 - POR
--- NUMBERS c3-v26 - POR
--- NUMBERS c3-v27 - POR
--- NUMBERS c3-v28 - POR
--- NUMBERS c3-v29 - POR
--- NUMBERS c3-v30 - POR
--- NUMBERS c3-v31 - POR
--- NUMBERS c3-v32 - POR
--- NUMBERS c3-v33 - POR
--- NUMBERS c3-v34 - POR
--- NUMBERS c3-v35 - POR
--- NUMBERS c3-v36 - POR
--- NUMBERS c3-v37 - POR
--- NUMBERS c3-v38 - POR
--- NUMBERS c3-v39 - POR
--- NUMBERS c3-v40 - POR
--- NUMBERS c3-v41 - POR
--- NUMBERS c3-v42 - POR
--- NUMBERS c3-v43 - POR
--- NUMBERS c3-v44 - POR
--- NUMBERS c3-v45 - POR
--- NUMBERS c3-v46 - POR
--- NUMBERS c3-v47 - POR
--- NUMBERS c3-v48 - POR
--- NUMBERS c3-v49 - POR
--- NUMBERS c3-v50 - POR
--- NUMBERS c3-v51 - POR
--- NUMBERS c4-v1 - POR
--- NUMBERS c4-v2 - POR
--- NUMBERS c4-v3 - POR
--- NUMBERS c4-v4 - POR
--- NUMBERS c4-v5 - POR
--- NUMBERS c4-v6 - POR
--- NUMBERS c4-v7 - POR
--- NUMBERS c4-v8 - POR
--- NUMBERS c4-v9 - POR
--- NUMBERS c4-v10 - POR
--- NUMBERS c4-v11 - POR
--- NUMBERS c4-v12 - POR
--- NUMBERS c4-v13 - POR
--- NUMBERS c4-v14 - POR
--- NUMBERS c4-v15 - POR
--- NUMBERS c4-v16 - POR
--- NUMBERS c4-v17 - POR
--- NUMBERS c4-v18 - POR
--- NUMBERS c4-v19 - POR
--- NUMBERS c4-v20 - POR
--- NUMBERS c4-v21 - POR
--- NUMBERS c4-v22 - POR
--- NUMBERS c4-v23 - POR
--- NUMBERS c4-v24 - POR
--- NUMBERS c4-v25 - POR
--- NUMBERS c4-v26 - POR
--- NUMBERS c4-v27 - POR
--- NUMBERS c4-v28 - POR
--- NUMBERS c4-v29 - POR
--- NUMBERS c4-v30 - POR
--- NUMBERS c4-v31 - POR
--- NUMBERS c4-v32 - POR
--- NUMBERS c4-v33 - POR
--- NUMBERS c4-v34 - POR
--- NUMBERS c4-v35 - POR
--- NUMBERS c4-v36 - POR
--- NUMBERS c4-v37 - POR
--- NUMBERS c4-v38 - POR
--- NUMBERS c4-v39 - POR
--- NUMBERS c4-v40 - POR
--- NUMBERS c4-v41 - POR
--- NUMBERS c4-v42 - POR
--- NUMBERS c4-v43 - POR
--- NUMBERS c4-v44 - POR
--- NUMBERS c4-v45 - POR
--- NUMBERS c4-v46 - POR
--- NUMBERS c4-v47 - POR
--- NUMBERS c4-v48 - POR
--- NUMBERS c4-v49 - POR
--- NUMBERS c5-v1 - POR
--- NUMBERS c5-v2 - POR
--- NUMBERS c5-v3 - POR
--- NUMBERS c5-v4 - POR
--- NUMBERS c5-v5 - POR
--- NUMBERS c5-v6 - POR
--- NUMBERS c5-v7 - POR
--- NUMBERS c5-v8 - POR
--- NUMBERS c5-v9 - POR
--- NUMBERS c5-v10 - POR
--- NUMBERS c5-v11 - POR
--- NUMBERS c5-v12 - POR
--- NUMBERS c5-v13 - POR
--- NUMBERS c5-v14 - POR
--- NUMBERS c5-v15 - POR
--- NUMBERS c5-v16 - POR
--- NUMBERS c5-v17 - POR
--- NUMBERS c5-v18 - POR
--- NUMBERS c5-v19 - POR
--- NUMBERS c5-v20 - POR
--- NUMBERS c5-v21 - POR
--- NUMBERS c5-v22 - POR
--- NUMBERS c5-v23 - POR
--- NUMBERS c5-v24 - POR
--- NUMBERS c5-v25 - POR
--- NUMBERS c5-v26 - POR
--- NUMBERS c5-v27 - POR
--- NUMBERS c5-v28 - POR
--- NUMBERS c5-v29 - POR
--- NUMBERS c5-v30 - POR
--- NUMBERS c5-v31 - POR
--- NUMBERS c6-v1 - POR
--- NUMBERS c6-v2 - POR
--- NUMBERS c6-v3 - POR
--- NUMBERS c6-v4 - POR
--- NUMBERS c6-v5 - POR
--- NUMBERS c6-v6 - POR
--- NUMBERS c6-v7 - POR
--- NUMBERS c6-v8 - POR
--- NUMBERS c6-v9 - POR
--- NUMBERS c6-v10 - POR
--- NUMBERS c6-v11 - POR
--- NUMBERS c6-v12 - POR
--- NUMBERS c6-v13 - POR
--- NUMBERS c6-v14 - POR
--- NUMBERS c6-v15 - POR
--- NUMBERS c6-v16 - POR
--- NUMBERS c6-v17 - POR
--- NUMBERS c6-v18 - POR
--- NUMBERS c6-v19 - POR
--- NUMBERS c6-v20 - POR
--- NUMBERS c6-v21 - POR
--- NUMBERS c6-v22 - POR
--- NUMBERS c6-v23 - POR
--- NUMBERS c6-v24 - POR
--- NUMBERS c6-v25 - POR
--- NUMBERS c6-v26 - POR
--- NUMBERS c6-v27 - POR
--- NUMBERS c7-v1 - POR
--- NUMBERS c7-v2 - POR
--- NUMBERS c7-v3 - POR
--- NUMBERS c7-v4 - POR
--- NUMBERS c7-v5 - POR
--- NUMBERS c7-v6 - POR
--- NUMBERS c7-v7 - POR
--- NUMBERS c7-v8 - POR
--- NUMBERS c7-v9 - POR
--- NUMBERS c7-v10 - POR
--- NUMBERS c7-v11 - POR
--- NUMBERS c7-v12 - POR
--- NUMBERS c7-v13 - POR
--- NUMBERS c7-v14 - POR
--- NUMBERS c7-v15 - POR
--- NUMBERS c7-v16 - POR
--- NUMBERS c7-v17 - POR
--- NUMBERS c7-v18 - POR
--- NUMBERS c7-v19 - POR
--- NUMBERS c7-v20 - POR
--- NUMBERS c7-v21 - POR
--- NUMBERS c7-v22 - POR
--- NUMBERS c7-v23 - POR
--- NUMBERS c7-v24 - POR
--- NUMBERS c7-v25 - POR
--- NUMBERS c7-v26 - POR
--- NUMBERS c7-v27 - POR
--- NUMBERS c7-v28 - POR
--- NUMBERS c7-v29 - POR
--- NUMBERS c7-v30 - POR
--- NUMBERS c7-v31 - POR
--- NUMBERS c7-v32 - POR
--- NUMBERS c7-v33 - POR
--- NUMBERS c7-v34 - POR
--- NUMBERS c7-v35 - POR
--- NUMBERS c7-v36 - POR
--- NUMBERS c7-v37 - POR
--- NUMBERS c7-v38 - POR
--- NUMBERS c7-v39 - POR
--- NUMBERS c7-v40 - POR
--- NUMBERS c7-v41 - POR
--- NUMBERS c7-v42 - POR
--- NUMBERS c7-v43 - POR
--- NUMBERS c7-v44 - POR
--- NUMBERS c7-v45 - POR
--- NUMBERS c7-v46 - POR
--- NUMBERS c7-v47 - POR
--- NUMBERS c7-v48 - POR
--- NUMBERS c7-v49 - POR
--- NUMBERS c7-v50 - POR
--- NUMBERS c7-v51 - POR
--- NUMBERS c7-v52 - POR
--- NUMBERS c7-v53 - POR
--- NUMBERS c7-v54 - POR
--- NUMBERS c7-v55 - POR
--- NUMBERS c7-v56 - POR
--- NUMBERS c7-v57 - POR
--- NUMBERS c7-v58 - POR
--- NUMBERS c7-v59 - POR
--- NUMBERS c7-v60 - POR
--- NUMBERS c7-v61 - POR
--- NUMBERS c7-v62 - POR
--- NUMBERS c7-v63 - POR
--- NUMBERS c7-v64 - POR
--- NUMBERS c7-v65 - POR
--- NUMBERS c7-v66 - POR
--- NUMBERS c7-v67 - POR
--- NUMBERS c7-v68 - POR
--- NUMBERS c7-v69 - POR
--- NUMBERS c7-v70 - POR
--- NUMBERS c7-v71 - POR
--- NUMBERS c7-v72 - POR
--- NUMBERS c7-v73 - POR
--- NUMBERS c7-v74 - POR
--- NUMBERS c7-v75 - POR
--- NUMBERS c7-v76 - POR
--- NUMBERS c7-v77 - POR
--- NUMBERS c7-v78 - POR
--- NUMBERS c7-v79 - POR
--- NUMBERS c7-v80 - POR
--- NUMBERS c7-v81 - POR
--- NUMBERS c7-v82 - POR
--- NUMBERS c7-v83 - POR
--- NUMBERS c7-v84 - POR
--- NUMBERS c7-v85 - POR
--- NUMBERS c7-v86 - POR
--- NUMBERS c7-v87 - POR
--- NUMBERS c7-v88 - POR
--- NUMBERS c7-v89 - POR
--- NUMBERS c8-v1 - POR
--- NUMBERS c8-v2 - POR
--- NUMBERS c8-v3 - POR
--- NUMBERS c8-v4 - POR
--- NUMBERS c8-v5 - POR
--- NUMBERS c8-v6 - POR
--- NUMBERS c8-v7 - POR
--- NUMBERS c8-v8 - POR
--- NUMBERS c8-v9 - POR
--- NUMBERS c8-v10 - POR
--- NUMBERS c8-v11 - POR
--- NUMBERS c8-v12 - POR
--- NUMBERS c8-v13 - POR
--- NUMBERS c8-v14 - POR
--- NUMBERS c8-v15 - POR
--- NUMBERS c8-v16 - POR
--- NUMBERS c8-v17 - POR
--- NUMBERS c8-v18 - POR
--- NUMBERS c8-v19 - POR
--- NUMBERS c8-v20 - POR
--- NUMBERS c8-v21 - POR
--- NUMBERS c8-v22 - POR
--- NUMBERS c8-v23 - POR
--- NUMBERS c8-v24 - POR
--- NUMBERS c8-v25 - POR
--- NUMBERS c8-v26 - POR
--- NUMBERS c9-v1 - POR
--- NUMBERS c9-v2 - POR
--- NUMBERS c9-v3 - POR
--- NUMBERS c9-v4 - POR
--- NUMBERS c9-v5 - POR
--- NUMBERS c9-v6 - POR
--- NUMBERS c9-v7 - POR
--- NUMBERS c9-v8 - POR
--- NUMBERS c9-v9 - POR
--- NUMBERS c9-v10 - POR
--- NUMBERS c9-v11 - POR
--- NUMBERS c9-v12 - POR
--- NUMBERS c9-v13 - POR
--- NUMBERS c9-v14 - POR
--- NUMBERS c9-v15 - POR
--- NUMBERS c9-v16 - POR
--- NUMBERS c9-v17 - POR
--- NUMBERS c9-v18 - POR
--- NUMBERS c9-v19 - POR
--- NUMBERS c9-v20 - POR
--- NUMBERS c9-v21 - POR
--- NUMBERS c9-v22 - POR
--- NUMBERS c9-v23 - POR
--- NUMBERS c10-v1 - POR
--- NUMBERS c10-v2 - POR
--- NUMBERS c10-v3 - POR
--- NUMBERS c10-v4 - POR
--- NUMBERS c10-v5 - POR
--- NUMBERS c10-v6 - POR
--- NUMBERS c10-v7 - POR
--- NUMBERS c10-v8 - POR
--- NUMBERS c10-v9 - POR
--- NUMBERS c10-v10 - POR
--- NUMBERS c10-v11 - POR
--- NUMBERS c10-v12 - POR
--- NUMBERS c10-v13 - POR
--- NUMBERS c10-v14 - POR
--- NUMBERS c10-v15 - POR
--- NUMBERS c10-v16 - POR
--- NUMBERS c10-v17 - POR
--- NUMBERS c10-v18 - POR
--- NUMBERS c10-v19 - POR
--- NUMBERS c10-v20 - POR
--- NUMBERS c10-v21 - POR
--- NUMBERS c10-v22 - POR
--- NUMBERS c10-v23 - POR
--- NUMBERS c10-v24 - POR
--- NUMBERS c10-v25 - POR
--- NUMBERS c10-v26 - POR
--- NUMBERS c10-v27 - POR
--- NUMBERS c10-v28 - POR
--- NUMBERS c10-v29 - POR
--- NUMBERS c10-v30 - POR
--- NUMBERS c10-v31 - POR
--- NUMBERS c10-v32 - POR
--- NUMBERS c10-v33 - POR
--- NUMBERS c10-v34 - POR
--- NUMBERS c10-v35 - POR
--- NUMBERS c10-v36 - POR
--- NUMBERS c11-v1 - POR
--- NUMBERS c11-v2 - POR
--- NUMBERS c11-v3 - POR
--- NUMBERS c11-v4 - POR
--- NUMBERS c11-v5 - POR
--- NUMBERS c11-v6 - POR
--- NUMBERS c11-v7 - POR
--- NUMBERS c11-v8 - POR
--- NUMBERS c11-v9 - POR
--- NUMBERS c11-v10 - POR
--- NUMBERS c11-v11 - POR
--- NUMBERS c11-v12 - POR
--- NUMBERS c11-v13 - POR
--- NUMBERS c11-v14 - POR
--- NUMBERS c11-v15 - POR
--- NUMBERS c11-v16 - POR
--- NUMBERS c11-v17 - POR
--- NUMBERS c11-v18 - POR
--- NUMBERS c11-v19 - POR
--- NUMBERS c11-v20 - POR
--- NUMBERS c11-v21 - POR
--- NUMBERS c11-v22 - POR
--- NUMBERS c11-v23 - POR
--- NUMBERS c11-v24 - POR
--- NUMBERS c11-v25 - POR
--- NUMBERS c11-v26 - POR
--- NUMBERS c11-v27 - POR
--- NUMBERS c11-v28 - POR
--- NUMBERS c11-v29 - POR
--- NUMBERS c11-v30 - POR
--- NUMBERS c11-v31 - POR
--- NUMBERS c11-v32 - POR
--- NUMBERS c11-v33 - POR
--- NUMBERS c11-v34 - POR
--- NUMBERS c11-v35 - POR
--- NUMBERS c12-v1 - POR
--- NUMBERS c12-v2 - POR
--- NUMBERS c12-v3 - POR
--- NUMBERS c12-v4 - POR
--- NUMBERS c12-v5 - POR
--- NUMBERS c12-v6 - POR
--- NUMBERS c12-v7 - POR
--- NUMBERS c12-v8 - POR
--- NUMBERS c12-v9 - POR
--- NUMBERS c12-v10 - POR
--- NUMBERS c12-v11 - POR
--- NUMBERS c12-v12 - POR
--- NUMBERS c12-v13 - POR
--- NUMBERS c12-v14 - POR
--- NUMBERS c12-v15 - POR
--- NUMBERS c12-v16 - POR
--- NUMBERS c13-v1 - POR
--- NUMBERS c13-v2 - POR
--- NUMBERS c13-v3 - POR
--- NUMBERS c13-v4 - POR
--- NUMBERS c13-v5 - POR
--- NUMBERS c13-v6 - POR
--- NUMBERS c13-v7 - POR
--- NUMBERS c13-v8 - POR
--- NUMBERS c13-v9 - POR
--- NUMBERS c13-v10 - POR
--- NUMBERS c13-v11 - POR
--- NUMBERS c13-v12 - POR
--- NUMBERS c13-v13 - POR
--- NUMBERS c13-v14 - POR
--- NUMBERS c13-v15 - POR
--- NUMBERS c13-v16 - POR
--- NUMBERS c13-v17 - POR
--- NUMBERS c13-v18 - POR
--- NUMBERS c13-v19 - POR
--- NUMBERS c13-v20 - POR
--- NUMBERS c13-v21 - POR
--- NUMBERS c13-v22 - POR
--- NUMBERS c13-v23 - POR
--- NUMBERS c13-v24 - POR
--- NUMBERS c13-v25 - POR
--- NUMBERS c13-v26 - POR
--- NUMBERS c13-v27 - POR
--- NUMBERS c13-v28 - POR
--- NUMBERS c13-v29 - POR
--- NUMBERS c13-v30 - POR
--- NUMBERS c13-v31 - POR
--- NUMBERS c13-v32 - POR
--- NUMBERS c13-v33 - POR
--- NUMBERS c14-v1 - POR
--- NUMBERS c14-v2 - POR
--- NUMBERS c14-v3 - POR
--- NUMBERS c14-v4 - POR
--- NUMBERS c14-v5 - POR
--- NUMBERS c14-v6 - POR
--- NUMBERS c14-v7 - POR
--- NUMBERS c14-v8 - POR
--- NUMBERS c14-v9 - POR
--- NUMBERS c14-v10 - POR
--- NUMBERS c14-v11 - POR
--- NUMBERS c14-v12 - POR
--- NUMBERS c14-v13 - POR
--- NUMBERS c14-v14 - POR
--- NUMBERS c14-v15 - POR
--- NUMBERS c14-v16 - POR
--- NUMBERS c14-v17 - POR
--- NUMBERS c14-v18 - POR
--- NUMBERS c14-v19 - POR
--- NUMBERS c14-v20 - POR
--- NUMBERS c14-v21 - POR
--- NUMBERS c14-v22 - POR
--- NUMBERS c14-v23 - POR
--- NUMBERS c14-v24 - POR
--- NUMBERS c14-v25 - POR
--- NUMBERS c14-v26 - POR
--- NUMBERS c14-v27 - POR
--- NUMBERS c14-v28 - POR
--- NUMBERS c14-v29 - POR
--- NUMBERS c14-v30 - POR
--- NUMBERS c14-v31 - POR
--- NUMBERS c14-v32 - POR
--- NUMBERS c14-v33 - POR
--- NUMBERS c14-v34 - POR
--- NUMBERS c14-v35 - POR
--- NUMBERS c14-v36 - POR
--- NUMBERS c14-v37 - POR
--- NUMBERS c14-v38 - POR
--- NUMBERS c14-v39 - POR
--- NUMBERS c14-v40 - POR
--- NUMBERS c14-v41 - POR
--- NUMBERS c14-v42 - POR
--- NUMBERS c14-v43 - POR
--- NUMBERS c14-v44 - POR
--- NUMBERS c14-v45 - POR
--- NUMBERS c15-v1 - POR
--- NUMBERS c15-v2 - POR
--- NUMBERS c15-v3 - POR
--- NUMBERS c15-v4 - POR
--- NUMBERS c15-v5 - POR
--- NUMBERS c15-v6 - POR
--- NUMBERS c15-v7 - POR
--- NUMBERS c15-v8 - POR
--- NUMBERS c15-v9 - POR
--- NUMBERS c15-v10 - POR
--- NUMBERS c15-v11 - POR
--- NUMBERS c15-v12 - POR
--- NUMBERS c15-v13 - POR
--- NUMBERS c15-v14 - POR
--- NUMBERS c15-v15 - POR
--- NUMBERS c15-v16 - POR
--- NUMBERS c15-v17 - POR
--- NUMBERS c15-v18 - POR
--- NUMBERS c15-v19 - POR
--- NUMBERS c15-v20 - POR
--- NUMBERS c15-v21 - POR
--- NUMBERS c15-v22 - POR
--- NUMBERS c15-v23 - POR
--- NUMBERS c15-v24 - POR
--- NUMBERS c15-v25 - POR
--- NUMBERS c15-v26 - POR
--- NUMBERS c15-v27 - POR
--- NUMBERS c15-v28 - POR
--- NUMBERS c15-v29 - POR
--- NUMBERS c15-v30 - POR
--- NUMBERS c15-v31 - POR
--- NUMBERS c15-v32 - POR
--- NUMBERS c15-v33 - POR
--- NUMBERS c15-v34 - POR
--- NUMBERS c15-v35 - POR
--- NUMBERS c15-v36 - POR
--- NUMBERS c15-v37 - POR
--- NUMBERS c15-v38 - POR
--- NUMBERS c15-v39 - POR
--- NUMBERS c15-v40 - POR
--- NUMBERS c15-v41 - POR
--- NUMBERS c16-v1 - POR
--- NUMBERS c16-v2 - POR
--- NUMBERS c16-v3 - POR
--- NUMBERS c16-v4 - POR
--- NUMBERS c16-v5 - POR
--- NUMBERS c16-v6 - POR
--- NUMBERS c16-v7 - POR
--- NUMBERS c16-v8 - POR
--- NUMBERS c16-v9 - POR
--- NUMBERS c16-v10 - POR
--- NUMBERS c16-v11 - POR
--- NUMBERS c16-v12 - POR
--- NUMBERS c16-v13 - POR
--- NUMBERS c16-v14 - POR
--- NUMBERS c16-v15 - POR
--- NUMBERS c16-v16 - POR
--- NUMBERS c16-v17 - POR
--- NUMBERS c16-v18 - POR
--- NUMBERS c16-v19 - POR
--- NUMBERS c16-v20 - POR
--- NUMBERS c16-v21 - POR
--- NUMBERS c16-v22 - POR
--- NUMBERS c16-v23 - POR
--- NUMBERS c16-v24 - POR
--- NUMBERS c16-v25 - POR
--- NUMBERS c16-v26 - POR
--- NUMBERS c16-v27 - POR
--- NUMBERS c16-v28 - POR
--- NUMBERS c16-v29 - POR
--- NUMBERS c16-v30 - POR
--- NUMBERS c16-v31 - POR
--- NUMBERS c16-v32 - POR
--- NUMBERS c16-v33 - POR
--- NUMBERS c16-v34 - POR
--- NUMBERS c16-v35 - POR
--- NUMBERS c16-v36 - POR
--- NUMBERS c16-v37 - POR
--- NUMBERS c16-v38 - POR
--- NUMBERS c16-v39 - POR
--- NUMBERS c16-v40 - POR
--- NUMBERS c16-v41 - POR
--- NUMBERS c16-v42 - POR
--- NUMBERS c16-v43 - POR
--- NUMBERS c16-v44 - POR
--- NUMBERS c16-v45 - POR
--- NUMBERS c16-v46 - POR
--- NUMBERS c16-v47 - POR
--- NUMBERS c16-v48 - POR
--- NUMBERS c16-v49 - POR
--- NUMBERS c16-v50 - POR
--- NUMBERS c17-v1 - POR
--- NUMBERS c17-v2 - POR
--- NUMBERS c17-v3 - POR
--- NUMBERS c17-v4 - POR
--- NUMBERS c17-v5 - POR
--- NUMBERS c17-v6 - POR
--- NUMBERS c17-v7 - POR
--- NUMBERS c17-v8 - POR
--- NUMBERS c17-v9 - POR
--- NUMBERS c17-v10 - POR
--- NUMBERS c17-v11 - POR
--- NUMBERS c17-v12 - POR
--- NUMBERS c17-v13 - POR
--- NUMBERS c18-v1 - POR
--- NUMBERS c18-v2 - POR
--- NUMBERS c18-v3 - POR
--- NUMBERS c18-v4 - POR
--- NUMBERS c18-v5 - POR
--- NUMBERS c18-v6 - POR
--- NUMBERS c18-v7 - POR
--- NUMBERS c18-v8 - POR
--- NUMBERS c18-v9 - POR
--- NUMBERS c18-v10 - POR
--- NUMBERS c18-v11 - POR
--- NUMBERS c18-v12 - POR
--- NUMBERS c18-v13 - POR
--- NUMBERS c18-v14 - POR
--- NUMBERS c18-v15 - POR
--- NUMBERS c18-v16 - POR
--- NUMBERS c18-v17 - POR
--- NUMBERS c18-v18 - POR
--- NUMBERS c18-v19 - POR
--- NUMBERS c18-v20 - POR
--- NUMBERS c18-v21 - POR
--- NUMBERS c18-v22 - POR
--- NUMBERS c18-v23 - POR
--- NUMBERS c18-v24 - POR
--- NUMBERS c18-v25 - POR
--- NUMBERS c18-v26 - POR
--- NUMBERS c18-v27 - POR
--- NUMBERS c18-v28 - POR
--- NUMBERS c18-v29 - POR
--- NUMBERS c18-v30 - POR
--- NUMBERS c18-v31 - POR
--- NUMBERS c18-v32 - POR
--- NUMBERS c19-v1 - POR
--- NUMBERS c19-v2 - POR
--- NUMBERS c19-v3 - POR
--- NUMBERS c19-v4 - POR
--- NUMBERS c19-v5 - POR
--- NUMBERS c19-v6 - POR
--- NUMBERS c19-v7 - POR
--- NUMBERS c19-v8 - POR
--- NUMBERS c19-v9 - POR
--- NUMBERS c19-v10 - POR
--- NUMBERS c19-v11 - POR
--- NUMBERS c19-v12 - POR
--- NUMBERS c19-v13 - POR
--- NUMBERS c19-v14 - POR
--- NUMBERS c19-v15 - POR
--- NUMBERS c19-v16 - POR
--- NUMBERS c19-v17 - POR
--- NUMBERS c19-v18 - POR
--- NUMBERS c19-v19 - POR
--- NUMBERS c19-v20 - POR
--- NUMBERS c19-v21 - POR
--- NUMBERS c19-v22 - POR
--- NUMBERS c20-v1 - POR
--- NUMBERS c20-v2 - POR
--- NUMBERS c20-v3 - POR
--- NUMBERS c20-v4 - POR
--- NUMBERS c20-v5 - POR
--- NUMBERS c20-v6 - POR
--- NUMBERS c20-v7 - POR
--- NUMBERS c20-v8 - POR
--- NUMBERS c20-v9 - POR
--- NUMBERS c20-v10 - POR
--- NUMBERS c20-v11 - POR
--- NUMBERS c20-v12 - POR
--- NUMBERS c20-v13 - POR
--- NUMBERS c20-v14 - POR
--- NUMBERS c20-v15 - POR
--- NUMBERS c20-v16 - POR
--- NUMBERS c20-v17 - POR
--- NUMBERS c20-v18 - POR
--- NUMBERS c20-v19 - POR
--- NUMBERS c20-v20 - POR
--- NUMBERS c20-v21 - POR
--- NUMBERS c20-v22 - POR
--- NUMBERS c20-v23 - POR
--- NUMBERS c20-v24 - POR
--- NUMBERS c20-v25 - POR
--- NUMBERS c20-v26 - POR
--- NUMBERS c20-v27 - POR
--- NUMBERS c20-v28 - POR
--- NUMBERS c20-v29 - POR
--- NUMBERS c21-v1 - POR
--- NUMBERS c21-v2 - POR
--- NUMBERS c21-v3 - POR
--- NUMBERS c21-v4 - POR
--- NUMBERS c21-v5 - POR
--- NUMBERS c21-v6 - POR
--- NUMBERS c21-v7 - POR
--- NUMBERS c21-v8 - POR
--- NUMBERS c21-v9 - POR
--- NUMBERS c21-v10 - POR
--- NUMBERS c21-v11 - POR
--- NUMBERS c21-v12 - POR
--- NUMBERS c21-v13 - POR
--- NUMBERS c21-v14 - POR
--- NUMBERS c21-v15 - POR
--- NUMBERS c21-v16 - POR
--- NUMBERS c21-v17 - POR
--- NUMBERS c21-v18 - POR
--- NUMBERS c21-v19 - POR
--- NUMBERS c21-v20 - POR
--- NUMBERS c21-v21 - POR
--- NUMBERS c21-v22 - POR
--- NUMBERS c21-v23 - POR
--- NUMBERS c21-v24 - POR
--- NUMBERS c21-v25 - POR
--- NUMBERS c21-v26 - POR
--- NUMBERS c21-v27 - POR
--- NUMBERS c21-v28 - POR
--- NUMBERS c21-v29 - POR
--- NUMBERS c21-v30 - POR
--- NUMBERS c21-v31 - POR
--- NUMBERS c21-v32 - POR
--- NUMBERS c21-v33 - POR
--- NUMBERS c21-v34 - POR
--- NUMBERS c21-v35 - POR
--- NUMBERS c22-v1 - POR
--- NUMBERS c22-v2 - POR
--- NUMBERS c22-v3 - POR
--- NUMBERS c22-v4 - POR
--- NUMBERS c22-v5 - POR
--- NUMBERS c22-v6 - POR
--- NUMBERS c22-v7 - POR
--- NUMBERS c22-v8 - POR
--- NUMBERS c22-v9 - POR
--- NUMBERS c22-v10 - POR
--- NUMBERS c22-v11 - POR
--- NUMBERS c22-v12 - POR
--- NUMBERS c22-v13 - POR
--- NUMBERS c22-v14 - POR
--- NUMBERS c22-v15 - POR
--- NUMBERS c22-v16 - POR
--- NUMBERS c22-v17 - POR
--- NUMBERS c22-v18 - POR
--- NUMBERS c22-v19 - POR
--- NUMBERS c22-v20 - POR
--- NUMBERS c22-v21 - POR
--- NUMBERS c22-v22 - POR
--- NUMBERS c22-v23 - POR
--- NUMBERS c22-v24 - POR
--- NUMBERS c22-v25 - POR
--- NUMBERS c22-v26 - POR
--- NUMBERS c22-v27 - POR
--- NUMBERS c22-v28 - POR
--- NUMBERS c22-v29 - POR
--- NUMBERS c22-v30 - POR
--- NUMBERS c22-v31 - POR
--- NUMBERS c22-v32 - POR
--- NUMBERS c22-v33 - POR
--- NUMBERS c22-v34 - POR
--- NUMBERS c22-v35 - POR
--- NUMBERS c22-v36 - POR
--- NUMBERS c22-v37 - POR
--- NUMBERS c22-v38 - POR
--- NUMBERS c22-v39 - POR
--- NUMBERS c22-v40 - POR
--- NUMBERS c22-v41 - POR
--- NUMBERS c23-v1 - POR
--- NUMBERS c23-v2 - POR
--- NUMBERS c23-v3 - POR
--- NUMBERS c23-v4 - POR
--- NUMBERS c23-v5 - POR
--- NUMBERS c23-v6 - POR
--- NUMBERS c23-v7 - POR
--- NUMBERS c23-v8 - POR
--- NUMBERS c23-v9 - POR
--- NUMBERS c23-v10 - POR
--- NUMBERS c23-v11 - POR
--- NUMBERS c23-v12 - POR
--- NUMBERS c23-v13 - POR
--- NUMBERS c23-v14 - POR
--- NUMBERS c23-v15 - POR
--- NUMBERS c23-v16 - POR
--- NUMBERS c23-v17 - POR
--- NUMBERS c23-v18 - POR
--- NUMBERS c23-v19 - POR
--- NUMBERS c23-v20 - POR
--- NUMBERS c23-v21 - POR
--- NUMBERS c23-v22 - POR
--- NUMBERS c23-v23 - POR
--- NUMBERS c23-v24 - POR
--- NUMBERS c23-v25 - POR
--- NUMBERS c23-v26 - POR
--- NUMBERS c23-v27 - POR
--- NUMBERS c23-v28 - POR
--- NUMBERS c23-v29 - POR
--- NUMBERS c23-v30 - POR
--- NUMBERS c24-v1 - POR
--- NUMBERS c24-v2 - POR
--- NUMBERS c24-v3 - POR
--- NUMBERS c24-v4 - POR
--- NUMBERS c24-v5 - POR
--- NUMBERS c24-v6 - POR
--- NUMBERS c24-v7 - POR
--- NUMBERS c24-v8 - POR
--- NUMBERS c24-v9 - POR
--- NUMBERS c24-v10 - POR
--- NUMBERS c24-v11 - POR
--- NUMBERS c24-v12 - POR
--- NUMBERS c24-v13 - POR
--- NUMBERS c24-v14 - POR
--- NUMBERS c24-v15 - POR
--- NUMBERS c24-v16 - POR
--- NUMBERS c24-v17 - POR
--- NUMBERS c24-v18 - POR
--- NUMBERS c24-v19 - POR
--- NUMBERS c24-v20 - POR
--- NUMBERS c24-v21 - POR
--- NUMBERS c24-v22 - POR
--- NUMBERS c24-v23 - POR
--- NUMBERS c24-v24 - POR
--- NUMBERS c24-v25 - POR
--- NUMBERS c25-v1 - POR
--- NUMBERS c25-v2 - POR
--- NUMBERS c25-v3 - POR
--- NUMBERS c25-v4 - POR
--- NUMBERS c25-v5 - POR
--- NUMBERS c25-v6 - POR
--- NUMBERS c25-v7 - POR
--- NUMBERS c25-v8 - POR
--- NUMBERS c25-v9 - POR
--- NUMBERS c25-v10 - POR
--- NUMBERS c25-v11 - POR
--- NUMBERS c25-v12 - POR
--- NUMBERS c25-v13 - POR
--- NUMBERS c25-v14 - POR
--- NUMBERS c25-v15 - POR
--- NUMBERS c25-v16 - POR
--- NUMBERS c25-v17 - POR
--- NUMBERS c25-v18 - POR
--- NUMBERS c26-v1 - POR
--- NUMBERS c26-v2 - POR
--- NUMBERS c26-v3 - POR
--- NUMBERS c26-v4 - POR
--- NUMBERS c26-v5 - POR
--- NUMBERS c26-v6 - POR
--- NUMBERS c26-v7 - POR
--- NUMBERS c26-v8 - POR
--- NUMBERS c26-v9 - POR
--- NUMBERS c26-v10 - POR
--- NUMBERS c26-v11 - POR
--- NUMBERS c26-v12 - POR
--- NUMBERS c26-v13 - POR
--- NUMBERS c26-v14 - POR
--- NUMBERS c26-v15 - POR
--- NUMBERS c26-v16 - POR
--- NUMBERS c26-v17 - POR
--- NUMBERS c26-v18 - POR
--- NUMBERS c26-v19 - POR
--- NUMBERS c26-v20 - POR
--- NUMBERS c26-v21 - POR
--- NUMBERS c26-v22 - POR
--- NUMBERS c26-v23 - POR
--- NUMBERS c26-v24 - POR
--- NUMBERS c26-v25 - POR
--- NUMBERS c26-v26 - POR
--- NUMBERS c26-v27 - POR
--- NUMBERS c26-v28 - POR
--- NUMBERS c26-v29 - POR
--- NUMBERS c26-v30 - POR
--- NUMBERS c26-v31 - POR
--- NUMBERS c26-v32 - POR
--- NUMBERS c26-v33 - POR
--- NUMBERS c26-v34 - POR
--- NUMBERS c26-v35 - POR
--- NUMBERS c26-v36 - POR
--- NUMBERS c26-v37 - POR
--- NUMBERS c26-v38 - POR
--- NUMBERS c26-v39 - POR
--- NUMBERS c26-v40 - POR
--- NUMBERS c26-v41 - POR
--- NUMBERS c26-v42 - POR
--- NUMBERS c26-v43 - POR
--- NUMBERS c26-v44 - POR
--- NUMBERS c26-v45 - POR
--- NUMBERS c26-v46 - POR
--- NUMBERS c26-v47 - POR
--- NUMBERS c26-v48 - POR
--- NUMBERS c26-v49 - POR
--- NUMBERS c26-v50 - POR
--- NUMBERS c26-v51 - POR
--- NUMBERS c26-v52 - POR
--- NUMBERS c26-v53 - POR
--- NUMBERS c26-v54 - POR
--- NUMBERS c26-v55 - POR
--- NUMBERS c26-v56 - POR
--- NUMBERS c26-v57 - POR
--- NUMBERS c26-v58 - POR
--- NUMBERS c26-v59 - POR
--- NUMBERS c26-v60 - POR
--- NUMBERS c26-v61 - POR
--- NUMBERS c26-v62 - POR
--- NUMBERS c26-v63 - POR
--- NUMBERS c26-v64 - POR
--- NUMBERS c26-v65 - POR
--- NUMBERS c27-v1 - POR
--- NUMBERS c27-v2 - POR
--- NUMBERS c27-v3 - POR
--- NUMBERS c27-v4 - POR
--- NUMBERS c27-v5 - POR
--- NUMBERS c27-v6 - POR
--- NUMBERS c27-v7 - POR
--- NUMBERS c27-v8 - POR
--- NUMBERS c27-v9 - POR
--- NUMBERS c27-v10 - POR
--- NUMBERS c27-v11 - POR
--- NUMBERS c27-v12 - POR
--- NUMBERS c27-v13 - POR
--- NUMBERS c27-v14 - POR
--- NUMBERS c27-v15 - POR
--- NUMBERS c27-v16 - POR
--- NUMBERS c27-v17 - POR
--- NUMBERS c27-v18 - POR
--- NUMBERS c27-v19 - POR
--- NUMBERS c27-v20 - POR
--- NUMBERS c27-v21 - POR
--- NUMBERS c27-v22 - POR
--- NUMBERS c27-v23 - POR
--- NUMBERS c28-v1 - POR
--- NUMBERS c28-v2 - POR
--- NUMBERS c28-v3 - POR
--- NUMBERS c28-v4 - POR
--- NUMBERS c28-v5 - POR
--- NUMBERS c28-v6 - POR
--- NUMBERS c28-v7 - POR
--- NUMBERS c28-v8 - POR
--- NUMBERS c28-v9 - POR
--- NUMBERS c28-v10 - POR
--- NUMBERS c28-v11 - POR
--- NUMBERS c28-v12 - POR
--- NUMBERS c28-v13 - POR
--- NUMBERS c28-v14 - POR
--- NUMBERS c28-v15 - POR
--- NUMBERS c28-v16 - POR
--- NUMBERS c28-v17 - POR
--- NUMBERS c28-v18 - POR
--- NUMBERS c28-v19 - POR
--- NUMBERS c28-v20 - POR
--- NUMBERS c28-v21 - POR
--- NUMBERS c28-v22 - POR
--- NUMBERS c28-v23 - POR
--- NUMBERS c28-v24 - POR
--- NUMBERS c28-v25 - POR
--- NUMBERS c28-v26 - POR
--- NUMBERS c28-v27 - POR
--- NUMBERS c28-v28 - POR
--- NUMBERS c28-v29 - POR
--- NUMBERS c28-v30 - POR
--- NUMBERS c28-v31 - POR
--- NUMBERS c29-v1 - POR
--- NUMBERS c29-v2 - POR
--- NUMBERS c29-v3 - POR
--- NUMBERS c29-v4 - POR
--- NUMBERS c29-v5 - POR
--- NUMBERS c29-v6 - POR
--- NUMBERS c29-v7 - POR
--- NUMBERS c29-v8 - POR
--- NUMBERS c29-v9 - POR
--- NUMBERS c29-v10 - POR
--- NUMBERS c29-v11 - POR
--- NUMBERS c29-v12 - POR
--- NUMBERS c29-v13 - POR
--- NUMBERS c29-v14 - POR
--- NUMBERS c29-v15 - POR
--- NUMBERS c29-v16 - POR
--- NUMBERS c29-v17 - POR
--- NUMBERS c29-v18 - POR
--- NUMBERS c29-v19 - POR
--- NUMBERS c29-v20 - POR
--- NUMBERS c29-v21 - POR
--- NUMBERS c29-v22 - POR
--- NUMBERS c29-v23 - POR
--- NUMBERS c29-v24 - POR
--- NUMBERS c29-v25 - POR
--- NUMBERS c29-v26 - POR
--- NUMBERS c29-v27 - POR
--- NUMBERS c29-v28 - POR
--- NUMBERS c29-v29 - POR
--- NUMBERS c29-v30 - POR
--- NUMBERS c29-v31 - POR
--- NUMBERS c29-v32 - POR
--- NUMBERS c29-v33 - POR
--- NUMBERS c29-v34 - POR
--- NUMBERS c29-v35 - POR
--- NUMBERS c29-v36 - POR
--- NUMBERS c29-v37 - POR
--- NUMBERS c29-v38 - POR
--- NUMBERS c29-v39 - POR
--- NUMBERS c29-v40 - POR
--- NUMBERS c30-v1 - POR
--- NUMBERS c30-v2 - POR
--- NUMBERS c30-v3 - POR
--- NUMBERS c30-v4 - POR
--- NUMBERS c30-v5 - POR
--- NUMBERS c30-v6 - POR
--- NUMBERS c30-v7 - POR
--- NUMBERS c30-v8 - POR
--- NUMBERS c30-v9 - POR
--- NUMBERS c30-v10 - POR
--- NUMBERS c30-v11 - POR
--- NUMBERS c30-v12 - POR
--- NUMBERS c30-v13 - POR
--- NUMBERS c30-v14 - POR
--- NUMBERS c30-v15 - POR
--- NUMBERS c30-v16 - POR
--- NUMBERS c31-v1 - POR
--- NUMBERS c31-v2 - POR
--- NUMBERS c31-v3 - POR
--- NUMBERS c31-v4 - POR
--- NUMBERS c31-v5 - POR
--- NUMBERS c31-v6 - POR
--- NUMBERS c31-v7 - POR
--- NUMBERS c31-v8 - POR
--- NUMBERS c31-v9 - POR
--- NUMBERS c31-v10 - POR
--- NUMBERS c31-v11 - POR
--- NUMBERS c31-v12 - POR
--- NUMBERS c31-v13 - POR
--- NUMBERS c31-v14 - POR
--- NUMBERS c31-v15 - POR
--- NUMBERS c31-v16 - POR
--- NUMBERS c31-v17 - POR
--- NUMBERS c31-v18 - POR
--- NUMBERS c31-v19 - POR
--- NUMBERS c31-v20 - POR
--- NUMBERS c31-v21 - POR
--- NUMBERS c31-v22 - POR
--- NUMBERS c31-v23 - POR
--- NUMBERS c31-v24 - POR
--- NUMBERS c31-v25 - POR
--- NUMBERS c31-v26 - POR
--- NUMBERS c31-v27 - POR
--- NUMBERS c31-v28 - POR
--- NUMBERS c31-v29 - POR
--- NUMBERS c31-v30 - POR
--- NUMBERS c31-v31 - POR
--- NUMBERS c31-v32 - POR
--- NUMBERS c31-v33 - POR
--- NUMBERS c31-v34 - POR
--- NUMBERS c31-v35 - POR
--- NUMBERS c31-v36 - POR
--- NUMBERS c31-v37 - POR
--- NUMBERS c31-v38 - POR
--- NUMBERS c31-v39 - POR
--- NUMBERS c31-v40 - POR
--- NUMBERS c31-v41 - POR
--- NUMBERS c31-v42 - POR
--- NUMBERS c31-v43 - POR
--- NUMBERS c31-v44 - POR
--- NUMBERS c31-v45 - POR
--- NUMBERS c31-v46 - POR
--- NUMBERS c31-v47 - POR
--- NUMBERS c31-v48 - POR
--- NUMBERS c31-v49 - POR
--- NUMBERS c31-v50 - POR
--- NUMBERS c31-v51 - POR
--- NUMBERS c31-v52 - POR
--- NUMBERS c31-v53 - POR
--- NUMBERS c31-v54 - POR
--- NUMBERS c32-v1 - POR
--- NUMBERS c32-v2 - POR
--- NUMBERS c32-v3 - POR
--- NUMBERS c32-v4 - POR
--- NUMBERS c32-v5 - POR
--- NUMBERS c32-v6 - POR
--- NUMBERS c32-v7 - POR
--- NUMBERS c32-v8 - POR
--- NUMBERS c32-v9 - POR
--- NUMBERS c32-v10 - POR
--- NUMBERS c32-v11 - POR
--- NUMBERS c32-v12 - POR
--- NUMBERS c32-v13 - POR
--- NUMBERS c32-v14 - POR
--- NUMBERS c32-v15 - POR
--- NUMBERS c32-v16 - POR
--- NUMBERS c32-v17 - POR
--- NUMBERS c32-v18 - POR
--- NUMBERS c32-v19 - POR
--- NUMBERS c32-v20 - POR
--- NUMBERS c32-v21 - POR
--- NUMBERS c32-v22 - POR
--- NUMBERS c32-v23 - POR
--- NUMBERS c32-v24 - POR
--- NUMBERS c32-v25 - POR
--- NUMBERS c32-v26 - POR
--- NUMBERS c32-v27 - POR
--- NUMBERS c32-v28 - POR
--- NUMBERS c32-v29 - POR
--- NUMBERS c32-v30 - POR
--- NUMBERS c32-v31 - POR
--- NUMBERS c32-v32 - POR
--- NUMBERS c32-v33 - POR
--- NUMBERS c32-v34 - POR
--- NUMBERS c32-v35 - POR
--- NUMBERS c32-v36 - POR
--- NUMBERS c32-v37 - POR
--- NUMBERS c32-v38 - POR
--- NUMBERS c32-v39 - POR
--- NUMBERS c32-v40 - POR
--- NUMBERS c32-v41 - POR
--- NUMBERS c32-v42 - POR
--- NUMBERS c33-v1 - POR
--- NUMBERS c33-v2 - POR
--- NUMBERS c33-v3 - POR
--- NUMBERS c33-v4 - POR
--- NUMBERS c33-v5 - POR
--- NUMBERS c33-v6 - POR
--- NUMBERS c33-v7 - POR
--- NUMBERS c33-v8 - POR
--- NUMBERS c33-v9 - POR
--- NUMBERS c33-v10 - POR
--- NUMBERS c33-v11 - POR
--- NUMBERS c33-v12 - POR
--- NUMBERS c33-v13 - POR
--- NUMBERS c33-v14 - POR
--- NUMBERS c33-v15 - POR
--- NUMBERS c33-v16 - POR
--- NUMBERS c33-v17 - POR
--- NUMBERS c33-v18 - POR
--- NUMBERS c33-v19 - POR
--- NUMBERS c33-v20 - POR
--- NUMBERS c33-v21 - POR
--- NUMBERS c33-v22 - POR
--- NUMBERS c33-v23 - POR
--- NUMBERS c33-v24 - POR
--- NUMBERS c33-v25 - POR
--- NUMBERS c33-v26 - POR
--- NUMBERS c33-v27 - POR
--- NUMBERS c33-v28 - POR
--- NUMBERS c33-v29 - POR
--- NUMBERS c33-v30 - POR
--- NUMBERS c33-v31 - POR
--- NUMBERS c33-v32 - POR
--- NUMBERS c33-v33 - POR
--- NUMBERS c33-v34 - POR
--- NUMBERS c33-v35 - POR
--- NUMBERS c33-v36 - POR
--- NUMBERS c33-v37 - POR
--- NUMBERS c33-v38 - POR
--- NUMBERS c33-v39 - POR
--- NUMBERS c33-v40 - POR
--- NUMBERS c33-v41 - POR
--- NUMBERS c33-v42 - POR
--- NUMBERS c33-v43 - POR
--- NUMBERS c33-v44 - POR
--- NUMBERS c33-v45 - POR
--- NUMBERS c33-v46 - POR
--- NUMBERS c33-v47 - POR
--- NUMBERS c33-v48 - POR
--- NUMBERS c33-v49 - POR
--- NUMBERS c33-v50 - POR
--- NUMBERS c33-v51 - POR
--- NUMBERS c33-v52 - POR
--- NUMBERS c33-v53 - POR
--- NUMBERS c33-v54 - POR
--- NUMBERS c33-v55 - POR
--- NUMBERS c33-v56 - POR
--- NUMBERS c34-v1 - POR
--- NUMBERS c34-v2 - POR
--- NUMBERS c34-v3 - POR
--- NUMBERS c34-v4 - POR
--- NUMBERS c34-v5 - POR
--- NUMBERS c34-v6 - POR
--- NUMBERS c34-v7 - POR
--- NUMBERS c34-v8 - POR
--- NUMBERS c34-v9 - POR
--- NUMBERS c34-v10 - POR
--- NUMBERS c34-v11 - POR
--- NUMBERS c34-v12 - POR
--- NUMBERS c34-v13 - POR
--- NUMBERS c34-v14 - POR
--- NUMBERS c34-v15 - POR
--- NUMBERS c34-v16 - POR
--- NUMBERS c34-v17 - POR
--- NUMBERS c34-v18 - POR
--- NUMBERS c34-v19 - POR
--- NUMBERS c34-v20 - POR
--- NUMBERS c34-v21 - POR
--- NUMBERS c34-v22 - POR
--- NUMBERS c34-v23 - POR
--- NUMBERS c34-v24 - POR
--- NUMBERS c34-v25 - POR
--- NUMBERS c34-v26 - POR
--- NUMBERS c34-v27 - POR
--- NUMBERS c34-v28 - POR
--- NUMBERS c34-v29 - POR
--- NUMBERS c35-v1 - POR
--- NUMBERS c35-v2 - POR
--- NUMBERS c35-v3 - POR
--- NUMBERS c35-v4 - POR
--- NUMBERS c35-v5 - POR
--- NUMBERS c35-v6 - POR
--- NUMBERS c35-v7 - POR
--- NUMBERS c35-v8 - POR
--- NUMBERS c35-v9 - POR
--- NUMBERS c35-v10 - POR
--- NUMBERS c35-v11 - POR
--- NUMBERS c35-v12 - POR
--- NUMBERS c35-v13 - POR
--- NUMBERS c35-v14 - POR
--- NUMBERS c35-v15 - POR
--- NUMBERS c35-v16 - POR
--- NUMBERS c35-v17 - POR
--- NUMBERS c35-v18 - POR
--- NUMBERS c35-v19 - POR
--- NUMBERS c35-v20 - POR
--- NUMBERS c35-v21 - POR
--- NUMBERS c35-v22 - POR
--- NUMBERS c35-v23 - POR
--- NUMBERS c35-v24 - POR
--- NUMBERS c35-v25 - POR
--- NUMBERS c35-v26 - POR
--- NUMBERS c35-v27 - POR
--- NUMBERS c35-v28 - POR
--- NUMBERS c35-v29 - POR
--- NUMBERS c35-v30 - POR
--- NUMBERS c35-v31 - POR
--- NUMBERS c35-v32 - POR
--- NUMBERS c35-v33 - POR
--- NUMBERS c35-v34 - POR
--- NUMBERS c36-v1 - POR
--- NUMBERS c36-v2 - POR
--- NUMBERS c36-v3 - POR
--- NUMBERS c36-v4 - POR
--- NUMBERS c36-v5 - POR
--- NUMBERS c36-v6 - POR
--- NUMBERS c36-v7 - POR
--- NUMBERS c36-v8 - POR
--- NUMBERS c36-v9 - POR
--- NUMBERS c36-v10 - POR
--- NUMBERS c36-v11 - POR
--- NUMBERS c36-v12 - POR
--- NUMBERS c36-v13 - POR
+-- c1-v1: E–falou YHWH a Mosheh em–deserto-de Sinay em–tenda-de encontro em–um para–o–mês o–segundo em–o–ano o–segundo para–saírem-deles de–terra-de Mitsrayim para–dizer
+-- c1-v2: Levantai (a) cabeça-de toda congregação-de filhos-de Yisra'el para–famílias-deles para–casa-de pais-deles em–número-de nomes todo macho para–crânios-deles
+-- c1-v3: de–filho-de vinte ano e–para-cima todo que-sai exército em–Yisra'el contareis (a)–eles para–exércitos-deles tu e–'Aharon
+-- c1-v4: E–convosco estarão homem homem para–a–tribo homem cabeça-de casa-de pais-dele ele
+-- c1-v5: E–estes nomes-de os–homens que estarão-de-pé convosco para–R'uven 'Elitsur filho-de Sh'dey'ur
+-- c1-v6: para–Shim'on Shlumi'el filho-de Tsurishaddai
+-- c1-v7: para–Yehudah Nachshon filho-de 'Amminadav
+-- c1-v8: para–Yissakhar N'tan'el filho-de Tsu'ar
+-- c1-v9: para–Z'vulun 'Eli'av filho-de Chelon
+-- c1-v10: para–filhos-de Yosef para–'Efrayim 'Elishama' filho-de 'Ammihud para–M'nasheh Gamli'el filho-de P'dahtsur
+-- c1-v11: para–Binyamin 'Avidan filho-de Gid'oni
+-- c1-v12: para–Dan 'Achi'ezer filho-de 'Ammishaddai
+-- c1-v13: para–'Asher Pag'i'el filho-de 'Okhran
+-- c1-v14: para–Gad 'Elyasaf filho-de D'u'el
+-- c1-v15: para–Naftali 'Achira' filho-de 'Eynan
+-- c1-v16: Estes [Ketiv] convocados-de a–congregação príncipes-de tribos-de pais-deles cabeças-de milhares-de Yisra'el eles
+-- c1-v17: E–tomou Mosheh e–'Aharon (a) os–homens os–estes que foram-designados por–nomes
+-- c1-v18: E–(a) toda a–congregação reuniram em–um para–o–mês o–segundo e–registraram-por-linhagem sobre famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima para–crânios-deles
+-- c1-v19: como-que ordenou YHWH (a) Mosheh e–contou-os em–deserto-de Sinay ¶
+-- c1-v20: E–foram filhos-de R'uven primogênito-de Yisra'el gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes para–crânios-deles todo macho de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v21: contados-deles para–tribo-de R'uven seis e–quarenta mil e–cinco centenas ¶
+-- c1-v22: para–filhos-de Shim'on gerações-deles para–famílias-deles para–casa-de pais-deles contados-dele em–número-de nomes para–crânios-deles todo macho de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v23: contados-deles para–tribo-de Shim'on nove e–cinquenta mil e–três centenas ¶
+-- c1-v24: para–filhos-de Gad gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v25: contados-deles para–tribo-de Gad cinco e–quarenta mil e–seis centenas e–cinquenta ¶
+-- c1-v26: para–filhos-de Yehudah gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v27: contados-deles para–tribo-de Yehudah quatro e–setenta mil e–seis centenas ¶
+-- c1-v28: para–filhos-de Yissakhar gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v29: contados-deles para–tribo-de Yissakhar quatro e–cinquenta mil e–quatro centenas ¶
+-- c1-v30: para–filhos-de Z'vulun gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v31: contados-deles para–tribo-de Z'vulun sete e–cinquenta mil e–quatro centenas ¶
+-- c1-v32: para–filhos-de Yosef para–filhos-de 'Efrayim gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v33: contados-deles para–tribo-de 'Efrayim quarenta mil e–cinco centenas ¶
+-- c1-v34: para–filhos-de M'nasheh gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v35: contados-deles para–tribo-de M'nasheh dois e–trinta mil e–duzentos ¶
+-- c1-v36: para–filhos-de Binyamin gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v37: contados-deles para–tribo-de Binyamin cinco e–trinta mil e–quatro centenas ¶
+-- c1-v38: para–filhos-de Dan gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v39: contados-deles para–tribo-de Dan dois e–sessenta mil e–sete centenas ¶
+-- c1-v40: para–filhos-de 'Asher gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v41: contados-deles para–tribo-de 'Asher um e–quarenta mil e–cinco centenas ¶
+-- c1-v42: filhos-de Naftali gerações-deles para–famílias-deles para–casa-de pais-deles em–número-de nomes de–filho-de vinte ano e–para-cima todo que-sai exército
+-- c1-v43: contados-deles para–tribo-de Naftali três e–cinquenta mil e–quatro centenas ¶
+-- c1-v44: Estes os–contados que contou Mosheh e–'Aharon e–príncipes-de Yisra'el dois dez homem homem um para–casa-de pais-dele foram
+-- c1-v45: E–foram todos contados-de filhos-de Yisra'el para–casa-de pais-deles de–filho-de vinte ano e–para-cima todo que-sai exército em–Yisra'el
+-- c1-v46: E–foram todos os–contados seis centenas mil e–três-de milhares e–cinco centenas e–cinquenta
+-- c1-v47: E–os–Levi'im para–tribo-de pais-deles não foram-contados em–meio-deles ¶
+-- c1-v48: E–falou YHWH a Mosheh para–dizer
+-- c1-v49: Porém (a) tribo-de Levi não contarás e–(a) cabeça-deles não levantarás em–meio-de filhos-de Yisra'el
+-- c1-v50: E–tu designa (a) os–Levi'im sobre tabernáculo-de o–testemunho e–sobre todos utensílios-dele e–sobre tudo que para–ele eles carregarão (a) o–tabernáculo e–(a) todos utensílios-dele e–eles servirão-o e–ao-redor do–tabernáculo acamparão
+-- c1-v51: E–ao-viajar o–tabernáculo desmontarão (a)–ele os–Levi'im e–ao-acampar o–tabernáculo levantarão (a)–ele os–Levi'im e–o–estranho que-se-aproxima morrerá
+-- c1-v52: E–acamparão filhos-de Yisra'el homem sobre acampamento-dele e–homem sobre estandarte-dele para–exércitos-deles
+-- c1-v53: E–os–Levi'im acamparão ao-redor de–tabernáculo-de o–testemunho e–não haverá ira sobre congregação-de filhos-de Yisra'el e–guardarão os–Levi'im (a) guarda-de tabernáculo-de o–testemunho
+-- c1-v54: E–fizeram filhos-de Yisra'el conforme–tudo que ordenou YHWH (a) Mosheh assim fizeram ¶
+-- c2-v1: E–falou YHWH a Mosheh e–a 'Aharon para–dizer
+-- c2-v2: Homem sobre estandarte–dele em–sinais para–casa–de pais–deles acamparão filhos–de Yisra'el de–em–frente ao–redor de–tenda–de encontro acamparão
+-- c2-v3: E–os–que–acampam para–leste para–nascente estandarte–de acampamento–de Yehudah para–exércitos–deles e–príncipe para–filhos–de Yehudah Nachshon filho–de 'Amminadav
+-- c2-v4: E–exército–dele e–contados–deles quatro e–setenta mil e–seis centenas
+-- c2-v5: E–os–que–acampam sobre–ele tribo–de Yissakhar e–príncipe para–filhos–de Yissakhar N'tan'el filho–de Tsu'ar
+-- c2-v6: E–exército–dele e–contados–dele quatro e–cinquenta mil e–quatro centenas §
+-- c2-v7: tribo–de Z'vulun e–príncipe para–filhos–de Z'vulun 'Eli'av filho–de Chelon
+-- c2-v8: E–exército–dele e–contados–dele sete e–cinquenta mil e–quatro centenas
+-- c2-v9: Todos os–contados para–acampamento–de Yehudah cem mil e–oitenta mil e–seis–de milhares e–quatro centenas para–exércitos–deles primeiro viajarão §
+-- c2-v10: Estandarte–de acampamento–de R'uven para–sul para–exércitos–deles e–príncipe para–filhos–de R'uven 'Elitsur filho–de Sh'dey'ur
+-- c2-v11: E–exército–dele e–contados–dele seis e–quarenta mil e–cinco centenas
+-- c2-v12: E–os–que–acampam sobre–ele tribo–de Shim'on e–príncipe para–filhos–de Shim'on Shlumi'el filho–de Tsurishaddai
+-- c2-v13: E–exército–dele e–contados–deles nove e–cinquenta mil e–três centenas
+-- c2-v14: E–tribo–de Gad e–príncipe para–filhos–de Gad 'Elyasaf filho–de R'u'el
+-- c2-v15: E–exército–dele e–contados–deles cinco e–quarenta mil e–seis centenas e–cinquenta
+-- c2-v16: Todos os–contados para–acampamento–de R'uven cem mil e–um e–cinquenta mil e–quatro centenas e–cinquenta para–exércitos–deles e–segundos viajarão §
+-- c2-v17: E–viajará tenda–de encontro acampamento–de os–Levi'im em–meio–de os–acampamentos como–que acampam assim viajarão homem sobre mão–dele para–estandartes–deles §
+-- c2-v18: Estandarte–de acampamento–de 'Efrayim para–exércitos–deles para–oeste e–príncipe para–filhos–de 'Efrayim 'Elishama' filho–de 'Ammihud
+-- c2-v19: E–exército–dele e–contados–deles quarenta mil e–cinco centenas
+-- c2-v20: E–sobre–ele tribo–de M'nasheh e–príncipe para–filhos–de M'nasheh Gamli'el filho–de P'dahtsur
+-- c2-v21: E–exército–dele e–contados–deles dois e–trinta mil e–duzentos
+-- c2-v22: E–tribo–de Binyamin e–príncipe para–filhos–de Binyamin 'Avidan filho–de Gid'oni
+-- c2-v23: E–exército–dele e–contados–deles cinco e–trinta mil e–quatro centenas
+-- c2-v24: Todos os–contados para–acampamento–de 'Efrayim cem mil e–oito–de milhares e–cem para–exércitos–deles e–terceiros viajarão §
+-- c2-v25: Estandarte–de acampamento–de Dan para–norte para–exércitos–deles e–príncipe para–filhos–de Dan 'Achi'ezer filho–de 'Ammishaddai
+-- c2-v26: E–exército–dele e–contados–deles dois e–sessenta mil e–sete centenas
+-- c2-v27: E–os–que–acampam sobre–ele tribo–de 'Asher e–príncipe para–filhos–de 'Asher Pag'i'el filho–de 'Okhran
+-- c2-v28: E–exército–dele e–contados–deles um e–quarenta mil e–cinco centenas
+-- c2-v29: E–tribo–de Naftali e–príncipe para–filhos–de Naftali 'Achira' filho–de 'Eynan
+-- c2-v30: E–exército–dele e–contados–deles três e–cinquenta mil e–quatro centenas
+-- c2-v31: Todos os–contados para–acampamento–de Dan cem mil e–sete e–cinquenta mil e–seis centenas por–último viajarão para–estandartes–deles ¶
+-- c2-v32: Estes contados–de filhos–de Yisra'el para–casa–de pais–deles todos contados–de os–acampamentos para–exércitos–deles seis centenas mil e–três–de milhares e–cinco centenas e–cinquenta
+-- c2-v33: E–os–Levi'im não foram–contados em–meio–de filhos–de Yisra'el como–que ordenou YHWH (a) Mosheh
+-- c2-v34: E–fizeram filhos–de Yisra'el conforme–tudo que ordenou YHWH (a) Mosheh assim acamparam para–estandartes–deles e–assim viajaram homem para–famílias–dele sobre casa–de pais–dele
+-- c3-v1: E–estes gerações–de 'Aharon e–Mosheh em–dia falou YHWH (a) Mosheh em–monte Sinay
+-- c3-v2: E–estes nomes–de filhos–de 'Aharon o–primogênito Nadav e–'Avihu 'El'azar e–'Itamar
+-- c3-v3: Estes nomes–de filhos–de 'Aharon os–sacerdotes os–ungidos que encheu mão–deles para–ministrar-como-sacerdote
+-- c3-v4: E–morreu Nadav e–'Avihu diante–de YHWH ao–oferecerem–deles fogo estranho diante–de YHWH em–deserto–de Sinay e–filhos não havia para–eles e–ministrou-como-sacerdote 'El'azar e–'Itamar sobre face–de 'Aharon pai–deles ¶
+-- c3-v5: E–falou YHWH a Mosheh para–dizer
+-- c3-v6: Faz–aproximar (a) tribo–de Levi e–farás-ficar-de-pé (a)–ele diante–de 'Aharon o–sacerdote e–servirão (a)–ele
+-- c3-v7: E–guardarão (a) guarda–dele e–(a) guarda–de toda a–congregação diante–de tenda–de encontro para–fazer (a) serviço–de o–tabernáculo
+-- c3-v8: E–guardarão (a) todos utensílios–de tenda–de encontro e–(a) guarda–de filhos–de Yisra'el para–fazer (a) serviço–de o–tabernáculo
+-- c3-v9: E–darás (a) os–Levi'im para–'Aharon e–para–filhos–dele dados dados eles para–ele de–com filhos–de Yisra'el
+-- c3-v10: E–(a) 'Aharon e–(a) filhos–dele designarás e–guardarão (a) sacerdócio–deles e–o–estranho que–se–aproxima morrerá ¶
+-- c3-v11: E–falou YHWH a Mosheh para–dizer
+-- c3-v12: E–Eu eis tomei (a) os–Levi'im de–meio–de filhos–de Yisra'el em-lugar-de todo primogênito que–abre ventre de–filhos–de Yisra'el e–serão para–Mim os–Levi'im
+-- c3-v13: Pois para–Mim todo primogênito em–dia feri todo primogênito em–terra–de Mitsrayim santifiquei para–Mim todo primogênito em–Yisra'el de–humano até animal para–Mim serão Eu YHWH §
+-- c3-v14: E–falou YHWH a Mosheh em–deserto–de Sinay para–dizer
+-- c3-v15: Conta (a) filhos–de Levi para–casa–de pais–deles para–famílias–deles todo macho de–filho–de mês e–para-cima contarás–eles
+-- c3-v16: E–contou (a)–eles Mosheh sobre boca–de YHWH como–que foi–ordenado
+-- c3-v17: E–foram estes filhos–de Levi em–nomes–deles Gershon e–Q'hat e–M'rari
+-- c3-v18: E–estes nomes–de filhos–de Gershon para–famílias–deles Livni e–Shim'i
+-- c3-v19: E–filhos–de Q'hat para–famílias–deles 'Amram e–Yitshar Chevron e–'Uzzi'el
+-- c3-v20: E–filhos–de M'rari para–famílias–deles Machli e–Mushi estes eles famílias–de o–Levi para–casa–de pais–deles
+-- c3-v21: Para–Gershon família–de o–Livnita e–família–de o–Shim'ita estes eles famílias–de o–Gershonita
+-- c3-v22: Contados–deles em–número–de todo macho de–filho–de mês e–para-cima contados–deles sete–de milhares e–cinco centenas
+-- c3-v23: Famílias–de o–Gershonita atrás–de o–tabernáculo acamparão para–oeste
+-- c3-v24: E–príncipe–de casa–de pai para–o–Gershonita 'Elyasaf filho–de La'el
+-- c3-v25: E–guarda–de filhos–de Gershon em–tenda–de encontro o–tabernáculo e–a–tenda cobertura–dele e–cortina–de entrada–de tenda–de encontro
+-- c3-v26: E–cortinas–de o–pátio e–(a) cortina–de entrada–de o–pátio que sobre o–tabernáculo e–sobre o–altar ao-redor e–(a) cordas–dele para–todo serviço–dele
+-- c3-v27: E–para–Q'hat família–de o–'Amramita e–família–de o–Yitsharita e–família–de o–Chevronita e–família–de o–'Uzzi'elita estes eles famílias–de o–Q'hatita
+-- c3-v28: Em–número–de todo macho de–filho–de mês e–para-cima oito–de milhares e–seis centenas guardadores–de guarda–de o–santuário
+-- c3-v29: Famílias–de filhos–de Q'hat acamparão sobre lado–de o–tabernáculo para–sul
+-- c3-v30: E–príncipe–de casa–de pai para–famílias–de o–Q'hatita 'Elitsafan filho–de 'Uzzi'el
+-- c3-v31: E–guarda–deles a–arca e–a–mesa e–o–candelabro e–os–altares e–utensílios–de o–santuário que servem com–eles e–a–cortina e–todo serviço–dele
+-- c3-v32: E–príncipe príncipes–de o–Levi 'El'azar filho–de 'Aharon o–sacerdote supervisão–de guardadores–de guarda–de o–santuário
+-- c3-v33: Para–M'rari família–de o–Machlita e–família–de o–Mushita estes eles famílias–de M'rari
+-- c3-v34: E–contados–deles em–número–de todo macho de–filho–de mês e–para-cima seis–de milhares e–duzentos
+-- c3-v35: E–príncipe–de casa–de pai para–famílias–de M'rari Tsuri'el filho–de 'Avichayil sobre lado–de o–tabernáculo acamparão para–norte
+-- c3-v36: E–supervisão–de guarda–de filhos–de M'rari tábuas–de o–tabernáculo e–travessas–dele e–colunas–dele e–bases–dele e–todos utensílios–dele e–todo serviço–dele
+-- c3-v37: E–colunas–de o–pátio ao-redor e–bases–delas e–estacas–delas e–cordas–delas
+-- c3-v38: E–os–que–acampam diante–de o–tabernáculo para–leste diante–de tenda–de encontro para–nascente Mosheh e–'Aharon e–filhos–dele guardando guarda–de o–santuário para–guarda–de filhos–de Yisra'el e–o–estranho que–se–aproxima morrerá
+-- c3-v39: Todos contados–de os–Levi'im que contou Mosheh e–'Aharon sobre boca–de YHWH para–famílias–deles todo macho de–filho–de mês e–para-cima dois e–vinte mil §
+-- c3-v40: E–disse YHWH a Mosheh Conta todo primogênito macho para–filhos–de Yisra'el de–filho–de mês e–para-cima e–levanta (a) número–de nomes–deles
+-- c3-v41: E–tomarás (a) os–Levi'im para–Mim Eu YHWH em-lugar-de todo primogênito em–filhos–de Yisra'el e–(a) gado–de os–Levi'im em-lugar-de todo primogênito em–gado–de filhos–de Yisra'el
+-- c3-v42: E–contou Mosheh como–que ordenou YHWH (a)–ele (a) todo primogênito em–filhos–de Yisra'el
+-- c3-v43: E–foi todo primogênito macho em–número–de nomes de–filho–de mês e–para-cima para–contados–deles dois e–vinte mil três e–setenta e–duzentos ¶
+-- c3-v44: E–falou YHWH a Mosheh para–dizer
+-- c3-v45: Toma (a) os–Levi'im em-lugar-de todo primogênito em–filhos–de Yisra'el e–(a) gado–de os–Levi'im em-lugar-de gado–deles e–serão para–Mim os–Levi'im Eu YHWH
+-- c3-v46: E–(a) resgatados–de os–três e–os–setenta e–os–duzentos os–que-excedem sobre os–Levi'im de–primogênito–de filhos–de Yisra'el
+-- c3-v47: E–tomarás cinco–de cinco–de siclos para–o–crânio em–siclo–de o–santuário tomarás vinte gera o–siclo
+-- c3-v48: E–darás a–prata para–'Aharon e–para–filhos–dele resgatados–de os–que-excedem entre–eles
+-- c3-v49: E–tomou Mosheh (a) prata–de o–resgate de–com os–que-excedem sobre resgatados–de os–Levi'im
+-- c3-v50: De–com primogênito–de filhos–de Yisra'el tomou (a) a–prata cinco e–sessenta e–três centenas e–mil em–siclo–de o–santuário
+-- c3-v51: E–deu Mosheh (a) prata–de os–resgatados para–'Aharon e–para–filhos–dele sobre boca–de YHWH como–que ordenou YHWH (a) Mosheh ¶
+-- c4-v1: E–falou YHWH a Mosheh e–a 'Aharon para–dizer
+-- c4-v2: Levanta (a) cabeça–de filhos–de Q'hat de–meio–de filhos–de Levi para–famílias–deles para–casa–de pais–deles
+-- c4-v3: De–filho–de trinta ano e–para-cima e–até filho–de cinquenta ano todo que-vem para–o–exército para–fazer trabalho em–tenda–de encontro
+-- c4-v4: Esta serviço–de filhos–de Q'hat em–tenda–de encontro santo-de os–santos
+-- c4-v5: E–virá 'Aharon e–filhos–dele ao–viajar o–acampamento e–abaixarão (a) cortina–de a–cobertura e–cobrirão com–ela (a) arca–de o–testemunho
+-- c4-v6: E–porão sobre–ela cobertura–de pele–de tachash e–estenderão pano todo–de azul de–cima e–colocarão varas–dela
+-- c4-v7: E–sobre mesa–de a–presença estenderão pano–de azul e–porão sobre–ela (a) os–pratos e–(a) as–colheres e–(a) as–taças e–(a) jarras–de a–libação e–pão–de o–contínuo sobre–ela estará
+-- c4-v8: E–estenderão sobre–eles pano–de verme–de escarlate e–cobrirão (a)–ela com–cobertura–de pele–de tachash e–colocarão (a) varas–dela
+-- c4-v9: E–tomarão pano–de azul e–cobrirão (a) candelabro–de a–luz e–(a) lâmpadas–dele e–(a) espevitadeiras–dele e–(a) cinzeiros–dele e–(a) todos utensílios–de azeite–dele que servem para–ele com–eles
+-- c4-v10: E–porão (a)–ele e–(a) todos utensílios–dele a cobertura–de pele–de tachash e–porão sobre a–vara
+-- c4-v11: E–sobre altar–de o–ouro estenderão pano–de azul e–cobrirão (a)–ele com–cobertura–de pele–de tachash e–colocarão (a) varas–dele
+-- c4-v12: E–tomarão (a) todos utensílios–de o–serviço que servem com–eles no–santuário e–porão em pano–de azul e–cobrirão (a)–eles com–cobertura–de pele–de tachash e–porão sobre a–vara
+-- c4-v13: E–removerão-cinzas–de (a) o–altar e–estenderão sobre–ele pano–de púrpura
+-- c4-v14: E–porão sobre–ele (a) todos utensílios–dele que servem sobre–ele com–eles (a) os–braseiros (a) os–garfos e–(a) as–pás e–(a) as–bacias todos utensílios–de o–altar e–estenderão sobre–ele cobertura–de pele–de tachash e–colocarão varas–dele
+-- c4-v15: E–terminará 'Aharon e–filhos–dele de–cobrir (a) o–santuário e–(a) todos utensílios–de o–santuário ao–viajar o–acampamento e–depois–de assim virão filhos–de Q'hat para–carregar e–não tocarão em o–santuário e–morrerão estas carga–de filhos–de Q'hat em–tenda–de encontro
+-- c4-v16: E–supervisão–de 'El'azar filho–de 'Aharon o–sacerdote azeite–de a–luz e–incenso–de as–especiarias e–oferta-de-cereais–de o–contínuo e–azeite–de a–unção supervisão–de todo o–tabernáculo e–todo que nele no–santuário e–em–utensílios–dele §
+-- c4-v17: E–falou YHWH a Mosheh e–a 'Aharon para–dizer
+-- c4-v18: Não cortareis (a) tribo–de famílias–de o–Q'hatita de–meio–de os–Levi'im
+-- c4-v19: E–isto fazei para–eles e–viverão e–não morrerão ao–aproximarem-deles (a) santo-de os–santos 'Aharon e–filhos–dele virão e–colocarão (a)–eles homem homem sobre serviço–dele e–a carga–dele
+-- c4-v20: E–não virão para–ver como–engolir (a) o–santuário e–morrerão ¶
+-- c4-v21: E–falou YHWH a Mosheh para–dizer
+-- c4-v22: Levanta (a) cabeça–de filhos–de Gershon também eles para–casa–de pais–deles para–famílias–deles
+-- c4-v23: De–filho–de trinta ano e–para-cima até filho–de cinquenta ano contarás (a)–eles todo que-vem para–servir serviço para–fazer serviço em–tenda–de encontro
+-- c4-v24: Este serviço–de famílias–de o–Gershonita para–servir e–para–carga
+-- c4-v25: E–carregarão (a) cortinas–de o–tabernáculo e–(a) tenda–de encontro cobertura–dele e–cobertura–de o–tachash que sobre–ele de–cima e–(a) cortina–de entrada–de tenda–de encontro
+-- c4-v26: E–(a) cortinas–de o–pátio e–(a) cortina–de entrada–de portão–de o–pátio que sobre o–tabernáculo e–sobre o–altar ao-redor e–(a) cordas–deles e–(a) todos utensílios–de serviço–deles e–(a) tudo que será–feito para–eles e–servirão
+-- c4-v27: Sobre boca–de 'Aharon e–filhos–dele será todo serviço–de filhos–de o–Gershonita para–toda carga–deles e–para–todo serviço–deles e–designareis sobre–eles em–guarda (a) toda carga–deles
+-- c4-v28: Este serviço–de famílias–de filhos–de o–Gershonita em–tenda–de encontro e–guarda–deles em–mão–de 'Itamar filho–de 'Aharon o–sacerdote ¶
+-- c4-v29: Filhos–de M'rari para–famílias–deles para–casa–de pais–deles contarás (a)–eles
+-- c4-v30: De–filho–de trinta ano e–para-cima e–até filho–de cinquenta ano contarás–eles todo que-vem para–o–exército para–fazer (a) serviço–de tenda–de encontro
+-- c4-v31: E–esta guarda–de carga–deles para–todo serviço–deles em–tenda–de encontro tábuas–de o–tabernáculo e–travessas–dele e–colunas–dele e–bases–dele
+-- c4-v32: E–colunas–de o–pátio ao-redor e–bases–delas e–estacas–delas e–cordas–delas para–todos utensílios–deles e–para–todo serviço–deles e–em–nomes contareis (a) utensílios–de guarda–de carga–deles
+-- c4-v33: Este serviço–de famílias–de filhos–de M'rari para–todo serviço–deles em–tenda–de encontro em–mão–de 'Itamar filho–de 'Aharon o–sacerdote
+-- c4-v34: E–contou Mosheh e–'Aharon e–príncipes–de a–congregação (a) filhos–de o–Q'hatita para–famílias–deles e–para–casa–de pais–deles
+-- c4-v35: De–filho–de trinta ano e–para-cima e–até filho–de cinquenta ano todo que-vem para–o–exército para–serviço em–tenda–de encontro
+-- c4-v36: E–foram contados–deles para–famílias–deles dois-milhares sete centenas e–cinquenta
+-- c4-v37: Estes contados–de famílias–de o–Q'hatita todo o–que-serve em–tenda–de encontro que contou Mosheh e–'Aharon sobre boca–de YHWH por–mão–de Mosheh §
+-- c4-v38: E–contados–de filhos–de Gershon para–famílias–deles e–para–casa–de pais–deles
+-- c4-v39: De–filho–de trinta ano e–para-cima e–até filho–de cinquenta ano todo que-vem para–o–exército para–serviço em–tenda–de encontro
+-- c4-v40: E–foram contados–deles para–famílias–deles para–casa–de pais–deles dois-milhares e–seis centenas e–trinta
+-- c4-v41: Estes contados–de famílias–de filhos–de Gershon todo o–que-serve em–tenda–de encontro que contou Mosheh e–'Aharon sobre boca–de YHWH
+-- c4-v42: E–contados–de famílias–de filhos–de M'rari para–famílias–deles para–casa–de pais–deles
+-- c4-v43: De–filho–de trinta ano e–para-cima e–até filho–de cinquenta ano todo que-vem para–o–exército para–serviço em–tenda–de encontro
+-- c4-v44: E–foram contados–deles para–famílias–deles três–de milhares e–duzentos
+-- c4-v45: Estes contados–de famílias–de filhos–de M'rari que contou Mosheh e–'Aharon sobre boca–de YHWH por–mão–de Mosheh
+-- c4-v46: Todos os–contados que contou Mosheh e–'Aharon e–príncipes–de Yisra'el (a) os–Levi'im para–famílias–deles e–para–casa–de pais–deles
+-- c4-v47: De–filho–de trinta ano e–para-cima e–até filho–de cinquenta ano todo que-vem para–fazer serviço–de serviço e–serviço–de carga em–tenda–de encontro
+-- c4-v48: E–foram contados–deles oito–de milhares e–cinco centenas e–oitenta
+-- c4-v49: Sobre boca–de YHWH contou (a)–eles por–mão–de Mosheh homem homem sobre serviço–dele e–sobre carga–dele e–contados–dele que ordenou YHWH (a) Mosheh ¶
+-- c5-v1: E–falou YHWH a Mosheh para–dizer
+-- c5-v2: Ordena (a) filhos–de Yisra'el e–enviarão de o–acampamento todo leproso e–todo que-tem-fluxo e–todo impuro por–alma
+-- c5-v3: De–macho até fêmea enviareis a fora–de para–o–acampamento enviareis–eles e–não contaminarão (a) acampamentos–deles que Eu habito em–meio–deles
+-- c5-v4: E–fizeram assim filhos–de Yisra'el e–enviaram (a)–eles a fora–de para–o–acampamento como–que falou YHWH a Mosheh assim fizeram filhos–de Yisra'el ¶
+-- c5-v5: E–falou YHWH a Mosheh para–dizer
+-- c5-v6: Fala a filhos–de Yisra'el homem ou mulher quando fizerem de–todo pecado–de o–humano para–transgredir transgressão contra–YHWH e–será-culpada a–alma aquela
+-- c5-v7: E–confessaram (a) pecado–deles que fizeram e–restituirá (a) culpa–dele em–cabeça–dele e–quinto–dele acrescentará sobre–ele e–dará para–quem foi-culpado para–ele
+-- c5-v8: E–se não-há para–o–homem resgatador para–restituir a–culpa a–ele a–culpa a–restituída para–YHWH para–o–sacerdote além–de carneiro–de os–expiações que expiará com–ele sobre–ele
+-- c5-v9: E–toda oferta-elevada de–toda coisas-santas–de filhos–de Yisra'el que ofertarão para–o–sacerdote para–ele será
+-- c5-v10: E–homem (a) coisas-santas–dele para–ele serão homem que der para–o–sacerdote para–ele será ¶
+-- c5-v11: E–falou YHWH a Mosheh para–dizer
+-- c5-v12: Fala a filhos–de Yisra'el e–dirás a–eles homem homem quando desviar-se mulher–dele e–transgredir contra–ele transgressão
+-- c5-v13: E–deitar–se homem (a)–ela deitada–de semente e–for-oculto de–olhos–de marido–dela e–foi-escondido e–ela foi-contaminada e–testemunha não-há contra–ela e–ela não foi-apanhada
+-- c5-v14: E–passou sobre–ele espírito–de ciúme e–teve-ciúme (a) mulher–dele e–ela foi-contaminada ou passou sobre–ele espírito–de ciúme e–teve-ciúme (a) mulher–dele e–ela não foi-contaminada
+-- c5-v15: E–trará o–homem (a) mulher–dele a o–sacerdote e–trará (a) oferta–dela sobre–ela décimo–de a–efa farinha–de cevada não derramará sobre–ele azeite e–não porá sobre–ele olíbano pois oferta-de-cereais–de ciúmes ela oferta-de-cereais–de memorial que-faz-lembrar iniquidade
+-- c5-v16: E–fará-aproximar (a)–ela o–sacerdote e–fará-ficar-de-pé–ela diante–de YHWH
+-- c5-v17: E–tomará o–sacerdote águas santas em–vaso–de barro e–de o–pó que estará em–chão–de o–tabernáculo tomará o–sacerdote e–porá em a–água
+-- c5-v18: E–fará-ficar-de-pé o–sacerdote (a) a–mulher diante–de YHWH e–soltará (a) cabeça–de a–mulher e–porá sobre palmas–dela (a) oferta-de-cereais–de o–memorial oferta-de-cereais–de ciúmes ela e–em–mão–de o–sacerdote estarão águas–de as–amargas as–que-amaldiçoam
+-- c5-v19: E–fará-jurar (a)–ela o–sacerdote e–dirá a a–mulher se não deitou-se homem (a)–ti e–se não desviaste-te impureza debaixo–de marido–teu sê-livre de–águas–de as–amargas as–que-amaldiçoam estas
+-- c5-v20: E–tu quando desviaste-te debaixo–de marido–teu e–quando foste-contaminada e–deu homem em–ti (a) deitada–dele sem-ser-de marido–teu
+-- c5-v21: E–fará-jurar o–sacerdote (a) a–mulher com–juramento–de a–maldição e–dirá o–sacerdote para–a–mulher dará YHWH (a)–ti para–maldição e–para–juramento em–meio–de povo–teu ao–dar YHWH (a) coxa–tua que-cai e–(a) ventre–teu inchado
+-- c5-v22: E–entrarão as–águas as–que-amaldiçoam estas em–entranhas–tuas para–inchar ventre e–para–cair coxa e–dirá a–mulher amem amem
+-- c5-v23: E–escreverá (a) as–maldições estas o–sacerdote em–o–livro e–apagará em águas–de as–amargas
+-- c5-v24: E–fará-beber (a) a–mulher (a) águas–de as–amargas as–que-amaldiçoam e–entrarão nela as–águas as–que-amaldiçoam para–amarguras
+-- c5-v25: E–tomará o–sacerdote de–mão–de a–mulher (a) oferta-de-cereais–de os–ciúmes e–moverá (a) a–oferta-de-cereais diante–de YHWH e–fará-aproximar (a)–ela a o–altar
+-- c5-v26: E–tomará-punhado o–sacerdote de a–oferta-de-cereais (a) memorial–dela e–queimará o–altar e–depois fará-beber (a) a–mulher (a) a–água
+-- c5-v27: E–fará-beber–ela (a) a–água e–será se foi-contaminada e–transgrediu transgressão contra–marido–dela e–entrarão nela as–águas as–que-amaldiçoam para–amarguras e–inchará ventre–dela e–cairá coxa–dela e–será a–mulher para–maldição em–meio–de povo–dela
+-- c5-v28: E–se não foi-contaminada a–mulher e–pura ela e–será-livre e–será-semeada semente
+-- c5-v29: Esta lei–de os–ciúmes quando desviar-se mulher debaixo–de marido–dela e–for-contaminada
+-- c5-v30: Ou homem que passar sobre–ele espírito–de ciúme e–tiver-ciúme (a) mulher–dele e–fará-ficar-de-pé (a) a–mulher diante–de YHWH e–fará para–ela o–sacerdote (a) toda a–lei esta
+-- c5-v31: E–será-livre o–homem de–iniquidade e–a–mulher aquela carregará (a) iniquidade–dela ¶
+-- c6-v1: E–falou YHWH a Mosheh para–dizer
+-- c6-v2: Fala a filhos–de Yisra'el e–dirás a–eles homem ou mulher quando fizer-maravilhoso para–votar voto–de nazireu para–separar-se para–YHWH
+-- c6-v3: De–vinho e–bebida-forte separar-se-á vinagre–de vinho e–vinagre–de bebida-forte não beberá e–todo suco–de uvas não beberá e–uvas frescas e–secas não comerá
+-- c6-v4: Todos dias–de nazireado–dele de–tudo que for-feito de–videira–de o–vinho de–semente e–até casca não comerá
+-- c6-v5: Todos dias–de voto–de nazireado–dele navalha não passará sobre cabeça–dele até cumprir-se os–dias que separar-se para–YHWH santo será deixar-crescer madeixas–de cabelo–de cabeça–dele
+-- c6-v6: Todos dias–de separar-se–dele para–YHWH sobre alma morta não virá
+-- c6-v7: Para–pai–dele e–para–mãe–dele para–irmão–dele e–para–irmã–dele não contaminar-se-á por–eles ao–morrerem–deles pois coroa–de Deus–dele sobre cabeça–dele
+-- c6-v8: Todos dias–de nazireado–dele santo ele para–YHWH
+-- c6-v9: E–quando morrer morto sobre–ele em–repente de-repente e–contaminar cabeça–de nazireado–dele e–raspará cabeça–dele em–dia–de purificação–dele em–o–dia o–sétimo raspará–ela
+-- c6-v10: E–em–o–dia o–oitavo trará duas rolas ou dois filhos–de pomba a o–sacerdote a entrada–de tenda–de encontro
+-- c6-v11: E–fará o–sacerdote um para–pecado e–um para–holocausto e–expiará sobre–ele porque pecou sobre a–alma e–santificará (a) cabeça–dele em–o–dia aquele
+-- c6-v12: E–separar-se-á para–YHWH (a) dias–de nazireado–dele e–trará cordeiro filho–de ano–dele para–culpa e–os–dias os–primeiros cairão pois contaminado nazireado–dele
+-- c6-v13: E–esta lei–de o–nazireu em–dia cumprir-se dias–de nazireado–dele trará (a)–ele a entrada–de tenda–de encontro
+-- c6-v14: E–oferecerá (a) oferta–dele para–YHWH cordeiro filho–de ano–dele perfeito um para–holocausto e–cordeira uma filha–de ano–dela perfeita para–pecado e–carneiro um perfeito para–ofertas-pacíficas
+-- c6-v15: E–cesto–de ázimos flor-de-farinha bolos misturados com–o–azeite e–obleas–de ázimos untadas com–o–azeite e–oferta-de-cereais–deles e–libações–deles
+-- c6-v16: E–oferecerá o–sacerdote diante–de YHWH e–fará (a) pecado–dele e–(a) holocausto–dele
+-- c6-v17: E–(a) o–carneiro fará sacrifício–de ofertas-pacíficas para–YHWH sobre cesto–de os–ázimos e–fará o–sacerdote (a) oferta-de-cereais–dele e–(a) libação–dele
+-- c6-v18: E–raspará o–nazireu entrada–de tenda–de encontro (a) cabeça–de nazireado–dele e–tomará (a) cabelo–de cabeça–de nazireado–dele e–porá sobre o–fogo que debaixo–de sacrifício–de as–ofertas-pacíficas
+-- c6-v19: E–tomará o–sacerdote (a) o–ombro cozido de o–carneiro e–bolo–de ázimo um de o–cesto e–oblea–de ázimo uma e–porá sobre palmas–de o–nazireu depois raspar-se–dele (a) nazireado–dele
+-- c6-v20: E–moverá (a)–eles o–sacerdote movimento diante–de YHWH santo ele para–o–sacerdote sobre peito–de o–movimento e–sobre coxa–de a–oferta-elevada e–depois beberá o–nazireu vinho
+-- c6-v21: Esta lei–de o–nazireu que votar oferta–dele para–YHWH sobre nazireado–dele além–de que alcançar mão–dele conforme voto–dele que votar assim fará sobre lei–de nazireado–dele ¶
+-- c6-v22: E–falou YHWH a Mosheh para–dizer
+-- c6-v23: Fala a 'Aharon e–a filhos–dele para–dizer assim abençoareis (a) filhos–de Yisra'el dizendo para–eles §
+-- c6-v24: Abençoar-te-á YHWH e–guardar-te-á §
+-- c6-v25: Fará-brilhar YHWH face–Dele a–ti e–terá-graça-de-ti §
+-- c6-v26: Levantará YHWH face–Dele a–ti e–colocará para–ti paz §
+-- c6-v27: E–colocarão (a) nome–Meu sobre filhos–de Yisra'el e–Eu abençoá-los-ei ¶
+-- c7-v1: E–foi no–dia de–terminar Mosheh de–levantar (a) o–tabernáculo e–ungiu (a)–ele e–santificou (a)–ele e–(a) todos utensílios–seus e–(a) o–altar e–(a) todos utensílios–seus e–ungiu–os e–santificou (a)–eles
+-- c7-v2: E–ofereceram príncipes–de Yisra'el cabeças–de casa–de pais–seus eles príncipes–de as–tribos eles os–que–estavam sobre os–recenseados
+-- c7-v3: E–trouxeram (a) oferta–sua diante–de YHWH seis carros cobertos e–dois dez bois carro para dois os–príncipes e–boi para–um e–ofereceram (a)–eles diante–de o–tabernáculo
+-- c7-v4: E–disse YHWH a Mosheh dizendo
+-- c7-v5: Toma de–eles e–serão para–servir (a) serviço–de tenda–de reunião e–darás (a)–eles a os–levitas homem conforme serviço–seu
+-- c7-v6: E–tomou Mosheh (a) os–carros e–(a) o–gado e–deu (a)–eles a os–levitas
+-- c7-v7: (a) dois os–carros e–(a) quatro o–gado deu a–filhos–de Gershon conforme serviço–seu
+-- c7-v8: E–(a) quatro os–carros e–(a) oito o–gado deu a–filhos–de Merari conforme serviço–seu por–mão–de 'Itamar filho–de 'Aharon o–sacerdote
+-- c7-v9: E–a–filhos–de Qehat não deu pois serviço–de o–santuário sobre–eles sobre–ombro carregarão
+-- c7-v10: E–ofereceram os–príncipes (a) dedicação–de o–altar no–dia ser–ungido (a)–ele e–ofereceram os–príncipes (a) oferta–sua diante–de o–altar
+-- c7-v11: E–disse YHWH a Mosheh príncipe um por–dia príncipe um por–dia oferecerão (a) oferta–sua para–dedicação–de o–altar §
+-- c7-v12: E–foi o–que–oferecia no–dia o–primeiro (a) oferta–sua Nachshon filho–de 'Amminadav da–tribo–de Yehudah
+-- c7-v13: E–oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v14: colher uma dez ouro cheia incenso
+-- c7-v15: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v16: bode cabras um para–oferta–pelo–pecado
+-- c7-v17: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de Nachshon filho–de 'Amminadav ¶
+-- c7-v18: No–dia o–segundo ofereceu Netan'el filho–de Tsu'ar príncipe–de Yissakhar
+-- c7-v19: Ofereceu (a) oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v20: colher uma dez ouro cheia incenso
+-- c7-v21: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v22: bode cabras um para–oferta–pelo–pecado
+-- c7-v23: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de Netan'el filho–de Tsu'ar ¶
+-- c7-v24: No–dia o–terceiro príncipe de–filhos–de Zevulun 'Eli'av filho–de Chelon
+-- c7-v25: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v26: colher uma dez ouro cheia incenso
+-- c7-v27: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v28: bode cabras um para–oferta–pelo–pecado
+-- c7-v29: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de 'Eli'av filho–de Chelon ¶
+-- c7-v30: No–dia o–quarto príncipe de–filhos–de Re'uven 'Elitsur filho–de Shedey'ur
+-- c7-v31: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v32: colher uma dez ouro cheia incenso
+-- c7-v33: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v34: bode cabras um para–oferta–pelo–pecado
+-- c7-v35: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de 'Elitsur filho–de Shedey'ur ¶
+-- c7-v36: No–dia o–quinto príncipe de–filhos–de Shim'on Shelumi'el filho–de Tsurishaddai
+-- c7-v37: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v38: colher uma dez ouro cheia incenso
+-- c7-v39: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v40: bode cabras um para–oferta–pelo–pecado
+-- c7-v41: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de Shelumi'el filho–de Tsurishaddai ¶
+-- c7-v42: No–dia o–sexto príncipe de–filhos–de Gad 'Elyasaf filho–de De'u'el
+-- c7-v43: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v44: colher uma dez ouro cheia incenso
+-- c7-v45: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v46: bode cabras um para–oferta–pelo–pecado
+-- c7-v47: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de 'Elyasaf filho–de De'u'el ¶
+-- c7-v48: No–dia o–sétimo príncipe de–filhos–de 'Efrayim 'Elishama' filho–de 'Ammihud
+-- c7-v49: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v50: colher uma dez ouro cheia incenso
+-- c7-v51: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v52: bode cabras um para–oferta–pelo–pecado
+-- c7-v53: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de 'Elishama' filho–de 'Ammihud ¶
+-- c7-v54: No–dia o–oitavo príncipe de–filhos–de Menashsheh Gamli'el filho–de Pedahtsur
+-- c7-v55: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v56: colher uma dez ouro cheia incenso
+-- c7-v57: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v58: bode cabras um para–oferta–pelo–pecado
+-- c7-v59: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de Gamli'el filho–de Pedahtsur ¶
+-- c7-v60: No–dia o–nono príncipe de–filhos–de Binyamin 'Avidan filho–de Gid'oni
+-- c7-v61: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v62: colher uma dez ouro cheia incenso
+-- c7-v63: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v64: bode cabras um para–oferta–pelo–pecado
+-- c7-v65: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de 'Avidan filho–de Gid'oni ¶
+-- c7-v66: No–dia o–décimo príncipe de–filhos–de Dan 'Achi'ezer filho–de 'Ammishaddai
+-- c7-v67: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v68: colher uma dez ouro cheia incenso
+-- c7-v69: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v70: bode cabras um para–oferta–pelo–pecado
+-- c7-v71: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de 'Achi'ezer filho–de 'Ammishaddai ¶
+-- c7-v72: No–dia onze dez dia príncipe de–filhos–de 'Asher Pag'i'el filho–de 'Okhran
+-- c7-v73: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v74: colher uma dez ouro cheia incenso
+-- c7-v75: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v76: bode cabras um para–oferta–pelo–pecado
+-- c7-v77: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de Pag'i'el filho–de 'Okhran ¶
+-- c7-v78: No–dia dois dez dia príncipe de–filhos–de Naftali 'Achira' filho–de 'Eynan
+-- c7-v79: Oferta–sua prato–de prata um trinta e–cem peso–seu bacia uma prata setenta siclo em–siclo–de o–santuário ambos cheios flor–de–farinha misturada com–azeite para–oferta–de–cereais
+-- c7-v80: colher uma dez ouro cheia incenso
+-- c7-v81: novilho um filho–de gado carneiro um cordeiro um filho–de ano–seu para–holocausto
+-- c7-v82: bode cabras um para–oferta–pelo–pecado
+-- c7-v83: E–para–sacrifício–de as–ofertas–pacíficas gado dois carneiros cinco bodes cinco cordeiros filhos–de ano cinco esta oferta–de 'Achira' filho–de 'Eynan ¶
+-- c7-v84: Esta dedicação–de o–altar no–dia ser–ungido (a)–ele de–parte–de príncipes–de Yisra'el pratos–de prata dois dez bacias–de prata dois dez colheres–de ouro dois dez
+-- c7-v85: trinta e–cem o–prato o–um prata e–setenta a–bacia a–uma todo prata–de os–utensílios dois–mil e–quatro cem em–siclo–de o–santuário
+-- c7-v86: colheres–de ouro dois dez cheias incenso dez dez a–colher em–siclo–de o–santuário todo ouro–de as–colheres vinte e–cem
+-- c7-v87: todo o–gado para–holocausto dois dez novilhos carneiros dois dez cordeiros filhos–de ano dois dez e–oferta–de–cereais–sua e–bodes–de cabras dois dez para–oferta–pelo–pecado
+-- c7-v88: E–todo gado–de sacrifício–de as–ofertas–pacíficas vinte e–quatro novilhos carneiros sessenta bodes sessenta cordeiros filhos–de ano sessenta esta dedicação–de o–altar depois–de ser–ungido (a)–ele
+-- c7-v89: E–quando–entrar Mosheh em tenda–de reunião para–falar com–ele e–ouviu (a) a–voz falando a–ele de–sobre o–propiciatório que sobre arca–de o–testemunho de–entre dois os–querubins e–falou a–ele ¶
+-- c8-v1: E–falou YHWH a Mosheh dizendo
+-- c8-v2: Fala a 'Aharon e–dirás a–ele quando–acenderes (a) as–lâmpadas para frente–de face–de o–candelabro iluminarão sete as–lâmpadas
+-- c8-v3: E–fez assim 'Aharon para frente–de face–de o–candelabro acendeu lâmpadas–suas como ordenou YHWH (a) Mosheh
+-- c8-v4: E–esta obra–de o–candelabro ouro–batido ouro até base–sua até flor–sua ouro–batido ela conforme–a–aparência que mostrou YHWH (a) Mosheh assim fez (a) o–candelabro ¶
+-- c8-v5: E–falou YHWH a Mosheh dizendo
+-- c8-v6: Toma (a) os–levitas do–meio–de filhos–de Yisra'el e–purificarás (a)–eles
+-- c8-v7: E–assim farás a–eles para–purificá–los esparge sobre–eles água–de purificação e–passarão navalha sobre toda carne–sua e–lavarão vestes–suas e–purificar–se–ão
+-- c8-v8: E–tomarão novilho filho–de gado e–oferta–de–cereais–sua flor–de–farinha misturada com–azeite e–novilho segundo filho–de gado tomarás para–oferta–pelo–pecado
+-- c8-v9: E–aproximarás (a) os–levitas diante–de tenda–de reunião e–reunirás (a) toda congregação–de filhos–de Yisra'el
+-- c8-v10: E–aproximarás (a) os–levitas diante–de YHWH e–imporão filhos–de Yisra'el (a) mãos–suas sobre os–levitas
+-- c8-v11: E–moverá 'Aharon (a) os–levitas oferta–movida diante–de YHWH de–parte–de filhos–de Yisra'el e–serão para–servir (a) serviço–de YHWH
+-- c8-v12: E–os–levitas imporão (a) mãos–suas sobre cabeça–de os–novilhos e–farás (a) o–um oferta–pelo–pecado e–(a) o–um holocausto para–YHWH para–expiar sobre os–levitas
+-- c8-v13: E–farás–estar (a) os–levitas diante–de 'Aharon e–diante–de filhos–seus e–moverás (a)–eles oferta–movida para–YHWH
+-- c8-v14: E–separarás (a) os–levitas do–meio–de filhos–de Yisra'el e–serão para–mim os–levitas
+-- c8-v15: E–depois–de assim virão os–levitas para–servir (a) tenda–de reunião e–purificarás (a)–eles e–moverás (a)–eles oferta–movida
+-- c8-v16: Pois dados dados eles para–mim do–meio–de filhos–de Yisra'el em–lugar–de o–que–abre–de todo ventre primogênito–de todo de–filhos–de Yisra'el tomei (a)–eles para–mim
+-- c8-v17: Pois para–mim todo primogênito em–filhos–de Yisra'el no–homem e–no–animal no–dia ferir–eu todo primogênito em–terra–de Mitsrayim santifiquei (a)–eles para–mim
+-- c8-v18: E–tomei (a) os–levitas em–lugar–de todo primogênito em–filhos–de Yisra'el
+-- c8-v19: E–dei (a) os–levitas dados para–'Aharon e–para–filhos–seus do–meio–de filhos–de Yisra'el para–servir (a) serviço–de filhos–de Yisra'el na–tenda–de reunião e–para–expiar sobre filhos–de Yisra'el e–não haverá em–filhos–de Yisra'el praga ao–aproximar filhos–de Yisra'el de o–santuário
+-- c8-v20: E–fez Mosheh e–'Aharon e–toda congregação–de filhos–de Yisra'el aos–levitas conforme–tudo que ordenou YHWH (a) Mosheh aos–levitas assim fizeram a–eles filhos–de Yisra'el
+-- c8-v21: E–purificaram–se os–levitas e–lavaram vestes–suas e–moveu 'Aharon (a)–eles oferta–movida diante–de YHWH e–expiou por–eles 'Aharon para–purificá–los
+-- c8-v22: E–depois–de assim vieram os–levitas para–servir (a) serviço–seu na–tenda–de reunião diante–de 'Aharon e–diante–de filhos–seus como ordenou YHWH (a) Mosheh sobre os–levitas assim fizeram a–eles §
+-- c8-v23: E–falou YHWH a Mosheh dizendo
+-- c8-v24: Isto que para–os–levitas de–filho–de cinco e–vinte anos e–acima virá para–servir serviço no–serviço–de tenda–de reunião
+-- c8-v25: E–de–filho–de cinquenta anos retornará do–serviço–de o–trabalho e–não servirá mais
+-- c8-v26: E–ministrará (a) irmãos–seus na–tenda–de reunião para–guardar guarda e–trabalho não trabalhará assim farás aos–levitas em–guardas–suas ¶
+-- c9-v1: E–falou YHWH a Mosheh no–deserto–de Sinai no–ano o–segundo de–saírem–eles da–terra–de Mitsrayim no–mês o–primeiro dizendo
+-- c9-v2: E–farão filhos–de Yisra'el (a) a–Páscoa no–tempo–designado–seu
+-- c9-v3: No–quatorze dez dia no–mês o–este entre as–tardes fareis (a)–ela no–tempo–designado–seu conforme–todos estatutos–seus e–conforme–todos juízos–seus fareis (a)–ela
+-- c9-v4: E–falou Mosheh a filhos–de Yisra'el para–fazer a–Páscoa
+-- c9-v5: E–fizeram (a) a–Páscoa no–primeiro no–quatorze dez dia do–mês entre as–tardes no–deserto–de Sinai conforme–tudo que ordenou YHWH (a) Mosheh assim fizeram filhos–de Yisra'el
+-- c9-v6: E–houve homens que estavam impuros por–alma–de homem e–não puderam fazer a–Páscoa no–dia o–esse e–aproximaram–se diante–de Mosheh e–diante–de 'Aharon no–dia o–esse
+-- c9-v7: E–disseram os–homens os–esses a–ele nós impuros por–alma–de homem por–que seremos–diminuídos para–não oferecer (a) oferta–de YHWH no–tempo–designado–seu no–meio–de filhos–de Yisra'el
+-- c9-v8: E–disse a–eles Mosheh esperai e–ouvirei que ordenará YHWH para–vós ¶
+-- c9-v9: E–falou YHWH a Mosheh dizendo
+-- c9-v10: Fala a filhos–de Yisra'el dizendo homem homem quando for impuro por–alma ou em–caminho distante para–vós ou para–gerações–vossas e–fará Páscoa para–YHWH
+-- c9-v11: No–mês o–segundo no–quatorze dez dia entre as–tardes farão (a)–ela sobre pães–ázimos e–ervas–amargas comerão–a
+-- c9-v12: Não deixarão dela até manhã e–osso não quebrarão nela conforme–todo estatuto–de a–Páscoa farão (a)–ela
+-- c9-v13: E–o–homem que ele puro e–em–caminho não estava e–deixou de–fazer a–Páscoa e–será–cortada a–alma a–essa de–povos–seus pois oferta–de YHWH não ofereceu no–tempo–designado–seu pecado–seu levará o–homem o–esse
+-- c9-v14: E–quando peregrinar convosco estrangeiro e–fizer Páscoa para–YHWH conforme–estatuto–de a–Páscoa e–conforme–juízo–seu assim fará estatuto um será para–vós e–para–o–estrangeiro e–para–o–nativo–de a–terra ¶
+-- c9-v15: E–no–dia levantar (a) o–tabernáculo cobriu a–nuvem (a) o–tabernáculo a–tenda–de o–testemunho e–à–tarde haverá sobre o–tabernáculo como–aparência–de fogo até manhã
+-- c9-v16: Assim será continuamente a–nuvem cobrirá–o e–aparência–de fogo à–noite
+-- c9-v17: E–conforme subir a–nuvem de–sobre a–tenda e–depois–de assim partiam filhos–de Yisra'el e–no–lugar que pousava ali a–nuvem ali acampavam filhos–de Yisra'el
+-- c9-v18: Segundo boca–de YHWH partiam filhos–de Yisra'el e–segundo boca–de YHWH acampavam todos dias que pousava a–nuvem sobre o–tabernáculo acampavam
+-- c9-v19: E–quando–prolongar a–nuvem sobre o–tabernáculo dias muitos e–guardavam filhos–de Yisra'el (a) guarda–de YHWH e–não partiam
+-- c9-v20: E–havia que seria a–nuvem dias número sobre o–tabernáculo segundo boca–de YHWH acampavam e–segundo boca–de YHWH partiam
+-- c9-v21: E–havia que seria a–nuvem da–tarde até manhã e–subindo a–nuvem pela–manhã e–partiam ou de–dia e–de–noite e–subindo a–nuvem e–partiam
+-- c9-v22: Ou dois–dias ou mês ou dias quando–prolongar a–nuvem sobre o–tabernáculo para–pousar sobre–ele acampavam filhos–de Yisra'el e–não partiam e–quando–subir–ela partiam
+-- c9-v23: Segundo boca–de YHWH acampavam e–segundo boca–de YHWH partiam (a) guarda–de YHWH guardaram segundo boca–de YHWH por–mão–de Mosheh ¶
+-- c10-v1: E–falou YHWH a Mosheh dizendo
+-- c10-v2: Faze para–ti duas trombetas prata batidas farás (a)–elas e–serão para–ti para–convocar a–congregação e–para–partir (a) os–acampamentos
+-- c10-v3: E–tocarão nelas e–reunir–se–ão a–ti toda a–congregação a entrada–de tenda–de reunião
+-- c10-v4: E–se com–uma tocarem e–reunir–se–ão a–ti os–príncipes cabeças–de milhares–de Yisra'el
+-- c10-v5: E–tocardes alarido e–partirão os–acampamentos os–acampados oriente
+-- c10-v6: E–tocardes alarido segunda–vez e–partirão os–acampamentos os–acampados sul alarido tocarão para–jornadas–suas
+-- c10-v7: E–quando–reunir (a) a–assembleia tocareis e–não soareis–alarido
+-- c10-v8: E–filhos–de 'Aharon os–sacerdotes tocarão nas–trombetas e–serão para–vós para–estatuto–de eternidade para–gerações–vossas
+-- c10-v9: E–quando fordes guerra em–terra–vossa contra o–opressor o–que–oprime (a)–vós e–soareis–alarido nas–trombetas e–sereis–lembrados diante–de YHWH 'Elohim–vosso e–sereis–salvos de–inimigos–vossos
+-- c10-v10: E–no–dia–de alegria–vossa e–em–festas–vossas e–nos–princípios–de meses–vossos e–tocareis nas–trombetas sobre holocaustos–vossos e–sobre sacrifícios–de ofertas–pacíficas–vossas e–serão para–vós para–memorial diante–de 'Elohim–vosso Eu YHWH 'Elohim–vosso ¶
+-- c10-v11: E–foi no–ano o–segundo no–mês o–segundo no–vinte do–mês subiu a–nuvem de–sobre tabernáculo–de o–testemunho
+-- c10-v12: E–partiram filhos–de Yisra'el para–jornadas–suas do–deserto–de Sinai e–pousou a–nuvem no–deserto–de Paran
+-- c10-v13: E–partiram na–primeira–vez segundo boca–de YHWH por–mão–de Mosheh
+-- c10-v14: E–partiu bandeira–de acampamento–de filhos–de Yehudah na–primeira–vez por–exércitos–seus e–sobre exército–seu Nachshon filho–de 'Amminadav
+-- c10-v15: E–sobre exército–de tribo–de filhos–de Yissakhar Netan'el filho–de Tsu'ar
+-- c10-v16: E–sobre exército–de tribo–de filhos–de Zevulun 'Eli'av filho–de Chelon
+-- c10-v17: E–foi–desmontado o–tabernáculo e–partiram filhos–de Gershon e–filhos–de Merari carregadores–de o–tabernáculo §
+-- c10-v18: E–partiu bandeira–de acampamento–de Re'uven por–exércitos–seus e–sobre exército–seu 'Elitsur filho–de Shedey'ur
+-- c10-v19: E–sobre exército–de tribo–de filhos–de Shim'on Shelumi'el filho–de Tsurishaddai
+-- c10-v20: E–sobre exército–de tribo–de filhos–de Gad 'Elyasaf filho–de De'u'el
+-- c10-v21: E–partiram os–coatitas carregadores–de o–santuário e–levantaram (a) o–tabernáculo até virem–eles §
+-- c10-v22: E–partiu bandeira–de acampamento–de filhos–de 'Efrayim por–exércitos–seus e–sobre exército–seu 'Elishama' filho–de 'Ammihud
+-- c10-v23: E–sobre exército–de tribo–de filhos–de Menashsheh Gamli'el filho–de Pedah Tsur
+-- c10-v24: E–sobre exército–de tribo–de filhos–de Binyamin 'Avidan filho–de Gid'oni §
+-- c10-v25: E–partiu bandeira–de acampamento–de filhos–de Dan retaguarda de–todos os–acampamentos por–exércitos–seus e–sobre exército–seu 'Achi'ezer filho–de 'Ammishaddai
+-- c10-v26: E–sobre exército–de tribo–de filhos–de 'Asher Pag'i'el filho–de 'Okhran
+-- c10-v27: E–sobre exército–de tribo–de filhos–de Naftali 'Achira' filho–de 'Eynan
+-- c10-v28: Estas jornadas–de filhos–de Yisra'el por–exércitos–seus e–partiram §
+-- c10-v29: E–disse Mosheh a–Chovav filho–de Re'u'el o–midianita sogro–de Mosheh partindo nós para o–lugar que disse YHWH (a)–ele darei a–vós vem conosco e–faremos–bem a–ti pois YHWH falou bem sobre Yisra'el
+-- c10-v30: E–disse a–ele não irei mas sim para terra–minha e–para parentela–minha irei
+-- c10-v31: E–disse não por–favor abandones (a)–nós pois por assim conheces acampar–nosso no–deserto e–serás para–nós como–olhos
+-- c10-v32: E–será quando fores conosco e–será o–bem o–esse que fizer–bem YHWH conosco e–faremos–bem a–ti
+-- c10-v33: E–partiram do–monte–de YHWH caminho–de três dias e–arca–de aliança–de YHWH partindo diante–deles caminho–de três dias para–buscar para–eles descanso
+-- c10-v34: E–nuvem–de YHWH sobre–eles de–dia ao–partir–eles de o–acampamento §
+-- c10-v35: E–foi ao–partir a–arca e–disse Mosheh Levanta–Te YHWH e–dispersar–se–ão inimigos–Teus e–fugirão aborrecedores–Teus de–face–Tua
+-- c10-v36: E–ao–pousar–ela dizia Volta YHWH miríades–de milhares–de Yisra'el §
+-- c11-v1: E–foi o–povo como–queixosos mal nos–ouvidos–de YHWH e–ouviu YHWH e–acendeu–se ira–Sua e–ardeu neles fogo–de YHWH e–consumiu na–extremidade–de o–acampamento
+-- c11-v2: E–clamou o–povo a Mosheh e–orou Mosheh a YHWH e–afundou o–fogo
+-- c11-v3: E–chamou nome–de o–lugar o–esse Tav'erah pois ardeu neles fogo–de YHWH
+-- c11-v4: E–a–mistura que no–meio–seu desejaram desejo e–voltaram e–choraram também filhos–de Yisra'el e–disseram quem nos–dará–comer carne
+-- c11-v5: Lembramos (a) o–peixe que comíamos no–Egito de–graça (a) os–pepinos e–(a) as–melancias e–(a) o–alho–poró e–(a) as–cebolas e–(a) os–alhos
+-- c11-v6: E–agora alma–nossa seca não–há nada a–não–ser para o–maná olhos–nossos
+-- c11-v7: E–o–maná como–semente–de coentro ele e–aparência–seu como–aparência–de o–bdélio
+-- c11-v8: Vagava o–povo e–recolhiam e–moíam nos–moinhos ou socavam no–pilão e–cozinhavam na–panela e–faziam (a)–ele bolos e–era sabor–seu como–sabor–de bolo–de azeite
+-- c11-v9: E–ao–descer o–orvalho sobre o–acampamento à–noite descia o–maná sobre–ele
+-- c11-v10: E–ouviu Mosheh (a) o–povo chorando por–famílias–suas homem à–entrada–de tenda–sua e–acendeu–se ira–de YHWH muito e–nos–olhos–de Mosheh mal
+-- c11-v11: E–disse Mosheh a YHWH por–que fizeste–mal a–servo–Teu e–por–que não achei graça em–olhos–Teus para–pôr (a) carga–de todo o–povo o–este sobre–mim
+-- c11-v12: Por–acaso–eu concebi (a) todo o–povo o–este se eu gerei–o pois dizes a–mim carrega–o em–teu–colo como carrega o–que–cria (a) o–lactente sobre a–terra que juraste aos–pais–seus
+-- c11-v13: De–onde para–mim carne para–dar a–todo o–povo o–este pois choram sobre–mim dizendo dá a–nós carne e–comeremos
+-- c11-v14: Não posso eu sozinho carregar (a) todo o–povo o–este pois pesado de–mim
+-- c11-v15: E–se assim Tu fazendo a–mim mata–me por–favor matar se achei graça em–olhos–Teus e–não veja no–mal–meu ¶
+-- c11-v16: E–disse YHWH a Mosheh reúne para–Mim setenta homem dos–anciãos–de Yisra'el que conheces que eles anciãos–de o–povo e–oficiais–seus e–tomarás (a)–eles para tenda–de reunião e–apresentar–se–ão ali contigo
+-- c11-v17: E–descerei e–falarei contigo ali e–separarei de o–espírito que sobre–ti e–porei sobre–eles e–carregarão contigo na–carga–de o–povo e–não carregarás tu sozinho
+-- c11-v18: E–a o–povo dirás santificai–vos para–amanhã e–comereis carne pois chorastes nos–ouvidos–de YHWH dizendo quem nos–dará–comer carne pois bom para–nós no–Egito e–dará YHWH a–vós carne e–comereis
+-- c11-v19: Não dia um comereis e–não dois–dias e–não cinco dias e–não dez dias e–não vinte dia
+-- c11-v20: Até mês–de dias até que sair de–narizes–vossos e–será para–vós para–náusea porque que rejeitastes (a) YHWH que em–meio–vosso e–chorastes diante–Dele dizendo por–que isso saímos do–Egito
+-- c11-v21: E–disse Mosheh seis cem mil a–pé o–povo que eu no–meio–seu e–Tu disseste carne darei a–eles e–comerão mês–de dias
+-- c11-v22: Rebanho e–gado será–abatido para–eles e–bastará para–eles se (a) todos peixes–de o–mar for–ajuntado para–eles e–bastará para–eles ¶
+-- c11-v23: E–disse YHWH a Mosheh Por–acaso–mão–de YHWH é–curta agora verás se–te–acontecerá palavra–Minha se não
+-- c11-v24: E–saiu Mosheh e–falou a o–povo (a) palavras–de YHWH e–reuniu setenta homem dos–anciãos–de o–povo e–fez–ficar (a)–eles ao–redor–de a–tenda
+-- c11-v25: E–desceu YHWH na–nuvem e–falou a–ele e–separou de o–espírito que sobre–ele e–deu sobre setenta homem os–anciãos e–foi quando–pousar sobre–eles o–espírito e–profetizaram e–não cessaram
+-- c11-v26: E–ficaram dois homens no–acampamento nome–de o–um 'Eldad e–nome–de o–segundo Meydad e–pousou sobre–eles o–espírito e–eles nos–registrados e–não saíram a–tenda e–profetizaram no–acampamento
+-- c11-v27: E–correu o–jovem e–contou a–Mosheh e–disse 'Eldad e–Meydad profetizando no–acampamento
+-- c11-v28: E–respondeu Yehoshua' filho–de Nun servo–de Mosheh dos–escolhidos–seus e–disse senhor–meu Mosheh detém–os
+-- c11-v29: E–disse a–ele Mosheh Tens–ciúmes tu por–mim e–quem dera todo povo–de YHWH profetas que desse YHWH (a) Espírito–Seu sobre–eles
+-- c11-v30: E–recolheu–se Mosheh para o–acampamento ele e–anciãos–de Yisra'el
+-- c11-v31: E–vento partiu de–junto–de YHWH e–trouxe codornizes de o–mar e–espalhou sobre o–acampamento como–caminho–de dia assim e–como–caminho–de dia assim ao–redor–de o–acampamento e–como–dois–côvados sobre face–de a–terra
+-- c11-v32: E–levantou–se o–povo todo o–dia o–esse e–toda a–noite e–todo dia–de o–amanhã e–ajuntaram (a) as–codornizes o–que–menos ajuntou dez cômeres e–estenderam para–si estendido ao–redor–de o–acampamento
+-- c11-v33: A–carne ainda entre dentes–seus antes–de ser–cortada e–ira–de YHWH ardeu no–povo e–feriu YHWH no–povo praga grande muito
+-- c11-v34: E–chamou (a) nome–de o–lugar o–esse Qivrot–ha–Ta'avah pois ali sepultaram (a) o–povo o–que–desejava
+-- c11-v35: De–Qivrot–ha–Ta'avah partiram o–povo Chatserot e–estiveram em–Chatserot ¶
+-- c12-v1: E–falou Miryam e–'Aharon contra–Mosheh por–causa–de razão–de a–mulher a–cusita que tomou pois mulher cusita tomou
+-- c12-v2: E–disseram Por–acaso–apenas somente por–Mosheh falou YHWH Não também por–nós falou E–ouviu YHWH
+-- c12-v3: E–o–homem Mosheh [manso] (manso) muito de–todo o–homem que sobre face–de a–terra §
+-- c12-v4: E–disse YHWH de–repente a Mosheh e–a 'Aharon e–a Miryam Saí vós–três para tenda–de reunião e–saíram os–três
+-- c12-v5: E–desceu YHWH em–coluna–de nuvem e–ficou entrada–de a–tenda e–chamou 'Aharon e–Miryam e–saíram ambos
+-- c12-v6: E–disse Ouvi por–favor palavras–Minhas se houver profeta–vosso YHWH em–visão a–ele Me–farei–conhecer em–sonho falarei a–ele
+-- c12-v7: Não assim servo–Meu Mosheh em–toda casa–Minha fiel ele
+-- c12-v8: Boca a boca falo a–ele e–visão e–não em–enigmas e–forma–de YHWH contempla e–por–que não temestes para–falar contra–servo–Meu contra–Mosheh
+-- c12-v9: E–acendeu–se ira–de YHWH neles e–foi
+-- c12-v10: E–a–nuvem afastou–se de–sobre a–tenda e–eis Miryam leprosa como–neve e–virou–se 'Aharon para Miryam e–eis leprosa
+-- c12-v11: E–disse 'Aharon a Mosheh Por–favor senhor–meu não por–favor ponhas sobre–nós pecado que agimos–loucamente e–que pecamos
+-- c12-v12: Não por–favor seja como–morto que ao–sair–ele do–ventre–de mãe–sua e–é–consumido metade–de carne–sua
+-- c12-v13: E–clamou Mosheh a YHWH dizendo 'El por–favor cura por–favor a–ela ¶
+-- c12-v14: E–disse YHWH a Mosheh E–pai–dela cuspir cuspisse em–face–dela Não seria–envergonhada sete dias será–fechada sete dias de–fora–de o–acampamento e–depois será–recolhida
+-- c12-v15: E–foi–fechada Miryam de–fora–de o–acampamento sete dias e–o–povo não partiu até ser–recolhida Miryam
+-- c12-v16: E–depois partiram o–povo de–Chatserot e–acamparam no–deserto–de Paran ¶
+-- c13-v1: E–falou YHWH a Mosheh dizendo
+-- c13-v2: Envia para–ti homens e–espiarão (a) terra–de Kena'an que eu dando a–filhos–de Yisra'el homem um homem um para–tribo–de pais–deles enviareis todo príncipe entre–eles
+-- c13-v3: E–enviou (a)–eles Mosheh de–deserto–de Paran conforme boca–de YHWH todos–eles homens cabeças–de filhos–de Yisra'el eles
+-- c13-v4: E–estes nomes–deles para–tribo–de Re'uven Shammua' filho–de Zakkur
+-- c13-v5: Para–tribo–de Shim'on Shafat filho–de Chori
+-- c13-v6: Para–tribo–de Yehudah Kalev filho–de Yefunneh
+-- c13-v7: Para–tribo–de Yissakhar Yig'al filho–de Yosef
+-- c13-v8: Para–tribo–de 'Efrayim Hoshea' filho–de Nun
+-- c13-v9: Para–tribo–de Binyamin Palti filho–de Rafu
+-- c13-v10: Para–tribo–de Zevulun Gaddi'el filho–de Sodi
+-- c13-v11: Para–tribo–de Yosef para–tribo–de Menashsheh Gaddi filho–de Susi
+-- c13-v12: Para–tribo–de Dan 'Ammi'el filho–de Gemalli
+-- c13-v13: Para–tribo–de 'Asher Setur filho–de Mikha'el
+-- c13-v14: Para–tribo–de Naftali Nachbi filho–de Vofsi
+-- c13-v15: Para–tribo–de Gad Ge'u'el filho–de Makhi
+-- c13-v16: Estes nomes–de os–homens que enviou Mosheh para–espiar (a) a–terra e–chamou Mosheh a–Hoshea' filho–de Nun Yehoshua'
+-- c13-v17: E–enviou (a)–eles Mosheh para–espiar (a) terra–de Kena'an e–disse a–eles subi este pelo–Negev e–subireis (a) a–montanha
+-- c13-v18: E–vereis (a) a–terra o–que ela e–(a) o–povo o–habitando sobre–ela o–forte ele ou–fraco o–poucos ele ou muitos
+-- c13-v19: E–o–que a–terra que ele habitando nela a–boa ela ou má e–o–que as–cidades que ele habitando nelas em–acampamentos ou em–fortalezas
+-- c13-v20: E–o–que a–terra a–fértil ela ou magra há nela árvore ou não e–fortalecei–vos e–tomai de–fruto–de a–terra e–os–dias dias–de primícias–de uvas
+-- c13-v21: E–subiram e–espiaram (a) a–terra de–deserto–de Tsin até Rechov entrando–em Chamat
+-- c13-v22: E–subiram pelo–Negev e–veio até Chevron e–ali 'Achiman Sheshai e–Talmai descendentes–de o–'Anaq e–Chevron sete anos foi–construída antes–de Tso'an Mitsrayim
+-- c13-v23: E–vieram até vale–de 'Eshkol e–cortaram de–lá vara e–cacho–de uvas um e–carregaram–o na–vara entre–dois e–de as–romãs e–de os–figos
+-- c13-v24: Ao–lugar o–aquele chamou vale–de 'Eshkol por–causa–de motivo–de o–cacho que cortaram de–lá filhos–de Yisra'el
+-- c13-v25: E–voltaram de–espiar a–terra ao–fim–de quarenta dia
+-- c13-v26: E–foram e–vieram a Mosheh e–a 'Aharon e–a toda congregação–de filhos–de Yisra'el a deserto–de Paran Qadesh e–trouxeram–de–volta a–eles palavra e–(a) toda a–congregação e–mostraram–lhes (a) fruto–de a–terra
+-- c13-v27: E–contaram a–ele e–disseram viemos a a–terra que enviaste–nos e–também fluindo leite e–mel ela e–este fruto–dela
+-- c13-v28: Contudo que forte o–povo o–habitando na–terra e–as–cidades fortificadas grandes muito e–também descendentes–de o–'Anaq vimos lá
+-- c13-v29: 'Amaleq habita em–terra–de o–Negev e–o–Chitti e–o–Yevusi e–o–'Emori habita na–montanha e–o–Kena'ani habita junto–a o–mar e–junto–a margem–de o–Yarden
+-- c13-v30: E–acalmou Kalev (a) o–povo diante–de Mosheh e–disse subindo subiremos e–possuiremos (a)–ela porque podendo poderemos contra–ela
+-- c13-v31: E–os–homens que subiram com–ele disseram não poderemos subir contra o–povo porque forte ele de–nós
+-- c13-v32: E–trouxeram má–fama–de a–terra que espiaram (a)–ela a filhos–de Yisra'el dizendo a–terra que passamos por–ela para–espiar (a)–ela terra devorando habitantes–dela ela e–todo o–povo que vimos no–meio–dela homens–de medidas
+-- c13-v33: E–lá vimos (a) os–Nefilim filhos–de 'Anaq de os–Nefilim e–fomos em–olhos–nossos como–gafanhotos e–assim fomos em–olhos–deles
+-- c14-v1: E–levantou toda a–congregação e–deram (a) voz–deles e–choraram o–povo na–noite aquela
+-- c14-v2: E–murmuraram contra Mosheh e–contra 'Aharon todos filhos–de Yisra'el e–disseram a–eles toda a–congregação oxalá morrêssemos em–terra–de Mitsrayim ou no–deserto o–este oxalá morrêssemos
+-- c14-v3: E–por–que YHWH trazendo (a)–nós a a–terra a–esta para–cair pela–espada mulheres–nossas e–pequenos–nossos serão para–despojo não bom para–nós voltar para–Mitsrayim
+-- c14-v4: E–disseram homem a irmão–dele designemos cabeça e–voltemos para–Mitsrayim
+-- c14-v5: E–caiu Mosheh e–'Aharon sobre faces–deles diante–de toda assembleia–de congregação–de filhos–de Yisra'el
+-- c14-v6: E–Yehoshua' filho–de Nun e–Kalev filho–de Yefunneh de os–espiando (a) a–terra rasgaram vestes–deles
+-- c14-v7: E–disseram a toda congregação–de filhos–de Yisra'el dizendo a–terra que passamos por–ela para–espiar (a)–ela boa a–terra muito muito
+-- c14-v8: Se agradando em–nós YHWH e–trouxer (a)–nós a a–terra a–esta e–der–a a–nós terra que ela fluindo leite e–mel
+-- c14-v9: Apenas contra–YHWH não rebelem e–vós não temais (a) povo–de a–terra porque pão–nosso eles retirou–se sombra–deles de–sobre–eles e–YHWH conosco não temais–os
+-- c14-v10: E–disseram toda a–congregação para–apedrejar (a)–eles com–as–pedras e–glória–de YHWH apareceu em–tenda–de reunião a todos filhos–de Yisra'el ¶
+-- c14-v11: E–disse YHWH a Mosheh até quando desprezar–me–á o–povo o–este e–até quando não crerão em–mim em–todos os–sinais que fiz no–meio–dele
+-- c14-v12: Ferirei–o com–a–peste e–deserderei–o e–farei (a)–ti para–nação grande e–forte do–que–ele
+-- c14-v13: E–disse Mosheh a YHWH e–ouvirão Mitsrayim que fizeste–subir em–força–tua (a) o–povo o–este do–meio–dele
+-- c14-v14: E–dirão a habitante–de a–terra a–esta ouviram que tu YHWH no–meio–de o–povo o–este que olho em–olho é–visto tu YHWH e–nuvem–tua estando sobre–eles e–em–coluna–de nuvem tu andando diante–deles de–dia e–em–coluna–de fogo de–noite
+-- c14-v15: E–matares (a) o–povo o–este como–homem um e–dirão as–nações que ouviram (a) fama–tua dizendo
+-- c14-v16: De–não–poder capacidade–de YHWH para–trazer (a) o–povo o–este a a–terra que jurou a–eles e–matou–os no–deserto
+-- c14-v17: E–agora engrandecer–se–á por–favor poder–de 'Adonai como falaste dizendo
+-- c14-v18: YHWH longo–de iras e–grande–de misericórdia carregando iniquidade e–transgressão e–inocentando não inocenta visitando iniquidade–de pais sobre filhos sobre terceiros e–sobre quartos
+-- c14-v19: Perdoa por–favor a–iniquidade–de o–povo o–este conforme–grandeza–de misericórdia–tua e–como carregaste a–o–povo o–este de–Mitsrayim e–até aqui
+-- c14-v20: E–disse YHWH perdoei conforme–palavra–tua
+-- c14-v21: E–contudo vivo eu e–encher–se–á glória–de YHWH (a) toda a–terra
+-- c14-v22: Porque todos os–homens os–vendo (a) glória–minha e–(a) sinais–meus que fiz em–Mitsrayim e–no–deserto e–tentaram (a)–mim isto dez vezes e–não ouviram em–voz–minha
+-- c14-v23: Se verão (a) a–terra que jurei aos–pais–deles e–todos desprezando–me não verão–a
+-- c14-v24: E–servo–meu Kalev porque houve espírito outro com–ele e–seguiu–plenamente após–mim e–trarei–o a a–terra que veio lá e–descendência–dele herdar–a–á
+-- c14-v25: E–o–'Amaleqi e–o–Kena'ani habita no–vale amanhã virai e–parti para–vós o–deserto caminho–de mar–de Suf ¶
+-- c14-v26: E–falou YHWH a Mosheh e–a 'Aharon dizendo
+-- c14-v27: Até quando para–a–congregação a–má a–esta que eles murmurando contra–mim (a) murmurações–de filhos–de Yisra'el que eles murmurando contra–mim ouvi
+-- c14-v28: Dize a–eles vivo eu declaração–de YHWH se não como falastes em–ouvidos–meus assim farei a–vós
+-- c14-v29: No–deserto o–este cairão cadáveres–vossos e–todos contados–vossos conforme–todo número–vosso de–filho–de vinte ano e–acima que murmurastes contra–mim
+-- c14-v30: Se vós vireis a a–terra que levantei (a) mão–minha para–fazer–habitar (a)–vós nela exceto se Kalev filho–de Yefunneh e–Yehoshua' filho–de Nun
+-- c14-v31: E–pequenos–vossos que dissestes para–despojo serão e–trarei (a)–eles e–conhecerão (a) a–terra que desprezastes nela
+-- c14-v32: E–cadáveres–vossos vós cairão no–deserto o–este
+-- c14-v33: E–filhos–vossos serão pastores no–deserto quarenta ano e–carregarão (a) prostituções–vossas até acabar–de cadáveres–vossos no–deserto
+-- c14-v34: Pelo–número–de os–dias que espiastes (a) a–terra quarenta dia dia pelo–ano dia pelo–ano levareis (a) iniquidades–vossas quarenta ano e–sabereis (a) oposição–minha
+-- c14-v35: Eu YHWH falei se não isto farei a–toda a–congregação a–má a–esta os–reunindo–se contra–mim no–deserto o–este serão–consumidos e–lá morrerão
+-- c14-v36: E–os–homens que enviou Mosheh para–espiar (a) a–terra e–voltaram e–fizeram–murmurar e–fizeram–murmurar contra–ele (a) toda a–congregação para–trazer má–fama sobre a–terra
+-- c14-v37: E–morreram os–homens trazendo má–fama–de a–terra má pela–praga diante–de YHWH
+-- c14-v38: E–Yehoshua' filho–de Nun e–Kalev filho–de Yefunneh viveram de os–homens os–aqueles os–indo para–espiar (a) a–terra
+-- c14-v39: E–falou Mosheh (a) as–palavras as–estas a todos filhos–de Yisra'el e–lamentou o–povo muito
+-- c14-v40: E–madrugaram de–manhã e–subiram a cume–de a–montanha dizendo eis–nos e–subiremos a o–lugar que disse YHWH porque pecamos
+-- c14-v41: E–disse Mosheh por–que isto vós transgredindo (a) boca–de YHWH e–ela não prosperará
+-- c14-v42: Não subais porque não YHWH no–meio–de–vós e–não sejais–derrotados diante–de inimigos–vossos
+-- c14-v43: Porque o–'Amaleqi e–o–Kena'ani lá diante–de–vós e–caireis pela–espada porque por assim voltastes de–após YHWH e–não será YHWH convosco
+-- c14-v44: E–presumiram para–subir a cume–de a–montanha e–arca–de aliança–de YHWH e–Mosheh não moveram–se do–meio–de o–acampamento
+-- c14-v45: E–desceu o–'Amaleqi e–o–Kena'ani o–habitando na–montanha a–aquela e–feriram–os e–esmagaram–os até Chormah ¶
+-- c15-v1: E–falou YHWH a Mosheh dizendo
+-- c15-v2: Fala a filhos–de Yisra'el e–dirás a–eles quando vierdes a terra–de habitações–vossas que eu dando a–vós
+-- c15-v3: E–fareis oferta–de–fogo a–YHWH holocausto ou sacrifício para–cumprir voto ou em–oferta–voluntária ou em–festas–vossas para–fazer aroma–de agradabilidade a–YHWH de o–gado ou de o–rebanho
+-- c15-v4: E–apresentará o–apresentando oferta–dele a–YHWH oferta–de–cereal farinha–fina décimo misturada com–quarto–de o–him azeite
+-- c15-v5: E–vinho para–a–libação quarto–de o–him farás sobre o–holocausto ou para–o–sacrifício para–o–cordeiro o–um
+-- c15-v6: Ou para–o–carneiro farás oferta–de–cereal farinha–fina dois décimos misturada com–o–azeite terço–de o–him
+-- c15-v7: E–vinho para–a–libação terço–de o–him apresentarás aroma–de agradabilidade a–YHWH
+-- c15-v8: E–quando fizeres filho–de gado holocausto ou sacrifício para–cumprir voto ou ofertas–de–paz a–YHWH
+-- c15-v9: E–apresentará sobre filho–de o–gado oferta–de–cereal farinha–fina três décimos misturada com–o–azeite metade–de o–him
+-- c15-v10: E–vinho apresentarás para–a–libação metade–de o–him oferta–de–fogo aroma–de agradabilidade a–YHWH
+-- c15-v11: Assim será–feito para–o–boi o–um ou para–o–carneiro o–um ou para–a–ovelha entre–os–cordeiros ou entre–os–cabritos
+-- c15-v12: Conforme–o–número que fizerdes assim fareis para–o–um conforme–número–deles
+-- c15-v13: Todo o–natural fará assim (a) estas para–apresentar oferta–de–fogo aroma–de agradabilidade a–YHWH
+-- c15-v14: E–quando peregrinar convosco estrangeiro ou que no–meio–de–vós para–gerações–vossas e–fizer oferta–de–fogo aroma–de agradabilidade a–YHWH como fizerdes assim fará
+-- c15-v15: A–assembleia estatuto um para–vós e–para–o–estrangeiro o–peregrinando estatuto–de perpetuidade para–gerações–vossas como–vós como–o–estrangeiro será diante–de YHWH
+-- c15-v16: Lei uma e–justiça uma será para–vós e–para–o–estrangeiro o–peregrinando convosco ¶
+-- c15-v17: E–falou YHWH a Mosheh dizendo
+-- c15-v18: Fala a filhos–de Yisra'el e–dirás a–eles em–vir–vós a a–terra que eu trazendo (a)–vós lá
+-- c15-v19: E–será em–comerdes–vós de–pão–de a–terra levantareis oferta a–YHWH
+-- c15-v20: Primícia–de massas–vossas bolo levantareis oferta como–oferta–de eira assim levantareis (a)–ela
+-- c15-v21: De–primícia–de massas–vossas dareis a–YHWH oferta para–gerações–vossas §
+-- c15-v22: E–quando errardes e–não fizerdes (a) todos os–mandamentos os–estes que falou YHWH a Mosheh
+-- c15-v23: (a) tudo que ordenou YHWH a–vós pela–mão–de Mosheh de o–dia que ordenou YHWH e–adiante para–gerações–vossas
+-- c15-v24: E–será se de–olhos–de a–congregação foi–feito por–erro e–fará toda a–congregação novilho filho–de gado um para–holocausto para–aroma–de agradabilidade a–YHWH e–oferta–de–cereal–dele e–libação–dele conforme–o–regulamento e–bode–de cabras um para–oferta–pelo–pecado
+-- c15-v25: E–fará–expiação o–sacerdote sobre toda congregação–de filhos–de Yisra'el e–será–perdoado a–eles porque erro ela e–eles trouxeram (a) oferta–deles oferta–de–fogo a–YHWH e–oferta–pelo–pecado–deles diante–de YHWH por erro–deles
+-- c15-v26: E–será–perdoado a–toda congregação–de filhos–de Yisra'el e–a–o–estrangeiro o–peregrinando no–meio–deles porque para–todo o–povo por–erro §
+-- c15-v27: E–se alma uma pecar por–erro e–apresentará cabra filha–de ano–dela para–oferta–pelo–pecado
+-- c15-v28: E–fará–expiação o–sacerdote sobre a–alma a–errando em–pecar–ela por–erro diante–de YHWH para–fazer–expiação por–ela e–será–perdoado a–ele
+-- c15-v29: O–natural entre–filhos–de Yisra'el e–para–o–estrangeiro o–peregrinando no–meio–deles lei uma será para–vós para–o–fazendo por–erro
+-- c15-v30: E–a–alma que fizer com–mão alta de o–natural e–de o–estrangeiro (a) YHWH ele blasfemando e–será–cortada a–alma a–aquela do–meio–de povo–dela
+-- c15-v31: Porque palavra–de YHWH desprezou e–(a) mandamento–dele quebrou cortando será–cortada a–alma a–aquela iniquidade–dela nela ¶
+-- c15-v32: E–estavam filhos–de Yisra'el no–deserto e–encontraram homem juntando lenha em–dia–de o–sábado
+-- c15-v33: E–trouxeram (a)–ele os–encontrando (a)–ele juntando lenha a Mosheh e–a 'Aharon e–a toda a–congregação
+-- c15-v34: E–colocaram (a)–ele em–a–guarda porque não foi–declarado o–que será–feito a–ele §
+-- c15-v35: E–disse YHWH a Mosheh morrendo morrerá o–homem apedrejando (a)–ele com–as–pedras toda a–congregação de–fora de–o–acampamento
+-- c15-v36: E–fizeram–sair (a)–ele toda a–congregação a de–fora de–o–acampamento e–apedrejaram (a)–ele com–as–pedras e–morreu como ordenou YHWH (a) Mosheh ¶
+-- c15-v37: E–disse YHWH a Mosheh dizendo
+-- c15-v38: Fala a filhos–de Yisra'el e–dirás a–eles e–farão para–eles franjas sobre cantos–de vestes–deles para–gerações–deles e–colocarão sobre franja–de o–canto cordão–de azul
+-- c15-v39: E–será para–vós para–franja e–vereis (a)–ela e–lembrareis (a) todos mandamentos–de YHWH e–fareis (a)–eles e–não espiareis após corações–vossos e–após olhos–vossos que vós prostituindo após–eles
+-- c15-v40: Para–que lembreis e–façais (a) todos mandamentos–meus e–sejais santos para–'Elohim–vosso
+-- c15-v41: Eu YHWH 'Elohim–vosso que fiz–sair (a)–vós de–terra–de Mitsrayim para–ser para–vós para–'Elohim eu YHWH 'Elohim–vosso ¶
+-- c16-v1: E–tomou Qorach filho–de Yitshar filho–de Qehat filho–de Levi e–Datan e–'Aviram filhos–de 'Eli'av e–'On filho–de Pelet filhos–de Re'uven
+-- c16-v2: E–levantaram–se diante–de Mosheh e–homens de–filhos–de Yisra'el cinquenta e–duzentos príncipes–de congregação convocados–de reunião homens–de nome
+-- c16-v3: E–reuniram–se contra Mosheh e–contra 'Aharon e–disseram a–eles demais para–vós porque toda a–congregação todos–eles santos e–no–meio–deles YHWH e–por–que exaltais–vos sobre assembleia–de YHWH
+-- c16-v4: E–ouviu Mosheh e–caiu sobre face–dele
+-- c16-v5: E–falou a Qorach e–a toda congregação–dele dizendo manhã e–dará–a–conhecer YHWH (a) que dele e–(a) o–santo e–fará–chegar a–ele e–(a) que escolher nele fará–chegar a–ele
+-- c16-v6: Isto fazei tomai para–vós incensários Qorach e–toda congregação–dele
+-- c16-v7: E–colocai neles fogo e–colocai sobre–eles incenso diante–de YHWH amanhã e–será o–homem que escolher YHWH ele o–santo demais para–vós filhos–de Levi
+-- c16-v8: E–disse Mosheh a Qorach ouvi por–favor filhos–de Levi
+-- c16-v9: Pouco–coisa para–vós que separou 'Elohim–de Yisra'el (a)–vós de–congregação–de Yisra'el para–fazer–chegar (a)–vós a–ele para–servir (a) serviço–de tabernáculo–de YHWH e–para–estar diante–de a–congregação para–servi–los
+-- c16-v10: E–fez–chegar (a)–ti e–(a) todos irmãos–teus filhos–de Levi contigo e–buscais também sacerdócio
+-- c16-v11: Portanto tu e–toda congregação–tua os–reunindo–se contra YHWH e–'Aharon o–que ele que murmurais murmurais contra–ele
+-- c16-v12: E–enviou Mosheh para–chamar a–Datan e–a–'Aviram filhos–de 'Eli'av e–disseram não subiremos
+-- c16-v13: Pouco–coisa que fizeste–nos–subir de–terra–de fluindo leite e–mel para–matar–nos no–deserto que dominas sobre–nós também dominando
+-- c16-v14: Também não a terra–de fluindo leite e–mel trouxeste–nos e–deste a–nós herança–de campo e–vinha olhos–de os–homens os–aqueles furarás não subiremos
+-- c16-v15: E–irou–se a–Mosheh muito e–disse a YHWH não voltes a oferta–deles não jumento um deles tomei e–não fiz–mal (a) um deles
+-- c16-v16: E–disse Mosheh a Qorach tu e–toda congregação–tua sede diante–de YHWH tu e–eles e–'Aharon amanhã
+-- c16-v17: E–tomai homem incensário–dele e–colocareis sobre–eles incenso e–apresentareis diante–de YHWH homem incensário–dele cinquenta e–duzentos incensários e–tu e–'Aharon homem incensário–dele
+-- c16-v18: E–tomaram homem incensário–dele e–colocaram sobre–eles fogo e–colocaram sobre–eles incenso e–ficaram entrada–de tenda–de reunião e–Mosheh e–'Aharon
+-- c16-v19: E–reuniu contra–eles Qorach (a) toda a–congregação a entrada–de tenda–de reunião e–apareceu glória–de YHWH a toda a–congregação ¶
+-- c16-v20: E–falou YHWH a Mosheh e–a 'Aharon dizendo
+-- c16-v21: Separai–vos do–meio–de a–congregação a–esta e–consumirei (a)–eles num–instante
+-- c16-v22: E–caíram sobre faces–deles e–disseram 'El 'Elohim–de os–espíritos para–toda carne o–homem um pecará e–contra toda a–congregação irar–te–ás ¶
+-- c16-v23: E–falou YHWH a Mosheh dizendo
+-- c16-v24: Fala a a–congregação dizendo subi de–ao–redor de–habitação–de Qorach Datan e–'Aviram
+-- c16-v25: E–levantou–se Mosheh e–foi a Datan e–'Aviram e–foram após–ele anciãos–de Yisra'el
+-- c16-v26: E–falou a a–congregação dizendo afastai–vos por–favor de–sobre tendas–de os–homens os–ímpios os–estes e–não toqueis em–tudo–de que a–eles para–não sejais–consumidos em–todos pecados–deles
+-- c16-v27: E–subiram de–sobre habitação–de Qorach Datan e–'Aviram de–ao–redor e–Datan e–'Aviram saíram ficando entrada–de tendas–deles e–mulheres–deles e–filhos–deles e–pequenos–deles
+-- c16-v28: E–disse Mosheh nisso sabereis que YHWH enviou–me para–fazer (a) todas as–obras as–estas porque não de–coração–meu
+-- c16-v29: Se como–morte–de todo o–homem morrerem estes e–destino–de todo o–homem for–visitado sobre–eles não YHWH enviou–me
+-- c16-v30: E–se criação criar YHWH e–abrir a–terra (a) boca–dela e–engolir (a)–eles e–(a) tudo–de que a–eles e–descerem vivos Sheol e–sabereis que desprezaram os–homens os–estes (a) YHWH
+-- c16-v31: E–foi como–terminar–ele de–falar (a) todas as–palavras as–estas e–fendeu–se a–terra que debaixo–deles
+-- c16-v32: E–abriu a–terra (a) boca–dela e–engoliu (a)–eles e–(a) casas–deles e–(a) todo o–homem que de–Qorach e–(a) toda a–propriedade
+-- c16-v33: E–desceram eles e–tudo–de que a–eles vivos Sheol e–cobriu sobre–eles a–terra e–pereceram do–meio–de a–assembleia
+-- c16-v34: E–todo Yisra'el que ao–redor–deles fugiu ao–som–deles porque disseram para–não engolir–nos a–terra
+-- c16-v35: E–fogo saiu de–com YHWH e–consumiu (a) os–cinquenta e–duzentos homem oferecendo o–incenso ¶
+-- c16-v36: E–falou YHWH a Mosheh dizendo
+-- c16-v37: Dize a 'El'azar filho–de 'Aharon o–sacerdote e–levante (a) os–incensários de–entre o–queimado e–(a) o–fogo espalhe longe porque santificaram–se
+-- c16-v38: (a) incensários–de os–pecadores os–estes contra–almas–deles e–farão (a)–eles lâminas–de placas revestimento para–o–altar porque ofereceram–os diante–de YHWH e–santificaram–se e–serão para–sinal para–filhos–de Yisra'el
+-- c16-v39: E–tomou 'El'azar o–sacerdote (a) incensários–de o–bronze que ofereceram os–queimados e–estenderam–os revestimento para–o–altar
+-- c16-v40: Memorial para–filhos–de Yisra'el para–que que não se–aproxime homem estranho que não de–semente–de 'Aharon ele para–queimar incenso diante–de YHWH e–não será como–Qorach e–como–congregação–dele como falou YHWH pela–mão–de Mosheh a–ele
+-- c16-v41: E–murmuraram toda congregação–de filhos–de Yisra'el no–dia–seguinte contra Mosheh e–contra 'Aharon dizendo vós matastes (a) povo–de YHWH
+-- c16-v42: E–foi em–reunir–se a–congregação contra Mosheh e–contra 'Aharon e–viraram–se a tenda–de reunião e–eis cobriu–a a–nuvem e–apareceu glória–de YHWH
+-- c16-v43: E–veio Mosheh e–'Aharon a face–de tenda–de reunião ¶
+-- c16-v44: E–falou YHWH a Mosheh dizendo
+-- c16-v45: Levantai–vos do–meio–de a–congregação a–esta e–consumirei (a)–eles num–instante e–caíram sobre faces–deles
+-- c16-v46: E–disse Mosheh a 'Aharon toma (a) o–incensário e–coloca sobre–ele fogo de–sobre o–altar e–coloca incenso e–vai depressa a a–congregação e–faze–expiação sobre–eles porque saiu a–ira de–diante–de YHWH começou a–praga
+-- c16-v47: E–tomou 'Aharon como falou Mosheh e–correu a meio–de a–assembleia e–eis começou a–praga no–povo e–colocou (a) o–incenso e–fez–expiação sobre o–povo
+-- c16-v48: E–ficou entre os–mortos e–entre os–vivos e–foi–detida a–praga
+-- c16-v49: E–foram os–mortos pela–praga quatorze dez mil e–sete centenas além–de os–mortos por causa–de Qorach
+-- c16-v50: E–voltou 'Aharon a Mosheh a entrada–de tenda–de reunião e–a–praga foi–detida ¶
+-- c17-v1: E–falou YHWH a Mosheh dizendo
+-- c17-v2: Fala a filhos–de Yisra'el e–toma de–com–eles vara vara para–casa–de pai de–com todos príncipes–deles para–casa–de pais–deles dois dez varas homem (a) nome–dele escreverás sobre vara–dele
+-- c17-v3: E–(a) nome–de 'Aharon escreverás sobre vara–de Levi porque vara uma para–cabeça–de casa–de pais–deles
+-- c17-v4: E–colocar–as–ás em–tenda–de reunião diante–de o–testemunho que encontro–me convosco lá
+-- c17-v5: E–será o–homem que escolher nele vara–dele florescerá e–farei–cessar de–sobre–mim (a) murmurações–de filhos–de Yisra'el que eles murmurando contra–vós
+-- c17-v6: E–falou Mosheh a filhos–de Yisra'el e–deram a–ele todos príncipes–deles vara para–príncipe um vara para–príncipe um para–casa–de pais–deles dois dez varas e–vara–de 'Aharon no–meio–de varas–deles
+-- c17-v7: E–colocou Mosheh (a) as–varas diante–de YHWH em–tenda–de o–testemunho
+-- c17-v8: E–foi no–dia–seguinte e–veio Mosheh a tenda–de o–testemunho e–eis floresceu vara–de 'Aharon para–casa–de Levi e–produziu flor e–brotou broto e–amadureceu amêndoas
+-- c17-v9: E–fez–sair Mosheh (a) todas as–varas de–diante–de YHWH a todos filhos–de Yisra'el e–viram e–tomaram homem vara–dele §
+-- c17-v10: E–disse YHWH a Mosheh devolve (a) vara–de 'Aharon diante–de o–testemunho para–guarda para–sinal para–filhos–de rebelião e–farás–cessar murmurações–deles de–sobre–mim e–não morrerão
+-- c17-v11: E–fez Mosheh como ordenou YHWH (a)–ele assim fez §
+-- c17-v12: E–disseram filhos–de Yisra'el a Mosheh dizendo eis expiramos perecemos todos–nós perecemos
+-- c17-v13: Todo o–aproximando o–aproximando a tabernáculo–de YHWH morrerá porventura acabaremos de–expirar §
+-- c18-v1: E–disse YHWH a 'Aharon tu e–filhos–teus e–casa–de pai–teu contigo levareis (a) iniquidade–de o–santuário e–tu e–filhos–teus contigo levareis (a) iniquidade–de sacerdócio–vosso
+-- c18-v2: E–também (a) irmãos–teus tribo–de Levi tribo–de pai–teu faze–chegar contigo e–juntar–se–ão a–ti e–servir–te–ão e–tu e–filhos–teus contigo diante–de tenda–de o–testemunho
+-- c18-v3: E–guardarão guarda–tua e–guarda–de toda a–tenda apenas a utensílios–de o–santo e–a o–altar não chegarão e–não morrerão também eles também vós
+-- c18-v4: E–juntar–se–ão a–ti e–guardarão (a) guarda–de tenda–de reunião para–todo serviço–de a–tenda e–estranho não chegará a–vós
+-- c18-v5: E–guardareis (a) guarda–de o–santo e–(a) guarda–de o–altar e–não haverá ainda ira sobre filhos–de Yisra'el
+-- c18-v6: E–eu eis tomei (a) irmãos–vossos os–Levitas do–meio–de filhos–de Yisra'el para–vós presente dados a–YHWH para–servir (a) serviço–de tenda–de reunião
+-- c18-v7: E–tu e–filhos–teus contigo guardareis (a) sacerdócio–vosso para–toda coisa–de o–altar e–para–dentro–de o–véu e–servireis serviço–de presente darei (a) sacerdócio–vosso e–o–estranho o–aproximando morrerá §
+-- c18-v8: E–falou YHWH a 'Aharon e–eu eis dei a–ti (a) guarda–de ofertas–minha para–todas coisas–santas–de filhos–de Yisra'el a–ti dei–os para–unção e–a–filhos–teus para–estatuto–de perpetuidade
+-- c18-v9: Este será a–ti de–santo–de os–santos de o–fogo toda oferta–deles para–toda oferta–de–cereal–deles e–para–toda oferta–pelo–pecado–deles e–para–toda oferta–pela–culpa–deles que devolverão a–mim santo–de santos a–ti ele e–a–filhos–teus
+-- c18-v10: Em–santo–de os–santos comer–a–ás todo macho comerá (a)–ela santo será a–ti
+-- c18-v11: E–esta a–ti oferta–de dádiva–deles para–todas ofertas–movidas–de filhos–de Yisra'el a–ti dei–os e–a–filhos–teus e–a–filhas–tuas contigo para–estatuto–de perpetuidade todo puro em–casa–tua comerá (a)–ela
+-- c18-v12: Todo melhor–de azeite e–todo melhor–de vinho–novo e–trigo primícias–deles que derem a–YHWH a–ti dei–os
+-- c18-v13: Primeiros–frutos–de tudo–de que em–terra–deles que trouxerem a–YHWH a–ti será todo puro em–casa–tua comer–o–á
+-- c18-v14: Todo consagrado em–Yisra'el a–ti será
+-- c18-v15: Todo que–abre ventre de–toda carne que apresentarem a–YHWH de–o–homem e–de–o–animal será a–ti porém resgatando resgatarás (a) primogênito–de o–homem e–(a) primogênito–de o–animal o–impuro resgatarás
+-- c18-v16: E–resgatados–dele de–filho–de mês resgatarás em–avaliação–tua prata–de cinco siclos em–siclo–de o–santo vinte geras ele
+-- c18-v17: Porém primogênito–de boi ou primogênito–de cordeiro ou primogênito–de cabra não resgatarás santo eles (a) sangue–deles espargirás sobre o–altar e–(a) gordura–deles queimarás oferta–de–fogo para–aroma–de agradabilidade a–YHWH
+-- c18-v18: E–carne–deles será a–ti como–peito–de a–oferta–movida e–como–coxa–de a–direita a–ti será
+-- c18-v19: Todas ofertas–de as–coisas–santas que levantarem filhos–de Yisra'el a–YHWH dei a–ti e–a–filhos–teus e–a–filhas–tuas contigo para–estatuto–de perpetuidade aliança–de sal perpetuidade ela diante–de YHWH a–ti e–a–descendentes–teus contigo
+-- c18-v20: E–disse YHWH a 'Aharon em–terra–deles não herdarás e–porção não haverá a–ti no–meio–deles eu porção–tua e–herança–tua no–meio–de filhos–de Yisra'el §
+-- c18-v21: E–a–filhos–de Levi eis dei todo dízimo em–Yisra'el para–herança em–troca–de serviço–deles que eles servindo (a) serviço–de tenda–de reunião
+-- c18-v22: E–não chegarão ainda filhos–de Yisra'el a tenda–de reunião para–carregar pecado para–morrer
+-- c18-v23: E–servirá o–Levita ele (a) serviço–de tenda–de reunião e–eles carregarão iniquidade–deles estatuto–de perpetuidade para–gerações–vossas e–no–meio–de filhos–de Yisra'el não herdarão herança
+-- c18-v24: Porque (a) dízimo–de filhos–de Yisra'el que levantarem a–YHWH oferta dei aos–Levitas para–herança por assim disse a–eles no–meio–de filhos–de Yisra'el não herdarão herança ¶
+-- c18-v25: E–falou YHWH a Mosheh dizendo
+-- c18-v26: E–aos Levitas falarás e–dirás a–eles quando tomardes de–com filhos–de Yisra'el (a) o–dízimo que dei a–vós deles por–herança–vossa e–levantareis dele oferta–de YHWH dízimo de o–dízimo
+-- c18-v27: E–será–contado a–vós oferta–vossa como–trigo de a–eira e–como–plenitude de o–lagar
+-- c18-v28: Assim levantareis também vós oferta–de YHWH de–todos dízimos–vossos que tomardes de–com filhos–de Yisra'el e–dareis dele (a) oferta–de YHWH a–'Aharon o–sacerdote
+-- c18-v29: De–todas dádivas–vossas levantareis (a) toda oferta–de YHWH de–todo melhor–dele (a) porção–santa–dele dele
+-- c18-v30: E–dirás a–eles em–levantardes–vós (a) melhor–dele dele e–será–contado aos–Levitas como–produto–de eira e–como–produto–de lagar
+-- c18-v31: E–comereis (a)–ele em–todo lugar vós e–casa–vossa porque salário ele para–vós em–troca–de serviço–vosso em–tenda–de reunião
+-- c18-v32: E–não levareis sobre–ele pecado em–levantardes–vós (a) melhor–dele dele e–(a) coisas–santas–de filhos–de Yisra'el não profanareis e–não morrereis ¶
+-- c19-v1: E–falou YHWH a Mosheh e–a 'Aharon dizendo
+-- c19-v2: Esta (é–a)–lei–de a–Torá que ordenou YHWH dizendo Fala a filhos–de Yisra'el e–tomarão a–ti novilha vermelha perfeita que não–há nela defeito que não subiu sobre–ela jugo
+-- c19-v3: E–dareis (a)–ela a 'El'azar o–sacerdote e–levará (a)–ela a fora–de o–acampamento e–degolará (a)–ela diante–dele
+-- c19-v4: E–tomará 'El'azar o–sacerdote de–seu–sangue com–seu–dedo e–aspergirá para frente–de face–de tenda–de reunião de–seu–sangue sete vezes
+-- c19-v5: E–queimará (a) a–novilha diante–seus–olhos (a) sua–pele e–(a) sua–carne e–(a) seu–sangue sobre seu–excremento queimará
+-- c19-v6: E–tomará o–sacerdote madeira–de cedro e–hissopo e–carmesim–de verme e–lançará a meio–de queima–de a–novilha
+-- c19-v7: E–lavará suas–vestes o–sacerdote e–lavará sua–carne em–água e–depois virá a o–acampamento e–impuro o–sacerdote até a–tarde
+-- c19-v8: E–o–queimador (a)–ela lavará suas–vestes em–água e–lavará sua–carne em–água e–impuro até a–tarde
+-- c19-v9: E–recolherá homem puro (a) cinza–de a–novilha e–depositará fora–de o–acampamento em–lugar puro e–será para–congregação–de filhos–de Yisra'el para–guarda para–águas–de impureza (oferta–de)–pecado ela
+-- c19-v10: E–lavará o–recolhedor (a) cinza–de a–novilha (a) suas–vestes e–impuro até a–tarde e–será para–filhos–de Yisra'el e–para–o–estrangeiro o–que–peregrina no–meio–deles por–estatuto–de eternidade
+-- c19-v11: O–que–toca em–morto de–toda alma–de homem e–impuro sete dias
+-- c19-v12: Ele se–purificará com–ela no–dia o–terceiro e–no–dia o–sétimo estará–puro e–se não se–purificar no–dia o–terceiro e–no–dia o–sétimo não estará–puro
+-- c19-v13: Todo o–que–toca em–morto em–alma–de o–homem que morre e–não se–purificar (a) tabernáculo–de YHWH contaminou e–será–cortada a–alma essa de–Yisra'el porque águas–de impureza não foi–aspergida sobre–ele impuro será ainda sua–impureza nele
+-- c19-v14: Esta a–Torá homem quando morre em–tenda todo o–que–entra a a–tenda e–todo que na–tenda será–impuro sete dias
+-- c19-v15: E–todo vaso aberto que não–há tampa de–cordão sobre–ele impuro ele
+-- c19-v16: E–todo que tocar sobre face–de o–campo em–morto–por–(de) espada ou em–morto ou em–osso–de homem ou em–sepultura será–impuro sete dias
+-- c19-v17: E–tomarão para–o–impuro de–pó–de queima–de a–oferta–de–pecado e–porá sobre–ele água viva em vaso
+-- c19-v18: E–tomará hissopo e–molhará na–água homem puro e–aspergirá sobre a–tenda e–sobre todos os–vasos e–sobre as–almas que estavam ali e–sobre o–que–toca no–osso ou no–morto ou no–morto ou na–sepultura
+-- c19-v19: E–aspergirá o–puro sobre o–impuro no–dia o–terceiro e–no–dia o–sétimo e–o–purificará no–dia o–sétimo e–lavará suas–vestes e–se–lavará na–água e–estará–puro à–tarde
+-- c19-v20: E–homem que se–contaminar e–não se–purificar e–será–cortada a–alma essa de–meio–de a–congregação porque (a) santuário–de YHWH contaminou águas–de impureza não foi–aspergida sobre–ele impuro ele
+-- c19-v21: E–será para–eles por–estatuto–de eternidade e–o–que–asperge águas–de a–impureza lavará suas–vestes e–o–que–toca em–águas–de a–impureza será–impuro até a–tarde
+-- c19-v22: E–tudo que tocar nele o–impuro será–impuro e–a–alma a–que–toca será–impura até a–tarde ¶
+-- c20-v1: E–vieram filhos–de Yisra'el toda a–congregação deserto–de Tsin no–mês o–primeiro e–habitou o–povo em–Qadesh e–morreu ali Miryam e–foi–sepultada ali
+-- c20-v2: E–não havia água para–a–congregação e–se–ajuntaram contra Mosheh e–contra 'Aharon
+-- c20-v3: E–contendeu o–povo com Mosheh e–disseram dizendo E–oxalá tívessemos–morrido quando–morreram nossos–irmãos diante–de YHWH
+-- c20-v4: E–por–que trouxestes (a) congregação–de YHWH a o–deserto este para–morrer ali nós e–nossos–animais
+-- c20-v5: E–por–que nos–fizestes–subir de–Mitsrayim para–trazer (a)–nós a o–lugar mau este não lugar–de semente e–figo e–videira e–romã e–água não–há para–beber
+-- c20-v6: E–veio Mosheh e–'Aharon de–diante–de a–congregação a entrada–de tenda–de reunião e–caíram sobre suas–faces e–apareceu glória–de YHWH a–eles ¶
+-- c20-v7: E–falou YHWH a Mosheh dizendo
+-- c20-v8: Toma (a) a–vara e–ajunta (a) a–congregação tu e–'Aharon teu–irmão e–falareis a a–rocha diante–seus–olhos e–dará suas–águas e–tirarás para–eles água de a–rocha e–darás–de–beber (a) a–congregação e–(a) seus–animais
+-- c20-v9: E–tomou Mosheh (a) a–vara de–diante–de YHWH como lhe–ordenou
+-- c20-v10: E–ajuntaram Mosheh e–'Aharon (a) a–congregação a face–de a–rocha e–disse a–eles Ouvi agora os–rebeldes Acaso–de a–rocha esta tiraremos para–vós água
+-- c20-v11: E–levantou Mosheh (a) sua–mão e–feriu (a) a–rocha com–sua–vara duas–vezes e–saíram águas muitas e–bebeu a–congregação e–seus–animais §
+-- c20-v12: E–disse YHWH a Mosheh e–a 'Aharon Por–causa–de não crestes em–mim para–me–santificar diante–olhos–de filhos–de Yisra'el por–isso não fareis–entrar (a) a–congregação esta a a–terra que dei a–eles
+-- c20-v13: Estas águas–de Merivah que contenderam filhos–de Yisra'el com YHWH e–foi–santificado neles §
+-- c20-v14: E–enviou Mosheh mensageiros de–Qadesh a rei–de 'Edom Assim diz teu–irmão Yisra'el Tu sabes (a) toda a–dificuldade que nos–encontrou
+-- c20-v15: E–desceram nossos–pais a–Mitsrayim e–habitamos em–Mitsrayim dias muitos e–maltrataram a–nós Mitsrayim e–a–nossos–pais
+-- c20-v16: E–clamamos a YHWH e–ouviu nossa–voz e–enviou mensageiro e–nos–tirou de–Mitsrayim e–eis nós em–Qadesh cidade extremidade–de teu–território
+-- c20-v17: Passaremos agora por–tua–terra não passaremos por–campo e–por–vinha e–não beberemos águas–de poço caminho–do o–rei iremos não desviaremos direita e–esquerda até que passarmos teu–território
+-- c20-v18: E–disse a–ele 'Edom Não passarás por–mim para–que–não com–a–espada sairei ao–teu–encontro
+-- c20-v19: E–disseram a–ele filhos–de Yisra'el Pela–estrada subiremos e–se tuas–águas bebermos eu e–meu–gado e–darei seu–preço apenas não–há coisa com–meus–pés passarei
+-- c20-v20: E–disse Não passarás E–saiu 'Edom ao–seu–encontro com–povo pesado e–com–mão forte
+-- c20-v21: E–recusou 'Edom conceder (a) Yisra'el passar por–seu–território e–desviou Yisra'el de–sobre–ele ¶
+-- c20-v22: E–partiram de–Qadesh e–vieram filhos–de Yisra'el toda a–congregação Hor o–monte
+-- c20-v23: E–disse YHWH a Mosheh e–a 'Aharon em–Hor o–monte sobre fronteira–de terra–de 'Edom dizendo
+-- c20-v24: Será–recolhido 'Aharon a seus–povos porque não entrará a a–terra que dei a–filhos–de Yisra'el por que rebelastes (a) minha–boca a–águas–de Merivah
+-- c20-v25: Toma (a) 'Aharon e–(a) 'El'azar seu–filho e–faze–subir (a)–eles Hor o–monte
+-- c20-v26: E–despirás (a) 'Aharon (a) suas–vestes e–vestirás–elas (a) 'El'azar seu–filho e–'Aharon será–recolhido e–morrerá ali
+-- c20-v27: E–fez Mosheh como ordenou YHWH e–subiram a Hor o–monte diante–olhos–de toda a–congregação
+-- c20-v28: E–despiu Mosheh (a) 'Aharon (a) suas–vestes e–vestiu (a)–elas (a) 'El'azar seu–filho e–morreu 'Aharon ali no–topo–de o–monte e–desceu Mosheh e–'El'azar de o–monte
+-- c20-v29: E–viu toda a–congregação que morreu 'Aharon e–choraram (a) 'Aharon trinta dias toda casa–de Yisra'el §
+-- c21-v1: E–ouviu o–cananeu rei–de 'Arad habitante–de o–Negev que veio Yisra'el caminho–de os–Atharim e–lutou com–Yisra'el e–capturou dele cativos
+-- c21-v2: E–jurou Yisra'el voto a–YHWH e–disse Se entregar entregares (a) o–povo este em–minha–mão e–devotarei–ao–herem (a) suas–cidades
+-- c21-v3: E–ouviu YHWH na–voz–de Yisra'el e–entregou (a) o–cananeu e–devotou–ao–herem (a)–eles e–(a) suas–cidades e–chamou nome–de o–lugar Hormah ¶
+-- c21-v4: E–partiram de–Hor o–monte caminho–de mar–de Suf para–rodear (a) terra–de 'Edom e–foi–curta alma–de o–povo no–caminho
+-- c21-v5: E–falou o–povo contra–'Elohim e–contra–Mosheh Por–que nos–fizestes–subir de–Mitsrayim para–morrer no–deserto porque não–há pão e–não–há água e–nossa–alma enojou com–o–pão o–leve
+-- c21-v6: E–enviou YHWH contra–o–povo (a) as–serpentes as–ardentes e–morderam (a) o–povo e–morreu povo muito de–Yisra'el
+-- c21-v7: E–veio o–povo a Mosheh e–disseram Pecamos porque falamos contra–YHWH e–contra–ti Ora a YHWH e–afastará de–sobre–nós (a) a–serpente e–orou Mosheh por o–povo
+-- c21-v8: E–disse YHWH a Mosheh Faze para–ti serpente–ardente e–coloca (a)–ela sobre mastro e–será todo o–mordido e–verá (a)–ela e–viverá
+-- c21-v9: E–fez Mosheh serpente–de bronze e–colocou–a sobre o–mastro e–era se mordia a–serpente (a) homem e–olhava a serpente–de o–bronze e–vivia
+-- c21-v10: E–partiram filhos–de Yisra'el e–acamparam em–'Ovot
+-- c21-v11: E–partiram de–'Ovot e–acamparam em–'Iye–ha'Avarim no–deserto que sobre face–de Mo'av do–nascer–de o–sol
+-- c21-v12: De–ali partiram e–acamparam em–vale–de Zered
+-- c21-v13: De–ali partiram e–acamparam do–outro–lado–de 'Arnon que no–deserto o–que–sai de–fronteira–de o–amorreu porque 'Arnon fronteira–de Mo'av entre Mo'av e–entre o–amorreu
+-- c21-v14: Por–isso é–dito é–dito no–livro–de guerras–de YHWH (a) Vahev em–Sufah e–(a) os–vales–de 'Arnon
+-- c21-v15: E–encosta–de os–vales que inclinou para–habitação–de 'Ar e–apoia–se na–fronteira–de Mo'av
+-- c21-v16: E–de–ali a–Be'er este o–poço que disse YHWH a–Mosheh Ajunta (a) o–povo e–darei a–eles água §
+-- c21-v17: Então cantou Yisra'el (a) o–cântico este Sobe poço Respondei a–ele
+-- c21-v18: Poço cavaram–o príncipes escavaram–o nobres–de o–povo com–cetro com–seus–bordões e–do–deserto Mattanah
+-- c21-v19: E–de–Mattanah Nahaliel e–de–Nahaliel Bamot
+-- c21-v20: E–de–Bamot o–vale que no–campo–de Mo'av cume–de o–Pisgah e–olha sobre face–de o–deserto ¶
+-- c21-v21: E–enviou Yisra'el mensageiros a Sihon rei–de o–amorreu dizendo
+-- c21-v22: Passarei por–tua–terra não desviaremos por–campo e–por–vinha não beberemos águas–de poço pelo–caminho–do o–rei iremos até que passarmos teu–território
+-- c21-v23: E–não permitiu Sihon (a) Yisra'el passar por–seu–território e–ajuntou Sihon (a) todo seu–povo e–saiu ao–encontro–de Yisra'el ao–deserto e–veio a–Yahats e–lutou com–Yisra'el
+-- c21-v24: E–feriu–o Yisra'el a–fio–de espada e–tomou–posse (a) sua–terra de–'Arnon até Yabboq até filhos–de 'Ammon porque forte fronteira–de filhos–de 'Ammon
+-- c21-v25: E–tomou Yisra'el (a) todas as–cidades estas e–habitou Yisra'el em–todas cidades–de o–amorreu em–Heshbon e–em–todas suas–vilas
+-- c21-v26: Porque Heshbon cidade–de Sihon rei–de o–amorreu ela e–ele lutou com–rei–de Mo'av o–primeiro e–tomou (a) toda sua–terra de–sua–mão até 'Arnon
+-- c21-v27: Por–isso é–dito dizem os–compositores–de–provérbios Vinde a–Heshbon Seja–edificada e–seja–estabelecida cidade–de Sihon
+-- c21-v28: Porque fogo saiu de–Heshbon chama de–cidade–de Sihon devorou 'Ar–de Mo'av senhores–de alturas–de 'Arnon
+-- c21-v29: Ai de–ti Mo'av Pereceste povo–de Kemosh Deu seus–filhos fugitivos e–suas–filhas em–cativeiro a–rei–de amorreu Sihon
+-- c21-v30: E–atiramos–neles pereceu Heshbon até Divon e–devastamos até Nofah que até Medeva
+-- c21-v31: E–habitou Yisra'el em–terra–de o–amorreu
+-- c21-v32: E–enviou Mosheh para–espiar (a) Ya'zer e–tomaram suas–vilas e–desapossou e–desapossou (a) o–amorreu que ali
+-- c21-v33: E–viraram e–subiram caminho–de o–Bashan e–saiu 'Og rei–de o–Bashan ao–encontro–deles ele e–todo seu–povo para–a–batalha a–'Edre'i
+-- c21-v34: E–disse YHWH a Mosheh Não temas (a)–ele porque em–tua–mão entreguei (a)–ele e–(a) todo seu–povo e–(a) sua–terra e–farás a–ele como fizeste a–Sihon rei–de o–amorreu que habitava em–Heshbon
+-- c21-v35: E–feriram (a)–ele e–(a) seus–filhos e–(a) todo seu–povo até não restar a–ele sobrevivente e–tomaram–posse (a) sua–terra
+-- c22-v1: E–partiram filhos–de Yisra'el e–acamparam nas–planícies–de Mo'av do–outro–lado–de Yarden Yeriho §
+-- c22-v2: E–viu Balaq filho–de Tsipor (a) tudo que fez Yisra'el ao–amorreu
+-- c22-v3: E–temeu Mo'av de–diante–de o–povo muito porque muitos ele e–sentiu–pavor Mo'av de–diante–de filhos–de Yisra'el
+-- c22-v4: E–disse Mo'av a anciãos–de Midyan Agora lamerão a–congregação (a) todos nossos–arredores como–lamber–de o–boi (a) verdura–de o–campo E–Balaq filho–de Tsipor rei de–Mo'av no–tempo aquele
+-- c22-v5: E–enviou mensageiros a Bil'am filho–de Be'or a–Petor que sobre o–rio terra–de filhos–de seu–povo para–chamar a–ele dizendo Eis povo saiu de–Mitsrayim eis cobriu (a) olho–de a–terra e–ele habita diante–de–mim
+-- c22-v6: E–agora vem por–favor amaldiçoa para–mim (a) o–povo este porque poderoso ele mais–que–eu talvez poderei ferir nele e–o–expulsarei de a–terra porque sei (a) que abençoas (é)–abençoado e–que amaldiçoas (é)–amaldiçoado
+-- c22-v7: E–foram anciãos–de Mo'av e–anciãos–de Midyan e–adivinhações em–sua–mão e–vieram a Bil'am e–falaram a–ele palavras–de Balaq
+-- c22-v8: E–disse a–eles Permanecei aqui a–noite e–trarei–de–volta a–vós palavra como falar YHWH a–mim e–permaneceram príncipes–de Mo'av com Bil'am
+-- c22-v9: E–veio 'Elohim a Bil'am e–disse Quem os–homens estes contigo
+-- c22-v10: E–disse Bil'am a o–'Elohim Balaq filho–de Tsipor rei–de Mo'av enviou a–mim
+-- c22-v11: Eis o–povo o–que–sai de–Mitsrayim e–cobriu (a) olho–de a–terra agora vem amaldiçoa para–mim (a)–ele talvez poderei lutar contra–ele e–o–expulsarei
+-- c22-v12: E–disse 'Elohim a Bil'am Não irás com–eles não amaldiçoarás (a) o–povo porque abençoado ele
+-- c22-v13: E–levantou–se Bil'am pela–manhã e–disse a príncipes–de Balaq Ide a vossa–terra porque recusou YHWH permitir–me ir convosco
+-- c22-v14: E–levantaram–se príncipes–de Mo'av e–vieram a Balaq e–disseram Recusou Bil'am ir conosco
+-- c22-v15: E–continuou ainda Balaq enviar príncipes muitos e–mais–honrados que–estes
+-- c22-v16: E–vieram a Bil'am e–disseram a–ele Assim diz Balaq filho–de Tsipor Não por–favor sejas–impedido de–ir a–mim
+-- c22-v17: Porque honrar te–honrarei muito e–tudo que disseres a–mim farei e–vem por–favor amaldiçoa para–mim (a) o–povo este
+-- c22-v18: E–respondeu Bil'am e–disse a servos–de Balaq Se der a–mim Balaq plenitude–de sua–casa prata e–ouro não poderei transgredir (a) boca–de YHWH meu–'Elohim para–fazer pequena ou grande
+-- c22-v19: E–agora permanecei por–favor aqui também vós a–noite e–saberei o–que acrescentará YHWH falar comigo
+-- c22-v20: E–veio 'Elohim a Bil'am à–noite e–disse a–ele Se para–chamar a–ti vieram os–homens levanta–te vai com–eles e–somente (a) a–palavra que falarei a–ti ela farás
+-- c22-v21: E–levantou–se Bil'am pela–manhã e–selou (a) sua–jumenta e–foi com príncipes–de Mo'av
+-- c22-v22: E–acendeu–se ira–de 'Elohim porque ia ele e–postou–se mensageiro–de YHWH no–caminho como–adversário para–ele e–ele cavalgava sobre sua–jumenta e–dois seus–servos com–ele
+-- c22-v23: E–viu a–jumenta (a) mensageiro–de YHWH postado no–caminho e–sua–espada desembainhada em–sua–mão e–desviou a–jumenta de o–caminho e–foi pelo–campo e–feriu Bil'am (a) a–jumenta para–fazê–la–desviar para–o–caminho
+-- c22-v24: E–postou–se mensageiro–de YHWH em–caminho–de as–vinhas muro deste–lado e–muro daquele–lado
+-- c22-v25: E–viu a–jumenta (a) mensageiro–de YHWH e–apertou–se contra o–muro e–apertou (a) pé–de Bil'am contra o–muro e–continuou a–feri–la
+-- c22-v26: E–continuou mensageiro–de YHWH passar e–postou–se em–lugar estreito que não–havia caminho para–desviar direita e–esquerda
+-- c22-v27: E–viu a–jumenta (a) mensageiro–de YHWH e–deitou–se debaixo–de Bil'am e–acendeu–se ira–de Bil'am e–feriu (a) a–jumenta com–o–bordão
+-- c22-v28: E–abriu YHWH (a) boca–de a–jumenta e–disse a–Bil'am O–que fiz a–ti que me–feriste esta três vezes
+-- c22-v29: E–disse Bil'am à–jumenta Porque zombaste de–mim Se houvesse espada em–minha–mão porque agora te–mataria
+-- c22-v30: E–disse a–jumenta a Bil'am Não eu tua–jumenta que cavalgaste sobre–mim desde–tua–existência até o–dia este Acaso–costumar costumei fazer a–ti assim e–disse Não
+-- c22-v31: E–descobriu YHWH (a) olhos–de Bil'am e–viu (a) mensageiro–de YHWH postado no–caminho e–sua–espada desembainhada em–sua–mão e–inclinou–se e–prostrou–se sobre–sua–face
+-- c22-v32: E–disse a–ele mensageiro–de YHWH Por que feriste (a) tua–jumenta esta três vezes eis eu saí como–adversário porque precipitou–se o–caminho diante–de–mim
+-- c22-v33: E–viu–me a–jumenta e–desviou de–diante–de–mim esta três vezes talvez desviou–se de–diante–de–mim porque agora também (a)–ti teria–matado e–(a)–ela teria–deixado–viva
+-- c22-v34: E–disse Bil'am a mensageiro–de YHWH Pequei porque não sabia que tu postado ao–meu–encontro no–caminho e–agora se mau em–teus–olhos voltarei para–mim
+-- c22-v35: E–disse mensageiro–de YHWH a Bil'am Vai com os–homens e–somente (a) a–palavra que falarei a–ti ela falarás e–foi Bil'am com príncipes–de Balaq
+-- c22-v36: E–ouviu Balaq que veio Bil'am e–saiu ao–encontro–dele a cidade–de Mo'av que sobre fronteira–de 'Arnon que no–extremo–de a–fronteira
+-- c22-v37: E–disse Balaq a Bil'am Não enviar enviei a–ti para–chamar a–ti Por–que não vieste a–mim De–verdade não posso honrar–te
+-- c22-v38: E–disse Bil'am a Balaq Eis vim a–ti agora poder posso falar qualquer–coisa A–palavra que colocar 'Elohim em–minha–boca ela falarei
+-- c22-v39: E–foi Bil'am com Balaq e–vieram a–Qiryat–Hutsot
+-- c22-v40: E–sacrificou Balaq gado e–ovelhas e–enviou a–Bil'am e–aos–príncipes que com–ele
+-- c22-v41: E–foi pela–manhã e–tomou Balaq (a) Bil'am e–subiu–o a–Bamot–Ba'al e–viu de–ali extremidade–de o–povo
+-- c23-v1: E–disse Bil'am a Balaq Edifica para–mim aqui sete altares e–prepara para–mim aqui sete touros e–sete carneiros
+-- c23-v2: E–fez Balaq como falou Bil'am e–ofereceu Balaq e–Bil'am touro e–carneiro no–altar
+-- c23-v3: E–disse Bil'am a–Balaq Fica–em–pé junto–a tua–oferta–queimada e–irei talvez encontrará YHWH ao–meu–encontro e–palavra o–que me–mostrar e–declararei a–ti e–foi a–lugar–alto
+-- c23-v4: E–encontrou 'Elohim (a) Bil'am e–disse a–ele (a) sete os–altares preparei e–ofereci touro e–carneiro no–altar
+-- c23-v5: E–pôs YHWH palavra em–boca–de Bil'am e–disse Volta a Balaq e–assim falarás
+-- c23-v6: E–voltou a–ele e–eis postado junto–a sua–oferta–queimada ele e–todos príncipes–de Mo'av
+-- c23-v7: E–levantou sua–parábola e–disse De 'Aram trouxe–me Balaq rei–de Mo'av de–montanhas–de oriente Vem amaldiçoa para–mim Ya'aqov e–vem amaldicoar Yisra'el
+-- c23-v8: O–que amaldiçoarei não amaldiçoou 'El e–o–que execrarei não execrou YHWH
+-- c23-v9: Porque de–cimo–de rochas vejo–o e–de–colinas contemplo–o eis povo só habitará e–entre–nações não se–contará
+-- c23-v10: Quem contou pó–de Ya'aqov e–número (a) quarta–parte–de Yisra'el Morra minha–alma morte–de retos e–seja meu–fim como–ele
+-- c23-v11: E–disse Balaq a Bil'am O–que fizeste a–mim Para–amaldiçoar meus–inimigos te–tomei e–eis abençoaste abençoar
+-- c23-v12: E–respondeu e–disse Não (a) que colocar YHWH em–minha–boca isso guardarei para–falar
+-- c23-v13: E–disse a–ele Balaq vai Vem por–favor comigo a lugar outro que verás–o de–ali somente sua–extremidade verás e–todo–ele não verás e–amaldiçoa–o para–mim de–ali
+-- c23-v14: E–tomou–o campo–de Tsofim a cimo–de o–Pisgah e–edificou sete altares e–ofereceu touro e–carneiro no–altar
+-- c23-v15: E–disse a Balaq Fica–em–pé assim junto–a tua–oferta–queimada e–eu encontrarei assim
+-- c23-v16: E–encontrou YHWH (a) Bil'am e–pôs palavra em–sua–boca e–disse Volta a Balaq e–assim falarás
+-- c23-v17: E–veio a–ele e–eis–o postado junto–a sua–oferta–queimada e–príncipes–de Mo'av com–ele e–disse a–ele Balaq O–que falou YHWH
+-- c23-v18: E–levantou sua–parábola e–disse Levanta–te Balaq e–ouve Dá–ouvidos a–mim filho–de Tsipor
+-- c23-v19: Não homem 'El e–mentirá e–filho–de homem e–se–arrependerá Ele disse e–não fará e–falou e–não o–confirmará
+-- c23-v20: Eis abençoar recebi e–abençoou e–não a–revogarei
+-- c23-v21: Não viu iniquidade em–Ya'aqov e–não viu sofrimento em–Yisra'el YHWH seu–'Elohim com–ele e–aclamação–de rei nele
+-- c23-v22: 'El tirou–os de–Mitsrayim como–força–de boi–selvagem para–ele
+-- c23-v23: Porque não encantamento em–Ya'aqov e–não adivinhação em–Yisra'el No–tempo será–dito a–Ya'aqov e–a–Yisra'el O–que fez 'El
+-- c23-v24: Eis povo como–leoa levantará e–como–leão erguerá não se–deitará até comer presa e–sangue–de mortos beber
+-- c23-v25: E–disse Balaq a Bil'am Também amaldiçoar não o–amaldiçoes também abençoar não o–abençoes
+-- c23-v26: E–respondeu Bil'am e–disse a Balaq Não falei a–ti dizendo Tudo que falar YHWH isso farei
+-- c23-v27: E–disse Balaq a Bil'am Vem por–favor te–levarei a lugar outro talvez será–reto em–olhos–de o–'Elohim e–o–amaldiçoarás para–mim de–ali
+-- c23-v28: E–tomou Balaq (a) Bil'am cimo–de o–Pe'or o–que–olha sobre face–de o–deserto
+-- c23-v29: E–disse Bil'am a Balaq Edifica para–mim aqui sete altares e–prepara para–mim aqui sete touros e–sete carneiros
+-- c23-v30: E–fez Balaq como disse Bil'am e–ofereceu touro e–carneiro no–altar
+-- c24-v1: E–viu Bil'am que bom em–olhos–de YHWH abençoar (a) Yisra'el e–não foi como–vez em–vez ao–encontro–de encantamentos e–voltou para o–deserto sua–face
+-- c24-v2: E–levantou Bil'am (a) seus–olhos e–viu (a) Yisra'el habitando por–suas–tribos e–foi sobre–ele Espírito–de 'Elohim
+-- c24-v3: E–levantou sua–parábola e–disse Oráculo–de Bil'am filho–de Be'or e–oráculo–de o–homem de–olho–fechado o–olho
+-- c24-v4: Oráculo–de ouvinte–de palavras–de 'El que visão–de Shaddai vê caindo e–descoberto olhos
+-- c24-v5: Quão boas tuas–tendas Ya'aqov tuas–moradas Yisra'el
+-- c24-v6: Como–vales se–estendem como–jardins junto–a rio como–áloes plantou YHWH como–cedros junto–a águas
+-- c24-v7: Fluirá água de–seus–baldes e–sua–semente em–águas muitas e–será–exaltado mais–que–Agag seu–rei e–será–erguido seu–reino
+-- c24-v8: 'El tirou–o de–Mitsrayim como–força–de boi–selvagem para–ele Devorará nações seus–adversários e–seus–ossos esmagará e–suas–flechas despedaçará
+-- c24-v9: Agachou–se deitou–se como–leão e–como–leoa quem o–levantará Os–que–te–abençoam abençoados e–os–que–te–amaldiçoam amaldiçoados
+-- c24-v10: E–acendeu–se ira–de Balaq contra Bil'am e–bateu (a) suas–palmas e–disse Balaq a Bil'am Para–amaldiçoar meus–inimigos te–chamei e–eis abençoaste abençoar esta três vezes
+-- c24-v11: E–agora foge para–ti a teu–lugar Disse honrar te–honrarei e–eis impediu–te YHWH de–honra
+-- c24-v12: E–disse Bil'am a Balaq Não também a teus–mensageiros que enviaste a–mim falei dizendo
+-- c24-v13: Se der a–mim Balaq plenitude–de sua–casa prata e–ouro não poderei transgredir (a) boca–de YHWH para–fazer bem ou mal de–meu–coração que falar YHWH isso falarei
+-- c24-v14: E–agora eis–me indo a–meu–povo vem aconselhar–te–ei que fará o–povo este a–teu–povo no–fim–de os–dias
+-- c24-v15: E–levantou sua–parábola e–disse Oráculo–de Bil'am filho–de Be'or e–oráculo–de o–homem de–olho–fechado o–olho
+-- c24-v16: Oráculo–de ouvinte–de palavras–de 'El e–conhecedor–de conhecimento–de 'Elyon visão–de Shaddai vê caindo e–descoberto olhos
+-- c24-v17: Vejo–o e–não agora Contemplo–o e–não perto Surgirá estrela de–Ya'aqov e–levantará cetro de–Yisra'el e–ferirá extremidades–de Mo'av e–destruirá todos filhos–de Shet
+-- c24-v18: E–será 'Edom posse e–será posse Se'ir seus–inimigos e–Yisra'el fazendo proeza
+-- c24-v19: E–dominará de–Ya'aqov e–destruirá sobrevivente de–cidade
+-- c24-v20: E–viu (a) 'Amaleq e–levantou sua–parábola e–disse Primeiro–de nações 'Amaleq e–seu–fim para perecer
+-- c24-v21: E–viu (a) o–Qeini e–levantou sua–parábola e–disse Firme tua–habitação e–posto na–rocha teu–ninho
+-- c24-v22: Porque se for para–queimar Qayin até onde 'Ashur te–levará–cativo
+-- c24-v23: E–levantou sua–parábola e–disse Ai quem viverá quando–colocar 'El
+-- c24-v24: E–navios da–mão–de Kittim e–afligirão 'Ashur e–afligirão 'Ever e–também ele para perecer
+-- c24-v25: E–levantou–se Bil'am e–foi e–voltou a–seu–lugar e–também Balaq foi a–seu–caminho ¶
+-- c25-v1: E–habitou Yisra'el em–ha–Shittim e–começou o–povo a–prostituir-se para– filhas–de Mo'av
+-- c25-v2: E–elas–convidaram para–o–povo para–sacrifícios–de deuses–delas e–comeu o–povo e–prostrou-se para–deuses–delas
+-- c25-v3: E–juntou-se Yisra'el a–Ba'al–Pe'or e–acendeu-se– ira–de YHWH contra–Yisra'el
+-- c25-v4: E–disse YHWH para– Mosheh Toma (a) todos– cabeças–de o–povo e–pendura eles para–YHWH diante–de o–sol e–voltará ardor–de ira–de– YHWH de–Yisra'el
+-- c25-v5: E–disse Mosheh para– juízes–de Yisra'el Matai cada–homem homens–seus os–unidos a–Ba'al–Pe'or
+-- c25-v6: E–eis homem de–filhos–de Yisra'el veio e–trouxe para– irmãos–dele (a) a–midianita para–olhos–de Mosheh e–para–olhos–de toda– congregação–de filhos–de– Yisra'el e–eles chorando entrada–de tenda–de reunião
+-- c25-v7: E–viu Pinechas filho–de– El'azar filho–de– Aharon o–sacerdote e–levantou-se de–meio–de a–congregação e–tomou lança em–mão–sua
+-- c25-v8: E–veio atrás–de homem– de–Yisra'el para– a–tenda e–traspassou (a) ambos–eles (a) homem de–Yisra'el e–(a)– a–mulher para– ventre–dela e–foi–detida a–praga de–sobre filhos–de Yisra'el
+-- c25-v9: E–foram os–mortos pela–praga quatro e–vinte mil ¶
+-- c25-v10: E–falou YHWH para– Mosheh dizendo
+-- c25-v11: Pinechas filho–de– El'azar filho–de– Aharon o–sacerdote fez–voltar (a) ira–minha de–sobre filhos–de– Yisra'el em–zelar–ele (a) zelo–meu em–meio–deles e–não– consumi (a) filhos–de– Yisra'el em–zelo–meu
+-- c25-v12: Por–isso dize Eis–me dando a–ele (a) aliança–minha–de paz
+-- c25-v13: E–será para–ele e–para–semente–dele após–ele aliança–de sacerdócio–de eternidade em–lugar–de que zelou para–Deus–seu e–expiou sobre– filhos–de Yisra'el
+-- c25-v14: E–nome–de homem–de Yisra'el o–ferido que foi–ferido com– a–midianita Zimri filho–de– Salu príncipe–de casa–de– pai de–o–simeonita
+-- c25-v15: E–nome–de a–mulher a–ferida a–midianita Kozbi filha–de– Tsur cabeça–de povos–de casa–de– pai em–Midyan ele ¶
+-- c25-v16: E–falou YHWH para– Mosheh dizendo
+-- c25-v17: Afligindo (a) os–midianitas e–ferireis eles
+-- c25-v18: Porque afligindo eles a–vós em–enganos–deles que– enganaram a–vós sobre– assunto–de– Pe'or e–sobre– assunto–de Kozbi filha–de– príncipe–de Midyan irmã–deles a–ferida em–dia–de– a–praga sobre– assunto–de– Pe'or
+-- c26-v1: E–foi após a–praga ¶ e–disse YHWH para– Mosheh e–para El'azar filho–de– Aharon o–sacerdote dizendo
+-- c26-v2: Levantai (a) cabeça–de toda– congregação–de filhos–de– Yisra'el de–filho–de vinte ano e–acima para–casa–de pais–deles todo– que–sai exército em–Yisra'el
+-- c26-v3: E–falou Mosheh e–El'azar o–sacerdote (a)–eles em–planícies–de Mo'av sobre– Yarden–de Yericho dizendo
+-- c26-v4: De–filho–de vinte ano e–acima conforme ordenou YHWH (a) Mosheh e–filhos–de Yisra'el os–que–saíram de–terra–de Mitsrayim
+-- c26-v5: Re'uven primogênito–de Yisra'el filhos–de Re'uven Chanokh família–de o–chanoquita de–Pallu família–de o–palluíta
+-- c26-v6: De–Chetsron família–de o–chetsronita de–Karmi família–de o–karmita
+-- c26-v7: Estas famílias–de o–reuvenita e–foram contados–deles três e–quarenta mil e–sete centenas e–trinta
+-- c26-v8: E–filhos–de Pallu Eli'av
+-- c26-v9: E–filhos–de Eli'av Nemu'el e–Datan e–Aviram este– Datan e–Aviram [Qere] chamados–de a–congregação que contenderam contra– Mosheh e–contra– Aharon na–congregação–de– Qorach em–contenderem–eles contra– YHWH
+-- c26-v10: E–abriu a–terra (a) boca–dela e–engoliu eles e–(a)– Qorach em–morrer–de a–congregação em–devorar o–fogo (a) cinquenta e–duzentos homem e–foram para–sinal
+-- c26-v11: E–filhos–de– Qorach não– morreram §
+-- c26-v12: Filhos–de Shim'on para–famílias–deles de–Nemu'el família–de o–nemu'elita de–Yamin família–de o–yaminita de–Yakhin família–de o–yakhinita
+-- c26-v13: De–Zerach família–de o–zarchita de–Sha'ul família–de o–sha'ulita
+-- c26-v14: Estas famílias–de o–simeonita dois e–vinte mil e–duzentos §
+-- c26-v15: Filhos–de Gad para–famílias–deles de–Tsefon família–de o–tsefonita de–Chaggi família–de o–chaggita de–Shuni família–de o–shunita
+-- c26-v16: De–Ozni família–de o–oznita de–'Eri família–de o–'erita
+-- c26-v17: De–Arod família–de o–arodita de–Ar'eli família–de o–ar'elita
+-- c26-v18: Estas famílias–de filhos–de– Gad para–contados–deles quarenta mil e–cinco centenas §
+-- c26-v19: Filhos–de Yehudah 'Er e–Onan e–morreu 'Er e–Onan em–terra–de Kena'an
+-- c26-v20: E–foram filhos–de– Yehudah para–famílias–deles de–Shelah família–de o–shelanita de–Perets família–de o–partsita de–Zerach família–de o–zarchita
+-- c26-v21: E–foram filhos–de– Perets de–Chetsron família–de o–chetsronita de–Chamul família–de o–chamulita
+-- c26-v22: Estas famílias–de Yehudah para–contados–deles seis e–setenta mil e–cinco centenas §
+-- c26-v23: Filhos–de Yissakhar para–famílias–deles Tola' família–de o–tola'ita de–Puvvah família–de o–punita
+-- c26-v24: De–Yashuv família–de o–yashuvita de–Shimron família–de o–shimronita
+-- c26-v25: Estas famílias–de Yissakhar para–contados–deles quatro e–sessenta mil e–três centenas §
+-- c26-v26: Filhos–de Zevulun para–famílias–deles de–Sered família–de o–sardita de–Elon família–de o–elonita de–Yachle'el família–de o–yachle'elita
+-- c26-v27: Estas famílias–de o–zevulonita para–contados–deles sessenta mil e–cinco centenas §
+-- c26-v28: Filhos–de Yosef para–famílias–deles Menasheh e–Efrayim
+-- c26-v29: Filhos–de Menasheh de–Makhir família–de o–makhirita e–Makhir gerou (a) Gil'ad de–Gil'ad família–de o–gil'adita
+-- c26-v30: Estes filhos–de Gil'ad I'ezer família–de o–i'ezerita de–Cheleq família–de o–chelqita
+-- c26-v31: E–Asri'el família–de o–asri'elita e–Shekhem família–de o–shekhemita
+-- c26-v32: E–Shemida' família–de o–shemida'ita e–Chefer família–de o–cheferita
+-- c26-v33: E–Tselofchad filho–de– Chefer não– havia para–ele filhos senão apenas– filhas e–nome–de filhas–de Tselofchad Machlah e–No'ah Choglah Milkah e–Tirtsah
+-- c26-v34: Estas famílias–de Menasheh e–contados–deles dois e–cinquenta mil e–sete centenas §
+-- c26-v35: Estes filhos–de– Efrayim para–famílias–deles de–Shutelach família–de o–shutelachita de–Bekher família–de o–bakhrita de–Tachan família–de o–tachanita
+-- c26-v36: E–estes filhos–de Shutelach de–'Eran família–de o–'eranita
+-- c26-v37: Estas famílias–de filhos–de– Efrayim para–contados–deles dois e–trinta mil e–cinco centenas Estes filhos–de– Yosef para–famílias–deles §
+-- c26-v38: Filhos–de Binyamin para–famílias–deles de–Bela' família–de o–bal'ita de–Ashbel família–de o–ashbelita de–Achiram família–de o–achiramita
+-- c26-v39: De–Shefufam família–de o–shufamita de–Chufam família–de o–chufamita
+-- c26-v40: E–foram filhos–de– Bela' Ard e–Na'aman família–de o–ardita de–Na'aman família–de o–na'amita
+-- c26-v41: Estes filhos–de– Binyamin para–famílias–deles e–contados–deles cinco e–quarenta mil e–seis centenas §
+-- c26-v42: Estes filhos–de– Dan para–famílias–deles de–Shucham família–de o–shuchamita estas famílias–de Dan para–famílias–deles
+-- c26-v43: Todas– famílias–de o–shuchamita para–contados–deles quatro e–sessenta mil e–quatro centenas §
+-- c26-v44: Filhos–de Asher para–famílias–deles de–Yimnah família–de o–yimnata de–Yishvi família–de o–yishvita de–Beri'ah família–de o–beri'ita
+-- c26-v45: Para–filhos–de Beri'ah de–Chever família–de o–cheverita de–Malki'el família–de o–malki'elita
+-- c26-v46: E–nome–de filha–de– Asher Serach
+-- c26-v47: Estas famílias–de filhos–de– Asher para–contados–deles três e–cinquenta mil e–quatro centenas §
+-- c26-v48: Filhos–de Naftali para–famílias–deles de–Yachtse'el família–de o–yachtse'elita de–Guni família–de o–gunita
+-- c26-v49: De–Yetser família–de o–yitsrita de–Shillem família–de o–shillemita
+-- c26-v50: Estas famílias–de Naftali para–famílias–deles e–contados–deles cinco e–quarenta mil e–quatro centenas
+-- c26-v51: Estes contados–de filhos–de Yisra'el seis– centenas mil e–mil sete centenas e–trinta ¶
+-- c26-v52: E–falou YHWH para– Mosheh dizendo
+-- c26-v53: Para–estes será–dividida a–terra em–herança em–número–de nomes
+-- c26-v54: Para–o–maior aumentarás herança–sua e–para–o–menor diminuirás herança–sua cada–homem conforme– contados–seus será–dada herança–sua
+-- c26-v55: Somente– por–sorte será–dividida (a) a–terra para–nomes–de tribos–de– pais–deles herdarão
+-- c26-v56: Sobre– boca–de a–sorte será–dividida herança–sua entre maior para–menor §
+-- c26-v57: E–estes contados–de o–levita para–famílias–deles de–Gershon família–de o–gershonita de–Qehat família–de o–qehatita de–Merari família–de o–merarita
+-- c26-v58: Estas famílias–de Levi família–de o–livnita família–de o–chevronita família–de o–machlita família–de o–mushita família–de o–qorchita e–Qehat gerou (a) 'Amram
+-- c26-v59: E–nome–de esposa–de 'Amram Yokheved filha–de– Levi que deu–à–luz (a)–ela para–Levi em–Mitsrayim e–deu–à–luz para–'Amram (a)– Aharon e–(a)– Mosheh e–(a) Miryam irmã–deles
+-- c26-v60: E–nasceu para–Aharon (a) Nadav e–(a) Avihu (a) El'azar e–(a) Itamar
+-- c26-v61: E–morreu Nadav e–Avihu em–oferecerem–eles fogo– estranho diante–de YHWH
+-- c26-v62: E–foram contados–deles três e–vinte mil todo– masculino de–filho–de– mês e–acima porque não foram–contados em–meio–de filhos–de Yisra'el porque não– foi–dada para–eles herança em–meio–de filhos–de Yisra'el
+-- c26-v63: Estes contados–de Mosheh e–El'azar o–sacerdote que contaram (a) filhos–de Yisra'el em–planícies–de Mo'av sobre Yarden–de Yericho
+-- c26-v64: E–em–estes não– havia homem de–contados–de Mosheh e–Aharon o–sacerdote que contaram (a) filhos–de Yisra'el em–deserto–de Sinay
+-- c26-v65: Porque– disse YHWH para–eles morrendo morrerão no–deserto e–não– sobrou deles homem senão apenas– Kalev filho–de– Yefunneh e–Yehoshua' filho–de– Nun §
+-- c27-v1: E–aproximaram-se filhas–de Tselofchad filho–de– Chefer filho–de– Gil'ad filho–de– Makhir filho–de– Menasheh para–famílias–de Menasheh filho–de– Yosef e–estes nomes–de filhas–suas Machlah No'ah e–Choglah e–Milkah e–Tirtsah
+-- c27-v2: E–pararam diante–de Mosheh e–diante–de El'azar o–sacerdote e–diante–de os–príncipes e–toda– a–congregação entrada–de tenda–de– reunião dizendo
+-- c27-v3: Pai–nosso morreu no–deserto e–ele não– estava em–meio–de a–congregação os–que–se–reuniram contra– YHWH na–congregação–de– Qorach porque– em–pecado–seu morreu e–filhos não– havia para–ele
+-- c27-v4: Por–que será–tirado nome–de– pai–nosso de–meio–de família–sua porque não–há para–ele filho Dai– para–nós propriedade em–meio–de irmãos–de pai–nosso
+-- c27-v5: E–trouxe Mosheh (a) julgamento–delas diante–de YHWH §
+-- c27-v6: E–disse YHWH para– Mosheh dizendo
+-- c27-v7: Certo filhas–de Tselofchad falando dando darás para–elas propriedade–de herança em–meio–de irmãos–de pai–delas e–transferirás (a) herança–de pai–delas para–elas
+-- c27-v8: E–para– filhos–de Yisra'el falarás dizendo Homem quando– morrer e–filho não–há para–ele e–transferireis (a) herança–sua para–filha–sua
+-- c27-v9: E–se– não–há para–ele filha e–dareis (a) herança–sua para–irmãos–dele
+-- c27-v10: E–se– não–há para–ele irmãos e–dareis (a) herança–sua para–irmãos–de pai–seu
+-- c27-v11: E–se– não–há irmãos para–pai–seu e–dareis (a) herança–sua para–parente–seu o–próximo a–ele de–família–sua e–herdará (a)–ela e–será para–filhos–de Yisra'el para–estatuto–de juízo conforme ordenou YHWH (a) Mosheh §
+-- c27-v12: E–disse YHWH para– Mosheh Sobe para– monte–de ha–'Avarim este e–vê (a) a–terra que dei para–filhos–de Yisra'el
+-- c27-v13: E–verás (a)–ela e–serás–reunido para– povo–teu também– tu conforme foi–reunido Aharon irmão–teu
+-- c27-v14: Conforme rebelastes boca–minha em–deserto–de– Tsin em–contenda–de a–congregação para–santificar-me nas–águas para–olhos–deles elas águas–de– Merivat Qadesh deserto–de– Tsin ¶
+-- c27-v15: E–falou Mosheh para– YHWH dizendo
+-- c27-v16: Nomeie YHWH Deus–de os–espíritos para–toda– carne homem sobre– a–congregação
+-- c27-v17: Que– saia diante–deles e–que entre diante–deles e–que os–faça–sair e–que os–faça–entrar e–não será congregação–de YHWH como–ovelhas que não–há– para–elas pastor
+-- c27-v18: E–disse YHWH para– Mosheh Toma– para–ti (a) Yehoshua' filho–de– Nun homem que– espírito nele e–apoiarás (a) mão–tua sobre–ele
+-- c27-v19: E–colocarás (a)–ele diante–de El'azar o–sacerdote e–diante–de toda– a–congregação e–ordenarás (a)–ele para–olhos–deles
+-- c27-v20: E–darás de–majestade–tua sobre–ele para–que ouçam toda– congregação–de filhos–de Yisra'el
+-- c27-v21: E–diante–de El'azar o–sacerdote estará e–perguntará para–ele em–juízo–de o–Urim diante–de YHWH sobre– boca–sua sairão e–sobre– boca–sua entrarão ele e–todos– filhos–de– Yisra'el com–ele e–toda– a–congregação
+-- c27-v22: E–fez Mosheh conforme ordenou YHWH (a)–ele e–tomou (a) Yehoshua' e–colocou–o diante–de El'azar o–sacerdote e–diante–de toda– a–congregação
+-- c27-v23: E–apoiou (a) mãos–suas sobre–ele e–ordenou–o conforme falou YHWH pela–mão–de– Mosheh ¶
+-- c28-v1: E–falou YHWH para– Mosheh dizendo
+-- c28-v2: Ordena (a) filhos–de Yisra'el e–dirás a–eles (a) oferta–minha pão–meu para–ofertas–de–fogo–minhas cheiro–de agradável–meu guardareis para–oferecer para–mim no–tempo–seu
+-- c28-v3: E–dirás para–eles Esta a–oferta–de–fogo que oferecereis para–YHWH cordeiros filhos–de– ano perfeitos dois para–o–dia holocausto contínuo
+-- c28-v4: (a) o–cordeiro um farás na–manhã e–(a) o–cordeiro o–segundo farás entre os–entardeceres
+-- c28-v5: E–décimo–de a–efa flor–de–farinha para–oferta–de–cereais misturada em–azeite–de batido quarto–de o–him
+-- c28-v6: Holocausto–de contínuo o–feito em–monte–de Sinay para–cheiro–de agradável oferta–de–fogo para–YHWH
+-- c28-v7: E–libação–sua quarto–de o–him para–o–cordeiro o–um no–santo derrama libação–de bebida–forte para–YHWH
+-- c28-v8: E–(a) o–cordeiro o–segundo farás entre os–entardeceres como–oferta–de–cereais–de a–manhã e–como–libação–sua farás oferta–de–fogo–de cheiro–de agradável para–YHWH ¶
+-- c28-v9: E–em–dia–de o–shabat dois– cordeiros filhos–de– ano perfeitos e–dois décimos flor–de–farinha–de oferta–de–cereais misturada no–azeite e–libação–sua
+-- c28-v10: Holocausto–de shabat em–shabat–seu sobre– holocausto–de o–contínuo e–libação–sua §
+-- c28-v11: E–em–começos–de meses–vossos oferecereis holocausto para–YHWH novilhos filhos–de– gado dois e–carneiro um cordeiros filhos–de– ano sete perfeitos
+-- c28-v12: E–três décimos flor–de–farinha–de oferta–de–cereais misturada no–azeite para–o–novilho o–um e–dois décimos flor–de–farinha–de oferta–de–cereais misturada no–azeite para–o–carneiro o–um
+-- c28-v13: E–décimo décimo flor–de–farinha–de oferta–de–cereais misturada no–azeite para–o–cordeiro o–um holocausto–de cheiro–de agradável oferta–de–fogo para–YHWH
+-- c28-v14: E–libações–deles metade–de o–him será para–o–novilho e–terço–de o–him para–o–carneiro e–quarto–de o–him para–o–cordeiro vinho este holocausto–de mês em–mês–seu para–meses–de o–ano
+-- c28-v15: E–bode cabras–de um para–oferta–pelo–pecado para–YHWH sobre– holocausto–de o–contínuo será–feito e–libação–sua §
+-- c28-v16: E–no–mês o–primeiro em–quatorze décimo dia para–o–mês Pesach para–YHWH
+-- c28-v17: E–em–quinze décimo dia para–o–mês este festa sete–de dias matsi–(pães–ázimos) será–comido
+-- c28-v18: No–dia o–primeiro convocação– santa toda– obra–de serviço não fareis
+-- c28-v19: E–oferecereis oferta–de–fogo–de holocausto para–YHWH novilhos filhos–de– gado dois e–carneiro um e–sete cordeiros filhos–de ano perfeitos serão para–vós
+-- c28-v20: E–oferta–de–cereais–deles flor–de–farinha misturada no–azeite três décimos para–o–novilho e–dois décimos para–o–carneiro fareis
+-- c28-v21: Décimo décimo farás para–o–cordeiro o–um para–sete–de os–cordeiros
+-- c28-v22: E–bode–de oferta–pelo–pecado um para–expiar sobre–vós
+-- c28-v23: De–além–de holocausto–de a–manhã que para–holocausto–de o–contínuo fareis (a) estes
+-- c28-v24: Como–estes fareis para–o–dia sete–de dias pão–de oferta–de–fogo–de cheiro–de– agradável para–YHWH sobre– holocausto–de o–contínuo será–feito e–libação–sua
+-- c28-v25: E–no–dia o–sétimo convocação– santa será para–vós toda– obra–de serviço não fareis §
+-- c28-v26: E–em–dia–de os–primeiros–frutos em–oferecerdes–vós oferta–de–cereais nova para–YHWH em–semanas–vossas convocação– santa será para–vós toda– obra–de serviço não fareis
+-- c28-v27: E–oferecereis holocausto para–cheiro–de agradável para–YHWH novilhos filhos–de– gado dois carneiro um sete cordeiros filhos–de ano
+-- c28-v28: E–oferta–de–cereais–deles flor–de–farinha misturada no–azeite três décimos para–o–novilho o–um dois décimos para–o–carneiro o–um
+-- c28-v29: Décimo décimo para–o–cordeiro o–um para–sete–de os–cordeiros
+-- c28-v30: Bode–de cabras um para–expiar sobre–vós
+-- c28-v31: De–além–de holocausto–de o–contínuo e–oferta–de–cereais–sua fareis perfeitos serão– para–vós e–libações–deles ¶
+-- c29-v1: E–no–mês o–sétimo em–um para–o–mês convocação– santa será para–vós toda– obra–de serviço não fareis dia–de aclamação será para–vós
+-- c29-v2: E–fareis holocausto para–cheiro–de agradável para–YHWH novilho filho–de– gado um carneiro um cordeiros filhos–de– ano sete perfeitos
+-- c29-v3: E–oferta–de–cereais–deles flor–de–farinha misturada no–azeite três décimos para–o–novilho dois décimos para–o–carneiro
+-- c29-v4: E–décimo um para–o–cordeiro o–um para–sete–de os–cordeiros
+-- c29-v5: E–bode–de– cabras um oferta–pelo–pecado para–expiar sobre–vós
+-- c29-v6: De–além–de holocausto–de o–mês e–oferta–de–cereais–sua e–holocausto–de o–contínuo e–oferta–de–cereais–sua e–libações–deles conforme–ordenança–deles para–cheiro–de agradável oferta–de–fogo para–YHWH §
+-- c29-v7: E–em–dez para–o–mês o–sétimo este convocação– santa será para–vós e–afligireis (a) almas–vossas toda– obra não fareis
+-- c29-v8: E–oferecereis holocausto para–YHWH cheiro–de agradável novilho filho–de– gado um carneiro um cordeiros filhos–de– ano sete perfeitos serão para–vós
+-- c29-v9: E–oferta–de–cereais–deles flor–de–farinha misturada no–azeite três décimos para–o–novilho dois décimos para–o–carneiro o–um
+-- c29-v10: Décimo décimo para–o–cordeiro o–um para–sete–de os–cordeiros
+-- c29-v11: Bode–de– cabras um oferta–pelo–pecado de–além–de oferta–pelo–pecado–de as–expiações e–holocausto–de o–contínuo e–oferta–de–cereais–sua e–libações–deles ¶
+-- c29-v12: E–em–quinze décimo dia para–o–mês o–sétimo convocação– santa será para–vós toda– obra–de serviço não fareis e–festejareis festa para–YHWH sete–de dias
+-- c29-v13: E–oferecereis holocausto oferta–de–fogo–de cheiro–de agradável para–YHWH novilhos filhos–de– gado treze décimo carneiros dois cordeiros filhos–de– ano quatorze décimo perfeitos serão
+-- c29-v14: E–oferta–de–cereais–deles flor–de–farinha misturada no–azeite três décimos para–o–novilho o–um para–treze décimo novilhos dois décimos para–o–carneiro o–um para–dois–de os–carneiros
+-- c29-v15: E–décimo décimo para–o–cordeiro o–um para–quatorze décimo cordeiros
+-- c29-v16: E–bode–de– cabras um oferta–pelo–pecado de–além–de holocausto–de o–contínuo oferta–de–cereais–sua e–libação–sua §
+-- c29-v17: E–no–dia o–segundo novilhos filhos–de– gado doze décimo carneiros dois cordeiros filhos–de– ano quatorze décimo perfeitos
+-- c29-v18: E–oferta–de–cereais–deles e–libações–deles para–os–novilhos para–os–carneiros e–para–os–cordeiros em–número–deles conforme–a–ordenança
+-- c29-v19: E–bode–de– cabras um oferta–pelo–pecado de–além–de holocausto–de o–contínuo e–oferta–de–cereais–sua e–libações–deles §
+-- c29-v20: E–no–dia o–terceiro novilhos onze– décimo carneiros dois cordeiros filhos–de– ano quatorze décimo perfeitos
+-- c29-v21: E–oferta–de–cereais–deles e–libações–deles para–os–novilhos para–os–carneiros e–para–os–cordeiros em–número–deles conforme–a–ordenança
+-- c29-v22: E–bode–de oferta–pelo–pecado um de–além–de holocausto–de o–contínuo e–oferta–de–cereais–sua e–libação–sua §
+-- c29-v23: E–no–dia o–quarto novilhos dez carneiros dois cordeiros filhos–de– ano quatorze décimo perfeitos
+-- c29-v24: Oferta–de–cereais–deles e–libações–deles para–os–novilhos para–os–carneiros e–para–os–cordeiros em–número–deles conforme–a–ordenança
+-- c29-v25: E–bode–de– cabras um oferta–pelo–pecado de–além–de holocausto–de o–contínuo oferta–de–cereais–sua e–libação–sua §
+-- c29-v26: E–no–dia o–quinto novilhos nove carneiros dois cordeiros filhos–de– ano quatorze décimo perfeitos
+-- c29-v27: E–oferta–de–cereais–deles e–libações–deles para–os–novilhos para–os–carneiros e–para–os–cordeiros em–número–deles conforme–a–ordenança
+-- c29-v28: E–bode–de oferta–pelo–pecado um de–além–de holocausto–de o–contínuo e–oferta–de–cereais–sua e–libação–sua §
+-- c29-v29: E–no–dia o–sexto novilhos oito carneiros dois cordeiros filhos–de– ano quatorze décimo perfeitos
+-- c29-v30: E–oferta–de–cereais–deles e–libações–deles para–os–novilhos para–os–carneiros e–para–os–cordeiros em–número–deles conforme–a–ordenança
+-- c29-v31: E–bode–de oferta–pelo–pecado um de–além–de holocausto–de o–contínuo oferta–de–cereais–sua e–libações–dela ¶
+-- c29-v32: E–no–dia o–sétimo novilhos sete carneiros dois cordeiros filhos–de– ano quatorze décimo perfeitos
+-- c29-v33: E–oferta–de–cereais–deles e–libações–deles para–os–novilhos para–os–carneiros e–para–os–cordeiros em–número–deles conforme–ordenança–deles
+-- c29-v34: E–bode–de oferta–pelo–pecado um de–além–de holocausto–de o–contínuo oferta–de–cereais–sua e–libação–sua ¶
+-- c29-v35: No–dia o–oitavo assembleia-solene será para–vós toda– obra–de serviço não fareis
+-- c29-v36: E–oferecereis holocausto oferta–de–fogo–de cheiro–de agradável para–YHWH novilho um carneiro um cordeiros filhos–de– ano sete perfeitos
+-- c29-v37: Oferta–de–cereais–deles e–libações–deles para–o–novilho para–o–carneiro e–para–os–cordeiros em–número–deles conforme–a–ordenança
+-- c29-v38: E–bode–de oferta–pelo–pecado um de–além–de holocausto–de o–contínuo e–oferta–de–cereais–sua e–libação–sua
+-- c29-v39: Estas fareis para–YHWH em–festas–vossas de–além–de votos–vossos e–ofertas–voluntárias–vossas para–holocaustos–vossos e–para–ofertas–de–cereais–vossas e–para–libações–vossas e–para–ofertas–de–paz–vossas
+-- c29-v40: E–disse Mosheh para– filhos–de Yisra'el conforme–tudo que– ordenou YHWH (a) Mosheh ¶
+-- c30-v1: E–falou Mosheh para– cabeças–de as–tribos para–filhos–de Yisra'el dizendo Esta a–palavra que ordenou YHWH
+-- c30-v2: Homem quando– votar voto para–YHWH ou– jurar juramento para–obrigar obrigação sobre– alma–sua não profanará palavra–sua conforme–tudo– que–sai de–boca–sua fará
+-- c30-v3: E–mulher quando– votar voto para–YHWH e–obrigar–se obrigação em–casa–de pai–dela em–juventude–dela
+-- c30-v4: E–ouvir pai–dela (a) voto–dela e–obrigação–dela que obrigou–se sobre– alma–dela e–calar–se para–ela pai–dela e–ficarão todos– votos–dela e–toda– obrigação que– obrigou–se sobre– alma–dela ficará
+-- c30-v5: E–se– opuser–se pai–dela (a)–ela em–dia–de ouvir–ele todos– votos–dela e–obrigações–dela que– obrigou–se sobre– alma–dela não ficará e–YHWH perdoará– para–ela porque– opor-se pai–dela (a)–ela
+-- c30-v6: E–se– sendo for para–homem e–votos–dela sobre–ela ou pronúncia–de lábios–dela que obrigou–se sobre– alma–dela
+-- c30-v7: E–ouvir marido–dela em–dia–de ouvir–ele e–calar–se para–ela e–ficarão votos–dela e–obrigações–dela que– obrigou–se sobre– alma–dela ficarão
+-- c30-v8: E–se em–dia–de ouvir marido–dela opuser–se (a)–ela e–anulará (a) voto–dela que sobre–ela e–(a) pronúncia–de lábios–dela que obrigou–se sobre– alma–dela e–YHWH perdoará– para–ela
+-- c30-v9: E–voto–de viúva e–divorciada tudo que– obrigou–se sobre– alma–dela ficará sobre–ela
+-- c30-v10: E–se– casa–de marido–dela votou ou– obrigou–se obrigação sobre– alma–dela em–juramento
+-- c30-v11: E–ouvir marido–dela e–calar–se para–ela não opor-se (a)–ela e–ficarão todos– votos–dela e–toda– obrigação que– obrigou–se sobre– alma–dela ficará
+-- c30-v12: E–se– anulando anular eles marido–dela em–dia–de ouvir–ele todo– saída–de lábios–dela para–votos–dela e–para–obrigação–de alma–dela não ficará marido–dela anulou–os e–YHWH perdoará– para–ela
+-- c30-v13: Todo– voto e–todo– juramento–de obrigação para–afligir alma marido–dela confirmará–o e–marido–dela anulará–o
+-- c30-v14: E–se– calando calar–se para–ela marido–dela de–dia para– dia e–confirmará (a) todos– votos–dela ou (a) todas– obrigações–dela que sobre–ela confirmou eles porque– calou–se para–ela em–dia–de ouvir–ele
+-- c30-v15: E–se– anulando anular eles após ouvir–ele e–levará (a) iniquidade–dela
+-- c30-v16: Estes os–estatutos que ordenou YHWH (a) Mosheh entre homem para–esposa–sua entre– pai para–filha–sua em–juventude–dela casa–de pai–dela ¶
+-- c31-v1: E–falou YHWH a Mosheh dizendo
+-- c31-v2: Vinga vingança–de filhos–de Yisra'el de–com os–Midyanitas depois serás–recolhido a teus–povos
+-- c31-v3: E–falou Mosheh a o–povo dizendo Armai dentre–vós homens para–o–exército e–sejam sobre Midyan para–dar vingança–de YHWH em–Midyan
+-- c31-v4: mil para–a–tribo mil para–a–tribo de–todas tribos–de Yisra'el enviareis para–o–exército
+-- c31-v5: E–foram–entregues de–milhares–de Yisra'el mil para–a–tribo dois dez mil armados–de exército
+-- c31-v6: E–enviou (a)–eles Mosheh mil para–a–tribo para–o–exército (a)–eles e–(a) Pinchas filho–de 'El'azar o–sacerdote para–o–exército e–utensílios–de a–santidade e–trombetas–de o–alarido em–sua–mão
+-- c31-v7: E–guerrearam contra Midyan conforme ordenou YHWH (a) Mosheh e–mataram todo macho
+-- c31-v8: E–(a) reis–de Midyan mataram sobre seus–mortos (a) 'Evi e–(a) Reqem e–(a) Tsur e–(a) Chur e–(a) Reva' cinco–de reis–de Midyan e–(a) Bil'am filho–de Be'or mataram com–a–espada
+-- c31-v9: E–capturaram filhos–de Yisra'el (a) mulheres–de Midyan e–(a) suas–crianças e–(a) todo seu–gado e–(a) todo seu–rebanho e–(a) toda sua–riqueza saquearam
+-- c31-v10: E–(a) todas suas–cidades em–suas–habitações e–(a) todos seus–acampamentos queimaram com–o–fogo
+-- c31-v11: E–tomaram (a) todo o–despojo e–(a) todo o–saque em–humano e–em–animal
+-- c31-v12: E–trouxeram a Mosheh e–a 'El'azar o–sacerdote e–a congregação–de filhos–de Yisra'el (a) os–cativos e–(a) o–saque e–(a) o–despojo a o–acampamento a planícies–de Mo'av que sobre Yarden Yericho §
+-- c31-v13: E–saíram Mosheh e–'El'azar o–sacerdote e–todos príncipes–de a–congregação para–encontrá–los a fora–de o–acampamento
+-- c31-v14: E–irou–se Mosheh contra oficiais–de o–exército chefes–de os–milhares e–chefes–de as–centenas os–que–vinham de–exército–de a–guerra
+-- c31-v15: E–disse a–eles Mosheh Deixastes–vivas toda fêmea
+-- c31-v16: Eis elas foram para–filhos–de Yisra'el por–palavra–de Bil'am para–entregar transgressão contra–YHWH sobre assunto–de Pe'or e–foi a–praga na–congregação–de YHWH
+-- c31-v17: E–agora matai todo macho entre–as–crianças e–toda mulher que–conhece homem para–deitar–de macho matai
+-- c31-v18: E–toda a–criança entre–as–mulheres que não conheceu deitar–de macho deixai–vivas para–vós
+-- c31-v19: E–vós acampai fora–de o–acampamento sete–de dias todo que–mata alma e–todo que–toca em–morto purificai–vos no–dia o–terceiro e–no–dia o–sétimo vós e–vossos–cativos
+-- c31-v20: E–toda veste e–todo utensílio–de couro e–todo obra–de cabras e–todo utensílio–de madeira purificareis §
+-- c31-v21: E–disse 'El'azar o–sacerdote a homens–de o–exército os–que–vinham para–a–guerra Esta estatuto–de a–lei que ordenou YHWH (a) Mosheh
+-- c31-v22: Somente (a) o–ouro e–(a) a–prata (a) o–bronze (a) o–ferro (a) o–estanho e–(a) o–chumbo
+-- c31-v23: Todo objeto que entra no–fogo passareis no–fogo e–será–puro porém com–águas–de impureza será–purificado e–tudo que não entra no–fogo passareis na–água
+-- c31-v24: E–lavareis vossas–vestes no–dia o–sétimo e–sereis–puros e–depois entrareis a o–acampamento ¶
+-- c31-v25: E–disse YHWH a Mosheh dizendo
+-- c31-v26: Levanta (a) cabeça–de saque–de os–cativos em–humano e–em–animal tu e–'El'azar o–sacerdote e–cabeças–de pais–de a–congregação
+-- c31-v27: E–dividirás (a) o–saque entre os–que–tomaram a–guerra os–que–saíram para–o–exército e–entre toda a–congregação
+-- c31-v28: E–levantarás tributo para–YHWH de–com homens–de a–guerra os–que–saem para–o–exército um alma de–cinco as–centenas de o–humano e–de o–gado e–de os–jumentos e–de o–rebanho
+-- c31-v29: De–sua–metade tomareis e–darás a–'El'azar o–sacerdote oferta–de YHWH
+-- c31-v30: E–de–metade–de filhos–de Yisra'el tomarás um tomado de os–cinquenta de o–humano de o–gado de os–jumentos e–de o–rebanho de–todo o–animal e–darás (a)–eles aos–Levitas os–que–guardam guarda–de tabernáculo–de YHWH
+-- c31-v31: E–fez Mosheh e–'El'azar o–sacerdote conforme ordenou YHWH (a) Mosheh
+-- c31-v32: E–foi o–saque resto–de o–despojo que despojaram povo–de o–exército ovelhas seis centenas–de mil e–setenta mil e–cinco mil
+-- c31-v33: E–gado dois e–setenta mil
+-- c31-v34: E–jumentos um e–sessenta mil
+-- c31-v35: E–alma–de humano de as–mulheres que não conheceram deitar–de macho toda alma dois e–trinta mil
+-- c31-v36: E–foi a–metade porção–de os–que–saíram no–exército número–de o–rebanho três centenas–de mil e–trinta mil e–sete mil e–cinco centenas
+-- c31-v37: E–foi o–tributo para–YHWH de o–rebanho seis centenas cinco e–setenta
+-- c31-v38: E–o–gado seis e–trinta mil e–seu–tributo para–YHWH dois e–setenta
+-- c31-v39: E–jumentos trinta mil e–cinco centenas e–seu–tributo para–YHWH um e–sessenta
+-- c31-v40: E–alma–de humano seis dez mil e–seu–tributo para–YHWH dois e–trinta alma
+-- c31-v41: E–deu Mosheh (a) tributo–de oferta–de YHWH a–'El'azar o–sacerdote conforme ordenou YHWH (a) Mosheh
+-- c31-v42: E–de–metade–de filhos–de Yisra'el que dividiu Mosheh de os–homens os–que–guerreavam
+-- c31-v43: E–foi metade–de a–congregação de o–rebanho três centenas–de mil e–trinta mil sete mil e–cinco centenas
+-- c31-v44: E–gado seis e–trinta mil
+-- c31-v45: E–jumentos trinta mil e–cinco centenas
+-- c31-v46: E–alma–de humano seis dez mil
+-- c31-v47: E–tomou Mosheh de–metade–de filhos–de Yisra'el (a) o–tomado um de os–cinquenta de o–humano e–de o–animal e–deu (a)–eles aos–Levitas os–que–guardam guarda–de tabernáculo–de YHWH conforme ordenou YHWH (a) Mosheh
+-- c31-v48: E–aproximaram–se a Mosheh os–oficiais que sobre–milhares–de o–exército chefes–de os–milhares e–chefes–de as–centenas
+-- c31-v49: E–disseram a Mosheh Teus–servos levantaram (a) cabeça–de homens–de a–guerra que em–nossa–mão e–não faltou de–nós homem
+-- c31-v50: E–oferecemos (a) oferta–de YHWH homem que encontrou utensílio–de ouro braceletes e–pulseiras anéis brincos e–colares para–expiar sobre nossas–almas diante–de YHWH
+-- c31-v51: E–tomou Mosheh e–'El'azar o–sacerdote (a) o–ouro de–com–eles todo utensílio–de obra
+-- c31-v52: E–foi todo ouro–de a–oferta que ofereceram para–YHWH seis dez mil sete centenas e–cinquenta siclos de–com chefes–de os–milhares e–de–com chefes–de as–centenas
+-- c31-v53: Homens–de o–exército despojaram homem para–si
+-- c31-v54: E–tomou Mosheh e–'El'azar o–sacerdote (a) o–ouro de–com chefes–de os–milhares e–as–centenas e–trouxeram (a)–ele a tenda–de reunião memorial para–filhos–de Yisra'el diante–de YHWH ¶
+-- c32-v1: E–rebanho grande havia para–filhos–de Re'uven e–para–filhos–de Gad poderoso muito e–viram (a) terra–de Ya'zer e–(a) terra–de Gil'ad e–eis o–lugar lugar–de rebanho
+-- c32-v2: E–vieram filhos–de Gad e–filhos–de Re'uven e–disseram a Mosheh e–a 'El'azar o–sacerdote e–a príncipes–de a–congregação dizendo
+-- c32-v3: 'Atarot e–Divon e–Ya'zer e–Nimrah e–Cheshbon e–'El'aleh e–Sevam e–Nevo e–Be'on
+-- c32-v4: A–terra que feriu YHWH diante–de congregação–de Yisra'el terra–de rebanho ela e–para–teus–servos rebanho §
+-- c32-v5: E–disseram Se encontramos graça em–teus–olhos seja–dada (a) a–terra a–esta a–teus–servos por–posse não nos–faças–atravessar (a) o–Yarden
+-- c32-v6: E–disse Mosheh a–filhos–de Gad e–a–filhos–de Re'uven Vossos–irmãos irão para–a–guerra e–vós habitareis aqui
+-- c32-v7: E–por–que [desanimareis] desanimareis (a) coração–de filhos–de Yisra'el de–atravessar a a–terra que deu a–eles YHWH
+-- c32-v8: Assim fizeram vossos–pais quando–enviei (a)–eles de–Qadesh–Barne'a para–ver (a) a–terra
+-- c32-v9: E–subiram até vale–de 'Eshkol e–viram (a) a–terra e–desanimaram (a) coração–de filhos–de Yisra'el para–não ir a a–terra que deu a–eles YHWH
+-- c32-v10: E–acendeu–se ira–de YHWH no–dia aquele e–jurou dizendo
+-- c32-v11: Se verão os–homens os–que–subiram de–Mitsrayim de–filho–de vinte anos e–acima (a) a–adamah que jurei a–'Avraham a–Yitschaq e–a–Ya'aqov porque não seguiram–plenamente após–mim
+-- c32-v12: Exceto Kalev filho–de Yefuneh o–Qenizi e–Yehoshua' filho–de Nun porque seguiram–plenamente após YHWH
+-- c32-v13: E–acendeu–se ira–de YHWH contra–Yisra'el e–os–fez–vaguear no–deserto quarenta anos até acabar–se toda a–geração a–que–fazia o–mal aos–olhos–de YHWH
+-- c32-v14: E–eis levantastes–vos em–lugar–de vossos–pais cria–de homens pecadores para–acrescentar ainda sobre ardor–de ira–de YHWH contra Yisra'el
+-- c32-v15: Porque vos–afastareis de–após–ele e–acrescentará ainda para–deixá–lo no–deserto e–destruireis a–todo o–povo o–este §
+-- c32-v16: E–aproximaram–se a–ele e–disseram Currais–de ovelhas edificaremos para–nosso–rebanho aqui e–cidades para–nossas–crianças
+-- c32-v17: E–nós nos–armaremos apressados diante–de filhos–de Yisra'el até que se os–tivermos–levado a seu–lugar e–habitarão nossas–crianças em–cidades–de a–fortaleza de–diante–de habitantes–de a–terra
+-- c32-v18: Não voltaremos a nossas–casas até terem–herdado filhos–de Yisra'el homem sua–herança
+-- c32-v19: Porque não herdaremos com–eles do–outro–lado–de o–Yarden e–além porque veio nossa–herança a–nós do–outro–lado–de o–Yarden ao–oriente ¶
+-- c32-v20: E–disse a–eles Mosheh Se fizerdes (a) a–coisa a–esta se vos–armardes diante–de YHWH para–a–guerra
+-- c32-v21: E–atravessará de–vós todo armado (a) o–Yarden diante–de YHWH até expulsar–ele (a) seus–inimigos de–diante–dele
+-- c32-v22: E–for–subjugada a–terra diante–de YHWH e–depois voltareis e–sereis inocentes de–YHWH e–de–Yisra'el e–será a–terra a–esta para–vós por–posse diante–de YHWH
+-- c32-v23: E–se não fizerdes assim eis pecastes contra–YHWH e–sabei vosso–pecado que vos–encontrará (a)–vós
+-- c32-v24: Edificai para–vós cidades para–vossas–crianças e–currais para–vosso–rebanho e–o–que–sai de–vossa–boca fareis
+-- c32-v25: E–disseram filhos–de Gad e–filhos–de Re'uven a Mosheh dizendo Teus–servos farão conforme meu–senhor ordena
+-- c32-v26: Nossas–crianças nossas–mulheres nosso–rebanho e–todo nosso–gado estarão ali em–cidades–de o–Gil'ad
+-- c32-v27: E–teus–servos atravessarão todo armado–de exército diante–de YHWH para–a–guerra conforme meu–senhor fala
+-- c32-v28: E–ordenou a–eles Mosheh (a) 'El'azar o–sacerdote e–(a) Yehoshua' filho–de Nun e–(a) cabeças–de pais–de as–tribos para–filhos–de Yisra'el
+-- c32-v29: E–disse Mosheh a–eles Se atravessarem filhos–de Gad e–filhos–de Re'uven convosco (a) o–Yarden todo armado para–a–guerra diante–de YHWH e–for–subjugada a–terra diante–de–vós e–dareis a–eles (a) terra–de o–Gil'ad por–posse
+-- c32-v30: E–se não atravessarem armados convosco e–receberão–posse no–meio–de–vós em–terra–de Kena'an
+-- c32-v31: E–responderam filhos–de Gad e–filhos–de Re'uven dizendo (A) o–que falou YHWH a teus–servos assim faremos
+-- c32-v32: Nós atravessaremos armados diante–de YHWH terra–de Kena'an e–conosco posse–de nossa–herança do–outro–lado–de o–Yarden
+-- c32-v33: E–deu a–eles Mosheh a–filhos–de Gad e–a–filhos–de Re'uven e–à–metade–de tribo–de Menasheh filho–de Yosef (a) reino–de Sichon rei–de o–Emori e–(a) reino–de 'Og rei–de o–Bashan a–terra por–suas–cidades por–fronteiras cidades–de a–terra ao–redor
+-- c32-v34: E–edificaram filhos–de Gad (a) Divon e–(a) 'Atarot e–(a) 'Aro'er
+-- c32-v35: E–(a) 'Atrot–Shofan e–(a) Ya'zer e–Yogbehah
+-- c32-v36: E–(a) Beit–Nimrah e–(a) Beit–Haran cidades–de fortaleza e–currais–de ovelhas
+-- c32-v37: E–filhos–de Re'uven edificaram (a) Cheshbon e–(a) 'El'aleh e–(a) Qiryatayim
+-- c32-v38: E–(a) Nevo e–(a) Ba'al–Me'on mudadas–de nome e–(a) Sivmah e–chamaram com–nomes (a) nomes–de as–cidades que edificaram
+-- c32-v39: E–foram filhos–de Makhir filho–de Menasheh Gil'ad–para e–a–tomaram e–expulsaram (a) o–Emori que nela
+-- c32-v40: E–deu Mosheh (a) o–Gil'ad a–Makhir filho–de Menasheh e–habitou nela
+-- c32-v41: E–Ya'ir filho–de Menasheh foi e–tomou (a) suas–aldeias e–chamou (a)–elas Chavot–Ya'ir
+-- c32-v42: E–Novach foi e–tomou (a) Qenat e–(a) suas–filhas e–chamou a–ela Novach por–seu–nome ¶
+-- c33-v1: Estas jornadas–de filhos–de Yisra'el que saíram de–terra–de Mitsrayim por–seus–exércitos por–mão–de Mosheh e–'Aharon
+-- c33-v2: E–escreveu Mosheh (a) suas–saídas por–suas–jornadas sobre boca–de YHWH e–estas suas–jornadas por–suas–saídas
+-- c33-v3: E–partiram de–Ra'meses no–mês o–primeiro no–quinze dez dia para–o–mês o–primeiro no–dia–seguinte–de a–Páscoa saíram filhos–de Yisra'el com–mão alta aos–olhos–de todo Mitsrayim
+-- c33-v4: E–Mitsrayim enterrando (a) os–que feriu YHWH entre–eles todo primogênito e–em–seus–deuses fez YHWH juízos
+-- c33-v5: E–partiram filhos–de Yisra'el de–Ra'meses e–acamparam em–Sukkot
+-- c33-v6: E–partiram de–Sukkot e–acamparam em–'Etam que na–extremidade–de o–deserto
+-- c33-v7: E–partiram de–'Etam e–voltou sobre Pi–HaChirot que sobre face–de Ba'al–Tsefon e–acamparam diante–de Migdol
+-- c33-v8: E–partiram de–diante–de HaChirot e–atravessaram por–meio–de o–mar o–deserto–para e–foram caminho–de três–de dias em–deserto–de 'Etam e–acamparam em–Marah
+-- c33-v9: E–partiram de–Marah e–vieram 'Elim–a e–em–'Elim duas dez fontes–de água e–setenta palmeiras e–acamparam ali
+-- c33-v10: E–partiram de–'Elim e–acamparam sobre Mar–de Suf
+-- c33-v11: E–partiram de–Mar–de Suf e–acamparam em–Deserto–de Sin
+-- c33-v12: E–partiram de–Deserto–de Sin e–acamparam em–Dofqah
+-- c33-v13: E–partiram de–Dofqah e–acamparam em–'Alush
+-- c33-v14: E–partiram de–'Alush e–acamparam em–Refidim e–não havia ali água para–o–povo para–beber
+-- c33-v15: E–partiram de–Refidim e–acamparam em–Deserto–de Sinay
+-- c33-v16: E–partiram de–Deserto–de Sinay e–acamparam em–Qivrot–HaTa'avah
+-- c33-v17: E–partiram de–Qivrot–HaTa'avah e–acamparam em–Chatserot
+-- c33-v18: E–partiram de–Chatserot e–acamparam em–Ritmah
+-- c33-v19: E–partiram de–Ritmah e–acamparam em–Rimmon–Perets
+-- c33-v20: E–partiram de–Rimmon–Perets e–acamparam em–Livnah
+-- c33-v21: E–partiram de–Livnah e–acamparam em–Rissah
+-- c33-v22: E–partiram de–Rissah e–acamparam em–Qehelatah
+-- c33-v23: E–partiram de–Qehelatah e–acamparam em–Har Shafer
+-- c33-v24: E–partiram de–Har Shafer e–acamparam em–Charadah
+-- c33-v25: E–partiram de–Charadah e–acamparam em–Maqhelot
+-- c33-v26: E–partiram de–Maqhelot e–acamparam em–Tachat
+-- c33-v27: E–partiram de–Tachat e–acamparam em–Terach
+-- c33-v28: E–partiram de–Terach e–acamparam em–Mitqah
+-- c33-v29: E–partiram de–Mitqah e–acamparam em–Chashmonah
+-- c33-v30: E–partiram de–Chashmonah e–acamparam em–Moserot
+-- c33-v31: E–partiram de–Moserot e–acamparam em–Benei–Ya'aqan
+-- c33-v32: E–partiram de–Benei–Ya'aqan e–acamparam em–Chor–HaGidgad
+-- c33-v33: E–partiram de–Chor–HaGidgad e–acamparam em–Yotvatah
+-- c33-v34: E–partiram de–Yotvatah e–acamparam em–'Avronah
+-- c33-v35: E–partiram de–'Avronah e–acamparam em–'Etsyon–Gever
+-- c33-v36: E–partiram de–'Etsyon–Gever e–acamparam em–Deserto–de Tsin ela Qadesh
+-- c33-v37: E–partiram de–Qadesh e–acamparam em–Hor o–monte na–extremidade–de terra–de 'Edom
+-- c33-v38: E–subiu 'Aharon o–sacerdote a Hor o–monte sobre boca–de YHWH e–morreu ali no–ano–de o–quarenta de–sair filhos–de Yisra'el de–terra–de Mitsrayim no–mês o–quinto no–um para–o–mês
+-- c33-v39: E–'Aharon filho–de três e–vinte e–cem anos em–seu–morrer em–Hor o–monte §
+-- c33-v40: E–ouviu o–Kena'ani rei–de 'Arad e–ele habitante no–Negev em–terra–de Kena'an ao–vir filhos–de Yisra'el
+-- c33-v41: E–partiram de–Hor o–monte e–acamparam em–Tsalmonah
+-- c33-v42: E–partiram de–Tsalmonah e–acamparam em–Funon
+-- c33-v43: E–partiram de–Funon e–acamparam em–'Ovot
+-- c33-v44: E–partiram de–'Ovot e–acamparam em–'Iyei–Ha'Avarim em–fronteira–de Mo'av
+-- c33-v45: E–partiram de–'Iyim e–acamparam em–Divon Gad
+-- c33-v46: E–partiram de–Divon Gad e–acamparam em–'Almon–Divlatayemah
+-- c33-v47: E–partiram de–'Almon–Divlatayemah e–acamparam em–Montes–de Ha'Avarim diante–de Nevo
+-- c33-v48: E–partiram de–Montes–de Ha'Avarim e–acamparam em–planícies–de Mo'av sobre Yarden Yericho
+-- c33-v49: E–acamparam sobre o–Yarden de–Beit–HaYeshimot até 'Avel–HaShittim em–planícies–de Mo'av §
+-- c33-v50: E–falou YHWH a Mosheh em–planícies–de Mo'av sobre Yarden Yericho dizendo
+-- c33-v51: Fala a filhos–de Yisra'el e–dirás a–eles Quando vós atravessardes (a) o–Yarden a terra–de Kena'an
+-- c33-v52: E–expulsareis (a) todos habitantes–de a–terra de–diante–de–vós e–destruireis (a) todas suas–imagens e–(a) todas estátuas–de suas–fundidas destruireis e–(a) todos seus–altos destruireis
+-- c33-v53: E–desapossar–fareis (a) a–terra e–habitareis nela porque a–vós dei (a) a–terra para–possuir (a)–ela
+-- c33-v54: E–fareis–herdar (a) a–terra por–sorte por–vossas–famílias ao–grande multiplicareis (a) sua–herança e–ao–pequeno diminuireis (a) sua–herança para onde sair a–ele ali a–sorte a–ele será por–tribos–de vossos–pais herdareis
+-- c33-v55: E–se não expulsardes (a) habitantes–de a–terra de–diante–de–vós e–será que deixardes deles para–espinhos em–vossos–olhos e–para–aguilhões em–vossos–lados e–afligirão (a)–vós sobre a–terra que vós habitais nela
+-- c33-v56: E–será conforme pensei fazer a–eles farei a–vós ¶
+-- c34-v1: E–falou YHWH a Mosheh dizendo
+-- c34-v2: Ordena (a) filhos–de Yisra'el e–dirás a–eles Quando vós entrardes a a–terra Kena'an esta a–terra que cairá a–vós por–herança terra–de Kena'an por–suas–fronteiras
+-- c34-v3: E–será a–vós região–de Negev de–Deserto–de Tsin sobre mãos–de 'Edom e–será a–vós fronteira–de Negev de–extremidade–de Mar–de o–Sal ao–oriente
+-- c34-v4: E–virará a–vós a–fronteira do–Negev para–subida–de 'Aqrabbim e–passará Tsinah–a [e–será] e–serão suas–saídas do–Negev para–Qadesh–Barne'a e–sairá Chatsar–'Addar e–passará 'Atsmonah–a
+-- c34-v5: E–virará a–fronteira de–'Atsmon Riacho–de Mitsrayim e–serão suas–saídas o–mar–a
+-- c34-v6: E–fronteira–de mar e–será a–vós o–Mar o–Grande e–fronteira esta será a–vós fronteira–de mar
+-- c34-v7: E–esta será a–vós fronteira–de norte de o–Mar o–Grande marcareis a–vós Hor o–monte
+-- c34-v8: De–Hor o–monte marcareis para–vir Chamat e–serão saídas–de a–fronteira Tsedadah–a
+-- c34-v9: E–sairá a–fronteira Zifronah–a e–serão suas–saídas Chatsar–'Einan esta será a–vós fronteira–de norte
+-- c34-v10: E–marcareis a–vós para–fronteira–de oriente de–Chatsar–'Einan Shefamah–a
+-- c34-v11: E–descerá a–fronteira de–Shefam Rivlah–a ao–oriente–de 'Ayin e–descerá a–fronteira e–tocará sobre encosta–de Mar–de Kinneret ao–oriente
+-- c34-v12: E–descerá a–fronteira o–Yarden–a e–serão suas–saídas Mar–de o–Sal Esta será a–vós a–terra por–suas–fronteiras ao–redor
+-- c34-v13: E–ordenou Mosheh (a) filhos–de Yisra'el dizendo Esta a–terra que herdareis (a)–ela por–sorte que ordenou YHWH para–dar a–nove–de as–tribos e–metade–de a–tribo
+-- c34-v14: Porque tomaram tribo–de filhos–de o–Re'uveni por–casa–de seus–pais e–tribo–de filhos–de o–Gadi por–casa–de seus–pais e–metade–de tribo–de Menasheh tomaram sua–herança
+-- c34-v15: Duas–de as–tribos e–metade–de a–tribo tomaram sua–herança do–outro–lado–de para–Yarden Yericho ao–oriente ao–nascente ¶
+-- c34-v16: E–falou YHWH a Mosheh dizendo
+-- c34-v17: Estes nomes–de os–homens que farão–herdar a–vós (a) a–terra 'El'azar o–sacerdote e–Yehoshua' filho–de Nun
+-- c34-v18: E–príncipe um príncipe um da–tribo tomareis para–fazer–herdar (a) a–terra
+-- c34-v19: E–estes nomes–de os–homens para–tribo–de Yehudah Kalev filho–de Yefuneh
+-- c34-v20: E–para–tribo–de filhos–de Shim'on Shemu'el filho–de 'Ammihud
+-- c34-v21: Para–tribo–de Binyamin 'Elidad filho–de Kislon
+-- c34-v22: E–para–tribo–de filhos–de Dan príncipe Bukki filho–de Yogli
+-- c34-v23: Para–filhos–de Yosef para–tribo–de filhos–de Menasheh príncipe Channi'el filho–de 'Efod
+-- c34-v24: E–para–tribo–de filhos–de 'Efrayim príncipe Qemu'el filho–de Shiftan
+-- c34-v25: E–para–tribo–de filhos–de Zevulun príncipe 'Elitsafan filho–de Parnakh
+-- c34-v26: E–para–tribo–de filhos–de Yissakhar príncipe Palti'el filho–de 'Azzan
+-- c34-v27: E–para–tribo–de filhos–de 'Asher príncipe 'Achihud filho–de Shelomi
+-- c34-v28: E–para–tribo–de filhos–de Naftali príncipe Pedah'el filho–de 'Ammihud
+-- c34-v29: Estes que ordenou YHWH para–fazer–herdar (a) filhos–de Yisra'el em–terra–de Kena'an ¶
+-- c35-v1: E–falou YHWH a Mosheh em–planícies–de Mo'av sobre Yarden Yericho dizendo
+-- c35-v2: Ordena (a) filhos–de Yisra'el e–darão aos–Levitas de–herança–de sua–posse cidades para–habitar e–pastagens para–as–cidades ao–redor–delas dareis aos–Levitas
+-- c35-v3: E–serão as–cidades para–eles para–habitar e–suas–pastagens serão para–seu–gado e–para–sua–propriedade e–para–todos seus–animais
+-- c35-v4: E–pastagens–de as–cidades que dareis aos–Levitas de–muro–de a–cidade e–para–fora mil cúvados ao–redor
+-- c35-v5: E–medireis de–fora–de a–cidade (a) região–de oriente dois–mil pelo–cúvado e–(a) região–de Negev dois–mil pelo–cúvado e–(a) região–de mar dois–mil pelo–cúvado e–(a) região–de norte dois–mil pelo–cúvado e–a–cidade no–meio isto será para–eles pastagens–de as–cidades
+-- c35-v6: E–(a) as–cidades que dareis aos–Levitas (a) seis cidades–de o–refúgio que dareis para–fugir ali o–assassino e–sobre–elas dareis quarenta e–duas cidades
+-- c35-v7: Todas as–cidades que dareis aos–Levitas quarenta e–oito cidades (a)–elas e–(a) suas–pastagens
+-- c35-v8: E–as–cidades que dareis de–posse–de filhos–de Yisra'el de–com o–grande multiplicareis e–de–com o–pequeno diminuireis cada–um conforme sua–herança que herdarem dará de–suas–cidades aos–Levitas ¶
+-- c35-v9: E–falou YHWH a Mosheh dizendo
+-- c35-v10: Fala a filhos–de Yisra'el e–dirás a–eles Quando vós atravessardes (a) o–Yarden terra–a Kena'an
+-- c35-v11: E–designareis a–vós cidades cidades–de refúgio serão a–vós e–fugirá ali assassino que–fere alma por–erro
+-- c35-v12: E–serão a–vós as–cidades para–refúgio de–vingador e–não morrerá o–assassino até comparecer–ele diante–de a–congregação para–o–julgamento
+-- c35-v13: E–as–cidades que derdes seis cidades–de refúgio serão a–vós
+-- c35-v14: (A) três–de as–cidades dareis do–outro–lado–de o–Yarden e–(a) três–de as–cidades dareis em–terra–de Kena'an cidades–de refúgio serão
+-- c35-v15: Para–filhos–de Yisra'el e–para–o–estrangeiro e–para–o–residente no–meio–deles serão seis as–cidades as–estas para–refúgio para–fugir ali todo que–fere alma por–erro
+-- c35-v16: E–se com–utensílio–de ferro o–feriu e–morreu assassino ele morrer será–morto o–assassino
+-- c35-v17: E–se com–pedra–de mão que morre com–ela o–feriu e–morreu assassino ele morrer será–morto o–assassino
+-- c35-v18: Ou com–utensílio–de madeira mão que morre com–ele o–feriu e–morreu assassino ele morrer será–morto o–assassino
+-- c35-v19: Vingador–de o–sangue ele matará (a) o–assassino ao–encontrá–lo nele ele o–matará
+-- c35-v20: E–se com–ódio o–empurrou ou lançou sobre–ele com–cilada e–morreu
+-- c35-v21: Ou com–inimizade o–feriu com–sua–mão e–morreu morrer será–morto o–que–feriu assassino ele vingador–de o–sangue matará (a) o–assassino ao–encontrá–lo nele
+-- c35-v22: E–se de–repente sem inimizade o–empurrou ou lançou sobre–ele qualquer utensílio sem cilada
+-- c35-v23: Ou com–qualquer pedra que morre com–ela sem ver e–fez–cair sobre–ele e–morreu e–ele não inimigo dele e–não buscando seu–mal
+-- c35-v24: E–julgarão a–congregação entre o–que–feriu e–entre vingador–de o–sangue sobre os–julgamentos os–estes
+-- c35-v25: E–livrarão a–congregação (a) o–assassino da–mão–de vingador–de o–sangue e–devolverão (a)–ele a–congregação a cidade–de seu–refúgio que fugiu ali e–habitará nela até morrer o–sacerdote o–grande que ungiu (a)–ele com–óleo–de a–santidade
+-- c35-v26: E–se sair sair o–assassino (a) fronteira–de cidade–de seu–refúgio que fugir ali
+-- c35-v27: E–encontrar (a)–ele vingador–de o–sangue fora–de para–fronteira–de cidade–de seu–refúgio e–matar vingador–de o–sangue (a) o–assassino não–há a–ele sangue
+-- c35-v28: Porque em–cidade–de seu–refúgio habitará até morrer o–sacerdote o–grande e–após morrer o–sacerdote o–grande voltará o–assassino a terra–de sua–posse
+-- c35-v29: E–serão estes a–vós para–estatuto–de julgamento para–vossas–gerações em–todas vossas–habitações
+-- c35-v30: Todo que–fere alma por–boca–de testemunhas será–morto (a) o–assassino e–testemunha uma não responderá por–alma para–morrer
+-- c35-v31: E–não tomareis resgate por–alma–de assassino que ele culpado de–morrer porque morrer será–morto
+-- c35-v32: E–não tomareis resgate para–fugir a cidade–de seu–refúgio para–voltar para–habitar na–terra até morrer o–sacerdote
+-- c35-v33: E–não profanareis (a) a–terra que vós nela porque o–sangue ele profana (a) a–terra e–para–a–terra não haverá–expiação para–o–sangue que derramou nela senão se com–sangue–de o–que–derrama
+-- c35-v34: E–não contaminareis (a) a–terra que vós habitais nela que eu habito no–meio–dela porque eu YHWH habito no–meio–de filhos–de Yisra'el ¶
+-- c36-v1: E–aproximaram–se cabeças–de os–pais para–família–de filhos–de Gil'ad filho–de Makhir filho–de Menasheh de–famílias–de filhos–de Yosef e–falaram diante–de Mosheh e–diante–de os–príncipes cabeças–de pais para–filhos–de Yisra'el
+-- c36-v2: E–disseram (A) meu–senhor ordenou YHWH para–dar (a) a–terra por–herança por–sorte a–filhos–de Yisra'el e–meu–senhor foi–ordenado por–YHWH para–dar (a) herança–de Tselofchad nosso–irmão a–suas–filhas
+-- c36-v3: E–forem a–um de–filhos–de tribos–de filhos–de Yisra'el por–esposas e–será–diminuída sua–herança de–herança–de nossos–pais e–será–acrescentada sobre herança–de a–tribo que forem para–eles e–da–sorte–de nossa–herança será–diminuída
+-- c36-v4: E–se for o–Jubileu para–filhos–de Yisra'el e–será–acrescentada sua–herança sobre herança–de a–tribo que forem para–eles e–de–herança–de tribo–de nossos–pais será–diminuída sua–herança
+-- c36-v5: E–ordenou Mosheh (a) filhos–de Yisra'el sobre boca–de YHWH dizendo Certo tribo–de filhos–de Yosef falam
+-- c36-v6: Esta a–palavra que ordenou YHWH para–filhas–de Tselofchad dizendo Ao–bom em–seus–olhos sejam por–esposas porém para–família–de tribo–de seu–pai sejam por–esposas
+-- c36-v7: E–não transferirá herança para–filhos–de Yisra'el de–tribo a tribo porque homem em–herança–de tribo–de seus–pais aderirão filhos–de Yisra'el
+-- c36-v8: E–toda filha que–herda herança de–tribos–de filhos–de Yisra'el a–um de–família–de tribo–de seu–pai será por–esposa para–que herdem filhos–de Yisra'el homem herança–de seus–pais
+-- c36-v9: E–não transferirá herança de–tribo para–tribo outra porque homem em–sua–herança aderirão tribos–de filhos–de Yisra'el
+-- c36-v10: Conforme ordenou YHWH (a) Mosheh assim fizeram filhas–de Tselofchad
+-- c36-v11: E–foram Machlah Tirtsah e–Choglah e–Milkah e–No'ah filhas–de Tselofchad para–filhos–de seus–tios por–esposas
+-- c36-v12: De–famílias–de filhos–de Menasheh filho–de Yosef foram por–esposas e–foi sua–herança sobre tribo–de família–de seu–pai
+-- c36-v13: Estes os–mandamentos e–os–julgamentos que ordenou YHWH por–mão–de Mosheh a filhos–de Yisra'el em–planícies–de Mo'av sobre Yarden Yericho
 
 BEGIN;
 -- 0400100101: וַיְדַבֵּ֨ר (H1696) → "E–falou" [opus-4.5-chirho]

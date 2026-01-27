@@ -3,52 +3,52 @@
 -- — John 3:16
 
 -- 2TIMOTHY - POR Combined
--- Generated: 2026-01-27T21:46:30Z
+-- Generated: 2026-01-27T22:19:37Z
 
--- 2TIMOTHY c1-v1 - POR
--- 2TIMOTHY c1-v2 - POR
--- 2TIMOTHY c1-v3 - POR
--- 2TIMOTHY c1-v4 - POR
--- 2TIMOTHY c1-v5 - POR
--- 2TIMOTHY c1-v6 - POR
--- 2TIMOTHY c1-v7 - POR
--- 2TIMOTHY c1-v8 - POR
--- 2TIMOTHY c1-v9 - POR
--- 2TIMOTHY c1-v10 - POR
--- 2TIMOTHY c1-v11 - POR
--- 2TIMOTHY c1-v12 - POR
--- 2TIMOTHY c1-v13 - POR
--- 2TIMOTHY c1-v14 - POR
--- 2TIMOTHY c1-v15 - POR
--- 2TIMOTHY c1-v16 - POR
--- 2TIMOTHY c1-v17 - POR
--- 2TIMOTHY c1-v18 - POR
--- 2TIMOTHY c2-v1 - POR
--- 2TIMOTHY c2-v2 - POR
--- 2TIMOTHY c2-v3 - POR
--- 2TIMOTHY c2-v4 - POR
--- 2TIMOTHY c2-v5 - POR
--- 2TIMOTHY c2-v6 - POR
--- 2TIMOTHY c2-v7 - POR
--- 2TIMOTHY c2-v8 - POR
--- 2TIMOTHY c2-v9 - POR
--- 2TIMOTHY c2-v10 - POR
--- 2TIMOTHY c2-v11 - POR
--- 2TIMOTHY c2-v12 - POR
--- 2TIMOTHY c2-v13 - POR
--- 2TIMOTHY c2-v14 - POR
--- 2TIMOTHY c2-v15 - POR
--- 2TIMOTHY c2-v16 - POR
--- 2TIMOTHY c2-v17 - POR
--- 2TIMOTHY c2-v18 - POR
--- 2TIMOTHY c2-v19 - POR
--- 2TIMOTHY c2-v20 - POR
--- 2TIMOTHY c2-v21 - POR
--- 2TIMOTHY c2-v22 - POR
--- 2TIMOTHY c2-v23 - POR
--- 2TIMOTHY c2-v24 - POR
--- 2TIMOTHY c2-v25 - POR
--- 2TIMOTHY c2-v26 - POR
+-- c1-v1: Paulo apóstolo de–Cristo Jesus por vontade de–Deus segundo promessa de–vida a– em Cristo Jesus
+-- c1-v2: a–Timóteo amado filho graça misericórdia paz de Deus Pai e de–Cristo Jesus o– Senhor nosso
+-- c1-v3: Gratidão tenho a– Deus a–quem sirvo desde antepassados com pura consciência como incessante tenho a– de ti lembrança em as– súplicas minhas de–noite e de–dia
+-- c1-v4: desejando–intensamente te ver lembrando–me de–tuas as– lágrimas para–que de–alegria seja–cheio
+-- c1-v5: lembrança tomando da– em ti sincera fé a–qual habitou primeiro em a– avó tua Loide e a– mãe tua Eunice estou–persuadido porém que também em ti
+-- c1-v6: Por esta causa lembro te reavivar o– dom de– Deus o–qual está em ti pela a– imposição das– mãos minhas
+-- c1-v7: não pois deu a–nós o– Deus espírito de–covardia mas de–poder e de–amor e de–moderação
+-- c1-v8: Não pois te–envergonhes do– testemunho do– Senhor nosso nem de–mim o– prisioneiro dele mas sofre–comigo pelo– evangelho segundo poder de–Deus
+-- c1-v9: o– que–nos–salvou a–nós e chamou com–vocação santa não segundo as– obras nossas mas segundo próprio propósito e graça a– dada a–nós em Cristo Jesus antes dos–tempos eternos
+-- c1-v10: manifestada porém agora pela a– manifestação do– Salvador nosso Cristo Jesus tendo–destruído por–um–lado a– morte tendo–trazido–à–luz porém vida e incorruptibilidade por o– evangelho
+-- c1-v11: para o–qual fui–designado eu pregador e apóstolo e mestre
+-- c1-v12: por esta causa também estas–coisas sofro mas não me–envergonho sei pois em–quem tenho–crido e estou–persuadido de–que poderoso é o– depósito meu guardar para aquele o– dia
+-- c1-v13: modelo tem de–sãs palavras as–quais de mim ouviste em fé e amor o– em Cristo Jesus
+-- c1-v14: o– bom depósito guarda pelo Espírito Santo o– que–habita em nós
+-- c1-v15: Sabes isto que se–apartaram de–mim todos os– na– a– Ásia dos–quais são Fígelo e Hermógenes
+-- c1-v16: dê misericórdia o– Senhor à– de–Onesíforo casa porque muitas–vezes me reanimou e da– cadeia minha não se–envergonhou
+-- c1-v17: mas tendo–estado em Roma diligentemente me–procurou me e encontrou
+-- c1-v18: dê–lhe a–ele o– Senhor achar misericórdia da–parte–do Senhor naquele aquele o– dia e quantos–serviços em Éfeso prestou melhor tu sabes
+-- c2-v1: Tu pois filho meu fortalece–te na– a– graça a– em Cristo Jesus
+-- c2-v2: e o–que ouviste de mim mediante muitas testemunhas estas–coisas confia a–fiéis homens os–quais capazes serão também a–outros ensinar
+-- c2-v3: sofre–comigo como bom soldado de–Cristo Jesus
+-- c2-v4: nenhum que–serve–como–soldado se–envolve nos– da– vida negócios para–que ao– que–o–alistou agrade
+-- c2-v5: se porém também compete alguém não é–coroado se não legitimamente competir
+-- c2-v6: o– que–trabalha lavrador é–necessário primeiro dos– frutos participar
+-- c2-v7: considera o–que digo dará pois a–ti o– Senhor entendimento em tudo
+-- c2-v8: Lembra–te de–Jesus Cristo ressuscitado dentre mortos da– semente de–Davi segundo o– evangelho meu
+-- c2-v9: em o–qual sofro até prisões como malfeitor mas a– palavra de– Deus não está–presa
+-- c2-v10: por isto tudo suporto por–causa–dos– os– eleitos para–que também eles salvação alcancem a– em Cristo Jesus com glória eterna
+-- c2-v11: Fiel a– palavra se pois morremos–com também viveremos–com
+-- c2-v12: se perseveramos também reinaremos–com se negarmos também–ele negará a–nós
+-- c2-v13: se somos–infieéis ele fiel permanece negar pois a–si–mesmo não pode
+-- c2-v14: Estas–coisas lembra testificando–solenemente diante de– Deus não contender–sobre–palavras para nada útil para subversão dos– que–ouvem
+-- c2-v15: Procura a–ti–mesmo aprovado apresentar a– Deus obreiro que–não–tem–de–que–se–envergonhar que–maneja–bem a– palavra da– verdade
+-- c2-v16: as– porém profanas tagarelices–vazias evita para mais pois avançarão em–impiedade
+-- c2-v17: e a– palavra deles como gangrena pasto terá dos–quais é Himeneu e Fileto
+-- c2-v18: os–quais quanto–à a– verdade desviaram–se dizendo a– ressurreição já ter–acontecido e transtornam a– de–alguns fé
+-- c2-v19: o– contudo firme fundamento de– Deus permanece tendo este– selo este Conhece o–Senhor os– que–são seus e Aparte–se da– iniquidade todo o– que–nomeia o– nome do–Senhor
+-- c2-v20: em grande porém casa não há somente vasos de–ouro e de–prata mas também de–madeira e de–barro e uns por–um–lado para honra outros porém para desonra
+-- c2-v21: se pois alguém se–purificar a–si–mesmo de– estas–coisas será vaso para honra santificado útil ao– Senhor para toda obra boa preparado
+-- c2-v22: as– porém juvenis paixões foge segue porém justiça fé amor paz com os– que–invocam o– Senhor de puro coração
+-- c2-v23: as– porém loucas e ignorantes questões recusa sabendo que geram contendas
+-- c2-v24: servo porém do–Senhor não é–necessário contender mas manso ser para–com todos apto–para–ensinar paciente
+-- c2-v25: com mansidão corrigindo os– que–se–opõem talvez algum–dia dê a–eles o– Deus arrependimento para conhecimento da–verdade
+-- c2-v26: e voltem–à–sobriez de– do– do– diabo laço tendo–sido–presos por ele para a– daquele vontade
 
 BEGIN;
 -- 5500100101: Παῦλος, (G3972) → "Paulo" [opus-4.5-chirho]

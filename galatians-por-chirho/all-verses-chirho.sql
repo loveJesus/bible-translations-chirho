@@ -3,139 +3,139 @@
 -- — John 3:16
 
 -- GALATIANS - POR Combined
--- Generated: 2026-01-27T21:46:53Z
+-- Generated: 2026-01-27T22:20:18Z
 
--- GALATIANS c1-v1 - POR
--- GALATIANS c1-v2 - POR
--- GALATIANS c1-v3 - POR
--- GALATIANS c1-v4 - POR
--- GALATIANS c1-v5 - POR
--- GALATIANS c1-v6 - POR
--- GALATIANS c1-v7 - POR
--- GALATIANS c1-v8 - POR
--- GALATIANS c1-v9 - POR
--- GALATIANS c1-v10 - POR
--- GALATIANS c1-v11 - POR
--- GALATIANS c1-v12 - POR
--- GALATIANS c1-v13 - POR
--- GALATIANS c1-v14 - POR
--- GALATIANS c1-v15 - POR
--- GALATIANS c1-v16 - POR
--- GALATIANS c1-v17 - POR
--- GALATIANS c1-v18 - POR
--- GALATIANS c1-v19 - POR
--- GALATIANS c1-v20 - POR
--- GALATIANS c1-v21 - POR
--- GALATIANS c1-v22 - POR
--- GALATIANS c1-v23 - POR
--- GALATIANS c1-v24 - POR
--- GALATIANS c2-v1 - POR
--- GALATIANS c2-v2 - POR
--- GALATIANS c2-v3 - POR
--- GALATIANS c2-v4 - POR
--- GALATIANS c2-v5 - POR
--- GALATIANS c2-v6 - POR
--- GALATIANS c2-v7 - POR
--- GALATIANS c2-v8 - POR
--- GALATIANS c2-v9 - POR
--- GALATIANS c2-v10 - POR
--- GALATIANS c2-v11 - POR
--- GALATIANS c2-v12 - POR
--- GALATIANS c2-v13 - POR
--- GALATIANS c2-v14 - POR
--- GALATIANS c2-v15 - POR
--- GALATIANS c2-v16 - POR
--- GALATIANS c2-v17 - POR
--- GALATIANS c2-v18 - POR
--- GALATIANS c2-v19 - POR
--- GALATIANS c2-v20 - POR
--- GALATIANS c2-v21 - POR
--- GALATIANS c3-v1 - POR
--- GALATIANS c3-v2 - POR
--- GALATIANS c3-v3 - POR
--- GALATIANS c3-v4 - POR
--- GALATIANS c3-v5 - POR
--- GALATIANS c3-v6 - POR
--- GALATIANS c3-v7 - POR
--- GALATIANS c3-v8 - POR
--- GALATIANS c3-v9 - POR
--- GALATIANS c3-v10 - POR
--- GALATIANS c3-v11 - POR
--- GALATIANS c3-v12 - POR
--- GALATIANS c3-v13 - POR
--- GALATIANS c3-v14 - POR
--- GALATIANS c3-v15 - POR
--- GALATIANS c3-v16 - POR
--- GALATIANS c3-v17 - POR
--- GALATIANS c3-v18 - POR
--- GALATIANS c3-v19 - POR
--- GALATIANS c3-v20 - POR
--- GALATIANS c3-v21 - POR
--- GALATIANS c3-v22 - POR
--- GALATIANS c3-v23 - POR
--- GALATIANS c3-v24 - POR
--- GALATIANS c3-v25 - POR
--- GALATIANS c3-v26 - POR
--- GALATIANS c3-v27 - POR
--- GALATIANS c3-v28 - POR
--- GALATIANS c3-v29 - POR
--- GALATIANS c4-v1 - POR
--- GALATIANS c4-v2 - POR
--- GALATIANS c4-v3 - POR
--- GALATIANS c4-v4 - POR
--- GALATIANS c4-v5 - POR
--- GALATIANS c4-v6 - POR
--- GALATIANS c4-v7 - POR
--- GALATIANS c4-v8 - POR
--- GALATIANS c4-v9 - POR
--- GALATIANS c4-v10 - POR
--- GALATIANS c4-v11 - POR
--- GALATIANS c4-v12 - POR
--- GALATIANS c4-v13 - POR
--- GALATIANS c4-v14 - POR
--- GALATIANS c4-v15 - POR
--- GALATIANS c4-v16 - POR
--- GALATIANS c4-v17 - POR
--- GALATIANS c4-v18 - POR
--- GALATIANS c4-v19 - POR
--- GALATIANS c4-v20 - POR
--- GALATIANS c4-v21 - POR
--- GALATIANS c4-v22 - POR
--- GALATIANS c4-v23 - POR
--- GALATIANS c4-v24 - POR
--- GALATIANS c4-v25 - POR
--- GALATIANS c4-v26 - POR
--- GALATIANS c4-v27 - POR
--- GALATIANS c4-v28 - POR
--- GALATIANS c4-v29 - POR
--- GALATIANS c4-v30 - POR
--- GALATIANS c4-v31 - POR
--- GALATIANS c5-v1 - POR
--- GALATIANS c5-v2 - POR
--- GALATIANS c5-v3 - POR
--- GALATIANS c5-v4 - POR
--- GALATIANS c5-v5 - POR
--- GALATIANS c5-v6 - POR
--- GALATIANS c5-v7 - POR
--- GALATIANS c5-v8 - POR
--- GALATIANS c5-v9 - POR
--- GALATIANS c5-v10 - POR
--- GALATIANS c5-v11 - POR
--- GALATIANS c5-v12 - POR
--- GALATIANS c5-v13 - POR
--- GALATIANS c5-v14 - POR
--- GALATIANS c5-v15 - POR
--- GALATIANS c5-v16 - POR
--- GALATIANS c5-v17 - POR
--- GALATIANS c5-v18 - POR
--- GALATIANS c5-v19 - POR
--- GALATIANS c5-v20 - POR
--- GALATIANS c5-v21 - POR
--- GALATIANS c5-v22 - POR
--- GALATIANS c5-v23 - POR
--- GALATIANS c5-v24 - POR
--- GALATIANS c5-v25 - POR
--- GALATIANS c5-v26 - POR
+-- c1-v1: Paulo apóstolo não de– homens nem por– homem mas por– Jesus Cristo e Deus Pai o– que-ressuscitou ele de– mortos
+-- c1-v2: e os– comigo  todos irmãos às– igrejas da– Galácia
+-- c1-v3: graça a-vós e paz de– Deus Pai nosso e Senhor Jesus Cristo
+-- c1-v4: o– que-deu a-si-mesmo por– os– pecados nossos para-que nos-livrasse nos do– o– século o– presente mau segundo a– vontade do– Deus e Pai nosso
+-- c1-v5: a-quem a– glória pelos– os– séculos dos– séculos amém
+-- c1-v6: Admiro-me que assim rapidamente vos-afastais daquele–  que-vos-chamou vos na– graça de-Cristo para– outro evangelho
+-- c1-v7: que não é outro senão  alguns são os– que-vos-perturbam vos e querendo perverter o– evangelho do– Cristo
+-- c1-v8: mas ainda-que se nós ou anjo do– céu vos-anunciasse a-vós além-do– que vos-anunciamos a-vós anátema seja
+-- c1-v9: como predissemos e agora novamente digo se alguém vos vos-anunciar além-do– que recebestes anátema seja
+-- c1-v10: Agora pois homens persuado ou a– Deus ou busco a-homens agradar se ainda a-homens agradasse de-Cristo servo não  seria
+-- c1-v11: faço-vos-saber pois a-vós irmãos o– evangelho o– anunciado por– mim que não é segundo homem
+-- c1-v12: nem pois eu de– homem o-recebi ele nem fui-ensinado mas por– revelação de-Jesus Cristo
+-- c1-v13: Ouvistes pois a– minha conduta outrora no–  Judaísmo que em– excesso perseguia a– igreja do– Deus e a-devastava ela
+-- c1-v14: e progredia no–  Judaísmo acima-de– muitos contemporâneos na–  nação minha mais-abundantemente zeloso sendo das– paternas minhas tradições
+-- c1-v15: Quando porém agradou  Deus o– que-me-separou me de– ventre de-mãe minha e me-chamou por– a– graça dele
+-- c1-v16: revelar o– Filho dele em– mim para-que o-anunciasse ele entre– as– nações imediatamente não consultei carne e sangue
+-- c1-v17: nem subi a– Jerusalém aos– os– antes-de– mim apóstolos mas parti para– Arábia e novamente voltei a– Damasco
+-- c1-v18: Depois após– três anos subi a– Jerusalém visitar Cefas e permaneci com– ele dias quinze
+-- c1-v19: outro porém dos– apóstolos não vi senão  Tiago o– irmão do– Senhor
+-- c1-v20: as-coisas-que porém vos-escrevo a-vós eis diante do– Deus que não minto
+-- c1-v21: depois fui para– as– regiões da– Síria e da– Cilícia
+-- c1-v22: era porém desconhecido de– face às– igrejas da– Judeia às– em– Cristo
+-- c1-v23: somente porém ouvindo estavam que O– que-nos-perseguia nos outrora agora anuncia a– fé que outrora devastava
+-- c1-v24: e glorificavam em– mim a– Deus
+-- c2-v1: Depois após– catorze anos novamente subi a– Jerusalém com– Barnabé levando-também também Tito
+-- c2-v2: subi porém segundo revelação e expus a-eles o– evangelho que prego entre– os– gentios em– particular porém aos– que-pareciam-ser não de-algum-modo em– vão corro ou corri
+-- c2-v3: mas nem Tito o– comigo  grego sendo foi-compelido a-ser-circuncidado
+-- c2-v4: por-causa– porém dos– introduzidos falsos-irmãos os-quais entraram-secretamente espiar a– liberdade nossa que temos em– Cristo Jesus para-que nos escravizassem
+-- c2-v5: aos-quais nem por– uma-hora cedemos à– sujeição para-que a– verdade do– evangelho permanecesse com– vós
+-- c2-v6: dos– porém os– que-pareciam ser algo quais-quer-que outrora eram nada a-mim faz-diferença aparência  Deus de-homem não aceita a-mim pois os– que-pareciam-ser nada acrescentaram
+-- c2-v7: mas pelo-contrário vendo que me-foi-confiado o– evangelho da– incircuncisão assim-como Pedro da– circuncisão
+-- c2-v8: o– pois que-operou em-Pedro para– apostolado da– circuncisão operou também em-mim para– os– gentios
+-- c2-v9: e conhecendo a– graça a– dada a-mim Tiago e Cefas e João os– que-pareciam-ser colunas ser destras deram a-mim e a-Barnabé de-comunhão para-que nós aos– os– gentios eles-mesmos porém à– a– circuncisão
+-- c2-v10: somente dos– pobres que nos-lembremos o-qual também me-esforcei isto-mesmo isto fazer
+-- c2-v11: Quando porém veio Cefas a– Antioquia em– face a-ele resisti porque condenado estava
+-- c2-v12: antes do– pois vir alguns de– Tiago com– os– gentios comia quando porém vieram retirava-se e separava a-si-mesmo temendo os– da– circuncisão
+-- c2-v13: e dissimularam com-ele também os– demais judeus de-modo-que até Barnabé foi-levado deles à– hipocrisia
+-- c2-v14: mas quando vi que não andavam-retamente segundo– a– verdade do– evangelho disse a– Cefas diante de-todos Se tu judeu sendo gentilmente e não judaicamente vives como os– gentios obrigas a-judaizar
+-- c2-v15: Nós por-natureza judeus e não de– gentios pecadores
+-- c2-v16: sabendo porém que não é-justificado homem por– obras de-lei senão  por– fé em-Cristo Jesus também nós em– Cristo Jesus cremos para-que fôssemos-justificados por– fé de-Cristo e não por– obras de-lei porque por– obras de-lei não será-justificada toda carne
+-- c2-v17: se porém buscando ser-justificados em– Cristo fomos-achados também nós-mesmos pecadores acaso Cristo é-do-pecado ministro De-modo-algum seja
+-- c2-v18: se pois as-coisas-que destruí estas novamente edifico transgressor a-mim-mesmo demonstro
+-- c2-v19: eu pois por– lei à-lei morri para-que a-Deus viva
+-- c2-v20: Com-Cristo fui-crucificado vivo porém já-não eu vive porém em– mim Cristo o-que porém agora vivo na– carne na– fé vivo a– do– Filho do– Deus o– que-me-amou me e que-entregou a-si-mesmo por– mim
+-- c2-v21: Não anulo a– graça do– Deus se pois por– lei é-justiça então Cristo em-vão morreu
+-- c3-v1: Ó insensatos Gálatas quem vos enfeiticou à– verdade não obedecer aos-quais diante– dos-olhos Jesus Cristo foi-retratado crucificado
+-- c3-v2: isto somente quero saber de– vós por– obras de-lei o– Espírito recebestes ou por– ouvir com-fé
+-- c3-v3: tão insensatos sois tendo-começado pelo-Espírito agora pela-carne acabais
+-- c3-v4: tantas-coisas sofrestes em-vão se de-fato também em-vão
+-- c3-v5: o– portanto que-vos-supre a-vós o– Espírito e que-opera milagres entre– vós por– obras de-lei ou por– ouvir com-fé
+-- c3-v6: assim-como Abraão creu em– Deus e lhe-foi-imputado a-ele para– justiça
+-- c3-v7: Sabei pois que os– da– fé estes filhos são de-Abraão
+-- c3-v8: tendo-previsto porém a– Escritura que por– fé justifica os– gentios  Deus anunciou-de-antemão a– Abraão que Serão-abençoadas em– ti todas as– nações
+-- c3-v9: de-modo-que os– da– fé são-abençoados com– o– fiel Abraão
+-- c3-v10: Quantos pois das– obras de-lei são sob– maldição estão está-escrito pois que Maldito todo aquele-que não permanece em-todas as– coisas-escritas no–  livro da– lei para– as-fazer elas
+-- c3-v11: que porém pela– lei ninguém é-justificado diante– de– Deus é-evidente porque O– justo por– fé viverá
+-- c3-v12: a– porém lei não é da– fé mas O– que-fizer elas viverá por– elas
+-- c3-v13: Cristo nos resgatou da– a– maldição da– lei tendo-se-tornado por– nós maldição porque está-escrito Maldito todo o– que-pende sobre– madeiro
+-- c3-v14: para-que aos– os– gentios a– bênção de– Abraão viesse em– Jesus Cristo para-que a– promessa do– Espírito recebêssemos por– a– fé
+-- c3-v15: Irmãos segundo– homem falo ainda-assim de-homem confirmado pacto ninguém anula ou lhe-acrescenta
+-- c3-v16: a– porém Abraão foram-ditas as– promessas e à– semente dele não diz E às– sementes como sobre– muitos mas como sobre– um E à– semente tua que é Cristo
+-- c3-v17: isto porém digo pacto confirmado-anteriormente por– o– Deus a– após– quatrocentos e trinta anos tendo-vindo lei não invalida de-modo-a–  anular a– promessa
+-- c3-v18: se pois da– lei a– herança já-não da– promessa a– porém Abraão por– promessa concedeu  Deus
+-- c3-v19: Que pois é-a– lei das– transgressões por-causa foi-acrescentada até-que  viesse a– semente a-quem foi-feita-a-promessa ordenada por– anjos na– mão de-um-mediador
+-- c3-v20: o– porém mediador de-um não é  porém Deus um é
+-- c3-v21: a– portanto lei contra– as– promessas do– Deus De-modo-algum seja se pois fosse-dada lei a– capaz de-vivificar verdadeiramente da– lei  seria a– justiça
+-- c3-v22: mas encerrou a– Escritura as– todas-coisas sob– pecado para-que a– promessa por– fé em-Jesus Cristo fosse-dada aos– que-creem
+-- c3-v23: Antes do– porém vir a– fé sob– lei éramos-guardados encerrados para– a– a-vir fé ser-revelada
+-- c3-v24: de-modo-que a– lei aio nosso tornou-se para– Cristo para-que por– fé fôssemos-justificados
+-- c3-v25: tendo-vindo porém a– fé já-não sob– aio estamos
+-- c3-v26: Todos pois filhos de-Deus sois por– a– fé em– Cristo Jesus
+-- c3-v27: quantos pois em– Cristo fostes-batizados de-Cristo vos-revestistes
+-- c3-v28: não há judeu nem grego não há escravo nem livre não há macho e fêmea todos pois vós um sois em– Cristo Jesus
+-- c3-v29: se porém vós de-Cristo então de– Abraão semente sois segundo– promessa herdeiros
+-- c4-v1: Digo porém por– quanto tempo o– herdeiro menino é em-nada difere de-escravo senhor de-tudo sendo
+-- c4-v2: mas sob– tutores está e administradores até– o– tempo-determinado do– pai
+-- c4-v3: assim também nós quando éramos meninos sob– os– elementos do– mundo estávamos escravizados
+-- c4-v4: quando porém veio a– plenitude do– tempo enviou  Deus o– Filho dele nascido de– mulher nascido sob– lei
+-- c4-v5: para-que os– sob– lei resgatasse para-que a– adoção-de-filhos recebêssemos
+-- c4-v6: Porque porém sois filhos enviou  Deus o– Espírito do– Filho dele nos– os– corações nossos clamando Aba  Pai
+-- c4-v7: de-modo-que já-não és escravo mas filho se porém filho também herdeiro por– Deus
+-- c4-v8: Mas outrora de-fato não conhecendo a-Deus servíeis aos– por-natureza não sendo deuses
+-- c4-v9: agora porém tendo-conhecido a-Deus antes porém tendo-sido-conhecidos por– Deus como tornais novamente aos– os– fracos e pobres elementos aos-quais novamente de-novo servir quereis
+-- c4-v10: dias observais e meses e estações e anos
+-- c4-v11: temo por-vós que talvez em-vão tenha-trabalhado em– vós
+-- c4-v12: Tornai-vos como eu porque eu-também como vós irmãos rogo a-vós em-nada me prejudicastes
+-- c4-v13: sabeis porém que por– enfermidade da– carne vos-anunciei a-vós  primeiro
+-- c4-v14: e a– tentação vossa na– a– carne minha não desprezastes nem rejeitastes mas como anjo de-Deus me-recebestes me como Cristo Jesus
+-- c4-v15: onde pois está-a– bem-aventurança vossa testemunho pois a-vós que se possível os– olhos vossos tendo-arrancado teríeis-dado a-mim
+-- c4-v16: de-modo-que inimigo vosso tornei-me dizendo-a-verdade a-vós
+-- c4-v17: têm-zêlo por-vós não bem mas excluir vos querem para-que a-eles tenhais-zêlo
+-- c4-v18: bom porém ser-zelado no– bem sempre e não somente no– o– estar-presente eu convosco 
+-- c4-v19: filhinhos meus os-quais novamente estou-em-dores-de-parto até-que  seja-formado Cristo em– vós
+-- c4-v20: queria porém estar-presente convosco  agora e mudar a– voz minha porque estou-perplexo quanto-a– vós
+-- c4-v21: Dizei-me  os– sob– lei querendo estar a– lei não ouvis
+-- c4-v22: está-escrito pois que Abraão dois filhos teve um da– a– escrava e um da– a– livre
+-- c4-v23: mas o– de-fato da– a– escrava segundo– carne nasceu o– porém da– a– livre por– a– promessa
+-- c4-v24: estas-coisas são alegoricamente estas pois são duas alianças uma de-fato do– monte Sinai para– escravidão gerando a-qual é Agar
+-- c4-v25:  porém Agar Sinai monte é na–  Arábia corresponde porém à– atual Jerusalém está-em-escravidão pois com– os– filhos dela
+-- c4-v26: a– porém de-cima Jerusalém livre é a-qual é mãe nossa
+-- c4-v27: está-escrito pois Alegra-te estéril a– que-não dá-à-luz exclama e grita a– que-não está-em-trabalho-de-parto porque muitos os– filhos da– deserta mais do-que da– que-tem o– marido
+-- c4-v28: Vós porém irmãos segundo– Isaque da-promessa filhos sois
+-- c4-v29: mas assim-como outrora o– segundo– carne nascido perseguia o– segundo– Espírito assim também agora
+-- c4-v30: mas que diz a– Escritura Lança-fora a– escrava e o– filho dela de-modo-algum pois  herdará o– filho da– escrava com– o– filho da– livre
+-- c4-v31: portanto irmãos não somos da-escrava filhos mas da– livre
+-- c5-v1: Para-a– liberdade nos Cristo libertou permanecei-firmes portanto e não novamente em-jugo de-escravidão vos-sujeiteis
+-- c5-v2: Eis eu Paulo digo a-vós que se vos-circuncidardes Cristo a-vós em-nada aproveitará
+-- c5-v3: testifico porém novamente a-todo homem que-se-circuncida que devedor é toda a– lei cumprir
+-- c5-v4: fostes-separados de– Cristo os-que pela– lei vos-justificais da– graça caístes
+-- c5-v5: nós pois pelo-Espírito por– fé esperança de-justiça aguardamos
+-- c5-v6: em– pois Cristo Jesus nem circuncisão algo vale nem incircuncisão mas fé por– amor operando
+-- c5-v7: Corríeis bem quem vos impediu à– verdade não obedecer
+-- c5-v8: a– persuasão não vem-de– o– que-vos-chama vos
+-- c5-v9: um-pouco de-fermento toda a– massa leveda
+-- c5-v10: eu confio em– vós no– Senhor que em-nada outro pensareis o– porém que-vos-perturba vos levará o– juízo quem-quer-que  seja
+-- c5-v11: Eu porém irmãos se circuncisão ainda prego por-que ainda sou-perseguido então foi-abolido o– escândalo da– cruz
+-- c5-v12: Oxalá também se-mutilassem os– que-vos-perturbam vos
+-- c5-v13: Vós pois para– liberdade fostes-chamados irmãos somente não a– liberdade para– ocasião à– carne mas por– o– amor servi uns-aos-outros
+-- c5-v14:  pois toda lei numa– só palavra se-cumpre nesta–  Amarás o– próximo teu como a-ti-mesmo
+-- c5-v15: se porém uns-aos-outros mordeis e devorais vede que-não por– uns-aos-outros sejais-consumidos
+-- c5-v16: Digo porém pelo-Espírito andai e desejo da-carne de-modo-algum  cumprireis
+-- c5-v17: a– pois carne cobia contra– o– Espírito o– porém Espírito contra– a– carne estes pois uns-aos-outros se-opõem para-que não as-coisas-que  queirais estas façais
+-- c5-v18: se porém pelo-Espírito sois-guiados não estais sob– lei
+-- c5-v19: manifestas porém são as– obras da– carne as-quais são fornicação impureza lascividez
+-- c5-v20: idolatria feitiçaria inimizades contenda ciúme iras intrigas divisões heresias
+-- c5-v21: invejas bebedices orgias e as– coisas-semelhantes a-estas as-quais predigo a-vós como predisse que os–  tais-coisas praticando reino de-Deus não herdarão
+-- c5-v22: o– porém fruto do– Espírito é amor alegria paz longanimidade benignidade bondade fé
+-- c5-v23: mansidão temperança contra– as– tais-coisas não há lei
+-- c5-v24: os– porém de– Cristo Jesus a– carne crucificaram com– as– paixões e as– cobiças
+-- c5-v25: Se vivemos pelo-Espírito pelo-Espírito também andemos
+-- c5-v26: não nos-tornemos vão-gloriosos uns-aos-outros provocando uns-aos-outros invejando
 
 BEGIN;
 -- 4800100101: Παῦλος, (G3972) → "Paulo" [opus-4.5-chirho]

@@ -3,113 +3,113 @@
 -- — John 3:16
 
 -- 1JOHN - POR Combined
--- Generated: 2026-01-27T21:46:11Z
+-- Generated: 2026-01-27T22:19:04Z
 
--- 1JOHN c1-v1 - POR
--- 1JOHN c1-v2 - POR
--- 1JOHN c1-v3 - POR
--- 1JOHN c1-v4 - POR
--- 1JOHN c1-v5 - POR
--- 1JOHN c1-v6 - POR
--- 1JOHN c1-v7 - POR
--- 1JOHN c1-v8 - POR
--- 1JOHN c1-v9 - POR
--- 1JOHN c1-v10 - POR
--- 1JOHN c2-v1 - POR
--- 1JOHN c2-v2 - POR
--- 1JOHN c2-v3 - POR
--- 1JOHN c2-v4 - POR
--- 1JOHN c2-v5 - POR
--- 1JOHN c2-v6 - POR
--- 1JOHN c2-v7 - POR
--- 1JOHN c2-v8 - POR
--- 1JOHN c2-v9 - POR
--- 1JOHN c2-v10 - POR
--- 1JOHN c2-v11 - POR
--- 1JOHN c2-v12 - POR
--- 1JOHN c2-v13 - POR
--- 1JOHN c2-v14 - POR
--- 1JOHN c2-v15 - POR
--- 1JOHN c2-v16 - POR
--- 1JOHN c2-v17 - POR
--- 1JOHN c2-v18 - POR
--- 1JOHN c2-v19 - POR
--- 1JOHN c2-v20 - POR
--- 1JOHN c2-v21 - POR
--- 1JOHN c2-v22 - POR
--- 1JOHN c2-v23 - POR
--- 1JOHN c2-v24 - POR
--- 1JOHN c2-v25 - POR
--- 1JOHN c2-v26 - POR
--- 1JOHN c2-v27 - POR
--- 1JOHN c2-v28 - POR
--- 1JOHN c2-v29 - POR
--- 1JOHN c3-v1 - POR
--- 1JOHN c3-v2 - POR
--- 1JOHN c3-v3 - POR
--- 1JOHN c3-v4 - POR
--- 1JOHN c3-v5 - POR
--- 1JOHN c3-v6 - POR
--- 1JOHN c3-v7 - POR
--- 1JOHN c3-v8 - POR
--- 1JOHN c3-v9 - POR
--- 1JOHN c3-v10 - POR
--- 1JOHN c3-v11 - POR
--- 1JOHN c3-v12 - POR
--- 1JOHN c3-v13 - POR
--- 1JOHN c3-v14 - POR
--- 1JOHN c3-v15 - POR
--- 1JOHN c3-v16 - POR
--- 1JOHN c3-v17 - POR
--- 1JOHN c3-v18 - POR
--- 1JOHN c3-v19 - POR
--- 1JOHN c3-v20 - POR
--- 1JOHN c3-v21 - POR
--- 1JOHN c3-v22 - POR
--- 1JOHN c3-v23 - POR
--- 1JOHN c3-v24 - POR
--- 1JOHN c4-v1 - POR
--- 1JOHN c4-v2 - POR
--- 1JOHN c4-v3 - POR
--- 1JOHN c4-v4 - POR
--- 1JOHN c4-v5 - POR
--- 1JOHN c4-v6 - POR
--- 1JOHN c4-v7 - POR
--- 1JOHN c4-v8 - POR
--- 1JOHN c4-v9 - POR
--- 1JOHN c4-v10 - POR
--- 1JOHN c4-v11 - POR
--- 1JOHN c4-v12 - POR
--- 1JOHN c4-v13 - POR
--- 1JOHN c4-v14 - POR
--- 1JOHN c4-v15 - POR
--- 1JOHN c4-v16 - POR
--- 1JOHN c4-v17 - POR
--- 1JOHN c4-v18 - POR
--- 1JOHN c4-v19 - POR
--- 1JOHN c4-v20 - POR
--- 1JOHN c4-v21 - POR
--- 1JOHN c5-v1 - POR
--- 1JOHN c5-v2 - POR
--- 1JOHN c5-v3 - POR
--- 1JOHN c5-v4 - POR
--- 1JOHN c5-v5 - POR
--- 1JOHN c5-v6 - POR
--- 1JOHN c5-v7 - POR
--- 1JOHN c5-v8 - POR
--- 1JOHN c5-v9 - POR
--- 1JOHN c5-v10 - POR
--- 1JOHN c5-v11 - POR
--- 1JOHN c5-v12 - POR
--- 1JOHN c5-v13 - POR
--- 1JOHN c5-v14 - POR
--- 1JOHN c5-v15 - POR
--- 1JOHN c5-v16 - POR
--- 1JOHN c5-v17 - POR
--- 1JOHN c5-v18 - POR
--- 1JOHN c5-v19 - POR
--- 1JOHN c5-v20 - POR
--- 1JOHN c5-v21 - POR
+-- c1-v1: O–que era desde o–princípio o–que ouvimos o–que vimos com–os olhos nossos o–que contemplamos e as mãos nossas apalparam acerca da Palavra da vida
+-- c1-v2: e a vida foi–manifestada e vimos e testemunhamos e anunciamos a–vós a vida a eterna a–qual estava junto–ao o Pai e foi–manifestada a–nós
+-- c1-v3: o–que vimos e ouvimos anunciamos também a–vós para–que também vós comunhão tenhais conosco nós e a comunhão porém a nossa é–com o Pai e com o Filho dele Jesus Cristo
+-- c1-v4: E estas–coisas escrevemos nós para–que a alegria nossa esteja completa
+-- c1-v5: E é esta a mensagem que ouvimos da–parte dele e anunciamos a–vós que o Deus luz é e trevas nele não não há nenhuma
+-- c1-v6: Se dissermos que comunhão temos com ele e nas as trevas andarmos mentimos e não praticamos a verdade
+-- c1-v7: se porém na a luz andarmos como ele está na a luz comunhão temos uns–com–os outros e o sangue de–Jesus o Filho dele nos–purifica nos de todo pecado
+-- c1-v8: Se dissermos que pecado não temos a–nós–mesmos enganamos e a verdade não está em nós
+-- c1-v9: Se confessarmos os pecados nossos fiel é e justo para nos–perdoar nos os pecados e nos–purificar nos de toda injustiça
+-- c1-v10: Se dissermos que não temos–pecado mentiroso o–fazemos a–ele e a palavra dele não está em nós
+-- c2-v1: Filhinhos meus, estas–coisas escrevo a–vós, para–que não pequeis; e se alguém pecar, Advogado temos, junto ao Pai, Jesus Cristo justo;
+-- c2-v2: e ele propiciação é pelos os pecados nossos; não pelos os nossos porém somente, mas também pelos todo o mundo.
+-- c2-v3: E em isto conhecemos que o–conhecemos, ele, se os mandamentos dele guardarmos.
+-- c2-v4: O que–diz, que O–conheço, ele, e os mandamentos dele não guarda, mentiroso é, e neste — a verdade não está;
+-- c2-v5: quem porém — guarda dele a palavra, verdadeiramente neste — o amor de Deus tem–se–aperfeiçoado. Nisto — conhecemos que nele — estamos:
+-- c2-v6: o que–diz nele — permanecer, deve, assim–como aquele andou, também ele–mesmo assim andar.
+-- c2-v7: Amados, não mandamento novo escrevo a–vós, mas mandamento antigo, que tínheis desde princípio. O mandamento o antigo é a palavra que ouvistes.
+-- c2-v8: Novamente mandamento novo escrevo a–vós, o–qual é verdadeiro nele — e em vós, porque as trevas passam, e a luz a verdadeira já brilha.
+-- c2-v9: O que–diz na — luz estar, e o irmão dele odeia, nas — trevas está até agora.
+-- c2-v10: O que–ama o irmão dele, na — luz permanece, e escândalo nele — não há.
+-- c2-v11: O porém que–odeia o irmão dele, nas — trevas está, e nas — trevas anda; e não sabe para–onde vai, porque as trevas cegaram os olhos dele.
+-- c2-v12: Escrevo a–vós, filhinhos, porque são–perdoados a–vós os pecados, por–causa do nome dele.
+-- c2-v13: escrevo a–vós, pais, porque conhecestes o desde princípio. escrevo a–vós, jovens, porque vencestes o maligno. Escrevi a–vós, crianças, porque conhecestes o Pai.
+-- c2-v14: Escrevi a–vós, pais, porque conhecestes o desde princípio. Escrevi a–vós, jovens, porque fortes sois, e a palavra de Deus em vós permanece, e vencestes o maligno.
+-- c2-v15: Não ameis o mundo, nem as–coisas no — mundo. Se alguém ama o mundo, não está o amor do Pai nele —;
+-- c2-v16: porque tudo o no — mundo, a concupiscência da carne, e a concupiscência dos olhos, e a soberba da vida, não é do — Pai, mas do — mundo é.
+-- c2-v17: E o mundo passa, e a concupiscência dele; o porém que–faz a vontade de Deus, permanece para a eternidade.
+-- c2-v18: Filhinhos, última hora é, e assim–como ouvistes que anticristo vem, também agora anticristos muitos têm–surgido, de–onde conhecemos que última hora é.
+-- c2-v19: De nós saíram, mas não eram de nós; se pois de nós fossem, teriam–permanecido — conosco —; mas para–que fossem–manifestados que não são todos de nós.
+-- c2-v20: E vós unção tendes, da–parte do Santo, e sabeis todas–as–coisas.
+-- c2-v21: Não escrevi a–vós porque não conheceis a verdade, mas porque a–conheceis, ela, e que toda mentira, da — verdade não é.
+-- c2-v22: Quem é o mentiroso, senão — o que–nega que Jesus não é o Cristo? Este é o anticristo, o que–nega o Pai e o Filho.
+-- c2-v23: Todo o que–nega o Filho, nem o Pai tem. O que–confessa o Filho, também o Pai tem.
+-- c2-v24: Vós, o–que ouvistes desde princípio, em vós permaneça. Se em vós permanecer o–que desde princípio ouvistes, também vós no — Filho e no — Pai permanecereis.
+-- c2-v25: E esta é a promessa que ele prometeu a–nós: a vida a eterna.
+-- c2-v26: Estas–coisas escrevi a–vós acerca dos que–enganam vós;
+-- c2-v27: e vós, a unção que recebestes da–parte dele, permanece em vós, e não necessidade tendes, que alguém vos–ensine; vós; mas como a dele unção, ensina vós acerca todas–as–coisas, e verdadeira é, e não é mentira; e assim–como vos–ensinou, vós, permanecei nele —.
+-- c2-v28: E agora, filhinhos, permanecei nele —, para–que quando for–manifestado tenhamos confiança, e não sejamos–envergonhados da–parte dele, na — vinda dele.
+-- c2-v29: Se sabeis que justo é, conheceis que também todo o que–pratica a justiça, dele — é–nascido.
+-- c3-v1: Vede que–grande amor nos–deu a–nós o Pai, para–que filhos de–Deus sejamos–chamados, e somos. Por–causa disto, o mundo não nos–conhece, a–nós, porque não o–conheceu ele.
+-- c3-v2: Amados, agora filhos de–Deus somos, e ainda–não foi–manifestado que seremos; sabemos que quando for–manifestado, semelhantes a–ele seremos, porque o–veremos ele assim–como é.
+-- c3-v3: E todo o que–tem a esperança esta nele —, purifica a–si–mesmo, assim–como aquele puro é.
+-- c3-v4: Todo o que–pratica o pecado, também a iniquidade pratica; e o pecado é a iniquidade.
+-- c3-v5: E sabeis que aquele foi–manifestado, para–que os pecados tirasse; e pecado nele — não há.
+-- c3-v6: todo o nele — que–permanece não peca; todo o que–peca, não o–viu ele, nem o–conheceu ele.
+-- c3-v7: Filhinhos, ninguém vos–engane; vós; o que–pratica a justiça, justo é, assim–como aquele justo é.
+-- c3-v8: o que–pratica o pecado, do — diabo é; porque desde princípio o diabo peca. Para isto foi–manifestado o Filho de Deus, para–que destrua as obras do diabo.
+-- c3-v9: Todo o nascido de — Deus, pecado não pratica, porque semente dele nele — permanece, e não pode pecar, porque de — Deus é–nascido.
+-- c3-v10: Nisto —, manifestos são os filhos de Deus, e os filhos do diabo: todo o não que–pratica justiça, não é de — Deus; e o não que–ama o irmão dele.
+-- c3-v11: Porque esta é a mensagem que ouvistes desde princípio, que nos–amemos uns–aos–outros;
+-- c3-v12: não como Caim do — maligno era, e matou o irmão dele; e por–causa de–quê o–matou ele? Porque as obras dele más eram; as porém do irmão dele, justas.
+-- c3-v13: [e] Não vos–maravilheis, irmãos, se odeia vós o mundo.
+-- c3-v14: Nós sabemos que passamos da — morte para a vida, porque amamos os irmãos. O não que–ama, permanece na — morte.
+-- c3-v15: Todo o que–odeia o irmão dele, homicida é; e sabeis que todo homicida, não tem vida eterna nele — permanecendo.
+-- c3-v16: Nisto — conhecemos o amor, que aquele por nós a alma dele deu; e nós devemos pelos os irmãos, as almas dar.
+-- c3-v17: quem porém — tiver os bens do mundo, e vir o irmão dele necessidade tendo, e fechar as entranhas dele dele —, como o amor de Deus permanece nele —?
+-- c3-v18: Filhinhos, não amemos de–palavra, nem de língua, mas em obra e verdade.
+-- c3-v19: [e] Nisto — conheceremos que da — verdade somos, e diante dele asseguraremos o coração nosso,
+-- c3-v20: que se condenar nosso o coração, — maior é — Deus do–que–o coração nosso, e conhece todas–as–coisas.
+-- c3-v21: Amados, se o coração <nosso> «nos–não condena», confiança temos para–com — Deus,
+-- c3-v22: e o–que — pedirmos, recebemos da–parte dele, porque os mandamentos dele guardamos, e as–coisas agradáveis diante dele, fazemos.
+-- c3-v23: E este é o mandamento dele, que creiamos no nome do Filho dele, Jesus Cristo, e nos–amemos uns–aos–outros, assim–como deu mandamento a–nós.
+-- c3-v24: E o que–guarda os mandamentos dele, nele — permanece, e ele nele —. E nisto — conhecemos que permanece em nós, pelo — Espírito que nos deu.
+-- c4-v1: Amados, não a–todo espírito creiais, mas provai os espíritos, se de — Deus são, porque muitos falsos–profetas têm–saído para o mundo.
+-- c4-v2: Nisto — conheceis o Espírito de Deus: todo espírito que confessa Jesus Cristo em carne vindo, de — Deus é;
+-- c4-v3: e todo espírito que não confessa — Jesus, <Cristo em carne vindo> de — Deus não é. E isto é o do anticristo, que ouvistes que vem, e agora no — mundo está já.
+-- c4-v4: Vós de — Deus sois, filhinhos, e os–vencestes, eles, porque maior é o em vós, do–que o no — mundo.
+-- c4-v5: Eles do — mundo são; por–isso — do — mundo falam, e o mundo a–eles ouve.
+-- c4-v6: Nós de — Deus somos. O que–conhece — Deus, ouve a–nós. Quem não é de — Deus, não ouve a–nós. Disto — conhecemos o espírito da verdade e o espírito do erro.
+-- c4-v7: Amados, amemo–nos uns–aos–outros; porque o amor de — Deus é; e todo o que–ama, de — Deus é–nascido, e conhece — Deus.
+-- c4-v8: O não que–ama, não conheceu — Deus; porque — Deus amor é.
+-- c4-v9: Nisto — foi–manifestado o amor de Deus em nós, que o Filho dele, o unigênito, enviou — Deus ao — mundo, para–que vivamos por ele.
+-- c4-v10: Nisto — está o amor, não que nós tenhamos–amado — Deus, mas que ele nos–amou, a–nós, e enviou o Filho dele, propiciação pelos os pecados nossos.
+-- c4-v11: Amados, se assim — Deus nos–amou, a–nós, também nós devemos uns–aos–outros amar.
+-- c4-v12: A–Deus ninguém jamais viu; se amamos uns–aos–outros, — Deus em nós permanece, e o amor dele aperfeiçoado «em nós» está.
+-- c4-v13: Nisto — conhecemos que nele — permanecemos, e ele em nós, que do — Espírito dele nos–deu a–nós.
+-- c4-v14: E nós vimos e testemunhamos, que o Pai enviou o Filho Salvador do mundo.
+-- c4-v15: Quem — confessar que Jesus (Cristo) é o Filho de Deus, — Deus nele — permanece, e ele em — Deus.
+-- c4-v16: E nós conhecemos e cremos no amor que tem — Deus em nós. — Deus amor é, e o que–permanece no — amor, em — Deus permanece, e — Deus nele — permanece.
+-- c4-v17: Nisto — é–aperfeiçoado o amor conosco —, para–que confiança tenhamos no — dia do juízo, porque assim–como aquele é, também nós somos neste — mundo —.
+-- c4-v18: Temor não há no — amor, mas o perfeito amor fora lança o temor; porque o temor castigo tem; o porém que–teme, não tem–sido–aperfeiçoado no — amor.
+-- c4-v19: Nós amamos porque ele primeiro nos–amou. a–nós.
+-- c4-v20: Se alguém disser, — Amo — Deus, e o irmão dele odiar, mentiroso é; o pois não que–ama o irmão dele, a–quem viu, — Deus, a–quem não viu, não pode amar.
+-- c4-v21: E este o mandamento temos da–parte dele, que o que–ama — Deus, ame também o irmão dele.
+-- c5-v1: Todo o que–crê que Jesus é o Cristo, de — Deus é–nascido, e todo o que–ama o que–gerou, ama <também> o gerado dele —.
+-- c5-v2: Nisto — conhecemos que amamos os filhos de Deus, quando — Deus amamos, e os mandamentos dele praticamos.
+-- c5-v3: Este pois é o amor de Deus, que os mandamentos dele guardemos; e os mandamentos dele pesados não são.
+-- c5-v4: Porque todo o nascido de — Deus, vence o mundo; e esta é a vitória a que–venceu o mundo— a fé nossa.
+-- c5-v5: Quem <porém> é o que–vence o mundo, senão — o que–crê que Jesus é o Filho de Deus?
+-- c5-v6: Este é o que–veio por água e sangue, Jesus Cristo; não pela — água somente, mas pela — água e pelo — sangue. E o Espírito é o que–testifica, porque o Espírito é a verdade.
+-- c5-v7: Porque três são os que–testificam {no — céu: o Pai, o Verbo, e o Santo Espírito— e estes os três, um são}:
+-- c5-v8: o Espírito, e a água, e o sangue— e os três para o um são.
+-- c5-v9: Se o testemunho dos homens recebemos, o testemunho de Deus maior é. Porque este é o testemunho de Deus, que testemunhou acerca do Filho dele.
+-- c5-v10: O que–crê no — Filho de Deus, tem o testemunho em si–mesmo; o não que–crê em Deus, mentiroso o–fez ele, porque não creu no — testemunho que testemunhou — Deus, acerca do Filho dele.
+-- c5-v11: E este é o testemunho, que vida eterna deu «— Deus», a–nós e esta a vida no — Filho dele está.
+-- c5-v12: O que–tem o Filho, tem a vida: o não que–tem o Filho de Deus, a vida não tem.
+-- c5-v13: Estas–coisas escrevi a–vós para–que saibais que vida tendes eterna, aos que–creem no — nome do Filho de Deus, <e para–que creiais no — nome do Filho de Deus>.
+-- c5-v14: E esta é a confiança que temos para–com ele, que se alguma–coisa pedirmos segundo a vontade dele, ouve a–nós.
+-- c5-v15: E se sabemos que nos–ouve a–nós, o–que — pedirmos, sabemos que temos os pedidos que pedimos da–parte dele.
+-- c5-v16: Se alguém vir o irmão dele pecando pecado não para morte, pedirá, e dará a–ele vida— aos que–pecam não para morte. Há pecado para morte; não acerca daquele digo que ore.
+-- c5-v17: Toda injustiça pecado é; e há pecado não para morte.
+-- c5-v18: Sabemos que todo o nascido de — Deus não peca, mas o gerado de — Deus o–guarda, ele, e o maligno não o–toca dele.
+-- c5-v19: Sabemos que de — Deus somos, e o mundo inteiro, no — maligno jaz.
+-- c5-v20: E–sabemos porém que o Filho de Deus veio, e nos–deu a–nós entendimento, para–que conheçamos o verdadeiro; e estamos no — verdadeiro, no — Filho dele, Jesus Cristo. Este é o verdadeiro Deus, e vida eterna.
+-- c5-v21: Filhinhos, guardai–vos a–vós–mesmos dos — ídolos. <Amém>
 
 BEGIN;
 -- 6200100101: Ὃ (G3739) → "O–que" [opus-4.5-chirho]

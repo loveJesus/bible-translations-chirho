@@ -3,163 +3,163 @@
 -- — John 3:16
 
 -- EPHESIANS - POR Combined
--- Generated: 2026-01-27T21:46:41Z
+-- Generated: 2026-01-27T22:19:56Z
 
--- EPHESIANS c1-v1 - POR
--- EPHESIANS c1-v2 - POR
--- EPHESIANS c1-v3 - POR
--- EPHESIANS c1-v4 - POR
--- EPHESIANS c1-v5 - POR
--- EPHESIANS c1-v6 - POR
--- EPHESIANS c1-v7 - POR
--- EPHESIANS c1-v8 - POR
--- EPHESIANS c1-v9 - POR
--- EPHESIANS c1-v10 - POR
--- EPHESIANS c1-v11 - POR
--- EPHESIANS c1-v12 - POR
--- EPHESIANS c1-v13 - POR
--- EPHESIANS c1-v14 - POR
--- EPHESIANS c1-v15 - POR
--- EPHESIANS c1-v16 - POR
--- EPHESIANS c1-v17 - POR
--- EPHESIANS c1-v18 - POR
--- EPHESIANS c1-v19 - POR
--- EPHESIANS c1-v20 - POR
--- EPHESIANS c1-v21 - POR
--- EPHESIANS c1-v22 - POR
--- EPHESIANS c1-v23 - POR
--- EPHESIANS c2-v1 - POR
--- EPHESIANS c2-v2 - POR
--- EPHESIANS c2-v3 - POR
--- EPHESIANS c2-v4 - POR
--- EPHESIANS c2-v5 - POR
--- EPHESIANS c2-v6 - POR
--- EPHESIANS c2-v7 - POR
--- EPHESIANS c2-v8 - POR
--- EPHESIANS c2-v9 - POR
--- EPHESIANS c2-v10 - POR
--- EPHESIANS c2-v11 - POR
--- EPHESIANS c2-v12 - POR
--- EPHESIANS c2-v13 - POR
--- EPHESIANS c2-v14 - POR
--- EPHESIANS c2-v15 - POR
--- EPHESIANS c2-v16 - POR
--- EPHESIANS c2-v17 - POR
--- EPHESIANS c2-v18 - POR
--- EPHESIANS c2-v19 - POR
--- EPHESIANS c2-v20 - POR
--- EPHESIANS c2-v21 - POR
--- EPHESIANS c2-v22 - POR
--- EPHESIANS c3-v1 - POR
--- EPHESIANS c3-v2 - POR
--- EPHESIANS c3-v3 - POR
--- EPHESIANS c3-v4 - POR
--- EPHESIANS c3-v5 - POR
--- EPHESIANS c3-v6 - POR
--- EPHESIANS c3-v7 - POR
--- EPHESIANS c3-v8 - POR
--- EPHESIANS c3-v9 - POR
--- EPHESIANS c3-v10 - POR
--- EPHESIANS c3-v11 - POR
--- EPHESIANS c3-v12 - POR
--- EPHESIANS c3-v13 - POR
--- EPHESIANS c3-v14 - POR
--- EPHESIANS c3-v15 - POR
--- EPHESIANS c3-v16 - POR
--- EPHESIANS c3-v17 - POR
--- EPHESIANS c3-v18 - POR
--- EPHESIANS c3-v19 - POR
--- EPHESIANS c3-v20 - POR
--- EPHESIANS c3-v21 - POR
--- EPHESIANS c4-v1 - POR
--- EPHESIANS c4-v2 - POR
--- EPHESIANS c4-v3 - POR
--- EPHESIANS c4-v4 - POR
--- EPHESIANS c4-v5 - POR
--- EPHESIANS c4-v6 - POR
--- EPHESIANS c4-v7 - POR
--- EPHESIANS c4-v8 - POR
--- EPHESIANS c4-v9 - POR
--- EPHESIANS c4-v10 - POR
--- EPHESIANS c4-v11 - POR
--- EPHESIANS c4-v12 - POR
--- EPHESIANS c4-v13 - POR
--- EPHESIANS c4-v14 - POR
--- EPHESIANS c4-v15 - POR
--- EPHESIANS c4-v16 - POR
--- EPHESIANS c4-v17 - POR
--- EPHESIANS c4-v18 - POR
--- EPHESIANS c4-v19 - POR
--- EPHESIANS c4-v20 - POR
--- EPHESIANS c4-v21 - POR
--- EPHESIANS c4-v22 - POR
--- EPHESIANS c4-v23 - POR
--- EPHESIANS c4-v24 - POR
--- EPHESIANS c4-v25 - POR
--- EPHESIANS c4-v26 - POR
--- EPHESIANS c4-v27 - POR
--- EPHESIANS c4-v28 - POR
--- EPHESIANS c4-v29 - POR
--- EPHESIANS c4-v30 - POR
--- EPHESIANS c4-v31 - POR
--- EPHESIANS c4-v32 - POR
--- EPHESIANS c5-v1 - POR
--- EPHESIANS c5-v2 - POR
--- EPHESIANS c5-v3 - POR
--- EPHESIANS c5-v4 - POR
--- EPHESIANS c5-v5 - POR
--- EPHESIANS c5-v6 - POR
--- EPHESIANS c5-v7 - POR
--- EPHESIANS c5-v8 - POR
--- EPHESIANS c5-v9 - POR
--- EPHESIANS c5-v10 - POR
--- EPHESIANS c5-v11 - POR
--- EPHESIANS c5-v12 - POR
--- EPHESIANS c5-v13 - POR
--- EPHESIANS c5-v14 - POR
--- EPHESIANS c5-v15 - POR
--- EPHESIANS c5-v16 - POR
--- EPHESIANS c5-v17 - POR
--- EPHESIANS c5-v18 - POR
--- EPHESIANS c5-v19 - POR
--- EPHESIANS c5-v20 - POR
--- EPHESIANS c5-v21 - POR
--- EPHESIANS c5-v22 - POR
--- EPHESIANS c5-v23 - POR
--- EPHESIANS c5-v24 - POR
--- EPHESIANS c5-v25 - POR
--- EPHESIANS c5-v26 - POR
--- EPHESIANS c5-v27 - POR
--- EPHESIANS c5-v28 - POR
--- EPHESIANS c5-v29 - POR
--- EPHESIANS c5-v30 - POR
--- EPHESIANS c5-v31 - POR
--- EPHESIANS c5-v32 - POR
--- EPHESIANS c5-v33 - POR
--- EPHESIANS c6-v1 - POR
--- EPHESIANS c6-v2 - POR
--- EPHESIANS c6-v3 - POR
--- EPHESIANS c6-v4 - POR
--- EPHESIANS c6-v5 - POR
--- EPHESIANS c6-v6 - POR
--- EPHESIANS c6-v7 - POR
--- EPHESIANS c6-v8 - POR
--- EPHESIANS c6-v9 - POR
--- EPHESIANS c6-v10 - POR
--- EPHESIANS c6-v11 - POR
--- EPHESIANS c6-v12 - POR
--- EPHESIANS c6-v13 - POR
--- EPHESIANS c6-v14 - POR
--- EPHESIANS c6-v15 - POR
--- EPHESIANS c6-v16 - POR
--- EPHESIANS c6-v17 - POR
--- EPHESIANS c6-v18 - POR
--- EPHESIANS c6-v19 - POR
--- EPHESIANS c6-v20 - POR
--- EPHESIANS c6-v21 - POR
--- EPHESIANS c6-v22 - POR
--- EPHESIANS c6-v23 - POR
--- EPHESIANS c6-v24 - POR
+-- c1-v1: Paulo, apóstolo de–Cristo Jesus por vontade de–Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
+-- c1-v2: graça a–vós e paz da–parte–de Deus Pai nosso e do–Senhor Jesus Cristo.
+-- c1-v3: Bendito o Deus e Pai do Senhor nosso, Jesus Cristo, o–que nos–abençoou a–nós com toda bênção espiritual nos lugares celestiais em Cristo;
+-- c1-v4: assim–como nos–escolheu a–nós nele próprio antes–da fundação do–mundo, sermos nós santos e irrepreensíveis perante ele; em amor,
+-- c1-v5: tendo–predestinado a–nós para adoção–de–filhos por–meio–de Jesus Cristo, para si–mesmo, segundo o beneplácito da vontade dele,
+-- c1-v6: para louvor da–glória da graça dele, com–a–qual nos–agraciou a–nós no o Amado;
+-- c1-v7: em quem temos a redenção pelo o sangue dele, a remissão das transgressões, segundo a riqueza da graça dele;
+-- c1-v8: a–qual fez–abundar para nós em toda sabedoria e prudência;
+-- c1-v9: tendo–revelado a–nós o mistério, da vontade dele, segundo o beneplácito dele, que propôs em si–mesmo,
+-- c1-v10: para administração da plenitude dos tempos; reunir–em–uma–só–cabeça as todas–coisas no o Cristo, as sobre os céus, e as sobre a terra;
+-- c1-v11: nele próprio, em quem também fomos–feitos–herdeiros, tendo–sido–predestinados segundo propósito daquele–que as todas–coisas opera, segundo o conselho da vontade dele;
+-- c1-v12: para o sermos nós, para louvor da–glória dele; os–que de–antemão–esperaram no o Cristo;
+-- c1-v13: em quem também vós, tendo–ouvido a palavra da verdade, o evangelho da salvação vossa, em quem também, tendo–crido, fostes–selados com–o Espírito da promessa, o Santo;
+-- c1-v14: o–qual é penhor da herança nossa, para redenção da possessão, para louvor da glória dele.
+-- c1-v15: Por isso, também–eu, tendo–ouvido da quanto–a vós fé no o Senhor Jesus, e o amor o para–com todos os santos,
+-- c1-v16: não cesso de–dar–graças por vós, menção fazendo nas as orações minhas,
+-- c1-v17: para–que o Deus do Senhor nosso, Jesus Cristo, o Pai da glória, dê a–vós espírito de–sabedoria e de–revelação, em pleno–conhecimento dele,
+-- c1-v18: tendo–sido–iluminados os olhos do coração vosso, para o saberdes vós, qual é a esperança da vocação dele, qual a riqueza da glória da herança dele, nos os santos,
+-- c1-v19: e qual a superabundante grandeza do poder dele, para nós, os–que cremos segundo a operação da força da potência dele,
+-- c1-v20: a–qual operou no o Cristo, tendo–ressuscitado a–ele dentre os–mortos, e tendo–feito–sentar à direita dele, nos os lugares–celestiais,
+-- c1-v21: muito–acima–de todo principado, e autoridade, e poder, e domínio, e todo nome que–se–nomeia, não somente neste o século presente, mas também no o vindouro;
+-- c1-v22: e todas–as–coisas sujeitou debaixo–dos os pés dele, e a–ele constituiu cabeça sobre todas–as–coisas à igreja,
+-- c1-v23: a–qual é o corpo dele, a plenitude daquele–que as todas–coisas, em todos preenche.
+-- c2-v1: E a–vós, estando mortos nas transgressões, e nos pecados vossos,
+-- c2-v2: nos quais outrora andastes, segundo o curso deste mundo presente, segundo o príncipe da autoridade do ar, do espírito que agora opera nos os filhos da desobediência;
+-- c2-v3: entre os–quais também nós todos vivemos outrora, nas as concupiscências da carne, nossa fazendo as vontades da carne, e dos pensamentos; e éramos filhos, por–natureza, da–ira, como também os demais.
+-- c2-v4: o porém Deus, rico sendo em misericórdia, por o muito amor dele, com–que nos–amou, a–nós,
+-- c2-v5: e estando nós mortos nas transgressões, nos–vivificou–juntamente–com o Cristo, pela–graça estais salvos,
+-- c2-v6: e nos–ressuscitou–juntamente, e nos–fez–sentar–juntamente nos os lugares–celestiais, em Cristo Jesus,
+-- c2-v7: para–que mostrasse nos os séculos os vindouros a superabundante riqueza da graça dele, em benignidade para–com nós em Cristo Jesus.
+-- c2-v8: pela pois graça estais salvos mediante fé; e isto não de vós; de–Deus o dom––
+-- c2-v9: não de obras, para–que não alguém se–glorie.
+-- c2-v10: dele pois somos feitura, criados em Cristo Jesus para obras boas, as–quais de–antemão–preparou o Deus, para–que nelas próprias andemos.
+-- c2-v11: Portanto lembrai–vos de–que outrora vós os gentios na carne, os chamados incircuncisão pela a chamada circuncisão, na carne feita–por–mãos––
+-- c2-v12: que estáveis, naquele tempo então sem Cristo, alienados da cidadania de Israel, e estrangeiros das alianças da promessa, esperança não tendo, e sem–Deus no o mundo.
+-- c2-v13: agora porém em Cristo Jesus, vós os–que outrora estando longe, vos–tornastes perto pelo o sangue do Cristo.
+-- c2-v14: Ele–mesmo pois é a paz nossa, o–que fez os ambos um, e a parede–divisória da separação derrubou,
+-- c2-v15: a inimizade na a carne dele, a lei dos mandamentos em decretos tendo–abolido, para–que dos dois, criasse em si–mesmo, em um novo homem, fazendo paz;
+-- c2-v16: e reconciliasse os ambos em um corpo com–o Deus, por–meio–da a cruz, tendo–matado a inimizade nela própria;
+-- c2-v17: e tendo–vindo evangelizou, paz a–vós os de–longe, e paz aos de–perto.
+-- c2-v18: porque por–meio–dele próprio temos o acesso os ambos, por um Espírito, ao o Pai.
+-- c2-v19: portanto pois já–não sois estrangeiros e forasteiros, mas sois concidadãos dos santos e membros–da–família de Deus,
+-- c2-v20: edificados sobre o fundamento dos apóstolos e profetas, sendo pedra–angular dele–próprio Cristo Jesus,
+-- c2-v21: em quem toda construção, bem–ajustada, cresce para templo, santo no Senhor,
+-- c2-v22: em quem também vós, sois–edificados–juntamente para habitação de Deus, no Espírito.
+-- c3-v1: Por–esta razão, eu Paulo, o prisioneiro do Cristo Jesus, por vós os gentios,
+-- c3-v2: se de–fato ouvistes da administração da graça de Deus, a dada a–mim para vós;
+-- c3-v3: que por revelação foi–dado–a–conhecer a–mim o mistério, conforme escrevi–antes em breves–palavras;
+-- c3-v4: quanto–a o–qual podeis, lendo, perceber o entendimento meu no o mistério do Cristo;
+-- c3-v5: o–qual em–outras gerações não foi–dado–a–conhecer aos filhos dos homens, como agora foi–revelado aos santos apóstolos dele, e profetas; pelo Espírito.
+-- c3-v6: serem os gentios co–herdeiros, e membros–do–mesmo–corpo, e co–participantes da promessa em Cristo Jesus, por–meio–do o evangelho;
+-- c3-v7: do–qual me–tornei ministro segundo o dom da graça de Deus a dada a–mim, segundo a operação do poder dele.
+-- c3-v8: a–mim, ao menor–de–todos de–todos os–santos, foi–dada esta graça presente, aos gentios evangelizar, a inescrutavel riqueza do Cristo;
+-- c3-v9: e iluminar a–todos, qual a administração do mistério, o oculto desde os séculos no o Deus, o–que as todas–coisas criou,
+-- c3-v10: para–que seja–conhecida agora aos principados e às autoridades nos os lugares–celestiais, por–meio–da a igreja, a multiforme sabedoria de Deus;
+-- c3-v11: segundo propósito dos séculos, que fez no o Cristo Jesus, o Senhor nosso,
+-- c3-v12: em quem temos a ousadia e acesso em confiança, por–meio–da a fé dele.
+-- c3-v13: pelo–que peço não desanimardes nas as tribulações minhas por vós, a–qual é glória vossa.
+-- c3-v14: Por–esta razão dobro os joelhos meus diante–do o Pai, <do Senhor nosso Jesus Cristo>,
+-- c3-v15: do qual toda família nos céus e sobre a–terra recebe–nome,
+-- c3-v16: para–que conceda a–vós segundo a riqueza da glória dele, com–poder, serdes–fortalecidos por–meio–do o Espírito dele, no o interior homem;
+-- c3-v17: habitar o Cristo, mediante a fé, nos os corações vossos, em amor enraizados e alicercados,
+-- c3-v18: para–que sejais–plenamente–capazes de–compreender com todos os santos, qual a largura, e comprimento, e altura, e profundidade,
+-- c3-v19: conhecer também o, que–excede o conhecimento, amor do Cristo, para–que sejais–cheios até toda a plenitude de Deus.
+-- c3-v20: Ora–àquele–que porém é–poderoso acima–de tudo fazer superabundantemente daquilo–que pedimos ou pensamos, segundo o poder o que–opera em nós;
+-- c3-v21: a–ele seja–a glória na a igreja e em Cristo Jesus, por todas as gerações do século dos séculos. Amém.
+-- c4-v1: Exorto pois a–vós, eu o prisioneiro no Senhor, dignamente andardes, da vocação com–que fostes–chamados;
+-- c4-v2: com toda humildade e mansidão, com longanimidade, suportando uns–aos–outros em amor;
+-- c4-v3: esforçando–vos guardar a unidade do Espírito, no o vínculo da paz.
+-- c4-v4: um corpo e um Espírito, assim–como também fostes–chamados em uma esperança, da vocação vossa––
+-- c4-v5: um Senhor, uma fé, um batismo;
+-- c4-v6: um Deus e Pai de–todos, o–que sobre todos, e por–meio–de todos, e em todos.
+-- c4-v7: A–um porém cada de–nós foi–dada a graça, segundo a medida do dom do Cristo.
+-- c4-v8: pelo–que diz, Tendo–subido às alturas, levou–cativo o–cativeiro, (e) deu dons aos homens.
+-- c4-v9: Ora–o porém, Subiu, que é, se não que também, desceu às as mais–baixas regiões da terra?
+-- c4-v10: o–que desceu, ele–mesmo é também o–que subiu muito–acima–de todos os céus, para–que enchesse as todas–coisas.
+-- c4-v11: e ele–mesmo deu os de–fato apóstolos, os porém profetas, os porém evangelistas, os porém pastores e mestres,
+-- c4-v12: para o aperfeiçoamento dos santos; para obra de–ministério, para edificação do corpo do Cristo,
+-- c4-v13: até–que cheguemos os todos, à a unidade da fé e do pleno–conhecimento do Filho de Deus, a varão perfeito, à medida da–estatura da plenitude do Cristo;
+-- c4-v14: para–que não–mais sejamos crianças, agitados–pelas–ondas e levados–ao–redor por–todo vento da doutrina, pela a astúcia dos homens, com artifício para o estratagema do engano;
+-- c4-v15: mas–falando–a–verdade porém em amor, cresçamos nele próprio em–todas as–coisas, o–qual é a cabeça, Cristo;
+-- c4-v16: do qual todo o corpo, bem–ajustado e unido por–meio–de toda junta do suprimento segundo operação na medida de–cada uma parte, o crescimento do corpo efetua para edificação de–si–mesmo em amor.
+-- c4-v17: Isto pois digo, e testifico no Senhor, não–mais vós andardes como também os gentios andam, na vaidade da mente deles.
+-- c4-v18: obscurecidos no entendimento, estando alienados da vida de Deus, por–causa–da a ignorância a que–está neles próprios, por–causa–da a dureza do coração deles,
+-- c4-v19: os–quais tendo–se–tornado–insensíveis, a–si–mesmos entregaram à dissolução, para prática de–toda–impureza, de–toda com avidez.
+-- c4-v20: Vós porém não assim aprendestes o Cristo,
+-- c4-v21: se de–fato a–ele ouvistes e nele próprio fostes–ensinados, como está a–verdade em o Jesus;
+-- c4-v22: despojardes vós, quanto–à a anterior conduta, do velho homem, o–que se–corrompe, segundo os desejos do engano;
+-- c4-v23: renovardes–vos porém pelo espírito da mente vossa;
+-- c4-v24: e revestirdes do novo homem, o segundo Deus criado em justiça e santidade da verdade.
+-- c4-v25: Pelo–que tendo–despojado a mentira, falai a–verdade cada–um com o próximo dele, porque somos uns–dos–outros membros.
+-- c4-v26: irai–vos, e não pequeis; o sol não se–ponha sobre [a] ira vossa,
+-- c4-v27: nem deis lugar ao diabo.
+-- c4-v28: o que–furtava não–mais furte; antes porém trabalhe, fazendo com–as próprias mãos o bem, para–que tenha repartir com–o necessidade que–tem.
+-- c4-v29: toda palavra torpe da a boca vossa, não saia, mas, se alguma boa, para edificação da necessidade, para–que dê graça aos que–ouvem.
+-- c4-v30: e não entristeceis o Espírito o Santo de Deus, pelo–qual o–qual fostes–selados para o–dia da–redenção.
+-- c4-v31: toda amargura, e ira, e cólera, e clamor, e blasfêmia, seja–tirada de vós, junto–com toda malícia.
+-- c4-v32: tornai–vos porém para–com uns–aos–outros benignos, compassivos, perdoando uns–aos–outros, assim–como também o Deus em Cristo perdoou a–vós.
+-- c5-v1: Sede pois imitadores de Deus, como filhos amados,
+-- c5-v2: e andai em amor, assim–como também o Cristo nos–amou, a–nós, e entregou a–si–mesmo por nós, oferta e sacrifício ao Deus, em aroma de–suavidade.
+-- c5-v3: Fornicação porém, e impureza toda, ou avareza, nem seja–nomeada entre vós, como convem a–santos;
+-- c5-v4: e obscenidade, e conversa–tola, ou chocarrice, as–quais não convem; mas antes ação–de–graças.
+-- c5-v5: isto pois sabei, conhecendo que todo fornicador, ou impuro, ou avarento, o–qual é idólatra, não tem herança no o reino do Cristo, e de–Deus.
+-- c5-v6: Ninguém a–vós engane com–vãs palavras; por–causa–dessas–coisas estas–coisas pois vem a ira de Deus, sobre os filhos da desobediência.
+-- c5-v7: não pois vos–torneis co–participantes deles;
+-- c5-v8: éreis pois outrora trevas, agora porém, luz no Senhor; como filhos de–luz andai––
+-- c5-v9: o pois fruto da luz em toda bondade, e justiça, e verdade––
+-- c5-v10: examinando o–que é agradável ao Senhor.
+-- c5-v11: e não participeis das obras as infrutuosas das trevas, antes porém também repreendei;
+-- c5-v12: as–coisas pois em–oculto sendo–feitas por eles, vergonhoso é até dizer.
+-- c5-v13: as porém todas–coisas sendo–repreendidas pela a luz, são–manifestadas pois–tudo o; o sendo–manifestado luz é.
+-- c5-v14: pelo–que diz, Desperta, ó que–dormes, e levanta–te dentre os mortos, e te–iluminará a–ti o Cristo.
+-- c5-v15: Olhai pois diligentemente como andais, não como insensatos, mas como sábios,
+-- c5-v16: remindo o tempo, porque os dias maus são.
+-- c5-v17: por isso, não vos–torneis insensatos, mas compreendei qual a vontade do Senhor.
+-- c5-v18: e não vos–embriagueis com–vinho, no qual há dissolução. Mas enchei–vos do Espírito,
+-- c5-v19: falando uns–aos–outros [com] salmos, e hinos, e cânticos espirituais; cantando e salmodiando no coração vosso ao Senhor;
+-- c5-v20: dando–graças sempre, por tudo, em nome do Senhor nosso, Jesus Cristo; ao Deus e Pai;
+-- c5-v21: sujeitando–vos uns–aos–outros no temor de–Cristo.
+-- c5-v22: As esposas, aos próprios maridos, como ao Senhor,
+-- c5-v23: porque o–marido é cabeça da esposa, como também o Cristo cabeça da igreja–– ele–mesmo salvador do corpo.
+-- c5-v24: Mas como a igreja se–sujeita ao Cristo, assim também as esposas aos maridos em tudo.
+-- c5-v25: Os maridos, amai as esposas, assim–como também o Cristo amou a igreja, e a–si–mesmo entregou por ela,
+-- c5-v26: para–que a–ela santificasse, tendo–purificado pelo lavar da água pela palavra,
+-- c5-v27: para–que a–apresentasse ele–mesmo a–si–mesmo gloriosa, a igreja, não tendo mancha, ou ruga, ou coisa das tais; mas para–que seja santa e irrepreensível.
+-- c5-v28: Assim devem também os maridos amar as suas–próprias esposas, como os seus–próprios corpos. Quem ama a sua–própria esposa, a–si–mesmo ama.
+-- c5-v29: ninguém pois jamais a sua–própria carne odiou, mas a–nutre e a–aquece, a–ela, assim–como também o Cristo a igreja:
+-- c5-v30: porque membros somos do corpo dele, <da a carne dele, e dos os ossos dele>.
+-- c5-v31: Por–isso isto, deixará o–homem o pai e a mãe, e se–unirá à a–sua esposa dele, e serão os dois em carne uma.
+-- c5-v32: Este mistério presente grande é; eu porém falo com–respeito–a Cristo, e com–respeito–a a igreja.
+-- c5-v33: Todavia também vós os cada um, cada–um a sua–própria esposa, assim ame como a–si–mesmo; e–a porém esposa, que reverencie o marido.
+-- c6-v1: Os filhos, obedecei aos pais vossos, no Senhor; isto pois é justo.
+-- c6-v2: Honra o pai teu e a mãe, a–qual é mandamento primeiro, com promessa,
+-- c6-v3: para–que bem a–ti seja, e sejas de–longa–vida sobre a terra.
+-- c6-v4: E os pais, não provoqueis–à–ira os filhos vossos, mas criai–os a–eles na disciplina e admoestação do–Senhor.
+-- c6-v5: Os servos, obedecei aos segundo a–carne senhores com temor e tremor, na singeleza do coração vosso, como ao Cristo;
+-- c6-v6: não segundo servindo–aos–olhos como que–agradam–a–homens; mas como servos de–Cristo, fazendo a vontade de Deus de alma,
+-- c6-v7: com boa–vontade servindo como ao Senhor, e não a–homens;
+-- c6-v8: sabendo que cada–um, se algo fizer de–bom, isto receberá da–parte–do Senhor, seja servo seja livre.
+-- c6-v9: E os senhores, as mesmas–coisas, fazei para–com eles, deixando a ameaça, sabendo que tanto deles quanto vosso o Senhor está nos céus, e acepção–de–pessoas não há com ele.
+-- c6-v10: Do resto, fortalecei–vos no Senhor, e na a força do poder dele.
+-- c6-v11: revesti–vos de–a armadura–completa de Deus, para o poderdes vós permanecer–firmes contra as ciladas do diabo;
+-- c6-v12: porque não é a–nós a luta contra sangue e carne; mas contra os principados, contra as autoridades, contra os dominadores–do–mundo desta treva presente, contra as forças–espirituais da maldade nos os lugares–celestiais.
+-- c6-v13: por isso, tomai a armadura–completa de Deus, para–que possais resistir no o dia o mau, e tendo–feito–tudo tendo–realizado, permanecer–firmes.
+-- c6-v14: ficai–firmes pois, tendo–cingido os lombos vossos, com verdade, e tendo–revestido a couraça da justiça,
+-- c6-v15: e tendo–calçado os pés com a–prontidão do evangelho da paz.
+-- c6-v16: em tudo, tendo–tomado o escudo da fé, com o–qual podereis todos os dardos do maligno os inflamados, apagar.
+-- c6-v17: e o capacete da salvação recebei, e a espada do Espírito, que é a–palavra de–Deus;
+-- c6-v18: por–meio–de toda oração e súplica, orando em todo tempo no Espírito, e para isto–mesmo, vigiando com toda perseverança, e súplica, por todos os santos;
+-- c6-v19: e por mim, para–que me seja–dada palavra no abrir da boca minha, em ousadia fazer–conhecido o mistério do evangelho,
+-- c6-v20: pelo qual sou–embaixador em cadeias, para–que nele próprio fale–ousadamente, como é–necessário a–mim falar.
+-- c6-v21: Para–que porém saibais também vós, as–coisas acerca–de mim, que faço, tudo fará–saber a–vós Tíquico, o amado irmão, e fiel ministro no Senhor;
+-- c6-v22: o–qual enviei a vós para isto mesmo, para–que conheçais as–coisas acerca–de nós, e console os corações vossos.
+-- c6-v23: Paz aos irmãos, e amor com fé, da–parte–de Deus Pai, e do–Senhor Jesus Cristo.
+-- c6-v24: A graça com todos os que–amam o Senhor nosso, Jesus Cristo, em incorrupção.
 
 BEGIN;
 -- 4900100101: Παῦλος, (G3972) → "Paulo," [opus-4.5-chirho]

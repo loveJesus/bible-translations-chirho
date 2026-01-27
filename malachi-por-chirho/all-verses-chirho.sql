@@ -3,63 +3,63 @@
 -- — John 3:16
 
 -- MALACHI - POR Combined
--- Generated: 2026-01-27T21:47:34Z
+-- Generated: 2026-01-27T22:21:27Z
 
--- MALACHI c1-v1 - POR
--- MALACHI c1-v2 - POR
--- MALACHI c1-v3 - POR
--- MALACHI c1-v4 - POR
--- MALACHI c1-v5 - POR
--- MALACHI c1-v6 - POR
--- MALACHI c1-v7 - POR
--- MALACHI c1-v8 - POR
--- MALACHI c1-v9 - POR
--- MALACHI c1-v10 - POR
--- MALACHI c1-v11 - POR
--- MALACHI c1-v12 - POR
--- MALACHI c1-v13 - POR
--- MALACHI c1-v14 - POR
--- MALACHI c2-v1 - POR
--- MALACHI c2-v2 - POR
--- MALACHI c2-v3 - POR
--- MALACHI c2-v4 - POR
--- MALACHI c2-v5 - POR
--- MALACHI c2-v6 - POR
--- MALACHI c2-v7 - POR
--- MALACHI c2-v8 - POR
--- MALACHI c2-v9 - POR
--- MALACHI c2-v10 - POR
--- MALACHI c2-v11 - POR
--- MALACHI c2-v12 - POR
--- MALACHI c2-v13 - POR
--- MALACHI c2-v14 - POR
--- MALACHI c2-v15 - POR
--- MALACHI c2-v16 - POR
--- MALACHI c2-v17 - POR
--- MALACHI c3-v1 - POR
--- MALACHI c3-v2 - POR
--- MALACHI c3-v3 - POR
--- MALACHI c3-v4 - POR
--- MALACHI c3-v5 - POR
--- MALACHI c3-v6 - POR
--- MALACHI c3-v7 - POR
--- MALACHI c3-v8 - POR
--- MALACHI c3-v9 - POR
--- MALACHI c3-v10 - POR
--- MALACHI c3-v11 - POR
--- MALACHI c3-v12 - POR
--- MALACHI c3-v13 - POR
--- MALACHI c3-v14 - POR
--- MALACHI c3-v15 - POR
--- MALACHI c3-v16 - POR
--- MALACHI c3-v17 - POR
--- MALACHI c3-v18 - POR
--- MALACHI c4-v1 - POR
--- MALACHI c4-v2 - POR
--- MALACHI c4-v3 - POR
--- MALACHI c4-v4 - POR
--- MALACHI c4-v5 - POR
--- MALACHI c4-v6 - POR
+-- c1-v1: Oráculo de–palavra de–YHWH a Yisra'el por–mão–de Mal'akhi
+-- c1-v2: Amei (a)–vós disse YHWH e–dissestes em–quê nos–amaste Não–é irmão Esaw de–Ya'aqov oráculo–de YHWH e–amei (a) Ya'aqov
+-- c1-v3: E–(a) Esaw odiei e–fiz (a) seus–montes desolação e–(a) sua–herança para–chacais–de deserto
+-- c1-v4: Se disser Edom Fomos–arruinados e–voltaremos e–edificaremos as–ruínas assim disse YHWH dos–Exércitos eles edificarão e–eu derrubarei e–chamarão a–eles território–de maldade e–o–povo que amaldiçoou YHWH até eternidade
+-- c1-v5: E–vossos–olhos verão e–vós direis Seja–engrandecido YHWH além–de o–território–de Yisra'el
+-- c1-v6: Um–filho honra pai e–um–servo seus–senhores E–se pai eu onde minha–honra E–se senhores eu onde meu–temor disse YHWH dos–Exércitos a–vós os–sacerdotes que–desprezam meu–nome E–dissestes Em–quê desprezamos (a) teu–nome
+-- c1-v7: Oferecendo sobre meu–altar pão contaminado E–dissestes Em–quê te–contaminamos Ao–dizerdes A–mesa–de YHWH desprezível ela
+-- c1-v8: E–quando oferecerdes cego para–sacrificar não–há mal E–quando oferecerdes coxo e–doente não–há mal Oferece–o por–favor ao–teu–governador Acaso–se–agradará–de–ti ou acaso–levantará tua–face disse YHWH dos–Exércitos
+-- c1-v9: E–agora implorai por–favor a–face–de Deus e–nos–tenha–misericórdia De–vossa–mão foi isto Acaso–levantará de–vós faces disse YHWH dos–Exércitos
+-- c1-v10: Quem também entre–vós e–fechará as–portas E–não acendereis meu–altar de–graça Não–há para–mim prazer em–vós disse YHWH dos–Exércitos e–oferta não aceitarei de–vossa–mão
+-- c1-v11: Pois desde–o–nascer–do sol e–até seu–poente grande meu–nome entre–as–nações e–em–todo lugar incenso é–oferecido ao–meu–nome e–oferta pura pois grande meu–nome entre–as–nações disse YHWH dos–Exércitos
+-- c1-v12: E–vós profanais o ao–dizerdes A–mesa–de Adonai contaminada ela e–seu–fruto desprezível sua–comida
+-- c1-v13: E–dissestes Eis que–cansaço e–bufastes o disse YHWH dos–Exércitos e–trouxestes roubado e–(a) o–coxo e–(a) o–doente e–trouxestes (a) a–oferta Acaso–aceitarei ela de–vossa–mão disse YHWH §
+-- c1-v14: E–maldito o–enganador e–há em–seu–rebanho macho e–faz–voto e–sacrifica defeituoso ao–Adonai Pois rei grande eu disse YHWH dos–Exércitos e–meu–nome temível entre–as–nações
+-- c2-v1: E–agora a–vós o–mandamento este ó–sacerdotes
+-- c2-v2: Se não ouvirdes e–se não puserdes sobre o–coração para–dar honra ao–meu–nome disse YHWH dos–Exércitos e–enviarei em–vós (a) a–maldição e–amaldiçoarei (a) vossas–bênçãos e–também a–amaldiçoei porque não–estais pondo sobre o–coração
+-- c2-v3: Eis–me repreendendo a–vós (a) a–semente e–espalharei excremento sobre vossas–faces excremento–de vossas–festas e–levará (a)–vós a–ele
+-- c2-v4: E–sabereis que enviei a–vós (a) o–mandamento este para–ser minha–aliança com Levi disse YHWH dos–Exércitos
+-- c2-v5: Minha–aliança foi com–ele a–vida e–a–paz e–dei–os a–ele temor e–ele–me–temeu e–de–diante–de meu–nome prostrou–se ele
+-- c2-v6: Lei–de verdade estava em–sua–boca e–iniquidade não foi–achada em–seus–lábios Em–paz e–em–retidão andou comigo e–muitos fez–voltar de–iniquidade
+-- c2-v7: Pois os–lábios–de sacerdote guardam conhecimento e–lei buscam de–sua–boca pois mensageiro–de YHWH dos–Exércitos ele
+-- c2-v8: Mas–vós vos–desviastes do caminho fizestes–tropeçar muitos na–lei corrompestes a–aliança–de o–Levi disse YHWH dos–Exércitos
+-- c2-v9: E–também eu vos–fiz (a)–vós desprezados e–baixos para–todo o–povo conforme que não–estais guardando (a) meus–caminhos e–fazendo–aceitação–de faces na–lei ¶
+-- c2-v10: Não–é pai um para–todos–nós Não–é Deus um nos–criou Por–que trairá homem contra–seu–irmão para–profanar a–aliança–de nossos–pais
+-- c2-v11: Traiu Yehudah e–abominação foi–feita em–Yisra'el e–em–Yerushalayim pois profanou Yehudah a–santidade–de YHWH que amou e–desposou filha–de deus estranho
+-- c2-v12: Cortará YHWH ao–homem que fizer–isto desperto e–respondendo das–tendas–de Ya'aqov e–o–que–oferece oferta a–YHWH dos–Exércitos ¶
+-- c2-v13: E–isto segunda–vez fareis cobrindo–de lágrimas (a) o–altar–de YHWH choro e–gemido de–não–haver mais volver–se para a–oferta e–para–receber favor de–vossa–mão
+-- c2-v14: E–dissestes Por quê Por que YHWH testemunhou entre–ti e–entre a–mulher–de tua–juventude contra–a–qual tu traíste contra–ela e–ela tua–companheira e–mulher–de tua–aliança
+-- c2-v15: E–não um fez e–resto–de espírito a–ele E–que o–um busca semente–de Deus E–guardai–vos em–vosso–espírito e–contra–a–mulher–de tua–juventude não traias
+-- c2-v16: Pois odeia repudiar disse YHWH Deus–de Yisra'el e–cobre–de violência sobre sua–veste disse YHWH dos–Exércitos E–guardai–vos em–vosso–espírito e–não traireis §
+-- c2-v17: Cansastes YHWH com–vossas–palavras E–dissestes Em–quê cansamos Ao–dizerdes Todo que–faz mal bom aos–olhos–de YHWH e–neles ele se–agrada Ou onde o–Deus–de o–justiça
+-- c3-v1: Eis–me enviando meu–mensageiro e–preparará caminho diante–de–mim e–subitamente virá a seu–templo o–Senhor que vós buscais e–o–mensageiro–de a–aliança que vós desejais Eis vem disse YHWH dos–Exércitos
+-- c3-v2: E–quem suportará (a) o–dia–de sua–vinda E–quem o–que–fica–de–pé ao–seu–aparecer Pois ele como–fogo–de refinador e–como–sabão–de lavadores
+-- c3-v3: E–sentar–se–á refinando e–purificando prata e–purificará (a) os–filhos–de Levi e–refinando–os (a)–eles como–o–ouro e–como–a–prata e–serão para–YHWH oferecendo oferta em–justiça
+-- c3-v4: E–será–agradável a–YHWH a–oferta–de Yehudah e–Yerushalayim como–nos–dias–de antiguidade e–como–os–anos antigos
+-- c3-v5: E–aproximar–me–ei a–vós para–o–juízo e–serei testemunha rápida contra–os–feiticeiros e–contra–os–adúlteros e–contra–os–que–juram para–a–mentira e–contra–os–que–oprimem o–salário–de trabalhador viúva e–órfão e–os–que–torcem–o–direito–de estrangeiro e–não me–temem disse YHWH dos–Exércitos
+-- c3-v6: Pois eu YHWH não mudei e–vós filhos–de Ya'aqov não fostes–consumidos
+-- c3-v7: Desde–os–dias–de vossos–pais vos–desviastes de–meus–decretos e–não os–guardastes Voltai a–mim e–voltarei a–vós disse YHWH dos–Exércitos E–dissestes Em–quê voltaremos
+-- c3-v8: Acaso–roubará homem Deus Pois vós estais–roubando (a)–mim E–dissestes Em–quê te–roubamos O–dízimo e–a–oferta–alçada
+-- c3-v9: Com–a–maldição vós estais–amaldiçoados e–(a)–mim vós estais–roubando a–nação toda–ela
+-- c3-v10: Trazei (a) todo o–dízimo para a–casa–de o–tesouro e–haja mantimento em–minha–casa e–provai–me por–favor nisto disse YHWH dos–Exércitos se não abrirei a–vós (a) as–janelas–de o–céu e–derramarei a–vós bênção até não bastar
+-- c3-v11: E–repreenderei por–vós o–devorador e–não destruirá a–vós (a) o–fruto–de a–terra e–não abortará a–vós a–vide no–campo disse YHWH dos–Exércitos
+-- c3-v12: E–chamar–vos–ão–felizes (a)–vós todas as–nações porque sereis vós terra–de deleite disse YHWH dos–Exércitos §
+-- c3-v13: Forçaram–se contra–mim vossas–palavras disse YHWH E–dissestes O–quê falamos contra–ti
+-- c3-v14: Dissestes Vaidade servir Deus e–o–quê lucro que guardamos sua–ordem e–que andamos enlutados diante–de YHWH dos–Exércitos
+-- c3-v15: E–agora nós chamamos–felizes os–soberbos Também são–edificados os–que–fazem maldade também provaram Deus e–escaparam
+-- c3-v16: Então falaram os–que–temem YHWH homem com seu–próximo e–atentou YHWH e–ouviu e–foi–escrito livro–de memória diante–dele para–os–que–temem YHWH e–para–os–que–pensam–em seu–nome
+-- c3-v17: E–serão para–mim disse YHWH dos–Exércitos no–dia que eu faço tesouro–especial e–terei–compaixão sobre–eles como tem–compaixão homem sobre seu–filho que–o–serve (a)–ele
+-- c3-v18: E–retornareis e–vereis entre justo para–ímpio entre o–que–serve Deus para–o–que não o–serviu §
+-- c4-v1: Pois eis o–dia vem queimando como–o–forno e–serão todos os–soberbos e–todos os–que–fazem maldade palha e–consumirá (a)–eles o–dia que–vem disse YHWH dos–Exércitos que não deixará a–eles raiz e–ramo
+-- c4-v2: E–nascerá a–vós os–que–temem meu–nome sol–de justiça e–cura em–suas–asas e–saireis e–saltareis como–bezerros–de engorda
+-- c4-v3: E–pisareis os–ímpios pois serão cinzas debaixo–de as–solas–de vossos–pés no–dia que eu faço disse YHWH dos–Exércitos ¶
+-- c4-v4: Lembrai–vos da–lei–de Mosheh meu–servo que ordenei a–ele em–Horev sobre todo Yisra'el decretos e–ordenanças
+-- c4-v5: Eis eu enviando a–vós (a) Eliyyahu o–profeta antes–de vir o–dia–de YHWH o–grande e–o–terrível
+-- c4-v6: E–fará–voltar o–coração–de pais para os–filhos e–o–coração–de filhos para seus–pais para–que–não eu–venha e–fira (a) a–terra com–destruição–total
 
 BEGIN;
 -- 3900100101: מַשָּׂ֥א (H4853b) → "Oráculo" [opus-4.5-chirho]

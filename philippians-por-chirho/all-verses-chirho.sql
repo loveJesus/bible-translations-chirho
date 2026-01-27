@@ -3,112 +3,112 @@
 -- — John 3:16
 
 -- PHILIPPIANS - POR Combined
--- Generated: 2026-01-27T21:47:49Z
+-- Generated: 2026-01-27T22:21:51Z
 
--- PHILIPPIANS c1-v1 - POR
--- PHILIPPIANS c1-v2 - POR
--- PHILIPPIANS c1-v3 - POR
--- PHILIPPIANS c1-v4 - POR
--- PHILIPPIANS c1-v5 - POR
--- PHILIPPIANS c1-v6 - POR
--- PHILIPPIANS c1-v7 - POR
--- PHILIPPIANS c1-v8 - POR
--- PHILIPPIANS c1-v9 - POR
--- PHILIPPIANS c1-v10 - POR
--- PHILIPPIANS c1-v11 - POR
--- PHILIPPIANS c1-v12 - POR
--- PHILIPPIANS c1-v13 - POR
--- PHILIPPIANS c1-v14 - POR
--- PHILIPPIANS c1-v15 - POR
--- PHILIPPIANS c1-v16 - POR
--- PHILIPPIANS c1-v17 - POR
--- PHILIPPIANS c1-v18 - POR
--- PHILIPPIANS c1-v19 - POR
--- PHILIPPIANS c1-v20 - POR
--- PHILIPPIANS c1-v21 - POR
--- PHILIPPIANS c1-v22 - POR
--- PHILIPPIANS c1-v23 - POR
--- PHILIPPIANS c1-v24 - POR
--- PHILIPPIANS c1-v25 - POR
--- PHILIPPIANS c1-v26 - POR
--- PHILIPPIANS c1-v27 - POR
--- PHILIPPIANS c1-v28 - POR
--- PHILIPPIANS c1-v29 - POR
--- PHILIPPIANS c1-v30 - POR
--- PHILIPPIANS c2-v1 - POR
--- PHILIPPIANS c2-v2 - POR
--- PHILIPPIANS c2-v3 - POR
--- PHILIPPIANS c2-v4 - POR
--- PHILIPPIANS c2-v5 - POR
--- PHILIPPIANS c2-v6 - POR
--- PHILIPPIANS c2-v7 - POR
--- PHILIPPIANS c2-v8 - POR
--- PHILIPPIANS c2-v9 - POR
--- PHILIPPIANS c2-v10 - POR
--- PHILIPPIANS c2-v11 - POR
--- PHILIPPIANS c2-v12 - POR
--- PHILIPPIANS c2-v13 - POR
--- PHILIPPIANS c2-v14 - POR
--- PHILIPPIANS c2-v15 - POR
--- PHILIPPIANS c2-v16 - POR
--- PHILIPPIANS c2-v17 - POR
--- PHILIPPIANS c2-v18 - POR
--- PHILIPPIANS c2-v19 - POR
--- PHILIPPIANS c2-v20 - POR
--- PHILIPPIANS c2-v21 - POR
--- PHILIPPIANS c2-v22 - POR
--- PHILIPPIANS c2-v23 - POR
--- PHILIPPIANS c2-v24 - POR
--- PHILIPPIANS c2-v25 - POR
--- PHILIPPIANS c2-v26 - POR
--- PHILIPPIANS c2-v27 - POR
--- PHILIPPIANS c2-v28 - POR
--- PHILIPPIANS c2-v29 - POR
--- PHILIPPIANS c2-v30 - POR
--- PHILIPPIANS c3-v1 - POR
--- PHILIPPIANS c3-v2 - POR
--- PHILIPPIANS c3-v3 - POR
--- PHILIPPIANS c3-v4 - POR
--- PHILIPPIANS c3-v5 - POR
--- PHILIPPIANS c3-v6 - POR
--- PHILIPPIANS c3-v7 - POR
--- PHILIPPIANS c3-v8 - POR
--- PHILIPPIANS c3-v9 - POR
--- PHILIPPIANS c3-v10 - POR
--- PHILIPPIANS c3-v11 - POR
--- PHILIPPIANS c3-v12 - POR
--- PHILIPPIANS c3-v13 - POR
--- PHILIPPIANS c3-v14 - POR
--- PHILIPPIANS c3-v15 - POR
--- PHILIPPIANS c3-v16 - POR
--- PHILIPPIANS c3-v17 - POR
--- PHILIPPIANS c3-v18 - POR
--- PHILIPPIANS c3-v19 - POR
--- PHILIPPIANS c3-v20 - POR
--- PHILIPPIANS c3-v21 - POR
--- PHILIPPIANS c4-v1 - POR
--- PHILIPPIANS c4-v2 - POR
--- PHILIPPIANS c4-v3 - POR
--- PHILIPPIANS c4-v4 - POR
--- PHILIPPIANS c4-v5 - POR
--- PHILIPPIANS c4-v6 - POR
--- PHILIPPIANS c4-v7 - POR
--- PHILIPPIANS c4-v8 - POR
--- PHILIPPIANS c4-v9 - POR
--- PHILIPPIANS c4-v10 - POR
--- PHILIPPIANS c4-v11 - POR
--- PHILIPPIANS c4-v12 - POR
--- PHILIPPIANS c4-v13 - POR
--- PHILIPPIANS c4-v14 - POR
--- PHILIPPIANS c4-v15 - POR
--- PHILIPPIANS c4-v16 - POR
--- PHILIPPIANS c4-v17 - POR
--- PHILIPPIANS c4-v18 - POR
--- PHILIPPIANS c4-v19 - POR
--- PHILIPPIANS c4-v20 - POR
--- PHILIPPIANS c4-v21 - POR
--- PHILIPPIANS c4-v22 - POR
--- PHILIPPIANS c4-v23 - POR
+-- c1-v1: Paulo e Timóteo servos de–Cristo Jesus a–todos os santos em Cristo Jesus os que–estão em Filipos com bispos e diáconos
+-- c1-v2: graça a–vós e paz de Deus Pai nosso e do–Senhor Jesus Cristo
+-- c1-v3: Dou–graças ao Deus meu em toda a lembrança de–vós
+-- c1-v4: sempre em toda súplica minha por todos vós com alegria a oração fazendo
+-- c1-v5: pela a comunhão vossa para o evangelho desde o primeiro dia até o agora
+-- c1-v6: confiante nisto mesmo que o que–começou em vós obra boa completará até o–dia de–Cristo Jesus
+-- c1-v7: assim–como é justo a–mim isto pensar acerca–de todos vós por o ter me no o coração vós em tanto as prisões minhas como na a defesa e confirmação do evangelho co–participantes meus da graça todos vós sendo
+-- c1-v8: testemunha pois minha o Deus como anseio por–todos vós nas entranhas de–Cristo Jesus
+-- c1-v9: e isto oro para–que o amor vosso ainda mais e mais transborde em conhecimento e toda discernimento
+-- c1-v10: para o aprovar vós as–coisas excelentes para–que sejais sinceros e irrepreensíveis para o–dia de–Cristo
+-- c1-v11: cheios de–fruto de–justiça o por–meio–de Jesus Cristo para glória e louvor de–Deus
+-- c1-v12: saber porém vós quero irmãos que as–coisas concernentes–a mim antes para progresso do evangelho vieram
+-- c1-v13: de–modo–que as prisões minhas manifestas em Cristo tornaram–se em todo o pretório e aos demais todos
+-- c1-v14: e a–maioria dos dos irmãos no Senhor confiando nas prisões minhas mais–abundantemente ousarem sem–medo a palavra de Deus falar
+-- c1-v15: alguns de–fato também por inveja e contenda alguns porém também por boa–vontade a Cristo pregam
+-- c1-v16: os de–fato por amor sabendo que para defesa do evangelho estou–posto
+-- c1-v17: os porém por ambição–egoísta a Cristo anunciam não puramente pensando tribulação suscitar nas prisões minhas
+-- c1-v18: que pois contudo que de–toda maneira quer por–pretexto quer em–verdade Cristo é–anunciado e nisto me–alegro me–alegro mas também alegrarei
+-- c1-v19: sei pois que isto a–mim resultará em salvação por–meio–de a vossa oração e provisão do Espírito de–Jesus Cristo
+-- c1-v20: conforme a ardente–expectativa e esperança minha que em nada serei–envergonhado mas em toda ousadia como sempre também agora será–engrandecido Cristo no o corpo meu quer por vida quer por morte
+-- c1-v21: para–mim pois o viver é–Cristo e o morrer é–ganho
+-- c1-v22: se porém o viver na carne isto para–mim fruto de–obra e que escolherei não sei
+-- c1-v23: estou–constrangido porém pelos os dois o desejo tendo para o partir e com Cristo estar muito pois mais melhor
+-- c1-v24: o porém permanecer na a carne mais–necessário por–causa–de vós
+-- c1-v25: e nisto confiante sei que permanecerei e continuarei com–todos vós para o vosso progresso e alegria da fé
+-- c1-v26: para–que a glória vossa transborde em Cristo Jesus em mim pela a minha presença de–novo junto–a vós
+-- c1-v27: somente dignamente do evangelho de Cristo vivei para–que quer indo e vendo vós quer ausente ouça as–coisas acerca–de vós que permaneceis–firmes em um–só espírito com–uma alma combatendo–juntos pela fé do evangelho
+-- c1-v28: e não intimidados em nada pelos os adversários o–que é para–eles prova de–perdição de–vós porém de–salvação e isto da–parte–de Deus
+-- c1-v29: porque a–vós foi–concedido o por Cristo não somente o nele crer crer mas também o por ele sofrer
+-- c1-v30: o mesmo combate tendo qual vistes em mim e agora ouvis em mim
+-- c2-v1: se alguma pois exortação em Cristo se algum consólo de–amor se alguma comunhão do–Espírito se algumas entranhas e compaixões
+-- c2-v2: completai a–minha a alegria para–que o mesmo penseis o mesmo amor tendo unidos–em–alma o um pensando
+-- c2-v3: nada por ambição–egoísta nem por vangloria mas com–a humildade uns–aos–outros considerando superiores a–si–mesmos
+-- c2-v4: não as próprias–coisas cada–um olhando mas também as dos–outros cada–um
+-- c2-v5: isto pensai em vós que também em Cristo Jesus
+-- c2-v6: o–qual em forma de–Deus existindo não usurpação considerou o ser igual a–Deus
+-- c2-v7: mas a–si–mesmo esvaziou forma de–servo tomando em semelhança de–homens tornando–se
+-- c2-v8: e em–aparência sendo–achado como homem humilhou a–si–mesmo tornando–se obediente até morte morte porém de–cruz
+-- c2-v9: por–isso também o Deus o exaltou–soberanamente e concedeu a–ele o nome o acima–de todo nome
+-- c2-v10: para–que ao o nome de–Jesus todo joelho se–dobre dos–celestiais e dos–terrestres e dos–infernais
+-- c2-v11: e toda língua confesse que SENHOR é–JESUS CRISTO para glória de–Deus Pai
+-- c2-v12: portanto amados meus assim–como sempre obedecestes não como na a presença minha somente mas agora muito mais na a ausência minha com temor e tremor a própria salvação operai
+-- c2-v13: Deus pois é o que–opera em vós tanto o querer como o realizar segundo a boa–vontade
+-- c2-v14: todas–as–coisas fazei sem murmurações e discussões
+-- c2-v15: para–que vos–torneis irrepreensíveis e puros filhos de–Deus sem–mácula no–meio de–uma–geração perversa e corrupta entre os–quais apareceis como luminares no mundo
+-- c2-v16: a–palavra da–vida retendo para motivo–de–glória a–mim no dia de–Cristo de–que não em vão corri nem em vão trabalhei
+-- c2-v17: mas ainda–que também sou–derramado sobre o sacrifício e serviço da fé vossa me–alegro e me–congratulo com–todos vós
+-- c2-v18: o porém mesmo também vós alegrai–vos e congratulai–vos comigo
+-- c2-v19: espero porém no Senhor Jesus Timóteo em–breve enviar a–vós para–que eu–também fique–animado conhecendo as–coisas acerca–de vós
+-- c2-v20: ninguém pois tenho de–igual–ânimo que genuinamente as–coisas acerca–de vós cuidará
+-- c2-v21: os todos pois as próprias–coisas buscam não as de–Cristo Jesus
+-- c2-v22: a porém provação dele conheceis que como a–pai filho comigo comigo serviu para o evangelho
+-- c2-v23: a–este de–fato pois espero enviar assim–que porventura veja as–coisas acerca–de mim imediatamente
+-- c2-v24: confio porém no Senhor que também eu–mesmo em–breve irei
+-- c2-v25: necessário porém julguei Epafrodito o irmão e cooperador e companheiro–de–armas meu vosso porém enviado e ministro da necessidade minha enviar a vós
+-- c2-v26: visto–que ansiando estava por–todos vós ver e angustiado porque ouvistes que adoeceu
+-- c2-v27: e de–fato adoeceu perto da–morte mas o Deus teve–misericórdia dele não dele porém somente mas também de–mim para–que não tristeza sobre tristeza eu–tivesse
+-- c2-v28: mais–prontamente pois o–enviei ele para–que vendo ele de–novo vos–alegreis e–eu–também menos–triste esteja
+-- c2-v29: recebei–o pois ele no Senhor com toda alegria e os tais em–honra tende
+-- c2-v30: porque por–causa–de a obra de–Cristo até morte chegou arriscando a vida para–que suprisse a vossa falta no para–comigo me serviço
+-- c3-v1: o restante irmãos meus alegrai–vos no Senhor as mesmas–coisas escrever a–vós a–mim de–fato não é–penoso a–vós porém é–seguro
+-- c3-v2: acautelai–vos dos cães acautelai–vos dos maus obreiros acautelai–vos da mutilação
+-- c3-v3: nós pois somos a circuncisão os pelo–Espírito de–Deus que–servem e que–se–gloriam em Cristo Jesus e não na carne confiando
+-- c3-v4: embora eu tendo confiança também na carne se alguém pensa outro confiar na carne eu mais
+-- c3-v5: circuncidado ao–oitavo–dia da linhagem de–Israel da–tribo de–Benjamim hebreu de hebreus segundo a–lei fariseu
+-- c3-v6: segundo o–zelo perseguindo a igreja segundo a–justiça a na lei tornando–me irrepreensível
+-- c3-v7: mas o–que era para–mim ganho isto considerei por–causa–de o Cristo perda
+-- c3-v8: mas na–verdade pois até também considero todas–as–coisas perda serem por–causa–da a excelência do conhecimento de–Cristo Jesus o Senhor meu por–quem quem as todas–as–coisas perdi e considero refugo para–que a–Cristo eu–ganhe
+-- c3-v9: e seja–achado nele nele não tendo minha justiça a da lei mas a por fé em–Cristo a de Deus justiça sobre a fé
+-- c3-v10: do conhecer ele e o poder da ressurreição dele e a comunhão dos sofrimentos dele sendo–conformado à morte dele
+-- c3-v11: se de–algum–modo eu–chegue à a ressurreição a dentre os–mortos
+-- c3-v12: não que já tenha–obtido ou já tenha–sido–aperfeiçoado mas–prossigo porém se porventura eu–alcance sobre o–qual também fui–alcançado por Cristo Jesus
+-- c3-v13: irmãos eu a–mim–mesmo não considero ter–alcançado uma–coisa porém as–coisas de–fato que–estão–atrás esquecendo para–as porém que–estão–adiante avançando
+-- c3-v14: em–direção–ao alvo prossigo para o prêmio da suprema vocação de Deus em Cristo Jesus
+-- c3-v15: quantos pois perfeitos isto pensemos e se em–algo diferentemente pensais também isto o Deus a–vós revelará
+-- c3-v16: contudo até onde chegamos pela mesma andar regra o mesmo pensar
+-- c3-v17: sede–imitadores meus tornai–vos irmãos e observai os assim que–andam conforme tendes exemplo nós
+-- c3-v18: muitos pois andam dos–quais muitas–vezes vos–dizia a–vós agora porém até chorando digo os inimigos da cruz de Cristo
+-- c3-v19: cujo o fim é–perdição cujo o deus é–o ventre e a glória na a vergonha deles os as–coisas terrenas que–pensam
+-- c3-v20: nossa pois a cidadania nos céus está de–onde de–onde também Salvador aguardamos o–Senhor Jesus Cristo
+-- c3-v21: o–qual transformará o corpo da humilhação nossa conforme ao corpo da glória dele segundo a operação do poder dele até sujeitar a–si todas–as coisas
+-- c4-v1: portanto irmãos meus amados e saudosos alegria e coroa minha assim permanecei–firmes no Senhor amados
+-- c4-v2: a–Evódia exorto e a–Síntique exorto o mesmo pensar no Senhor
+-- c4-v3: sim rogo também a–ti verdadeiro companheiro ajuda a–elas as–quais no o evangelho lutaram–junto comigo junto–com também Clemente e os demais cooperadores meus cujos os nomes no livro da–vida
+-- c4-v4: alegrai–vos no Senhor sempre de–novo direi alegrai–vos
+-- c4-v5: a moderação vossa seja–conhecida por–todos os–homens o Senhor está–perto
+-- c4-v6: por–nada estejais–ansiosos mas em tudo pela oração e pela súplica com ação–de–graças os pedidos vossos sejam–conhecidos diante–de o Deus
+-- c4-v7: e a paz de Deus a que–excede todo entendimento guardará os corações vossos e os pensamentos vossos em Cristo Jesus
+-- c4-v8: quanto–ao mais irmãos tudo–o–que é verdadeiro tudo–o–que é–respeitável tudo–o–que é–justo tudo–o–que é–puro tudo–o–que é–amável tudo–o–que é–de–boa–fama se alguma virtude e se algum louvor nestas–coisas pensai
+-- c4-v9: o–que também aprendestes e recebestes e ouvistes e vistes em mim estas–coisas praticai e o Deus da paz estará convosco vós
+-- c4-v10: alegrei–me porém no Senhor grandemente que já agora reflorescestes o de mim cuidar em que também cuidáveis mas–faltava–oportunidade porém
+-- c4-v11: não que por necessidade digo eu pois aprendi em qualquer–situação estou contente estar
+-- c4-v12: sei tanto ser–humilhado sei também ter–abundância em toda e em todas–as–circunstâncias tenho–aprendido–o–segredo tanto de–fartar–me como de–ter–fome tanto de–ter–abundância como de–sofrer–necessidade
+-- c4-v13: tudo posso naquele que me–fortalece me
+-- c4-v14: contudo bem fizestes participando da–minha na tribulação
+-- c4-v15: sabeis porém também vós filipenses que no princípio do evangelho quando saí da Macedônia nenhuma comigo igreja compartilhou em matéria de–dar e de–receber se–não não vós sós
+-- c4-v16: porque também em Tessalônica tanto uma–vez como duas–vezes para a necessidade a–mim enviastes
+-- c4-v17: não que busco a dádiva mas busco o fruto o que–aumenta para conta vossa
+-- c4-v18: tenho–recebido porém tudo e tenho–abundância estou–cheio tendo–recebido de Epafrodito as–coisas de vós aroma suave sacrifício agradável agradabilíssimo a Deus
+-- c4-v19: o porém Deus meu suprirá toda necessidade vossa segundo as riquezas dele em glória em Cristo Jesus
+-- c4-v20: ao porém Deus e Pai nosso seja–a glória pelos os séculos dos séculos amém
+-- c4-v21: saudai a–todo santo em Cristo Jesus saúdam–vos vós os comigo comigo irmãos
+-- c4-v22: saúdam–vos vós todos os santos especialmente porém os da a de–César casa
+-- c4-v23: a graça do Senhor Jesus Cristo com o espírito vosso amém
 
 BEGIN;
 -- 5000100101: Παῦλος (G3972) → "Paulo" [opus-4.5-chirho]

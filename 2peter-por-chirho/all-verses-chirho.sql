@@ -3,69 +3,69 @@
 -- — John 3:16
 
 -- 2PETER - POR Combined
--- Generated: 2026-01-27T21:46:26Z
+-- Generated: 2026-01-27T22:19:32Z
 
--- 2PETER c1-v1 - POR
--- 2PETER c1-v2 - POR
--- 2PETER c1-v3 - POR
--- 2PETER c1-v4 - POR
--- 2PETER c1-v5 - POR
--- 2PETER c1-v6 - POR
--- 2PETER c1-v7 - POR
--- 2PETER c1-v8 - POR
--- 2PETER c1-v9 - POR
--- 2PETER c1-v10 - POR
--- 2PETER c1-v11 - POR
--- 2PETER c1-v12 - POR
--- 2PETER c1-v13 - POR
--- 2PETER c1-v14 - POR
--- 2PETER c1-v15 - POR
--- 2PETER c1-v16 - POR
--- 2PETER c1-v17 - POR
--- 2PETER c1-v18 - POR
--- 2PETER c1-v19 - POR
--- 2PETER c1-v20 - POR
--- 2PETER c1-v21 - POR
--- 2PETER c2-v1 - POR
--- 2PETER c2-v2 - POR
--- 2PETER c2-v3 - POR
--- 2PETER c2-v4 - POR
--- 2PETER c2-v5 - POR
--- 2PETER c2-v6 - POR
--- 2PETER c2-v7 - POR
--- 2PETER c2-v8 - POR
--- 2PETER c2-v9 - POR
--- 2PETER c2-v10 - POR
--- 2PETER c2-v11 - POR
--- 2PETER c2-v12 - POR
--- 2PETER c2-v13 - POR
--- 2PETER c2-v14 - POR
--- 2PETER c2-v15 - POR
--- 2PETER c2-v16 - POR
--- 2PETER c2-v17 - POR
--- 2PETER c2-v18 - POR
--- 2PETER c2-v19 - POR
--- 2PETER c2-v20 - POR
--- 2PETER c2-v21 - POR
--- 2PETER c2-v22 - POR
--- 2PETER c3-v1 - POR
--- 2PETER c3-v2 - POR
--- 2PETER c3-v3 - POR
--- 2PETER c3-v4 - POR
--- 2PETER c3-v5 - POR
--- 2PETER c3-v6 - POR
--- 2PETER c3-v7 - POR
--- 2PETER c3-v8 - POR
--- 2PETER c3-v9 - POR
--- 2PETER c3-v10 - POR
--- 2PETER c3-v11 - POR
--- 2PETER c3-v12 - POR
--- 2PETER c3-v13 - POR
--- 2PETER c3-v14 - POR
--- 2PETER c3-v15 - POR
--- 2PETER c3-v16 - POR
--- 2PETER c3-v17 - POR
--- 2PETER c3-v18 - POR
+-- c1-v1: Simeão Pedro servo e apóstolo de–Jesus Cristo aos–que igual–preciosa a–nós obtiveram fé na justiça do Deus nosso e Salvador Jesus Cristo
+-- c1-v2: graça a–vós e paz sejam–multiplicadas no conhecimento de Deus e de–Jesus o Senhor nosso
+-- c1-v3: Como as todas–coisas a–nós do divino poder dele as para vida e piedade tendo–concedido através do conhecimento daquele–que chamou nos pela–própria glória e virtude
+-- c1-v4: por–meio–das quais as preciosas e grandíssimas a–nós promessas foram–dadas para–que por–meio destas vos–torneis da–divina participantes natureza tendo–escapado da na o mundo na concupiscência corrupção
+-- c1-v5: E mesmo isto porém diligência toda tendo–aplicado acrescentai na a fé vossa a virtude na porém a virtude o conhecimento
+-- c1-v6: no porém o conhecimento o domínio–próprio no porém o domínio–próprio a perseverança na porém a perseverança a piedade
+-- c1-v7: na porém a piedade o amor–fraternal no porém o amor–fraternal o amor
+-- c1-v8: Estas–coisas pois a–vós existindo e abundando não ociosos nem infrutíferos vos–tornam para o do Senhor nosso Jesus Cristo conhecimento
+-- c1-v9: a–quem pois não estão–presentes estas–coisas cego é míope esquecimento tendo–recebido da purificação dos antigos seus pecados
+-- c1-v10: Por–isso mais irmãos esforçai–vos firme vossa a vocação e eleição fazer estas–coisas pois fazendo não jamais tropeçareis nunca
+-- c1-v11: Assim pois ricamente será–suprida a–vós a entrada no o eterno reino do Senhor nosso e Salvador Jesus Cristo
+-- c1-v12: Por–isso estarei–pronto sempre a–vós lembrar acerca destas–coisas embora sabendo e firmados na a presente verdade
+-- c1-v13: Justo porém considero enquanto tanto–quanto estou neste este o tabernáculo despertar vos por lembrança
+-- c1-v14: sabendo que breve é a remoção do tabernáculo meu como também o Senhor nosso Jesus Cristo revelou me
+-- c1-v15: Esforçar–me–ei porém também a–cada–vez ter vos depois da minha partida a destas–coisas lembrança fazer
+-- c1-v16: Não pois engenhosas fábulas tendo–seguido fizemos–conhecer a–vós a do Senhor nosso Jesus Cristo poder e vinda mas testemunhas–oculares tendo–nos–tornado da daquele majestade
+-- c1-v17: tendo–recebido pois de Deus Pai honra e glória voz tendo–sido–trazida a–ele tal pela a majestosa glória O Filho meu o amado meu este é em quem eu me–agradei
+-- c1-v18: E esta a voz nós ouvimos do céu trazida com ele estando no o santo monte
+-- c1-v19: E temos mais–firme a profética palavra à–qual bem fazeis atendendo como a–uma–lâmpada brilhando em escuro lugar até que o–dia amanheça e a–estrela–da–manhã nasça nos os corações vossos
+-- c1-v20: isto primeiro sabendo que toda profecia da–Escritura própria interpretação não provém
+-- c1-v21: Não pois por–vontade de–homem foi–trazida profecia jamais mas pelo Espírito Santo movidos falaram de Deus homens
+-- c2-v1: Surgiram porém também falsos–profetas entre o povo como também entre vós haverá falsos–mestres os–quais introduzirão heresias de–perdição e o que–os–comprou eles Soberano negando trazendo sobre–si–mesmos repentina destruição
+-- c2-v2: E muitos seguirão deles as devassidões por–causa–de quem o caminho da verdade será–blasfemado
+-- c2-v3: E por avarícia fingidas palavras de–vós farão–comércio para–os–quais o juízo desde–há–muito não está–inativo e a destruição deles não dormita
+-- c2-v4: Se pois o Deus anjos que–pecaram não poupou mas a–cadeias de–trevas tendo–lançado–ao–Tártaro entregou para juízo sendo–reservados
+-- c2-v5: e o–antigo mundo não poupou mas o–oitavo Noé da–justiça pregador preservou dilúvio ao–mundo de–ímpios tendo–trazido
+-- c2-v6: e as–cidades de–Sodoma e de–Gomorra tendo–reduzido–a–cinzas à–destruição condenou exemplo aos–que–estão–para viver–impiamente tendo–posto
+-- c2-v7: e o–justo Ló oprimido pela a dos ímpios em devassidão conduta livrou
+-- c2-v8: pela–vista pois e pelo–ouvido o justo habitando entre eles dia após dia a–alma justa pelas–ilegais obras atormentava
+-- c2-v9: Sabe o–Senhor os–piedosos de tentação livrar os–injustos porém para o–dia de–juízo sendo–punidos guardar
+-- c2-v10: especialmente porém os após a–carne em concupiscência de–contaminação andando e do–senhorio desprezando Atrevidos arrogantes gloriosos não tremem blasfemando
+-- c2-v11: onde anjos em–força e em–poder maiores sendo não proferem contra eles perante o–Senhor blasfemo juízo
+-- c2-v12: Estes porém como irracionais animais nascidos naturais para captura e destruição nas–coisas–que que ignoram blasfemando na a corrupção deles também serão–corrompidos
+-- c2-v13: sofrendo–injustiça como–salário da–injustiça prazer considerando o de dia delícia manchas e defeitos deleitando–se nos os enganos deles banqueteando–se convosco
+-- c2-v14: olhos tendo cheios de–adúltera e incansáveis de–pecado seduzindo almas instáveis coração exercitado na–avarícia tendo de–maldição filhos
+-- c2-v15: tendo–abandonado o–reto caminho extraviaram–se tendo–seguido o caminho de Balaão o–de Bosor o–qual salário de–injustiça amou
+-- c2-v16: reprovação porém teve da–própria transgressão animal–de–carga mudo com de–homem voz tendo–falado impediu a do profeta loucura
+-- c2-v17: Estes são fontes sem–água e névoas por tempestade impelidas para–os–quais a escuridão das trevas está–reservada
+-- c2-v18: arrogantes pois de–vaidade proferindo seduzem com concupiscências da–carne devassidões os–que recentemente estão–escapando os–que em erro vivem
+-- c2-v19: liberdade a–eles prometendo eles–mesmos escravos sendo da corrupção por–quem pois alguém foi–vencido a–este também foi–escravizado
+-- c2-v20: Se pois tendo–escapado das contaminações do mundo pelo conhecimento do Senhor nosso e Salvador Jesus Cristo nestas porém de–novo tendo–sido–enredados são–vencidos tornou–se a–eles o último–estado pior do–que–o primeiro
+-- c2-v21: Melhor pois era a–eles não ter–conhecido o caminho da justiça do–que tendo–conhecido voltar–atrás do o que–lhes–foi–entregue a–eles santo mandamento
+-- c2-v22: Aconteceu–lhes a–eles o do verdadeiro provérbio Cão tendo–voltado ao o seu–próprio vômito e Porca tendo–se–lavado ao revolver–se na–lama
+-- c3-v1: Esta já amados segunda a–vós escrevo carta nas quais desperto vossa por lembrança a sincera mente
+-- c3-v2: para–lembrar das ditas–anteriormente palavras pelos os santos profetas e do dos apóstolos vossos mandamento do Senhor e Salvador
+-- c3-v3: isto primeiro sabendo que virão nos últimos dos dias com zombaria zombadores segundo as próprias concupiscências deles andando
+-- c3-v4: e dizendo Onde está a promessa da vinda dele desde que pois os pais adormeceram todas–coisas assim permanecem desde o–princípio da–criação
+-- c3-v5: Porque–escapa pois a–eles isto querendo que os–céus existiam desde–há–muito e a–terra da água e através da–água subsistindo pela a de–Deus palavra
+-- c3-v6: por–meio das–quais o de–então mundo com–água tendo–sido–inundado pereceu
+-- c3-v7: Os porém agora céus e a terra pela mesma palavra entesourados estão para–o–fogo sendo–reservados para o–dia do–juízo e destruição dos ímpios homens
+-- c3-v8: Uma–coisa porém esta não vos–esqueça a–vós amados que um dia para o–Senhor é–como mil anos e mil anos como dia um
+-- c3-v9: Não retarda o–Senhor a promessa como alguns lentidão consideram mas é–longanimamente–paciente para–convosco vós não querendo que–alguns pereçam mas todos ao arrependimento cheguem
+-- c3-v10: Virá porém o–dia do–Senhor como ladrão no qual os céus com–grande–estrondo passarão e–os–elementos porém ardendo serão–dissolvidos e a–terra e as nela as obras serão–encontradas
+-- c3-v11: Estas–coisas assim todas sendo–dissolvidas quais convém ser vós em santas condutas e piedades
+-- c3-v12: esperando e apressando a vinda do de Deus dia por–causa–do qual os–céus em–chamas serão–dissolvidos e os–elementos ardendo se–derreterão
+-- c3-v13: Novos porém céus e terra nova segundo a promessa dele esperamos nos quais justiça habita
+-- c3-v14: Por–isso amados estas–coisas esperando esforçai–vos imaculados e irrepreensíveis a–ele ser–encontrados em paz
+-- c3-v15: E a do Senhor nosso longanimidade salvação considerai assim–como também o amado nosso irmão Paulo segundo a dada a–ele sabedoria escreveu a–vós
+-- c3-v16: como também em todas as cartas falando nelas delas acerca destas–coisas nas quais há algumas–coisas–difíceis–de–entender algumas as–quais os ignorantes e instáveis distorcem como também as demais Escrituras para a própria deles destruição
+-- c3-v17: Vós portanto amados sabendo–de–antemão guardai–vos para–que não pelo dos ímpios erro sendo–levados–junto caiais da própria firmeza
+-- c3-v18: Crescei porém na graça e no–conhecimento do Senhor nosso e Salvador Jesus Cristo A–ele a glória tanto agora como para o–dia da–eternidade Amém
 
 BEGIN;
 -- 6100100101: Συμεὼν (G4826) → "Simeão" [opus-4.5-chirho]

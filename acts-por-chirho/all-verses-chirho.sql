@@ -3,701 +3,701 @@
 -- — John 3:16
 
 -- ACTS - POR Combined
--- Generated: 2026-01-27T21:46:30Z
+-- Generated: 2026-01-27T22:19:38Z
 
--- ACTS c1-v1 - POR
--- ACTS c1-v2 - POR
--- ACTS c1-v3 - POR
--- ACTS c1-v4 - POR
--- ACTS c1-v5 - POR
--- ACTS c1-v6 - POR
--- ACTS c1-v7 - POR
--- ACTS c1-v8 - POR
--- ACTS c1-v9 - POR
--- ACTS c1-v10 - POR
--- ACTS c1-v11 - POR
--- ACTS c1-v12 - POR
--- ACTS c1-v13 - POR
--- ACTS c1-v14 - POR
--- ACTS c1-v15 - POR
--- ACTS c1-v16 - POR
--- ACTS c1-v17 - POR
--- ACTS c1-v18 - POR
--- ACTS c1-v19 - POR
--- ACTS c1-v20 - POR
--- ACTS c1-v21 - POR
--- ACTS c1-v22 - POR
--- ACTS c1-v23 - POR
--- ACTS c1-v24 - POR
--- ACTS c1-v25 - POR
--- ACTS c1-v26 - POR
--- ACTS c2-v1 - POR
--- ACTS c2-v2 - POR
--- ACTS c2-v3 - POR
--- ACTS c2-v4 - POR
--- ACTS c2-v5 - POR
--- ACTS c2-v6 - POR
--- ACTS c2-v7 - POR
--- ACTS c2-v8 - POR
--- ACTS c2-v9 - POR
--- ACTS c2-v10 - POR
--- ACTS c2-v11 - POR
--- ACTS c2-v12 - POR
--- ACTS c2-v13 - POR
--- ACTS c2-v14 - POR
--- ACTS c2-v15 - POR
--- ACTS c2-v16 - POR
--- ACTS c2-v17 - POR
--- ACTS c2-v18 - POR
--- ACTS c2-v19 - POR
--- ACTS c2-v20 - POR
--- ACTS c2-v21 - POR
--- ACTS c2-v22 - POR
--- ACTS c2-v23 - POR
--- ACTS c2-v24 - POR
--- ACTS c2-v25 - POR
--- ACTS c2-v26 - POR
--- ACTS c2-v27 - POR
--- ACTS c2-v28 - POR
--- ACTS c2-v29 - POR
--- ACTS c2-v30 - POR
--- ACTS c2-v31 - POR
--- ACTS c2-v32 - POR
--- ACTS c2-v33 - POR
--- ACTS c2-v34 - POR
--- ACTS c2-v35 - POR
--- ACTS c2-v36 - POR
--- ACTS c2-v37 - POR
--- ACTS c2-v38 - POR
--- ACTS c2-v39 - POR
--- ACTS c2-v40 - POR
--- ACTS c2-v41 - POR
--- ACTS c2-v42 - POR
--- ACTS c2-v43 - POR
--- ACTS c2-v44 - POR
--- ACTS c2-v45 - POR
--- ACTS c2-v46 - POR
--- ACTS c2-v47 - POR
--- ACTS c3-v1 - POR
--- ACTS c3-v2 - POR
--- ACTS c3-v3 - POR
--- ACTS c3-v4 - POR
--- ACTS c3-v5 - POR
--- ACTS c3-v6 - POR
--- ACTS c3-v7 - POR
--- ACTS c3-v8 - POR
--- ACTS c3-v9 - POR
--- ACTS c3-v10 - POR
--- ACTS c3-v11 - POR
--- ACTS c3-v12 - POR
--- ACTS c3-v13 - POR
--- ACTS c3-v14 - POR
--- ACTS c3-v15 - POR
--- ACTS c3-v16 - POR
--- ACTS c3-v17 - POR
--- ACTS c3-v18 - POR
--- ACTS c3-v19 - POR
--- ACTS c3-v20 - POR
--- ACTS c3-v21 - POR
--- ACTS c3-v22 - POR
--- ACTS c3-v23 - POR
--- ACTS c3-v24 - POR
--- ACTS c3-v25 - POR
--- ACTS c3-v26 - POR
--- ACTS c4-v1 - POR
--- ACTS c4-v2 - POR
--- ACTS c4-v3 - POR
--- ACTS c4-v4 - POR
--- ACTS c4-v5 - POR
--- ACTS c4-v6 - POR
--- ACTS c4-v7 - POR
--- ACTS c4-v8 - POR
--- ACTS c4-v9 - POR
--- ACTS c4-v10 - POR
--- ACTS c4-v11 - POR
--- ACTS c4-v12 - POR
--- ACTS c4-v13 - POR
--- ACTS c4-v14 - POR
--- ACTS c4-v15 - POR
--- ACTS c4-v16 - POR
--- ACTS c4-v17 - POR
--- ACTS c4-v18 - POR
--- ACTS c4-v19 - POR
--- ACTS c4-v20 - POR
--- ACTS c4-v21 - POR
--- ACTS c4-v22 - POR
--- ACTS c4-v23 - POR
--- ACTS c4-v24 - POR
--- ACTS c4-v25 - POR
--- ACTS c4-v26 - POR
--- ACTS c4-v27 - POR
--- ACTS c4-v28 - POR
--- ACTS c4-v29 - POR
--- ACTS c4-v30 - POR
--- ACTS c4-v31 - POR
--- ACTS c4-v32 - POR
--- ACTS c4-v33 - POR
--- ACTS c4-v34 - POR
--- ACTS c4-v35 - POR
--- ACTS c4-v36 - POR
--- ACTS c4-v37 - POR
--- ACTS c7-v1 - POR
--- ACTS c7-v2 - POR
--- ACTS c7-v3 - POR
--- ACTS c7-v4 - POR
--- ACTS c7-v5 - POR
--- ACTS c7-v6 - POR
--- ACTS c7-v7 - POR
--- ACTS c7-v8 - POR
--- ACTS c7-v9 - POR
--- ACTS c7-v10 - POR
--- ACTS c7-v11 - POR
--- ACTS c7-v12 - POR
--- ACTS c7-v13 - POR
--- ACTS c7-v14 - POR
--- ACTS c7-v15 - POR
--- ACTS c7-v16 - POR
--- ACTS c7-v17 - POR
--- ACTS c7-v18 - POR
--- ACTS c7-v19 - POR
--- ACTS c7-v20 - POR
--- ACTS c7-v21 - POR
--- ACTS c7-v22 - POR
--- ACTS c7-v23 - POR
--- ACTS c7-v24 - POR
--- ACTS c7-v25 - POR
--- ACTS c7-v26 - POR
--- ACTS c7-v27 - POR
--- ACTS c7-v28 - POR
--- ACTS c7-v29 - POR
--- ACTS c7-v30 - POR
--- ACTS c7-v31 - POR
--- ACTS c7-v32 - POR
--- ACTS c7-v33 - POR
--- ACTS c7-v34 - POR
--- ACTS c7-v35 - POR
--- ACTS c7-v36 - POR
--- ACTS c7-v37 - POR
--- ACTS c7-v38 - POR
--- ACTS c7-v39 - POR
--- ACTS c7-v40 - POR
--- ACTS c7-v41 - POR
--- ACTS c7-v42 - POR
--- ACTS c7-v43 - POR
--- ACTS c7-v44 - POR
--- ACTS c7-v45 - POR
--- ACTS c7-v46 - POR
--- ACTS c7-v47 - POR
--- ACTS c7-v48 - POR
--- ACTS c7-v49 - POR
--- ACTS c7-v50 - POR
--- ACTS c7-v51 - POR
--- ACTS c7-v52 - POR
--- ACTS c7-v53 - POR
--- ACTS c7-v54 - POR
--- ACTS c7-v55 - POR
--- ACTS c7-v56 - POR
--- ACTS c7-v57 - POR
--- ACTS c7-v58 - POR
--- ACTS c7-v59 - POR
--- ACTS c7-v60 - POR
--- ACTS c8-v1 - POR
--- ACTS c8-v2 - POR
--- ACTS c8-v3 - POR
--- ACTS c8-v4 - POR
--- ACTS c8-v5 - POR
--- ACTS c8-v6 - POR
--- ACTS c8-v7 - POR
--- ACTS c8-v8 - POR
--- ACTS c8-v9 - POR
--- ACTS c8-v10 - POR
--- ACTS c8-v11 - POR
--- ACTS c8-v12 - POR
--- ACTS c8-v13 - POR
--- ACTS c8-v14 - POR
--- ACTS c8-v15 - POR
--- ACTS c8-v16 - POR
--- ACTS c8-v17 - POR
--- ACTS c8-v18 - POR
--- ACTS c8-v19 - POR
--- ACTS c8-v20 - POR
--- ACTS c8-v21 - POR
--- ACTS c8-v22 - POR
--- ACTS c8-v23 - POR
--- ACTS c8-v24 - POR
--- ACTS c8-v25 - POR
--- ACTS c8-v26 - POR
--- ACTS c8-v27 - POR
--- ACTS c8-v28 - POR
--- ACTS c8-v29 - POR
--- ACTS c8-v30 - POR
--- ACTS c8-v31 - POR
--- ACTS c8-v32 - POR
--- ACTS c8-v33 - POR
--- ACTS c8-v34 - POR
--- ACTS c8-v35 - POR
--- ACTS c8-v36 - POR
--- ACTS c8-v37 - POR
--- ACTS c8-v38 - POR
--- ACTS c8-v39 - POR
--- ACTS c8-v40 - POR
--- ACTS c9-v1 - POR
--- ACTS c9-v2 - POR
--- ACTS c9-v3 - POR
--- ACTS c9-v4 - POR
--- ACTS c9-v5 - POR
--- ACTS c9-v6 - POR
--- ACTS c9-v7 - POR
--- ACTS c9-v8 - POR
--- ACTS c9-v9 - POR
--- ACTS c9-v10 - POR
--- ACTS c9-v11 - POR
--- ACTS c9-v12 - POR
--- ACTS c9-v13 - POR
--- ACTS c9-v14 - POR
--- ACTS c9-v15 - POR
--- ACTS c9-v16 - POR
--- ACTS c9-v17 - POR
--- ACTS c9-v18 - POR
--- ACTS c9-v19 - POR
--- ACTS c9-v20 - POR
--- ACTS c9-v21 - POR
--- ACTS c9-v22 - POR
--- ACTS c9-v23 - POR
--- ACTS c9-v24 - POR
--- ACTS c9-v25 - POR
--- ACTS c9-v26 - POR
--- ACTS c9-v27 - POR
--- ACTS c9-v28 - POR
--- ACTS c9-v29 - POR
--- ACTS c9-v30 - POR
--- ACTS c9-v31 - POR
--- ACTS c9-v32 - POR
--- ACTS c9-v33 - POR
--- ACTS c9-v34 - POR
--- ACTS c9-v35 - POR
--- ACTS c9-v36 - POR
--- ACTS c9-v37 - POR
--- ACTS c9-v38 - POR
--- ACTS c9-v39 - POR
--- ACTS c9-v40 - POR
--- ACTS c9-v41 - POR
--- ACTS c9-v42 - POR
--- ACTS c9-v43 - POR
--- ACTS c13-v1 - POR
--- ACTS c13-v2 - POR
--- ACTS c13-v3 - POR
--- ACTS c13-v4 - POR
--- ACTS c13-v5 - POR
--- ACTS c13-v6 - POR
--- ACTS c13-v7 - POR
--- ACTS c13-v8 - POR
--- ACTS c13-v9 - POR
--- ACTS c13-v10 - POR
--- ACTS c13-v11 - POR
--- ACTS c13-v12 - POR
--- ACTS c13-v13 - POR
--- ACTS c13-v14 - POR
--- ACTS c13-v15 - POR
--- ACTS c13-v16 - POR
--- ACTS c13-v17 - POR
--- ACTS c13-v18 - POR
--- ACTS c13-v19 - POR
--- ACTS c13-v20 - POR
--- ACTS c13-v21 - POR
--- ACTS c13-v22 - POR
--- ACTS c13-v23 - POR
--- ACTS c13-v24 - POR
--- ACTS c13-v25 - POR
--- ACTS c13-v26 - POR
--- ACTS c13-v27 - POR
--- ACTS c13-v28 - POR
--- ACTS c13-v29 - POR
--- ACTS c13-v30 - POR
--- ACTS c13-v31 - POR
--- ACTS c13-v32 - POR
--- ACTS c13-v33 - POR
--- ACTS c13-v34 - POR
--- ACTS c13-v35 - POR
--- ACTS c13-v36 - POR
--- ACTS c13-v37 - POR
--- ACTS c13-v38 - POR
--- ACTS c13-v39 - POR
--- ACTS c13-v40 - POR
--- ACTS c13-v41 - POR
--- ACTS c13-v42 - POR
--- ACTS c13-v43 - POR
--- ACTS c13-v44 - POR
--- ACTS c13-v45 - POR
--- ACTS c13-v46 - POR
--- ACTS c13-v47 - POR
--- ACTS c13-v48 - POR
--- ACTS c13-v49 - POR
--- ACTS c13-v50 - POR
--- ACTS c13-v51 - POR
--- ACTS c13-v52 - POR
--- ACTS c14-v1 - POR
--- ACTS c14-v2 - POR
--- ACTS c14-v3 - POR
--- ACTS c14-v4 - POR
--- ACTS c14-v5 - POR
--- ACTS c14-v6 - POR
--- ACTS c14-v7 - POR
--- ACTS c14-v8 - POR
--- ACTS c14-v9 - POR
--- ACTS c14-v10 - POR
--- ACTS c14-v11 - POR
--- ACTS c14-v12 - POR
--- ACTS c14-v13 - POR
--- ACTS c14-v14 - POR
--- ACTS c14-v15 - POR
--- ACTS c14-v16 - POR
--- ACTS c14-v17 - POR
--- ACTS c14-v18 - POR
--- ACTS c14-v19 - POR
--- ACTS c14-v20 - POR
--- ACTS c14-v21 - POR
--- ACTS c14-v22 - POR
--- ACTS c14-v23 - POR
--- ACTS c14-v24 - POR
--- ACTS c14-v25 - POR
--- ACTS c14-v26 - POR
--- ACTS c14-v27 - POR
--- ACTS c14-v28 - POR
--- ACTS c15-v1 - POR
--- ACTS c15-v2 - POR
--- ACTS c15-v3 - POR
--- ACTS c15-v4 - POR
--- ACTS c15-v5 - POR
--- ACTS c15-v6 - POR
--- ACTS c15-v7 - POR
--- ACTS c15-v8 - POR
--- ACTS c15-v9 - POR
--- ACTS c15-v10 - POR
--- ACTS c15-v11 - POR
--- ACTS c15-v12 - POR
--- ACTS c15-v13 - POR
--- ACTS c15-v14 - POR
--- ACTS c15-v15 - POR
--- ACTS c15-v16 - POR
--- ACTS c15-v17 - POR
--- ACTS c15-v18 - POR
--- ACTS c15-v19 - POR
--- ACTS c15-v20 - POR
--- ACTS c15-v21 - POR
--- ACTS c15-v22 - POR
--- ACTS c15-v23 - POR
--- ACTS c15-v24 - POR
--- ACTS c15-v25 - POR
--- ACTS c15-v26 - POR
--- ACTS c15-v27 - POR
--- ACTS c15-v28 - POR
--- ACTS c15-v29 - POR
--- ACTS c15-v30 - POR
--- ACTS c15-v31 - POR
--- ACTS c15-v32 - POR
--- ACTS c15-v33 - POR
--- ACTS c15-v34 - POR
--- ACTS c15-v35 - POR
--- ACTS c15-v36 - POR
--- ACTS c15-v37 - POR
--- ACTS c15-v38 - POR
--- ACTS c15-v39 - POR
--- ACTS c15-v40 - POR
--- ACTS c15-v41 - POR
--- ACTS c16-v1 - POR
--- ACTS c16-v2 - POR
--- ACTS c16-v3 - POR
--- ACTS c16-v4 - POR
--- ACTS c16-v5 - POR
--- ACTS c16-v6 - POR
--- ACTS c16-v7 - POR
--- ACTS c16-v8 - POR
--- ACTS c16-v9 - POR
--- ACTS c16-v10 - POR
--- ACTS c16-v11 - POR
--- ACTS c16-v12 - POR
--- ACTS c16-v13 - POR
--- ACTS c16-v14 - POR
--- ACTS c16-v15 - POR
--- ACTS c16-v16 - POR
--- ACTS c16-v17 - POR
--- ACTS c16-v18 - POR
--- ACTS c16-v19 - POR
--- ACTS c16-v20 - POR
--- ACTS c16-v21 - POR
--- ACTS c16-v22 - POR
--- ACTS c16-v23 - POR
--- ACTS c16-v24 - POR
--- ACTS c16-v25 - POR
--- ACTS c16-v26 - POR
--- ACTS c16-v27 - POR
--- ACTS c16-v28 - POR
--- ACTS c16-v29 - POR
--- ACTS c16-v30 - POR
--- ACTS c16-v31 - POR
--- ACTS c16-v32 - POR
--- ACTS c16-v33 - POR
--- ACTS c16-v34 - POR
--- ACTS c16-v35 - POR
--- ACTS c16-v36 - POR
--- ACTS c16-v37 - POR
--- ACTS c16-v38 - POR
--- ACTS c16-v39 - POR
--- ACTS c16-v40 - POR
--- ACTS c19-v1 - POR
--- ACTS c19-v2 - POR
--- ACTS c19-v3 - POR
--- ACTS c19-v4 - POR
--- ACTS c19-v5 - POR
--- ACTS c19-v6 - POR
--- ACTS c19-v7 - POR
--- ACTS c19-v8 - POR
--- ACTS c19-v9 - POR
--- ACTS c19-v10 - POR
--- ACTS c19-v11 - POR
--- ACTS c19-v12 - POR
--- ACTS c19-v13 - POR
--- ACTS c19-v14 - POR
--- ACTS c19-v15 - POR
--- ACTS c19-v16 - POR
--- ACTS c19-v17 - POR
--- ACTS c19-v18 - POR
--- ACTS c19-v19 - POR
--- ACTS c19-v20 - POR
--- ACTS c19-v21 - POR
--- ACTS c19-v22 - POR
--- ACTS c19-v23 - POR
--- ACTS c19-v24 - POR
--- ACTS c19-v25 - POR
--- ACTS c19-v26 - POR
--- ACTS c19-v27 - POR
--- ACTS c19-v28 - POR
--- ACTS c19-v29 - POR
--- ACTS c19-v30 - POR
--- ACTS c19-v31 - POR
--- ACTS c19-v32 - POR
--- ACTS c19-v33 - POR
--- ACTS c19-v34 - POR
--- ACTS c19-v35 - POR
--- ACTS c19-v36 - POR
--- ACTS c19-v37 - POR
--- ACTS c19-v38 - POR
--- ACTS c19-v39 - POR
--- ACTS c19-v40 - POR
--- ACTS c19-v41 - POR
--- ACTS c20-v1 - POR
--- ACTS c20-v2 - POR
--- ACTS c20-v3 - POR
--- ACTS c20-v4 - POR
--- ACTS c20-v5 - POR
--- ACTS c20-v6 - POR
--- ACTS c20-v7 - POR
--- ACTS c20-v8 - POR
--- ACTS c20-v9 - POR
--- ACTS c20-v10 - POR
--- ACTS c20-v11 - POR
--- ACTS c20-v12 - POR
--- ACTS c20-v13 - POR
--- ACTS c20-v14 - POR
--- ACTS c20-v15 - POR
--- ACTS c20-v16 - POR
--- ACTS c20-v17 - POR
--- ACTS c20-v18 - POR
--- ACTS c20-v19 - POR
--- ACTS c20-v20 - POR
--- ACTS c20-v21 - POR
--- ACTS c20-v22 - POR
--- ACTS c20-v23 - POR
--- ACTS c20-v24 - POR
--- ACTS c20-v25 - POR
--- ACTS c20-v26 - POR
--- ACTS c20-v27 - POR
--- ACTS c20-v28 - POR
--- ACTS c20-v29 - POR
--- ACTS c20-v30 - POR
--- ACTS c20-v31 - POR
--- ACTS c20-v32 - POR
--- ACTS c20-v33 - POR
--- ACTS c20-v34 - POR
--- ACTS c20-v35 - POR
--- ACTS c20-v36 - POR
--- ACTS c20-v37 - POR
--- ACTS c20-v38 - POR
--- ACTS c21-v1 - POR
--- ACTS c21-v2 - POR
--- ACTS c21-v3 - POR
--- ACTS c21-v4 - POR
--- ACTS c21-v5 - POR
--- ACTS c21-v6 - POR
--- ACTS c21-v7 - POR
--- ACTS c21-v8 - POR
--- ACTS c21-v9 - POR
--- ACTS c21-v10 - POR
--- ACTS c21-v11 - POR
--- ACTS c21-v12 - POR
--- ACTS c21-v13 - POR
--- ACTS c21-v14 - POR
--- ACTS c21-v15 - POR
--- ACTS c21-v16 - POR
--- ACTS c21-v17 - POR
--- ACTS c21-v18 - POR
--- ACTS c21-v19 - POR
--- ACTS c21-v20 - POR
--- ACTS c21-v21 - POR
--- ACTS c21-v22 - POR
--- ACTS c21-v23 - POR
--- ACTS c21-v24 - POR
--- ACTS c21-v25 - POR
--- ACTS c21-v26 - POR
--- ACTS c21-v27 - POR
--- ACTS c21-v28 - POR
--- ACTS c21-v29 - POR
--- ACTS c21-v30 - POR
--- ACTS c21-v31 - POR
--- ACTS c21-v32 - POR
--- ACTS c21-v33 - POR
--- ACTS c21-v34 - POR
--- ACTS c21-v35 - POR
--- ACTS c21-v36 - POR
--- ACTS c21-v37 - POR
--- ACTS c21-v38 - POR
--- ACTS c21-v39 - POR
--- ACTS c21-v40 - POR
--- ACTS c25-v1 - POR
--- ACTS c25-v2 - POR
--- ACTS c25-v3 - POR
--- ACTS c25-v4 - POR
--- ACTS c25-v5 - POR
--- ACTS c25-v6 - POR
--- ACTS c25-v7 - POR
--- ACTS c25-v8 - POR
--- ACTS c25-v9 - POR
--- ACTS c25-v10 - POR
--- ACTS c25-v11 - POR
--- ACTS c25-v12 - POR
--- ACTS c25-v13 - POR
--- ACTS c25-v14 - POR
--- ACTS c25-v15 - POR
--- ACTS c25-v16 - POR
--- ACTS c25-v17 - POR
--- ACTS c25-v18 - POR
--- ACTS c25-v19 - POR
--- ACTS c25-v20 - POR
--- ACTS c25-v21 - POR
--- ACTS c25-v22 - POR
--- ACTS c25-v23 - POR
--- ACTS c25-v24 - POR
--- ACTS c25-v25 - POR
--- ACTS c25-v26 - POR
--- ACTS c25-v27 - POR
--- ACTS c26-v1 - POR
--- ACTS c26-v2 - POR
--- ACTS c26-v3 - POR
--- ACTS c26-v4 - POR
--- ACTS c26-v5 - POR
--- ACTS c26-v6 - POR
--- ACTS c26-v7 - POR
--- ACTS c26-v8 - POR
--- ACTS c26-v9 - POR
--- ACTS c26-v10 - POR
--- ACTS c26-v11 - POR
--- ACTS c26-v12 - POR
--- ACTS c26-v13 - POR
--- ACTS c26-v14 - POR
--- ACTS c26-v15 - POR
--- ACTS c26-v16 - POR
--- ACTS c26-v17 - POR
--- ACTS c26-v18 - POR
--- ACTS c26-v19 - POR
--- ACTS c26-v20 - POR
--- ACTS c26-v21 - POR
--- ACTS c26-v22 - POR
--- ACTS c26-v23 - POR
--- ACTS c26-v24 - POR
--- ACTS c26-v25 - POR
--- ACTS c26-v26 - POR
--- ACTS c26-v27 - POR
--- ACTS c26-v28 - POR
--- ACTS c26-v29 - POR
--- ACTS c26-v30 - POR
--- ACTS c26-v31 - POR
--- ACTS c26-v32 - POR
--- ACTS c27-v1 - POR
--- ACTS c27-v2 - POR
--- ACTS c27-v3 - POR
--- ACTS c27-v4 - POR
--- ACTS c27-v5 - POR
--- ACTS c27-v6 - POR
--- ACTS c27-v7 - POR
--- ACTS c27-v8 - POR
--- ACTS c27-v9 - POR
--- ACTS c27-v10 - POR
--- ACTS c27-v11 - POR
--- ACTS c27-v12 - POR
--- ACTS c27-v13 - POR
--- ACTS c27-v14 - POR
--- ACTS c27-v15 - POR
--- ACTS c27-v16 - POR
--- ACTS c27-v17 - POR
--- ACTS c27-v18 - POR
--- ACTS c27-v19 - POR
--- ACTS c27-v20 - POR
--- ACTS c27-v21 - POR
--- ACTS c27-v22 - POR
--- ACTS c27-v23 - POR
--- ACTS c27-v24 - POR
--- ACTS c27-v25 - POR
--- ACTS c27-v26 - POR
--- ACTS c27-v27 - POR
--- ACTS c27-v28 - POR
--- ACTS c27-v29 - POR
--- ACTS c27-v30 - POR
--- ACTS c27-v31 - POR
--- ACTS c27-v32 - POR
--- ACTS c27-v33 - POR
--- ACTS c27-v34 - POR
--- ACTS c27-v35 - POR
--- ACTS c27-v36 - POR
--- ACTS c27-v37 - POR
--- ACTS c27-v38 - POR
--- ACTS c27-v39 - POR
--- ACTS c27-v40 - POR
--- ACTS c27-v41 - POR
--- ACTS c27-v42 - POR
--- ACTS c27-v43 - POR
--- ACTS c27-v44 - POR
--- ACTS c28-v1 - POR
--- ACTS c28-v2 - POR
--- ACTS c28-v3 - POR
--- ACTS c28-v4 - POR
--- ACTS c28-v5 - POR
--- ACTS c28-v6 - POR
--- ACTS c28-v7 - POR
--- ACTS c28-v8 - POR
--- ACTS c28-v9 - POR
--- ACTS c28-v10 - POR
--- ACTS c28-v11 - POR
--- ACTS c28-v12 - POR
--- ACTS c28-v13 - POR
--- ACTS c28-v14 - POR
--- ACTS c28-v15 - POR
--- ACTS c28-v16 - POR
--- ACTS c28-v17 - POR
--- ACTS c28-v18 - POR
--- ACTS c28-v19 - POR
--- ACTS c28-v20 - POR
--- ACTS c28-v21 - POR
--- ACTS c28-v22 - POR
--- ACTS c28-v23 - POR
--- ACTS c28-v24 - POR
--- ACTS c28-v25 - POR
--- ACTS c28-v26 - POR
--- ACTS c28-v27 - POR
--- ACTS c28-v28 - POR
--- ACTS c28-v29 - POR
--- ACTS c28-v30 - POR
--- ACTS c28-v31 - POR
+-- c1-v1: O realmente primeiro relato eu–fiz acerca–de todas–as–coisas ó Teófilo das–quais começou – Jesus a–fazer tanto quanto a–ensinar
+-- c1-v2: até o–qual dia tendo–ordenado aos apóstolos por–meio–de Espírito Santo os–quais Ele–escolheu foi–levado–para–cima
+-- c1-v3: aos–quais também apresentou a–si–mesmo vivendo depois–de o sofrer dele em muitas provas através–de dias quarenta sendo–visto por–eles e falando as–coisas acerca–de o Reino de Deus
+-- c1-v4: e estando–reunido ordenou a–eles de Jerusalém não se–afastar mas esperar a promessa do Pai a–qual ouvistes de–mim
+-- c1-v5: porque João na–verdade batizou em–água vós porém em Espírito sereis–batizados Santo não depois–de muitos estes dias
+-- c1-v6: Os na–verdade portanto tendo–se–reunido perguntavam a–Ele dizendo Senhor se em o tempo este restaurarás o Reino a Israel
+-- c1-v7: disse porém para eles Não de–vós é conhecer tempos ou estações os–quais o Pai pôs na – própria autoridade
+-- c1-v8: mas recebereis poder tendo–vindo o Santo Espírito sobre vós e sereis de–mim testemunhas em tanto Jerusalém quanto em toda a Judeia e Samaria e até o–extremo da terra
+-- c1-v9: e estas–coisas tendo–dito observando eles foi–levantado e uma–nuvem O–tomou – de os olhos deles
+-- c1-v10: e enquanto olhando–fixamente estavam para o céu indo Ele também eis–que homens dois estavam–de–pé junto–a–eles em vestes brancas
+-- c1-v11: os–quais também disseram Homens Galileus por–que estais–de–pé olhando para o céu este – Jesus o tendo–sido–levado–para–cima de vós para o céu assim virá do–mesmo modo O–contemplastes – indo para o céu
+-- c1-v12: Então voltaram para Jerusalém de monte o chamado das–Oliveiras o–qual está perto–de Jerusalém de–sábado tendo caminho
+-- c1-v13: e quando entraram no o cenáculo subiram onde estavam permanecendo – tanto Pedro quanto João e Tiago e André Filipe e Tomé Bartolomeu e Mateus Tiago de–Alfeu e Simão o Zelote e Judas de–Tiago
+-- c1-v14: estes todos estavam perseverando unanimemente na oração com mulheres e Maria a mãe de Jesus e com os irmãos dele
+-- c1-v15: E naqueles – dias – tendo–se–levantado Pedro no meio dos irmãos disse era – multidão de–nomes em o mesmo–lugar cerca–de cento e–vinte
+-- c1-v16: Homens irmãos era–necessário cumprir–se a Escritura a–qual predisse o Espírito o Santo por boca–de Davi acerca–de Judas o tendo–se–tornado guia aos que–prenderam Jesus
+-- c1-v17: porque tendo–sido–contado era entre nós e recebeu a parte deste ministério –
+-- c1-v18: este na–verdade portanto adquiriu um–campo com o–salário da injustiça e de–cabeça–para–baixo tendo–caído rebentou pelo–meio e derramaram–se todas as entranhas dele
+-- c1-v19: e conhecido tornou–se a–todos os que–habitam–em Jerusalém de–modo–que ser–chamado o campo aquele na própria língua deles Aceldama isto é Campo de–Sangue
+-- c1-v20: está–escrito pois no livro dos–Salmos Torne–se a habitação dele deserta e não haja o que–habite nela – e O cargo dele tome outro
+-- c1-v21: É–necessário portanto dos tendo–acompanhado conosco homens em todo tempo em–que entrou e saiu entre nós o Senhor Jesus
+-- c1-v22: começando desde o batismo de–João até o dia em–que foi–levado–para–cima de nós testemunha da ressurreição dele conosco – tornar–se um destes
+-- c1-v23: E apresentaram dois José o chamado Barsabás o–qual foi–sobrenomeado Justo e Matias
+-- c1-v24: e tendo–orado disseram Tu Senhor conhecedor–dos–corações de–todos mostra o–qual escolheste destes – – dois um
+-- c1-v25: receber o lugar deste ministério – e apostolado do–qual – desviou–se Judas para–ir para o lugar – próprio
+-- c1-v26: e lançaram sortes sobre–eles e caiu a sorte sobre Matias e foi–contado–junto com os onze apóstolos
+-- c2-v1: E no o completar-se o dia do Pentecostes estavam todos juntos em o mesmo-lugar
+-- c2-v2: e aconteceu de-repente do – céu um-som como sendo-levado de-vento violento e encheu toda a casa onde estavam sentados
+-- c2-v3: e apareceram a-eles sendo-distribuídas línguas como de-fogo e assentou sobre um cada deles
+-- c2-v4: e foram-cheios todos de-Espírito Santo e começaram a-falar em-outras línguas conforme o Espírito dava a-pronunciar a-eles
+-- c2-v5: Havia porém em Jerusalém habitando judeus homens piedosos de toda nação das debaixo–de o céu
+-- c2-v6: tendo-acontecido porém este som – reuniu-se a multidão e ficou-confusa porque ouviam um cada na própria língua falando eles
+-- c2-v7: estavam-atônitos porém e maravilhavam-se dizendo Não eis todos estes são os que-falam Galileus
+-- c2-v8: e como nós ouvimos cada na própria língua nossa em que nascemos
+-- c2-v9: Partos e Medos e Elamitas e os que-habitam a Mesopotâmia Judeia tanto quanto Capadócia Ponto e a Ásia
+-- c2-v10: Frígia tanto quanto Panfília Egito e as partes da Líbia – ao-longo–de Cirene e os de-passagem Romanos
+-- c2-v11: Judeus tanto quanto prosélitos Cretenses e Árabes ouvimos falando eles nas nossas línguas as grandezas de Deus
+-- c2-v12: estavam-atônitos porém todos e perplexos um para outro dizendo Que quer isto ser
+-- c2-v13: outros porém zombando diziam – De-vinho-doce estão-cheios –
+-- c2-v14: Tendo-se-posto-de-pé porém – Pedro com os onze levantou a voz dele e pronunciou a-eles Homens Judeus e os que-habitam Jerusalém todos isto a-vós conhecido seja e escutai as palavras minhas
+-- c2-v15: não pois como vós supondes estes estão-embriagados é pois hora terceira do dia
+-- c2-v16: mas isto é o que-foi-dito por o profeta Joel
+-- c2-v17: E será nos – últimos dias diz – Deus derramarei de o Espírito meu sobre toda carne e profetizarão os filhos vossos e as filhas vossas e os jovens vossos visões verão e os anciãos vossos com-sonhos sonharão
+-- c2-v18: e-também – sobre os servos meus e sobre as servas minhas naqueles – dias – derramarei de o Espírito meu e profetizarão
+-- c2-v19: e darei prodígios no – céu em-cima e sinais sobre a terra embaixo sangue e fogo e vapor de-fumaça
+-- c2-v20: O sol será-transformado em trevas e a lua em sangue antes–de – vir o-dia do-Senhor o grande e glorioso
+-- c2-v21: e será todo aquele–que – invocar o nome do-Senhor será-salvo
+-- c2-v22: Homens Israelitas ouvi – palavras estas Jesus o Nazareno homem tendo-sido-demonstrado de – Deus a vós com-milagres e prodígios e sinais os–quais fez por-meio–de Ele – Deus no meio de-vós assim-como vós-mesmos sabeis
+-- c2-v23: este pelo determinado conselho e presciência de Deus entregue por mão de-iníquos tendo-pregado-na-cruz matastes
+-- c2-v24: ao–qual – Deus ressuscitou tendo-soltado as dores da morte porque não era possível ser-retido Ele por ela
+-- c2-v25: Davi pois diz a-respeito–de Ele Eu-via o Senhor diante–de mim sempre – porque à direita minha está para–que não eu-seja-abalado
+-- c2-v26: por-isso – alegrou-se meu – coração e exultou a língua minha ainda mais também a carne minha habitará em esperança
+-- c2-v27: porque não abandonarás a alma minha no Hades nem darás o Santo teu ver corrupção
+-- c2-v28: Fizeste-me-conhecer – caminhos de-vida encherás me de-alegria com a presença tua
+-- c2-v29: Homens irmãos é-permitido dizer com confiança a vós acerca–de o patriarca Davi que tanto morreu quanto foi-sepultado e o túmulo dele está entre nós até – dia este
+-- c2-v30: profeta portanto sendo e sabendo que com-juramento jurou a-ele – Deus do fruto dos lombos dele assentar sobre o trono dele
+-- c2-v31: tendo-previsto falou acerca–da – ressurreição do Cristo que nem foi-abandonado no Hades nem a carne dele viu corrupção
+-- c2-v32: este – Jesus ressuscitou – Deus do–qual todos nós somos testemunhas
+-- c2-v33: à direita portanto de Deus tendo-sido-exaltado a tanto promessa do Espírito – Santo tendo-recebido de o Pai derramou isto que vós tanto vedes quanto ouvis
+-- c2-v34: não pois Davi subiu para os céus diz porém ele-mesmo Disse o Senhor ao Senhor meu Assenta-te à direita minha
+-- c2-v35: até – que-Eu-ponha os inimigos teus por-escabelo dos pés teus
+-- c2-v36: certamente portanto saiba toda casa de-Israel que tanto Senhor a-Ele quanto Cristo fez – Deus este – Jesus a-quem vós crucificastes
+-- c2-v37: Tendo-ouvido porém foram-compungidos no coração disseram – para – Pedro e os demais apóstolos Que faremos homens irmãos
+-- c2-v38: Pedro porém para eles Arrependei-vos disse e seja-batizado cada de-vós em o nome de-Jesus Cristo para perdão dos pecados vossos e recebereis o dom do Santo Espírito
+-- c2-v39: para-vós pois é a promessa e para-os filhos vossos e para-todos os que-estão longe quantos – chamar o-Senhor – Deus nosso
+-- c2-v40: com-outras – palavras muitas testificava e exortava a-eles dizendo Salvai-vos desta – geração – perversa –
+-- c2-v41: os na-verdade portanto tendo-recebido a palavra dele foram-batizados e foram-acrescentadas naquele – dia – almas cerca–de três-mil
+-- c2-v42: estavam porém perseverando na doutrina dos apóstolos e na comunhão no partir do pão e nas orações
+-- c2-v43: Havia porém em-toda alma temor muitos – prodígios e sinais por – apóstolos aconteciam
+-- c2-v44: todos porém os que-criam estavam no – mesmo-lugar e tinham todas-as-coisas em-comum
+-- c2-v45: e as propriedades e os bens vendiam e repartiam – a-todos conforme – alguém necessidade tinha
+-- c2-v46: cada dia – perseverando unanimemente no – templo partindo – em casa pão tomavam alimento com alegria e singeleza de-coração
+-- c2-v47: louvando – Deus e tendo graça para-com todo o povo o porém Senhor acrescentava os que-estavam-sendo-salvos cada dia no – mesmo-lugar
+-- c3-v1: Pedro porém e João subiam para o templo na a hora da oração a nona
+-- c3-v2: e certo homem coxo desde ventre de-mãe dele sendo era-carregado o–qual punham cada dia junto–à a porta do templo a chamada Formosa para pedir esmola dos – que-entravam no – templo
+-- c3-v3: o–qual tendo-visto Pedro e João estando-prestes a-entrar no – templo pedia esmola receber
+-- c3-v4: tendo-olhado-fixamente porém Pedro para ele com – João disse Olha para nós
+-- c3-v5: – porém ele-prestava-atenção a-eles esperando algo deles – receber
+-- c3-v6: disse porém Pedro Prata e ouro não tenho – o–que porém tenho isto a-ti dou em o nome de-Jesus Cristo o Nazareno levanta-te e anda
+-- c3-v7: e tendo-o-agarrado – pela direita mão levantou ele imediatamente porém foram-fortalecidos os pés dele e os tornozelos
+-- c3-v8: e saltando pôs-se-de-pé e andava e entrou com eles no – templo andando e saltando e louvando – Deus
+-- c3-v9: e viu todo o povo ele andando e louvando – Deus
+-- c3-v10: reconheciam porém ele que este era o para – esmola que-se-sentava junto–à – Formosa Porta do templo e ficaram-cheios de-espanto e de-assômbro pelo – que-havia-acontecido a-ele
+-- c3-v11: Segurando porém ele – Pedro e – João correu-junto todo o povo a eles no – pórtico – chamado de-Salomão atônitos
+-- c3-v12: tendo-visto porém – Pedro respondeu ao – povo Homens Israelitas por–que vos-maravilhais por isto ou para-nós por–que olhais-fixamente como–se por-próprio poder ou piedade tendo-feito – andar ele
+-- c3-v13: O Deus de-Abraão e o Deus de-Isaque e o Deus de-Jacó o Deus dos pais nossos glorificou o Servo dele Jesus a–quem vós na-verdade entregastes e negastes diante–de face de-Pilatos tendo-julgado aquele soltar
+-- c3-v14: vós porém o Santo e Justo negastes e pedistes um-homem assassino que-fosse-dado a-vós
+-- c3-v15: o porém Autor da vida matastes a–quem – Deus ressuscitou dentre os-mortos do–qual nós testemunhas somos
+-- c3-v16: e pela – fé no nome dele este a–quem contemplais e conheceis fortaleceu o nome dele e a fé – por-meio–de Ele deu a-ele esta perfeita-saúde – diante–de todos vós
+-- c3-v17: e agora irmãos sei que por ignorância agistes assim-como também os governantes vossos
+-- c3-v18: – porém Deus o–que de-antemão-anunciou por boca de-todos os profetas sofrer o Cristo dele assim-cumpriu –
+-- c3-v19: Arrependei-vos portanto e convertei-vos para – serem-apagados vossos os pecados
+-- c3-v20: para–que – venham tempos de-refúgio da presença do Senhor e envie o designado-de-antemão para-vós Cristo Jesus
+-- c3-v21: a–quem é-necessário o-céu na-verdade receber até os-tempos de-restauração de-todas-as-coisas das–quais falou – Deus por boca dos santos desde a-antiguidade dele profetas
+-- c3-v22: Moisés na-verdade disse – Um-Profeta para-vós levantará o-Senhor – Deus vosso dentre os irmãos vossos como eu a-Ele ouvireis em tudo quanto – Ele-falar a vós
+-- c3-v23: será porém toda alma a–qual – não ouvir – profeta aquele será-destruída dentre o povo
+-- c3-v24: e todos porém os profetas desde Samuel e os sucessivamente quantos falaram também anunciaram – dias estes
+-- c3-v25: Vós sois os filhos dos profetas e do pacto a–qual – Deus estabeleceu com os pais vossos dizendo a Abraão E na a descendência tua serão-abençoadas todas as famílias da terra
+-- c3-v26: Para-vós primeiro tendo-levantado – Deus o Servo dele enviou Ele para-abençoar vós em – apartar cada-um das – maldades vossas
+-- c4-v1: Falando porém eles ao – povo sobrevieram sobre-eles os sacerdotes e o capitão do templo e os Saduceus
+-- c4-v2: indignados por – ensinarem eles o povo e anunciarem em – Jesus a ressurreição a dentre os-mortos
+-- c4-v3: e lançaram sobre-eles as mãos e puseram em prisão até o dia-seguinte era pois tarde já
+-- c4-v4: muitos porém dos que-ouviram a palavra creram e chegou o número dos homens a milhares cinco
+-- c4-v5: Aconteceu porém no – dia-seguinte reunirem-se deles os governantes e os anciãos e os escribas em Jerusalém
+-- c4-v6: e Anás o sumo-sacerdote e Caifás e João e Alexandre e quantos eram da família sumo-sacerdotal
+-- c4-v7: e tendo-colocado eles no – meio perguntavam Em qual poder ou em qual nome fizestes isto vós
+-- c4-v8: Então Pedro cheio de-Espírito Santo disse a eles Governantes do povo e anciãos
+-- c4-v9: se nós hoje somos-interrogados por beneficência a-um-homem enfermo em quem este tem-sido-curado
+-- c4-v10: conhecido seja a-todos vós e a-todo o povo de-Israel que no – nome de-Jesus Cristo o Nazareno a–quem vós crucificastes a–quem – Deus ressuscitou dentre os-mortos por este este está-de-pé diante–de vós são
+-- c4-v11: Este é a pedra – tendo-sido-rejeitada por vós os construtores a tendo-se-tornado em cabeça de-esquina
+-- c4-v12: e não há em outro nenhum a salvação pois-nem – nome há outro debaixo–de o céu – tendo-sido-dado entre os-homens em o–qual é-necessário sermos-salvos nós
+-- c4-v13: Contemplando porém a de Pedro ousadia e de-João e tendo-percebido que homens iletrados são e comuns maravilhavam-se reconheciam – eles que com – Jesus haviam-estado
+-- c4-v14: – tanto o-homem vendo com eles de-pé o tendo-sido-curado nada tinham para-contradizer
+-- c4-v15: tendo-ordenado porém eles para-fora do Sinédrio sair conferenciavam entre si
+-- c4-v16: dizendo Que faremos a–estes homens – que na-verdade pois notório sinal foi-feito por eles a-todos os que-habitam Jerusalém manifesto e não podemos negar
+-- c4-v17: mas para–que não mais – se-espalhe entre o povo ameaçemo-los – que-mais-não falem em – nome este a-nenhum homem
+-- c4-v18: e tendo-os-chamado – ordenaram – absolutamente não falar nem ensinar no – nome de Jesus
+-- c4-v19: – porém Pedro e João tendo-respondido disseram a eles Se justo é diante–de – Deus a-vós ouvir antes que a Deus julgai
+-- c4-v20: não podemos pois nós as-coisas–que vimos e ouvimos não falar
+-- c4-v21: – porém tendo-os-ameaçado-mais soltaram eles nada achando – como os-punir – por-causa–de o povo porque todos glorificavam – Deus pelo – que-havia-acontecido
+-- c4-v22: de-anos pois era de-mais–de quarenta o homem sobre quem tinha-acontecido – sinal este de cura
+-- c4-v23: Tendo-sido-soltos porém foram para os seus e anunciaram quantas-coisas a eles os principais-sacerdotes e os anciãos disseram
+-- c4-v24: – porém tendo-ouvido unanimemente levantaram a-voz a – Deus e disseram Soberano tu o que-fizeste o céu e a terra e o mar e tudo o–que neles –
+-- c4-v25: o do pai nosso por Espírito Santo por-boca–de Davi servo teu tendo-dito Por–que – bramaram as-nações e os-povos meditaram coisas-vãs
+-- c4-v26: levantaram-se os reis da terra e os governantes reuniram-se no – mesmo-lugar contra o Senhor e contra o Cristo dele
+-- c4-v27: reuniram-se pois em verdade nesta – cidade – contra o santo Servo teu Jesus a–quem ungiste Herodes tanto quanto Pôncio Pilatos com as-nações e povos de-Israel
+-- c4-v28: para-fazer quanto a mão tua e o conselho teu predeterminou acontecer
+-- c4-v29: e – agora Senhor olha para as ameaças deles e dá aos servos teus com ousadia toda falar a palavra tua
+-- c4-v30: enquanto – a mão tua estendes tu para cura e sinais e prodígios acontecerem pelo – nome do santo Servo teu Jesus
+-- c4-v31: e tendo-orado eles foi-abalado o lugar no qual estavam reunidos e foram-cheios todos do Santo Espírito e falavam a palavra de Deus com ousadia
+-- c4-v32: Da porém multidão dos que-creram era coração e alma uma e nem um algo das-coisas que-possuía ele dizia próprio ser mas era para-eles tudo comum
+-- c4-v33: e com-poder grande davam o testemunho os apóstolos do Senhor Jesus da ressurreição graça – grande havia sobre todos eles
+-- c4-v34: pois-nem – necessitado algum havia entre eles quantos pois possuidores de-campos ou de-casas eram vendendo traziam os valores das-coisas que-eram-vendidas
+-- c4-v35: e punham aos – pés dos apóstolos era-distribuído porém a-cada-um conforme – alguém necessidade tinha
+-- c4-v36: José porém o tendo-sido-sobrenomeado Barnabé pelos – apóstolos o–que é traduzido Filho de-Consolação Levita Cipriota de nascimento
+-- c4-v37: tendo dele um-campo tendo-vendido trouxe o dinheiro e pôs aos – pés dos apóstolos
+-- c7-v1: Disse e o sumo–sacerdote Se estas–coisas assim são
+-- c7-v2: o e disse Varões irmãos e pais ouvi O Deus da glória apareceu ao pai nosso Abraão estando em a Mesopotâmia antes que habitar ele em Harã
+-- c7-v3: e disse para ele Sai de a terra tua e de a parentela tua e vem para a terra que porventura a–ti mostrarei
+-- c7-v4: então tendo–saído de terra dos–caldeus habitou em Harã e–de–lá depois o morrer o pai dele removeu ele para a terra esta para a–qual vós agora habitais
+-- c7-v5: e não deu a–ele herança nela nela nem pisada de–pé e prometeu dar a–ele em possessão ela e à descendência dele depois dele não tendo a–ele filho
+-- c7-v6: falou porém assim o Deus que será a descendência dele estrangeira em terra alheia e escravizarão ela e maltratarão anos quatrocentos
+-- c7-v7: e a nação a–qual se servirem julgarei eu o Deus disse e depois destas–coisas sairão e servirão a–mim em o lugar este
+-- c7-v8: e deu a–ele aliança de–circuncisão e assim gerou a Isaque e circuncidou ele no dia o oitavo e Isaque a Jacó e Jacó os doze patriarcas
+-- c7-v9: E os patriarcas tendo–invejado a José venderam para o–Egito e estava o Deus com ele
+-- c7-v10: e livrou ele de todas as tribulações dele e deu a–ele graça e sabedoria diante–de Faraó rei do–Egito e constituiu ele governador sobre o–Egito e sobre toda a casa dele
+-- c7-v11: veio porém fome sobre todo o Egito e Canaã e tribulação grande e não achavam mantimentos os pais nossos
+-- c7-v12: tendo–ouvido porém Jacó haver cereais em Egito enviou os pais nossos primeira–vez
+-- c7-v13: e na a segunda foi–reconhecido José pelos irmãos dele e manifesto tornou–se a Faraó a linhagem de José
+-- c7-v14: tendo–enviado porém José chamou Jacó o pai dele e toda a parentela em almas setenta cinco
+-- c7-v15: e desceu Jacó para o–Egito e morreu ele e os pais nossos
+-- c7-v16: e foram–trasladados para Siquém e foram–postos no o sepulcro que comprou Abraão por–preço de–prata dos os filhos de–Hamor em Siquém
+-- c7-v17: Conforme porém aproximava–se o tempo da promessa que jurou o Deus a Abraão cresceu o povo e multiplicou–se em Egito
+-- c7-v18: até que levantou–se rei outro sobre o–Egito o–qual não conhecia a José
+-- c7-v19: este tendo–tratado–com–astúcia a raça nossa maltratou os pais nossos para fazer os bebês expostos deles para o não viverem
+-- c7-v20: Em o–qual tempo nasceu Moisés e era formoso para Deus o–qual foi–criado meses três na a casa do pai
+-- c7-v21: tendo–sido–exposto porém dele recolheu ele a filha de–Faraó e criou ele para–si–mesma como filho
+-- c7-v22: e foi–instruído Moisés em toda sabedoria dos–egípcios era porém poderoso em palavras e obras dele
+-- c7-v23: Quando porém cumpria–se a–ele tempo–de–quarenta–anos tempo subiu ao o coração dele visitar os irmãos dele os filhos de–Israel
+-- c7-v24: e tendo–visto alguém sendo–injustiçado defendeu e fez vingança ao oprimido tendo–ferido o egípcio
+-- c7-v25: pensava porém compreenderem os irmãos dele que o Deus por mão dele dava salvação a–eles eles porém não compreenderam
+-- c7-v26: no e seguinte dia apareceu a–eles brigando e reconciliava eles para paz dizendo Varões irmãos sois por que injustiçais uns–aos–outros
+-- c7-v27: o porém que–injustiçava o próximo repeliu ele dizendo Quem te constituiu governante e juiz sobre nós
+-- c7-v28: acaso matar me tu queres do–modo–que modo mataste ontem o egípcio
+-- c7-v29: fugiu porém Moisés com esta palavra esta e tornou–se estrangeiro em terra de–Midiã onde gerou filhos dois
+-- c7-v30: E tendo–se–cumprido de–anos quarenta apareceu a–ele no o deserto do monte Sinai anjo em chama de–fogo de–sarça
+-- c7-v31: o porém Moisés tendo–visto maravilhava–se da visão aproximando–se porém dele para–observar veio voz do–Senhor
+-- c7-v32: Eu o Deus dos pais teus o Deus de–Abraão e de–Isaque e de–Jacó tremendo porém tendo–ficado Moisés não ousava observar
+-- c7-v33: disse porém a–ele o Senhor Desata a sandália dos pés teus o pois lugar em que estás–de–pé terra santa é
+-- c7-v34: tendo–visto vi a aflição do povo meu o em Egito e o gemido dele ouvi e desci para–livrar eles e agora vem enviarei te para o–Egito
+-- c7-v35: Este o Moisés a–quem negaram dizendo Quem te constituiu governante e juiz este o Deus tanto governante como libertador enviou com mão de–anjo do aparecido a–ele na a sarça
+-- c7-v36: este tirou eles tendo–feito prodígios e sinais em terra do–Egito e no Vermelho Mar e no o deserto anos quarenta
+-- c7-v37: este é o Moisés o que–disse aos filhos de–Israel Profeta a–vós levantará o Deus dentre os irmãos vossos como mim
+-- c7-v38: este é o que–esteve na a congregação no o deserto com o anjo o que–falava a–ele no o monte Sinai e com–os pais nossos que recebeu oráculos vivos para–dar a–nós
+-- c7-v39: a–quem não quiseram obedientes ser os pais nossos mas rejeitaram e voltaram–se nos os corações deles para o–Egito
+-- c7-v40: dizendo a Arão Faze para–nós deuses que irão–adiante de–nós o pois Moisés este que tirou nos de terra do–Egito não sabemos que aconteceu a–ele
+-- c7-v41: e fizeram–um–bezerro naqueles os dias aqueles e ofereceram sacrifício ao ídolo e alegravam–se nas as obras das mãos deles
+-- c7-v42: virou–se porém o Deus e entregou eles para–servir ao exército do céu conforme está–escrito no livro dos profetas Acaso vítimas e sacrifícios oferecestes a–mim anos quarenta no o deserto casa de–Israel
+-- c7-v43: e levantastes a tenda de Moloque e a estrela do deus vosso Renfã as figuras que fizestes para–adorar a–eles e deportarei vos além–de Babilônia
+-- c7-v44: O tabernáculo do testemunho estava com–os pais nossos no o deserto conforme ordenou o que–falava a Moisés fazer ele segundo o modelo que tinha–visto
+-- c7-v45: o–qual também trouxeram tendo–recebido os pais nossos com Josué na a posse das nações que expulsou o Deus de diante dos pais nossos até os dias de–Davi
+-- c7-v46: que achou graça diante do Deus e pediu achar habitação para–a casa de–Jacó
+-- c7-v47: Salomão porém edificou a–ele casa
+-- c7-v48: mas não o Altíssimo em feitos–por–mãos habita conforme o profeta diz
+-- c7-v49: O céu para–mim trono a porém terra escabelo dos pés meus que–tipo–de casa edificareis para–mim diz o–Senhor ou qual lugar do descanso meu
+-- c7-v50: acaso–não a mão minha fez estas–coisas todas
+-- c7-v51: Duros–de–cerviz e incircuncisos de–corações e de ouvidos vós sempre ao Espírito o Santo resistis como os pais vossos também vós
+-- c7-v52: qual dos profetas não perseguiram os pais vossos e mataram os que–anunciaram–de–antemão acerca da vinda do Justo de–quem agora vós traidores e assassinos vos–tornastes
+-- c7-v53: os–quais recebestes a lei por ordenanças de–anjos e não guardastes
+-- c7-v54: Ouvindo porém estas–coisas cortavam–se nos corações deles e rangiam os dentes contra ele
+-- c7-v55: sendo porém cheio do–Espírito Santo tendo–fixado–os–olhos para o céu viu glória de–Deus e Jesus em–pé à direita de Deus
+-- c7-v56: e disse Eis vejo os céus abertos e o Filho do homem à direita em–pé de Deus
+-- c7-v57: tendo–clamado porém com–voz alta taparam os ouvidos deles e lançaram–se unanimemente sobre ele
+-- c7-v58: e tendo–lançado–fora fora da cidade apedrejavam e as testemunhas depuseram as vestes deles aos os pés de–jovem chamado Saulo
+-- c7-v59: e apedrejavam a Estêvão invocando e dizendo Senhor Jesus recebe o espírito meu
+-- c7-v60: tendo–posto porém os joelhos clamou com–voz alta Senhor não imputes a–eles este o pecado e isto tendo–dito adormeceu
+-- c8-v1: Saulo porém estava consentindo na morte dele Aconteceu porém naquele aquele o dia perseguição grande contra a igreja a em Jerusalém todos porém foram–dispersos pelas as regiões da Judeia e Samaria exceto os apóstolos
+-- c8-v2: sepultaram porém a Estêvão homens piedosos e fizeram lamentação grande sobre ele
+-- c8-v3: Saulo porém assolava a igreja pelas as casas entrando arrastando tanto homens como mulheres entregava à prisão
+-- c8-v4: Os portanto pois dispersados passaram evangelizando a palavra
+-- c8-v5: Filipe porém tendo–descido para a cidade da Samaria pregava a–eles o Cristo
+-- c8-v6: prestavam–atenção porém as multidões às coisas–ditas por o Filipe unanimemente ao o ouvirem eles e verem os sinais que fazia
+-- c8-v7: muitos pois dos que–tinham espíritos imundos clamando com–voz alta saíam muitos porém paralíticos e coxos foram–curados
+-- c8-v8: aconteceu porém muita alegria naquela a cidade aquela
+-- c8-v9: Homem porém certo por–nome Simão antes–estava na a cidade praticando–magia e assombrando a nação da Samaria dizendo ser alguém a–si–mesmo grande
+-- c8-v10: a–quem prestavam–atenção todos desde pequeno até grande dizendo Este é o poder de Deus o chamado Grande
+-- c8-v11: prestavam–atenção porém a–ele porque por muito tempo com–as magias os–tinha–assombrado eles
+-- c8-v12: quando porém creram em Filipe evangelizando acerca do reino de Deus e do nome de–Jesus Cristo eram–batizados homens tanto como mulheres
+-- c8-v13: o porém Simão também ele–mesmo creu e tendo–sido–batizado estava perseverando com Filipe observando tanto sinais como poderes grandes acontecendo admirava–se
+-- c8-v14: Tendo–ouvido porém os em Jerusalém apóstolos que recebeu a Samaria a palavra de Deus enviaram a eles Pedro e João
+-- c8-v15: os–quais tendo–descido oraram por eles para–que recebessem Espírito Santo
+-- c8-v16: ainda–não pois tinha sobre nenhum deles caído somente porém batizados estavam no o nome do Senhor Jesus
+-- c8-v17: então impunham as mãos sobre eles e recebiam Espírito Santo
+-- c8-v18: tendo–visto porém o Simão que por a imposição das mãos dos apóstolos é–dado o Espírito ofereceu a–eles dinheiro
+-- c8-v19: dizendo Dai também–a–mim esta autoridade esta para–que a–quem eu impuser as mãos receba Espírito Santo
+-- c8-v20: Pedro porém disse a ele A prata tua contigo contigo vá para perdição porque o dom de Deus pensaste por dinheiro adquirir
+-- c8-v21: não há para–ti parte nem sorte nesta a palavra esta o pois coração teu não é reto diante de Deus
+-- c8-v22: arrepende–te portanto desta a maldade tua esta e roga ao Senhor se talvez seja–perdoado a–ti o pensamento do coração teu
+-- c8-v23: em pois fel de–amargura e laço de–iniquidade vejo te estando
+-- c8-v24: respondendo porém o Simão disse Rogai vós por mim ao o Senhor para–que nada venha sobre mim das–coisas–que dissestes
+-- c8-v25: Eles portanto pois tendo–testificado e tendo–falado a palavra do Senhor voltavam para Jerusalém muitas e aldeias dos samaritanos evangelizavam
+-- c8-v26: Anjo porém do–Senhor falou a Filipe dizendo Levanta–te e vai para o–sul pelo o caminho o que–desce de Jerusalém para Gaza este é deserto
+-- c8-v27: e tendo–se–levantado foi e eis homem etíope eunuco oficial de–Candace rainha dos–etíopes que estava sobre todo o tesouro dela que tinha–vindo para–adorar a Jerusalém
+-- c8-v28: estava e voltando e sentado no o carro dele e lia o profeta Isaías
+-- c8-v29: disse porém o Espírito a Filipe Aproxima–te e junta–te a–este carro este
+-- c8-v30: tendo–corrido porém o Filipe ouviu ele lendo Isaías o profeta e disse Acaso certamente entendes o–que lês
+-- c8-v31: ele porém disse Como pois porventura poderia se não alguém me–guiar me convidou e a Filipe tendo–subido sentar–se com ele
+-- c8-v32: A porém passagem da Escritura que lia era esta Como ovelha para matadouro foi–levado e como cordeiro diante do que–o–tosquia ele mudo assim não abre a boca dele
+-- c8-v33: Na a humilhação dele o juízo dele foi–tirado a geração dele quem contará porque é–tirada da a terra a vida dele
+-- c8-v34: respondendo porém o eunuco a Filipe disse Rogo–te a–ti acerca de–quem o profeta diz isto acerca de–si–mesmo ou acerca de–outro alguém
+-- c8-v35: tendo–aberto porém o Filipe a boca dele e tendo–começado desta a Escritura esta anunciou a–ele a Jesus
+-- c8-v36: como porém iam pelo o caminho chegaram a certa água e diz o eunuco Eis água que impede me ser–batizado
+-- c8-v37: disse porém o Filipe Se crês de todo o coração é–lícito respondendo porém disse Creio o Filho de Deus ser a Jesus Cristo
+-- c8-v38: e mandou parar o carro e desceram ambos para a água tanto o Filipe como o eunuco e batizou ele
+-- c8-v39: quando porém subiram da a água Espírito do–Senhor arrebatou a Filipe e não viu ele mais o eunuco seguia pois o caminho dele regozijando–se
+-- c8-v40: Filipe porém foi–achado em Azoto e passando evangelizava as cidades todas até o chegar ele a Cesareia
+-- c9-v1: O porém Saulo ainda respirando ameaças e morticínio contra os discípulos do Senhor tendo–se–aproximado do sumo–sacerdote
+-- c9-v2: pediu dele dele cartas para Damasco para as sinagogas para–que se alguns achasse do Caminho sendo homens tanto como mulheres amarrados trouxesse a Jerusalém
+-- c9-v3: No porém o ir aconteceu ele aproximar–se de Damasco de–repente e ele resplandeceu–ao–redor luz do o céu
+-- c9-v4: e tendo–caído sobre a terra ouviu voz dizendo a–ele Saulo Saulo por–que me persegues
+-- c9-v5: disse porém Quem és Senhor o porém Eu sou Jesus a–quem tu persegues duro para–ti contra aguilhões recalcitrar tremendo e e atônito disse Senhor que me queres fazer
+-- c9-v6: mas levanta–te e entra na a cidade e será–dito a–ti o que te é–necessário fazer
+-- c9-v7: os porém homens os que–viajavam–com ele estavam–de–pé emudecidos ouvindo certamente a voz ninguém porém vendo
+-- c9-v8: levantou–se porém Saulo da a terra estando–abertos porém os olhos dele nada via guiando–pela–mão porém ele introduziram em Damasco
+-- c9-v9: e esteve dias três não vendo e não comeu nem bebeu
+-- c9-v10: Havia porém certo discípulo em Damasco por–nome Ananias e disse a ele em visão o Senhor Ananias ele porém disse Eis eu Senhor
+-- c9-v11: o porém Senhor a ele Tendo–te–levantado vai à a rua a chamada Direita e procura em casa de–Judas Saulo por–nome de–Tarso eis pois ora
+-- c9-v12: e viu homem em visão Ananias por–nome tendo–entrado e tendo–posto sobre–ele as mãos para–que recobre–a–vista
+-- c9-v13: respondeu porém Ananias Senhor ouvi de muitos acerca deste homem este quantos males aos santos teus fez em Jerusalém
+-- c9-v14: e aqui tem autoridade dos os sumos–sacerdotes para–prender todos os que–invocam o nome teu
+-- c9-v15: disse porém a ele o Senhor Vai porque vaso de–eleição é para–mim este para levar o nome meu diante das nações tanto como reis filhos tanto de–Israel
+-- c9-v16: eu pois mostrarei a–ele quantas–coisas é–necessário ele pelo o nome meu padecer
+-- c9-v17: Partiu porém Ananias e entrou na a casa e tendo–posto sobre ele as mãos disse Saulo irmão o Senhor enviou me Jesus o que–apareceu a–ti no o caminho pelo–qual vinhas para–que recuperes–a–vista e sejas–cheio do–Espírito Santo
+-- c9-v18: e imediatamente caíram dos dos os olhos como escamas recuperou–a–vista e e tendo–se–levantado foi–batizado
+-- c9-v19: e tendo–tomado alimento fortaleceu–se Esteve porém com os em Damasco discípulos dias alguns
+-- c9-v20: e imediatamente nas as sinagogas pregava a Jesus que este é o Filho de Deus
+-- c9-v21: admiravam–se porém todos os que–ouviam e diziam Não é este o que–devastava em Jerusalém os que–invocavam o nome este e aqui para isto tinha–vindo para–que amarrados eles levasse aos os sumos–sacerdotes
+-- c9-v22: Saulo porém mais fortalecia–se e confundia os judeus os que–habitavam em Damasco provando que este é o Cristo
+-- c9-v23: Quando porém cumpriam–se dias muitos conspiraram os judeus para–matar ele
+-- c9-v24: foi–conhecido porém por Saulo a conspiração deles vigiavam porém também as portas de–dia tanto como de–noite para–que ele matassem
+-- c9-v25: tendo–tomado porém os discípulos dele de–noite pelo o muro desceram ele tendo–baixado num cesto
+-- c9-v26: Tendo–chegado porém a Jerusalém tentava juntar–se aos discípulos e todos temiam ele não crendo que é discípulo
+-- c9-v27: Barnabé porém tendo–tomado ele levou aos os apóstolos e contou a–eles como no o caminho viu o Senhor e que falou a–ele e como em Damasco falou–corajosamente no o nome de Jesus
+-- c9-v28: e estava com eles entrando e saindo em Jerusalém falando–corajosamente no o nome do Senhor
+-- c9-v29: falava e e discutia com os helenistas eles porém tentavam matar ele
+-- c9-v30: tendo–sabido porém os irmãos levaram ele a Cesareia e enviaram ele para Tarso
+-- c9-v31: A portanto pois igreja por toda a Judeia e Galileia e Samaria tinha paz edificando–se e andando no temor do Senhor e na consolação do Santo Espírito multiplicava–se
+-- c9-v32: Aconteceu porém Pedro passando por todos descer também aos os santos os que–habitavam em–Lida
+-- c9-v33: encontrou porém ali homem certo por–nome Eneias de anos oito jazendo em leito o–qual estava paralítico
+-- c9-v34: e disse a–ele o Pedro Eneias cura te Jesus Cristo levanta–te e arruma para–ti–mesmo e imediatamente levantou–se
+-- c9-v35: e viram ele todos os que–habitavam–em Lida e o Sarom os–quais converteram–se ao o Senhor
+-- c9-v36: Em Jope porém certa havia discípula por–nome Tabita a–qual traduzida chama–se Dorcas esta estava cheia de–obras boas e esmolas que fazia
+-- c9-v37: aconteceu porém naqueles os dias aqueles tendo–adoecido ela morrer tendo–lavado porém puseram ela no quarto–superior
+-- c9-v38: perto porém estando Lida de Jope os discípulos tendo–ouvido que Pedro está nela nela enviaram dois homens a ele rogando Não demores passar até nós
+-- c9-v39: tendo–se–levantado porém Pedro foi com–eles o–qual tendo–chegado levaram ao o quarto–superior e apresentaram–se a–ele todas as viúvas chorando e mostrando túnicas e vestes quantas fazia com elas estando a Dorcas
+-- c9-v40: tendo–lançado–fora porém fora todos o Pedro e tendo–posto os joelhos orou e tendo–se–voltado para o corpo disse Tabita levanta–te ela porém abriu os olhos dela e tendo–visto a Pedro sentou–se
+-- c9-v41: tendo–dado porém a–ela mão levantou ela tendo–chamado porém os santos e as viúvas apresentou ela viva
+-- c9-v42: conhecido porém tornou–se por toda a Jope e creram muitos no o Senhor
+-- c9-v43: Aconteceu porém dias muitos ficar em Jope com certo Simão curtidor
+-- c13-v1: Eram e em Antioquia, segundo–a a existente igreja, profetas e mestres, o tanto Barnabé e Simeão, o chamado Níger, e Lúcio o Cireneu, Manaém e de–Herodes do tetrarca irmão–de–criação, e Saulo.
+-- c13-v2: Ministrando e deles ao Senhor e jejuando, disse o Espírito o Santo, Separai pois para–mim o Barnabé e Saulo, para a obra que os–tenho–chamado eles.
+-- c13-v3: Então tendo–jejuado, e tendo–orado, e tendo–imposto as mãos sobre–eles, despediram.
+-- c13-v4: Eles de–fato pois enviados pelo do Santo Espírito, desceram para Selêucia. de–ali e navegaram para Chipre.
+-- c13-v5: E tendo–chegado em Salamina, anunciavam a palavra de Deus nas as sinagogas dos judeus. Tinham e também João como–auxiliar.
+-- c13-v6: Tendo–atravessado e toda a ilha, até Pafos, encontraram homem– certo mago, falso–profeta, judeu– ao–qual nome Barjesus,
+-- c13-v7: que estava com o procônsul Sérgio Paulo, homem prudente. Este tendo–chamado Barnabé e Saulo, buscou ouvir a palavra de Deus.
+-- c13-v8: Resistia porém a–eles Elimas o mago– assim pois é–traduzido o nome dele– buscando desviar o procônsul da a fé.
+-- c13-v9: Saulo porém, o também Paulo, cheio de–Espírito Santo, tendo–fitado em ele,
+-- c13-v10: disse, Ó cheio de–todo engano e de–toda fraude, filho do–diabo, inimigo de–toda justiça, não cessarás de–perverter os caminhos do Senhor os retos?
+-- c13-v11: E agora eis, mão do–Senhor sobre ti, e estarás cego, não vendo o sol até tempo. Imediatamente e caiu sobre ele névoa e escuridão, e andando–ao–redor buscava guias.
+-- c13-v12: Então tendo–visto o procônsul o acontecido, creu, maravilhando–se com o ensino do Senhor.
+-- c13-v13: Tendo–navegado e de a Pafos os com, Paulo foram para Perge da Panfília. João porém tendo–se–afastado de eles, voltou para Jerusalém.
+-- c13-v14: Eles porém, tendo–atravessado de a Perge, chegaram a Antioquia a da–Pisídia, e tendo–entrado na a sinagoga no dia dos sábados, sentaram–se.
+-- c13-v15: Depois e da leitura da lei e dos profetas, enviaram os chefes–da–sinagoga a eles, dizendo, Homens, irmãos, se alguma há em vós palavra de–exortação para o povo, dizei.
+-- c13-v16: Tendo–se–levantado e Paulo, e tendo–acenado com–a mão, disse, Homens, israelitas, e os que–temem a Deus, ouvi.
+-- c13-v17: O Deus deste povo de–este Israel escolheu os pais nossos, e o povo exaltou na a peregrinação em terra de–Egito, e com braço erguido, tirou eles de ela,
+-- c13-v18: e como quarenta–anos tempo suportou eles no o deserto,
+-- c13-v19: e tendo–derrubado nações sete em terra de–Canaã, deu–por–herança a terra deles–
+-- c13-v20: como em–anos quatrocentos e cinquenta. E depois dessas–coisas, deu juízes até Samuel o profeta.
+-- c13-v21: E–de–ali pediram rei, e deu a–eles o Deus, a Saul filho de–Quis, homem de tribo de–Benjamim, anos quarenta.
+-- c13-v22: E tendo–removido ele, levantou a Davi para–eles como rei, ao–qual também disse testificando, Encontrei Davi o de Jessé, homem segundo o coração meu, que fará todas as vontades minhas.
+-- c13-v23: Deste o Deus, da a descendência, segundo promessa, trouxe a Israel Salvador Jesus,
+-- c13-v24: tendo–pregado João, antes da–face, da entrada dele, batismo de–arrependimento, a–todo o povo de–Israel.
+-- c13-v25: Quando e cumpria João a carreira, dizia, Quem me supondes ser? Não sou eu, mas eis, vem depois de–mim, de–quem não sou digno a sandália dos pés desatar.
+-- c13-v26: Homens, irmãos, filhos da–linhagem de–Abraão, e os entre vós que–temem a Deus, a–nós a palavra desta salvação esta foi–enviada.
+-- c13-v27: Os pois que–habitam em Jerusalém e os governantes deles, a–este não–tendo–conhecido, e as vozes dos profetas, as em cada sábado lidas, tendo–julgado cumpriram.
+-- c13-v28: E nenhuma causa de–morte tendo–encontrado, pediram a–Pilatos que–fosse–morto ele.
+-- c13-v29: Quando e cumpriram todas as acerca dele escritas–coisas, tendo–tirado do o madeiro, colocaram em sepulcro.
+-- c13-v30: O porém Deus ressuscitou ele dentre mortos,
+-- c13-v31: que apareceu por dias muitos aos que–subiram–com ele da a Galileia para Jerusalém, os–quais agora são testemunhas dele para o povo.
+-- c13-v32: E nós a–vós anunciamos–as–boas–novas, a aos os pais promessa feita,
+-- c13-v33: que esta o Deus cumpriu, aos filhos deles nossos, tendo–ressuscitado Jesus; como também no o salmo está–escrito o segundo, Filho meu és tu, eu hoje te–gerei a–ti.
+-- c13-v34: Que e ressuscitou ele dentre mortos, não–mais estando–para voltar para corrupção, assim disse: que Darei a–vós as santas–coisas de–Davi, as fiéis.
+-- c13-v35: Por–isso também em outro diz, Não darás ao Santo teu ver corrupção.
+-- c13-v36: Davi de–fato, pois em–própria geração tendo–servido a de Deus vontade, adormeceu, e foi–reunido aos os pais dele, e viu corrupção.
+-- c13-v37: A–quem porém o Deus ressuscitou não viu corrupção.
+-- c13-v38: Conhecido pois seja a–vós, homens, irmãos, que por–meio deste, a–vós perdão de–pecados é–anunciado,
+-- c13-v39: e de todas–as–coisas das–quais não pudestes na lei de–Moisés ser–justificados, neste neste todo o que–crê é–justificado.
+-- c13-v40: Vede pois, não venha, o dito nos os profetas:
+-- c13-v41: Vede, os escarnecedores, e maravilhai–vos e desaparecei; porque obra eu–realizo eu nos os dias vossos, obra que de–modo–nenhum não crereis, se alguém narrar a–vós.
+-- c13-v42: Saindo e, eles rogavam para o seguinte sábado, serem–faladas a–eles as palavras estas.
+-- c13-v43: Tendo–se–dissolvido e, a sinagoga, seguiram muitos dos judeus e dos adoradores prosélitos a Paulo e a Barnabé, os–quais falando a–eles persuadiam eles a–permanecer na graça de Deus.
+-- c13-v44: No e seguinte sábado, quase toda a cidade reuniu–se para–ouvir a palavra do Senhor.
+-- c13-v45: Tendo–visto porém os judeus as multidões, encheram–se de–inveja, e contradiziam às pelo Paulo coisas–ditas, blasfemando.
+-- c13-v46: Tendo–falado–ousadamente então, o Paulo e o Barnabé disseram, A–vós era necessário primeiro ser–falada a palavra de Deus; visto–que a–rejeitais ela, e não dignos julgais a–vós–mesmos da eterna vida, eis, voltamo–nos para os gentios.
+-- c13-v47: Assim pois ordenou a–nós o Senhor: Pus a–ti para luz dos–gentios, para seres tu para salvação até confins da terra.
+-- c13-v48: Ouvindo e, os gentios alegravam–se, e glorificavam a palavra do Senhor, e creram quantos estavam designados para vida eterna.
+-- c13-v49: Espalhava–se e a palavra do Senhor por toda a região.
+-- c13-v50: Os porém judeus incitaram as adoradoras mulheres as distintas, e os principais da cidade, e levantaram perseguição contra o Paulo e Barnabé, e expulsaram eles dos os limites deles,
+-- c13-v51: os porém tendo–sacudido o pó dos pés contra eles, foram para Icônio.
+-- c13-v52: Os então discípulos enchiam–se de–alegria e de–Espírito Santo.
+-- c14-v1: Aconteceu e, em Icônio segundo–o o mesmo entrarem eles na a sinagoga dos judeus, e falarem assim de–modo–que crerem, de–judeus tanto como de–gregos, grande multidão.
+-- c14-v2: Os porém desobedientes judeus incitaram e irritaram as almas dos gentios contra os irmãos.
+-- c14-v3: Considerável de–fato pois tempo permaneceram, falando–ousadamente, no o Senhor, o que–testemunhava à a palavra da graça dele, concedendo sinais e prodígios acontecerem, pelas as mãos deles.
+-- c14-v4: Dividiu–se porém a multidão da cidade; e os uns estavam com os judeus, os outros com os apóstolos.
+-- c14-v5: Quando porém houve ímpeto dos gentios tanto como de–judeus com, os governantes deles, para–ultrajarem e apedrejarem eles,
+-- c14-v6: tendo–percebido, fugiram para as cidades da Licaonia, Listra, e Derbe, e a região–ao–redor,
+-- c14-v7: e–ali evangelizando estavam.
+-- c14-v8: E certo homem impótente, em Listra, nos pés, estava–sentado, coxo de ventre de–mãe dele, que nunca andara.
+-- c14-v9: Este ouvia o Paulo falando, o–qual, tendo–fitado nele, e tendo–visto que tem fé para ser–curado,
+-- c14-v10: disse em–grande voz, Levanta–te sobre os pés teus reto! E saltou e andava.
+-- c14-v11: As então multidões tendo–visto o–que fez Paulo, levantaram a voz deles em–licaonio dizendo, Os deuses, tendo–se–tornado–semelhantes a–homens, desceram a nós.
+-- c14-v12: Chamavam então o Barnabé, Júpiter; o porém Paulo, Mercúrio, visto–que ele era o que–liderava da palavra.
+-- c14-v13: O então sacerdote de Júpiter, o que–estava diante da cidade, touros e grinaldas aos os portões tendo–trazido, com as multidões queria sacrificar.
+-- c14-v14: Tendo–ouvido porém os apóstolos Barnabé e Paulo, tendo–rasgado as vestes deles, saltaram para a multidão clamando,
+-- c14-v15: e dizendo, Homens, por–que estas–coisas fazeis? Também nós de–igual–natureza somos a–vós homens, evangelizando a–vós destas estas das vãs–coisas a–converterdes ao Deus vivo, que fez o céu, e a terra, e o mar, e todas as em eles–coisas;
+-- c14-v16: que, nas as passadas gerações, deixou todas as nações andarem nos caminhos deles.
+-- c14-v17: Embora não sem–testemunho a–si–mesmo deixou, fazendo–bem, do–céu a–vós chuvas dando, e estações frutíferas, enchendo de–alimento e de–alegria os corações vossos.
+-- c14-v18: E estas–coisas dizendo, dificilmente fizeram–parar as multidões de não sacrificarem a–eles.
+-- c14-v19: Vieram porém de Antioquia e de–Icônio judeus, e tendo–persuadido as multidões, e tendo–apedrejado o Paulo, arrastaram fora da cidade, supondo ele ter–morrido.
+-- c14-v20: Tendo–rodeado porém os discípulos ele, tendo–se–levantado, entrou na a cidade. E no dia–seguinte saiu com o Barnabé para Derbe.
+-- c14-v21: Tendo–evangelizado então a cidade aquela, e tendo–feito–discípulos muitos, voltaram para a Listra, e para Icônio, e para Antioquia,
+-- c14-v22: fortalecendo as almas dos discípulos, exortando a–permanecerem na fé, e que através de–muitas tribulações, é–necessário nós entrarmos no o reino de Deus.
+-- c14-v23: Tendo–nomeado e para–eles em–cada igreja presbíteros, tendo–orado, com jejuns encomendaram eles ao Senhor, em quem tinham–crido.
+-- c14-v24: E tendo–atravessado a Pisídia, foram para a Panfília,
+-- c14-v25: e tendo–falado em Perge a palavra, desceram para Atália;
+-- c14-v26: e–de–ali navegaram para Antioquia, de–onde tinham–sido entregues à graça de Deus, para a obra que cumpriram.
+-- c14-v27: Tendo–chegado e e tendo–reunido a igreja, relatavam quantas–coisas fez o Deus com eles, e que abriu aos gentios porta de–fé.
+-- c14-v28: Permaneciam e, tempo não pouco, com os discípulos.
+-- c15-v1: E alguns tendo–descido da a Judeia, ensinavam os irmãos, que Se não fordes–circuncidados segundo–o costume de Moisés, não podeis ser–salvos.
+-- c15-v2: Tendo–havido e discordância e discussão não pequena a Paulo e a Barnabé com eles, determinaram subirem, Paulo e Barnabé, e alguns outros dentre eles, aos os apóstolos e presbíteros, a Jerusalém, acerca desta questão esta.
+-- c15-v3: Eles de–fato pois tendo–sido–enviados pela a igreja passavam a tanto Fenícia como Samaria, relatando a conversão dos gentios. E faziam alegria grande a–todos os irmãos.
+-- c15-v4: Tendo–chegado e a Jerusalém, foram–recebidos pela a igreja e pelos apóstolos e pelos presbíteros. Relataram então quantas–coisas o Deus fez com eles.
+-- c15-v5: Levantaram–se porém alguns dos da a seita dos fariseus que–tinham–crido, dizendo, que é–necessário circuncidá–los, eles, ordenar então guardarem a lei de–Moisés.
+-- c15-v6: Reuniram–se então os apóstolos e os presbíteros, para–verem acerca desta palavra esta.
+-- c15-v7: Muita e discussão tendo–havido, tendo–se–levantado, Pedro disse a eles, Homens, irmãos, vós sabeis que desde dias antigos, entre vós, escolheu o Deus pela a boca minha, ouvirem os gentios a palavra do evangelho, e crerem.
+-- c15-v8: E o conhecedor–de–corações Deus testemunhou a–eles, dando o Espírito o Santo, assim–como também a–nós,
+-- c15-v9: e nada distinguiu entre nós tanto como eles, pela fé tendo–purificado os corações deles.
+-- c15-v10: Agora pois, por–que tentais o Deus, pôr jugo sobre o pescoço dos discípulos, que nem os pais nossos, nem nós, pudemos suportar?
+-- c15-v11: Mas pela a graça do Senhor Jesus, cremos ser–salvos, segundo o modo como–aqueles.
+-- c15-v12: Calou–se e toda a multidão, e ouviam a–Barnabé e a–Paulo relatando quantos fez o Deus, sinais e prodígios, entre os gentios por eles.
+-- c15-v13: Depois e do calarem–se eles, respondeu Tiago, dizendo, Homens, irmãos, ouvi– me.
+-- c15-v14: Simeão explicou como primeiro o Deus visitou, para–tomar dentre gentios povo, para–o nome dele.
+-- c15-v15: E com–isto concordam as palavras dos profetas, como está–escrito:
+-- c15-v16: Depois destas–coisas voltarei e reedificarei a tenda de–Davi a caída; e as ruínas dela reedificarei, e restaurarei ela,
+-- c15-v17: para–que possam buscar os restantes dos homens ao Senhor, e todas as nações, sobre as–quais é–invocado o nome meu sobre elas, diz o–Senhor, que–faz estas–coisas,
+-- c15-v18: conhecidas desde eternidade, é a Deus todas as obras dele.
+-- c15-v19: Por–isso eu julgo não incomodar aos, dos os gentios, que–se–convertem a o Deus;
+-- c15-v20: mas escrever a–eles para absterem–se das contaminações dos ídolos, e da fornicação, e do estrangulado, e do sangue.
+-- c15-v21: Moisés pois desde gerações antigas, em–cada cidade os que–pregam ele, tem nas as sinagogas, em–cada todo sábado sendo–lido.
+-- c15-v22: Então pareceu–bem aos apóstolos e aos presbíteros, com toda a igreja, tendo–escolhido homens dentre eles, enviarem a Antioquia, com o Paulo e Barnabé: Judas o chamado Barsabás, e Silas, homens líderes entre os irmãos,
+-- c15-v23: tendo–escrito pela mão deles, Os apóstolos e os presbíteros, irmãos, aos pela a Antioquia e Síria e Cilícia: irmãos aos dentre gentios, saudações.
+-- c15-v24: Visto–que ouvimos que alguns dentre nós tendo–saído, perturbaram a–vós com–palavras, transtornando as almas vossas, dizendo serdes–circuncidados e guardardes a lei, aos–quais não ordenamos;
+-- c15-v25: pareceu–bem a–nós tendo–nos–tornado de–umânimes, tendo–escolhido homens, enviar a vós, com os amados nossos, Barnabé e Paulo,
+-- c15-v26: homens que–têm–entregue as vidas deles, pelo o nome do Senhor nosso, Jesus Cristo.
+-- c15-v27: Enviamos pois a–Judas e Silas, também eles por palavra anunciando as mesmas–coisas.
+-- c15-v28: Pareceu–bem pois ao Espírito o Santo e a–nós, nenhum mais colocar sobre–vós peso, além destas das necessárias–coisas:
+-- c15-v29: absterdes–vos de–sacrificados–a–ídolos, e de–sangue, e de–estrangulados, e de–fornicação. Das–quais das–quais guardando–vos a–vós–mesmos, bem fareis. Passai–bem.
+-- c15-v30: Eles de–fato pois, tendo–sido–despedidos, desceram para Antioquia, e tendo–reunido a multidão, entregaram a carta.
+-- c15-v31: Tendo–lido e, alegraram–se com a exortação.
+-- c15-v32: Judas então e Silas, também eles profetas sendo, por palavra muita, exortaram os irmãos, e fortaleceram.
+-- c15-v33: Tendo–passado e tempo, foram–despedidos com paz pelos os irmãos, para os que–os–enviaram eles.
+-- c15-v34: Pareceu–bem porém a Silas permanecer ali.
+-- c15-v35: Paulo porém e Barnabé permaneciam em Antioquia, ensinando e evangelizando, com também outros muitos, a palavra do Senhor.
+-- c15-v36: Depois porém de–alguns dias, disse a Barnabé, Paulo, Tendo–voltado pois visitemos os irmãos em–cada cidade toda, nas quais anunciamos a palavra do Senhor, como estão.
+-- c15-v37: Barnabé porém queria levar–juntamente, também o João o chamado Marcos;
+-- c15-v38: Paulo porém considerava–digno, o que–se–afastara de eles desde Panfília, e não tendo–ido–com eles para a obra, não levar–juntamente este.
+-- c15-v39: Houve e irritação, de–modo–que separarem–se eles um–do outro. O então Barnabé, tendo–tomado o Marcos, navegou para Chipre;
+-- c15-v40: Paulo porém, tendo–escolhido Silas, saiu, tendo–sido–entregue à graça do Senhor pelos os irmãos.
+-- c15-v41: Passava e pela Síria e pela Cilícia, fortalecendo as igrejas.
+-- c16-v1: Chegou e também a Derbe e a Listra. E eis, discípulo certo estava ali, por–nome Timóteo, filho de–mulher judia crente, de–pai porém grego,
+-- c16-v2: que era–testemunhado pelos os em Listra e Icônio irmãos.
+-- c16-v3: Este quis o Paulo com ele sair, e tendo–tomado, circuncidou ele, por–causa dos judeus os que–estavam nos os lugares aqueles; sabiam pois todos, que grego o pai dele era.
+-- c16-v4: Quando e passavam as cidades, entregavam a–eles para–guardarem, os decretos os decididos pelos os apóstolos e presbíteros os em Jerusalém.
+-- c16-v5: As de–fato pois igrejas eram–fortalecidas na fé, e abundavam em número cada dia.
+-- c16-v6: Passaram e pela Frígia, e a–galática região, tendo–sido–impedidos pelo o Santo Espírito de–falarem a palavra na a Ásia,
+-- c16-v7: tendo–vindo e até a Mísia, tentavam para a Bitínia irem; e não permitiu eles o Espírito de–Jesus;
+-- c16-v8: tendo–passado e a Mísia, desceram para Trôade.
+-- c16-v9: E visão durante a noite a Paulo apareceu: homem macedônio certo estava de–pé, e rogando a–ele, e dizendo, Tendo–passado para Macedônia, ajuda– nos.
+-- c16-v10: Quando e a visão viu, imediatamente procuramos sair para Macedônia, concluindo que nos–tinha–chamado a–nós o Deus para–evangelizar a–eles.
+-- c16-v11: Tendo–navegado e de Trôade, fomos–em–linha–reta para Samotrácia, no e seguinte–dia, para Neápolis, cidade,
+-- c16-v12: e–de–ali para Filipos, que é primeira da parte de–Macedônia cidade, colônia. Estávamos e nesta a cidade cidade permanecendo dias alguns.
+-- c16-v13: No então dia dos sábados, saímos fora da porta, ao–longo de–rio, onde supuníamos lugar–de–oração haver, e tendo–nos–sentado, falávamos às que–tinham–se–reunido mulheres.
+-- c16-v14: E certa mulher, por–nome Lídia, vendedora–de–púrpura de–cidade de–Tiatira, que–adorava a Deus, ouvia; da–qual o Senhor abriu o coração, para–atender às coisas–faladas pelo o Paulo.
+-- c16-v15: Quando e foi–batizada, e a casa dela, rogou, dizendo, Se julgastes– me fiel ao Senhor ser, tendo–entrado na a casa minha, ficai. E constrangeu– nos.
+-- c16-v16: Aconteceu e, indo nós para o lugar–de–oração, serva certa, tendo espírito de–Píton, encontrar– nos, a–qual lucro muito dava aos senhores dela adivinhando.
+-- c16-v17: Esta, seguindo a Paulo e a–nós clamava, dizendo, Estes os homens servos do Deus do Altíssimo são, os–quais anunciam a–vós caminho de–salvação.
+-- c16-v18: Isto e fazia por muitos dias. Tendo–se–perturbado e, Paulo, e tendo–se–voltado ao espírito, disse, Ordeno– te em nome de–Jesus Cristo saíres de ela. E saiu nela a hora.
+-- c16-v19: Tendo–visto e os senhores dela, que saiu a esperança do lucro deles, tendo–agarrado o Paulo e o Silas, arrastaram para a praça diante dos governantes;
+-- c16-v20: e tendo–trazido eles aos magistrados, disseram, Estes os homens perturbam nossa a cidade, judeus sendo,
+-- c16-v21: e anunciam costumes, que não é–lícito a–nós recebermos nem praticarmos, romanos sendo.
+-- c16-v22: E levantou–se–juntamente a multidão contra eles, e os magistrados tendo–rasgado deles as vestes, ordenavam baterem–com–varas.
+-- c16-v23: Muitos então tendo–dado a–eles golpes, lançaram na prisão, tendo–ordenado ao carcereiro seguramente guardar eles.
+-- c16-v24: O–qual ordem tal tendo–recebido, lançou eles na a interior prisão, e os pés prendeu deles no o tronco.
+-- c16-v25: Pela e a meia–noite, Paulo e Silas, orando, cantavam–hinos a Deus. Escutavam e eles os prisioneiros.
+-- c16-v26: De–repente e terremoto houve grande, de–modo–que abalarem–se os alicerces da prisão. Abriram–se e imediatamente as portas todas, e de–todos as cadeias soltaram–se.
+-- c16-v27: Acordado e tendo–se–tornado o carcereiro, e tendo–visto abertas as portas da prisão, tendo–desembainhado a espada, estava–para a–si–mesmo matar, supondo terem–fugido os prisioneiros.
+-- c16-v28: Clamou porém o Paulo em–grande voz, dizendo, Nenhum faças a–ti–mesmo mal; todos pois estamos aqui.
+-- c16-v29: Tendo–pedido e luzes, saltou–dentro, e trêmulo tendo–se–tornado, caiu–diante de Paulo e de Silas.
+-- c16-v30: E tendo–trazido eles fora disse, Senhores, que a–mim é–necessário fazer, para–que seja–salvo?
+-- c16-v31: Eles e disseram, Crê no o Senhor Jesus, e serás–salvo, tu e a casa tua.
+-- c16-v32: E falaram a–ele a palavra do Senhor, com todos os na a casa dele.
+-- c16-v33: E tendo–tomado eles naquela a hora hora da noite, lavou de as feridas; e foi–batizado, ele e os dele todos imediatamente.
+-- c16-v34: Tendo–levado então eles para a casa, pôs–diante mesa, e alegrou–se com–toda–a–casa, tendo–crido em Deus.
+-- c16-v35: De–dia e tendo–havido, enviaram os magistrados os lictores, dizendo, Solta os homens aqueles.
+-- c16-v36: Anunciou e o carcereiro as palavras estas a o Paulo que, Enviaram os magistrados, para–que sejais–soltos. Agora pois tendo–saído, ide em paz.
+-- c16-v37: O e Paulo disse a eles, Tendo–açoitado a–nós publicamente sem–julgamento, homens, romanos sendo, lançaram na prisão, e agora secretamente a–nós lançam–fora? Não pois; mas tendo–vindo eles a–nós tirem.
+-- c16-v38: Anunciaram e aos magistrados os lictores as palavras estas. Temeram e, tendo–ouvido que romanos são.
+-- c16-v39: E tendo–vindo, rogaram a–eles, e tendo–tirado, pediam saírem da a cidade.
+-- c16-v40: Tendo–saído e da a prisão, entraram para a Lídia; e tendo–visto, exortaram os irmãos e partiram.
+-- c19-v1: Aconteceu e, em o– o– Apolo estar em Corinto, Paulo, tendo–atravessado as– superiores regiões, vir a Éfeso, e encontrar alguns discípulos,
+-- c19-v2: disse e a eles, Se Espírito Santo recebestes, tendo–crido? os– porém a ele, Mas nem se Espírito Santo há, ouvimos.
+-- c19-v3: disse e, Em que então fostes–batizados? os– porém disseram, Em o– de–João batismo.
+-- c19-v4: disse porém Paulo, João batizou batismo de–arrependimento, ao– povo dizendo, em o– que–vem depois–de ele, para–que cressem, isto é, em o– Jesus.
+-- c19-v5: tendo–ouvido porém, foram–batizados em o– nome do– Senhor Jesus.
+-- c19-v6: e tendo–imposto a–eles o– Paulo [as–] mãos, veio o– Espírito o– Santo sobre eles; falavam e em–línguas e profetizavam.
+-- c19-v7: eram porém os– todos homens cerca–de doze.
+-- c19-v8: Tendo–entrado porém na a– sinagoga, falava–com–ousadia, durante meses três, discutindo, e persuadindo [as–coisas] acerca do– reino de– Deus.
+-- c19-v9: quando porém alguns se–endureciam e desobedeciam, falando–mal do– Caminho, diante da– multidão, tendo–se–afastado de eles, separou, os– discípulos, cada dia discutindo na a– escola de–Tirano.
+-- c19-v10: isto porém aconteceu por anos dois, de–modo–que todos os– que–habitavam a– Ásia ouvissem a– palavra do– Senhor, Judeus tanto como Gregos.
+-- c19-v11: Poderes e não os– comuns, o– Deus fazia por das– mãos de–Paulo,
+-- c19-v12: de–modo–que também sobre os– enfermos serem–levados de a– pele dele lenços ou aventais, e se–afastarem de eles as– doenças, os– e espíritos os– maus saírem.
+-- c19-v13: Tentaram porém alguns também dos– que–andavam–de–lugar–em–lugar Judeus, exorcistas, nomear sobre os– que–tinham os– espíritos os– maus, o– nome do– Senhor Jesus, dizendo, Esconjuro vos, o– Jesus, a–quem Paulo prega.
+-- c19-v14: eram porém de–certo Ceva, Judeu sumo–sacerdote, sete filhos, isto fazendo.
+-- c19-v15: tendo–respondido porém, o– espírito o– mau disse a–eles O– [na–verdade] Jesus conheço, e o– Paulo sei; vós porém, quem sois?
+-- c19-v16: e saltando o– homem sobre eles, em quem estava o– espírito o– mau, tendo–dominado a–ambos, prevaleceu contra eles, de–modo–que nus e feridos fugirem de a– casa aquela.
+-- c19-v17: isto porém se–tornou conhecido a–todos Judeus tanto como Gregos os– que–habitavam a– Éfeso, e caiu temor sobre todos eles, e era–magnificado o– nome do– Senhor Jesus.
+-- c19-v18: muitos e dos– que–haviam–crido vinham, confessando e declarando as– práticas deles.
+-- c19-v19: muitos porém dos– as– curiosas–artes que–praticaram, tendo–ajuntado os– livros, queimavam diante de–todos. e calcularam os– preços deles, e acharam de–prata miríades cinco.
+-- c19-v20: Assim segundo o–poder do– Senhor a– palavra crescia e prevalecia.
+-- c19-v21: Quando porém se–cumpriu estas–coisas, propôs o– Paulo no o– espírito, tendo–atravessado a– Macedônia e Acaia, ir a Jerusalém, dizendo, que Depois–de o– ter–estado eu ali, é–necessário eu também Roma ver.
+-- c19-v22: tendo–enviado porém a a– Macedônia, dois dos– que–o–serviam a–ele, Timóteo e Erasto, ele–mesmo deteve–se tempo na a– Ásia.
+-- c19-v23: Aconteceu porém, por o– tempo aquele, tumulto não pequeno acerca do– Caminho.
+-- c19-v24: Demétrio pois certo de–nome, ourives, fazendo templos de–prata de–Ártemis, proporcionava aos– artífices não pequeno lucro;
+-- c19-v25: os–quais tendo–reunido, e os– acerca de–as– tais–coisas trabalhadores, disse, Homens, sabeis que desta desta– a– atividade a– prosperidade a–nós é.
+-- c19-v26: e vedes e ouvis que não somente de–Éfeso, mas quase de–toda a– Ásia, o– Paulo, este tendo–persuadido, desviou grande multidão, dizendo que não são deuses, os– por mãos feitos.
+-- c19-v27: não somente porém isto está–em–perigo para–nós, a– parte em descrédito cair, mas também o– da– grande deusa Ártemis templo, em nada ser–considerado, estar–prestes e também ser–destruída a– majestade dela, a–quem toda a– Ásia e a– terra adora.
+-- c19-v28: Tendo–ouvido porém, e ficando cheios de–ira, clamavam dizendo, Grande é–a– Ártemis dos–Efésios.
+-- c19-v29: e encheu–se a– cidade da– confusão; precipitaram–se e unanimemente para o– teatro, tendo–arrebatado Gaio e Aristarco, Macedônios, companheiros–de–viagem de–Paulo.
+-- c19-v30: de–Paulo porém, querendo entrar para o– povo; não deixavam a–ele os– discípulos,
+-- c19-v31: alguns porém também dos– asiarcas, sendo a–ele amigos, tendo–enviado a ele, rogavam não dar a–si–mesmo para o– teatro.
+-- c19-v32: outros pois então outra coisa clamavam; estava pois a– assembleia confusa, e os– mais não sabiam por–causa–de–que causa haviam–se–reunido.
+-- c19-v33: de porém a– multidão instruíram Alexandre, tendo–empurrado a–ele os– Judeus. o– porém Alexandre, tendo–acenado a– mão, queria fazer–defesa ao– povo.
+-- c19-v34: tendo–reconhecido porém que Judeu é, voz houve uma de todos, por cerca–de horas duas clamando, Grande é–a– Ártemis dos–Efésios.
+-- c19-v35: tendo–acalmado porém o– escrivão a– multidão, diz, Homens, Efésios, qual pois é de–homens que não sabe a– dos–Efésios cidade guardiã sendo da– grande Ártemis, e da– imagem–caída–do–céu?
+-- c19-v36: sendo–incontestáveis então sendo estas–coisas, necessário é vos quietos estardes, e nada precipitado fazerdes.
+-- c19-v37: trouxestes pois os– homens estes, nem saqueadores–de–templos nem blasfemando a– deusa nossa.
+-- c19-v38: se pois então Demétrio e os– com ele artífices têm, contra alguém queixa, audiências se–realizam, e procônsules há; acusem–se uns–aos–outros.
+-- c19-v39: se porém algo além buscais, na a– legal assembleia será–resolvido.
+-- c19-v40: pois também corremos–risco de–sermos–acusados de–sedição acerca do– de–hoje, nenhuma causa existindo acerca, da–qual não poderemos dar razão acerca desta– reunião desta.
+-- c19-v41: e estas–coisas tendo–dito, despediu a– assembleia.
+-- c20-v1: Depois–de porém o– cessar o– tumulto, tendo–mandado–chamar o– Paulo os– discípulos, e tendo–exortado tendo–se–despedido, saiu para–ir a Macedônia.
+-- c20-v2: tendo–atravessado porém as– regiões aquelas, e tendo–exortado a–eles com–palavra muita, veio a a– Grécia.
+-- c20-v3: tendo–passado e meses três, tendo–havido cilada contra–ele pelos– os– Judeus, estando–para navegar para a– Síria, foi de–resolução o– voltar por Macedônia.
+-- c20-v4: acompanhavam porém a–ele Sópatro de–Pirro, de–Bereia; dos–tessalonicenses porém, Aristarco e Secundo; e Gaio de–Derbe e Timóteo; asiáticos porém, Tíquico e Trófimo.
+-- c20-v5: estes porém tendo–ido–adiante, esperavam nos em Trôade;
+-- c20-v6: nós porém navegamos, depois–de os– dias dos– pães–ázimos, de Filipos, e viemos a eles a a– Trôade; dentro–de dias cinco, onde passamos dias sete.
+-- c20-v7: No porém o– primeiro dos– sábados, estando–reunidos nós para–partir pão, o– Paulo discursava a–eles, estando–para partir no– dia–seguinte; prolongou e o– discurso até meia–noite.
+-- c20-v8: havia porém lâmpadas muitas no o– cenáculo, onde estávamos reunidos.
+-- c20-v9: estando–sentado porém certo jovem, de–nome Éutico, sobre a– janela, sendo–tomado por–sono profundo, discursando o– Paulo ainda mais, tendo–sido–dominado pelo– o– sono, caiu do– o– terceiro–andar abaixo, e foi–levantado morto.
+-- c20-v10: tendo–descido porém, o– Paulo lançou–se–sobre ele, e tendo–abraçado disse, Não vos–perturbeis; a– pois alma dele, nele nele está.
+-- c20-v11: tendo–subido porém, e tendo–partido o– pão, e tendo–provado, por muito e tendo–conversado até a–aurora, assim partiu.
+-- c20-v12: trouxeram porém o– rapaz vivo, e foram–consolados não pouco.
+-- c20-v13: Nós porém, tendo–ido–adiante para o– navio, navegamos para a– Asso, dali estando–para tomar o– Paulo. assim pois tendo–ordenado, estava estando–para ele–mesmo ir–a–pé.
+-- c20-v14: quando porém se–encontrou–conosco a–nós em a– Asso, tendo–o–tomado, a–ele, viemos a Mitilene;
+-- c20-v15: e–de–ali tendo–navegado, no– seguinte chegamos defronte de–Quios. no– porém outro aportamos a Samos; no– porém seguinte viemos a Mileto.
+-- c20-v16: tinha–decidido pois o– Paulo passar a– Éfeso, para–que não lhe–acontecesse a–ele demorar–se na a– Ásia; apressava–se pois, se possível lhe–fosse a–ele, o– dia de– Pentecostes estar em Jerusalém.
+-- c20-v17: De porém a– Mileto, tendo–enviado a Éfeso, mandou–chamar os– presbíteros da– igreja.
+-- c20-v18: quando porém chegaram a ele, disse a–eles, Vós sabeis, desde o–primeiro dia desde que pisei na a– Ásia, como convosco vosco o– todo tempo estive,
+-- c20-v19: servindo ao– Senhor com toda humildade, e lágrimas, e provações, as– que–me–sobrevieram a–mim nas as– ciladas dos– Judeus;
+-- c20-v20: como em–nada me–esquivei das–coisas– que–eram–proveitosas, de– não anunciar a–vós, e ensinar vos publicamente e de casa–em–casa,
+-- c20-v21: testificando a–Judeus tanto como a–Gregos, o– para Deus arrependimento, e fé no o– Senhor nosso, Jesus {Cristo}.
+-- c20-v22: e agora, eis, ligado eu ao– espírito, vou a Jerusalém, as–coisas em ela que–me–encontrarão a–mim, não sabendo;
+-- c20-v23: senão–que que o– Espírito o– Santo de cidade–em–cidade me–testifica a–mim, dizendo que prisões e tribulações me aguardam.
+-- c20-v24: mas de–nenhuma coisa faço a– vida preciosa a–mim–mesmo, para completar a– carreira minha, e o– ministério que recebi de o– Senhor Jesus, de–testificar o– evangelho da– graça de– Deus.
+-- c20-v25: e agora, eis, eu sei que não–mais vereis o– rosto meu, vós todos, entre os–quais passei pregando o– reino.
+-- c20-v26: por–isso vos–testifico a–vós no o– de–hoje dia, que puro estou do– o– sangue de–todos,
+-- c20-v27: não pois, me–esquivei de– não anunciar todo o– propósito de– Deus a–vós.
+-- c20-v28: atendei a–vós–mesmos e a–todo o– rebanho, em que vos o– Espírito o– Santo constituiu bispos, para–apascentar a– igreja de– Deus, que adquiriu por o– sangue o– próprio.
+-- c20-v29: eu sei que entrarão depois–de a– partida minha, lobos ferozes, entre vós, não poupando o– rebanho,
+-- c20-v30: e dentre vós mesmos, se–levantarão homens falando coisas–perversas, para– arrastar os– discípulos após si–mesmos.
+-- c20-v31: portanto vigiai, lembrando que por–três–anos, noite e dia, não cessei com lágrimas de–admoestar um cada–um.
+-- c20-v32: e as– agora vos–encomendo a–vós, a– Deus, e à– palavra da– graça dele, à– que–pode edificar e dar a– herança entre os– santificados todos.
+-- c20-v33: prata ou ouro ou veste de–ninguém cobicei.
+-- c20-v34: vós–mesmos sabeis que às– necessidades minhas, e aos– que–estavam comigo comigo, serviram as– mãos estas.
+-- c20-v35: em–tudo vos–mostrei a–vós, que assim trabalhando é–necessário ajudar aos– fracos, e–lembrar e das– palavras do– Senhor Jesus que ele–mesmo disse, Bem–aventurado é mais, dar do–que receber.
+-- c20-v36: e estas–coisas tendo–dito, tendo–posto os– joelhos seus, com todos eles orou.
+-- c20-v37: grande porém pranto houve de–todos; e lançando–se sobre o– pescoço do– Paulo, o–beijavam a–ele,
+-- c20-v38: entristecidos sobretudo pela– a– palavra que havia–dito, que não–mais estavam–para o– rosto dele ver. acompanhavam porém a–ele para o– navio.
+-- c21-v1: Quando porém aconteceu partirmos nós, tendo–nos–separado de eles, navegando–diretamente viemos a a– Cós, no– porém seguinte a a– Rodes, e–de–ali a Pátara.
+-- c21-v2: e tendo–encontrado navio que–atravessava para Fenícia, tendo–embarcado, partimos.
+-- c21-v3: tendo–avistado porém a– Chipre, e tendo–deixado ela à–esquerda, navegamos para Síria, e desembarcamos em Tiro. ali pois o– navio estava descarregando a– carga.
+-- c21-v4: tendo–encontrado porém os– discípulos, ficamos ali dias sete; os–quais ao– Paulo diziam por o– Espírito não subir a Jerusalém.
+-- c21-v5: quando porém aconteceu completarmos nós os– dias, tendo–saído, viajávamos, acompanhando–nos nos todos com mulheres e filhos, até fora da– cidade. e tendo–posto os– joelhos sobre a– praia, tendo–orado,
+-- c21-v6: nos–despedimos uns–dos–outros. e embarcamos no o– navio; aqueles porém voltaram para as– próprias–casas.
+-- c21-v7: Nós porém, a– viagem tendo–completado de Tiro, chegamos a Ptolemaida, e tendo–saudado os– irmãos, ficamos dia um com eles.
+-- c21-v8: no– porém dia–seguinte, tendo–saído, viemos a Cesareia; e tendo–entrado na a– casa de–Filipe o– evangelista, sendo de os– sete, ficamos com ele.
+-- c21-v9: a–este porém havia filhas quatro, virgens, que–profetizavam.
+-- c21-v10: Permanecendo porém dias muitos, desceu certo da a– Judeia profeta, de–nome Ágabo;
+-- c21-v11: e tendo–vindo a nós, e tendo–tomado o– cinto do– Paulo, tendo–amarrado de–si–mesmo os– pés e as– mãos disse, Estas–coisas diz o– Espírito o– Santo, O– homem de–quem é o– cinto este, assim amarrarão em Jerusalém os– Judeus, e entregarão em mãos de–gentíos.
+-- c21-v12: quando porém ouvimos estas–coisas, rogávamos nós tanto como os– locais, o– não subir ele a Jerusalém.
+-- c21-v13: então respondeu o– Paulo, Que fazeis, chorando e quebrando de–mim o– coração? eu pois não somente a–ser–amarrado, mas também a–morrer em Jerusalém, prontamente tenho, por o– nome do– Senhor Jesus.
+-- c21-v14: não sendo–persuadido porém ele, aquietamo–nos, dizendo, Do– Senhor a– vontade seja–feita.
+-- c21-v15: Depois–de porém os– dias estes, tendo–nos–preparado subíamos a Jerusalém.
+-- c21-v16: foram porém também dos– discípulos de Cesareia conosco conosco, trazendo com quem nos–hospedássemos, Mnásom certo, Cipriota, antigo discípulo.
+-- c21-v17: Tendo–chegado porém nós a, Jerusalém de–bom–grado receberam nos os– irmãos.
+-- c21-v18: no– porém dia–seguinte, entrou o– Paulo conosco conosco junto–a Tiago, todos e estavam–presentes os– presbíteros.
+-- c21-v19: e tendo–os–saudado a–eles relatou, uma–por–uma uma cada–uma, as–coisas–que fez o– Deus entre os– gentíos, por o– ministério dele.
+-- c21-v20: eles porém tendo–ouvido, glorificavam a– Deus. disseram e a–ele, Vês, irmão, quantas miríades são entre os– Judeus dos– que–creram, e todos zelosos da– lei são.
+-- c21-v21: foram–informados porém acerca de–ti, que apostasia ensinas, de Moisés, aos– entre os– gentíos todos Judeus, dizendo não circuncidar a–eles os– filhos, nem nos– costumes andar.
+-- c21-v22: que então é? certamente ouvirão que vieste.
+-- c21-v23: isto então faze o–que a–ti dizemos. há a–nós homens quatro, voto tendo sobre si–mesmos.
+-- c21-v24: a–estes tendo–tomado, purifica–te com eles, e gasta por eles, para–que rapem a– cabeça; e saberão todos que das–coisas–que foram–informados, acerca de–ti nada é, mas andas também tu–mesmo, guardando a– lei.
+-- c21-v25: acerca porém dos– que–creram gentíos, nós enviamos, tendo–julgado guardarem–se eles, do– tanto sacrificado–a–ídolos, como sangue, como sufocado, como fornicar.
+-- c21-v26: então o– Paulo, tendo–tomado os– homens, no– seguinte dia, com eles tendo–se–purificado, entrou no o– templo, anunciando o– cumprimento dos– dias da– purificação, até que fosse–oferecida por um cada–um deles a– oferta.
+-- c21-v27: Quando porém estavam–para os– sete dias se–cumprir, os– da a– Ásia Judeus, tendo–o–visto a–ele no o– templo, agitaram toda a– multidão, e lançaram sobre ele as– mãos,
+-- c21-v28: clamando, Homens, Israelitas, ajudai! este é o– homem que, contra o– povo, e a– lei, e o– lugar este a–todos em–todo–lugar ensina; ainda e também Gregos introduziu no o– templo, e profanou o– santo lugar este.
+-- c21-v29: tinham pois visto–antes Trófimo o– Efésio na a– cidade com ele, a–quem supunham que no o– templo introduzira o– Paulo.
+-- c21-v30: comoveu–se e a– cidade toda, e houve ajuntamento do– povo. e tendo–agarrado a– Paulo, arrastavam a–ele fora do– templo, e imediatamente foram–fechadas as– portas.
+-- c21-v31: Procurando e a–ele matar, subiu notícia ao– tribuno da– coorte, que toda estava–em–confusão Jerusalém;
+-- c21-v32: o–qual imediatamente, tendo–tomado soldados e centuriões, desceu–correndo sobre eles. eles porém tendo–visto o– tribuno e os– soldados, pararam de–espancar o– Paulo.
+-- c21-v33: então tendo–se–aproximado, o– tribuno o–prendeu a–ele, e ordenou ser–atado com–cadeias duas, e perguntava quem era, e que é tendo–feito.
+-- c21-v34: outros porém, outra coisa, gritavam na a– multidão. não podendo porém ele saber o– certo por–causa–de o– tumulto, ordenou ser–levado a–ele para a– fortaleza.
+-- c21-v35: quando porém chegou sobre os– degraus, aconteceu ser–carregado ele pelos– os– soldados, por–causa–de a– violência da– multidão.
+-- c21-v36: seguia pois a– multidão do– povo, clamando, Fora–com ele.
+-- c21-v37: Estando–para e ser–levado para a– fortaleza, o– Paulo diz ao– tribuno, Se é–lícito a–mim, dizer algo a ti? ele porém disse, Em–grego sabes?
+-- c21-v38: não então tu és o– Egípcio, o–que antes destes os– dias, tendo–sublevado e tendo–levado para o– deserto os– quatro–mil homens dos– sicários?
+-- c21-v39: disse porém o– Paulo, Eu homem de–fato sou Judeu de–Tarso, da– Cilícia, não insignificante cidade cidadão. rogo–te porém a–ti, permite a–mim falar ao– o– povo.
+-- c21-v40: tendo–permitido porém ele, o– Paulo, estando–de–pé sobre os– degraus acenou com–a– mão ao– povo; grande porém silêncio havendo, falou na– Hebraica língua, dizendo,
+-- c25-v1: Festo pois tendo–chegado à província, depois–de três dias subiu a Jerusalém de Cesareia.
+-- c25-v2: apresentaram e a–ele, os sumos–sacerdotes e os principais dos judeus, contra o Paulo, e rogavam a–ele,
+-- c25-v3: pedindo favor contra ele— para–que mandasse–buscar ele a Jerusalém— emboscada fazendo, para–matar ele pelo o caminho.
+-- c25-v4: o porém pois Festo respondeu, ser–guardado o Paulo em Cesareia, ele–mesmo porém estar–para em breve partir.
+-- c25-v5: Os pois entre vós, disse, poderosos descendo–juntos, se algo há no o homem errado, acusem ele.
+-- c25-v6: Tendo–passado porém entre eles dias, não mais oito ou dez, tendo–descido a Cesareia, no dia–seguinte tendo–sentado sobre o tribunal, ordenou o Paulo ser–trazido.
+-- c25-v7: tendo–chegado porém ele, rodearam ele os de Jerusalém tendo–descido judeus, muitas e graves acusações trazendo, que não podiam provar.
+-- c25-v8: o Paulo defendendo–se que: Nem contra a lei dos judeus, nem contra o templo, nem contra César, algo pequei.
+-- c25-v9: o Festo porém, querendo aos judeus favor conceder, respondendo ao Paulo, disse, Queres a Jerusalém, subindo, ali acerca destas–coisas ser–julgado diante–de mim?
+-- c25-v10: disse porém o Paulo, Estando diante–do o tribunal de–César estou, onde me é–necessário ser–julgado. Aos–judeus nada prejudiquei, como também tu muito–bem reconheces.
+-- c25-v11: se porém pois faço–mal, e digno de–morte pratiquei algo, não recuso o morrer; se porém nada é das–que estes acusam de–mim, ninguém me pode a–eles entregar. A–César apelo!
+-- c25-v12: então o Festo, tendo–conferenciado com o conselho, respondeu, A–César apelaste, a César irás!
+-- c25-v13: De–dias porém tendo–passado alguns, Agripa o rei e Berenice chegaram a Cesareia, saudando o Festo.
+-- c25-v14: como porém muitos dias permaneciam ali, o Festo ao rei expôs as–coisas acerca–de o Paulo, dizendo, Homem certo está deixado por Félix prisioneiro,
+-- c25-v15: acerca de–quem, tendo–ido eu a Jerusalém, apresentaram os sumos–sacerdotes e os anciãos dos judeus, pedindo contra ele condenação;
+-- c25-v16: aos quais respondi que, não é costume dos–romanos entregar algum homem antes que o acusado, face–a face tenha os acusadores lugar, e de–defesa receba acerca da acusação.
+-- c25-v17: tendo–reunido pois [eles] aqui, demora nenhuma tendo–feito, no seguinte tendo–sentado sobre o tribunal, ordenei ser–trazido o homem,
+-- c25-v18: acerca de–quem, de–pé, os acusadores nenhuma causa traziam, das–que eu supunha más.
+-- c25-v19: questões porém algumas acerca da própria religião, tinham contra ele, e acerca de–certo Jesus morto, o–qual afirmava o Paulo viver.
+-- c25-v20: perplexo porém, eu a acerca destas–coisas investigação dizia, se desejava ir a Jerusalém, e–ali ser–julgado acerca destas–coisas.
+-- c25-v21: o porém Paulo, tendo–apelado para–ser–guardado ele para a do Augusto decisão, ordenei ser–guardado ele, até que o–envie ele a César.
+-- c25-v22: Agripa porém a o Festo, Desejava também eu–mesmo o homem ouvir. Amanhã, disse, ouvirás ele.
+-- c25-v23: No pois dia–seguinte, tendo–vindo o Agripa e a Berenice, com muita pompa, e tendo–entrado no o auditório, com tanto tribunos como homens os de eminência da cidade, e tendo–ordenado o Festo, foi–trazido o Paulo.
+-- c25-v24: e diz o Festo, Agripa rei, e todos os presentes–conosco a–nós, homens, vedes este, acerca de–quem toda a multidão dos judeus apelou–a mim, em tanto Jerusalém como aqui, clamando não dever ele viver mais.
+-- c25-v25: eu porém, compreendi nada digno ele de–morte ter–praticado, ele porém este tendo–apelado ao Augusto, decidi enviá–lo,
+-- c25-v26: acerca de–quem, seguro algo escrever ao senhor, não tenho. por–isso trouxe ele diante–de vós, e principalmente diante–de ti, rei Agripa, para–que o interrogatório tendo–sido–feito, tenha algo para–escrever.
+-- c25-v27: irracional pois a–mim parece enviando prisioneiro, não também as contra ele acusações indicar.
+-- c26-v1: Agripa porém a o Paulo disse, É–permitido a–ti por ti–mesmo falar. então o Paulo, estendendo a mão, defendia–se:
+-- c26-v2: Acerca de–todas–as–coisas das–quais sou–acusado por judeus, rei Agripa, considero a–mim–mesmo feliz diante–de ti, estando–para hoje defender–me.
+-- c26-v3: especialmente conhecedor sendo tu de–todos os segundo os–judeus costumes, tanto como questões; por–isso peço, pacientemente ouvir me.
+-- c26-v4: A porém pois vida minha, a desde juventude, a desde o–princípio tendo–sido na a nação minha, em tanto Jerusalém, sabem todos [os] judeus,
+-- c26-v5: conhecendo me de–antes, se quiserem testemunhar, que conforme a mais–rigorosa seita da nossa religião, vivi fariseu.
+-- c26-v6: e agora por esperança da aos os pais nossos promessa, tendo–sido–feita por o Deus, estou sendo–julgado,
+-- c26-v7: para a–qual as doze–tribos nossas em fervor, noite e dia, servindo, esperam alcançar; acerca da–qual esperança sou–acusado por judeus, rei.
+-- c26-v8: por–que incrível é–julgado entre vós, se o Deus mortos ressuscita?
+-- c26-v9: eu porém pois pensei comigo–mesmo contra o nome de–Jesus o Nazareno, dever muitas–coisas contrárias praticar.
+-- c26-v10: o–que também fiz em Jerusalém; e muitos tanto dos santos eu em prisões encerrei, a da–parte–dos dos sumos–sacerdotes autoridade tendo–recebido; sendo–mortos também eles, dei voto.
+-- c26-v11: e por todas as sinagogas, muitas–vezes punindo eles, forçava a–blasfemar. excessivamente também enfurecido contra–eles, perseguia até mesmo às as de–fora cidades,
+-- c26-v12: Em tais–coisas, indo a a Damasco, com autoridade e comissão da dos sumos–sacerdotes,
+-- c26-v13: de–dia ao–meio, pelo o caminho vi, rei, do–céu acima–de, a brilho do sol, resplandecendo–ao–redor–de mim, luz; e os com mim viajando.
+-- c26-v14: todos tanto tendo–caído nós na a terra, ouvi voz, dizendo a mim na hebraica língua, Saulo, Saulo, por–que me persegues? duro para–ti contra aguilhões recalcitrar.
+-- c26-v15: eu porém disse, Quem és, Senhor? o porém Senhor disse, Eu sou Jesus, a–quem tu persegues.
+-- c26-v16: Mas levanta–te, e fica–de–pé sobre os pés teus; para isto pois, apareci a–ti, para–designar te servo, e testemunha, das–que tanto viste me, das–que também aparecerei a–ti,
+-- c26-v17: livrando te do o povo e dos os gentios, aos quais eu te–envio te,
+-- c26-v18: para–abrir olhos deles, para converter das trevas à luz, e do poder de Satanás para o Deus, para receberem eles perdão de–pecados, e herança entre os santificados pela–fé a em mim.
+-- c26-v19: Portanto, rei Agripa, não fui desobediente à celestial visão;
+-- c26-v20: mas aos em Damasco primeiro, também e Jerusalém toda, também a região da Judeia, e aos gentios, anunciava que–se–arrependessem e se–convertessem a o Deus, dignas do arrependimento obras praticando.
+-- c26-v21: por–causa destas–coisas, me judeus prendendo, [estando] no o templo, tentavam matar.
+-- c26-v22: socorro pois tendo–obtido o de o Deus até o dia este, estou–de–pé, testemunhando a–pequeno tanto como a–grande, nada fora dizendo, das–que tanto os profetas disseram estando–para acontecer, e Moisés:
+-- c26-v23: se padecente o Cristo; se primeiro da ressurreição dos–mortos, luz está–para anunciar ao tanto povo, como aos gentios.
+-- c26-v24: Estas–coisas porém dele defendendo–se, o Festo em–alta a voz diz, Estás–louco, Paulo! as muitas te letras, à loucura te–levam!
+-- c26-v25: o porém Paulo, Não estou–louco, disse, excelêntíssimo Festo, mas de–verdade e de–sensa–tez palavras profiro.
+-- c26-v26: sabe pois acerca destas–coisas o rei, a quem também ousadamente falo. escapar pois a–ele [algo] destas–coisas não creio nenhuma, não pois está em canto tendo–sido–feito, isto.
+-- c26-v27: crês, rei Agripa, nos profetas? sei que crês.
+-- c26-v28: o porém Agripa a o Paulo, Em pouco me persuades cristão fazer?
+-- c26-v29: o porém Paulo, Oraría certamente a Deus, tanto em pouco como em muito, não somente tu mas também todos os que–ouvem me hoje, tornarem–se tais qual também eu sou— exceto estas cadeias estas.
+-- c26-v30: Levantou–se também o rei, e o governador, a também Berenice, e os que–sentavam–com eles,
+-- c26-v31: e tendo–se–retirado falavam uns–com os–outros dizendo que, Nada de–morte, ou de–cadeias digno [algo], faz o homem este.
+-- c26-v32: Agripa porém ao Festo disse, Ser–solto poderia o homem este, se não tivesse–apelado a–César.
+-- c27-v1: Quando porém foi–decidido o navegar nós para a Itália, entregavam o tanto Paulo como alguns outros prisioneiros a–um–centurião, de–nome Júlio, de–coorte Augusta.
+-- c27-v2: tendo–embarcado porém em–navio de–Adramítio, estando–para navegar para os ao–longo–da a Ásia lugares, partimos— estando conosco conosco Aristarco, macedônio de–Tessalônica.
+-- c27-v3: no também seguinte, aportamos em Sidom. humanamente e o Júlio ao Paulo tratando, permitiu aos os amigos tendo–ido, de–cuidado receber.
+-- c27-v4: e–dali tendo–partido, navegamos–sob a Chipre, porque os os ventos eram contrários.
+-- c27-v5: o também mar o ao–longo–da a Cilícia e Panfília, tendo–navegado–através, descemos a Mira da Lícia.
+-- c27-v6: E–ali, tendo–encontrado o centurião navio alexandrino, navegando para a Itália, fez–embarcar nós nele ele.
+-- c27-v7: em muitos porém dias, navegando–lentamente e dificilmente, tendo–chegado perto–de a Cnido, não permitindo nós o vento, navegamos–sob a Creta, ao–largo–de Salmônia.
+-- c27-v8: dificilmente e costeando ela, chegamos a lugar certo chamado Bons Portos, do–qual perto estava cidade Laseia.
+-- c27-v9: Muito porém tempo tendo–passado, e sendo já perigosa a navegação, por–causa de–o também o Jejum já ter–passado, admoestava o Paulo,
+-- c27-v10: dizendo a–eles, Homens, vejo que com dano e muita perda, não só da carga e do navio, mas também das vidas nossas, estar–para haver a viagem.
+-- c27-v11: o porém centurião, ao piloto e ao dono–do–navio mais confiava, do–que às pelo Paulo coisas–ditas.
+-- c27-v12: impróprio porém o porto sendo para invernar, os mais tomaram decisão de–zarpar dali, se de–algum–modo pudessem, tendo–chegado a Fênice, invernar, porto da Creta, olhando para sudoeste e para noroeste.
+-- c27-v13: Soprando porém do–sul, pensando o propósito ter–alcançado, tendo–levantado–âncora, de–perto costeavam a Creta.
+-- c27-v14: depois não muito porém, lançou–se contra ela vento tempestuoso, o chamado Euro–aquilão.
+-- c27-v15: tendo–sido–arrebatado porém o navio, e não podendo enfrentar o vento, tendo–cedido éramos–levados.
+-- c27-v16: ilhota porém certa correndo–sob, chamada Cauda, conseguimos dificilmente, senhores tornar–nos do bote;
+-- c27-v17: o–qual tendo–içado, auxílios usavam, cingindo o navio. temendo e que na a Sirte caíssem, tendo–baixado o aparelho, assim eram–levados.
+-- c27-v18: violentamente porém sendo–açoitados–pela–tempestade nós, no seguinte alijamento faziam,
+-- c27-v19: e no terceiro, com–as–próprias–mãos o equipamento do navio lançaram.
+-- c27-v20: nem porém sol nem estrelas aparecendo por muitos dias, tempestade e não pequena sobreestando, finalmente era–tirada esperança toda o de–sermos–salvos nós.
+-- c27-v21: Muita e abstenção–de–comida havendo, então tendo–ficado–de–pé o Paulo no meio deles, disse, Era–necessário porém, ó homens, tendo–obedecido a–mim, não zarpar da a Creta, e–lucrar tanto o dano este, como a perda.
+-- c27-v22: e as agora, exorto vos a–ter–ânimo; perda pois de–vida nenhuma haverá de vós, exceto do navio.
+-- c27-v23: apresentou–se pois a–mim nesta a noite do, Deus, de–quem sou [eu] a–quem também sirvo, anjo,
+-- c27-v24: dizendo, Não temas, Paulo; Perante–César te é–necessário comparecer. e eis, concedeu a–ti o Deus, todos os que–navegam contigo contigo.
+-- c27-v25: por–isso tende–ânimo, homens, creio pois em Deus, que assim será, conforme o modo me–foi–dito a–mim.
+-- c27-v26: em ilha porém certa, é–necessário nós dar–à–costa.
+-- c27-v27: Quando porém décima–quarta noite veio, sendo–levados nós no o Adriático. cerca–de meia a noite, suspeitavam os marinheiros, aproximar–se alguma a–eles terra,
+-- c27-v28: e tendo–lançado–sonda, acharam braças vinte. pouco porém tendo–se–afastado, e de–novo tendo–lançado–sonda, acharam braças quinze.
+-- c27-v29: temendo e que em–algum–lugar em ásperos lugares caíssemos, da popa tendo–lançado âncoras quatro, desejavam dia vir.
+-- c27-v30: Dos porém marinheiros, procurando fugir do o navio, e tendo–baixado o bote ao o mar, com–pretexto como–se da proa, âncoras estando–para estender,
+-- c27-v31: disse o Paulo ao centurião e aos soldados, Se não estes permanecerem no o navio, vós ser–salvos não podeis.
+-- c27-v32: então cortaram os soldados as cordas do bote, e deixaram ele cair.
+-- c27-v33: Até porém que dia estava–para vir, exortava o Paulo a–todos, tomar de–alimento, dizendo, Décimo–quarto hoje dia, esperando em–jejum continuais, nada tendo–tomado.
+-- c27-v34: por–isso exorto vos a–tomar alimento, isto pois para a vossa salvação existe; de–nenhum pois de–vós cabelo da a cabeça perecerá.
+-- c27-v35: tendo–dito porém estas–coisas, e tendo–tomado pão, deu–graças a Deus diante de–todos, e tendo–partido, começou a–comer,
+-- c27-v36: animados porém tendo–ficado, todos também eles tomaram alimento.
+-- c27-v37: éramos porém as todas almas no o navio, duzentas setenta e–seis.
+-- c27-v38: tendo–se–saciado porém de–alimento, aliviavam o navio, lançando o trigo ao o mar.
+-- c27-v39: Quando porém dia veio, a terra não reconheciam; enseada porém certa notavam, tendo praia, na qual deliberavam, se pudessem encalhar o navio.
+-- c27-v40: e as âncoras tendo–cortado, deixavam no o mar, ao–mesmo–tempo tendo–soltado as amarras dos lemes, e tendo–içado a vela–de–proa ao que–soprava, faziam–rumo para a praia.
+-- c27-v41: tendo–caído porém em lugar de–dois–mares, encalharam o navio; e a porém proa tendo–se–encravado, permaneceu imovél. a porém popa era–desfeita pela a violência [das ondas].
+-- c27-v42: Dos porém soldados, plano houve para–que os prisioneiros matassem; não algum tendo–nadado escapasse.
+-- c27-v43: o porém centurião, querendo salvar o Paulo, impediu eles do propósito, e–ordenou também os que–podiam nadar, tendo–lançado–se primeiro, para a terra sair;
+-- c27-v44: e os demais, uns porém sobre tábuas, outros porém sobre algumas coisas, do o navio; e assim aconteceu, todos serem–salvos na a terra.
+-- c28-v1: E tendo–sido–salvos, então soubemos que Malta a ilha se–chama.
+-- c28-v2: os também nativos mostravam não a comum benevolencia a–nós; tendo–acendido pois fogueira, acolheram todos nós, por–causa da chuva a que–sobrevinha, e por–causa do frio.
+-- c28-v3: tendo–ajuntado porém o Paulo de–gravetos certa quantidade, e tendo–posto sobre a fogueira, víbora do o calor tendo–saído, prendeu–se na mão dele.
+-- c28-v4: quando porém, viram os nativos pendurada a criatura da a mão dele, uns–aos outros diziam, Certamente homicida é o homem este, a–quem tendo–sido–salvo do o mar, a Justiça viver não permitiu.
+-- c28-v5: ele porém pois, tendo–sacudido a criatura no o fogo, sofreu nada de–mal.
+-- c28-v6: os porém esperavam ele estar–para inchar, ou cair de–repente morto. por muito porém, deles esperando e observando nada de–anômalo a ele acontecendo, tendo–mudado, diziam ele ser deus.
+-- c28-v7: Nas porém nas partes–ao–redor o lugar aquele, havia terras ao principal da ilha, de–nome Públio, o–qual tendo–nos–recebido nós dias três, amavelmente hospedou.
+-- c28-v8: aconteceu porém, o pai de Públio, com–febres e disenteria afligido, estar–deitado, a quem o Paulo, tendo–entrado e tendo–orado, tendo–imposto as mãos a–ele, curou ele.
+-- c28-v9: isto porém tendo–acontecido, também os demais os na a ilha tendo doenças vinham e eram–curados,
+-- c28-v10: os–quais também com–muitas honras honraram nós, e partindo, puseram as para as necessidades.
+-- c28-v11: Depois porém de–três meses, partimos em navio tendo–invernado na a ilha, alexandrino, com–insígnia de–Dióscuros.
+-- c28-v12: e tendo–aportado em Siracusa, permanecemos dias três,
+-- c28-v13: donde tendo–costeado, chegamos a Régio. e depois de–um dia, tendo–sobrevindo do–sul, no–segundo–dia viemos a Puteólis,
+-- c28-v14: onde tendo–encontrado irmãos, fomos–convidados junto–a eles permanecer dias sete. e assim a a Roma viemos.
+-- c28-v15: e–dali os irmãos, tendo–ouvido as acerca de–nós, vieram ao encontro de–nós até de–Ápio Fórum e Três Tabernas; os–quais tendo–visto o Paulo, tendo–dado–graças a Deus, tomou ânimo.
+-- c28-v16: Quando porém entramos em Roma, <o centurião entregou os prisioneiros ao comandante>, foi–permitido ao Paulo permanecer por si–mesmo, com o que–guardava ele soldado.
+-- c28-v17: Aconteceu porém, depois de–dias três convocar ele os que–eram dos judeus principais. tendo–reunido porém eles, dizia a eles, Eu, homens, irmãos, nada contrário tendo–feito ao povo, ou aos costumes os paternais; prisioneiro de Jerusalém fui–entregue às as mãos dos romanos,
+-- c28-v18: os–quais tendo–me–examinado, me, queriam soltar, por–causa de–o nenhuma causa de–morte haver em mim.
+-- c28-v19: contradizendo porém os judeus, fui–forçado a–apelar a–César, não como da nação minha tendo algo de–que–acusar.
+-- c28-v20: por esta pois a causa pedi–para–ver vos, ver e falar–convosco; por–causa pois da esperança de Israel, esta cadeia esta estou–cingido.
+-- c28-v21: os porém a ele disseram, Nós nem cartas acerca de–ti recebemos da a Judeia, nem tendo–chegado algum dos irmãos anunciou, ou falou algo acerca de–ti mau.
+-- c28-v22: consideramos–digno porém de ti ouvir o–que pensas, acerca porém pois da seita esta, conhecido a–nós é, que em–toda–parte é–contradita.
+-- c28-v23: Tendo–marcado porém com–ele dia, vieram a ele na a hospedaria muitos, aos–quais expunha, testificando o reino de Deus, persuadindo e eles acerca de Jesus, de tanto a lei de–Moisés, como dos profetas, desde manhã até tarde.
+-- c28-v24: e uns porém eram–persuadidos pelas coisas–ditas; outros porém não–criam.
+-- c28-v25: em–desacordo porém estando uns–com os–outros, despediam–se; tendo–dito o Paulo palavra uma que: Bem o Espírito o Santo falou por Isaías o profeta aos os pais vossos,
+-- c28-v26: dizendo, Vai a o povo este, e dize, Ouvindo ouvireis, e não de–modo–algum entendereis; e vendo vereis, e não de–modo–algum percebereis.
+-- c28-v27: endureceu–se pois o coração do povo este, e com–os ouvidos pesadamente ouviram, e os olhos deles fecharam, para–que jamais vejam com–os olhos, e com–os ouvidos ouçam, e com–o coração entendam, e se–convertam, e eu–os–cure eles.
+-- c28-v28: conhecido pois seja, a–vós que aos gentios foi–enviada esta a salvação de Deus; eles também ouvirão!
+-- c28-v29: <E estas–coisas ele tendo–dito, partiram os judeus, muita tendo entre si–mesmos discussão>.
+-- c28-v30: Permaneceu porém dois–anos inteiros em própria casa–alugada, e recebia todos os que–entravam a ele,
+-- c28-v31: pregando o reino de Deus, e ensinando as–coisas acerca do Senhor Jesus Cristo, com toda ousadia sem–impedimento.
 
 BEGIN;
 -- 4400100101: Τὸν (G3588) → "O" [opus-4.5-chirho]

@@ -3,867 +3,867 @@
 -- — John 3:16
 
 -- LEVITICUS - POR Combined
--- Generated: 2026-01-27T21:47:27Z
+-- Generated: 2026-01-27T22:21:16Z
 
--- LEVITICUS c1-v1 - POR
--- LEVITICUS c1-v2 - POR
--- LEVITICUS c1-v3 - POR
--- LEVITICUS c1-v4 - POR
--- LEVITICUS c1-v5 - POR
--- LEVITICUS c1-v6 - POR
--- LEVITICUS c1-v7 - POR
--- LEVITICUS c1-v8 - POR
--- LEVITICUS c1-v9 - POR
--- LEVITICUS c1-v10 - POR
--- LEVITICUS c1-v11 - POR
--- LEVITICUS c1-v12 - POR
--- LEVITICUS c1-v13 - POR
--- LEVITICUS c1-v14 - POR
--- LEVITICUS c1-v15 - POR
--- LEVITICUS c1-v16 - POR
--- LEVITICUS c1-v17 - POR
--- LEVITICUS c2-v1 - POR
--- LEVITICUS c2-v2 - POR
--- LEVITICUS c2-v3 - POR
--- LEVITICUS c2-v4 - POR
--- LEVITICUS c2-v5 - POR
--- LEVITICUS c2-v6 - POR
--- LEVITICUS c2-v7 - POR
--- LEVITICUS c2-v8 - POR
--- LEVITICUS c2-v9 - POR
--- LEVITICUS c2-v10 - POR
--- LEVITICUS c2-v11 - POR
--- LEVITICUS c2-v12 - POR
--- LEVITICUS c2-v13 - POR
--- LEVITICUS c2-v14 - POR
--- LEVITICUS c2-v15 - POR
--- LEVITICUS c2-v16 - POR
--- LEVITICUS c3-v1 - POR
--- LEVITICUS c3-v2 - POR
--- LEVITICUS c3-v3 - POR
--- LEVITICUS c3-v4 - POR
--- LEVITICUS c3-v5 - POR
--- LEVITICUS c3-v6 - POR
--- LEVITICUS c3-v7 - POR
--- LEVITICUS c3-v8 - POR
--- LEVITICUS c3-v9 - POR
--- LEVITICUS c3-v10 - POR
--- LEVITICUS c3-v11 - POR
--- LEVITICUS c3-v12 - POR
--- LEVITICUS c3-v13 - POR
--- LEVITICUS c3-v14 - POR
--- LEVITICUS c3-v15 - POR
--- LEVITICUS c3-v16 - POR
--- LEVITICUS c3-v17 - POR
--- LEVITICUS c4-v1 - POR
--- LEVITICUS c4-v2 - POR
--- LEVITICUS c4-v3 - POR
--- LEVITICUS c4-v4 - POR
--- LEVITICUS c4-v5 - POR
--- LEVITICUS c4-v6 - POR
--- LEVITICUS c4-v7 - POR
--- LEVITICUS c4-v8 - POR
--- LEVITICUS c4-v9 - POR
--- LEVITICUS c4-v10 - POR
--- LEVITICUS c4-v11 - POR
--- LEVITICUS c4-v12 - POR
--- LEVITICUS c4-v13 - POR
--- LEVITICUS c4-v14 - POR
--- LEVITICUS c4-v15 - POR
--- LEVITICUS c4-v16 - POR
--- LEVITICUS c4-v17 - POR
--- LEVITICUS c4-v18 - POR
--- LEVITICUS c4-v19 - POR
--- LEVITICUS c4-v20 - POR
--- LEVITICUS c4-v21 - POR
--- LEVITICUS c4-v22 - POR
--- LEVITICUS c4-v23 - POR
--- LEVITICUS c4-v24 - POR
--- LEVITICUS c4-v25 - POR
--- LEVITICUS c4-v26 - POR
--- LEVITICUS c4-v27 - POR
--- LEVITICUS c4-v28 - POR
--- LEVITICUS c4-v29 - POR
--- LEVITICUS c4-v30 - POR
--- LEVITICUS c4-v31 - POR
--- LEVITICUS c4-v32 - POR
--- LEVITICUS c4-v33 - POR
--- LEVITICUS c4-v34 - POR
--- LEVITICUS c4-v35 - POR
--- LEVITICUS c5-v1 - POR
--- LEVITICUS c5-v2 - POR
--- LEVITICUS c5-v3 - POR
--- LEVITICUS c5-v4 - POR
--- LEVITICUS c5-v5 - POR
--- LEVITICUS c5-v6 - POR
--- LEVITICUS c5-v7 - POR
--- LEVITICUS c5-v8 - POR
--- LEVITICUS c5-v9 - POR
--- LEVITICUS c5-v10 - POR
--- LEVITICUS c5-v11 - POR
--- LEVITICUS c5-v12 - POR
--- LEVITICUS c5-v13 - POR
--- LEVITICUS c5-v14 - POR
--- LEVITICUS c5-v15 - POR
--- LEVITICUS c5-v16 - POR
--- LEVITICUS c5-v17 - POR
--- LEVITICUS c5-v18 - POR
--- LEVITICUS c5-v19 - POR
--- LEVITICUS c6-v1 - POR
--- LEVITICUS c6-v2 - POR
--- LEVITICUS c6-v3 - POR
--- LEVITICUS c6-v4 - POR
--- LEVITICUS c6-v5 - POR
--- LEVITICUS c6-v6 - POR
--- LEVITICUS c6-v7 - POR
--- LEVITICUS c6-v8 - POR
--- LEVITICUS c6-v9 - POR
--- LEVITICUS c6-v10 - POR
--- LEVITICUS c6-v11 - POR
--- LEVITICUS c6-v12 - POR
--- LEVITICUS c6-v13 - POR
--- LEVITICUS c6-v14 - POR
--- LEVITICUS c6-v15 - POR
--- LEVITICUS c6-v16 - POR
--- LEVITICUS c6-v17 - POR
--- LEVITICUS c6-v18 - POR
--- LEVITICUS c6-v19 - POR
--- LEVITICUS c6-v20 - POR
--- LEVITICUS c6-v21 - POR
--- LEVITICUS c6-v22 - POR
--- LEVITICUS c6-v23 - POR
--- LEVITICUS c6-v24 - POR
--- LEVITICUS c6-v25 - POR
--- LEVITICUS c6-v26 - POR
--- LEVITICUS c6-v27 - POR
--- LEVITICUS c6-v28 - POR
--- LEVITICUS c6-v29 - POR
--- LEVITICUS c6-v30 - POR
--- LEVITICUS c7-v1 - POR
--- LEVITICUS c7-v2 - POR
--- LEVITICUS c7-v3 - POR
--- LEVITICUS c7-v4 - POR
--- LEVITICUS c7-v5 - POR
--- LEVITICUS c7-v6 - POR
--- LEVITICUS c7-v7 - POR
--- LEVITICUS c7-v8 - POR
--- LEVITICUS c7-v9 - POR
--- LEVITICUS c7-v10 - POR
--- LEVITICUS c7-v11 - POR
--- LEVITICUS c7-v12 - POR
--- LEVITICUS c7-v13 - POR
--- LEVITICUS c7-v14 - POR
--- LEVITICUS c7-v15 - POR
--- LEVITICUS c7-v16 - POR
--- LEVITICUS c7-v17 - POR
--- LEVITICUS c7-v18 - POR
--- LEVITICUS c7-v19 - POR
--- LEVITICUS c7-v20 - POR
--- LEVITICUS c7-v21 - POR
--- LEVITICUS c7-v22 - POR
--- LEVITICUS c7-v23 - POR
--- LEVITICUS c7-v24 - POR
--- LEVITICUS c7-v25 - POR
--- LEVITICUS c7-v26 - POR
--- LEVITICUS c7-v27 - POR
--- LEVITICUS c7-v28 - POR
--- LEVITICUS c7-v29 - POR
--- LEVITICUS c7-v30 - POR
--- LEVITICUS c7-v31 - POR
--- LEVITICUS c7-v32 - POR
--- LEVITICUS c7-v33 - POR
--- LEVITICUS c7-v34 - POR
--- LEVITICUS c7-v35 - POR
--- LEVITICUS c7-v36 - POR
--- LEVITICUS c7-v37 - POR
--- LEVITICUS c7-v38 - POR
--- LEVITICUS c8-v1 - POR
--- LEVITICUS c8-v2 - POR
--- LEVITICUS c8-v3 - POR
--- LEVITICUS c8-v4 - POR
--- LEVITICUS c8-v5 - POR
--- LEVITICUS c8-v6 - POR
--- LEVITICUS c8-v7 - POR
--- LEVITICUS c8-v8 - POR
--- LEVITICUS c8-v9 - POR
--- LEVITICUS c8-v10 - POR
--- LEVITICUS c8-v11 - POR
--- LEVITICUS c8-v12 - POR
--- LEVITICUS c8-v13 - POR
--- LEVITICUS c8-v14 - POR
--- LEVITICUS c8-v15 - POR
--- LEVITICUS c8-v16 - POR
--- LEVITICUS c8-v17 - POR
--- LEVITICUS c8-v18 - POR
--- LEVITICUS c8-v19 - POR
--- LEVITICUS c8-v20 - POR
--- LEVITICUS c8-v21 - POR
--- LEVITICUS c8-v22 - POR
--- LEVITICUS c8-v23 - POR
--- LEVITICUS c8-v24 - POR
--- LEVITICUS c8-v25 - POR
--- LEVITICUS c8-v26 - POR
--- LEVITICUS c8-v27 - POR
--- LEVITICUS c8-v28 - POR
--- LEVITICUS c8-v29 - POR
--- LEVITICUS c8-v30 - POR
--- LEVITICUS c8-v31 - POR
--- LEVITICUS c8-v32 - POR
--- LEVITICUS c8-v33 - POR
--- LEVITICUS c8-v34 - POR
--- LEVITICUS c8-v35 - POR
--- LEVITICUS c8-v36 - POR
--- LEVITICUS c9-v1 - POR
--- LEVITICUS c9-v2 - POR
--- LEVITICUS c9-v3 - POR
--- LEVITICUS c9-v4 - POR
--- LEVITICUS c9-v5 - POR
--- LEVITICUS c9-v6 - POR
--- LEVITICUS c9-v7 - POR
--- LEVITICUS c9-v8 - POR
--- LEVITICUS c9-v9 - POR
--- LEVITICUS c9-v10 - POR
--- LEVITICUS c9-v11 - POR
--- LEVITICUS c9-v12 - POR
--- LEVITICUS c9-v13 - POR
--- LEVITICUS c9-v14 - POR
--- LEVITICUS c9-v15 - POR
--- LEVITICUS c9-v16 - POR
--- LEVITICUS c9-v17 - POR
--- LEVITICUS c9-v18 - POR
--- LEVITICUS c9-v19 - POR
--- LEVITICUS c9-v20 - POR
--- LEVITICUS c9-v21 - POR
--- LEVITICUS c9-v22 - POR
--- LEVITICUS c9-v23 - POR
--- LEVITICUS c9-v24 - POR
--- LEVITICUS c10-v1 - POR
--- LEVITICUS c10-v2 - POR
--- LEVITICUS c10-v3 - POR
--- LEVITICUS c10-v4 - POR
--- LEVITICUS c10-v5 - POR
--- LEVITICUS c10-v6 - POR
--- LEVITICUS c10-v7 - POR
--- LEVITICUS c10-v8 - POR
--- LEVITICUS c10-v9 - POR
--- LEVITICUS c10-v10 - POR
--- LEVITICUS c10-v11 - POR
--- LEVITICUS c10-v12 - POR
--- LEVITICUS c10-v13 - POR
--- LEVITICUS c10-v14 - POR
--- LEVITICUS c10-v15 - POR
--- LEVITICUS c10-v16 - POR
--- LEVITICUS c10-v17 - POR
--- LEVITICUS c10-v18 - POR
--- LEVITICUS c10-v19 - POR
--- LEVITICUS c10-v20 - POR
--- LEVITICUS c11-v1 - POR
--- LEVITICUS c11-v2 - POR
--- LEVITICUS c11-v3 - POR
--- LEVITICUS c11-v4 - POR
--- LEVITICUS c11-v5 - POR
--- LEVITICUS c11-v6 - POR
--- LEVITICUS c11-v7 - POR
--- LEVITICUS c11-v8 - POR
--- LEVITICUS c11-v9 - POR
--- LEVITICUS c11-v10 - POR
--- LEVITICUS c11-v11 - POR
--- LEVITICUS c11-v12 - POR
--- LEVITICUS c11-v13 - POR
--- LEVITICUS c11-v14 - POR
--- LEVITICUS c11-v15 - POR
--- LEVITICUS c11-v16 - POR
--- LEVITICUS c11-v17 - POR
--- LEVITICUS c11-v18 - POR
--- LEVITICUS c11-v19 - POR
--- LEVITICUS c11-v20 - POR
--- LEVITICUS c11-v21 - POR
--- LEVITICUS c11-v22 - POR
--- LEVITICUS c11-v23 - POR
--- LEVITICUS c11-v24 - POR
--- LEVITICUS c11-v25 - POR
--- LEVITICUS c11-v26 - POR
--- LEVITICUS c11-v27 - POR
--- LEVITICUS c11-v28 - POR
--- LEVITICUS c11-v29 - POR
--- LEVITICUS c11-v30 - POR
--- LEVITICUS c11-v31 - POR
--- LEVITICUS c11-v32 - POR
--- LEVITICUS c11-v33 - POR
--- LEVITICUS c11-v34 - POR
--- LEVITICUS c11-v35 - POR
--- LEVITICUS c11-v36 - POR
--- LEVITICUS c11-v37 - POR
--- LEVITICUS c11-v38 - POR
--- LEVITICUS c11-v39 - POR
--- LEVITICUS c11-v40 - POR
--- LEVITICUS c11-v41 - POR
--- LEVITICUS c11-v42 - POR
--- LEVITICUS c11-v43 - POR
--- LEVITICUS c11-v44 - POR
--- LEVITICUS c11-v45 - POR
--- LEVITICUS c11-v46 - POR
--- LEVITICUS c11-v47 - POR
--- LEVITICUS c12-v1 - POR
--- LEVITICUS c12-v2 - POR
--- LEVITICUS c12-v3 - POR
--- LEVITICUS c12-v4 - POR
--- LEVITICUS c12-v5 - POR
--- LEVITICUS c12-v6 - POR
--- LEVITICUS c12-v7 - POR
--- LEVITICUS c12-v8 - POR
--- LEVITICUS c13-v1 - POR
--- LEVITICUS c13-v2 - POR
--- LEVITICUS c13-v3 - POR
--- LEVITICUS c13-v4 - POR
--- LEVITICUS c13-v5 - POR
--- LEVITICUS c13-v6 - POR
--- LEVITICUS c13-v7 - POR
--- LEVITICUS c13-v8 - POR
--- LEVITICUS c13-v9 - POR
--- LEVITICUS c13-v10 - POR
--- LEVITICUS c13-v11 - POR
--- LEVITICUS c13-v12 - POR
--- LEVITICUS c13-v13 - POR
--- LEVITICUS c13-v14 - POR
--- LEVITICUS c13-v15 - POR
--- LEVITICUS c13-v16 - POR
--- LEVITICUS c13-v17 - POR
--- LEVITICUS c13-v18 - POR
--- LEVITICUS c13-v19 - POR
--- LEVITICUS c13-v20 - POR
--- LEVITICUS c13-v21 - POR
--- LEVITICUS c13-v22 - POR
--- LEVITICUS c13-v23 - POR
--- LEVITICUS c13-v24 - POR
--- LEVITICUS c13-v25 - POR
--- LEVITICUS c13-v26 - POR
--- LEVITICUS c13-v27 - POR
--- LEVITICUS c13-v28 - POR
--- LEVITICUS c13-v29 - POR
--- LEVITICUS c13-v30 - POR
--- LEVITICUS c13-v31 - POR
--- LEVITICUS c13-v32 - POR
--- LEVITICUS c13-v33 - POR
--- LEVITICUS c13-v34 - POR
--- LEVITICUS c13-v35 - POR
--- LEVITICUS c13-v36 - POR
--- LEVITICUS c13-v37 - POR
--- LEVITICUS c13-v38 - POR
--- LEVITICUS c13-v39 - POR
--- LEVITICUS c13-v40 - POR
--- LEVITICUS c13-v41 - POR
--- LEVITICUS c13-v42 - POR
--- LEVITICUS c13-v43 - POR
--- LEVITICUS c13-v44 - POR
--- LEVITICUS c13-v45 - POR
--- LEVITICUS c13-v46 - POR
--- LEVITICUS c13-v47 - POR
--- LEVITICUS c13-v48 - POR
--- LEVITICUS c13-v49 - POR
--- LEVITICUS c13-v50 - POR
--- LEVITICUS c13-v51 - POR
--- LEVITICUS c13-v52 - POR
--- LEVITICUS c13-v53 - POR
--- LEVITICUS c13-v54 - POR
--- LEVITICUS c13-v55 - POR
--- LEVITICUS c13-v56 - POR
--- LEVITICUS c13-v57 - POR
--- LEVITICUS c13-v58 - POR
--- LEVITICUS c13-v59 - POR
--- LEVITICUS c14-v1 - POR
--- LEVITICUS c14-v2 - POR
--- LEVITICUS c14-v3 - POR
--- LEVITICUS c14-v4 - POR
--- LEVITICUS c14-v5 - POR
--- LEVITICUS c14-v6 - POR
--- LEVITICUS c14-v7 - POR
--- LEVITICUS c14-v8 - POR
--- LEVITICUS c14-v9 - POR
--- LEVITICUS c14-v10 - POR
--- LEVITICUS c14-v11 - POR
--- LEVITICUS c14-v12 - POR
--- LEVITICUS c14-v13 - POR
--- LEVITICUS c14-v14 - POR
--- LEVITICUS c14-v15 - POR
--- LEVITICUS c14-v16 - POR
--- LEVITICUS c14-v17 - POR
--- LEVITICUS c14-v18 - POR
--- LEVITICUS c14-v19 - POR
--- LEVITICUS c14-v20 - POR
--- LEVITICUS c14-v21 - POR
--- LEVITICUS c14-v22 - POR
--- LEVITICUS c14-v23 - POR
--- LEVITICUS c14-v24 - POR
--- LEVITICUS c14-v25 - POR
--- LEVITICUS c14-v26 - POR
--- LEVITICUS c14-v27 - POR
--- LEVITICUS c14-v28 - POR
--- LEVITICUS c14-v29 - POR
--- LEVITICUS c14-v30 - POR
--- LEVITICUS c14-v31 - POR
--- LEVITICUS c14-v32 - POR
--- LEVITICUS c14-v33 - POR
--- LEVITICUS c14-v34 - POR
--- LEVITICUS c14-v35 - POR
--- LEVITICUS c14-v36 - POR
--- LEVITICUS c14-v37 - POR
--- LEVITICUS c14-v38 - POR
--- LEVITICUS c14-v39 - POR
--- LEVITICUS c14-v40 - POR
--- LEVITICUS c14-v41 - POR
--- LEVITICUS c14-v42 - POR
--- LEVITICUS c14-v43 - POR
--- LEVITICUS c14-v44 - POR
--- LEVITICUS c14-v45 - POR
--- LEVITICUS c14-v46 - POR
--- LEVITICUS c14-v47 - POR
--- LEVITICUS c14-v48 - POR
--- LEVITICUS c14-v49 - POR
--- LEVITICUS c14-v50 - POR
--- LEVITICUS c14-v51 - POR
--- LEVITICUS c14-v52 - POR
--- LEVITICUS c14-v53 - POR
--- LEVITICUS c14-v54 - POR
--- LEVITICUS c14-v55 - POR
--- LEVITICUS c14-v56 - POR
--- LEVITICUS c14-v57 - POR
--- LEVITICUS c15-v1 - POR
--- LEVITICUS c15-v2 - POR
--- LEVITICUS c15-v3 - POR
--- LEVITICUS c15-v4 - POR
--- LEVITICUS c15-v5 - POR
--- LEVITICUS c15-v6 - POR
--- LEVITICUS c15-v7 - POR
--- LEVITICUS c15-v8 - POR
--- LEVITICUS c15-v9 - POR
--- LEVITICUS c15-v10 - POR
--- LEVITICUS c15-v11 - POR
--- LEVITICUS c15-v12 - POR
--- LEVITICUS c15-v13 - POR
--- LEVITICUS c15-v14 - POR
--- LEVITICUS c15-v15 - POR
--- LEVITICUS c15-v16 - POR
--- LEVITICUS c15-v17 - POR
--- LEVITICUS c15-v18 - POR
--- LEVITICUS c15-v19 - POR
--- LEVITICUS c15-v20 - POR
--- LEVITICUS c15-v21 - POR
--- LEVITICUS c15-v22 - POR
--- LEVITICUS c15-v23 - POR
--- LEVITICUS c15-v24 - POR
--- LEVITICUS c15-v25 - POR
--- LEVITICUS c15-v26 - POR
--- LEVITICUS c15-v27 - POR
--- LEVITICUS c15-v28 - POR
--- LEVITICUS c15-v29 - POR
--- LEVITICUS c15-v30 - POR
--- LEVITICUS c15-v31 - POR
--- LEVITICUS c15-v32 - POR
--- LEVITICUS c15-v33 - POR
--- LEVITICUS c16-v1 - POR
--- LEVITICUS c16-v2 - POR
--- LEVITICUS c16-v3 - POR
--- LEVITICUS c16-v4 - POR
--- LEVITICUS c16-v5 - POR
--- LEVITICUS c16-v6 - POR
--- LEVITICUS c16-v7 - POR
--- LEVITICUS c16-v8 - POR
--- LEVITICUS c16-v9 - POR
--- LEVITICUS c16-v10 - POR
--- LEVITICUS c16-v11 - POR
--- LEVITICUS c16-v12 - POR
--- LEVITICUS c16-v13 - POR
--- LEVITICUS c16-v14 - POR
--- LEVITICUS c16-v15 - POR
--- LEVITICUS c16-v16 - POR
--- LEVITICUS c16-v17 - POR
--- LEVITICUS c16-v18 - POR
--- LEVITICUS c16-v19 - POR
--- LEVITICUS c16-v20 - POR
--- LEVITICUS c16-v21 - POR
--- LEVITICUS c16-v22 - POR
--- LEVITICUS c16-v23 - POR
--- LEVITICUS c16-v24 - POR
--- LEVITICUS c16-v25 - POR
--- LEVITICUS c16-v26 - POR
--- LEVITICUS c16-v27 - POR
--- LEVITICUS c16-v28 - POR
--- LEVITICUS c16-v29 - POR
--- LEVITICUS c16-v30 - POR
--- LEVITICUS c16-v31 - POR
--- LEVITICUS c16-v32 - POR
--- LEVITICUS c16-v33 - POR
--- LEVITICUS c16-v34 - POR
--- LEVITICUS c17-v1 - POR
--- LEVITICUS c17-v2 - POR
--- LEVITICUS c17-v3 - POR
--- LEVITICUS c17-v4 - POR
--- LEVITICUS c17-v5 - POR
--- LEVITICUS c17-v6 - POR
--- LEVITICUS c17-v7 - POR
--- LEVITICUS c17-v8 - POR
--- LEVITICUS c17-v9 - POR
--- LEVITICUS c17-v10 - POR
--- LEVITICUS c17-v11 - POR
--- LEVITICUS c17-v12 - POR
--- LEVITICUS c17-v13 - POR
--- LEVITICUS c17-v14 - POR
--- LEVITICUS c17-v15 - POR
--- LEVITICUS c17-v16 - POR
--- LEVITICUS c18-v1 - POR
--- LEVITICUS c18-v2 - POR
--- LEVITICUS c18-v3 - POR
--- LEVITICUS c18-v4 - POR
--- LEVITICUS c18-v5 - POR
--- LEVITICUS c18-v6 - POR
--- LEVITICUS c18-v7 - POR
--- LEVITICUS c18-v8 - POR
--- LEVITICUS c18-v9 - POR
--- LEVITICUS c18-v10 - POR
--- LEVITICUS c18-v11 - POR
--- LEVITICUS c18-v12 - POR
--- LEVITICUS c18-v13 - POR
--- LEVITICUS c18-v14 - POR
--- LEVITICUS c18-v15 - POR
--- LEVITICUS c18-v16 - POR
--- LEVITICUS c18-v17 - POR
--- LEVITICUS c18-v18 - POR
--- LEVITICUS c18-v19 - POR
--- LEVITICUS c18-v20 - POR
--- LEVITICUS c18-v21 - POR
--- LEVITICUS c18-v22 - POR
--- LEVITICUS c18-v23 - POR
--- LEVITICUS c18-v24 - POR
--- LEVITICUS c18-v25 - POR
--- LEVITICUS c18-v26 - POR
--- LEVITICUS c18-v27 - POR
--- LEVITICUS c18-v28 - POR
--- LEVITICUS c18-v29 - POR
--- LEVITICUS c18-v30 - POR
--- LEVITICUS c19-v1 - POR
--- LEVITICUS c19-v2 - POR
--- LEVITICUS c19-v3 - POR
--- LEVITICUS c19-v4 - POR
--- LEVITICUS c19-v5 - POR
--- LEVITICUS c19-v6 - POR
--- LEVITICUS c19-v7 - POR
--- LEVITICUS c19-v8 - POR
--- LEVITICUS c19-v9 - POR
--- LEVITICUS c19-v10 - POR
--- LEVITICUS c19-v11 - POR
--- LEVITICUS c19-v12 - POR
--- LEVITICUS c19-v13 - POR
--- LEVITICUS c19-v14 - POR
--- LEVITICUS c19-v15 - POR
--- LEVITICUS c19-v16 - POR
--- LEVITICUS c19-v17 - POR
--- LEVITICUS c19-v18 - POR
--- LEVITICUS c19-v19 - POR
--- LEVITICUS c19-v20 - POR
--- LEVITICUS c19-v21 - POR
--- LEVITICUS c19-v22 - POR
--- LEVITICUS c19-v23 - POR
--- LEVITICUS c19-v24 - POR
--- LEVITICUS c19-v25 - POR
--- LEVITICUS c19-v26 - POR
--- LEVITICUS c19-v27 - POR
--- LEVITICUS c19-v28 - POR
--- LEVITICUS c19-v29 - POR
--- LEVITICUS c19-v30 - POR
--- LEVITICUS c19-v31 - POR
--- LEVITICUS c19-v32 - POR
--- LEVITICUS c19-v33 - POR
--- LEVITICUS c19-v34 - POR
--- LEVITICUS c19-v35 - POR
--- LEVITICUS c19-v36 - POR
--- LEVITICUS c19-v37 - POR
--- LEVITICUS c20-v1 - POR
--- LEVITICUS c20-v2 - POR
--- LEVITICUS c20-v3 - POR
--- LEVITICUS c20-v4 - POR
--- LEVITICUS c20-v5 - POR
--- LEVITICUS c20-v6 - POR
--- LEVITICUS c20-v7 - POR
--- LEVITICUS c20-v8 - POR
--- LEVITICUS c20-v9 - POR
--- LEVITICUS c20-v10 - POR
--- LEVITICUS c20-v11 - POR
--- LEVITICUS c20-v12 - POR
--- LEVITICUS c20-v13 - POR
--- LEVITICUS c20-v14 - POR
--- LEVITICUS c20-v15 - POR
--- LEVITICUS c20-v16 - POR
--- LEVITICUS c20-v17 - POR
--- LEVITICUS c20-v18 - POR
--- LEVITICUS c20-v19 - POR
--- LEVITICUS c20-v20 - POR
--- LEVITICUS c20-v21 - POR
--- LEVITICUS c20-v22 - POR
--- LEVITICUS c20-v23 - POR
--- LEVITICUS c20-v24 - POR
--- LEVITICUS c20-v25 - POR
--- LEVITICUS c20-v26 - POR
--- LEVITICUS c20-v27 - POR
--- LEVITICUS c21-v1 - POR
--- LEVITICUS c21-v2 - POR
--- LEVITICUS c21-v3 - POR
--- LEVITICUS c21-v4 - POR
--- LEVITICUS c21-v5 - POR
--- LEVITICUS c21-v6 - POR
--- LEVITICUS c21-v7 - POR
--- LEVITICUS c21-v8 - POR
--- LEVITICUS c21-v9 - POR
--- LEVITICUS c21-v10 - POR
--- LEVITICUS c21-v11 - POR
--- LEVITICUS c21-v12 - POR
--- LEVITICUS c21-v13 - POR
--- LEVITICUS c21-v14 - POR
--- LEVITICUS c21-v15 - POR
--- LEVITICUS c21-v16 - POR
--- LEVITICUS c21-v17 - POR
--- LEVITICUS c21-v18 - POR
--- LEVITICUS c21-v19 - POR
--- LEVITICUS c21-v20 - POR
--- LEVITICUS c21-v21 - POR
--- LEVITICUS c21-v22 - POR
--- LEVITICUS c21-v23 - POR
--- LEVITICUS c21-v24 - POR
--- LEVITICUS c22-v1 - POR
--- LEVITICUS c22-v2 - POR
--- LEVITICUS c22-v3 - POR
--- LEVITICUS c22-v4 - POR
--- LEVITICUS c22-v5 - POR
--- LEVITICUS c22-v6 - POR
--- LEVITICUS c22-v7 - POR
--- LEVITICUS c22-v8 - POR
--- LEVITICUS c22-v9 - POR
--- LEVITICUS c22-v10 - POR
--- LEVITICUS c22-v11 - POR
--- LEVITICUS c22-v12 - POR
--- LEVITICUS c22-v13 - POR
--- LEVITICUS c22-v14 - POR
--- LEVITICUS c22-v15 - POR
--- LEVITICUS c22-v16 - POR
--- LEVITICUS c22-v17 - POR
--- LEVITICUS c22-v18 - POR
--- LEVITICUS c22-v19 - POR
--- LEVITICUS c22-v20 - POR
--- LEVITICUS c22-v21 - POR
--- LEVITICUS c22-v22 - POR
--- LEVITICUS c22-v23 - POR
--- LEVITICUS c22-v24 - POR
--- LEVITICUS c22-v25 - POR
--- LEVITICUS c22-v26 - POR
--- LEVITICUS c22-v27 - POR
--- LEVITICUS c22-v28 - POR
--- LEVITICUS c22-v29 - POR
--- LEVITICUS c22-v30 - POR
--- LEVITICUS c22-v31 - POR
--- LEVITICUS c22-v32 - POR
--- LEVITICUS c22-v33 - POR
--- LEVITICUS c23-v1 - POR
--- LEVITICUS c23-v2 - POR
--- LEVITICUS c23-v3 - POR
--- LEVITICUS c23-v4 - POR
--- LEVITICUS c23-v5 - POR
--- LEVITICUS c23-v6 - POR
--- LEVITICUS c23-v7 - POR
--- LEVITICUS c23-v8 - POR
--- LEVITICUS c23-v9 - POR
--- LEVITICUS c23-v10 - POR
--- LEVITICUS c23-v11 - POR
--- LEVITICUS c23-v12 - POR
--- LEVITICUS c23-v13 - POR
--- LEVITICUS c23-v14 - POR
--- LEVITICUS c23-v15 - POR
--- LEVITICUS c23-v16 - POR
--- LEVITICUS c23-v17 - POR
--- LEVITICUS c23-v18 - POR
--- LEVITICUS c23-v19 - POR
--- LEVITICUS c23-v20 - POR
--- LEVITICUS c23-v21 - POR
--- LEVITICUS c23-v22 - POR
--- LEVITICUS c23-v23 - POR
--- LEVITICUS c23-v24 - POR
--- LEVITICUS c23-v25 - POR
--- LEVITICUS c23-v26 - POR
--- LEVITICUS c23-v27 - POR
--- LEVITICUS c23-v28 - POR
--- LEVITICUS c23-v29 - POR
--- LEVITICUS c23-v30 - POR
--- LEVITICUS c23-v31 - POR
--- LEVITICUS c23-v32 - POR
--- LEVITICUS c23-v33 - POR
--- LEVITICUS c23-v34 - POR
--- LEVITICUS c23-v35 - POR
--- LEVITICUS c23-v36 - POR
--- LEVITICUS c23-v37 - POR
--- LEVITICUS c23-v38 - POR
--- LEVITICUS c23-v39 - POR
--- LEVITICUS c23-v40 - POR
--- LEVITICUS c23-v41 - POR
--- LEVITICUS c23-v42 - POR
--- LEVITICUS c23-v43 - POR
--- LEVITICUS c23-v44 - POR
--- LEVITICUS c24-v1 - POR
--- LEVITICUS c24-v2 - POR
--- LEVITICUS c24-v3 - POR
--- LEVITICUS c24-v4 - POR
--- LEVITICUS c24-v5 - POR
--- LEVITICUS c24-v6 - POR
--- LEVITICUS c24-v7 - POR
--- LEVITICUS c24-v8 - POR
--- LEVITICUS c24-v9 - POR
--- LEVITICUS c24-v10 - POR
--- LEVITICUS c24-v11 - POR
--- LEVITICUS c24-v12 - POR
--- LEVITICUS c24-v13 - POR
--- LEVITICUS c24-v14 - POR
--- LEVITICUS c24-v15 - POR
--- LEVITICUS c24-v16 - POR
--- LEVITICUS c24-v17 - POR
--- LEVITICUS c24-v18 - POR
--- LEVITICUS c24-v19 - POR
--- LEVITICUS c24-v20 - POR
--- LEVITICUS c24-v21 - POR
--- LEVITICUS c24-v22 - POR
--- LEVITICUS c24-v23 - POR
--- LEVITICUS c25-v1 - POR
--- LEVITICUS c25-v2 - POR
--- LEVITICUS c25-v3 - POR
--- LEVITICUS c25-v4 - POR
--- LEVITICUS c25-v5 - POR
--- LEVITICUS c25-v6 - POR
--- LEVITICUS c25-v7 - POR
--- LEVITICUS c25-v8 - POR
--- LEVITICUS c25-v9 - POR
--- LEVITICUS c25-v10 - POR
--- LEVITICUS c25-v11 - POR
--- LEVITICUS c25-v12 - POR
--- LEVITICUS c25-v13 - POR
--- LEVITICUS c25-v14 - POR
--- LEVITICUS c25-v15 - POR
--- LEVITICUS c25-v16 - POR
--- LEVITICUS c25-v17 - POR
--- LEVITICUS c25-v18 - POR
--- LEVITICUS c25-v19 - POR
--- LEVITICUS c25-v20 - POR
--- LEVITICUS c25-v21 - POR
--- LEVITICUS c25-v22 - POR
--- LEVITICUS c25-v23 - POR
--- LEVITICUS c25-v24 - POR
--- LEVITICUS c25-v25 - POR
--- LEVITICUS c25-v26 - POR
--- LEVITICUS c25-v27 - POR
--- LEVITICUS c25-v28 - POR
--- LEVITICUS c25-v29 - POR
--- LEVITICUS c25-v30 - POR
--- LEVITICUS c25-v31 - POR
--- LEVITICUS c25-v32 - POR
--- LEVITICUS c25-v33 - POR
--- LEVITICUS c25-v34 - POR
--- LEVITICUS c25-v35 - POR
--- LEVITICUS c25-v36 - POR
--- LEVITICUS c25-v37 - POR
--- LEVITICUS c25-v38 - POR
--- LEVITICUS c25-v39 - POR
--- LEVITICUS c25-v40 - POR
--- LEVITICUS c25-v41 - POR
--- LEVITICUS c25-v42 - POR
--- LEVITICUS c25-v43 - POR
--- LEVITICUS c25-v44 - POR
--- LEVITICUS c25-v45 - POR
--- LEVITICUS c25-v46 - POR
--- LEVITICUS c25-v47 - POR
--- LEVITICUS c25-v48 - POR
--- LEVITICUS c25-v49 - POR
--- LEVITICUS c25-v50 - POR
--- LEVITICUS c25-v51 - POR
--- LEVITICUS c25-v52 - POR
--- LEVITICUS c25-v53 - POR
--- LEVITICUS c25-v54 - POR
--- LEVITICUS c25-v55 - POR
--- LEVITICUS c26-v1 - POR
--- LEVITICUS c26-v2 - POR
--- LEVITICUS c26-v3 - POR
--- LEVITICUS c26-v4 - POR
--- LEVITICUS c26-v5 - POR
--- LEVITICUS c26-v6 - POR
--- LEVITICUS c26-v7 - POR
--- LEVITICUS c26-v8 - POR
--- LEVITICUS c26-v9 - POR
--- LEVITICUS c26-v10 - POR
--- LEVITICUS c26-v11 - POR
--- LEVITICUS c26-v12 - POR
--- LEVITICUS c26-v13 - POR
--- LEVITICUS c26-v14 - POR
--- LEVITICUS c26-v15 - POR
--- LEVITICUS c26-v16 - POR
--- LEVITICUS c26-v17 - POR
--- LEVITICUS c26-v18 - POR
--- LEVITICUS c26-v19 - POR
--- LEVITICUS c26-v20 - POR
--- LEVITICUS c26-v21 - POR
--- LEVITICUS c26-v22 - POR
--- LEVITICUS c26-v23 - POR
--- LEVITICUS c26-v24 - POR
--- LEVITICUS c26-v25 - POR
--- LEVITICUS c26-v26 - POR
--- LEVITICUS c26-v27 - POR
--- LEVITICUS c26-v28 - POR
--- LEVITICUS c26-v29 - POR
--- LEVITICUS c26-v30 - POR
--- LEVITICUS c26-v31 - POR
--- LEVITICUS c26-v32 - POR
--- LEVITICUS c26-v33 - POR
--- LEVITICUS c26-v34 - POR
--- LEVITICUS c26-v35 - POR
--- LEVITICUS c26-v36 - POR
--- LEVITICUS c26-v37 - POR
--- LEVITICUS c26-v38 - POR
--- LEVITICUS c26-v39 - POR
--- LEVITICUS c26-v40 - POR
--- LEVITICUS c26-v41 - POR
--- LEVITICUS c26-v42 - POR
--- LEVITICUS c26-v43 - POR
--- LEVITICUS c26-v44 - POR
--- LEVITICUS c26-v45 - POR
--- LEVITICUS c26-v46 - POR
--- LEVITICUS c27-v1 - POR
--- LEVITICUS c27-v2 - POR
--- LEVITICUS c27-v3 - POR
--- LEVITICUS c27-v4 - POR
--- LEVITICUS c27-v5 - POR
--- LEVITICUS c27-v6 - POR
--- LEVITICUS c27-v7 - POR
--- LEVITICUS c27-v8 - POR
--- LEVITICUS c27-v9 - POR
--- LEVITICUS c27-v10 - POR
--- LEVITICUS c27-v11 - POR
--- LEVITICUS c27-v12 - POR
--- LEVITICUS c27-v13 - POR
--- LEVITICUS c27-v14 - POR
--- LEVITICUS c27-v15 - POR
--- LEVITICUS c27-v16 - POR
--- LEVITICUS c27-v17 - POR
--- LEVITICUS c27-v18 - POR
--- LEVITICUS c27-v19 - POR
--- LEVITICUS c27-v20 - POR
--- LEVITICUS c27-v21 - POR
--- LEVITICUS c27-v22 - POR
--- LEVITICUS c27-v23 - POR
--- LEVITICUS c27-v24 - POR
--- LEVITICUS c27-v25 - POR
--- LEVITICUS c27-v26 - POR
--- LEVITICUS c27-v27 - POR
--- LEVITICUS c27-v28 - POR
--- LEVITICUS c27-v29 - POR
--- LEVITICUS c27-v30 - POR
--- LEVITICUS c27-v31 - POR
--- LEVITICUS c27-v32 - POR
--- LEVITICUS c27-v33 - POR
--- LEVITICUS c27-v34 - POR
+-- c1-v1: E–chamou a– Mosheh e–falou YHWH a–ele de–a–tenda de–encontro dizendo
+-- c1-v2: Fala a– os–filhos–de Yisra'el e–dirás a–eles homem quando– oferecer de–vós oferta a–YHWH de– o–animal de– o–gado e–de– o–rebanho oferecereis (a) vossa–oferta
+-- c1-v3: Se– holocausto sua–oferta de– o–gado macho sem–defeito oferecerá–o a– a–entrada–de tenda de–encontro oferecerá (a)–ele para–seu–favor diante–de YHWH
+-- c1-v4: E–apoiará sua–mão sobre a–cabeça–de o–holocausto e–será–aceito para–ele para–expiar por–ele
+-- c1-v5: E–degolará (a) o–filho–de o–gado diante–de YHWH e–oferecerão os–filhos–de 'Aharon os–sacerdotes (a) o–sangue e–aspergirão (a) o–sangue sobre– o–altar ao–redor que– a–entrada–de tenda de–encontro
+-- c1-v6: E–esfolará (a) o–holocausto e–cortará (a)–ela em–seus–pedaços
+-- c1-v7: E–porão os–filhos–de 'Aharon o–sacerdote fogo sobre– o–altar e–arranjarão lenhas sobre– o–fogo
+-- c1-v8: E–arranjarão os–filhos–de 'Aharon os–sacerdotes (a) os–pedaços (a) a–cabeça e–(a) a–gordura sobre– as–lenhas que sobre– o–fogo que sobre– o–altar
+-- c1-v9: E–suas–entranhas e–suas–pernas lavará com–a–água e–queimará o–sacerdote (a) o–todo no–altar holocausto oferta–de–fogo aroma–de– agrado a–YHWH §
+-- c1-v10: E–se– de– o–rebanho sua–oferta de– os–cordeiros ou de– as–cabras para–holocausto macho sem–defeito oferecerá–o
+-- c1-v11: E–degolará (a)–ele em o–lado–de o–altar ao–norte diante–de YHWH e–aspergirão os–filhos–de 'Aharon os–sacerdotes (a) seu–sangue sobre– o–altar ao–redor
+-- c1-v12: E–cortará (a)–ele em–seus–pedaços e–(a) sua–cabeça e–(a) sua–gordura e–arranjará o–sacerdote (a)–eles sobre– as–lenhas que sobre– o–fogo que sobre– o–altar
+-- c1-v13: E–as–entranhas e–as–pernas lavará com–a–água e–oferecerá o–sacerdote (a) o–todo e–queimará no–altar holocausto ele oferta–de–fogo aroma–de agrado a–YHWH ¶
+-- c1-v14: E–se de– a–ave holocausto sua–oferta a–YHWH e–oferecerá de– as–rolas ou de– os–filhos–de a–pomba (a) sua–oferta
+-- c1-v15: E–oferecerá–a o–sacerdote a– o–altar e–arrancará (a) sua–cabeça e–queimará no–altar e–será–espremido seu–sangue sobre a–parede–de o–altar
+-- c1-v16: E–removerá (a) seu–papo com–suas–penas e–lançará (a)–ela ao–lado–de o–altar ao–oriente a– o–lugar–de as–cinzas
+-- c1-v17: E–rasgará (a)–ele por–suas–asas não separará e–queimará (a)–ele o–sacerdote no–altar sobre– as–lenhas que sobre– o–fogo holocausto ele oferta–de–fogo aroma–de agrado a–YHWH §
+-- c2-v1: E–alma quando– oferecer oferta de–minhah a–YHWH flor–de–farinha será sua–oferta e–derramará sobre–ela óleo e–porá sobre–ela incenso
+-- c2-v2: E–trará–a a– os–filhos–de 'Aharon os–sacerdotes e–apanhará de–lá punhado–de seu–punho de–sua–flor–de–farinha e–de–seu–óleo com todo– seu–incenso e–queimará o–sacerdote (a) seu–memorial no–altar oferta–de–fogo aroma–de agrado a–YHWH
+-- c2-v3: E–o–restante de– a–minhah para–'Aharon e–para–seus–filhos santidade–de santidades das–ofertas–de–fogo–de YHWH §
+-- c2-v4: E–quando oferecer oferta de–minhah de–assado–de forno flor–de–farinha pães ázimos misturados com–o–óleo e–bolachas–de ázimos untados com–o–óleo §
+-- c2-v5: E–se– minhah sobre– a–chapa tua–oferta flor–de–farinha misturada com–óleo ázima será
+-- c2-v6: Partirás (a)–ela em–pedaços e–derramarás sobre–ela óleo minhah ela §
+-- c2-v7: E–se– minhah–de frigideira tua–oferta flor–de–farinha com–o–óleo será–feita
+-- c2-v8: E–trarás (a) a–minhah que será–feita destas a–YHWH e–oferecerá–a a– o–sacerdote e–apresentará–a a– o–altar
+-- c2-v9: E–levantará o–sacerdote de– a–minhah (a) seu–memorial e–queimará no–altar oferta–de–fogo aroma–de agrado a–YHWH
+-- c2-v10: E–o–restante de– a–minhah para–'Aharon e–para–seus–filhos santidade–de santidades das–ofertas–de–fogo–de YHWH
+-- c2-v11: Toda– a–minhah que oferecereis a–YHWH não será–feita levedada pois todo– fermento e–todo– mel não– queimareis dele oferta–de–fogo a–YHWH
+-- c2-v12: Oferta–de primícias oferecereis (a)–eles a–YHWH e–a– o–altar não– subirão para–aroma–de agrado
+-- c2-v13: E–toda– oferta–de tua–minhah com–o–sal salgarás e–não farás–cessar sal–de a–aliança–de teu–'Elohim de–sobre tua–minhah sobre toda– tua–oferta oferecerás sal §
+-- c2-v14: E–se– oferecer minhah–de primícias a–YHWH espigas–verdes tostadas no–fogo grãos–de espiga–fresca oferecerás (a) a–minhah–de tuas–primícias
+-- c2-v15: E–porás sobre–ela óleo e–colocarás sobre–ela incenso minhah ela
+-- c2-v16: E–queimará o–sacerdote (a) seu–memorial de–seus–grãos e–de–seu–óleo com todo– seu–incenso oferta–de–fogo a–YHWH ¶
+-- c3-v1: E–se– sacrifício–de pacíficas sua–oferta se de– o–gado ele oferece se– macho se– fêmea sem–defeito oferecerá–o diante–de YHWH
+-- c3-v2: E–apoiará sua–mão sobre– a–cabeça–de sua–oferta e–degolará–o a–entrada–de tenda de–encontro e–aspergirão os–filhos–de 'Aharon os–sacerdotes (a) o–sangue sobre– o–altar ao–redor
+-- c3-v3: E–oferecerá de–sacrifício–de as–pacíficas oferta–de–fogo a–YHWH (a) a–gordura a–que–cobre (a) as–entranhas e–(a) toda– a–gordura que sobre– as–entranhas
+-- c3-v4: E–(a) os–dois os–rins e–(a) a–gordura que sobre–eles que sobre– os–lombos e–(a) o–lobo–do sobre– o–fígado sobre– os–rins removerá–a
+-- c3-v5: E–queimarão (a)–ele os–filhos–de– 'Aharon no–altar sobre– o–holocausto que sobre– as–lenhas que sobre– o–fogo oferta–de–fogo aroma–de agrado a–YHWH ¶
+-- c3-v6: E–se– de– o–rebanho sua–oferta para–sacrifício–de pacíficas a–YHWH macho ou fêmea sem–defeito oferecerá–o
+-- c3-v7: Se– cordeiro ele– oferece (a) sua–oferta e–oferecerá (a)–ele diante–de YHWH
+-- c3-v8: E–apoiará (a) sua–mão sobre– a–cabeça–de sua–oferta e–degolará (a)–ele diante–de tenda de–encontro e–aspergirão os–filhos–de 'Aharon (a) seu–sangue sobre– o–altar ao–redor
+-- c3-v9: E–oferecerá de–sacrifício–de as–pacíficas oferta–de–fogo a–YHWH sua–gordura a–cauda–gorda inteira junto–a a–espinha removerá–a e–(a) a–gordura a–que–cobre (a) as–entranhas e–(a) toda– a–gordura que sobre– as–entranhas
+-- c3-v10: E–(a) os–dois os–rins e–(a) a–gordura que sobre–eles que sobre– os–lombos e–(a) o–lobo–do sobre– o–fígado sobre– os–rins removerá–a
+-- c3-v11: E–queimará–o o–sacerdote no–altar pão–de oferta–de–fogo a–YHWH ¶
+-- c3-v12: E–se cabra sua–oferta e–oferecerá–a diante–de YHWH
+-- c3-v13: E–apoiará (a) sua–mão sobre– sua–cabeça e–degolará (a)–ele diante–de tenda de–encontro e–aspergirão os–filhos–de 'Aharon (a) seu–sangue sobre– o–altar ao–redor
+-- c3-v14: E–oferecerá dele sua–oferta oferta–de–fogo a–YHWH (a) a–gordura a–que–cobre (a) as–entranhas e–(a) toda– a–gordura que sobre– as–entranhas
+-- c3-v15: E–(a) os–dois os–rins e–(a) a–gordura que sobre–eles que sobre– os–lombos e–(a) o–lobo–do sobre– o–fígado sobre– os–rins removerá–a
+-- c3-v16: E–queimará–os o–sacerdote no–altar pão–de oferta–de–fogo para–aroma–de agrado toda– gordura a–YHWH
+-- c3-v17: Estatuto–de eternidade para–vossas–gerações em–todas vossas–habitações toda– gordura e–todo– sangue não comereis ¶
+-- c4-v1: E–falou YHWH a– Mosheh dizendo
+-- c4-v2: Fala a– os–filhos–de Yisra'el dizendo Alma quando– pecar por–erro de–qualquer–de os–mandamentos–de YHWH que não serão–feitas e–fizer de–uma delas
+-- c4-v3: Se o–sacerdote o–ungido pecar para–culpa–de o–povo e–oferecerá por seu–pecado que pecou novilho filho–de– gado sem–defeito a–YHWH para–pecado
+-- c4-v4: E–trará (a) o–novilho a– a–entrada–de tenda de–encontro diante–de YHWH e–apoiará (a) sua–mão sobre– a–cabeça–de o–novilho e–degolará (a) o–novilho diante–de YHWH
+-- c4-v5: E–tomará o–sacerdote o–ungido de–o–sangue–de o–novilho e–trará (a)–ele a– tenda de–encontro
+-- c4-v6: E–molhará o–sacerdote (a) seu–dedo no–sangue e–aspergirá de– o–sangue sete vezes diante–de YHWH (a) a–face–de o–véu–de o–santuário
+-- c4-v7: E–porá o–sacerdote de– o–sangue sobre– os–chifres–de altar–de incenso–de as–especiarias diante–de YHWH que em–a–tenda–de encontro e–(a) todo– o–sangue–de o–novilho derramará a– a–base–de altar–de o–holocausto que– a–entrada–de tenda de–encontro
+-- c4-v8: E–(a) toda– a–gordura–de novilho–de o–pecado levantará dele (a) a–gordura a–que–cobre sobre– as–entranhas e–(a) toda– a–gordura que sobre– as–entranhas
+-- c4-v9: E–(a) os–dois os–rins e–(a) a–gordura que sobre–eles que sobre– os–lombos e–(a) o–lobo–do sobre– o–fígado sobre– os–rins removerá–a
+-- c4-v10: Como é–levantada de–boi–de sacrifício–de as–pacíficas e–queimará–os o–sacerdote sobre altar–de o–holocausto
+-- c4-v11: E–(a) a–pele–de o–novilho e–(a) toda– sua–carne com– sua–cabeça e–com– suas–pernas e–suas–entranhas e–seu–esterco
+-- c4-v12: E–tirará (a) todo– o–novilho a– fora–de o–acampamento a– lugar puro a– o–derramar–de as–cinzas e–queimará (a)–ele sobre– lenhas no–fogo sobre– o–derramar–de as–cinzas será–queimado ¶
+-- c4-v13: E–se toda– a–congregação–de Yisra'el errar e–for–escondida a–coisa dos–olhos–de a–assembleia e–fizerem uma de–todas– os–mandamentos–de YHWH que não– serão–feitas e–forem–culpados
+-- c4-v14: E–for–conhecido o–pecado que pecaram por–ela e–oferecerão a–assembleia novilho filho–de– gado para–pecado e–trarão (a)–ele diante–de tenda de–encontro
+-- c4-v15: E–apoiarão os–anciãos–de a–congregação (a) suas–mãos sobre– a–cabeça–de o–novilho diante–de YHWH e–degolará (a) o–novilho diante–de YHWH
+-- c4-v16: E–trará o–sacerdote o–ungido de–o–sangue–de o–novilho a– tenda de–encontro
+-- c4-v17: E–molhará o–sacerdote seu–dedo de– o–sangue e–aspergirá sete vezes diante–de YHWH (a) a–face–de o–véu
+-- c4-v18: E–de– o–sangue porá sobre– os–chifres–de o–altar que diante–de YHWH que em–a–tenda–de encontro e–(a) todo– o–sangue derramará a– a–base–de altar–de o–holocausto que– a–entrada–de tenda de–encontro
+-- c4-v19: E–(a) toda– sua–gordura levantará dele e–queimará no–altar
+-- c4-v20: E–fará ao–novilho como fez ao–novilho–de o–pecado assim fará– a–ele e–expiará por–eles o–sacerdote e–será–perdoado a–eles
+-- c4-v21: E–tirará (a) o–novilho a– fora–de o–acampamento e–queimará (a)–ele como queimou (a) o–novilho o–primeiro pecado–de a–assembleia ele ¶
+-- c4-v22: Quando príncipe pecar e–fizer uma de–todos– os–mandamentos–de YHWH seu–'Elohim que não– serão–feitas por–erro e–for–culpado
+-- c4-v23: Ou– for–informado a–ele seu–pecado que pecou nela e–trará (a) sua–oferta bode de–cabras macho sem–defeito
+-- c4-v24: E–apoiará sua–mão sobre– a–cabeça–de o–bode e–degolará (a)–ele no–lugar que– degola (a) o–holocausto diante–de YHWH pecado ele
+-- c4-v25: E–tomará o–sacerdote de–o–sangue–de o–pecado com–seu–dedo e–porá sobre– os–chifres–de altar–de o–holocausto e–(a) seu–sangue derramará a– a–base–de altar–de o–holocausto
+-- c4-v26: E–(a) toda– sua–gordura queimará no–altar como–a–gordura–de sacrifício–de as–pacíficas e–expiará por–ele o–sacerdote de–seu–pecado e–será–perdoado a–ele ¶
+-- c4-v27: E–se– alma uma pecar por–erro do–povo–de a–terra ao–fazer–ela uma dos–mandamentos–de YHWH que não– serão–feitas e–for–culpada
+-- c4-v28: Ou for–informado a–ela seu–pecado que pecou e–trará sua–oferta cabra–de cabras sem–defeito fêmea por– seu–pecado que pecou
+-- c4-v29: E–apoiará (a) sua–mão sobre a–cabeça–de o–pecado e–degolará (a) o–pecado no–lugar–de o–holocausto
+-- c4-v30: E–tomará o–sacerdote de–seu–sangue com–seu–dedo e–porá sobre– os–chifres–de altar–de o–holocausto e–(a) todo– seu–sangue derramará a– a–base–de o–altar
+-- c4-v31: E–(a) toda– sua–gordura removerá como foi–removida gordura de–sobre sacrifício–de as–pacíficas e–queimará o–sacerdote no–altar para–aroma–de agrado a–YHWH e–expiará por–ele o–sacerdote e–será–perdoado a–ele ¶
+-- c4-v32: E–se– cordeiro trouxer sua–oferta para–pecado fêmea sem–defeito trará–a
+-- c4-v33: E–apoiará (a) sua–mão sobre a–cabeça–de o–pecado e–degolará (a)–ela para–pecado no–lugar que degola (a) o–holocausto
+-- c4-v34: E–tomará o–sacerdote de–o–sangue–de o–pecado com–seu–dedo e–porá sobre– os–chifres–de altar–de o–holocausto e–(a) todo– seu–sangue derramará a– a–base–de o–altar
+-- c4-v35: E–(a) toda– sua–gordura removerá como é–removida gordura–de– o–cordeiro de–sacrifício–de as–pacíficas e–queimará o–sacerdote (a)–eles no–altar sobre as–ofertas–de–fogo–de YHWH e–expiará por–ele o–sacerdote por– seu–pecado que– pecou e–será–perdoado a–ele ¶
+-- c5-v1: E–alma quando– pecar e–ouvir voz–de maldição e–ele testemunha ou viu ou soube se– não declarar e–carregará sua–iniquidade
+-- c5-v2: Ou alma que tocar em–toda– coisa impura ou em–cadáver–de animal–selvagem impuro ou em–cadáver–de animal–doméstico impuro ou em–cadáver–de enxame–de impuro e–for–escondido dele e–ele impuro e–for–culpado
+-- c5-v3: Ou quando tocar em–impureza–de homem para–toda sua–impureza que se–torna–impuro com–ela e–for–escondido dele e–ele souber e–for–culpado
+-- c5-v4: Ou alma quando jurar para–pronunciar com–lábios para–mal ou para–bem para–tudo que pronunciar o–homem com–juramento e–for–escondido dele e–ele– souber e–for–culpado para–uma destas
+-- c5-v5: E–será quando– for–culpado para–uma destas e–confessará que pecou por–ela
+-- c5-v6: E–trará (a) sua–culpa a–YHWH por seu–pecado que pecou fêmea de– o–rebanho ovelha ou– cabra–de cabras para–pecado e–expiará por–ele o–sacerdote de–seu–pecado
+-- c5-v7: E–se– não alcançar sua–mão suficiente–de ovelha e–trará (a) sua–culpa que pecou duas rolas ou– dois filhos–de– pomba a–YHWH uma para–pecado e–uma para–holocausto
+-- c5-v8: E–trará (a)–elas a– o–sacerdote e–oferecerá (a) a–que para–o–pecado primeiro e–arrancará (a) sua–cabeça defronte–de sua–nuca e–não separará
+-- c5-v9: E–aspergirá de–o–sangue–de o–pecado sobre– a–parede–de o–altar e–o–restante no–sangue será–espremido a– a–base–de o–altar pecado ele
+-- c5-v10: E–(a) o–segundo fará holocausto como–a–ordenança e–expiará por–ele o–sacerdote de–seu–pecado que– pecou e–será–perdoado a–ele §
+-- c5-v11: E–se– não alcançar sua–mão para–duas rolas ou para–dois filhos–de– pomba e–trará (a) sua–oferta que pecou décima–de a–efa flor–de–farinha para–pecado não– porá sobre–ela óleo e–não– dará sobre–ela incenso pois pecado ela
+-- c5-v12: E–trará–a a– o–sacerdote e–apanhará o–sacerdote dela punhado–de seu–punho (a) seu–memorial e–queimará no–altar sobre as–ofertas–de–fogo–de YHWH pecado ela
+-- c5-v13: E–expiará por–ele o–sacerdote por– seu–pecado que– pecou de–uma destas e–será–perdoado a–ele e–será para–o–sacerdote como–a–minhah §
+-- c5-v14: E–falou YHWH a– Mosheh dizendo
+-- c5-v15: Alma quando– cometer–infidelidade infidelidade e–pecar por–erro das–coisas–santas–de YHWH e–trará (a) sua–culpa a–YHWH carneiro sem–defeito de– o–rebanho em–tua–avaliação prata–de– siclos em–siclo–de– o–santuário para–culpa
+-- c5-v16: E–(a) que pecou de– o–santuário restituirá e–(a) seu–quinto acrescentará sobre–ele e–dará (a)–ele ao–sacerdote e–o–sacerdote expiará por–ele com–carneiro–de a–culpa e–será–perdoado a–ele ¶
+-- c5-v17: E–se– alma quando pecar e–fizer uma de–todos– os–mandamentos–de YHWH que não serão–feitas e–não– soube e–for–culpada e–carregará sua–iniquidade
+-- c5-v18: E–trará carneiro sem–defeito de– o–rebanho em–tua–avaliação para–culpa a– o–sacerdote e–expiará por–ele o–sacerdote por seu–erro que– errou e–ele não– soube e–será–perdoado a–ele
+-- c5-v19: Culpa ele culpando foi–culpado a–YHWH ¶
+-- c6-v1: E–falou YHWH a Mosheh dizendo
+-- c6-v2: Alma quando pecar e–cometer–transgressão transgressão contra–YHWH e–mentir a–seu–próximo em–depósito ou em–penhor de–mão ou em–roubo ou oprimiu (a) seu–próximo
+-- c6-v3: ou achou coisa–perdida e–mentiu sobre–ela e–jurou sobre falsidade sobre uma de–todas que fizer o–homem para–pecar nelas
+-- c6-v4: E–será quando pecar e–for–culpado e–restituirá (a) a–coisa–roubada que roubou ou (a) a–extorsão que extorquiu ou (a) o–depósito que foi–depositado com–ele ou (a) a–coisa–perdida que achou
+-- c6-v5: ou de–tudo que jurar sobre–ela para–falsidade e–pagará ela em–sua–totalidade e–seu–quinto acrescentará sobre–ela a–quem ele para–ele a–dará no–dia–de sua–culpa
+-- c6-v6: E–(a) sua–oferta–pela–culpa trará a–YHWH carneiro perfeito do rebanho em–tua–avaliação para–'asham ao kohen
+-- c6-v7: E–fará–expiação sobre–ele o–kohen diante–de YHWH e–será–perdoado a–ele por uma de–todas que fizer para–culpa nela ¶
+-- c6-v8: E–falou YHWH a Mosheh dizendo
+-- c6-v9: Ordena (a) 'Aharon e–(a) seus–filhos dizendo Esta é–a–lei–de a–'olah ela a–'olah sobre seu–fogo sobre o–altar toda–a noite até a–manhã e–o–fogo–de o–altar arderá nele
+-- c6-v10: E–vestirá o–kohen sua–veste–de linho e–calças–de linho vestirá sobre sua–carne e–levantará (a) a–cinza que consumir o–fogo (a) a–'olah sobre o–altar e–a–colocará ao–lado–de o–altar
+-- c6-v11: E–tirará (a) suas–vestes e–vestirá vestes outras e–levará (a) a–cinza para fora–de o–acampamento para lugar puro
+-- c6-v12: E–o–fogo sobre o–altar arderá nele não se–apagará e–queimará sobre–ele o–kohen lenhas pela–manhã pela–manhã e–arranjará sobre–ele a–'olah e–queimará sobre–ele gorduras–de os–shelamim
+-- c6-v13: Fogo continuamente arderá sobre o–altar não se–apagará §
+-- c6-v14: E–esta é–a–lei–de a–minhah aproximar ela filhos–de 'Aharon diante–de YHWH para face–de o–altar
+-- c6-v15: E–levantará dela com–seu–punho da–flor–de–farinha–de a–minhah e–de–seu–óleo e–(a) todo–o incenso que sobre a–minhah e–queimará o–altar cheiro agradável sua–porção–memorial a–YHWH
+-- c6-v16: E–o–restante dela comerão 'Aharon e–seus–filhos pães–ázimos será–comida em–lugar santo no–pátio–de tenda–de reunião a–comerão
+-- c6-v17: Não será–assada levedada sua–porção dei ela de–minhas–ofertas–de–fogo santíssima santíssima ela como–a–hattat e–como–a–'asham
+-- c6-v18: Todo macho entre–os–filhos–de 'Aharon a–comerá estatuto perpétuo para–vossas–gerações das–ofertas–de–fogo–de YHWH todo que tocar nelas será–santo ¶
+-- c6-v19: E–falou YHWH a Mosheh dizendo
+-- c6-v20: Esta é–a–oferta–de 'Aharon e–seus–filhos que oferecerão a–YHWH no–dia–de ser–ungido ele um–décimo–de a–efah flor–de–farinha minhah contínua sua–metade pela–manhã e–sua–metade pela–tarde
+-- c6-v21: Sobre chapa no–óleo será–feita bem–misturada a–trarás pedaços–assados–de minhah de–pedaços oferecerás cheiro agradável a–YHWH
+-- c6-v22: E–o–kohen o–ungido em–seu–lugar de–seus–filhos a–fará ela estatuto perpétuo a–YHWH inteira será–queimada
+-- c6-v23: E–toda minhah–de kohen inteira será não será–comida ¶
+-- c6-v24: E–falou YHWH a Mosheh dizendo
+-- c6-v25: Fala a 'Aharon e–a seus–filhos dizendo Esta é–a–lei–de a–hattat no–lugar onde será–abatida a–'olah será–abatida a–hattat diante–de YHWH santíssima santíssima ela
+-- c6-v26: O–kohen o–que–faz–expiação ela a–comerá em–lugar santo será–comida no–pátio–de tenda–de reunião
+-- c6-v27: Todo que tocar em–sua–carne será–santo e–quando for–espargido de–seu–sangue sobre a–veste onde for–espargido sobre–ela lavarás em–lugar santo
+-- c6-v28: E–vaso–de barro em–que for–cozida nele será–quebrado e–se em–vaso–de bronze for–cozida e–será–esfregado e–enxaguado na–água
+-- c6-v29: Todo macho entre–os–kohanim comerá ela santíssima santíssima ela
+-- c6-v30: E–toda hattat que for–trazido de–seu–sangue para tenda–de reunião para–fazer–expiação no–santo não será–comida no–fogo será–queimada ¶
+-- c7-v1: E–esta é–a–lei–de a–'asham santíssima santíssima ela
+-- c7-v2: No–lugar onde abaterem (a) a–'olah abaterão (a) a–'asham e–(a) seu–sangue espargirá sobre o–altar ao–redor
+-- c7-v3: E–(a) toda sua–gordura oferecerá dela (a) a–cauda–gorda e–(a) a–gordura a–que–cobre (a) as–entranhas
+-- c7-v4: E–(a) os–dois rins e–(a) a–gordura que sobre–eles que sobre os–lombos e–(a) o–apêndice sobre o–fígado sobre os–rins a–removerá
+-- c7-v5: E–queimará eles o–kohen ao–altar oferta–de–fogo a–YHWH 'asham ela
+-- c7-v6: Todo macho entre–os–kohanim a–comerá em–lugar santo será–comida santíssima santíssima ela
+-- c7-v7: Como–a–hattat como–a–'asham lei uma para–eles o–kohen que fizer–expiação com–ela para–ele será
+-- c7-v8: E–o–kohen o–que–oferece (a) 'olah–de homem pele–de a–'olah que ofereceu para–o–kohen para–ele será
+-- c7-v9: E–toda minhah que for–assada no–forno e–toda feita na–panela e–sobre chapa para–o–kohen o–que–oferece ela para–ele será
+-- c7-v10: E–toda minhah misturada no–óleo e–seca para–todos–os filhos–de 'Aharon será homem como–seu–irmão ¶
+-- c7-v11: E–esta é–a–lei–de sacrifício–de os–shelamim que oferecer a–YHWH
+-- c7-v12: Se por ação–de–graças o–oferecer e–oferecerá com sacrifício–de a–ação–de–graças bolos–de pães–ázimos misturados no–óleo e–bolinhos–de pães–ázimos untados no–óleo e–flor–de–farinha bem–misturada bolos misturados no–óleo
+-- c7-v13: Com bolos–de pão levedado oferecerá sua–oferta com sacrifício–de ação–de–graças–de seus–shelamim
+-- c7-v14: E–oferecerá dele um de–toda oferta contribuição a–YHWH para–o–kohen o–que–esparge (a) sangue–de os–shelamim para–ele será
+-- c7-v15: E–a–carne–de sacrifício–de ação–de–graças–de seus–shelamim no–dia–de sua–oferta será–comida não deixará dela até manhã
+-- c7-v16: E–se voto ou oferta–voluntária sacrifício–de sua–oferta no–dia oferecê–lo (a) seu–sacrifício será–comido e–no–dia–seguinte e–o–restante dele será–comido
+-- c7-v17: E–o–restante da–carne–de o–sacrifício no–dia o–terceiro no–fogo será–queimado
+-- c7-v18: E–se de–fato–for–comida for–comida da–carne–de sacrifício–de seus–shelamim no–dia o–terceiro não será–aceito o–que–oferece ele não será–contado a–ele coisa–repugnante será e–a–alma a–que–come dele sua–iniquidade carregará
+-- c7-v19: E–a–carne que tocar em–qualquer coisa–impura não será–comida no–fogo será–queimada e–a–carne todo puro comerá carne
+-- c7-v20: E–a–alma que comer carne de–sacrifício–de os–shelamim que de–YHWH e–sua–impureza sobre–ela e–será–cortada a–alma essa de–seus–povos
+-- c7-v21: E–alma quando tocar em–qualquer coisa–impura em–impureza–de homem ou em–animal impuro ou em–qualquer coisa–detestavel impura e–comer da–carne–de sacrifício–de os–shelamim que de–YHWH e–será–cortada a–alma essa de–seus–povos ¶
+-- c7-v22: E–falou YHWH a Mosheh dizendo
+-- c7-v23: Fala aos filhos–de Yisra'el dizendo Toda gordura–de boi e–cordeiro e–cabra não comereis
+-- c7-v24: E–gordura–de animal–morto e–gordura–de animal–despedaçado será–usada para–toda obra e–comer não a–comereis
+-- c7-v25: Porque todo o–que–come gordura do animal que oferece dele oferta–de–fogo a–YHWH e–será–cortada a–alma a–que–come de–seus–povos
+-- c7-v26: E–todo sangue não comereis em–todas vossas–habitações da–ave e–do–animal
+-- c7-v27: Toda alma que comer qualquer sangue e–será–cortada a–alma essa de–seus–povos ¶
+-- c7-v28: E–falou YHWH a Mosheh dizendo
+-- c7-v29: Fala aos filhos–de Yisra'el dizendo O–que–oferece (a) sacrifício–de seus–shelamim a–YHWH trará (a) sua–oferta a–YHWH de–sacrifício–de seus–shelamim
+-- c7-v30: Suas–mãos trarão (a) ofertas–de–fogo–de YHWH (a) a–gordura com o–peito o–trará (a) o–peito para–agitar ele oferta–movida diante–de YHWH
+-- c7-v31: E–queimará o–kohen (a) a–gordura sobre–o–altar e–será o–peito para–'Aharon e–para–seus–filhos
+-- c7-v32: E–(a) coxa–de a–direita dareis contribuição ao–kohen de–vossos–sacrifícios–de vossos–shelamim
+-- c7-v33: O–que–oferece (a) sangue–de os–shelamim e–(a) a–gordura dos–filhos–de 'Aharon para–ele será coxa–de a–direita por–porção
+-- c7-v34: Porque (a) peito–de a–oferta–movida e–(a) coxa–de a–contribuição tomei de–com filhos–de Yisra'el de–seus–sacrifícios–de seus–shelamim e–dei eles a–'Aharon o–kohen e–a–seus–filhos por–estatuto perpétuo de–com filhos–de Yisra'el
+-- c7-v35: Esta é–a–porção–de 'Aharon e–a–porção–de seus–filhos das–ofertas–de–fogo–de YHWH no–dia aproximou eles para–ministrar a–YHWH
+-- c7-v36: Que ordenou YHWH dar a–eles no–dia ungir eles de–com filhos–de Yisra'el estatuto perpétuo para–suas–gerações
+-- c7-v37: Esta é–a–lei para–a–'olah para–a–minhah e–para–a–hattat e–para–a–'asham e–para–os–millu'im e–para–sacrifício–de os–shelamim
+-- c7-v38: Que ordenou YHWH (a) Mosheh no–monte Sinai no–dia ordenar–ele (a) filhos–de Yisra'el para–oferecer (a) suas–ofertas a–YHWH no–deserto–de Sinai ¶
+-- c8-v1: E–falou YHWH a Mosheh dizendo
+-- c8-v2: Toma (a) 'Aharon e–(a) seus–filhos com–ele e–(a) as–vestes e–(a) óleo–de a–unção e–(a) novilho–de a–hattat e–(a) os–dois carneiros e–(a) cesto–de os–pães–ázimos
+-- c8-v3: E–(a) toda a–congregação reúne para entrada–de tenda–de reunião
+-- c8-v4: E–fez Mosheh como ordenou YHWH a–ele e–reuniu–se a–congregação para entrada–de tenda–de reunião
+-- c8-v5: E–disse Mosheh para a–congregação Esta é–a–coisa que ordenou YHWH para–fazer
+-- c8-v6: E–aproximou Mosheh (a) 'Aharon e–(a) seus–filhos e–lavou eles na–água
+-- c8-v7: E–colocou sobre–ele (a) a–túnica e–cingiu ele com–o–cinto e–vestiu ele (a) o–manto e–colocou sobre–ele (a) o–efod e–cingiu ele com–cinto–de o–efod e–prendeu para–ele com–ele
+-- c8-v8: E–colocou sobre–ele (a) o–peitoral e–colocou no peitoral (a) os–Urim e–(a) os–Tummim
+-- c8-v9: E–colocou (a) a–mitra sobre sua–cabeça e–colocou sobre a–mitra para frente–de sua–face (a) lâmina–de o–ouro coroa–de a–santidade como ordenou YHWH (a) Mosheh
+-- c8-v10: E–tomou Mosheh (a) óleo–de a–unção e–ungiu (a) o–tabernáculo e–(a) tudo que nele e–santificou eles
+-- c8-v11: E–aspergiu dele sobre o–altar sete vezes e–ungiu (a) o–altar e–(a) todos–os seus–utensílios e–(a) a–bacia e–(a) sua–base para–santificá–los
+-- c8-v12: E–derramou do–óleo–de a–unção sobre cabeça–de 'Aharon e–ungiu ele para–santificá–lo
+-- c8-v13: E–aproximou Mosheh (a) filhos–de 'Aharon e–vestiu–lhes túnicas e–cingiu eles cinto e–atou para–eles tiaras como ordenou YHWH (a) Mosheh
+-- c8-v14: E–fez–chegar (a) novilho–de a–hattat e–apoiaram 'Aharon e–seus–filhos (a) suas–mãos sobre cabeça–de novilho–de a–hattat
+-- c8-v15: E–abateu e–tomou Mosheh (a) o–sangue e–colocou sobre chifres–de o–altar ao–redor com–seu–dedo e–purificou (a) o–altar e–(a) o–sangue derramou para base–de o–altar e–santificou–o para–fazer–expiação sobre–ele
+-- c8-v16: E–tomou (a) toda a–gordura que sobre as–entranhas e–(a) apêndice–de o–fígado e–(a) os–dois rins e–(a) sua–gordura e–queimou Mosheh sobre–o–altar
+-- c8-v17: E–(a) o–novilho e–(a) sua–pele e–(a) sua–carne e–(a) seu–esterco queimou no–fogo fora–de o–acampamento como ordenou YHWH (a) Mosheh
+-- c8-v18: E–fez–chegar (a) carneiro–de a–'olah e–apoiaram 'Aharon e–seus–filhos (a) suas–mãos sobre cabeça–de o–carneiro
+-- c8-v19: E–abateu e–aspergiu Mosheh (a) o–sangue sobre o–altar ao–redor
+-- c8-v20: E–(a) o–carneiro cortou em–seus–pedaços e–queimou Mosheh (a) a–cabeça e–(a) os–pedaços e–(a) a–gordura
+-- c8-v21: E–(a) as–entranhas e–(a) as–pernas lavou na–água e–queimou Mosheh (a) todo–o carneiro sobre–o–altar 'olah ele para–cheiro agradável oferta–de–fogo ele a–YHWH como ordenou YHWH (a) Mosheh
+-- c8-v22: E–fez–chegar (a) o–carneiro o–segundo carneiro–de os–millu'im e–apoiaram 'Aharon e–seus–filhos (a) suas–mãos sobre cabeça–de o–carneiro
+-- c8-v23: E–abateu e–tomou Mosheh de–seu–sangue e–colocou sobre lóbulo–de orelha–de 'Aharon a–direita e–sobre polegar–de sua–mão a–direita e–sobre dedos–de seu–pé o–direito
+-- c8-v24: E–fez–chegar (a) filhos–de 'Aharon e–colocou Mosheh do sangue sobre lóbulo–de sua–orelha a–direita e–sobre polegar–de sua–mão a–direita e–sobre dedos–de seu–pé o–direito e–aspergiu Mosheh (a) o–sangue sobre o–altar ao–redor
+-- c8-v25: E–tomou (a) a–gordura e–(a) a–cauda–gorda e–(a) toda a–gordura que sobre as–entranhas e–(a) apêndice–de o–fígado e–(a) os–dois rins e–(a) sua–gordura e–(a) coxa–de a–direita
+-- c8-v26: E–do–cesto–de os–pães–ázimos que diante–de YHWH tomou bolo–de pão–ázimo um e–bolo–de pão–de óleo um e–bolinho um e–colocou sobre as–gorduras e–sobre coxa–de a–direita
+-- c8-v27: E–colocou (a) o–todo sobre palmas–de 'Aharon e–sobre palmas–de seus–filhos e–moveu eles oferta–movida diante–de YHWH
+-- c8-v28: E–tomou Mosheh eles de–sobre suas–palmas e–queimou sobre–o–altar sobre a–'olah millu'im eles para–cheiro agradável oferta–de–fogo ele a–YHWH
+-- c8-v29: E–tomou Mosheh (a) o–peito e–moveu–o oferta–movida diante–de YHWH do–carneiro–de os–millu'im para–Mosheh foi por–porção como ordenou YHWH (a) Mosheh
+-- c8-v30: E–tomou Mosheh do–óleo–de a–unção e–do sangue que sobre o–altar e–aspergiu sobre 'Aharon sobre suas–vestes e–sobre seus–filhos e–sobre vestes–de seus–filhos com–ele e–santificou (a) 'Aharon (a) suas–vestes e–(a) seus–filhos e–(a) vestes–de seus–filhos com–ele
+-- c8-v31: E–disse Mosheh a 'Aharon e–a seus–filhos Cozei (a) a–carne entrada–de tenda–de reunião e–lá comereis ela e–(a) o–pão que no–cesto–de os–millu'im como ordenei dizendo 'Aharon e–seus–filhos a–comerão
+-- c8-v32: E–o–restante na–carne e–no–pão no–fogo queimareis
+-- c8-v33: E–da–entrada–de tenda–de reunião não saireis sete dias até dia–de completar–se dias–de vossa–ordenação porque sete dias encherá (a) vossa–mão
+-- c8-v34: Como fez no–dia este ordenou YHWH para–fazer para–fazer–expiação sobre–vós
+-- c8-v35: E–à–entrada–de tenda–de reunião permanecereis dia e–noite sete dias e–guardareis (a) guarda–de YHWH e–não morrereis pois assim fui–ordenado
+-- c8-v36: E–fez 'Aharon e–seus–filhos (a) todas–as coisas que ordenou YHWH pela–mão–de Mosheh §
+-- c9-v1: E–foi no–dia o–oitavo chamou Mosheh a–'Aharon e–a–seus–filhos e–aos–anciãos–de Yisra'el
+-- c9-v2: E–disse a 'Aharon Toma para–ti bezerro filho–de gado para–hattat e–carneiro para–'olah perfeitos e–oferece diante–de YHWH
+-- c9-v3: E–aos filhos–de Yisra'el falarás dizendo Tomai bode–de cabras para–hattat e–bezerro e–cordeiro filhos–de ano perfeitos para–'olah
+-- c9-v4: E–boi e–carneiro para–shelamim para–sacrificar diante–de YHWH e–minhah misturada no–óleo porque hoje YHWH aparecerá a–vós
+-- c9-v5: E–tomaram (a) que ordenou Mosheh para face–de tenda–de reunião e–aproximou–se toda a–congregação e–ficaram–de–pé diante–de YHWH
+-- c9-v6: E–disse Mosheh Esta é–a–coisa que ordenou YHWH fareis e–aparecerá a–vós glória–de YHWH
+-- c9-v7: E–disse Mosheh a 'Aharon Aproxima–te ao altar e–faze (a) tua–hattat e–(a) tua–'olah e–faze–expiação por–ti e–pelo povo e–faze (a) oferta–de o–povo e–faze–expiação por–eles como ordenou YHWH
+-- c9-v8: E–aproximou–se 'Aharon ao altar e–abateu (a) bezerro–de a–hattat que para–ele
+-- c9-v9: E–aproximaram filhos–de 'Aharon (a) o–sangue a–ele e–mergulhou seu–dedo no–sangue e–colocou sobre chifres–de o–altar e–(a) o–sangue derramou para base–de o–altar
+-- c9-v10: E–(a) a–gordura e–(a) os–rins e–(a) o–apêndice do fígado da hattat queimou sobre–o–altar como ordenou YHWH (a) Mosheh
+-- c9-v11: E–(a) a–carne e–(a) a–pele queimou no–fogo fora–de o–acampamento
+-- c9-v12: E–abateu (a) a–'olah e–apresentaram filhos–de 'Aharon a–ele (a) o–sangue e–aspergiu–o sobre o–altar ao–redor
+-- c9-v13: E–(a) a–'olah apresentaram a–ele em–seus–pedaços e–(a) a–cabeça e–queimou sobre o–altar
+-- c9-v14: E–lavou (a) as–entranhas e–(a) as–pernas e–queimou sobre a–'olah sobre–o–altar
+-- c9-v15: E–fez–chegar (a) oferta–de o–povo e–tomou (a) bode–de a–hattat que para–o–povo e–abateu–o e–fez–expiação–com–ele como–o–primeiro
+-- c9-v16: E–fez–chegar (a) a–'olah e–fez–ela conforme–o–regulamento
+-- c9-v17: E–fez–chegar (a) a–minhah e–encheu sua–palma dela e–queimou sobre o–altar além–de 'olah–de a–manhã
+-- c9-v18: E–abateu (a) o–boi e–(a) o–carneiro sacrifício–de os–shelamim que para–o–povo e–apresentaram filhos–de 'Aharon (a) o–sangue a–ele e–aspergiu–o sobre o–altar ao–redor
+-- c9-v19: E–(a) as–gorduras do boi e–do carneiro a–cauda–gorda e–a–que–cobre e–os–rins e–apêndice–de o–fígado
+-- c9-v20: E–colocaram (a) as–gorduras sobre os–peitos e–queimou as–gorduras sobre–o–altar
+-- c9-v21: E–(a) os–peitos e–(a) coxa–de a–direita moveu 'Aharon oferta–movida diante–de YHWH como ordenou Mosheh
+-- c9-v22: E–levantou 'Aharon (a) [sua–mão] suas–mãos para o–povo e–abençoou–os e–desceu de–fazer a–hattat e–a–'olah e–os–shelamim
+-- c9-v23: E–entrou Mosheh e–'Aharon na tenda–de reunião e–saíram e–abençoaram (a) o–povo e–apareceu glória–de YHWH a todo o–povo
+-- c9-v24: E–saiu fogo de–diante–de YHWH e–consumiu sobre o–altar (a) a–'olah e–(a) as–gorduras e–viu todo o–povo e–gritaram–de–alegria e–caíram sobre suas–faces
+-- c10-v1: E–tomaram filhos–de 'Aharon Nadav e–'Avihu homem seu–incensário e–colocaram neles fogo e–colocaram sobre–ele incenso e–ofereceram diante–de YHWH fogo estranho que não ordenara a–eles
+-- c10-v2: E–saiu fogo de–diante–de YHWH e–consumiu eles e–morreram diante–de YHWH
+-- c10-v3: E–disse Mosheh a 'Aharon Isto é–o–que falou YHWH dizendo Nos–que–se–aproximam–de–Mim serei–santificado e–sobre face–de todo o–povo serei–glorificado E–calou–se 'Aharon
+-- c10-v4: E–chamou Mosheh a Misha'el e–a 'Eltsafan filhos–de 'Uzzi'el tio–de 'Aharon e–disse a–eles Aproximai–vos levai (a) vossos–irmãos de–diante–de face–de o–santo para fora–de o–acampamento
+-- c10-v5: E–aproximaram–se e–carregaram–os em–suas–túnicas para fora–de o–acampamento como falou Mosheh
+-- c10-v6: E–disse Mosheh a 'Aharon e–a–'El'azar e–a–'Itamar seus–filhos Vossas–cabeças não desgrenheis e–vossas–vestes não rasgueis e–não morrereis e–sobre toda a–congregação se–irará e–vossos–irmãos toda casa–de Yisra'el chorarão (a) o–incêndio que queimou YHWH
+-- c10-v7: E–da–entrada–de tenda–de reunião não saireis para–que–não morrais porque óleo–de unção–de YHWH sobre–vós E–fizeram conforme–a–palavra–de Mosheh ¶
+-- c10-v8: E–falou YHWH a 'Aharon dizendo
+-- c10-v9: Vinho e–bebida–forte não bebais tu e–teus–filhos contigo quando–entrardes na tenda–de reunião e–não morrereis estatuto perpétuo para–vossas–gerações
+-- c10-v10: E–para–distinguir entre o–santo e–entre o–profano e–entre o–impuro e–entre o–puro
+-- c10-v11: E–para–ensinar (a) filhos–de Yisra'el (a) todos–os estatutos que falou YHWH a–eles pela–mão–de Mosheh ¶
+-- c10-v12: E–falou Mosheh a 'Aharon e–a 'El'azar e–a 'Itamar seus–filhos os–restantes Tomai (a) a–minhah a–restante das–ofertas–de–fogo–de YHWH e–comei–a pães–ázimos ao–lado–de o–altar porque santíssima santíssima ela
+-- c10-v13: E–comereis ela em–lugar santo porque tua–porção e–porção–de teus–filhos ela das–ofertas–de–fogo–de YHWH pois assim fui–ordenado
+-- c10-v14: E–(a) peito–de a–oferta–movida e–(a) coxa–de a–contribuição comereis em–lugar puro tu e–teus–filhos e–tuas–filhas contigo porque tua–porção e–porção–de teus–filhos foram–dados dos–sacrifícios–de shelamim–de filhos–de Yisra'el
+-- c10-v15: Coxa–de a–contribuição e–peito–de a–oferta–movida sobre ofertas–de–fogo–de as–gorduras trarão para–mover oferta–movida diante–de YHWH e–será para–ti e–para–teus–filhos contigo por–estatuto perpétuo como ordenou YHWH
+-- c10-v16: E–(a) bode–de a–hattat diligentemente–buscou diligentemente–buscou Mosheh e–eis foi–queimado e–irou–se contra 'El'azar e–contra 'Itamar filhos–de 'Aharon os–restantes dizendo
+-- c10-v17: Por–que não comestes (a) a–hattat no–lugar o–santo porque santíssima santíssima ela e–ela deu a–vós para–carregar (a) iniquidade–de a–congregação para–fazer–expiação sobre–eles diante–de YHWH
+-- c10-v18: Eis não foi–trazido (a) seu–sangue para o–santo para–dentro de–fato–comer deveríeis–comer ela no–santo como ordenei
+-- c10-v19: E–falou 'Aharon a Mosheh Eis hoje ofereceram (a) sua–hattat e–(a) sua–'olah diante–de YHWH e–aconteceram–me a–mim tais–coisas e–tivesse–comido hattat hoje seria–bom aos–olhos–de YHWH
+-- c10-v20: E–ouviu Mosheh e–foi–bom aos–seus–olhos ¶
+-- c11-v1: E–falou YHWH a Mosheh e–a 'Aharon dizendo a–eles
+-- c11-v2: Falai a filhos–de Yisra'el dizendo Esta a–criatura que comereis de–todo o–animal que sobre a–terra
+-- c11-v3: Todo que–divide casco e–fende fenda cascos que–rumina ruminação entre–o–animal (a)–ela comereis
+-- c11-v4: Porém (a) este não comereis dos–que–ruminam a–ruminação e–dos–que–dividem o–casco (a) o–camelo porque ruminante ruminação ele e–casco não–é dividindo impuro ele para–vós
+-- c11-v5: E–(a) o–hírax porque ruminante ruminação ele e–casco não divide impuro ele para–vós
+-- c11-v6: E–(a) a–lebre porque ruminante ruminação ela e–casco não dividiu impura ela para–vós
+-- c11-v7: E–(a) o–porco porque dividindo casco ele e–fendendo fenda casco e–ele ruminação não rumina impuro ele para–vós
+-- c11-v8: De–carne–deles não comereis e–em–cadáver–deles não tocareis impuros eles para–vós
+-- c11-v9: (A) isto comereis de–tudo que nas–águas tudo que a–ele barbatana e–escama nas–águas nos–mares e–nos–rios (a)–eles comereis
+-- c11-v10: E–tudo que não–há a–ele barbatana e–escama nos–mares e–nos–rios de–todo enxame das–águas e–de–toda alma a–vivente que nas–águas abominação eles para–vós
+-- c11-v11: E–abominação serão para–vós de–carne–deles não comereis e–(a) cadáver–deles abominareis
+-- c11-v12: Tudo que não–há a–ele barbatana e–escama nas–águas abominação ele para–vós
+-- c11-v13: E–(a) estes abominareis de a–ave não serão–comidos abominação eles (a) a–águia e–(a) o–quebrantosso e–(a) o–abutre
+-- c11-v14: E–(a) o–milhafre e–(a) o–falcão segundo–espécie–sua
+-- c11-v15: (A) todo corvo segundo–espécie–seu
+-- c11-v16: E–(a) filha–de a–avestruz e–(a) o–mocho e–(a) a–gaivota e–(a) o–gavião segundo–espécie–seu
+-- c11-v17: E–(a) a–coruja e–(a) o–mergulhão e–(a) o–bufo
+-- c11-v18: E–(a) a–coruja–branca e–(a) o–pelicano e–(a) o–urubu
+-- c11-v19: E–(a) a–cegonha a–garça segundo–espécie–sua e–(a) a–poupa e–(a) o–morcego
+-- c11-v20: Todo enxame–de a–ave o–que–anda sobre quatro abominação ele para–vós §
+-- c11-v21: Porém (a) este comereis de–todo enxame–de a–ave o–que–anda sobre quatro que [não] (a–ele) pernas de–sobre pés–seus para–saltar com–elas sobre a–terra
+-- c11-v22: (A) estes deles comereis (a) o–gafanhoto segundo–espécie–seu e–(a) o–sol'am segundo–espécie–seu e–(a) o–hargol segundo–espécie–seu e–(a) o–hagav segundo–espécie–seu
+-- c11-v23: E–todo enxame–de a–ave que a–ele quatro pés abominação ele para–vós
+-- c11-v24: E–por–estes tornar–vos–eis–impuros todo o–que–toca em–cadáver–deles tornar–se–á–impuro até a–tarde
+-- c11-v25: E–todo o–que–carrega de–cadáver–deles lavará vestes–suas e–impuro até a–tarde
+-- c11-v26: Para–todo o–animal que ele dividindo casco e–fenda não–é fendendo e–ruminação não–é ruminando impuros eles para–vós todo o–que–toca neles tornar–se–á–impuro
+-- c11-v27: E–todo que–anda sobre palmas–suas em–toda a–criatura a–que–anda sobre quatro impuros eles para–vós todo o–que–toca em–cadáver–deles tornar–se–á–impuro até a–tarde
+-- c11-v28: E–o–que–carrega (a) cadáver–deles lavará vestes–suas e–impuro até a–tarde impuros eles para–vós §
+-- c11-v29: E–este para–vós o–impuro entre–o–réptil o–que–rasteja sobre a–terra a–doninha e–o–rato e–o–lagarto segundo–espécie–seu
+-- c11-v30: E–o–gecko e–o–camaleão e–a–lagartixa e–o–tatu e–a–toupeira
+-- c11-v31: Estes os–impuros para–vós entre–todo o–réptil todo o–que–toca neles na–morte–deles tornar–se–á–impuro até a–tarde
+-- c11-v32: E–tudo que cair sobre–ele deles na–morte–deles tornar–se–á–impuro de–todo utensílio–de madeira ou veste ou couro ou saco todo utensílio que é–feito trabalho com–eles nas–águas será–posto e–impuro até a–tarde e–será–puro
+-- c11-v33: E–todo utensílio–de barro que cair deles para dentro–dele tudo que em–dentro–dele tornar–se–á–impuro e–a–ele quebrareis
+-- c11-v34: De–toda a–comida que se–come que vier sobre–ele água tornar–se–á–impuro e–toda bebida que se–beber em–todo utensílio tornar–se–á–impuro
+-- c11-v35: E–tudo que cair de–cadáver–deles sobre–ele tornar–se–á–impuro forno e–fogão será–demolido impuros eles e–impuros serão para–vós
+-- c11-v36: Porém fonte e–cisterna reservatório–de águas será puro e–o–que–toca em–cadáver–deles tornar–se–á–impuro
+-- c11-v37: E–se cair de–cadáver–deles sobre toda semente–de semeadura que se–semeia puro ele
+-- c11-v38: E–se for–posto água sobre semente e–cair de–cadáver–deles sobre–ela impuro ele para–vós §
+-- c11-v39: E–se morrer de o–animal que ele para–vós para–comer o–que–toca em–cadáver–dele tornar–se–á–impuro até a–tarde
+-- c11-v40: E–o–que–come de–cadáver–dele lavará vestes–suas e–impuro até a–tarde e–o–que–carrega (a) cadáver–dele lavará vestes–suas e–impuro até a–tarde
+-- c11-v41: E–todo o–réptil o–que–rasteja sobre a–terra abominação ele não será–comido
+-- c11-v42: Tudo que–anda sobre ventre e–tudo que–anda sobre quatro até todo que–multiplica pés para–todo o–réptil o–que–rasteja sobre a–terra não comê–los–eis porque abominação eles
+-- c11-v43: Não abomineis (a) almas–vossas com–todo o–réptil o–que–rasteja e–não vos–torneis–impuros por–eles e–ficareis–impuros por–eles
+-- c11-v44: Porque eu YHWH 'Elohim–vosso e–santificai–vos e–sereis santos porque santo eu e–não torneis–impuras (a) almas–vossas com–todo o–réptil o–que–se–move sobre a–terra
+-- c11-v45: Porque eu YHWH o–que–fez–subir (a)–vós de–terra–de Mitsrayim para–ser para–vós para–'Elohim e–sereis santos porque santo eu
+-- c11-v46: Esta lei–de o–animal e–a–ave e–toda alma a–vivente a–que–se–move nas–águas e–para–toda alma a–que–rasteja sobre a–terra
+-- c11-v47: Para–distinguir entre o–impuro e–entre o–puro e–entre a–criatura a–que–se–come e–entre a–criatura que não se–comerá ¶
+-- c12-v1: E–falou YHWH a Mosheh dizendo
+-- c12-v2: Fala a filhos–de Yisra'el dizendo Mulher quando conceber e–der–à–luz macho e–será–impura sete dias como–dias–de separação–de enfermidade–sua será–impura
+-- c12-v3: E–no–dia o–oitavo será–circuncidada carne–de prepúcio–seu
+-- c12-v4: E–trinta dia e–três dias ficará em–sangues–de purificação em–todo santo não tocará e–a o–santuário não virá até completar–se dias–de purificação–sua
+-- c12-v5: E–se fêmea der–à–luz e–será–impura duas–semanas como–separação–sua e–sessenta dia e–seis dias ficará sobre sangues–de purificação
+-- c12-v6: E–ao–completar–se dias–de purificação–sua para–filho ou para–filha trará cordeiro filho–de ano–seu para–holocausto e–filho–de pomba ou rola para–oferta–pelo–pecado a entrada–de tenda–de reunião a o–sacerdote
+-- c12-v7: E–oferecerá–o diante–de YHWH e–fará–expiação sobre–ela e–será–pura de–fonte–de sangues–dela Esta lei–de a–parturiente para–o–macho ou para–a–fêmea
+-- c12-v8: E–se não alcançar mão–sua suficiente–de ovelha e–tomará duas rolas ou dois filhos–de pomba um para–holocausto e–um para–oferta–pelo–pecado e–fará–expiação sobre–ela o–sacerdote e–será–pura ¶
+-- c13-v1: E–falou YHWH a Mosheh e–a 'Aharon dizendo
+-- c13-v2: Homem quando houver em–pele–de carne–sua inchaço ou crosta ou mancha–brilhante e–houver em–pele–de carne–sua para–praga–de tsara'at e–será–trazido a 'Aharon o–sacerdote ou a um de–filhos–seus os–sacerdotes
+-- c13-v3: E–verá o–sacerdote (a) a–praga em–pele–de a–carne e–pelo na–praga virou branco e–aparência–de a–praga funda de–pele–de carne–sua praga–de tsara'at ela e–verá–o o–sacerdote e–declarará–impuro (a)–ele
+-- c13-v4: E–se mancha–brilhante branca ela em–pele–de carne–sua e–funda não–há aparência–sua de a–pele e–pelo–seu não virou branco e–fechará o–sacerdote (a) a–praga sete dias
+-- c13-v5: E–verá–o o–sacerdote no–dia o–sétimo e–eis a–praga parou aos–olhos–seus não espalhou a–praga na–pele e–fechará–o o–sacerdote sete dias segunda–vez
+-- c13-v6: E–verá o–sacerdote (a)–ele no–dia o–sétimo segunda–vez e–eis escureceu a–praga e–não espalhou a–praga na–pele e–declarará–puro–o o–sacerdote crosta ela e–lavará vestes–suas e–será–puro
+-- c13-v7: E–se espalhando espalhar a–crosta na–pele depois–de mostrar–se–ele a o–sacerdote para–purificação–sua e–mostrar–se–á segunda–vez a o–sacerdote
+-- c13-v8: E–verá o–sacerdote e–eis espalhou a–crosta na–pele e–declarará–impuro–o o–sacerdote tsara'at ela ¶
+-- c13-v9: Praga–de tsara'at quando houver em–homem e–será–trazido a o–sacerdote
+-- c13-v10: E–verá o–sacerdote e–eis inchaço branca na–pele e–ela virou pelo branco e–vida–de carne viva na–inchaço
+-- c13-v11: Tsara'at antiga ela em–pele–de carne–sua e–declarará–impuro–o o–sacerdote não fechará–o porque impuro ele
+-- c13-v12: E–se brotando brotar a–tsara'at na–pele e–cobrir a–tsara'at (a) toda pele–de a–praga de–cabeça–sua e–até pés–seus para–toda aparência–de olhos–de o–sacerdote
+-- c13-v13: E–verá o–sacerdote e–eis cobriu a–tsara'at (a) toda carne–sua e–declarará–puro (a) a–praga toda–ela virou branco puro ele
+-- c13-v14: E–no–dia mostrar–se nele carne viva tornar–se–á–impuro
+-- c13-v15: E–verá o–sacerdote (a) a–carne a–viva e–declarará–impuro–o a–carne a–viva impura ela tsara'at ela
+-- c13-v16: Ou quando voltar a–carne a–viva e–virar para–branco e–virá a o–sacerdote
+-- c13-v17: E–verá–o o–sacerdote e–eis virou a–praga para–branco e–declarará–puro o–sacerdote (a) a–praga puro ele ¶
+-- c13-v18: E–carne quando houver nele em–pele–sua úlcera e–curar
+-- c13-v19: E–houver no–lugar–de a–úlcera inchaço branca ou mancha–brilhante branca avermelhada e–mostrar–se–á a o–sacerdote
+-- c13-v20: E–verá o–sacerdote e–eis aparência–sua baixa de a–pele e–pelo–seu virou branco e–declarará–impuro–o o–sacerdote praga–de tsara'at ela na–úlcera brotou
+-- c13-v21: E–se ver–a o–sacerdote e–eis não–há nela pelo branco e–baixa não–é de a–pele e–ela escureceu e–fechará–o o–sacerdote sete dias
+-- c13-v22: E–se espalhando espalhar na–pele e–declarará–impuro o–sacerdote (a)–ele praga ela
+-- c13-v23: E–se em–lugar–seu parar a–mancha–brilhante não espalhou cicatriz–de a–úlcera ela e–declarará–puro–o o–sacerdote §
+-- c13-v24: Ou carne quando houver em–pele–sua queimadura–de fogo e–houver vida–de a–queimadura mancha–brilhante branca avermelhada ou branca
+-- c13-v25: E–verá (a)–ela o–sacerdote e–eis virou pelo branco na–mancha–brilhante e–aparência–sua funda de a–pele tsara'at ela na–queimadura brotou e–declarará–impuro (a)–ele o–sacerdote praga–de tsara'at ela
+-- c13-v26: E–se ver–a o–sacerdote e–eis não–há na–mancha–brilhante pelo branco e–baixa não–é de a–pele e–ela escureceu e–fechará–o o–sacerdote sete dias
+-- c13-v27: E–verá–o o–sacerdote no–dia o–sétimo se espalhando espalhar na–pele e–declarará–impuro o–sacerdote (a)–ele praga–de tsara'at ela
+-- c13-v28: E–se em–lugar–seu parar a–mancha–brilhante não espalhou na–pele e–ela escureceu inchaço–de a–queimadura ela e–declarará–puro–o o–sacerdote porque cicatriz–de a–queimadura ela ¶
+-- c13-v29: E–homem ou mulher quando houver nele praga em–cabeça ou em–barba
+-- c13-v30: E–verá o–sacerdote (a) a–praga e–eis aparência–sua funda de a–pele e–nela pelo amarelo fino e–declarará–impuro (a)–ele o–sacerdote tinha ele tsara'at–de a–cabeça ou a–barba ela
+-- c13-v31: E–quando ver o–sacerdote (a) praga–de a–tinha e–eis não–há aparência–sua funda de a–pele e–pelo preto não–há nela e–fechará o–sacerdote (a) praga–de a–tinha sete dias
+-- c13-v32: E–verá o–sacerdote (a) a–praga no–dia o–sétimo e–eis não espalhou a–tinha e–não houve nela pelo amarelo e–aparência–de a–tinha não–há funda de a–pele
+-- c13-v33: E–raspar–se–á e–(a) a–tinha não raspará e–fechará o–sacerdote (a) a–tinha sete dias segunda–vez
+-- c13-v34: E–verá o–sacerdote (a) a–tinha no–dia o–sétimo e–eis não espalhou a–tinha na–pele e–aparência–sua não–é funda de a–pele e–declarará–puro (a)–ele o–sacerdote e–lavará vestes–suas e–será–puro
+-- c13-v35: E–se espalhando espalhar a–tinha na–pele depois–de purificação–sua
+-- c13-v36: E–verá–o o–sacerdote e–eis espalhou a–tinha na–pele não buscará o–sacerdote pelo–o o–amarelo impuro ele
+-- c13-v37: E–se aos–olhos–seus parou a–tinha e–pelo preto cresceu nela curou a–tinha puro ele e–declarará–puro–o o–sacerdote §
+-- c13-v38: E–homem ou mulher quando houver em–pele–de carne–deles manchas–brilhantes manchas–brilhantes brancas
+-- c13-v39: E–verá o–sacerdote e–eis em–pele–de carne–deles manchas–brilhantes pálidas brancas bohaq ele brotou na–pele puro ele §
+-- c13-v40: E–homem quando ficar–calvo cabeça–sua calvo ele puro ele
+-- c13-v41: E–se de–lado–de face–sua ficar–calvo cabeça–sua calvo–da–frente ele puro ele
+-- c13-v42: E–quando houver na–calvície ou na–calvície–da–frente praga branca avermelhada tsara'at brotando ela em–calvície–sua ou em–calvície–da–frente–sua
+-- c13-v43: E–verá (a)–ele o–sacerdote e–eis inchaço–de a–praga branca avermelhada em–calvície–sua ou em–calvície–da–frente–sua como–aparência–de tsara'at–de pele–de carne
+-- c13-v44: Homem leproso ele impuro ele declarando–impuro declarará–impuro–o o–sacerdote em–cabeça–sua praga–sua
+-- c13-v45: E–o–leproso que nele a–praga vestes–suas serão rasgadas e–cabeça–sua será despenteada e–sobre lábio–superior cobrirá e–impuro impuro clamará
+-- c13-v46: Todos dias–de que a–praga nele será–impuro impuro ele sozinho habitará de–fora para–o–acampamento habitação–sua §
+-- c13-v47: E–a–veste quando houver nela praga–de tsara'at em–veste–de lã ou em–veste–de linho
+-- c13-v48: Ou em–urdidura ou em–trama para–o–linho e–para–a–lã ou em–couro ou em–todo trabalho–de couro
+-- c13-v49: E–houver a–praga esverdeada ou avermelhada na–veste ou no–couro ou na–urdidura ou na–trama ou em–todo utensílio–de couro praga–de tsara'at ela e–será–mostrado (a) o–sacerdote
+-- c13-v50: E–verá o–sacerdote (a) a–praga e–fechará (a) a–praga sete dias
+-- c13-v51: E–verá (a) a–praga no–dia o–sétimo se espalhou a–praga na–veste ou na–urdidura ou na–trama ou no–couro para–tudo que é–feito o–couro para–trabalho tsara'at maligna a–praga impura ela
+-- c13-v52: E–queimará (a) a–veste ou (a) a–urdidura ou (a) a–trama na–lã ou no–linho ou (a) todo utensílio–de o–couro que houver nele a–praga porque tsara'at maligna ela no–fogo será–queimada
+-- c13-v53: E–se ver o–sacerdote e–eis não espalhou a–praga na–veste ou na–urdidura ou na–trama ou em–todo utensílio–de couro
+-- c13-v54: E–ordenará o–sacerdote e–lavarão (a) aquilo–que nele a–praga e–fechará–o sete dias segunda–vez
+-- c13-v55: E–verá o–sacerdote depois–de ser–lavado (a) a–praga e–eis não mudou a–praga (a) aparência–sua e–a–praga não espalhou impura ela no–fogo queimará–a corroído ela em–parte–traseira–sua ou em–parte–dianteira–sua
+-- c13-v56: E–se vir o–sacerdote e–eis escureceu a–praga depois–de ser–lavado (a)–ele e–rasgará (a)–ele de a–veste ou de o–couro ou de a–urdidura ou de a–trama
+-- c13-v57: E–se for–vista ainda na–veste ou na–urdidura ou na–trama ou em–todo utensílio–de couro brotando ela no–fogo queimará–a (a) aquilo–que nele a–praga
+-- c13-v58: E–a–veste ou a–urdidura ou a–trama ou todo utensílio–de o–couro que lavares e–sair deles a–praga e–será–lavado segunda–vez e–será–puro
+-- c13-v59: Esta lei–de praga–de tsara'at veste–de a–lã ou o–linho ou a–urdidura ou a–trama ou todo utensílio–de couro para–declarar–puro–o ou para–declarar–impuro–o ¶
+-- c14-v1: E–falou YHWH a Mosheh dizendo
+-- c14-v2: Esta será lei–de o–leproso no–dia–de purificação–sua e–será–trazido a o–sacerdote
+-- c14-v3: E–sairá o–sacerdote a de–fora para–o–acampamento e–verá o–sacerdote e–eis curou praga–de a–tsara'at de o–leproso
+-- c14-v4: E–ordenará o–sacerdote e–tomará para–o–que–se–purifica duas aves vivas puras e–madeira–de cedro e–carmesim–de verme e–hissopo
+-- c14-v5: E–ordenará o–sacerdote e–degolará (a) a–ave a–uma sobre utensílio–de barro sobre águas vivas
+-- c14-v6: (A) a–ave a–viva tomará (a)–ela e–(a) madeira–de o–cedro e–(a) carmesim–de o–verme e–(a) o–hissopo e–molhará (a)–eles e–(a) a–ave a–viva em–sangue–de a–ave a–degolada sobre as–águas as–vivas
+-- c14-v7: E–espargirá sobre o–que–se–purifica de a–tsara'at sete vezes e–declarará–puro–o e–soltará (a) a–ave a–viva sobre face–de o–campo
+-- c14-v8: E–lavará o–que–se–purifica (a) vestes–suas e–raspará (a) todo pelo–seu e–lavar–se–á nas–águas e–será–puro e–depois virá a o–acampamento e–habitará de–fora para–tenda–sua sete dias
+-- c14-v9: E–será no–dia o–sétimo raspará (a) todo pelo–seu (a) cabeça–sua e–(a) barba–sua e–(a) sobrancelhas–de olhos–seus e–(a) todo pelo–seu raspará e–lavará (a) vestes–suas e–lavará (a) carne–sua nas–águas e–será–puro
+-- c14-v10: E–no–dia o–oitavo tomará dois cordeiros perfeitos e–cordeira uma filha–de ano–seu perfeita e–três décimos flor–de–farinha oferta–de–cereais misturada com–o–óleo e–log um óleo
+-- c14-v11: E–fará–ficar–de–pé o–sacerdote o–que–purifica (a) o–homem o–que–se–purifica e–(a)–eles diante–de YHWH entrada–de tenda–de reunião
+-- c14-v12: E–tomará o–sacerdote (a) o–cordeiro o–um e–oferecerá (a)–ele para–oferta–pela–culpa e–(a) log–de o–óleo e–moverá (a)–eles movimento diante–de YHWH
+-- c14-v13: E–degolará (a) o–cordeiro no–lugar que degolará (a) a–oferta–pelo–pecado e–(a) o–holocausto no–lugar–de o–santo porque como–a–oferta–pelo–pecado a–oferta–pela–culpa ela para–o–sacerdote santíssimo santos ela
+-- c14-v14: E–tomará o–sacerdote de–sangue–de a–oferta–pela–culpa e–dará o–sacerdote sobre lóbulo–de orelha–de o–que–se–purifica a–direita e–sobre polegar–de mão–sua a–direita e–sobre polegar–de pé–seu o–direito
+-- c14-v15: E–tomará o–sacerdote de–log–de o–óleo e–derramará sobre palma–de o–sacerdote a–esquerda
+-- c14-v16: E–molhará o–sacerdote (a) dedo–seu o–direito de o–óleo que sobre palma–sua a–esquerda e–espargirá de o–óleo com–dedo–seu sete vezes diante–de YHWH
+-- c14-v17: E–do–restante do–óleo que sobre palma–sua dará o–sacerdote sobre lóbulo–de orelha–de o–que–se–purifica a–direita e–sobre polegar–de mão–sua a–direita e–sobre polegar–de pé–seu o–direito sobre sangue–de a–oferta–pela–culpa
+-- c14-v18: E–o–restante no–óleo que sobre palma–de o–sacerdote dará sobre cabeça–de o–que–se–purifica e–fará–expiação sobre–ele o–sacerdote diante–de YHWH
+-- c14-v19: E–fará o–sacerdote (a) a–oferta–pelo–pecado e–fará–expiação sobre o–que–se–purifica de–impureza–sua e–depois degolará (a) o–holocausto
+-- c14-v20: E–fará–subir o–sacerdote (a) o–holocausto e–(a) a–oferta–de–cereais o–altar e–fará–expiação sobre–ele o–sacerdote e–será–puro §
+-- c14-v21: E–se pobre ele e–não–há mão–sua alcançando e–tomará cordeiro um oferta–pela–culpa para–movimento para–fazer–expiação sobre–ele e–décimo–de flor–de–farinha um misturado com–o–óleo para–oferta–de–cereais e–log–de óleo
+-- c14-v22: E–duas rolas ou dois filhos–de pomba que alcançar mão–sua e–será um oferta–pelo–pecado e–o–um holocausto
+-- c14-v23: E–trará (a)–eles no–dia o–oitavo para–purificação–sua a o–sacerdote a entrada–de tenda–de reunião diante–de YHWH
+-- c14-v24: E–tomará o–sacerdote (a) cordeiro–de a–oferta–pela–culpa e–(a) log–de o–óleo e–moverá (a)–eles o–sacerdote movimento diante–de YHWH
+-- c14-v25: E–degolará (a) cordeiro–de a–oferta–pela–culpa e–tomará o–sacerdote de–sangue–de a–oferta–pela–culpa e–dará sobre lóbulo–de orelha–de o–que–se–purifica a–direita e–sobre polegar–de mão–sua a–direita e–sobre polegar–de pé–seu o–direito
+-- c14-v26: E–de o–óleo derramará o–sacerdote sobre palma–de o–sacerdote a–esquerda
+-- c14-v27: E–espargirá o–sacerdote com–dedo–seu o–direito de o–óleo que sobre palma–sua a–esquerda sete vezes diante–de YHWH
+-- c14-v28: E–dará o–sacerdote de o–óleo que sobre palma–sua sobre lóbulo–de orelha–de o–que–se–purifica a–direita e–sobre polegar–de mão–sua a–direita e–sobre polegar–de pé–seu o–direito sobre lugar–de sangue–de a–oferta–pela–culpa
+-- c14-v29: E–o–restante de o–óleo que sobre palma–de o–sacerdote dará sobre cabeça–de o–que–se–purifica para–fazer–expiação sobre–ele diante–de YHWH
+-- c14-v30: E–fará (a) o–um de as–rolas ou de filhos–de a–pomba do–que alcançar mão–sua
+-- c14-v31: (A) aquilo–que alcançar mão–sua (a) o–um oferta–pelo–pecado e–(a) o–um holocausto sobre a–oferta–de–cereais e–fará–expiação o–sacerdote sobre o–que–se–purifica diante–de YHWH
+-- c14-v32: Esta lei–de aquele–que nele praga–de tsara'at que não alcançar mão–sua em–purificação–sua ¶
+-- c14-v33: E–falou YHWH a Mosheh e–a 'Aharon dizendo
+-- c14-v34: Quando vierdes a terra–de Kena'an que eu dando a–vós para–posse e–porei praga–de tsara'at em–casa–de terra–de posse–vossa
+-- c14-v35: E–virá aquele–que para–ele a–casa e–contará ao–sacerdote dizendo Como–praga foi–vista para–mim na–casa
+-- c14-v36: E–ordenará o–sacerdote e–esvaziarão (a) a–casa antes–de vir o–sacerdote para–ver (a) a–praga e–não tornar–se–á–impuro tudo que na–casa e–depois assim virá o–sacerdote para–ver (a) a–casa
+-- c14-v37: E–verá (a) a–praga e–eis a–praga em–paredes–de a–casa depresões esverdeadas ou avermelhadas e–aparência–delas baixa de a–parede
+-- c14-v38: E–sairá o–sacerdote de a–casa a entrada–de a–casa e–fechará (a) a–casa sete dias
+-- c14-v39: E–voltará o–sacerdote no–dia o–sétimo e–verá e–eis espalhou a–praga em–paredes–de a–casa
+-- c14-v40: E–ordenará o–sacerdote e–tirarão (a) as–pedras que nelas a–praga e–lançarão (a)–elas a de–fora para–a–cidade a lugar impuro
+-- c14-v41: E–(a) a–casa rasparão por–dentro ao–redor e–derramarão (a) o–pó que rasparam a de–fora para–a–cidade a lugar impuro
+-- c14-v42: E–tomarão pedras outras e–trarão para lugar–de as–pedras e–pó outro tomará e–rebocará (a) a–casa
+-- c14-v43: E–se voltar a–praga e–brotar na–casa depois–de tirar (a) as–pedras e–depois–de raspar (a) a–casa e–depois–de rebocar
+-- c14-v44: E–virá o–sacerdote e–verá e–eis espalhou a–praga na–casa tsara'at maligna ela na–casa impura ela
+-- c14-v45: E–demolirá (a) a–casa (a) pedras–suas e–(a) madeiras–suas e–(a) todo pó–de a–casa e–levará a de–fora para–a–cidade a lugar impuro
+-- c14-v46: E–o–que–entrar a a–casa todos dias–de fechar (a)–ela tornar–se–á–impuro até a–tarde
+-- c14-v47: E–o–que–deitar na–casa lavará (a) vestes–suas e–o–que–comer na–casa lavará (a) vestes–suas
+-- c14-v48: E–se vindo vier o–sacerdote e–vir e–eis não espalhou a–praga na–casa depois–de rebocar (a) a–casa e–declarará–puro o–sacerdote (a) a–casa porque curou a–praga
+-- c14-v49: E–tomará para–purificar (a) a–casa duas aves e–madeira–de cedro e–carmesim–de verme e–hissopo
+-- c14-v50: E–degolará (a) a–ave a–uma sobre utensílio–de barro sobre águas vivas
+-- c14-v51: E–tomará (a) madeira–de o–cedro e–(a) o–hissopo e–(a) carmesim–de o–verme e–(a) a–ave a–viva e–molhará (a)–eles em–sangue–de a–ave a–degolada e–nas–águas as–vivas e–espargirá sobre a–casa sete vezes
+-- c14-v52: E–purificará (a) a–casa com–sangue–de a–ave e–com–as–águas as–vivas e–com–a–ave a–viva e–com–madeira–de o–cedro e–com–o–hissopo e–com–carmesim–de o–verme
+-- c14-v53: E–soltará (a) a–ave a–viva a de–fora para–a–cidade a face–de o–campo e–fará–expiação sobre a–casa e–será–pura
+-- c14-v54: Esta a–lei para–toda praga–de a–tsara'at e–para–a–tinha
+-- c14-v55: E–para–tsara'at–de a–veste e–para–a–casa
+-- c14-v56: E–para–a–inchaço e–para–a–crosta e–para–a–mancha–brilhante
+-- c14-v57: Para–ensinar no–dia–de o–impuro e–no–dia–de o–puro esta lei–de a–tsara'at §
+-- c15-v1: E–falou YHWH a Mosheh e–a 'Aharon dizendo
+-- c15-v2: Falai a filhos–de Yisra'el e–direis a–eles Homem homem quando houver zav de–carne–sua fluxo–seu impuro ele
+-- c15-v3: E–esta será impureza–sua em–fluxo–seu escorrendo carne–sua (a) fluxo–seu ou fechou carne–sua de–fluxo–seu impureza–sua ela
+-- c15-v4: Todo o–leito que deitar sobre–ele o–zav tornar–se–á–impuro e–todo o–utensílio que sentar sobre–ele tornar–se–á–impuro
+-- c15-v5: E–homem que tocar em–leito–seu lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v6: E–o–que–senta sobre o–utensílio que sentar sobre–ele o–zav lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v7: E–o–que–toca em–carne–de o–zav lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v8: E–se cuspir o–zav no–puro e–lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v9: E–todo o–veículo que cavalgar sobre–ele o–zav tornar–se–á–impuro
+-- c15-v10: E–todo o–que–toca em–tudo que estiver debaixo–dele tornar–se–á–impuro até a–tarde e–o–que–carrega (a)–eles lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v11: E–todo que tocar nele o–zav e–mãos–suas não lavou nas–águas e–lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v12: E–utensílio–de barro que tocar nele o–zav será–quebrado e–todo utensílio–de madeira será–lavado nas–águas
+-- c15-v13: E–quando purificar–se o–zav de–fluxo–seu e–contará para–ele sete dias para–purificação–sua e–lavará vestes–suas e–lavará carne–sua em–águas vivas e–será–puro
+-- c15-v14: E–no–dia o–oitavo tomará para–si duas rolas ou dois filhos–de pomba e–virá diante–de YHWH a entrada–de tenda–de reunião e–dará–os a o–sacerdote
+-- c15-v15: E–fará (a)–eles o–sacerdote um oferta–pelo–pecado e–o–um holocausto e–fará–expiação sobre–ele o–sacerdote diante–de YHWH de–fluxo–seu §
+-- c15-v16: E–homem quando sair dele emissão–de sêmen e–lavará nas–águas (a) toda carne–sua e–impuro até a–tarde
+-- c15-v17: E–toda veste e–todo couro que estiver sobre–ele emissão–de sêmen e–será–lavado nas–águas e–impuro até a–tarde ¶
+-- c15-v18: E–mulher que deitar–se homem (com)–ela emissão–de sêmen e–lavar–se–ão nas–águas e–serão–impuros até a–tarde
+-- c15-v19: E–mulher quando estiver fluindo sangue estiver fluxo–seu em–carne–sua sete dias estará em–niddah–sua e–todo o–que–toca nela tornar–se–á–impuro até a–tarde
+-- c15-v20: E–tudo que deitar–se sobre–ele em–niddah–sua tornar–se–á–impuro e–tudo que sentar–se sobre–ele tornar–se–á–impuro
+-- c15-v21: E–todo o–que–toca em–leito–seu lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v22: E–todo o–que–toca em–todo utensílio que sentar–se sobre–ele lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v23: E–se sobre o–leito ele ou sobre o–utensílio que ela sentada sobre–ele ao–tocar–ele nele tornar–se–á–impuro até a–tarde
+-- c15-v24: E–se deitando deitar–se homem (com)–ela e–estiver niddah–sua sobre–ele e–impuro sete dias e–todo o–leito que deitar–se sobre–ele tornar–se–á–impuro ¶
+-- c15-v25: E–mulher quando fluir fluxo–de sangue–seu dias muitos sem tempo–de niddah–sua ou se fluir além–de niddah–sua todos dias–de fluxo–de impureza–sua como–dias–de niddah–sua estará impura ela
+-- c15-v26: Todo o–leito que deitar–se sobre–ele todos dias–de fluxo–seu como–leito–de niddah–sua será para–ela e–todo o–utensílio que sentar–se sobre–ele impuro será como–impureza–de niddah–sua
+-- c15-v27: E–todo o–que–toca neles tornar–se–á–impuro e–lavará vestes–suas e–lavar–se–á nas–águas e–impuro até a–tarde
+-- c15-v28: E–se purificar–se de–fluxo–seu e–contará para–ela sete dias e–depois será–pura
+-- c15-v29: E–no–dia o–oitavo tomará para–ela duas rolas ou dois filhos–de pomba e–trará (a)–eles a o–sacerdote a entrada–de tenda–de reunião
+-- c15-v30: E–fará o–sacerdote (a) o–um oferta–pelo–pecado e–(a) o–um holocausto e–fará–expiação sobre–ela o–sacerdote diante–de YHWH de–fluxo–de impureza–sua
+-- c15-v31: E–separareis (a) filhos–de Yisra'el de–impureza–deles e–não morrerão em–impureza–deles ao–contaminarem (a) habitação–minha que no–meio–deles
+-- c15-v32: Esta lei–de o–zav e–do–que sair dele emissão–de sêmen para–tornar–se–impuro por–ela
+-- c15-v33: E–a–enferma em–niddah–sua e–o–zav (a) fluxo–seu para–o–macho e–para–a–fêmea e–para–homem que deitar–se com impura ¶
+-- c16-v1: E–falou YHWH a Mosheh depois–de morte–de dois–de filhos–de 'Aharon em–aproximar–se–deles diante–de YHWH e–morreram
+-- c16-v2: E–disse YHWH a Mosheh fala a 'Aharon teu–irmão e–não entrará em–todo tempo a o–santo de–dentro–de a–cortina a face–de a–kapporet que sobre a–arca e–não morrerá porque na–nuvem aparecerei sobre a–kapporet
+-- c16-v3: Com–isto entrará 'Aharon a o–santo com–novilho filho–de gado para–oferta–pelo–pecado e–carneiro para–holocausto
+-- c16-v4: Túnica–de linho santo vestirá e–calções–de linho estarão sobre sua–carne e–com–cinto–de linho cingirá e–com–turbante–de linho envolverá vestes–de santo são e–lavará nas–águas (a) sua–carne e–vestirá–os
+-- c16-v5: E–de–junto–de congregação–de filhos–de Yisra'el tomará dois bodes–de cabras para–oferta–pelo–pecado e–carneiro um para–holocausto
+-- c16-v6: E–apresentará 'Aharon (a) novilho–de a–oferta–pelo–pecado que é–dele e–fará–expiação por–si e–por sua–casa
+-- c16-v7: E–tomará (a) dois os–bodes e–fará–estar eles diante–de YHWH entrada–de tenda–de encontro
+-- c16-v8: E–dará 'Aharon sobre dois os–bodes sortes sorte uma para–YHWH e–sorte uma para–'Aza'zel
+-- c16-v9: E–apresentará 'Aharon (a) o–bode que subiu sobre–ele a–sorte para–YHWH e–fará–o oferta–pelo–pecado
+-- c16-v10: E–o–bode que subiu sobre–ele a–sorte para–'Aza'zel será–posto vivo diante–de YHWH para–fazer–expiação sobre–ele para–enviar ele para–'Aza'zel o–deserto–mente
+-- c16-v11: E–apresentará 'Aharon (a) novilho–de a–oferta–pelo–pecado que é–dele e–fará–expiação por–si e–por sua–casa e–degolará (a) novilho–de a–oferta–pelo–pecado que é–dele
+-- c16-v12: E–tomará plenitude–de o–incensário brasas–de fogo de–sobre o–altar de–diante–de YHWH e–plenitude–de suas–mãos–cheias incenso–de especiarias fino e–trará de–dentro–de a–cortina
+-- c16-v13: E–porá (a) o–incenso sobre o–fogo diante–de YHWH e–cobrirá nuvem–de o–incenso (a) a–kapporet que sobre o–testemunho e–não morrerá
+-- c16-v14: E–tomará de–sangue–de o–novilho e–aspergirá com–seu–dedo sobre face–de a–kapporet a–oriente e–diante–de a–kapporet aspergirá sete vezes de o–sangue com–seu–dedo
+-- c16-v15: E–degolará (a) bode–de a–oferta–pelo–pecado que é–para–o–povo e–trará (a) seu–sangue a de–dentro–de a–cortina e–fará (a) seu–sangue como fez com–sangue–de o–novilho e–aspergirá ele sobre a–kapporet e–diante–de a–kapporet
+-- c16-v16: E–fará–expiação sobre o–santo de–impurezas–de filhos–de Yisra'el e–de–transgressões–deles para–todos seus–pecados e–assim fará para–tenda–de encontro que–habita com–eles em–meio–de suas–impurezas
+-- c16-v17: E–todo homem não estará em–tenda–de encontro em–entrar–ele para–fazer–expiação no–santo até sair–dele e–fará–expiação por–si e–por sua–casa e–por toda congregação–de Yisra'el
+-- c16-v18: E–sairá a o–altar que diante–de YHWH e–fará–expiação sobre–ele e–tomará de–sangue–de o–novilho e–de–sangue–de o–bode e–porá sobre chifres–de o–altar ao–redor
+-- c16-v19: E–aspergirá sobre–ele de o–sangue com–seu–dedo sete vezes e–purificará–o e–santificará–o de–impurezas–de filhos–de Yisra'el
+-- c16-v20: E–terminará de–fazer–expiação (a) o–santo e–(a) tenda–de encontro e–(a) o–altar e–apresentará (a) o–bode o–vivo
+-- c16-v21: E–apoiará 'Aharon (a) duas [suas–mãos] (suas–mãos) sobre cabeça–de o–bode o–vivo e–confessará sobre–ele (a) todas iniquidades–de filhos–de Yisra'el e–(a) todas transgressões–deles para–todos seus–pecados e–porá eles sobre cabeça–de o–bode e–enviará por–mão–de homem designado o–deserto–mente
+-- c16-v22: E–carregará o–bode sobre–ele (a) todas suas–iniquidades a terra–de separação e–enviará (a) o–bode no–deserto
+-- c16-v23: E–virá 'Aharon a tenda–de encontro e–despirá (a) vestes–de o–linho que vestiu em–entrar–ele a o–santo e–deixará–as ali
+-- c16-v24: E–lavará (a) sua–carne nas–águas em–lugar santo e–vestirá (a) suas–vestes e–sairá e–fará (a) seu–holocausto e–(a) holocausto–de o–povo e–fará–expiação por–si e–por o–povo
+-- c16-v25: E–(a) gordura–de a–oferta–pelo–pecado queimará o–altar–mente
+-- c16-v26: E–o–que–envia (a) o–bode para–'Aza'zel lavará suas–vestes e–lavará (a) sua–carne nas–águas e–depois–de assim virá a o–acampamento
+-- c16-v27: E–(a) novilho–de a–oferta–pelo–pecado e–(a) bode–de a–oferta–pelo–pecado que foi–trazido (a) seu–sangue para–fazer–expiação no–santo levará a fora–de o–acampamento e–queimarão no–fogo (a) suas–peles e–(a) sua–carne e–(a) seu–excremento
+-- c16-v28: E–o–que–queima eles lavará suas–vestes e–lavará (a) sua–carne nas–águas e–depois–de assim virá a o–acampamento
+-- c16-v29: E–será para–vós por–estatuto–de eternidade no–mês o–sétimo no–décimo do–mês afligireis (a) vossas–almas e–toda obra não fareis o–natural e–o–estrangeiro que–peregrina em–vosso–meio
+-- c16-v30: Porque no–dia o–este fará–expiação sobre–vós para–purificar vós de–todos vossos–pecados diante–de YHWH sereis–purificados
+-- c16-v31: Shabat shabaton ela para–vós e–afligireis (a) vossas–almas estatuto–de eternidade
+-- c16-v32: E–fará–expiação o–sacerdote que ungirá ele e–que encherá (a) sua–mão para–ministrar sob seu–pai e–vestirá (a) vestes–de o–linho vestes–de o–santo
+-- c16-v33: E–fará–expiação (a) santuário–de o–santo e–(a) tenda–de encontro e–(a) o–altar fará–expiação e–sobre os–sacerdotes e–sobre todo povo–de a–congregação fará–expiação
+-- c16-v34: E–será esta para–vós por–estatuto–de eternidade para–fazer–expiação sobre filhos–de Yisra'el de–todos seus–pecados uma–vez no–ano e–fez como ordenou YHWH (a) Mosheh ¶
+-- c17-v1: E–falou YHWH a Mosheh dizendo
+-- c17-v2: Fala a 'Aharon e–a seus–filhos e–a todos filhos–de Yisra'el e–dirás a–eles esta a–palavra que ordenou YHWH dizendo
+-- c17-v3: Homem homem de–casa–de Yisra'el que degolará boi ou cordeiro ou cabra no–acampamento ou que degolará fora–de o–acampamento
+-- c17-v4: E–a entrada–de tenda–de encontro não trouxe–o para–apresentar oferta a–YHWH diante–de tabernáculo–de YHWH sangue será–imputado ao–homem aquele sangue derramou e–será–cortado o–homem aquele de–meio–de seu–povo
+-- c17-v5: Para–que que tragam filhos–de Yisra'el (a) seus–sacrifícios que eles sacrificam sobre face–de o–campo e–trarão–os a–YHWH a entrada–de tenda–de encontro a o–sacerdote e–sacrificarão sacrifícios–de paz a–YHWH eles
+-- c17-v6: E–aspergirá o–sacerdote (a) o–sangue sobre altar–de YHWH entrada–de tenda–de encontro e–queimará a–gordura para–cheiro–de descanso a–YHWH
+-- c17-v7: E–não sacrificarão mais (a) seus–sacrifícios aos–sátiros que eles prostituem–se após–eles estatuto–de eternidade será esta para–eles para–suas–gerações
+-- c17-v8: E–a–eles dirás homem homem de–casa–de Yisra'el e–de o–estrangeiro que peregrina em–meio–deles que oferecerá holocausto ou sacrifício
+-- c17-v9: E–a entrada–de tenda–de encontro não trazerá–o para–fazer ele a–YHWH e–será–cortado o–homem aquele de–seus–povos
+-- c17-v10: E–homem homem de–casa–de Yisra'el e–de o–estrangeiro que–peregrina em–meio–deles que comerá qualquer sangue e–porei minha–face contra–a–alma que–come (a) o–sangue e–cortarei ela de–meio–de seu–povo
+-- c17-v11: Porque alma–de a–carne no–sangue ela e–eu dei–o a–vós sobre o–altar para–fazer–expiação sobre vossas–almas porque o–sangue ele pela–alma fará–expiação
+-- c17-v12: Sobre assim disse aos–filhos–de Yisra'el toda alma de–vós não comerá sangue e–o–estrangeiro que–peregrina em–vosso–meio não comerá sangue §
+-- c17-v13: E–homem homem de–filhos–de Yisra'el e–de o–estrangeiro que–peregrina em–meio–deles que caçará caça–de animal ou ave que será–comida e–derramará (a) seu–sangue e–cobrirá–o com–pó
+-- c17-v14: Porque alma–de toda carne seu–sangue em–sua–alma ele e–disse aos–filhos–de Yisra'el sangue–de toda carne não comereis porque alma–de toda carne seu–sangue ela todo comedor–dela será–cortado
+-- c17-v15: E–toda alma que comerá carcaça ou–despedaçada no–natural e–no–estrangeiro e–lavará suas–vestes e–lavará nas–águas e–impuro até o–entardecer e–puro
+-- c17-v16: E–se não lavará e–sua–carne não lavará e–carregará sua–iniquidade ¶
+-- c18-v1: E–falou YHWH a Mosheh dizendo
+-- c18-v2: Fala a filhos–de Yisra'el e–dirás a–eles eu YHWH vosso–Deus
+-- c18-v3: Como–obra–de terra–de Mitsrayim que habitastes nela não fareis e–como–obra–de terra–de Kena'an que eu trazendo vós lá não fareis e–em–seus–estatutos não andareis
+-- c18-v4: (a) meus–juízos fareis e–(a) meus–estatutos guardareis para–andar neles eu YHWH vosso–Deus
+-- c18-v5: E–guardareis (a) meus–estatutos e–(a) meus–juízos que fará eles o–homem e–viverá neles eu YHWH §
+-- c18-v6: Homem homem a todo parente–de sua–carne não vos–aproximareis para–descobrir nudez eu YHWH §
+-- c18-v7: Nudez–de teu–pai e–nudez–de tua–mãe não descobrirás tua–mãe ela não descobrirás sua–nudez §
+-- c18-v8: Nudez–de esposa–de teu–pai não descobrirás nudez–de teu–pai ela §
+-- c18-v9: Nudez–de tua–irmã filha–de teu–pai ou filha–de tua–mãe nascida–de casa ou nascida–de fora não descobrirás nudez–delas §
+-- c18-v10: Nudez–de filha–de teu–filho ou filha–de tua–filha não descobrirás nudez–delas porque tua–nudez elas §
+-- c18-v11: Nudez–de filha–de esposa–de teu–pai nascida–de teu–pai tua–irmã ela não descobrirás sua–nudez §
+-- c18-v12: Nudez–de irmã–de teu–pai não descobrirás parente–de teu–pai ela §
+-- c18-v13: Nudez–de irmã–de tua–mãe não descobrirás porque parente–de tua–mãe ela §
+-- c18-v14: Nudez–de irmão–de teu–pai não descobrirás a sua–esposa não te–aproximarás tua–tia ela §
+-- c18-v15: Nudez–de tua–nora não descobrirás esposa–de teu–filho ela não descobrirás sua–nudez §
+-- c18-v16: Nudez–de esposa–de teu–irmão não descobrirás nudez–de teu–irmão ela §
+-- c18-v17: Nudez–de mulher e–sua–filha não descobrirás (a) filha–de seu–filho e–(a) filha–de sua–filha não tomarás para–descobrir sua–nudez sua–parente elas iniquidade ela
+-- c18-v18: E–mulher a sua–irmã não tomarás para–afligir para–descobrir sua–nudez sobre–ela em–sua–vida
+-- c18-v19: E–a mulher em–imundice–de sua–impureza não te–aproximarás para–descobrir sua–nudez
+-- c18-v20: E–a esposa–de teu–próximo não darás tua–coabitação para–semente para–contaminar–te com–ela
+-- c18-v21: E–de–tua–semente não darás para–fazer–passar ao–Molekh e–não profanarás (a) nome–de teu–Deus eu YHWH
+-- c18-v22: E–com macho não te–deitarás deitar–de mulher abominação ela
+-- c18-v23: E–com–toda besta não darás tua–coabitação para–contaminar–te com–ela e–mulher não se–porá diante–de besta para–acasalar–se perversão ele
+-- c18-v24: Não vos–contamineis em–todas estas porque em–todas estas se–contaminaram as–nações que eu enviando de–diante–de–vós
+-- c18-v25: E–contaminou–se a–terra e–visitei sua–iniquidade sobre–ela e–vomitou a–terra (a) seus–habitantes
+-- c18-v26: E–guardareis vós (a) meus–estatutos e–(a) meus–juízos e–não fareis de–toda as–abominações as–estas o–natural e–o–estrangeiro que–peregrina em–vosso–meio
+-- c18-v27: Porque (a) todas as–abominações as–estas fizeram homens–de a–terra que diante–de–vós e–contaminou–se a–terra
+-- c18-v28: E–não vomitará a–terra vós em–contaminardes ela como vomitou (a) a–nação que diante–de–vós
+-- c18-v29: Porque todo que fará de–toda as–abominações as–estas e–serão–cortadas as–almas que–fazem de–meio–de seu–povo
+-- c18-v30: E–guardareis (a) minha–guarda para–não fazer de–estatutos–de as–abominações que foram–feitas diante–de–vós e–não vos–contamineis nelas eu YHWH vosso–Deus ¶
+-- c19-v1: E–falou YHWH a Mosheh dizendo
+-- c19-v2: Fala a toda congregação–de filhos–de Yisra'el e–dirás a–eles santos sereis porque santo eu YHWH vosso–Deus
+-- c19-v3: Homem sua–mãe e–seu–pai temereis e–(a) meus–shabatot guardareis eu YHWH vosso–Deus
+-- c19-v4: Não vos–volteis a os–ídolos e–deuses–de fundição não fareis para–vós eu YHWH vosso–Deus
+-- c19-v5: E–quando sacrificardes sacrifício–de paz a–YHWH para–vossa–aceitação sacrificareis–o
+-- c19-v6: No–dia–de vosso–sacrificar será–comido e–no–dia–seguinte e–o–restante até dia o–terceiro no–fogo será–queimado
+-- c19-v7: E–se comendo for–comido no–dia o–terceiro coisa–pútrida ele não será–aceito
+-- c19-v8: E–comedor–dele sua–iniquidade carregará porque (a) santo–de YHWH profanou e–será–cortada a–alma aquela de–seu–povo
+-- c19-v9: E–em–colherdes (a) colheita–de vossa–terra não terminarás canto–de teu–campo de–colher e–respiga–de tua–colheita não respigarás
+-- c19-v10: E–tua–vinha não rebuscarás e–fruto–caído–de tua–vinha não ajuntarás para–o–pobre e–para–o–estrangeiro deixarás eles eu YHWH vosso–Deus
+-- c19-v11: Não furtareis e–não negareis e–não mentireis homem a–seu–próximo
+-- c19-v12: E–não jurareis em–meu–nome para–a–mentira e–profanarás (a) nome–de teu–Deus eu YHWH
+-- c19-v13: Não oprimirás (a) teu–próximo e–não roubarás não ficará salário–de assalariado contigo até manhã
+-- c19-v14: Não amaldiçoarás surdo e–diante–de cego não porás tropeço e–temerás de–teu–Deus eu YHWH
+-- c19-v15: Não fareis injustiça no–julgamento não levantarás face–de pobre e–não honrarás face–de grande em–justiça julgarás teu–próximo
+-- c19-v16: Não andarás caluniador em–teu–povo não te–levantarás contra sangue–de teu–próximo eu YHWH
+-- c19-v17: Não odiarás (a) teu–irmão em–teu–coração repreendendo repreenderás (a) teu–próximo e–não carregarás sobre–ele pecado
+-- c19-v18: Não te–vingarás e–não guardarás–rancor (a) filhos–de teu–povo e–amarás a–teu–próximo como–a–ti–mesmo eu YHWH
+-- c19-v19: (a) meus–estatutos guardareis teu–animal não farás–cruzar espécies–diferentes teu–campo não semearás espécies–diferentes e–veste–de espécies–diferentes mistura não subirá sobre–ti ¶
+-- c19-v20: E–homem quando deitar–se–á com mulher deitar–de semente e–ela serva prometida a–homem e–redimida não foi–redimida ou liberdade não foi–dada a–ela investigação haverá não serão–mortos porque não foi–libertada
+-- c19-v21: E–trará (a) sua–oferta–pela–culpa a–YHWH a entrada–de tenda–de encontro carneiro–de culpa
+-- c19-v22: E–fará–expiação sobre–ele o–sacerdote com–carneiro–de a–culpa diante–de YHWH sobre seu–pecado que pecou e–será–perdoado a–ele de–seu–pecado que pecou ¶
+-- c19-v23: E–quando virdes a a–terra e–plantardes toda árvore–de alimento e–considerareis–incircunciso seu–prepúcio (a) seu–fruto três anos será para–vós incircuncisos não será–comido
+-- c19-v24: E–no–ano o–quarto será todo seu–fruto santo–de louvor a–YHWH
+-- c19-v25: E–no–ano o–quinto comereis (a) seu–fruto para–aumentar para–vós seu–produto eu YHWH vosso–Deus
+-- c19-v26: Não comereis sobre o–sangue não adivinhareis e–não agourareis
+-- c19-v27: Não arredondareis canto–de vossa–cabeça e–não destruirás (a) canto–de tua–barba
+-- c19-v28: E–corte pela–alma não dareis em–vossa–carne e–escrita–de tatuagem não dareis em–vós eu YHWH
+-- c19-v29: Não profanarás (a) tua–filha para–prostituí–la e–não prostituirá a–terra e–encherá a–terra iniquidade
+-- c19-v30: (a) meus–shabatot guardareis e–meu–santuário temereis eu YHWH
+-- c19-v31: Não vos–volteis a os–espíritos e–a os–adivinhos não busqueis para–contaminar–vos neles eu YHWH vosso–Deus
+-- c19-v32: Diante–de cabelo–branco te–levantarás e–honrarás face–de ancião e–temerás de–teu–Deus eu YHWH ¶
+-- c19-v33: E–quando peregrinar contigo estrangeiro em–vossa–terra não oprimireis ele
+-- c19-v34: Como–natural de–vós será para–vós o–estrangeiro que–peregrina convosco e–amarás a–ele como–a–ti–mesmo porque estrangeiros fostes em–terra–de Mitsrayim eu YHWH vosso–Deus
+-- c19-v35: Não fareis injustiça no–julgamento na–medida no–peso e–na–medida–líquida
+-- c19-v36: Balanças–de justiça pedras–de justiça efa–de justiça e–hin–de justiça será para–vós eu YHWH vosso–Deus que tirei vós de–terra–de Mitsrayim
+-- c19-v37: E–guardareis (a) todos meus–estatutos e–(a) todos meus–juízos e–fareis eles eu YHWH ¶
+-- c20-v1: E–falou YHWH a Mosheh dizendo
+-- c20-v2: E–a filhos–de Yisra'el dirás homem homem de–filhos–de Yisra'el e–de o–estrangeiro que–peregrina em–Yisra'el que dará de–sua–semente ao–Molekh morrer morrerá povo–de a–terra apedrejarão–o com–pedra
+-- c20-v3: E–eu porei (a) minha–face contra–o–homem aquele e–cortarei ele de–meio–de seu–povo porque de–sua–semente deu ao–Molekh para contaminar (a) meu–santuário e–para–profanar (a) nome–de minha–santidade
+-- c20-v4: E–se escondendo esconderão povo–de a–terra (a) seus–olhos de o–homem aquele em–dar–ele de–sua–semente ao–Molekh para–não matar ele
+-- c20-v5: E–porei eu (a) minha–face contra–o–homem aquele e–contra–sua–família e–cortarei ele e–(a) todos os–que–prostituem após–ele para–prostituir–se após o–Molekh de–meio–de seu–povo
+-- c20-v6: E–a–alma que voltará a os–espíritos e–a os–adivinhos para–prostituir–se após–eles e–porei (a) minha–face contra–a–alma aquela e–cortarei ela de–meio–de seu–povo
+-- c20-v7: E–santificai–vos e–sereis santos porque eu YHWH vosso–Deus
+-- c20-v8: E–guardareis (a) meus–estatutos e–fareis eles eu YHWH que–vos–santifica
+-- c20-v9: Porque homem homem que amaldiçoará (a) seu–pai e–(a) sua–mãe morrer morrerá seu–pai e–sua–mãe amaldiçoou seus–sangues nele
+-- c20-v10: E–homem que adulterará (a) esposa–de homem que adulterará (a) esposa–de seu–próximo morrer morrerão o–adúltero e–a–adúltera
+-- c20-v11: E–homem que deitará com esposa–de seu–pai nudez–de seu–pai descobriu morrer morrerão ambos–eles seus–sangues neles
+-- c20-v12: E–homem que deitará com sua–nora morrer morrerão ambos–eles perversão fizeram seus–sangues neles
+-- c20-v13: E–homem que deitará com macho deitar–de mulher abominação fizeram ambos–eles morrer morrerão seus–sangues neles
+-- c20-v14: E–homem que tomará (a) mulher e–(a) sua–mãe iniquidade ela no–fogo queimarão ele e–elas e–não haverá iniquidade em–vosso–meio
+-- c20-v15: E–homem que dará sua–coabitação em–besta morrer morrerá e–(a) a–besta matareis
+-- c20-v16: E–mulher que aproximará a toda besta para–acasalar–se ela e–matarás (a) a–mulher e–(a) a–besta morrer morrerão seus–sangues neles
+-- c20-v17: E–homem que tomará (a) sua–irmã filha–de seu–pai ou filha–de sua–mãe e–verá (a) sua–nudez e–ela verá (a) sua–nudez vergonha ele e–serão–cortados aos–olhos–de filhos–de seu–povo nudez–de sua–irmã descobriu sua–iniquidade carregará
+-- c20-v18: E–homem que deitará com mulher menstruada e–descobriu (a) sua–nudez (a) sua–fonte desnudou e–ela descobriu (a) fonte–de seus–sangues e–serão–cortados ambos–eles de–meio–de seu–povo
+-- c20-v19: E–nudez–de irmã–de tua–mãe e–irmã–de teu–pai não descobrirás porque (a) seu–parente desnudou sua–iniquidade carregarão
+-- c20-v20: E–homem que deitará com sua–tia nudez–de seu–tio descobriu seu–pecado carregarão estéreis morrerão
+-- c20-v21: E–homem que tomará (a) esposa–de seu–irmão impureza ela nudez–de seu–irmão descobriu estéreis serão
+-- c20-v22: E–guardareis (a) todos meus–estatutos e–(a) todos meus–juízos e–fareis eles e–não vomitará vós a–terra que eu trazendo vós lá para–habitar nela
+-- c20-v23: E–não andareis em–estatutos–de a–nação que eu enviando de–diante–de–vós porque (a) todas estas fizeram e–abominei neles
+-- c20-v24: E–disse a–vós vós herdareis (a) sua–terra e–eu darei–a a–vós para–herdar ela terra que–mana leite e–mel eu YHWH vosso–Deus que separei vós de os–povos
+-- c20-v25: E–separareis entre a–besta a–pura para–a–impura e–entre a–ave a–impura para–a–pura e–não fareis–detestável (a) vossas–almas com–a–besta e–com–a–ave e–com–tudo que rasteja a–terra que separei para–vós para–impuro
+-- c20-v26: E–sereis para–mim santos porque santo eu YHWH e–separei vós de os–povos para–ser para–mim
+-- c20-v27: E–homem ou mulher quando haverá neles espírito ou adivinho morrer morrerão com–pedra apedrejarão eles seus–sangues neles ¶
+-- c21-v1: E–disse YHWH a Mosheh Diz a os–sacerdotes filhos–de 'Aharon e–dirás a–eles Por–alma não se–tornará–impuro em–seu–povo
+-- c21-v2: Pois se por–seu–parente o–próximo dele por–sua–mãe e–por–seu–pai e–por–seu–filho e–por–sua–filha e–por–seu–irmão
+-- c21-v3: E–por–sua–irmã a–virgem a–próxima dele que não foi de–homem por–ela se–tornará–impuro
+-- c21-v4: Não se–tornará–impuro senhor em–seu–povo para–profanar–se
+-- c21-v5: Não [raparão] (raparão) calvície em–sua–cabeça e–canto–de sua–barba não cortarão e–em–sua–carne não farão incisão
+-- c21-v6: Santos serão para–seu–Deus e–não profanarão nome–de seu–Deus pois (a) ofertas–de–fogo–de YHWH pão–de seu–Deus eles oferecem e–serão santidade
+-- c21-v7: Mulher prostituta e–profanada não tomarão e–mulher divorciada de–seu–marido não tomarão pois santo ele para–seu–Deus
+-- c21-v8: E–o–santificarás pois (a) pão–de teu–Deus ele oferece santo será para–ti pois santo eu YHWH que–vos–santifico
+-- c21-v9: E–filha–de homem sacerdote se profanar para–prostituir–se (a) seu–pai ela profana no–fogo será–queimada §
+-- c21-v10: E–o–sacerdote o–grande de–seus–irmãos que foi–derramado sobre sua–cabeça óleo–de a–unção e–encheu (a) sua–mão para–vestir (a) as–vestes (a) sua–cabeça não descobrirá e–suas–vestes não rasgará
+-- c21-v11: E–sobre toda alma–de morto não entrará por–seu–pai e–por–sua–mãe não se–tornará–impuro
+-- c21-v12: E–de o–santuário não sairá e–não profanará (a) santuário–de seu–Deus pois consagração–de óleo–de unção–de seu–Deus sobre–ele eu YHWH
+-- c21-v13: E–ele mulher em–sua–virgindade tomará
+-- c21-v14: Viúva e–divorciada e–profanada prostituta (a) estas não tomará pois se virgem de–seu–povo tomará mulher
+-- c21-v15: E–não profanará sua–descendência em–seu–povo pois eu YHWH que–o–santifico ¶
+-- c21-v16: E–falou YHWH a Mosheh dizendo
+-- c21-v17: Fala a 'Aharon dizendo Homem de–tua–descendência para–suas–gerações que houver nele defeito não se–aproximará para–oferecer pão–de seu–Deus
+-- c21-v18: Pois todo homem que nele defeito não se–aproximará homem cego ou coxo ou mutilado ou deformado
+-- c21-v19: Ou homem que houver nele fratura–de pé ou fratura–de mão
+-- c21-v20: Ou corcunda ou anão ou mancha em–seu–olho ou sarna ou impigem ou esmagado–de testículo
+-- c21-v21: Todo homem que nele defeito de–descendência–de 'Aharon o–sacerdote não se–chegará para–oferecer (a) ofertas–de–fogo–de YHWH defeito nele (a) pão–de seu–Deus não se–chegará para–oferecer
+-- c21-v22: Pão–de seu–Deus de–santíssimas–coisas–de as–coisas–santas e–de as–coisas–santas comerá
+-- c21-v23: Porém até o–véu não entrará e–até o–altar não se–chegará pois defeito nele e–não profanará (a) meus–santuários pois eu YHWH que–os–santifico
+-- c21-v24: E–falou Mosheh a 'Aharon e–a seus–filhos e–a todos filhos–de Yisra'el ¶
+-- c22-v1: E–falou YHWH a Mosheh dizendo
+-- c22-v2: Fala a 'Aharon e–a seus–filhos e–se–separem de–coisas–santas–de filhos–de Yisra'el e–não profanarão (a) nome–de minha–santidade que eles santificam para–mim eu YHWH
+-- c22-v3: Diz a–eles para–vossas–gerações todo homem que se–aproximar de–toda vossa–descendência a as–coisas–santas que santificam filhos–de Yisra'el para–YHWH e–sua–impureza sobre–ele e–será–cortada a–alma aquela de–diante–de–mim eu YHWH
+-- c22-v4: Homem homem de–descendência–de 'Aharon e–ele leproso ou com–fluxo das–coisas–santas não comerá até que se–purificar e–o–que–toca em–todo impuro–de alma ou homem que sair dele emissão–de semente
+-- c22-v5: Ou homem que tocar em–todo enxame que o–tornar–impuro para–ele ou em–homem que o–tornar–impuro para–ele por–toda sua–impureza
+-- c22-v6: Alma que tocar nele e–será–impura até a–tarde e–não comerá de as–coisas–santas pois se lavar sua–carne na–água
+-- c22-v7: E–vier o–sol e–estará–puro e–depois comerá de as–coisas–santas pois seu–pão ele
+-- c22-v8: Carcaça e–despedaçado não comerá para–tornar–se–impuro por–ela eu YHWH
+-- c22-v9: E–guardarão (a) minha–guarda e–não carregarão sobre–si pecado e–morrerão por–ele pois o–profanam eu YHWH que–os–santifico
+-- c22-v10: E–todo estranho não comerá coisa–santa residente–de sacerdote e–assalariado não comerá coisa–santa
+-- c22-v11: E–sacerdote se comprar alma aquisição–de sua–prata ele comerá dele e–nascido–de sua–casa eles comerão de–seu–pão
+-- c22-v12: E–filha–de sacerdote se for de–homem estranho ela de–oferta–de as–coisas–santas não comerá
+-- c22-v13: E–filha–de sacerdote se for viúva e–divorciada e–descendência não–há para–ela e–voltar a casa–de seu–pai como–sua–juventude de–pão–de seu–pai comerá e–todo estranho não comerá dele §
+-- c22-v14: E–homem se comer coisa–santa por–erro e–acrescentará seu–quinto sobre–ele e–dará ao–sacerdote (a) a–coisa–santa
+-- c22-v15: E–não profanarão (a) coisas–santas–de filhos–de Yisra'el (a) que oferecem para–YHWH
+-- c22-v16: E–farão–carregar (a)–eles iniquidade–de culpa ao–comerem (a) suas–coisas–santas pois eu YHWH que–os–santifico ¶
+-- c22-v17: E–falou YHWH a Mosheh dizendo
+-- c22-v18: Fala a 'Aharon e–a seus–filhos e–a todos filhos–de Yisra'el e–dirás a–eles Homem homem de–casa–de Yisra'el e–de o–estrangeiro em–Yisra'el que oferecer sua–oferta por–todos seus–votos e–por–todas suas–ofertas–voluntárias que oferecerem para–YHWH por–holocausto
+-- c22-v19: Para–vossa–aceitação perfeito macho no–gado nos–cordeiros e–nos–cabritos
+-- c22-v20: Tudo que nele defeito não oferecereis pois não para–aceitação será para–vós
+-- c22-v21: E–homem se oferecer sacrifício–de paz para–YHWH para–cumprir voto ou por–oferta–voluntária no–gado ou no–rebanho perfeito será para–aceitação todo defeito não haverá nele
+-- c22-v22: Cego ou quebrado ou cortado ou verruga ou sarna ou impigem não oferecereis estes para–YHWH e–oferta–de–fogo não dareis deles sobre o–altar para–YHWH
+-- c22-v23: E–boi e–cordeiro deformado e–atrofiado oferta–voluntária farás (a)–ele e–para–voto não será–aceito
+-- c22-v24: E–esmagado e–machucado e–arrancado e–cortado não oferecereis para–YHWH e–em–vossa–terra não fareis
+-- c22-v25: E–da–mão–de filho–de estrangeiro não oferecereis (a) pão–de vosso–Deus de–todos estes pois sua–corrupção neles defeito neles não serão–aceitos para–vós ¶
+-- c22-v26: E–falou YHWH a Mosheh dizendo
+-- c22-v27: Boi ou cordeiro ou cabrito se nascer e–será sete dias debaixo–de sua–mãe e–do–dia o–oitavo e–adiante será–aceito por–oferta–de fogo para–YHWH
+-- c22-v28: E–boi ou cordeiro (a)–ele e–(a) seu–filho não matareis em–dia um
+-- c22-v29: E–se sacrificardes sacrifício–de ação–de–graças para–YHWH para–vossa–aceitação sacrificareis
+-- c22-v30: No–dia aquele será–comido não deixareis dele até manhã eu YHWH
+-- c22-v31: E–guardareis meus–mandamentos e–os–fareis (a)–eles eu YHWH
+-- c22-v32: E–não profanareis (a) nome–de minha–santidade e–serei–santificado no–meio–de filhos–de Yisra'el eu YHWH que–vos–santifico
+-- c22-v33: O–que–vos–tirou (a)–vós de–terra–de Mitsrayim para–ser para–vós por–Deus eu YHWH ¶
+-- c23-v1: E–falou YHWH a Mosheh dizendo
+-- c23-v2: Fala a filhos–de Yisra'el e–dirás a–eles Festas–de YHWH que proclamareis (a)–elas convocações–de santidade estas elas minhas–festas
+-- c23-v3: Seis dias será–feito trabalho e–no–dia o–sétimo Shabbat de–descanso convocação–de santidade todo trabalho não fareis Shabbat ele para–YHWH em–todas vossas–habitações ¶
+-- c23-v4: Estas festas–de YHWH convocações–de santidade que proclamareis (a)–elas em–seu–tempo
+-- c23-v5: No–mês o–primeiro em–quatorze de ao–mês entre as–tardes Pesach para–YHWH
+-- c23-v6: E–em–quinze de dia ao–mês este festa–de os–pães–ázimos para–YHWH sete dias pães–ázimos comereis
+-- c23-v7: No–dia o–primeiro convocação–de santidade será para–vós todo trabalho–de serviço não fareis
+-- c23-v8: E–oferecereis oferta–de–fogo para–YHWH sete dias no–dia o–sétimo convocação–de santidade todo trabalho–de serviço não fareis ¶
+-- c23-v9: E–falou YHWH a Mosheh dizendo
+-- c23-v10: Fala a filhos–de Yisra'el e–dirás a–eles Quando entrardes a a–terra que eu dou para–vós e–ceifardes (a) sua–ceifa e–trareis (a) molho–de primícias–de vossa–ceifa a o–sacerdote
+-- c23-v11: E–acenará (a) o–molho diante–de YHWH para–vossa–aceitação do–dia–seguinte–de o–Shabbat o–acenará o–sacerdote
+-- c23-v12: E–fareis no–dia–de acenardes (a) o–molho cordeiro perfeito filho–de seu–ano por–holocausto para–YHWH
+-- c23-v13: E–sua–oferta–de–cereal dois décimos flor–de–farinha misturada em–óleo oferta–de–fogo para–YHWH aroma–de satisfação e–sua–libação vinho quarto–de o–hin
+-- c23-v14: E–pão e–grão–torrado e–grão–fresco não comereis até mesmo o–dia este até trazerdes (a) oferta–de vosso–Deus estatuto–de eternidade para–vossas–gerações em–todas vossas–habitações §
+-- c23-v15: E–contareis para–vós do–dia–seguinte–de o–Shabbat do–dia–de trazerdes (a) molho–de a–acenar sete Shabbatot completas serão
+-- c23-v16: Até do–dia–seguinte–de o–Shabbat o–sétimo contareis cinquenta dia e–oferecereis oferta–de–cereal nova para–YHWH
+-- c23-v17: De–vossas–habitações trareis pão–de acenar dois dois décimos flor–de–farinha serão levedado serão–assadas primícias para–YHWH
+-- c23-v18: E–oferecereis com o–pão sete cordeiros perfeitos filhos–de ano e–novilho filho–de gado um e–carneiros dois serão holocausto para–YHWH e–sua–oferta–de–cereal e–suas–libações oferta–de–fogo aroma–de satisfação para–YHWH
+-- c23-v19: E–fareis bode–de cabras um por–pecado e–dois cordeiros filhos–de ano por–sacrifício–de paz
+-- c23-v20: E–acenará o–sacerdote (a)–eles sobre pão–de as–primícias acenar diante–de YHWH sobre dois cordeiros santidade serão para–YHWH para–o–sacerdote
+-- c23-v21: E–proclamareis neste–mesmo o–dia este convocação–de santidade será para–vós todo trabalho–de serviço não fareis estatuto–de eternidade em–todas vossas–habitações para–vossas–gerações
+-- c23-v22: E–ao–ceifardes (a) ceifa–de vossa–terra não acabarás canto–de teu–campo ao–ceifares e–respiga–de tua–ceifa não respigarás para–o–pobre e–para–o–estrangeiro deixarás (a)–eles eu YHWH vosso–Deus §
+-- c23-v23: E–falou YHWH a Mosheh dizendo
+-- c23-v24: Fala a filhos–de Yisra'el dizendo No–mês o–sétimo no–primeiro do–mês será para–vós descanso memorial–de trombeta convocação–de santidade
+-- c23-v25: Todo trabalho–de serviço não fareis e–oferecereis oferta–de–fogo para–YHWH §
+-- c23-v26: E–falou YHWH a Mosheh dizendo
+-- c23-v27: Porém no–dez do–mês o–sétimo este dia–de os–Kippurim ele convocação–de santidade será para–vós e–afligireis (a) vossas–almas e–oferecereis oferta–de–fogo para–YHWH
+-- c23-v28: E–todo trabalho não fareis neste–mesmo o–dia este pois dia–de Kippurim ele para–expiar sobre–vós diante–de YHWH vosso–Deus
+-- c23-v29: Pois toda a–alma que não for–afligida neste–mesmo o–dia este e–será–cortada de–seu–povo
+-- c23-v30: E–toda a–alma que fizer todo trabalho neste–mesmo o–dia este e–destruirei (a) a–alma aquela do–meio–de seu–povo
+-- c23-v31: Todo trabalho não fareis estatuto–de eternidade para–vossas–gerações em–todas vossas–habitações
+-- c23-v32: Shabbat de–descanso ele para–vós e–afligireis (a) vossas–almas no–nove do–mês na–tarde de–tarde até tarde descansareis vosso–Shabbat ¶
+-- c23-v33: E–falou YHWH a Mosheh dizendo
+-- c23-v34: Fala a filhos–de Yisra'el dizendo Em–quinze de dia do–mês o–sétimo este festa–de as–Sukkot sete dias para–YHWH
+-- c23-v35: No–dia o–primeiro convocação–de santidade todo trabalho–de serviço não fareis
+-- c23-v36: Sete dias oferecereis oferta–de–fogo para–YHWH no–dia o–oitavo convocação–de santidade será para–vós e–oferecereis oferta–de–fogo para–YHWH assembleia ela todo trabalho–de serviço não fareis
+-- c23-v37: Estas festas–de YHWH que proclamareis (a)–elas convocações–de santidade para–oferecer oferta–de–fogo para–YHWH holocausto e–oferta–de–cereal sacrifício e–libações coisa–de dia em–seu–dia
+-- c23-v38: Exceto Shabbatot–de YHWH e–exceto vossas–dádivas e–exceto todos vossos–votos e–exceto todas vossas–ofertas–voluntárias que derdes para–YHWH
+-- c23-v39: Porém em–quinze de dia do–mês o–sétimo ao–recolherdes (a) produto–de a–terra celebrareis (a) festa–de YHWH sete dias no–dia o–primeiro descanso e–no–dia o–oitavo descanso
+-- c23-v40: E–tomareis para–vós no–dia o–primeiro fruto–de árvore–de formosura ramos–de palmeiras e–ramo–de árvore–de espessura e–salgueiros–de ribeiro e–vos–alegrareis diante–de YHWH vosso–Deus sete dias
+-- c23-v41: E–celebrareis (a)–ela festa para–YHWH sete dias no–ano estatuto–de eternidade para–vossas–gerações no–mês o–sétimo celebrareis (a)–ela
+-- c23-v42: Nas–cabanas habitareis sete dias todo o–natural em–Yisra'el habitarão nas–cabanas
+-- c23-v43: Para–que saibam vossas–gerações que nas–cabanas fiz–habitar (a) filhos–de Yisra'el ao–tirar (a)–eles de–terra–de Mitsrayim eu YHWH vosso–Deus
+-- c23-v44: E–falou Mosheh (a) festas–de YHWH a filhos–de Yisra'el ¶
+-- c24-v1: E–falou YHWH a Mosheh dizendo
+-- c24-v2: Ordena (a) filhos–de Yisra'el e–tomarão para–ti óleo–de oliveira puro batido para–a–luminosidade para–fazer–subir lâmpada contínuo
+-- c24-v3: De–fora de–véu–de o–testemunho na–tenda–de mo'ed arranjará (a)–ela 'Aharon de–tarde até manhã diante–de YHWH contínuo estatuto–de eternidade para–vossas–gerações
+-- c24-v4: Sobre a–menorah a–pura arranjará (a) as–lâmpadas diante–de YHWH contínuo ¶
+-- c24-v5: E–tomarás flor–de–farinha e–assarás (a)–ela doze de pães dois décimos será o–pão o–um
+-- c24-v6: E–porás (a)–eles duas fileiras seis a–fileira sobre a–mesa a–pura diante–de YHWH
+-- c24-v7: E–darás sobre a–fileira incenso puro e–será para–o–pão por–memorial oferta–de–fogo para–YHWH
+-- c24-v8: No–dia–de o–Shabbat no–dia–de o–Shabbat o–arranjará diante–de YHWH contínuo de–junto–de filhos–de Yisra'el aliança–de eternidade
+-- c24-v9: E–será para–'Aharon e–para–seus–filhos e–o–comerão em–lugar santo pois santidade–de santidades ele para–ele de–ofertas–de–fogo–de YHWH decreto–de eternidade §
+-- c24-v10: E–saiu filho–de mulher israelita e–ele filho–de homem egípcio no–meio–de filhos–de Yisra'el e–lutaram no–acampamento filho–de a–israelita e–homem o–israelita
+-- c24-v11: E–perfurou filho–de a–mulher a–israelita (a) o–Nome e–amaldiçoou e–trouxeram (a)–ele a Mosheh e–nome–de sua–mãe Shelomit filha–de Divri de–tribo–de Dan
+-- c24-v12: E–o–colocaram na–prisão para–explicar para–eles conforme boca–de YHWH ¶
+-- c24-v13: E–falou YHWH a Mosheh dizendo
+-- c24-v14: Tira (a) o–amaldiçoador para fora–de o–acampamento e–apoiarão todos os–que–ouviram (a) suas–mãos sobre sua–cabeça e–apedrejarão (a)–ele toda a–congregação
+-- c24-v15: E–a filhos–de Yisra'el falarás dizendo Homem homem se amaldiçoar seu–Deus e–carregará seu–pecado
+-- c24-v16: E–o–que–perfurar nome–de YHWH morrer morrerá apedrejar apedrejarão nele toda a–congregação como–o–estrangeiro como–o–natural ao–perfurar nome morrerá
+-- c24-v17: E–homem se ferir toda alma–de homem morrer morrerá
+-- c24-v18: E–o–que–ferir alma–de animal a–restituirá alma por alma
+-- c24-v19: E–homem se der defeito em–seu–próximo como fez assim será–feito a–ele
+-- c24-v20: Fratura por fratura olho por olho dente por dente como der defeito no–homem assim será–dado nele
+-- c24-v21: E–o–que–ferir animal o–restituirá e–o–que–ferir homem morrerá
+-- c24-v22: Juízo um será para–vós como–o–estrangeiro como–o–natural será pois eu YHWH vosso–Deus
+-- c24-v23: E–falou Mosheh a filhos–de Yisra'el e–tiraram (a) o–amaldiçoador para fora–de o–acampamento e–apedrejaram (a)–ele pedra e–filhos–de Yisra'el fizeram conforme ordenou YHWH (a) Mosheh ¶
+-- c25-v1: E–falou YHWH a Mosheh em–monte Sinay dizendo
+-- c25-v2: Fala a filhos–de Yisra'el e–dirás a–eles quando entrardes a a–terra que eu dando a–vós e–descansará a–terra shabbat a–YHWH
+-- c25-v3: Seis anos semearás teu–campo e–seis anos podarás tua–vinha e–colherás (a) sua–produção
+-- c25-v4: E–no–ano o–sétimo shabbat de–descanso–solene será para–a–terra shabbat a–YHWH teu–campo não semearás e–tua–vinha não podarás
+-- c25-v5: (a) rebrotamento–de tua–colheita não colherás e–(a) uvas–de tua–nazirato não vindimarás ano–de descanso–solene será para–a–terra
+-- c25-v6: E–será shabbat–de a–terra para–vós para–comida para–ti e–para–teu–servo e–para–tua–serva e–para–teu–assalariado e–para–teu–residente os–residindo contigo
+-- c25-v7: E–para–teu–animal e–para–a–fera que em–tua–terra será toda sua–produção para–comer §
+-- c25-v8: E–contarás para–ti sete shabbatot–de anos sete anos sete vezes e–serão para–ti dias–de sete shabbatot os–anos nove e–quarenta anos
+-- c25-v9: E–farás–passar shofar–de teruah no–mês o–sétimo no–décimo do–mês em–dia–de os–Kippurim fareis–passar shofar em–toda vossa–terra
+-- c25-v10: E–santificareis (a) ano–de os–cinquenta ano e–proclamareis deror na–terra a–todos seus–habitantes yovel ela será para–vós e–retornareis homem a sua–propriedade e–homem a sua–família retornareis
+-- c25-v11: Yovel ela ano–de os–cinquenta ano será para–vós não semeareis e–não colhereis (a) seus–rebrotamentos e–não vindimareis (a) seus–naziratos
+-- c25-v12: Porque yovel ela santidade será para–vós de o–campo comereis (a) sua–produção
+-- c25-v13: Em–ano–de o–yovel este retornareis homem a sua–propriedade
+-- c25-v14: E–quando venderdes venda a–teu–próximo ou comprando de–mão–de teu–próximo não oprimireis homem (a) seu–irmão
+-- c25-v15: Em–número–de anos depois–de o–yovel comprarás de teu–próximo em–número–de anos–de produções venderá a–ti
+-- c25-v16: Segundo multidão–de os–anos aumentarás sua–compra e–segundo poucos–de os–anos diminuirás sua–compra porque número–de produções ele vendendo a–ti
+-- c25-v17: E–não oprimireis homem (a) seu–próximo e–temerás de–teu–Deus porque eu YHWH vosso–Deus
+-- c25-v18: E–fareis (a) meus–estatutos e–(a) minhas–ordenanças guardareis e–fareis eles e–habitareis sobre a–terra em–segurança
+-- c25-v19: E–dará a–terra seu–fruto e–comereis para–saciedade e–habitareis em–segurança sobre–ela
+-- c25-v20: E–quando disserdes que comeremos no–ano o–sétimo eis não semearemos e–não colheremos (a) nossa–produção
+-- c25-v21: E–ordenarei (a) minha–bênção para–vós no–ano o–sexto e–fará (a) a–produção para–três os–anos
+-- c25-v22: E–semeareis (a) o–ano o–oitavo e–comereis de a–produção velha até o–ano o–nono até vir sua–produção comereis velha
+-- c25-v23: E–a–terra não será–vendida para–perpetuidade porque a–mim a–terra porque estrangeiros e–residentes vós comigo
+-- c25-v24: E–em–toda terra–de vossa–propriedade resgate dareis para–a–terra §
+-- c25-v25: Quando empobrecer teu–irmão e–vender de–sua–propriedade e–virá seu–resgatador o–próximo a–ele e–resgatará (a) venda–de seu–irmão
+-- c25-v26: E–homem quando não será para–ele resgatador e–alcançar sua–mão e–encontrar suficiente–para seu–resgate
+-- c25-v27: E–calculará (a) anos–de sua–venda e–devolverá (a) o–excesso ao–homem que vendeu a–ele e–retornará a–sua–propriedade
+-- c25-v28: E–se não encontrar sua–mão suficiente devolver a–ele e–será sua–venda em–mão–de o–comprando ele até ano–de o–yovel e–sairá no–yovel e–retornará a–sua–propriedade
+-- c25-v29: E–homem quando vender casa–de habitação cidade–de muralha e–será seu–resgate até completar ano–de sua–venda dias será seu–resgate
+-- c25-v30: E–se não for–resgatada até cumprir para–ele ano completo e–ficará a–casa que na–cidade que [não] (para–ele) muralha para–perpetuidade ao–comprando ele para–suas–gerações não sairá no–yovel
+-- c25-v31: E–casas–de as–aldeias que não para–elas muralha ao–redor sobre campo–de a–terra será–contada resgate será para–ela e–no–yovel sairá
+-- c25-v32: E–cidades–de os–Lewiyyim casas–de cidades–de sua–propriedade resgate–de eternidade será para–os–Lewiyyim
+-- c25-v33: E–quem resgatar de os–Lewiyyim e–sairá venda–de casa e–cidade–de sua–propriedade no–yovel porque casas–de cidades–de os–Lewiyyim ela sua–propriedade em–meio–de filhos–de Yisra'el
+-- c25-v34: E–campo–de pastagem–de suas–cidades não será–vendido porque propriedade–de eternidade ele para–eles §
+-- c25-v35: E–quando empobrecer teu–irmão e–falhar sua–mão contigo e–fortalecerás ele estrangeiro e–residente e–viverá contigo
+-- c25-v36: Não tomarás dele juros e–lucro e–temerás de–teu–Deus e–viverá teu–irmão contigo
+-- c25-v37: (a) tua–prata não darás a–ele com–juros e–com–lucro não darás tua–comida
+-- c25-v38: Eu YHWH vosso–Deus que tirei vós de–terra–de Mitsrayim para–dar a–vós (a) terra–de Kena'an para–ser para–vós por–Deus §
+-- c25-v39: E–quando empobrecer teu–irmão contigo e–se–vender a–ti não farás–trabalhar nele trabalho–de escravo
+-- c25-v40: Como–assalariado como–residente será contigo até ano–de o–yovel trabalhará contigo
+-- c25-v41: E–sairá de–contigo ele e–seus–filhos com–ele e–retornará a sua–família e–a propriedade–de seus–pais retornará
+-- c25-v42: Porque meus–servos eles que tirei eles de–terra–de Mitsrayim não serão–vendidos venda–de escravo
+-- c25-v43: Não dominarás nele com–rigor e–temerás de–teu–Deus
+-- c25-v44: E–teu–servo e–tua–serva que serão para–ti de as–nações que ao–redor–de–vós deles comprareis servo e–serva
+-- c25-v45: E–também de–filhos–de os–residentes os–residindo convosco deles comprareis e–de–sua–família que convosco que geraram em–vossa–terra e–serão para–vós por–propriedade
+-- c25-v46: E–herdareis eles para–vossos–filhos depois–de–vós para–possuir propriedade para–sempre neles trabalhareis e–em–vossos–irmãos filhos–de Yisra'el homem em–seu–irmão não dominarás nele com–rigor §
+-- c25-v47: E–quando alcançar mão–de estrangeiro e–residente contigo e–empobrecer teu–irmão com–ele e–se–vender a–estrangeiro residente contigo ou a–descendente–de família–de estrangeiro
+-- c25-v48: Depois–de se–vender resgate será para–ele um de–seus–irmãos o–resgatará
+-- c25-v49: Ou seu–tio ou filho–de seu–tio o–resgatará ou de–parente–de sua–carne de–sua–família o–resgatará ou alcançar sua–mão e–será–resgatado
+-- c25-v50: E–calculará com seu–comprador de–ano–de ser–vendido–ele a–ele até ano–de o–yovel e–será prata–de sua–venda em–número–de anos como–dias–de assalariado será com–ele
+-- c25-v51: Se ainda muitos nos–anos segundo–eles devolverá seu–resgate de–prata–de sua–compra
+-- c25-v52: E–se poucos restarem nos–anos até ano–de o–yovel e–calculará para–ele segundo seus–anos devolverá (a) seu–resgate
+-- c25-v53: Como–assalariado ano em–ano será com–ele não o–dominará com–rigor diante–de–teus–olhos
+-- c25-v54: E–se não for–resgatado por–estes e–sairá em–ano–de o–yovel ele e–seus–filhos com–ele
+-- c25-v55: Porque a–mim filhos–de Yisra'el servos meus–servos eles que tirei eles de–terra–de Mitsrayim eu YHWH vosso–Deus
+-- c26-v1: Não fareis para–vós ídolos e–imagem–de–escultura e–coluna não levantareis para–vós e–pedra–de figura não poreis em–vossa–terra para–prostrar–vos sobre–ela porque eu YHWH vosso–Deus
+-- c26-v2: (a) meus–shabbatot guardareis e–meu–santuário temereis eu YHWH §
+-- c26-v3: Se em–meus–estatutos andardes e–(a) meus–mandamentos guardardes e–fizerdes eles
+-- c26-v4: E–darei vossas–chuvas em–seu–tempo e–dará a–terra sua–produção e–árvore–de o–campo dará seu–fruto
+-- c26-v5: E–alcançará para–vós debulha (a) vindima e–vindima alcançará (a) semeadura e–comereis vosso–pão para–saciedade e–habitareis em–segurança em–vossa–terra
+-- c26-v6: E–darei paz na–terra e–deitareis e–não–há amedrontando e–farei–cessar fera má de a–terra e–espada não passará em–vossa–terra
+-- c26-v7: E–perseguireis (a) vossos–inimigos e–cairão diante–de–vós pela–espada
+-- c26-v8: E–perseguirão de–vós cinco cem e–cem de–vós dez–mil perseguirão e–cairão vossos–inimigos diante–de–vós pela–espada
+-- c26-v9: E–voltarei a–vós e–vos–farei–frutificar vós e–vos–multiplicarei vós e–estabelecerei (a) minha–aliança convosco
+-- c26-v10: E–comereis velho envelhecido e–velho de–diante–de novo tirareis
+-- c26-v11: E–porei minha–habitação em–vosso–meio e–não rejeitará minha–alma vós
+-- c26-v12: E–andarei em–vosso–meio e–serei para–vós por–Deus e–vós sereis para–mim por–povo
+-- c26-v13: Eu YHWH vosso–Deus que tirei vós de–terra–de Mitsrayim de–ser para–eles escravos e–quebrei varais–de vosso–jugo e–vos–fiz–andar vós eretos ¶
+-- c26-v14: E–se não ouvirdes a–mim e–não fizerdes (a) todos os–mandamentos estes
+-- c26-v15: E–se em–meus–estatutos rejeitardes e–se (a) minhas–ordenanças abominar vossa–alma para–não fazer (a) todos meus–mandamentos para–quebrardes (a) minha–aliança
+-- c26-v16: Também eu farei isto a–vós e–designarei sobre–vós terror (a) a–tísica e–(a) a–febre consumindo olhos e–fazendo–definhar alma e–semeareis em–vão vossa–semente e–a–comerão vossos–inimigos
+-- c26-v17: E–porei minha–face contra–vós e–sereis–feridos diante–de vossos–inimigos e–dominarão sobre–vós vossos–odiadores e–fugireis e–não–há perseguindo vós §
+-- c26-v18: E–se até estas não ouvirdes a–mim e–acrescentarei para–castigar vós sete sobre vossos–pecados
+-- c26-v19: E–quebrarei (a) orgulho–de vossa–força e–farei (a) vossos–céus como–ferro e–(a) vossa–terra como–bronze
+-- c26-v20: E–consumir–se–á em–vão vossa–força e–não dará vossa–terra (a) sua–produção e–árvore–de a–terra não dará seu–fruto
+-- c26-v21: E–se andardes comigo em–hostilidade e–não quiserdes ouvir a–mim e–acrescentarei sobre–vós praga sete segundo–vossos–pecados
+-- c26-v22: E–enviarei contra–vós (a) fera–de o–campo e–vos–desfilhará vós e–cortará (a) vosso–gado e–vos–diminuirá vós e–se–tornarão–desertas vossas–estradas
+-- c26-v23: E–se por–estas não fordes–corrigidos por–mim e–andardes comigo em–hostilidade
+-- c26-v24: E–andarei também eu convosco em–hostilidade e–ferirei vós também eu sete sobre vossos–pecados
+-- c26-v25: E–trarei sobre–vós espada vingando vingança–de aliança e–sereis–ajuntados a vossas–cidades e–enviarei peste em–vosso–meio e–sereis–entregues em–mão–de inimigo
+-- c26-v26: Quando–eu–quebrar a–vós vara–de pão e–asserão dez mulheres vosso–pão em–forno um e–devolverão vosso–pão pelo–peso e–comereis e–não vos–saciareis §
+-- c26-v27: E–se com–isto não ouvirdes a–mim e–andardes comigo em–hostilidade
+-- c26-v28: E–andarei convosco em–calor–de hostilidade e–castigarei vós também eu sete sobre vossos–pecados
+-- c26-v29: E–comereis carne–de vossos–filhos e–carne–de vossas–filhas comereis
+-- c26-v30: E–destruirei (a) vossos–lugares–altos e–cortarei (a) vossos–altares–de–incenso e–porei (a) vossos–cadáveres sobre cadáveres–de vossos–ídolos e–abominará minha–alma vós
+-- c26-v31: E–farei (a) vossas–cidades ruína e–devastarei (a) vossos–santuários e–não cheirarei em–cheiro–de vossa–suavidade
+-- c26-v32: E–devastarei eu (a) a–terra e–se–espantarão sobre–ela vossos–inimigos os–habitando nela
+-- c26-v33: E–vós espalharei entre–as–nações e–desembainharei atrás–de–vós espada e–será vossa–terra desolação e–vossas–cidades serão ruína
+-- c26-v34: Então gozará a–terra (a) seus–shabbatot todos dias–de a–desolação e–vós em–terra–de vossos–inimigos então descansará a–terra e–gozará (a) seus–shabbatot
+-- c26-v35: Todos dias–de a–desolação descansará (a) que não descansou em–vossos–shabbatot em–vosso–habitar sobre–ela
+-- c26-v36: E–os–restantes de–vós e–trarei fraqueza em–seus–corações em–terras–de seus–inimigos e–perseguirá eles som–de folha agitada e–fugirão fuga–de espada e–cairão e–não–há perseguindo
+-- c26-v37: E–tropeçarão homem em–seu–irmão como–de–diante–de espada e–perseguindo não–há e–não será para–vós firmeza diante–de vossos–inimigos
+-- c26-v38: E–perecereis entre–as–nações e–consumirá vós terra–de vossos–inimigos
+-- c26-v39: E–os–restantes de–vós apodrecerão em–sua–iniquidade em–terras–de vossos–inimigos e–também em–iniquidades–de seus–pais com–eles apodrecerão
+-- c26-v40: E–confessarão (a) sua–iniquidade e–(a) iniquidade–de seus–pais em–sua–infidelidade que foram–infiéis contra–mim e–também que andaram comigo em–hostilidade
+-- c26-v41: Também eu andarei com–eles em–hostilidade e–trarei eles em–terra–de seus–inimigos ou então se–humilhará seu–coração o–incircunciso e–então aceitarão (a) sua–iniquidade
+-- c26-v42: E–lembrarei (a) minha–aliança–de Ya'aqov e–também (a) minha–aliança–de Yitschaq e–também (a) minha–aliança–de 'Avraham lembrarei e–a–terra lembrarei
+-- c26-v43: E–a–terra será–abandonada por–eles e–gozará (a) seus–shabbatot em–estar–desolada por–eles e–eles aceitarão (a) sua–iniquidade porque e–porque em–minhas–ordenanças rejeitaram e–(a) meus–estatutos abominou sua–alma
+-- c26-v44: E–também ainda isto em–estarem–eles em–terra–de seus–inimigos não os–rejeitei e–não os–abominei para–destruí–los para–anular minha–aliança com–eles porque eu YHWH seu–Deus
+-- c26-v45: E–lembrarei para–eles aliança–de primeiros que tirei eles de–terra–de Mitsrayim aos–olhos–de as–nações para–ser para–eles por–Deus eu YHWH
+-- c26-v46: Estes os–estatutos e–as–ordenanças e–as–torot que deu YHWH entre–ele e–entre filhos–de Yisra'el em–monte Sinay por–mão–de Mosheh ¶
+-- c27-v1: E–falou YHWH a Mosheh dizendo
+-- c27-v2: Fala a filhos–de Yisra'el e–dirás a–eles homem quando fizer–extraordinário neder em–tua–avaliação almas a–YHWH
+-- c27-v3: E–será tua–avaliação o–macho de–filho–de vinte ano e–até filho–de sessenta ano e–será tua–avaliação cinquenta sheqel prata em–sheqel–de o–santuário
+-- c27-v4: E–se fêmea ela e–será tua–avaliação trinta sheqel
+-- c27-v5: E–se de–filho–de cinco anos e–até filho–de vinte ano e–será tua–avaliação o–macho vinte sheqalim e–para–a–fêmea dez sheqalim
+-- c27-v6: E–se de–filho–de mês e–até filho–de cinco anos e–será tua–avaliação o–macho cinco sheqalim prata e–para–a–fêmea tua–avaliação três sheqalim prata
+-- c27-v7: E–se de–filho–de sessenta ano e–acima se macho e–será tua–avaliação cinco dez sheqel e–para–a–fêmea dez sheqalim
+-- c27-v8: E–se pobre ele de–tua–avaliação e–será–apresentado diante–de o–kohen e–avaliará ele o–kohen sobre boca–de que alcançar mão–de o–fazendo–voto o–avaliará o–kohen §
+-- c27-v9: E–se animal que aproximam dele oferta a–YHWH todo que der dele a–YHWH será santidade
+-- c27-v10: Não trocará e–não substituirá ele bom por–mau ou mau por–bom e–se substituir substituir animal por–animal e–será ele e–sua–substituição será santidade
+-- c27-v11: E–se todo animal impuro que não aproximam dele oferta a–YHWH e–apresentará (a) o–animal diante–de o–kohen
+-- c27-v12: E–avaliará o–kohen ela entre bom e–entre mau como–tua–avaliação o–kohen assim será
+-- c27-v13: E–se resgatar resgatá–la e–acrescentará seu–quinto sobre tua–avaliação
+-- c27-v14: E–homem quando santificar (a) sua–casa santidade a–YHWH e–avaliá–la–á o–kohen entre bom e–entre mau como avaliar ela o–kohen assim ficará
+-- c27-v15: E–se o–santificante resgatar (a) sua–casa e–acrescentará quinto–de prata–de tua–avaliação sobre–ele e–será para–ele
+-- c27-v16: E–se de–campo–de sua–propriedade santificar homem a–YHWH e–será tua–avaliação segundo sua–semeadura semente–de chomer cevada em–cinquenta sheqel prata
+-- c27-v17: Se de–ano–de o–yovel santificar seu–campo como–tua–avaliação ficará
+-- c27-v18: E–se depois–de o–yovel santificar seu–campo e–calculará para–ele o–kohen (a) a–prata sobre boca–de os–anos os–restantes até ano–de o–yovel e–será–reduzido de–tua–avaliação
+-- c27-v19: E–se resgatar resgatar (a) o–campo o–santificante ele e–acrescentará quinto–de prata–de tua–avaliação sobre–ele e–ficará para–ele
+-- c27-v20: E–se não resgatar (a) o–campo e–se vender (a) o–campo a–homem outro não será–resgatado mais
+-- c27-v21: E–será o–campo em–seu–sair no–yovel santidade a–YHWH como–campo–de o–cherem ao–kohen será sua–propriedade
+-- c27-v22: E–se (a) campo–de sua–compra que não de–campo–de sua–propriedade santificar a–YHWH
+-- c27-v23: E–calculará para–ele o–kohen (a) quantia–de a–tua–avaliação até ano–de o–yovel e–dará (a) a–avaliação no–dia aquele santidade a–YHWH
+-- c27-v24: Em–ano–de o–yovel retornará o–campo a–quem o–comprou dele a–quem para–ele propriedade–de a–terra
+-- c27-v25: E–toda tua–avaliação será em–sheqel–de o–santuário vinte gerah será o–sheqel §
+-- c27-v26: Mas primogênito que for–primogênito a–YHWH em–animal não santificará homem ele se boi se ovelha a–YHWH ele
+-- c27-v27: E–se no–animal o–impuro e–redimirá em–tua–avaliação e–acrescentará seu–quinto sobre–ele e–se não for–resgatado e–será–vendido em–tua–avaliação
+-- c27-v28: Mas todo cherem que devotará homem a–YHWH de–todo que para–ele de–homem e–animal e–de–campo–de sua–propriedade não será–vendido e–não será–resgatado todo cherem santidade–de santidades ele a–YHWH
+-- c27-v29: Todo cherem que for–devotado de o–homem não será–resgatado morrer morrerá
+-- c27-v30: E–todo dízimo–de a–terra de–semente–de a–terra de–fruto–de a–árvore a–YHWH ele santidade a–YHWH
+-- c27-v31: E–se resgatar resgatar homem de–seu–dízimo seu–quinto acrescentará sobre–ele
+-- c27-v32: E–todo dízimo–de gado e–rebanho todo que passar sob o–cajado o–décimo será santidade a–YHWH
+-- c27-v33: Não examinará entre bom para–mau e–não substitui–lo–á e–se substituir substitui–lo–á e–será ele e–sua–substituição será santidade não será–resgatado
+-- c27-v34: Estes os–mandamentos que ordenou YHWH (a) Mosheh a filhos–de Yisra'el em–monte Sinay
 
 BEGIN;
 -- 0300100101: וַיִּקְרָ֖א (H7121) → "E–chamou" [opus-4.5-chirho]

@@ -3,81 +3,81 @@
 -- — John 3:16
 
 -- JOEL - POR Combined
--- Generated: 2026-01-27T21:47:18Z
+-- Generated: 2026-01-27T22:21:00Z
 
--- JOEL c1-v1 - POR
--- JOEL c1-v2 - POR
--- JOEL c1-v3 - POR
--- JOEL c1-v4 - POR
--- JOEL c1-v5 - POR
--- JOEL c1-v6 - POR
--- JOEL c1-v7 - POR
--- JOEL c1-v8 - POR
--- JOEL c1-v9 - POR
--- JOEL c1-v10 - POR
--- JOEL c1-v11 - POR
--- JOEL c1-v12 - POR
--- JOEL c1-v13 - POR
--- JOEL c1-v14 - POR
--- JOEL c1-v15 - POR
--- JOEL c1-v16 - POR
--- JOEL c1-v17 - POR
--- JOEL c1-v18 - POR
--- JOEL c1-v19 - POR
--- JOEL c1-v20 - POR
--- JOEL c2-v1 - POR
--- JOEL c2-v2 - POR
--- JOEL c2-v3 - POR
--- JOEL c2-v4 - POR
--- JOEL c2-v5 - POR
--- JOEL c2-v6 - POR
--- JOEL c2-v7 - POR
--- JOEL c2-v8 - POR
--- JOEL c2-v9 - POR
--- JOEL c2-v10 - POR
--- JOEL c2-v11 - POR
--- JOEL c2-v12 - POR
--- JOEL c2-v13 - POR
--- JOEL c2-v14 - POR
--- JOEL c2-v15 - POR
--- JOEL c2-v16 - POR
--- JOEL c2-v17 - POR
--- JOEL c2-v18 - POR
--- JOEL c2-v19 - POR
--- JOEL c2-v20 - POR
--- JOEL c2-v21 - POR
--- JOEL c2-v22 - POR
--- JOEL c2-v23 - POR
--- JOEL c2-v24 - POR
--- JOEL c2-v25 - POR
--- JOEL c2-v26 - POR
--- JOEL c2-v27 - POR
--- JOEL c2-v28 - POR
--- JOEL c2-v29 - POR
--- JOEL c2-v30 - POR
--- JOEL c2-v31 - POR
--- JOEL c2-v32 - POR
--- JOEL c3-v1 - POR
--- JOEL c3-v2 - POR
--- JOEL c3-v3 - POR
--- JOEL c3-v4 - POR
--- JOEL c3-v5 - POR
--- JOEL c3-v6 - POR
--- JOEL c3-v7 - POR
--- JOEL c3-v8 - POR
--- JOEL c3-v9 - POR
--- JOEL c3-v10 - POR
--- JOEL c3-v11 - POR
--- JOEL c3-v12 - POR
--- JOEL c3-v13 - POR
--- JOEL c3-v14 - POR
--- JOEL c3-v15 - POR
--- JOEL c3-v16 - POR
--- JOEL c3-v17 - POR
--- JOEL c3-v18 - POR
--- JOEL c3-v19 - POR
--- JOEL c3-v20 - POR
--- JOEL c3-v21 - POR
+-- c1-v1: Palavra–de Yahweh que foi a Yoel filho–de Petuel
+-- c1-v2: Ouvi– isto os–anciãos e–dai–ouvidos todos habitantes–de a–terra aconteceu? isto em–dias–vossos e–se em–dias–de pais–vossos
+-- c1-v3: sobre–ela a–filhos–vossos contai e–filhos–vossos a–filhos–deles e–filhos–deles a–geração outra
+-- c1-v4: Resto–de a–lagarta comeu o–gafanhoto e–resto–de o–gafanhoto comeu o–saltão e–resto–de o–saltão comeu o–destruidor
+-- c1-v5: Despertai bêbados e–chorai e–lamentai todos– bebedores–de vinho sobre– mosto porque foi–cortado de–boca–vossa
+-- c1-v6: Porque– nação subiu sobre– terra–minha poderosa e–não–há número dentes–seus dentes–de leão e–presas–de leoa a–ele
+-- c1-v7: Pôs vide–minha em–desolação e–figueira–minha em–lascas descascando descascou–a e–lançou embranqueceram ramos–seus
+-- c1-v8: Lamenta como–virgem cingida–de saco sobre– esposo–de juventude–sua
+-- c1-v9: Foi–cortada oferta e–libação de–casa–de Yahweh prantearam os–sacerdotes servos–de Yahweh
+-- c1-v10: Foi–devastado campo pranteou terra porque foi–devastado trigo secou mosto murchou azeite
+-- c1-v11: Envergonhai–vos lavradores lamentai vinhateiros sobre– trigo e–sobre– cevada porque pereceu colheita–de campo
+-- c1-v12: A–vide secou e–a–figueira murchou romãzeira também– palmeira e–macieira todas– árvores–de o–campo secaram porque– secou alegria de– filhos–de homem §
+-- c1-v13: Cingi–vos e–lamentai os–sacerdotes lamentai servos–de altar vinde passai–a–noite em–sacos servos–de Deus–meu porque foi–retida de–casa–de Deus–vosso oferta e–libação
+-- c1-v14: Santificai– jejum proclamai assembleia reuni anciãos todos habitantes–de a–terra casa–de Yahweh Deus–vosso e–clamai a– Yahweh
+-- c1-v15: Ai para–o–dia porque perto dia–de Yahweh e–como–destruição de–Shaddai virá
+-- c1-v16: Não? diante–de olhos–nossos alimento foi–cortado de–casa–de Deus–nosso alegria e–regozijo
+-- c1-v17: Apodreceram grãos debaixo–de torrões–seus ficaram–desolados celeiros foram–demolidos armazéns porque secou trigo
+-- c1-v18: Como– geme gado estão–confusos manadas–de bois porque não–há pasto para–eles também– rebanhos–de as–ovelhas sofrem
+-- c1-v19: A–ti Yahweh clamarei porque fogo devorou pastagens–de deserto e–chama queimou todas– árvores–de o–campo
+-- c1-v20: Também– animais–de campo anseiam por–ti porque secaram correntes–de águas e–fogo devorou pastagens–de o–deserto ¶
+-- c2-v1: Tocai shofar em–Tsiyyon e–dai–alarme em–monte–de santidade–minha tremam todos habitantes–de a–terra porque– vem dia–de Yahweh porque perto
+-- c2-v2: Dia–de escuridão e–trevas dia–de nuvem e–negrura como–aurora espalhado sobre– os–montes povo grande e–poderoso como–ele não houve desde– a–eternidade e–após–ele não haverá até– anos–de geração e–geração
+-- c2-v3: Diante–dele devorou fogo e–após–ele queima chama como–jardim–de Eden a–terra diante–dele e–após–ele deserto–de desolação e–também– escape não– houve a–ele
+-- c2-v4: Como–aparência–de cavalos aparência–seu e–como–cavaleiros assim correrão
+-- c2-v5: Como–som–de carros sobre– topos–de os–montes saltam como–som–de labareda–de fogo devorando palha como–povo poderoso ordenado para–guerra
+-- c2-v6: De–face–dele agonizam povos todas– faces reuniram palidez
+-- c2-v7: Como–guerreiros correm como–homens–de guerra sobem muro e–homem em–caminhos–seus caminham e–não desviam veredas–suas
+-- c2-v8: E–homem irmão–seu não empurram varão em–estrada–sua caminham e–por–entre– o–arremesso caem não se–ferem
+-- c2-v9: Na–cidade correm no–muro correm nas–casas sobem por–entre– as–janelas entram como–o–ladrão
+-- c2-v10: Diante–dele tremeu terra estremeceram céus sol e–lua escureceram e–estrelas retiraram brilho–seu
+-- c2-v11: E–Yahweh deu voz–sua diante–de exército–seu porque grande muito acampamento–seu porque poderoso fazedor–de palavra–sua porque– grande dia–de Yahweh e–terrível muito e–quem o–suportará
+-- c2-v12: E–também– agora declaração–de Yahweh retornai a–mim com–todo– coração–vosso e–com–jejum e–com–choro e–com–lamento
+-- c2-v13: E–rasgai coração–vosso e–não– vestes–vossas e–retornai a– Yahweh Deus–vosso porque– gracioso e–misericordioso ele tardio–de ira e–grande–de benignidade e–que–se–arrepende sobre– o–mal
+-- c2-v14: Quem sabe retornará e–se–arrependerá e–deixará após–ele bênção oferta e–libação para–Yahweh Deus–vosso ¶
+-- c2-v15: Tocai shofar em–Tsiyyon santificai– jejum proclamai assembleia
+-- c2-v16: Reuni– povo santificai congregação congregai anciãos reuni crianças e–lactentes–de seios saia noivo de–quarto–seu e–noiva de–câmara–sua
+-- c2-v17: Entre– o–pórtico e–o–altar chorem os–sacerdotes servos–de Yahweh e–digam poupa Yahweh sobre– povo–teu e–não– dês herança–tua para–opróbrio para–dominar– sobre–eles nações por–que diriam entre–os–povos onde Deus–deles
+-- c2-v18: E–teve–zelo Yahweh por–terra–sua e–teve–compaixao de– povo–seu
+-- c2-v19: E–respondeu Yahweh e–disse a–povo–seu eis–me enviando a–vós (a) o–trigo e–o–mosto e–o–azeite e–sereis–saciados (de)ele e–não– darei (a)vós mais opróbrio entre–as–nações
+-- c2-v20: E–(a)– o–do–norte afastarei de–sobre–vós e–expulsar–o–ei a– terra–de aridez e–desolação (a) face–sua a– o–mar o–oriental e–fim–seu a– o–mar o–ocidental e–subirá fedor–seu e–subirá mau–cheiro–seu porque engrandeceu para–fazer
+-- c2-v21: Não– temas terra exulta e–alegra–te porque– engrandeceu Yahweh para–fazer
+-- c2-v22: Não– temais animais–de campo porque brotaram pastagens–de deserto porque– árvore produziu fruto–seu figueira e–vide deram força–sua
+-- c2-v23: E–filhos–de Tsiyyon exultai e–alegrai–vos em–Yahweh Deus–vosso porque– deu a–vós (a) o–mestre para–justiça e–fez–descer a–vós chuva temporã e–serôdia no–primeiro
+-- c2-v24: E–ficarão–cheias as–eiras trigo e–transbordarão os–lagares mosto e–azeite
+-- c2-v25: E–restituirei a–vós (a) os–anos que comeu o–gafanhoto o–saltão e–o–destruidor e–a–lagarta exército–meu o–grande que enviei contra–vós
+-- c2-v26: E–comereis comendo e–sereis–saciados e–louvareis (a) nome–de Yahweh Deus–vosso que– fez convosco maravilhosamente e–não– serão–envergonhados povo–meu para–sempre
+-- c2-v27: E–sabereis que em–meio–de Yisrael eu e–eu Yahweh Deus–vosso e–não–há outro e–não– serão–envergonhados povo–meu para–sempre §
+-- c2-v28: E–será depois–de– assim derramarei (a) espírito–meu sobre– toda– carne e–profetizarão filhos–vossos e–filhas–vossas velhos–vossos sonhos sonharão jovens–vossos visões verão
+-- c2-v29: E–também sobre– os–servos e–sobre– as–servas nos–dias aqueles derramarei (a) espírito–meu
+-- c2-v30: E–darei sinais nos–céus e–na–terra sangue e–fogo e–colunas–de fumaça
+-- c2-v31: O–sol se–converterá em–escuridão e–a–lua em–sangue diante–de vir dia–de Yahweh o–grande e–o–terrível
+-- c2-v32: E–será todo que– invocar em–nome–de Yahweh será–salvo porque em–monte–de Tsiyyon e–em–Yerushaláyim haverá escape como disse Yahweh e–entre–os–sobreviventes que Yahweh chama
+-- c3-v1: Porque eis nos–dias aqueles e–no–tempo aquele que [restaurarei] (restaurarei) (a) cativeiro–de Yehudah e–Yerushaláyim
+-- c3-v2: E–reunirei (a) todas– as–nações e–farei–descer–elas a– vale–de Yehoshafat e–julgarei com–eles lá sobre– povo–meu e–herança–minha Yisrael que espalharam entre–as–nações e–(a)– terra–minha dividiram
+-- c3-v3: E–sobre– povo–meu lançaram sorte e–deram o–menino pela–prostituta e–a–menina venderam por–vinho e–beberam
+-- c3-v4: E–também que– vós para–mim Tsor e–Tsidon e–todos distritos–de Peleshet a–retribução vós retribuindo sobre–mim e–se– retribuís vós sobre–mim rápido velozmente farei–retornar retribução–vossa sobre–cabeça–vossa
+-- c3-v5: Que– prata–minha e–ouro–meu tomastes e–tesouros–meus os–bons trouxestes a–templos–vossos
+-- c3-v6: E–filhos–de Yehudah e–filhos–de Yerushaláyim vendestes a–filhos–de os–gregos para afastar–os de–sobre– fronteira–sua
+-- c3-v7: Eis–me despertando–os de– o–lugar que– vendestes (a)eles para–lá e–farei–retornar retribução–vossa sobre–cabeça–vossa
+-- c3-v8: E–venderei (a) filhos–vossos e–(a)– filhas–vossas em–mão–de filhos–de Yehudah e–vender–os–ão aos–sabeus a– nação distante porque Yahweh falou §
+-- c3-v9: Proclamai– isto entre–as–nações santificai guerra despertai os–guerreiros aproximem–se subam todos homens–de a–guerra
+-- c3-v10: Forjai arados–vossos em–espadas e–podadeiras–vossas em–lanças o–fraco diga guerreiro eu
+-- c3-v11: Apressai–vos e–vinde todas– as–nações ao–redor e–sejam–reunidas para–lá faze–descer Yahweh guerreiros–teus
+-- c3-v12: Despertem e–subam as–nações a– vale–de Yehoshafat porque lá me–assentarei para–julgar (a) todas– as–nações ao–redor
+-- c3-v13: Enviai foice porque amadureceu colheita vinde descei porque– ficou–cheio lagar transbordam os–lagares porque grande maldade–deles
+-- c3-v14: Multidões multidões no–vale–de a–decisão porque perto dia–de Yahweh no–vale–de a–decisão
+-- c3-v15: Sol e–lua escureceram e–estrelas retiraram brilho–seu
+-- c3-v16: E–Yahweh de–Tsiyyon rugirá e–de–Yerushaláyim dará voz–sua e–estremecerão céus e–terra e–Yahweh refúgio para–povo–seu e–fortaleza para–filhos–de Yisrael
+-- c3-v17: E–sabereis que eu Yahweh Deus–vosso habitante–em Tsiyyon monte–de santidade–minha e–será Yerushaláyim santidade e–estranhos não– passarão– por–ela mais §
+-- c3-v18: E–será no–dia aquele gotejarão os–montes mosto e–as–colinas fluirão leite e–todos– riachos–de Yehudah fluirão águas e–fonte de–casa–de Yahweh sairá e–regará (a) vale–de os–Shittim
+-- c3-v19: Mitsrayim para–desolação será e–Edom para–deserto–de desolação será por–violência–contra filhos–de Yehudah que– derramaram sangue– inocente na–terra–deles
+-- c3-v20: E–Yehudah para–sempre habitará e–Yerushaláyim para–geração e–geração
+-- c3-v21: E–vingarei sangue–deles não– vingarei? E–Yahweh habitante–em Tsiyyon
 
 BEGIN;
 -- 2900100101: דְּבַר־ (H1697) → "Palavra–de" [opus-4.5-chirho]

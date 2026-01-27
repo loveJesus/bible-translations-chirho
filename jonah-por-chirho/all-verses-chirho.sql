@@ -3,56 +3,56 @@
 -- — John 3:16
 
 -- JONAH - POR Combined
--- Generated: 2026-01-27T21:47:21Z
+-- Generated: 2026-01-27T22:21:06Z
 
--- JONAH c1-v1 - POR
--- JONAH c1-v2 - POR
--- JONAH c1-v3 - POR
--- JONAH c1-v4 - POR
--- JONAH c1-v5 - POR
--- JONAH c1-v6 - POR
--- JONAH c1-v7 - POR
--- JONAH c1-v8 - POR
--- JONAH c1-v9 - POR
--- JONAH c1-v10 - POR
--- JONAH c1-v11 - POR
--- JONAH c1-v12 - POR
--- JONAH c1-v13 - POR
--- JONAH c1-v14 - POR
--- JONAH c1-v15 - POR
--- JONAH c1-v16 - POR
--- JONAH c1-v17 - POR
--- JONAH c2-v1 - POR
--- JONAH c2-v2 - POR
--- JONAH c2-v3 - POR
--- JONAH c2-v4 - POR
--- JONAH c2-v5 - POR
--- JONAH c2-v6 - POR
--- JONAH c2-v7 - POR
--- JONAH c2-v8 - POR
--- JONAH c2-v9 - POR
--- JONAH c2-v10 - POR
--- JONAH c3-v1 - POR
--- JONAH c3-v2 - POR
--- JONAH c3-v3 - POR
--- JONAH c3-v4 - POR
--- JONAH c3-v5 - POR
--- JONAH c3-v6 - POR
--- JONAH c3-v7 - POR
--- JONAH c3-v8 - POR
--- JONAH c3-v9 - POR
--- JONAH c3-v10 - POR
--- JONAH c4-v1 - POR
--- JONAH c4-v2 - POR
--- JONAH c4-v3 - POR
--- JONAH c4-v4 - POR
--- JONAH c4-v5 - POR
--- JONAH c4-v6 - POR
--- JONAH c4-v7 - POR
--- JONAH c4-v8 - POR
--- JONAH c4-v9 - POR
--- JONAH c4-v10 - POR
--- JONAH c4-v11 - POR
+-- c1-v1: E–foi palavra–de YHWH a Yonah filho–de Amittay dizendo
+-- c1-v2: Levanta-te vai a Nineveh a–cidade a–grande e–clama contra–ela porque subiu maldade–deles diante–de–mim
+-- c1-v3: E–levantou-se Yonah para–fugir para–Tarshish de–diante–de YHWH e–desceu a–Yafo e–encontrou um–navio indo a–Tarshish e–deu tarifa–dele e–desceu nele para–ir com–eles para–Tarshish de–diante–de YHWH
+-- c1-v4: E–YHWH lançou vento grande sobre o–mar e–houve tempestade grande no–mar e–o–navio pensou em–quebrar-se
+-- c1-v5: E–temeram os–marinheiros e–clamaram homem a deus–dele e–lançaram (a) os–objetos que no–navio ao o–mar para–aliviar de–sobre–eles e–Yonah desceu ao fundos–de o–convés e–deitou-se e–adormeceu
+-- c1-v6: E–aproximou-se dele chefe–de o–marinheiro e–disse a–ele O–que a–ti dormindo? Levanta-te clama a deus–teu talvez pensará o–Deus em–nós e–não pereceremos
+-- c1-v7: E–disseram homem a companheiro–dele vinde e–lancemos sortes e–saibamos por–causa–de–quem o–mal o–este a–nós e–lançaram sortes e–caiu a–sorte sobre Yonah
+-- c1-v8: E–disseram a–ele Declara por–favor a–nós por–causa–de–quem de–quem o–mal o–este a–nós qual trabalho–teu e–de–onde vens qual terra–tua e–de–onde de–este povo tu
+-- c1-v9: E–disse a–eles hebreu eu e–(a) YHWH Deus–de os–céus eu temo que fez (a) o–mar e–(a) a–terra–seca
+-- c1-v10: E–temeram os–homens temor grande e–disseram a–ele O–que isto fizeste? Porque sabiam os–homens que de–diante–de YHWH ele fugia porque declarou a–eles
+-- c1-v11: E–disseram a–ele O–que faremos a–ti e–aquietará o–mar de–sobre–nós porque o–mar ia e–tempestuava
+-- c1-v12: E–disse a–eles Levantai-me e–lançai-me ao o–mar e–aquietará o–mar de–sobre–vós porque sabendo eu que por–minha–causa a–tempestade a–grande a–esta sobre–vós
+-- c1-v13: E–remaram os–homens para–fazer–voltar a a–terra–seca e–não puderam porque o–mar ia e–tempestuava sobre–eles
+-- c1-v14: E–clamaram a YHWH e–disseram Por–favor YHWH não por–favor pereçamos pela–vida–de o–homem o–este e–não ponhas sobre–nós sangue inocente porque tu YHWH como desejaste fizeste
+-- c1-v15: E–levantaram (a) Yonah e–lançaram–o ao o–mar e–parou o–mar de–fúria–sua
+-- c1-v16: E–temeram os–homens temor grande (a) YHWH e–sacrificaram sacrifício a–YHWH e–fizeram–votos votos
+-- c1-v17: E–designou YHWH peixe grande para–engolir (a) Yonah e–esteve Yonah nas–entranhas–de o–peixe três dias e–três noites
+-- c2-v1: E–orou Yonah a YHWH Deus–dele das–entranhas–de o–peixe
+-- c2-v2: E–disse Clamei da–angústia–de mim a YHWH e–respondeu-me do–ventre–de Sheol gritei ouviste voz–minha
+-- c2-v3: E–lançaste-me profundidade no–coração–de mares e–corrente cercou-me todas ondas–tuas e–vagas–tuas sobre–mim passaram
+-- c2-v4: E–eu disse fui–expulso de–diante–de olhos–teus todavia tornarei a–olhar para templo–de santidade–tua
+-- c2-v5: Cercaram-me águas até alma abismo cercou-me alga enrolada à–cabeça–minha
+-- c2-v6: Aos–fundamentos–de montes desci a–terra ferrolhos–dela atrás–de–mim para–sempre e–fizeste–subir da–cova vida–minha YHWH Deus–meu
+-- c2-v7: Ao–desfalecer sobre–mim alma–minha (a) YHWH lembrei e–veio a–ti oração–minha ao templo–de santidade–tua
+-- c2-v8: Os–que–guardam vaidades–de mentira misericórdia–deles abandonam
+-- c2-v9: E–eu com–voz–de ação–de–graças sacrificarei a–ti o–que votei cumprirei Salvação de–YHWH §
+-- c2-v10: E–disse YHWH ao–peixe e–vomitou (a) Yonah sobre a–terra–seca ¶
+-- c3-v1: E–foi palavra–de YHWH a Yonah segunda-vez dizendo
+-- c3-v2: Levanta-te vai a Nineveh a–cidade a–grande e–proclama a–ela (a) a–proclamação que eu falando a–ti
+-- c3-v3: E–levantou-se Yonah e–foi a Nineveh conforme–palavra–de YHWH e–Nineveh era cidade grande para–Deus caminhada–de três dias
+-- c3-v4: E–começou Yonah a–entrar na–cidade caminhada–de dia um e–clamou e–disse ainda quarenta dia e–Nineveh será–destruida
+-- c3-v5: E–creram homens–de Nineveh em–Deus e–proclamaram jejum e–vestiram sacos do–grande–deles e–até pequeno–deles
+-- c3-v6: E–chegou a–palavra ao rei–de Nineveh e–levantou-se de–trono–dele e–removeu manto–dele de–sobre–ele e–cobriu-se saco e–sentou-se sobre a–cinza
+-- c3-v7: E–proclamou e–disse em–Nineveh por–decreto–de o–rei e–grandes–dele dizendo O–homem e–o–animal o–gado e–o–rebanho não provem coisa–alguma não pastem e–água não bebam
+-- c3-v8: E–cubram-se sacos o–homem e–o–animal e–clamem a Deus com–força e–convertam-se homem de–caminho–dele o–mau e–da a–violência que nas–mãos–deles
+-- c3-v9: Quem sabe voltará e–arrepender-se-á o–Deus e–voltará do–ardor–de ira–dele e–não pereceremos
+-- c3-v10: E–viu o–Deus (a) obras–deles que voltaram de–caminho–deles o–mau e–arrependeu-se o–Deus sobre o–mal que falou de–fazer a–eles e–não fez
+-- c4-v1: E–foi–mal a Yonah mal grande e–irou-se a–ele
+-- c4-v2: E–orou a YHWH e–disse Por–favor YHWH Não–foi esta palavra–minha enquanto estava–eu sobre terra–minha? Sobre isto apressei-me para–fugir para–Tarshish porque sabia que tu Deus gracioso e–misericordioso longo–de iras e–grande–de bondade e–arrependendo-se sobre o–mal
+-- c4-v3: E–agora YHWH toma por–favor (a) alma–minha de–mim porque bom morte–minha que–vida–minha §
+-- c4-v4: E–disse YHWH Bem iras-te tu?
+-- c4-v5: E–saiu Yonah de a–cidade e–sentou-se a–leste–de a–cidade e–fez para–si ali cabana e–sentou-se debaixo–dela na–sombra até que visse o–que seria na–cidade
+-- c4-v6: E–designou YHWH Deus planta e–fez–subir de–sobre de–Yonah para–ser sombra sobre cabeça–dele para–livrar a–ele de–mal–dele e–alegrou-se Yonah sobre a–planta alegria grande
+-- c4-v7: E–designou o–Deus verme ao–subir a–aurora no–dia–seguinte e–feriu (a) a–planta e–secou
+-- c4-v8: E–foi ao–nascer o–sol e–designou Deus vento oriental abrasador e–feriu o–sol sobre cabeça–de Yonah e–desmaiou e–pediu (a) alma–dele para–morrer e–disse Bom morte–minha que–vida–minha
+-- c4-v9: E–disse Deus a Yonah Bem iras-te tu sobre a–planta? E–disse Bem iro-me eu até morte
+-- c4-v10: E–disse YHWH Tu tiveste–pena sobre a–planta que não trabalhaste nela e–não fizeste–crescer–ela que–filho–de noite foi e–filho–de noite pereceu
+-- c4-v11: E–eu não terei–pena sobre Nineveh a–cidade a–grande que há nela muito-mais-que doze dez-mil miríade homem que não sabe entre direita–dele para–esquerda–dele e–animal muito?
 
 BEGIN;
 -- 3200100101: וַֽיְהִי֙ (H1961) → "E–foi" [opus-4.5-chirho]

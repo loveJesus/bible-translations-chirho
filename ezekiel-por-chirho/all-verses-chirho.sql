@@ -3,1281 +3,1281 @@
 -- — John 3:16
 
 -- EZEKIEL - POR Combined
--- Generated: 2026-01-27T21:46:47Z
+-- Generated: 2026-01-27T22:20:07Z
 
--- EZEKIEL c1-v1 - POR
--- EZEKIEL c1-v2 - POR
--- EZEKIEL c1-v3 - POR
--- EZEKIEL c1-v4 - POR
--- EZEKIEL c1-v5 - POR
--- EZEKIEL c1-v6 - POR
--- EZEKIEL c1-v7 - POR
--- EZEKIEL c1-v8 - POR
--- EZEKIEL c1-v9 - POR
--- EZEKIEL c1-v10 - POR
--- EZEKIEL c1-v11 - POR
--- EZEKIEL c1-v12 - POR
--- EZEKIEL c1-v13 - POR
--- EZEKIEL c1-v14 - POR
--- EZEKIEL c1-v15 - POR
--- EZEKIEL c1-v16 - POR
--- EZEKIEL c1-v17 - POR
--- EZEKIEL c1-v18 - POR
--- EZEKIEL c1-v19 - POR
--- EZEKIEL c1-v20 - POR
--- EZEKIEL c1-v21 - POR
--- EZEKIEL c1-v22 - POR
--- EZEKIEL c1-v23 - POR
--- EZEKIEL c1-v24 - POR
--- EZEKIEL c1-v25 - POR
--- EZEKIEL c1-v26 - POR
--- EZEKIEL c1-v27 - POR
--- EZEKIEL c1-v28 - POR
--- EZEKIEL c2-v1 - POR
--- EZEKIEL c2-v2 - POR
--- EZEKIEL c2-v3 - POR
--- EZEKIEL c2-v4 - POR
--- EZEKIEL c2-v5 - POR
--- EZEKIEL c2-v6 - POR
--- EZEKIEL c2-v7 - POR
--- EZEKIEL c2-v8 - POR
--- EZEKIEL c2-v9 - POR
--- EZEKIEL c2-v10 - POR
--- EZEKIEL c3-v1 - POR
--- EZEKIEL c3-v2 - POR
--- EZEKIEL c3-v3 - POR
--- EZEKIEL c3-v4 - POR
--- EZEKIEL c3-v5 - POR
--- EZEKIEL c3-v6 - POR
--- EZEKIEL c3-v7 - POR
--- EZEKIEL c3-v8 - POR
--- EZEKIEL c3-v9 - POR
--- EZEKIEL c3-v10 - POR
--- EZEKIEL c3-v11 - POR
--- EZEKIEL c3-v12 - POR
--- EZEKIEL c3-v13 - POR
--- EZEKIEL c3-v14 - POR
--- EZEKIEL c3-v15 - POR
--- EZEKIEL c3-v16 - POR
--- EZEKIEL c3-v17 - POR
--- EZEKIEL c3-v18 - POR
--- EZEKIEL c3-v19 - POR
--- EZEKIEL c3-v20 - POR
--- EZEKIEL c3-v21 - POR
--- EZEKIEL c3-v22 - POR
--- EZEKIEL c3-v23 - POR
--- EZEKIEL c3-v24 - POR
--- EZEKIEL c3-v25 - POR
--- EZEKIEL c3-v26 - POR
--- EZEKIEL c3-v27 - POR
--- EZEKIEL c4-v1 - POR
--- EZEKIEL c4-v2 - POR
--- EZEKIEL c4-v3 - POR
--- EZEKIEL c4-v4 - POR
--- EZEKIEL c4-v5 - POR
--- EZEKIEL c4-v6 - POR
--- EZEKIEL c4-v7 - POR
--- EZEKIEL c4-v8 - POR
--- EZEKIEL c4-v9 - POR
--- EZEKIEL c4-v10 - POR
--- EZEKIEL c4-v11 - POR
--- EZEKIEL c4-v12 - POR
--- EZEKIEL c4-v13 - POR
--- EZEKIEL c4-v14 - POR
--- EZEKIEL c4-v15 - POR
--- EZEKIEL c4-v16 - POR
--- EZEKIEL c4-v17 - POR
--- EZEKIEL c5-v1 - POR
--- EZEKIEL c5-v2 - POR
--- EZEKIEL c5-v3 - POR
--- EZEKIEL c5-v4 - POR
--- EZEKIEL c5-v5 - POR
--- EZEKIEL c5-v6 - POR
--- EZEKIEL c5-v7 - POR
--- EZEKIEL c5-v8 - POR
--- EZEKIEL c5-v9 - POR
--- EZEKIEL c5-v10 - POR
--- EZEKIEL c5-v11 - POR
--- EZEKIEL c5-v12 - POR
--- EZEKIEL c5-v13 - POR
--- EZEKIEL c5-v14 - POR
--- EZEKIEL c5-v15 - POR
--- EZEKIEL c5-v16 - POR
--- EZEKIEL c5-v17 - POR
--- EZEKIEL c6-v1 - POR
--- EZEKIEL c6-v2 - POR
--- EZEKIEL c6-v3 - POR
--- EZEKIEL c6-v4 - POR
--- EZEKIEL c6-v5 - POR
--- EZEKIEL c6-v6 - POR
--- EZEKIEL c6-v7 - POR
--- EZEKIEL c6-v8 - POR
--- EZEKIEL c6-v9 - POR
--- EZEKIEL c6-v10 - POR
--- EZEKIEL c6-v11 - POR
--- EZEKIEL c6-v12 - POR
--- EZEKIEL c6-v13 - POR
--- EZEKIEL c6-v14 - POR
--- EZEKIEL c7-v1 - POR
--- EZEKIEL c7-v2 - POR
--- EZEKIEL c7-v3 - POR
--- EZEKIEL c7-v4 - POR
--- EZEKIEL c7-v5 - POR
--- EZEKIEL c7-v6 - POR
--- EZEKIEL c7-v7 - POR
--- EZEKIEL c7-v8 - POR
--- EZEKIEL c7-v9 - POR
--- EZEKIEL c7-v10 - POR
--- EZEKIEL c7-v11 - POR
--- EZEKIEL c7-v12 - POR
--- EZEKIEL c7-v13 - POR
--- EZEKIEL c7-v14 - POR
--- EZEKIEL c7-v15 - POR
--- EZEKIEL c7-v16 - POR
--- EZEKIEL c7-v17 - POR
--- EZEKIEL c7-v18 - POR
--- EZEKIEL c7-v19 - POR
--- EZEKIEL c7-v20 - POR
--- EZEKIEL c7-v21 - POR
--- EZEKIEL c7-v22 - POR
--- EZEKIEL c7-v23 - POR
--- EZEKIEL c7-v24 - POR
--- EZEKIEL c7-v25 - POR
--- EZEKIEL c7-v26 - POR
--- EZEKIEL c7-v27 - POR
--- EZEKIEL c8-v1 - POR
--- EZEKIEL c8-v2 - POR
--- EZEKIEL c8-v3 - POR
--- EZEKIEL c8-v4 - POR
--- EZEKIEL c8-v5 - POR
--- EZEKIEL c8-v6 - POR
--- EZEKIEL c8-v7 - POR
--- EZEKIEL c8-v8 - POR
--- EZEKIEL c8-v9 - POR
--- EZEKIEL c8-v10 - POR
--- EZEKIEL c8-v11 - POR
--- EZEKIEL c8-v12 - POR
--- EZEKIEL c8-v13 - POR
--- EZEKIEL c8-v14 - POR
--- EZEKIEL c8-v15 - POR
--- EZEKIEL c8-v16 - POR
--- EZEKIEL c8-v17 - POR
--- EZEKIEL c8-v18 - POR
--- EZEKIEL c9-v1 - POR
--- EZEKIEL c9-v2 - POR
--- EZEKIEL c9-v3 - POR
--- EZEKIEL c9-v4 - POR
--- EZEKIEL c9-v5 - POR
--- EZEKIEL c9-v6 - POR
--- EZEKIEL c9-v7 - POR
--- EZEKIEL c9-v8 - POR
--- EZEKIEL c9-v9 - POR
--- EZEKIEL c9-v10 - POR
--- EZEKIEL c9-v11 - POR
--- EZEKIEL c10-v1 - POR
--- EZEKIEL c10-v2 - POR
--- EZEKIEL c10-v3 - POR
--- EZEKIEL c10-v4 - POR
--- EZEKIEL c10-v5 - POR
--- EZEKIEL c10-v6 - POR
--- EZEKIEL c10-v7 - POR
--- EZEKIEL c10-v8 - POR
--- EZEKIEL c10-v9 - POR
--- EZEKIEL c10-v10 - POR
--- EZEKIEL c10-v11 - POR
--- EZEKIEL c10-v12 - POR
--- EZEKIEL c10-v13 - POR
--- EZEKIEL c10-v14 - POR
--- EZEKIEL c10-v15 - POR
--- EZEKIEL c10-v16 - POR
--- EZEKIEL c10-v17 - POR
--- EZEKIEL c10-v18 - POR
--- EZEKIEL c10-v19 - POR
--- EZEKIEL c10-v20 - POR
--- EZEKIEL c10-v21 - POR
--- EZEKIEL c10-v22 - POR
--- EZEKIEL c11-v1 - POR
--- EZEKIEL c11-v2 - POR
--- EZEKIEL c11-v3 - POR
--- EZEKIEL c11-v4 - POR
--- EZEKIEL c11-v5 - POR
--- EZEKIEL c11-v6 - POR
--- EZEKIEL c11-v7 - POR
--- EZEKIEL c11-v8 - POR
--- EZEKIEL c11-v9 - POR
--- EZEKIEL c11-v10 - POR
--- EZEKIEL c11-v11 - POR
--- EZEKIEL c11-v12 - POR
--- EZEKIEL c11-v13 - POR
--- EZEKIEL c11-v14 - POR
--- EZEKIEL c11-v15 - POR
--- EZEKIEL c11-v16 - POR
--- EZEKIEL c11-v17 - POR
--- EZEKIEL c11-v18 - POR
--- EZEKIEL c11-v19 - POR
--- EZEKIEL c11-v20 - POR
--- EZEKIEL c11-v21 - POR
--- EZEKIEL c11-v22 - POR
--- EZEKIEL c11-v23 - POR
--- EZEKIEL c11-v24 - POR
--- EZEKIEL c11-v25 - POR
--- EZEKIEL c12-v1 - POR
--- EZEKIEL c12-v2 - POR
--- EZEKIEL c12-v3 - POR
--- EZEKIEL c12-v4 - POR
--- EZEKIEL c12-v5 - POR
--- EZEKIEL c12-v6 - POR
--- EZEKIEL c12-v7 - POR
--- EZEKIEL c12-v8 - POR
--- EZEKIEL c12-v9 - POR
--- EZEKIEL c12-v10 - POR
--- EZEKIEL c12-v11 - POR
--- EZEKIEL c12-v12 - POR
--- EZEKIEL c12-v13 - POR
--- EZEKIEL c12-v14 - POR
--- EZEKIEL c12-v15 - POR
--- EZEKIEL c12-v16 - POR
--- EZEKIEL c12-v17 - POR
--- EZEKIEL c12-v18 - POR
--- EZEKIEL c12-v19 - POR
--- EZEKIEL c12-v20 - POR
--- EZEKIEL c12-v21 - POR
--- EZEKIEL c12-v22 - POR
--- EZEKIEL c12-v23 - POR
--- EZEKIEL c12-v24 - POR
--- EZEKIEL c12-v25 - POR
--- EZEKIEL c12-v26 - POR
--- EZEKIEL c12-v27 - POR
--- EZEKIEL c12-v28 - POR
--- EZEKIEL c13-v1 - POR
--- EZEKIEL c13-v2 - POR
--- EZEKIEL c13-v3 - POR
--- EZEKIEL c13-v4 - POR
--- EZEKIEL c13-v5 - POR
--- EZEKIEL c13-v6 - POR
--- EZEKIEL c13-v7 - POR
--- EZEKIEL c13-v8 - POR
--- EZEKIEL c13-v9 - POR
--- EZEKIEL c13-v10 - POR
--- EZEKIEL c13-v11 - POR
--- EZEKIEL c13-v12 - POR
--- EZEKIEL c13-v13 - POR
--- EZEKIEL c13-v14 - POR
--- EZEKIEL c13-v15 - POR
--- EZEKIEL c13-v16 - POR
--- EZEKIEL c13-v17 - POR
--- EZEKIEL c13-v18 - POR
--- EZEKIEL c13-v19 - POR
--- EZEKIEL c13-v20 - POR
--- EZEKIEL c13-v21 - POR
--- EZEKIEL c13-v22 - POR
--- EZEKIEL c13-v23 - POR
--- EZEKIEL c14-v1 - POR
--- EZEKIEL c14-v2 - POR
--- EZEKIEL c14-v3 - POR
--- EZEKIEL c14-v4 - POR
--- EZEKIEL c14-v5 - POR
--- EZEKIEL c14-v6 - POR
--- EZEKIEL c14-v7 - POR
--- EZEKIEL c14-v8 - POR
--- EZEKIEL c14-v9 - POR
--- EZEKIEL c14-v10 - POR
--- EZEKIEL c14-v11 - POR
--- EZEKIEL c14-v12 - POR
--- EZEKIEL c14-v13 - POR
--- EZEKIEL c14-v14 - POR
--- EZEKIEL c14-v15 - POR
--- EZEKIEL c14-v16 - POR
--- EZEKIEL c14-v17 - POR
--- EZEKIEL c14-v18 - POR
--- EZEKIEL c14-v19 - POR
--- EZEKIEL c14-v20 - POR
--- EZEKIEL c14-v21 - POR
--- EZEKIEL c14-v22 - POR
--- EZEKIEL c14-v23 - POR
--- EZEKIEL c15-v1 - POR
--- EZEKIEL c15-v2 - POR
--- EZEKIEL c15-v3 - POR
--- EZEKIEL c15-v4 - POR
--- EZEKIEL c15-v5 - POR
--- EZEKIEL c15-v6 - POR
--- EZEKIEL c15-v7 - POR
--- EZEKIEL c15-v8 - POR
--- EZEKIEL c16-v1 - POR
--- EZEKIEL c16-v2 - POR
--- EZEKIEL c16-v3 - POR
--- EZEKIEL c16-v4 - POR
--- EZEKIEL c16-v5 - POR
--- EZEKIEL c16-v6 - POR
--- EZEKIEL c16-v7 - POR
--- EZEKIEL c16-v8 - POR
--- EZEKIEL c16-v9 - POR
--- EZEKIEL c16-v10 - POR
--- EZEKIEL c16-v11 - POR
--- EZEKIEL c16-v12 - POR
--- EZEKIEL c16-v13 - POR
--- EZEKIEL c16-v14 - POR
--- EZEKIEL c16-v15 - POR
--- EZEKIEL c16-v16 - POR
--- EZEKIEL c16-v17 - POR
--- EZEKIEL c16-v18 - POR
--- EZEKIEL c16-v19 - POR
--- EZEKIEL c16-v20 - POR
--- EZEKIEL c16-v21 - POR
--- EZEKIEL c16-v22 - POR
--- EZEKIEL c16-v23 - POR
--- EZEKIEL c16-v24 - POR
--- EZEKIEL c16-v25 - POR
--- EZEKIEL c16-v26 - POR
--- EZEKIEL c16-v27 - POR
--- EZEKIEL c16-v28 - POR
--- EZEKIEL c16-v29 - POR
--- EZEKIEL c16-v30 - POR
--- EZEKIEL c16-v31 - POR
--- EZEKIEL c16-v32 - POR
--- EZEKIEL c16-v33 - POR
--- EZEKIEL c16-v34 - POR
--- EZEKIEL c16-v35 - POR
--- EZEKIEL c16-v36 - POR
--- EZEKIEL c16-v37 - POR
--- EZEKIEL c16-v38 - POR
--- EZEKIEL c16-v39 - POR
--- EZEKIEL c16-v40 - POR
--- EZEKIEL c16-v41 - POR
--- EZEKIEL c16-v42 - POR
--- EZEKIEL c16-v43 - POR
--- EZEKIEL c16-v44 - POR
--- EZEKIEL c16-v45 - POR
--- EZEKIEL c16-v46 - POR
--- EZEKIEL c16-v47 - POR
--- EZEKIEL c16-v48 - POR
--- EZEKIEL c16-v49 - POR
--- EZEKIEL c16-v50 - POR
--- EZEKIEL c16-v51 - POR
--- EZEKIEL c16-v52 - POR
--- EZEKIEL c16-v53 - POR
--- EZEKIEL c16-v54 - POR
--- EZEKIEL c16-v55 - POR
--- EZEKIEL c16-v56 - POR
--- EZEKIEL c16-v57 - POR
--- EZEKIEL c16-v58 - POR
--- EZEKIEL c16-v59 - POR
--- EZEKIEL c16-v60 - POR
--- EZEKIEL c16-v61 - POR
--- EZEKIEL c16-v62 - POR
--- EZEKIEL c16-v63 - POR
--- EZEKIEL c17-v1 - POR
--- EZEKIEL c17-v2 - POR
--- EZEKIEL c17-v3 - POR
--- EZEKIEL c17-v4 - POR
--- EZEKIEL c17-v5 - POR
--- EZEKIEL c17-v6 - POR
--- EZEKIEL c17-v7 - POR
--- EZEKIEL c17-v8 - POR
--- EZEKIEL c17-v9 - POR
--- EZEKIEL c17-v10 - POR
--- EZEKIEL c17-v11 - POR
--- EZEKIEL c17-v12 - POR
--- EZEKIEL c17-v13 - POR
--- EZEKIEL c17-v14 - POR
--- EZEKIEL c17-v15 - POR
--- EZEKIEL c17-v16 - POR
--- EZEKIEL c17-v17 - POR
--- EZEKIEL c17-v18 - POR
--- EZEKIEL c17-v19 - POR
--- EZEKIEL c17-v20 - POR
--- EZEKIEL c17-v21 - POR
--- EZEKIEL c17-v22 - POR
--- EZEKIEL c17-v23 - POR
--- EZEKIEL c17-v24 - POR
--- EZEKIEL c18-v1 - POR
--- EZEKIEL c18-v2 - POR
--- EZEKIEL c18-v3 - POR
--- EZEKIEL c18-v4 - POR
--- EZEKIEL c18-v5 - POR
--- EZEKIEL c18-v6 - POR
--- EZEKIEL c18-v7 - POR
--- EZEKIEL c18-v8 - POR
--- EZEKIEL c18-v9 - POR
--- EZEKIEL c18-v10 - POR
--- EZEKIEL c18-v11 - POR
--- EZEKIEL c18-v12 - POR
--- EZEKIEL c18-v13 - POR
--- EZEKIEL c18-v14 - POR
--- EZEKIEL c18-v15 - POR
--- EZEKIEL c18-v16 - POR
--- EZEKIEL c18-v17 - POR
--- EZEKIEL c18-v18 - POR
--- EZEKIEL c18-v19 - POR
--- EZEKIEL c18-v20 - POR
--- EZEKIEL c18-v21 - POR
--- EZEKIEL c18-v22 - POR
--- EZEKIEL c18-v23 - POR
--- EZEKIEL c18-v24 - POR
--- EZEKIEL c18-v25 - POR
--- EZEKIEL c18-v26 - POR
--- EZEKIEL c18-v27 - POR
--- EZEKIEL c18-v28 - POR
--- EZEKIEL c18-v29 - POR
--- EZEKIEL c18-v30 - POR
--- EZEKIEL c18-v31 - POR
--- EZEKIEL c18-v32 - POR
--- EZEKIEL c19-v1 - POR
--- EZEKIEL c19-v2 - POR
--- EZEKIEL c19-v3 - POR
--- EZEKIEL c19-v4 - POR
--- EZEKIEL c19-v5 - POR
--- EZEKIEL c19-v6 - POR
--- EZEKIEL c19-v7 - POR
--- EZEKIEL c19-v8 - POR
--- EZEKIEL c19-v9 - POR
--- EZEKIEL c19-v10 - POR
--- EZEKIEL c19-v11 - POR
--- EZEKIEL c19-v12 - POR
--- EZEKIEL c19-v13 - POR
--- EZEKIEL c19-v14 - POR
--- EZEKIEL c20-v1 - POR
--- EZEKIEL c20-v2 - POR
--- EZEKIEL c20-v3 - POR
--- EZEKIEL c20-v4 - POR
--- EZEKIEL c20-v5 - POR
--- EZEKIEL c20-v6 - POR
--- EZEKIEL c20-v7 - POR
--- EZEKIEL c20-v8 - POR
--- EZEKIEL c20-v9 - POR
--- EZEKIEL c20-v10 - POR
--- EZEKIEL c20-v11 - POR
--- EZEKIEL c20-v12 - POR
--- EZEKIEL c20-v13 - POR
--- EZEKIEL c20-v14 - POR
--- EZEKIEL c20-v15 - POR
--- EZEKIEL c20-v16 - POR
--- EZEKIEL c20-v17 - POR
--- EZEKIEL c20-v18 - POR
--- EZEKIEL c20-v19 - POR
--- EZEKIEL c20-v20 - POR
--- EZEKIEL c20-v21 - POR
--- EZEKIEL c20-v22 - POR
--- EZEKIEL c20-v23 - POR
--- EZEKIEL c20-v24 - POR
--- EZEKIEL c20-v25 - POR
--- EZEKIEL c20-v26 - POR
--- EZEKIEL c20-v27 - POR
--- EZEKIEL c20-v28 - POR
--- EZEKIEL c20-v29 - POR
--- EZEKIEL c20-v30 - POR
--- EZEKIEL c20-v31 - POR
--- EZEKIEL c20-v32 - POR
--- EZEKIEL c20-v33 - POR
--- EZEKIEL c20-v34 - POR
--- EZEKIEL c20-v35 - POR
--- EZEKIEL c20-v36 - POR
--- EZEKIEL c20-v37 - POR
--- EZEKIEL c20-v38 - POR
--- EZEKIEL c20-v39 - POR
--- EZEKIEL c20-v40 - POR
--- EZEKIEL c20-v41 - POR
--- EZEKIEL c20-v42 - POR
--- EZEKIEL c20-v43 - POR
--- EZEKIEL c20-v44 - POR
--- EZEKIEL c20-v45 - POR
--- EZEKIEL c20-v46 - POR
--- EZEKIEL c20-v47 - POR
--- EZEKIEL c20-v48 - POR
--- EZEKIEL c20-v49 - POR
--- EZEKIEL c21-v1 - POR
--- EZEKIEL c21-v2 - POR
--- EZEKIEL c21-v3 - POR
--- EZEKIEL c21-v4 - POR
--- EZEKIEL c21-v5 - POR
--- EZEKIEL c21-v6 - POR
--- EZEKIEL c21-v7 - POR
--- EZEKIEL c21-v8 - POR
--- EZEKIEL c21-v9 - POR
--- EZEKIEL c21-v10 - POR
--- EZEKIEL c21-v11 - POR
--- EZEKIEL c21-v12 - POR
--- EZEKIEL c21-v13 - POR
--- EZEKIEL c21-v14 - POR
--- EZEKIEL c21-v15 - POR
--- EZEKIEL c21-v16 - POR
--- EZEKIEL c21-v17 - POR
--- EZEKIEL c21-v18 - POR
--- EZEKIEL c21-v19 - POR
--- EZEKIEL c21-v20 - POR
--- EZEKIEL c21-v21 - POR
--- EZEKIEL c21-v22 - POR
--- EZEKIEL c21-v23 - POR
--- EZEKIEL c21-v24 - POR
--- EZEKIEL c21-v25 - POR
--- EZEKIEL c21-v26 - POR
--- EZEKIEL c21-v27 - POR
--- EZEKIEL c21-v28 - POR
--- EZEKIEL c21-v29 - POR
--- EZEKIEL c21-v30 - POR
--- EZEKIEL c21-v31 - POR
--- EZEKIEL c21-v32 - POR
--- EZEKIEL c22-v1 - POR
--- EZEKIEL c22-v2 - POR
--- EZEKIEL c22-v3 - POR
--- EZEKIEL c22-v4 - POR
--- EZEKIEL c22-v5 - POR
--- EZEKIEL c22-v6 - POR
--- EZEKIEL c22-v7 - POR
--- EZEKIEL c22-v8 - POR
--- EZEKIEL c22-v9 - POR
--- EZEKIEL c22-v10 - POR
--- EZEKIEL c22-v11 - POR
--- EZEKIEL c22-v12 - POR
--- EZEKIEL c22-v13 - POR
--- EZEKIEL c22-v14 - POR
--- EZEKIEL c22-v15 - POR
--- EZEKIEL c22-v16 - POR
--- EZEKIEL c22-v17 - POR
--- EZEKIEL c22-v18 - POR
--- EZEKIEL c22-v19 - POR
--- EZEKIEL c22-v20 - POR
--- EZEKIEL c22-v21 - POR
--- EZEKIEL c22-v22 - POR
--- EZEKIEL c22-v23 - POR
--- EZEKIEL c22-v24 - POR
--- EZEKIEL c22-v25 - POR
--- EZEKIEL c22-v26 - POR
--- EZEKIEL c22-v27 - POR
--- EZEKIEL c22-v28 - POR
--- EZEKIEL c22-v29 - POR
--- EZEKIEL c22-v30 - POR
--- EZEKIEL c22-v31 - POR
--- EZEKIEL c23-v1 - POR
--- EZEKIEL c23-v2 - POR
--- EZEKIEL c23-v3 - POR
--- EZEKIEL c23-v4 - POR
--- EZEKIEL c23-v5 - POR
--- EZEKIEL c23-v6 - POR
--- EZEKIEL c23-v7 - POR
--- EZEKIEL c23-v8 - POR
--- EZEKIEL c23-v9 - POR
--- EZEKIEL c23-v10 - POR
--- EZEKIEL c23-v11 - POR
--- EZEKIEL c23-v12 - POR
--- EZEKIEL c23-v13 - POR
--- EZEKIEL c23-v14 - POR
--- EZEKIEL c23-v15 - POR
--- EZEKIEL c23-v16 - POR
--- EZEKIEL c23-v17 - POR
--- EZEKIEL c23-v18 - POR
--- EZEKIEL c23-v19 - POR
--- EZEKIEL c23-v20 - POR
--- EZEKIEL c23-v21 - POR
--- EZEKIEL c23-v22 - POR
--- EZEKIEL c23-v23 - POR
--- EZEKIEL c23-v24 - POR
--- EZEKIEL c23-v25 - POR
--- EZEKIEL c23-v26 - POR
--- EZEKIEL c23-v27 - POR
--- EZEKIEL c23-v28 - POR
--- EZEKIEL c23-v29 - POR
--- EZEKIEL c23-v30 - POR
--- EZEKIEL c23-v31 - POR
--- EZEKIEL c23-v32 - POR
--- EZEKIEL c23-v33 - POR
--- EZEKIEL c23-v34 - POR
--- EZEKIEL c23-v35 - POR
--- EZEKIEL c23-v36 - POR
--- EZEKIEL c23-v37 - POR
--- EZEKIEL c23-v38 - POR
--- EZEKIEL c23-v39 - POR
--- EZEKIEL c23-v40 - POR
--- EZEKIEL c23-v41 - POR
--- EZEKIEL c23-v42 - POR
--- EZEKIEL c23-v43 - POR
--- EZEKIEL c23-v44 - POR
--- EZEKIEL c23-v45 - POR
--- EZEKIEL c23-v46 - POR
--- EZEKIEL c23-v47 - POR
--- EZEKIEL c23-v48 - POR
--- EZEKIEL c23-v49 - POR
--- EZEKIEL c24-v1 - POR
--- EZEKIEL c24-v2 - POR
--- EZEKIEL c24-v3 - POR
--- EZEKIEL c24-v4 - POR
--- EZEKIEL c24-v5 - POR
--- EZEKIEL c24-v6 - POR
--- EZEKIEL c24-v7 - POR
--- EZEKIEL c24-v8 - POR
--- EZEKIEL c24-v9 - POR
--- EZEKIEL c24-v10 - POR
--- EZEKIEL c24-v11 - POR
--- EZEKIEL c24-v12 - POR
--- EZEKIEL c24-v13 - POR
--- EZEKIEL c24-v14 - POR
--- EZEKIEL c24-v15 - POR
--- EZEKIEL c24-v16 - POR
--- EZEKIEL c24-v17 - POR
--- EZEKIEL c24-v18 - POR
--- EZEKIEL c24-v19 - POR
--- EZEKIEL c24-v20 - POR
--- EZEKIEL c24-v21 - POR
--- EZEKIEL c24-v22 - POR
--- EZEKIEL c24-v23 - POR
--- EZEKIEL c24-v24 - POR
--- EZEKIEL c24-v25 - POR
--- EZEKIEL c24-v26 - POR
--- EZEKIEL c24-v27 - POR
--- EZEKIEL c25-v1 - POR
--- EZEKIEL c25-v2 - POR
--- EZEKIEL c25-v3 - POR
--- EZEKIEL c25-v4 - POR
--- EZEKIEL c25-v5 - POR
--- EZEKIEL c25-v6 - POR
--- EZEKIEL c25-v7 - POR
--- EZEKIEL c25-v8 - POR
--- EZEKIEL c25-v9 - POR
--- EZEKIEL c25-v10 - POR
--- EZEKIEL c25-v11 - POR
--- EZEKIEL c25-v12 - POR
--- EZEKIEL c25-v13 - POR
--- EZEKIEL c25-v14 - POR
--- EZEKIEL c25-v15 - POR
--- EZEKIEL c25-v16 - POR
--- EZEKIEL c25-v17 - POR
--- EZEKIEL c26-v1 - POR
--- EZEKIEL c26-v2 - POR
--- EZEKIEL c26-v3 - POR
--- EZEKIEL c26-v4 - POR
--- EZEKIEL c26-v5 - POR
--- EZEKIEL c26-v6 - POR
--- EZEKIEL c26-v7 - POR
--- EZEKIEL c26-v8 - POR
--- EZEKIEL c26-v9 - POR
--- EZEKIEL c26-v10 - POR
--- EZEKIEL c26-v11 - POR
--- EZEKIEL c26-v12 - POR
--- EZEKIEL c26-v13 - POR
--- EZEKIEL c26-v14 - POR
--- EZEKIEL c26-v15 - POR
--- EZEKIEL c26-v16 - POR
--- EZEKIEL c26-v17 - POR
--- EZEKIEL c26-v18 - POR
--- EZEKIEL c26-v19 - POR
--- EZEKIEL c26-v20 - POR
--- EZEKIEL c26-v21 - POR
--- EZEKIEL c27-v1 - POR
--- EZEKIEL c27-v2 - POR
--- EZEKIEL c27-v3 - POR
--- EZEKIEL c27-v4 - POR
--- EZEKIEL c27-v5 - POR
--- EZEKIEL c27-v6 - POR
--- EZEKIEL c27-v7 - POR
--- EZEKIEL c27-v8 - POR
--- EZEKIEL c27-v9 - POR
--- EZEKIEL c27-v10 - POR
--- EZEKIEL c27-v11 - POR
--- EZEKIEL c27-v12 - POR
--- EZEKIEL c27-v13 - POR
--- EZEKIEL c27-v14 - POR
--- EZEKIEL c27-v15 - POR
--- EZEKIEL c27-v16 - POR
--- EZEKIEL c27-v17 - POR
--- EZEKIEL c27-v18 - POR
--- EZEKIEL c27-v19 - POR
--- EZEKIEL c27-v20 - POR
--- EZEKIEL c27-v21 - POR
--- EZEKIEL c27-v22 - POR
--- EZEKIEL c27-v23 - POR
--- EZEKIEL c27-v24 - POR
--- EZEKIEL c27-v25 - POR
--- EZEKIEL c27-v26 - POR
--- EZEKIEL c27-v27 - POR
--- EZEKIEL c27-v28 - POR
--- EZEKIEL c27-v29 - POR
--- EZEKIEL c27-v30 - POR
--- EZEKIEL c27-v31 - POR
--- EZEKIEL c27-v32 - POR
--- EZEKIEL c27-v33 - POR
--- EZEKIEL c27-v34 - POR
--- EZEKIEL c27-v35 - POR
--- EZEKIEL c27-v36 - POR
--- EZEKIEL c28-v1 - POR
--- EZEKIEL c28-v2 - POR
--- EZEKIEL c28-v3 - POR
--- EZEKIEL c28-v4 - POR
--- EZEKIEL c28-v5 - POR
--- EZEKIEL c28-v6 - POR
--- EZEKIEL c28-v7 - POR
--- EZEKIEL c28-v8 - POR
--- EZEKIEL c28-v9 - POR
--- EZEKIEL c28-v10 - POR
--- EZEKIEL c28-v11 - POR
--- EZEKIEL c28-v12 - POR
--- EZEKIEL c28-v13 - POR
--- EZEKIEL c28-v14 - POR
--- EZEKIEL c28-v15 - POR
--- EZEKIEL c28-v16 - POR
--- EZEKIEL c28-v17 - POR
--- EZEKIEL c28-v18 - POR
--- EZEKIEL c28-v19 - POR
--- EZEKIEL c28-v20 - POR
--- EZEKIEL c28-v21 - POR
--- EZEKIEL c28-v22 - POR
--- EZEKIEL c28-v23 - POR
--- EZEKIEL c28-v24 - POR
--- EZEKIEL c28-v25 - POR
--- EZEKIEL c28-v26 - POR
--- EZEKIEL c29-v1 - POR
--- EZEKIEL c29-v2 - POR
--- EZEKIEL c29-v3 - POR
--- EZEKIEL c29-v4 - POR
--- EZEKIEL c29-v5 - POR
--- EZEKIEL c29-v6 - POR
--- EZEKIEL c29-v7 - POR
--- EZEKIEL c29-v8 - POR
--- EZEKIEL c29-v9 - POR
--- EZEKIEL c29-v10 - POR
--- EZEKIEL c29-v11 - POR
--- EZEKIEL c29-v12 - POR
--- EZEKIEL c29-v13 - POR
--- EZEKIEL c29-v14 - POR
--- EZEKIEL c29-v15 - POR
--- EZEKIEL c29-v16 - POR
--- EZEKIEL c29-v17 - POR
--- EZEKIEL c29-v18 - POR
--- EZEKIEL c29-v19 - POR
--- EZEKIEL c29-v20 - POR
--- EZEKIEL c29-v21 - POR
--- EZEKIEL c30-v1 - POR
--- EZEKIEL c30-v2 - POR
--- EZEKIEL c30-v3 - POR
--- EZEKIEL c30-v4 - POR
--- EZEKIEL c30-v5 - POR
--- EZEKIEL c30-v6 - POR
--- EZEKIEL c30-v7 - POR
--- EZEKIEL c30-v8 - POR
--- EZEKIEL c30-v9 - POR
--- EZEKIEL c30-v10 - POR
--- EZEKIEL c30-v11 - POR
--- EZEKIEL c30-v12 - POR
--- EZEKIEL c30-v13 - POR
--- EZEKIEL c30-v14 - POR
--- EZEKIEL c30-v15 - POR
--- EZEKIEL c30-v16 - POR
--- EZEKIEL c30-v17 - POR
--- EZEKIEL c30-v18 - POR
--- EZEKIEL c30-v19 - POR
--- EZEKIEL c30-v20 - POR
--- EZEKIEL c30-v21 - POR
--- EZEKIEL c30-v22 - POR
--- EZEKIEL c30-v23 - POR
--- EZEKIEL c30-v24 - POR
--- EZEKIEL c30-v25 - POR
--- EZEKIEL c30-v26 - POR
--- EZEKIEL c31-v1 - POR
--- EZEKIEL c31-v2 - POR
--- EZEKIEL c31-v3 - POR
--- EZEKIEL c31-v4 - POR
--- EZEKIEL c31-v5 - POR
--- EZEKIEL c31-v6 - POR
--- EZEKIEL c31-v7 - POR
--- EZEKIEL c31-v8 - POR
--- EZEKIEL c31-v9 - POR
--- EZEKIEL c31-v10 - POR
--- EZEKIEL c31-v11 - POR
--- EZEKIEL c31-v12 - POR
--- EZEKIEL c31-v13 - POR
--- EZEKIEL c31-v14 - POR
--- EZEKIEL c31-v15 - POR
--- EZEKIEL c31-v16 - POR
--- EZEKIEL c31-v17 - POR
--- EZEKIEL c31-v18 - POR
--- EZEKIEL c32-v1 - POR
--- EZEKIEL c32-v2 - POR
--- EZEKIEL c32-v3 - POR
--- EZEKIEL c32-v4 - POR
--- EZEKIEL c32-v5 - POR
--- EZEKIEL c32-v6 - POR
--- EZEKIEL c32-v7 - POR
--- EZEKIEL c32-v8 - POR
--- EZEKIEL c32-v9 - POR
--- EZEKIEL c32-v10 - POR
--- EZEKIEL c32-v11 - POR
--- EZEKIEL c32-v12 - POR
--- EZEKIEL c32-v13 - POR
--- EZEKIEL c32-v14 - POR
--- EZEKIEL c32-v15 - POR
--- EZEKIEL c32-v16 - POR
--- EZEKIEL c32-v17 - POR
--- EZEKIEL c32-v18 - POR
--- EZEKIEL c32-v19 - POR
--- EZEKIEL c32-v20 - POR
--- EZEKIEL c32-v21 - POR
--- EZEKIEL c32-v22 - POR
--- EZEKIEL c32-v23 - POR
--- EZEKIEL c32-v24 - POR
--- EZEKIEL c32-v25 - POR
--- EZEKIEL c32-v26 - POR
--- EZEKIEL c32-v27 - POR
--- EZEKIEL c32-v28 - POR
--- EZEKIEL c32-v29 - POR
--- EZEKIEL c32-v30 - POR
--- EZEKIEL c32-v31 - POR
--- EZEKIEL c32-v32 - POR
--- EZEKIEL c33-v1 - POR
--- EZEKIEL c33-v2 - POR
--- EZEKIEL c33-v3 - POR
--- EZEKIEL c33-v4 - POR
--- EZEKIEL c33-v5 - POR
--- EZEKIEL c33-v6 - POR
--- EZEKIEL c33-v7 - POR
--- EZEKIEL c33-v8 - POR
--- EZEKIEL c33-v9 - POR
--- EZEKIEL c33-v10 - POR
--- EZEKIEL c33-v11 - POR
--- EZEKIEL c33-v12 - POR
--- EZEKIEL c33-v13 - POR
--- EZEKIEL c33-v14 - POR
--- EZEKIEL c33-v15 - POR
--- EZEKIEL c33-v16 - POR
--- EZEKIEL c33-v17 - POR
--- EZEKIEL c33-v18 - POR
--- EZEKIEL c33-v19 - POR
--- EZEKIEL c33-v20 - POR
--- EZEKIEL c33-v21 - POR
--- EZEKIEL c33-v22 - POR
--- EZEKIEL c33-v23 - POR
--- EZEKIEL c33-v24 - POR
--- EZEKIEL c33-v25 - POR
--- EZEKIEL c33-v26 - POR
--- EZEKIEL c33-v27 - POR
--- EZEKIEL c33-v28 - POR
--- EZEKIEL c33-v29 - POR
--- EZEKIEL c33-v30 - POR
--- EZEKIEL c33-v31 - POR
--- EZEKIEL c33-v32 - POR
--- EZEKIEL c33-v33 - POR
--- EZEKIEL c34-v1 - POR
--- EZEKIEL c34-v2 - POR
--- EZEKIEL c34-v3 - POR
--- EZEKIEL c34-v4 - POR
--- EZEKIEL c34-v5 - POR
--- EZEKIEL c34-v6 - POR
--- EZEKIEL c34-v7 - POR
--- EZEKIEL c34-v8 - POR
--- EZEKIEL c34-v9 - POR
--- EZEKIEL c34-v10 - POR
--- EZEKIEL c34-v11 - POR
--- EZEKIEL c34-v12 - POR
--- EZEKIEL c34-v13 - POR
--- EZEKIEL c34-v14 - POR
--- EZEKIEL c34-v15 - POR
--- EZEKIEL c34-v16 - POR
--- EZEKIEL c34-v17 - POR
--- EZEKIEL c34-v18 - POR
--- EZEKIEL c34-v19 - POR
--- EZEKIEL c34-v20 - POR
--- EZEKIEL c34-v21 - POR
--- EZEKIEL c34-v22 - POR
--- EZEKIEL c34-v23 - POR
--- EZEKIEL c34-v24 - POR
--- EZEKIEL c34-v25 - POR
--- EZEKIEL c34-v26 - POR
--- EZEKIEL c34-v27 - POR
--- EZEKIEL c34-v28 - POR
--- EZEKIEL c34-v29 - POR
--- EZEKIEL c34-v30 - POR
--- EZEKIEL c34-v31 - POR
--- EZEKIEL c35-v1 - POR
--- EZEKIEL c35-v2 - POR
--- EZEKIEL c35-v3 - POR
--- EZEKIEL c35-v4 - POR
--- EZEKIEL c35-v5 - POR
--- EZEKIEL c35-v6 - POR
--- EZEKIEL c35-v7 - POR
--- EZEKIEL c35-v8 - POR
--- EZEKIEL c35-v9 - POR
--- EZEKIEL c35-v10 - POR
--- EZEKIEL c35-v11 - POR
--- EZEKIEL c35-v12 - POR
--- EZEKIEL c35-v13 - POR
--- EZEKIEL c35-v14 - POR
--- EZEKIEL c35-v15 - POR
--- EZEKIEL c36-v1 - POR
--- EZEKIEL c36-v2 - POR
--- EZEKIEL c36-v3 - POR
--- EZEKIEL c36-v4 - POR
--- EZEKIEL c36-v5 - POR
--- EZEKIEL c36-v6 - POR
--- EZEKIEL c36-v7 - POR
--- EZEKIEL c36-v8 - POR
--- EZEKIEL c36-v9 - POR
--- EZEKIEL c36-v10 - POR
--- EZEKIEL c36-v11 - POR
--- EZEKIEL c36-v12 - POR
--- EZEKIEL c36-v13 - POR
--- EZEKIEL c36-v14 - POR
--- EZEKIEL c36-v15 - POR
--- EZEKIEL c36-v16 - POR
--- EZEKIEL c36-v17 - POR
--- EZEKIEL c36-v18 - POR
--- EZEKIEL c36-v19 - POR
--- EZEKIEL c36-v20 - POR
--- EZEKIEL c36-v21 - POR
--- EZEKIEL c36-v22 - POR
--- EZEKIEL c36-v23 - POR
--- EZEKIEL c36-v24 - POR
--- EZEKIEL c36-v25 - POR
--- EZEKIEL c36-v26 - POR
--- EZEKIEL c36-v27 - POR
--- EZEKIEL c36-v28 - POR
--- EZEKIEL c36-v29 - POR
--- EZEKIEL c36-v30 - POR
--- EZEKIEL c36-v31 - POR
--- EZEKIEL c36-v32 - POR
--- EZEKIEL c36-v33 - POR
--- EZEKIEL c36-v34 - POR
--- EZEKIEL c36-v35 - POR
--- EZEKIEL c36-v36 - POR
--- EZEKIEL c36-v37 - POR
--- EZEKIEL c36-v38 - POR
--- EZEKIEL c37-v1 - POR
--- EZEKIEL c37-v2 - POR
--- EZEKIEL c37-v3 - POR
--- EZEKIEL c37-v4 - POR
--- EZEKIEL c37-v5 - POR
--- EZEKIEL c37-v6 - POR
--- EZEKIEL c37-v7 - POR
--- EZEKIEL c37-v8 - POR
--- EZEKIEL c37-v9 - POR
--- EZEKIEL c37-v10 - POR
--- EZEKIEL c37-v11 - POR
--- EZEKIEL c37-v12 - POR
--- EZEKIEL c37-v13 - POR
--- EZEKIEL c37-v14 - POR
--- EZEKIEL c37-v15 - POR
--- EZEKIEL c37-v16 - POR
--- EZEKIEL c37-v17 - POR
--- EZEKIEL c37-v18 - POR
--- EZEKIEL c37-v19 - POR
--- EZEKIEL c37-v20 - POR
--- EZEKIEL c37-v21 - POR
--- EZEKIEL c37-v22 - POR
--- EZEKIEL c37-v23 - POR
--- EZEKIEL c37-v24 - POR
--- EZEKIEL c37-v25 - POR
--- EZEKIEL c37-v26 - POR
--- EZEKIEL c37-v27 - POR
--- EZEKIEL c37-v28 - POR
--- EZEKIEL c38-v1 - POR
--- EZEKIEL c38-v2 - POR
--- EZEKIEL c38-v3 - POR
--- EZEKIEL c38-v4 - POR
--- EZEKIEL c38-v5 - POR
--- EZEKIEL c38-v6 - POR
--- EZEKIEL c38-v7 - POR
--- EZEKIEL c38-v8 - POR
--- EZEKIEL c38-v9 - POR
--- EZEKIEL c38-v10 - POR
--- EZEKIEL c38-v11 - POR
--- EZEKIEL c38-v12 - POR
--- EZEKIEL c38-v13 - POR
--- EZEKIEL c38-v14 - POR
--- EZEKIEL c38-v15 - POR
--- EZEKIEL c38-v16 - POR
--- EZEKIEL c38-v17 - POR
--- EZEKIEL c38-v18 - POR
--- EZEKIEL c38-v19 - POR
--- EZEKIEL c38-v20 - POR
--- EZEKIEL c38-v21 - POR
--- EZEKIEL c38-v22 - POR
--- EZEKIEL c38-v23 - POR
--- EZEKIEL c39-v1 - POR
--- EZEKIEL c39-v2 - POR
--- EZEKIEL c39-v3 - POR
--- EZEKIEL c39-v4 - POR
--- EZEKIEL c39-v5 - POR
--- EZEKIEL c39-v6 - POR
--- EZEKIEL c39-v7 - POR
--- EZEKIEL c39-v8 - POR
--- EZEKIEL c39-v9 - POR
--- EZEKIEL c39-v10 - POR
--- EZEKIEL c39-v11 - POR
--- EZEKIEL c39-v12 - POR
--- EZEKIEL c39-v13 - POR
--- EZEKIEL c39-v14 - POR
--- EZEKIEL c39-v15 - POR
--- EZEKIEL c39-v16 - POR
--- EZEKIEL c39-v17 - POR
--- EZEKIEL c39-v18 - POR
--- EZEKIEL c39-v19 - POR
--- EZEKIEL c39-v20 - POR
--- EZEKIEL c39-v21 - POR
--- EZEKIEL c39-v22 - POR
--- EZEKIEL c39-v23 - POR
--- EZEKIEL c39-v24 - POR
--- EZEKIEL c39-v25 - POR
--- EZEKIEL c39-v26 - POR
--- EZEKIEL c39-v27 - POR
--- EZEKIEL c39-v28 - POR
--- EZEKIEL c39-v29 - POR
--- EZEKIEL c40-v1 - POR
--- EZEKIEL c40-v2 - POR
--- EZEKIEL c40-v3 - POR
--- EZEKIEL c40-v4 - POR
--- EZEKIEL c40-v5 - POR
--- EZEKIEL c40-v6 - POR
--- EZEKIEL c40-v7 - POR
--- EZEKIEL c40-v8 - POR
--- EZEKIEL c40-v9 - POR
--- EZEKIEL c40-v10 - POR
--- EZEKIEL c40-v11 - POR
--- EZEKIEL c40-v12 - POR
--- EZEKIEL c40-v13 - POR
--- EZEKIEL c40-v14 - POR
--- EZEKIEL c40-v15 - POR
--- EZEKIEL c40-v16 - POR
--- EZEKIEL c40-v17 - POR
--- EZEKIEL c40-v18 - POR
--- EZEKIEL c40-v19 - POR
--- EZEKIEL c40-v20 - POR
--- EZEKIEL c40-v21 - POR
--- EZEKIEL c40-v22 - POR
--- EZEKIEL c40-v23 - POR
--- EZEKIEL c40-v24 - POR
--- EZEKIEL c40-v25 - POR
--- EZEKIEL c40-v26 - POR
--- EZEKIEL c40-v27 - POR
--- EZEKIEL c40-v28 - POR
--- EZEKIEL c40-v29 - POR
--- EZEKIEL c40-v30 - POR
--- EZEKIEL c40-v31 - POR
--- EZEKIEL c40-v32 - POR
--- EZEKIEL c40-v33 - POR
--- EZEKIEL c40-v34 - POR
--- EZEKIEL c40-v35 - POR
--- EZEKIEL c40-v36 - POR
--- EZEKIEL c40-v37 - POR
--- EZEKIEL c40-v38 - POR
--- EZEKIEL c40-v39 - POR
--- EZEKIEL c40-v40 - POR
--- EZEKIEL c40-v41 - POR
--- EZEKIEL c40-v42 - POR
--- EZEKIEL c40-v43 - POR
--- EZEKIEL c40-v44 - POR
--- EZEKIEL c40-v45 - POR
--- EZEKIEL c40-v46 - POR
--- EZEKIEL c40-v47 - POR
--- EZEKIEL c40-v48 - POR
--- EZEKIEL c40-v49 - POR
--- EZEKIEL c41-v1 - POR
--- EZEKIEL c41-v2 - POR
--- EZEKIEL c41-v3 - POR
--- EZEKIEL c41-v4 - POR
--- EZEKIEL c41-v5 - POR
--- EZEKIEL c41-v6 - POR
--- EZEKIEL c41-v7 - POR
--- EZEKIEL c41-v8 - POR
--- EZEKIEL c41-v9 - POR
--- EZEKIEL c41-v10 - POR
--- EZEKIEL c41-v11 - POR
--- EZEKIEL c41-v12 - POR
--- EZEKIEL c41-v13 - POR
--- EZEKIEL c41-v14 - POR
--- EZEKIEL c41-v15 - POR
--- EZEKIEL c41-v16 - POR
--- EZEKIEL c41-v17 - POR
--- EZEKIEL c41-v18 - POR
--- EZEKIEL c41-v19 - POR
--- EZEKIEL c41-v20 - POR
--- EZEKIEL c41-v21 - POR
--- EZEKIEL c41-v22 - POR
--- EZEKIEL c41-v23 - POR
--- EZEKIEL c41-v24 - POR
--- EZEKIEL c41-v25 - POR
--- EZEKIEL c41-v26 - POR
--- EZEKIEL c42-v1 - POR
--- EZEKIEL c42-v2 - POR
--- EZEKIEL c42-v3 - POR
--- EZEKIEL c42-v4 - POR
--- EZEKIEL c42-v5 - POR
--- EZEKIEL c42-v6 - POR
--- EZEKIEL c42-v7 - POR
--- EZEKIEL c42-v8 - POR
--- EZEKIEL c42-v9 - POR
--- EZEKIEL c42-v10 - POR
--- EZEKIEL c42-v11 - POR
--- EZEKIEL c42-v12 - POR
--- EZEKIEL c42-v13 - POR
--- EZEKIEL c42-v14 - POR
--- EZEKIEL c42-v15 - POR
--- EZEKIEL c42-v16 - POR
--- EZEKIEL c42-v17 - POR
--- EZEKIEL c42-v18 - POR
--- EZEKIEL c42-v19 - POR
--- EZEKIEL c42-v20 - POR
--- EZEKIEL c43-v1 - POR
--- EZEKIEL c43-v2 - POR
--- EZEKIEL c43-v3 - POR
--- EZEKIEL c43-v4 - POR
--- EZEKIEL c43-v5 - POR
--- EZEKIEL c43-v6 - POR
--- EZEKIEL c43-v7 - POR
--- EZEKIEL c43-v8 - POR
--- EZEKIEL c43-v9 - POR
--- EZEKIEL c43-v10 - POR
--- EZEKIEL c43-v11 - POR
--- EZEKIEL c43-v12 - POR
--- EZEKIEL c43-v13 - POR
--- EZEKIEL c43-v14 - POR
--- EZEKIEL c43-v15 - POR
--- EZEKIEL c43-v16 - POR
--- EZEKIEL c43-v17 - POR
--- EZEKIEL c43-v18 - POR
--- EZEKIEL c43-v19 - POR
--- EZEKIEL c43-v20 - POR
--- EZEKIEL c43-v21 - POR
--- EZEKIEL c43-v22 - POR
--- EZEKIEL c43-v23 - POR
--- EZEKIEL c43-v24 - POR
--- EZEKIEL c43-v25 - POR
--- EZEKIEL c43-v26 - POR
--- EZEKIEL c43-v27 - POR
--- EZEKIEL c44-v1 - POR
--- EZEKIEL c44-v2 - POR
--- EZEKIEL c44-v3 - POR
--- EZEKIEL c44-v4 - POR
--- EZEKIEL c44-v5 - POR
--- EZEKIEL c44-v6 - POR
--- EZEKIEL c44-v7 - POR
--- EZEKIEL c44-v8 - POR
--- EZEKIEL c44-v9 - POR
--- EZEKIEL c44-v10 - POR
--- EZEKIEL c44-v11 - POR
--- EZEKIEL c44-v12 - POR
--- EZEKIEL c44-v13 - POR
--- EZEKIEL c44-v14 - POR
--- EZEKIEL c44-v15 - POR
--- EZEKIEL c44-v16 - POR
--- EZEKIEL c44-v17 - POR
--- EZEKIEL c44-v18 - POR
--- EZEKIEL c44-v19 - POR
--- EZEKIEL c44-v20 - POR
--- EZEKIEL c44-v21 - POR
--- EZEKIEL c44-v22 - POR
--- EZEKIEL c44-v23 - POR
--- EZEKIEL c44-v24 - POR
--- EZEKIEL c44-v25 - POR
--- EZEKIEL c44-v26 - POR
--- EZEKIEL c44-v27 - POR
--- EZEKIEL c44-v28 - POR
--- EZEKIEL c44-v29 - POR
--- EZEKIEL c44-v30 - POR
--- EZEKIEL c44-v31 - POR
--- EZEKIEL c45-v1 - POR
--- EZEKIEL c45-v2 - POR
--- EZEKIEL c45-v3 - POR
--- EZEKIEL c45-v4 - POR
--- EZEKIEL c45-v5 - POR
--- EZEKIEL c45-v6 - POR
--- EZEKIEL c45-v7 - POR
--- EZEKIEL c45-v8 - POR
--- EZEKIEL c45-v9 - POR
--- EZEKIEL c45-v10 - POR
--- EZEKIEL c45-v11 - POR
--- EZEKIEL c45-v12 - POR
--- EZEKIEL c45-v13 - POR
--- EZEKIEL c45-v14 - POR
--- EZEKIEL c45-v15 - POR
--- EZEKIEL c45-v16 - POR
--- EZEKIEL c45-v17 - POR
--- EZEKIEL c45-v18 - POR
--- EZEKIEL c45-v19 - POR
--- EZEKIEL c45-v20 - POR
--- EZEKIEL c45-v21 - POR
--- EZEKIEL c45-v22 - POR
--- EZEKIEL c45-v23 - POR
--- EZEKIEL c45-v24 - POR
--- EZEKIEL c45-v25 - POR
--- EZEKIEL c46-v1 - POR
--- EZEKIEL c46-v2 - POR
--- EZEKIEL c46-v3 - POR
--- EZEKIEL c46-v4 - POR
--- EZEKIEL c46-v5 - POR
--- EZEKIEL c46-v6 - POR
--- EZEKIEL c46-v7 - POR
--- EZEKIEL c46-v8 - POR
--- EZEKIEL c46-v9 - POR
--- EZEKIEL c46-v10 - POR
--- EZEKIEL c46-v11 - POR
--- EZEKIEL c46-v12 - POR
--- EZEKIEL c46-v13 - POR
--- EZEKIEL c46-v14 - POR
--- EZEKIEL c46-v15 - POR
--- EZEKIEL c46-v16 - POR
--- EZEKIEL c46-v17 - POR
--- EZEKIEL c46-v18 - POR
--- EZEKIEL c46-v19 - POR
--- EZEKIEL c46-v20 - POR
--- EZEKIEL c46-v21 - POR
--- EZEKIEL c46-v22 - POR
--- EZEKIEL c46-v23 - POR
--- EZEKIEL c46-v24 - POR
--- EZEKIEL c47-v1 - POR
--- EZEKIEL c47-v2 - POR
--- EZEKIEL c47-v3 - POR
--- EZEKIEL c47-v4 - POR
--- EZEKIEL c47-v5 - POR
--- EZEKIEL c47-v6 - POR
--- EZEKIEL c47-v7 - POR
--- EZEKIEL c47-v8 - POR
--- EZEKIEL c47-v9 - POR
--- EZEKIEL c47-v10 - POR
--- EZEKIEL c47-v11 - POR
--- EZEKIEL c47-v12 - POR
--- EZEKIEL c47-v13 - POR
--- EZEKIEL c47-v14 - POR
--- EZEKIEL c47-v15 - POR
--- EZEKIEL c47-v16 - POR
--- EZEKIEL c47-v17 - POR
--- EZEKIEL c47-v18 - POR
--- EZEKIEL c47-v19 - POR
--- EZEKIEL c47-v20 - POR
--- EZEKIEL c47-v21 - POR
--- EZEKIEL c47-v22 - POR
--- EZEKIEL c47-v23 - POR
--- EZEKIEL c48-v1 - POR
--- EZEKIEL c48-v2 - POR
--- EZEKIEL c48-v3 - POR
--- EZEKIEL c48-v4 - POR
--- EZEKIEL c48-v5 - POR
--- EZEKIEL c48-v6 - POR
--- EZEKIEL c48-v7 - POR
--- EZEKIEL c48-v8 - POR
--- EZEKIEL c48-v9 - POR
--- EZEKIEL c48-v10 - POR
--- EZEKIEL c48-v11 - POR
--- EZEKIEL c48-v12 - POR
--- EZEKIEL c48-v13 - POR
--- EZEKIEL c48-v14 - POR
--- EZEKIEL c48-v15 - POR
--- EZEKIEL c48-v16 - POR
--- EZEKIEL c48-v17 - POR
--- EZEKIEL c48-v18 - POR
--- EZEKIEL c48-v19 - POR
--- EZEKIEL c48-v20 - POR
--- EZEKIEL c48-v21 - POR
--- EZEKIEL c48-v22 - POR
--- EZEKIEL c48-v23 - POR
--- EZEKIEL c48-v24 - POR
--- EZEKIEL c48-v25 - POR
--- EZEKIEL c48-v26 - POR
--- EZEKIEL c48-v27 - POR
--- EZEKIEL c48-v28 - POR
--- EZEKIEL c48-v29 - POR
--- EZEKIEL c48-v30 - POR
--- EZEKIEL c48-v31 - POR
--- EZEKIEL c48-v32 - POR
--- EZEKIEL c48-v33 - POR
--- EZEKIEL c48-v34 - POR
--- EZEKIEL c48-v35 - POR
+-- c1-v1: E–foi em–trinta ano no–quarto no–quinto do–mês e–eu no–meio–de os–exilados sobre rio–de Kevar abriram-se os–céus e–vi visões–de Elohim
+-- c1-v2: No–quinto do–mês ela o–ano o–quinto para–exílio–de o–rei Yoyakhin
+-- c1-v3: certamente foi palavra–de YHWH a Yechezqel filho–de Buzi o–sacerdote na–terra–de kasdim sobre rio–de Kevar e–foi sobre–ele lá mão–de YHWH
+-- c1-v4: E–vi e–eis vento–de tempestade vindo de o–norte nuvem grande e–fogo relampejando e–brilho para–ele ao–redor e–do–seu–meio como–aparência–de o–chashmal do–meio–de o–fogo
+-- c1-v5: E–do–seu–meio semelhança–de quatro seres–viventes e–esta aparência–deles semelhança–de homem para–eles
+-- c1-v6: E–quatro faces para–um e–quatro asas para–um para–eles
+-- c1-v7: E–pernas–deles perna reta e–planta–de pés–deles como–planta–de pé–de bezerro e–brilhando como–aparência–de bronze polido
+-- c1-v8: [e–mão–dele] (e–mãos–de) homem debaixo–de asas–deles sobre quatro–de lados–deles e–faces–deles e–asas–deles para–os–quatro–deles
+-- c1-v9: unidas mulher a irmã–dela asas–deles não viravam ao–andarem homem a lado–de face–dele andavam
+-- c1-v10: E–semelhança–de faces–deles face–de homem e–face–de leão a a–direita para–os–quatro–deles e–face–de boi da–esquerda para–os–quatro–delas e–face–de águia para–os–quatro–delas
+-- c1-v11: E–faces–deles e–asas–deles separadas de–cima para–homem duas unidas homem e–duas cobrindo (a) corpos–deles
+-- c1-v12: E–homem a lado–de face–dele andavam a onde seria lá o–espírito para–andar andavam não viravam ao–andarem
+-- c1-v13: E–semelhança–de os–seres–viventes aparência–deles como–brasas–de fogo queimando como–aparência–de as–tochas ela movendo-se entre os–seres–viventes e–brilho para–o–fogo e–de o–fogo saindo relâmpago
+-- c1-v14: E–os–seres–viventes correndo e–voltando como–aparência–de o–raio
+-- c1-v15: E–vi os–seres–viventes e–eis roda uma na–terra junto–a os–seres–viventes para–quatro–de faces–dele
+-- c1-v16: Aparência–de as–rodas e–obra–delas como–aparência–de crisólito e–semelhança–de um para–as–quatro–delas e–aparência–delas e–obra–delas como–que seria a–roda no–meio–de a–roda
+-- c1-v17: Sobre quatro–de lados–delas ao–andarem andavam não viravam ao–andarem
+-- c1-v18: E–aros–delas e–altura para–elas e–temor para–elas e–aros–delas cheios–de olhos ao–redor para–as–quatro–delas
+-- c1-v19: E–ao–andar os–seres–viventes andavam as–rodas junto–a–elas e–ao–elevarem-se os–seres–viventes de–sobre a–terra elevavam-se as–rodas
+-- c1-v20: Para onde seria lá o–espírito para–andar andavam lá o–espírito para–andar e–as–rodas elevavam-se junto–a–eles porque espírito–de o–ser–vivente nas–rodas
+-- c1-v21: Ao–andarem andavam e–ao–pararem paravam e–ao–elevarem-se de–sobre a–terra elevavam-se as–rodas junto–a–eles porque espírito–de o–ser–vivente nas–rodas
+-- c1-v22: E–semelhança sobre cabeças–de o–ser–vivente firmamento como–aparência–de o–gelo o–terrível estendido sobre cabeças–deles de–cima
+-- c1-v23: E–debaixo–de o–firmamento asas–deles retas mulher a irmã–dela para–homem duas cobrindo para–elas e–para–homem duas cobrindo para–elas (a) corpos–deles
+-- c1-v24: E–ouvi (a) som–de asas–deles como–som–de águas muitas como–som–de Shaddai ao–andarem som–de tumulto como–som–de acampamento ao–pararem baixavam asas–delas
+-- c1-v25: E–havia som de–sobre para–o–firmamento que sobre cabeça–deles ao–pararem baixavam asas–delas
+-- c1-v26: E–de–acima para–o–firmamento que sobre cabeça–deles como–aparência–de pedra–de safira semelhança–de trono e–sobre semelhança–de o–trono semelhança como–aparência–de homem sobre–ele de–cima
+-- c1-v27: E–vi como–aparência–de chashmal como–aparência–de fogo casa–de para–ela ao–redor de–aparência–de lombos–dele e–para–cima e–de–aparência–de lombos–dele e–para–baixo vi como–aparência–de fogo e–brilho para–ele ao–redor
+-- c1-v28: Como–aparência–de o–arco que está na–nuvem em–dia–de a–chuva assim aparência–de o–brilho ao–redor ele aparência–de semelhança–de glória–de YHWH e–vi e–caí sobre face–minha e–ouvi voz falando §
+-- c2-v1: E–disse a–mim filho–de homem levanta sobre pés–teus e–falarei (a)–ti
+-- c2-v2: E–entrou em–mim espírito quando falou a–mim e–pôs-me-de-pé sobre pés–meus e–ouvi (a) o–que–falava a–mim ¶
+-- c2-v3: E–disse a–mim filho–de homem enviando eu (a)–ti a filhos–de Yisrael a nações as–rebeldes que rebelaram contra–mim eles e–pais–deles transgrediram contra–mim até essência–de o–dia o–este
+-- c2-v4: E–os–filhos duros–de face e–fortes–de coração eu enviando (a)–ti a–eles e–dirás a–eles assim disse Adonai YHWH
+-- c2-v5: E–eles se ouvirem e–se cessarem porque casa–de rebelião eles e–saberão que profeta estava no–meio–deles ¶
+-- c2-v6: E–tu filho–de homem não temas deles e–de–palavras–deles não temas porque espinhos e–abrolhos (a)–ti e–com escorpiões tu habitando de–palavras–deles não temas e–de–faces–deles não te–espantes porque casa–de rebelião eles
+-- c2-v7: E–falarás (a) palavras–minhas a–eles se ouvirem e–se cessarem porque rebelião eles ¶
+-- c2-v8: E–tu filho–de homem ouve (a) o–que eu falando a–ti não sejas rebelião como–casa–de a–rebelião abre boca–tua e–come (a) o–que eu dando a–ti
+-- c2-v9: E–vi e–eis mão estendida a–mim e–eis nela rolo–de livro
+-- c2-v10: E–abriu (a)–ele diante–de–mim e–ele escrito frente e–costas e–escrito nele lamentações e–gemido e–ai §
+-- c3-v1: E–disse a–mim filho–de homem (a) o–que encontrares come come (a) o–rolo o–este e–vai fala a casa–de Yisrael
+-- c3-v2: E–abri (a) boca–minha e–alimentou-me (a) o–rolo o–este
+-- c3-v3: E–disse a–mim filho–de homem ventre–teu comerá e–entranhas–tuas encherás (a) o–rolo o–este que eu dando a–ti e–comi e–foi em–boca–minha como–mel para–doçura ¶
+-- c3-v4: E–disse a–mim filho–de homem vai entra a casa–de Yisrael e–falarás com–palavras–minhas a–eles
+-- c3-v5: Porque não a povo profundos–de lábio e–pesados–de língua tu enviado a casa–de Yisrael
+-- c3-v6: Não a povos muitos profundos–de lábio e–pesados–de língua que não entenderás palavras–deles se não a–eles enviei-te eles ouviriam a–ti
+-- c3-v7: E–casa–de Yisrael não querem ouvir a–ti porque não querem ouvir a–mim porque toda casa–de Yisrael fortes–de testa e–duros–de coração eles
+-- c3-v8: Eis dei (a) face–tua forte diante–de faces–deles e–(a) testa–tua forte diante–de testa–deles
+-- c3-v9: Como–diamante forte mais–que–pederneira dei testa–tua não temas (a)–eles e–não te–espantes de–faces–deles porque casa–de rebelião eles ¶
+-- c3-v10: E–disse a–mim filho–de homem (a) todas palavras–minhas que falarei a–ti recebe em–coração–teu e–com–ouvidos–teus ouve
+-- c3-v11: E–vai entra a os–exilados a filhos–de povo–teu e–falarás a–eles e–dirás a–eles assim disse Adonai YHWH se ouvirem e–se cessarem
+-- c3-v12: E–levou-me espírito e–ouvi atrás–de–mim som–de estrondo grande bendita glória–de YHWH de–lugar–dele
+-- c3-v13: E–som–de asas–de os–seres–viventes tocando mulher a irmã–dela e–som–de as–rodas junto–a–eles e–som–de estrondo grande
+-- c3-v14: E–espírito levou-me e–tomou-me e–fui amargo em–calor–de espírito–meu e–mão–de YHWH sobre–mim forte
+-- c3-v15: E–cheguei a os–exilados Tel Aviv os–que–habitavam a rio–de Kevar [e–onde] (e–sentei) eles habitando lá e–sentei lá sete–de dias atordoado no–meio–deles
+-- c3-v16: E–foi ao–fim–de sete–de dias ¶ e–foi palavra–de YHWH a–mim dizendo
+-- c3-v17: Filho–de homem atalaia dei-te para–casa–de Yisrael e–ouvirás de–boca–minha palavra e–advertirás (a)–eles de–mim
+-- c3-v18: Ao–dizer–eu ao–ímpio certamente morrerás e–não advertiste-o e–não falaste para–advertir ímpio de–caminho–dele o–ímpio para–vivê-lo ele ímpio em–iniquidade–dele morrerá e–sangue–dele de–mão–tua buscarei
+-- c3-v19: E–tu se advertiste ímpio e–não voltou de–impiedade–dele e–de–caminho–dele o–ímpio ele em–iniquidade–dele morrerá e–tu (a) alma–tua livraste §
+-- c3-v20: E–ao–voltar-se justo de–justiça–dele e–fizer pec e–porei tropeço diante–dele ele morrerá porque não advertiste-o em–pecado–dele morrerá e–não serão–lembradas justiças–dele que fez e–sangue–dele de–mão–tua buscarei
+-- c3-v21: E–tu se advertiste-o justo para–não pecar justo e–ele não pecou certamente viverá porque foi–advertido e–tu (a) alma–tua livraste §
+-- c3-v22: E–foi sobre–mim lá mão–de YHWH e–disse a–mim levanta sai a o–vale e–lá falarei (a)–ti
+-- c3-v23: E–levantei e–saí a o–vale e–eis lá glória–de YHWH de–pé como–a–glória que vi sobre rio–de Kevar e–caí sobre face–minha
+-- c3-v24: E–entrou em–mim espírito e–pôs-me-de-pé sobre pés–meus e–falou (a)–mim e–disse a–mim entra fecha-te no–meio–de casa–tua
+-- c3-v25: E–tu filho–de homem eis puseram sobre–ti cordas e–ataram-te com–elas e–não sairás no–meio–deles
+-- c3-v26: E–língua–tua farei–aderir a céu–da–boca–tua e–ficarás–mudo e–não serás para–eles para–homem repreensor porque casa–de rebelião eles
+-- c3-v27: E–ao–falar–eu (a)–ti abrirei (a) boca–tua e–dirás a–eles assim disse Adonai YHWH o–que–ouve ouça e–o–que–cessa cesse porque casa–de rebelião eles §
+-- c4-v1: E–tu filho–de homem toma para–ti tijolo e–porás (a)–ele diante–de–ti e–gravarás sobre–ele cidade (a) Yerushalayim
+-- c4-v2: E–porás sobre–ela cerco e–construirás sobre–ela rampa e–derramarás sobre–ela aterro e–porás sobre–ela acampamentos e–coloca sobre–ela aríetes ao–redor
+-- c4-v3: E–tu toma para–ti assadeira–de ferro e–porás (a)–ela muro–de ferro entre–ti e–entre a–cidade e–fixarás (a) face–tua contra–ela e–estará em–cerco e–sitiarás sobre–ela sinal ela para–casa–de Yisrael §
+-- c4-v4: E–tu deita sobre lado–teu o–esquerdo e–porás (a) iniquidade–de casa–de Yisrael sobre–ele número–de os–dias que deitarás sobre–ele levarás (a) iniquidade–deles
+-- c4-v5: E–eu dei para–ti (a) anos–de iniquidade–deles para–número–de dias três centenas e–noventa dia e–levarás iniquidade–de casa–de Yisrael
+-- c4-v6: E–completarás (a) estes e–deitarás sobre lado–teu [o–direito] (o–direito) segunda–vez e–levarás (a) iniquidade–de casa–de Yehudah quarenta dia dia para–o–ano dia para–o–ano dei-o para–ti
+-- c4-v7: E–a cerco–de Yerushalayim fixarás face–tua e–braço–teu exposto e–profetizarás contra–ela
+-- c4-v8: E–eis pus sobre–ti cordas e–não virarás de–lado–teu a lado–teu até completares–tu dias–de cerco–teu
+-- c4-v9: E–tu toma para–ti trigo e–cevada e–favas e–lentilhas e–milho e–espelta e–porás (a)–eles em–vaso um e–farás (a)–eles para–ti para–pão número–de os–dias que tu deitando sobre lado–teu três centenas e–noventa dia comerás-o
+-- c4-v10: E–comida–tua que comerás-a por–peso vinte siclo para–o–dia de–tempo a tempo comerás-a
+-- c4-v11: E–água por–medida beberás sexta–parte–de o–hin de–tempo a tempo beberás
+-- c4-v12: E–bolo–de cevada comerás-o e–ele em–bolos–de excremento–de o–homem assarás-o a–olhos–deles §
+-- c4-v13: E–disse YHWH assim comerão filhos–de Yisrael (a) pão–deles impuro entre–as–nações onde expulsá-los-ei lá
+-- c4-v14: E–disse ah Adonai YHWH eis alma–minha não contaminada e–carcaça e–despedaçado não comi desde–juventude–minha e–até agora e–não entrou em–boca–minha carne–de abominação §
+-- c4-v15: E–disse a–mim vê dei para–ti (a) [estercos–de] (estercos–de) o–gado em–lugar–de bolos–de o–homem e–farás (a) pão–teu sobre–eles §
+-- c4-v16: E–disse a–mim filho–de homem eis-me quebrando bordão–de pão em–Yerushalayim e–comerão pão por–peso e–com–ansiedade e–água por–medida e–com–horror beberão
+-- c4-v17: Para–que tenham–falta–de pão e–água e–fiquem–desolados homem e–irmão–dele e–definhem em–iniquidade–deles ¶
+-- c5-v1: E–tu filho–de homem toma para–ti espada afiada navalha–de os–barbeiros tomarás-a para–ti e–passarás sobre cabeça–tua e–sobre barba–tua e–tomarás para–ti balanças–de peso e–dividirás-os
+-- c5-v2: Terça–parte no–fogo queimarás no–meio–de a–cidade ao–completar-se dias–de o–cerco e–tomarás (a) a–terça–parte ferirás com–a–espada ao–redor–dela e–a–terça–parte espalharás ao–vento e–espada desembainharei atrás–deles
+-- c5-v3: E–tomarás de–lá pouco em–número e–amarrarás (a)–eles em–pontas–tuas
+-- c5-v4: E–deles ainda tomarás e–lançarás (a)–eles a meio–de o–fogo e–queimarás (a)–eles no–fogo dele sairá fogo a toda casa–de Yisrael ¶
+-- c5-v5: Assim disse Adonai YHWH esta Yerushalayim no–meio–de as–nações pus-a e–ao–redor–dela terras
+-- c5-v6: E–rebelou (a) juízos–meus para–impiedade de as–nações e–(a) estatutos–meus de as–terras que ao–redor–dela porque em–juízos–meus rejeitaram e–estatutos–meus não andaram neles §
+-- c5-v7: Portanto assim disse Adonai YHWH porque tumulto–vosso de as–nações que ao–redor–de–vós em–estatutos–meus não andastes e–(a) juízos–meus não fizestes e–como–juízos–de as–nações que ao–redor–de–vós não fizestes §
+-- c5-v8: Portanto assim disse Adonai YHWH eis-me contra–ti também eu e–farei no–meio–de–ti juízos a–olhos–de as–nações
+-- c5-v9: E–farei em–ti (a) que não fiz e–(a) que não farei como–ele ainda por–causa–de todas abominações–tuas §
+-- c5-v10: Portanto pais comerão filhos no–meio–de–ti e–filhos comerão pais–deles e–farei em–ti julgamentos e–espalharei (a) todo resto–teu para–todo vento ¶
+-- c5-v11: Portanto vivo eu declaração–de Adonai YHWH se não porque (a) santuário–meu contaminaste com–todas coisas–detestação–tuas e–com–todas abominações–tuas e–também eu diminuirei e–não poupará olho–meu e–também eu não terei–pena
+-- c5-v12: Terça–parte–de–ti com–a–peste morrerão e–com–a–fome consumir-se-ão no–meio–de–ti e–a–terça–parte com–a–espada cairão ao–redor–de–ti e–a–terça–parte para–todo vento espalharei e–espada desembainharei atrás–deles
+-- c5-v13: E–completar-se-á ira–minha e–descansará fura–minha neles e–serei–consolado e–saberão que eu YHWH falei em–zelo–meu ao–completar-eu fúria–minha neles
+-- c5-v14: E–porei-te para–asolação e–para–opróbrio entre–as–nações que ao–redor–de–ti a–olhos–de todo passante
+-- c5-v15: E–será opróbrio e–escarnecimento castigo e–horror para–as–nações que ao–redor–de–ti ao–fazer–eu em–ti julgamentos em–ira e–em–fúria e–em–correções–de fúria eu YHWH falei
+-- c5-v16: Ao–enviar–eu (a) flechas–de a–fome as–más neles que serão para–destruição que enviarei (a)–elas para–destruir–vos e–fome aumentarei sobre–vós e–quebrarei para–vós bordão–de pão
+-- c5-v17: E–enviarei sobre–vós fome e–besta má e–deixar-te-á–sem–filhos e–peste e–sangue passará por–ti e–espada trarei sobre–ti eu YHWH falei ¶
+-- c6-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c6-v2: Filho–de homem põe face–tua a montes–de Yisrael e–profetiza contra–eles
+-- c6-v3: E–dirás montes–de Yisrael ouvi palavra–de Adonai YHWH assim disse Adonai YHWH aos–montes e–às–colinas às–torrentes [e–aos–vales] (e–aos–vales) eis-me eu trazendo sobre–vós espada e–destruirei altos–vossos
+-- c6-v4: E–serão–assolados altares–vossos e–serão–quebrados pilares–de–sol–vossos e–farei–cair traspassados–vossos diante–de ídolos–vossos
+-- c6-v5: E–porei (a) cadáveres–de filhos–de Yisrael diante–de ídolos–deles e–espalharei (a) ossos–vossos ao–redor–de altares–vossos
+-- c6-v6: Em–todas habitações–vossas as–cidades serão–devastadas e–os–altos serão–assolados para–que sejam–devastados e–sejam–culpados altares–vossos e–sejam–quebrados e–sejam–anulados ídolos–vossos e–sejam–cortados pilares–de–sol–vossos e–sejam–apagadas obras–vossas
+-- c6-v7: E–cairá traspassado no–meio–de–vós e–sabereis que eu YHWH
+-- c6-v8: E–deixarei ao–haver para–vós sobreviventes–de espada entre–as–nações ao–serdes–dispersos nas–terras
+-- c6-v9: E–lembrar-se-ão sobreviventes–vossos de–mim entre–as–nações onde foram–levados lá quando quebrei (a) coração–deles o–prostituto que desviou-se de–sobre–mim e–(a) olhos–deles os–prostituindo-se após ídolos–deles e–terão–náusea em–faces–deles a os–males que fizeram por–todas abominações–deles
+-- c6-v10: E–saberão que eu YHWH não em vão falei para–fazer para–eles o–mal o–este ¶
+-- c6-v11: Assim disse Adonai YHWH bate com–palma–tua e–pisoteia com–pé–teu e–dize ah a todas abominações–de males–de casa–de Yisrael que com–a–espada com–a–fome e–com–a–peste cairão
+-- c6-v12: O–distante com–a–peste morrerá e–o–perto com–a–espada cairá e–o–restante e–o–preservado com–a–fome morrerá e–completarei fúria–minha neles
+-- c6-v13: E–sabereis que eu YHWH ao–haver traspassados–deles no–meio–de ídolos–deles ao–redor–de altares–deles a toda colina alta em–todos topos–de os–montes e–debaixo–de toda árvore verdejante e–debaixo–de todo carvalho frondoso lugar que deram lá aroma–de suavidade para–todos ídolos–deles
+-- c6-v14: E–estenderei (a) mão–minha sobre–eles e–porei (a) a–terra desolação e–assolamento de–deserto–de Divlah em–todas habitações–deles e–saberão que eu YHWH ¶
+-- c7-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c7-v2: E–tu filho–de homem assim disse Adonai YHWH para–terra–de Yisrael fim vem o–fim sobre [quatro–de] (quatro) cantos–de a–terra
+-- c7-v3: Agora o–fim sobre–ti e–enviarei ira–minha em–ti e–julgar-te-ei conforme–caminhos–teus e–porei sobre–ti (a) todas abominações–tuas
+-- c7-v4: E–não poupará olho–meu sobre–ti e–não terei–pena porque caminhos–teus sobre–ti darei e–abominações–tuas no–meio–de–ti estarão e–sabereis que eu YHWH ¶
+-- c7-v5: Assim disse Adonai YHWH mal um mal eis vem
+-- c7-v6: Fim vem vem o–fim despertou contra–ti eis vem
+-- c7-v7: Vem a–volta a–ti habitante–de a–terra vem o–tempo perto o–dia tumulto e–não eco–de montes
+-- c7-v8: Agora de–perto derramarei fúria–minha sobre–ti e–completarei ira–minha em–ti e–julgar-te-ei conforme–caminhos–teus e–porei sobre–ti (a) todas abominações–tuas
+-- c7-v9: E–não poupará olho–meu e–não terei–pena conforme–caminhos–teus sobre–ti darei e–abominações–tuas no–meio–de–ti estarão e–sabereis que eu YHWH ferindo
+-- c7-v10: Eis o–dia eis vem saiu a–volta floresceu a–vara brotou a–soberba
+-- c7-v11: A–violência levantou-se para–vara–de impiedade não deles e–não de–multidão–deles e–não de–riqueza–deles e–não lamentação neles
+-- c7-v12: Vem o–tempo chegou o–dia o–comprador não alegre-se e–o–vendedor não lamente porque ira a toda multidão–dela
+-- c7-v13: Porque o–vendedor a a–coisa–vendida não voltará e–ainda em–vivos vida–deles porque visão a toda multidão–dela não voltará e–homem em–iniquidade–dele vida–dele não se–fortalecerão
+-- c7-v14: Tocaram a–trombeta e–prepararam o–todo e–não–há indo para–a–guerra porque ira–minha a toda multidão–dela
+-- c7-v15: A–espada fora e–a–peste e–a–fome dentro o–que no–campo com–a–espada morrerá e–o–que na–cidade fome e–peste comerá-o
+-- c7-v16: E–escaparão sobreviventes–deles e–serão a os–montes como–pombas–de os–vales todos gemendo homem em–iniquidade–dele
+-- c7-v17: Todas as–mãos afrouxarão e–todos joelhos andarão água
+-- c7-v18: E–cingirão sacos e–cobrirá-os (a)–eles horror e–em todas faces vergonha e–em–todas cabeças–deles calvice
+-- c7-v19: Prata–deles nas–ruas lançarão e–ouro–deles para–impureza será prata–deles e–ouro–deles não poderá livrá-los em–dia–de ira–de YHWH alma–deles não saciarão e–entranhas–deles não encherão porque tropeço–de iniquidade–deles foi
+-- c7-v20: E–beleza–de ornamento–dele para–orgulho pôs-o e–imagens–de abominações–deles coisas–detestáveis–deles fizeram nele sobre isso dei-o para–eles para–impureza
+-- c7-v21: E–dá-lo-ei em–mão–de os–estrangeiros para–despojo e–para–ímpios–de a–terra para–saque [e–profanarão-a] (e–profanarão-o)
+-- c7-v22: E–desviarei face–minha deles e–profanarão (a) tesouro–meu e–entrarão nela ladrões e–profanarão-a ¶
+-- c7-v23: Faze a–cadeia porque a–terra cheia–de juízo–de sangue e–a–cidade cheia–de violência
+-- c7-v24: E–trarei maus–de nações e–herdarão (a) casas–deles e–farei–cessar orgulho–de fortes e–serão–profanados santuários–deles
+-- c7-v25: Angústia vem e–buscarão paz e–não-há
+-- c7-v26: Desastre sobre desastre virá e–rumor a rumor haverá e–buscarão visão de–profeta e–lei perecerá de–sacerdote e–conselho de–anciãos
+-- c7-v27: O–rei lamentará e–príncipe vestirá desolação e–mãos–de povo–de a–terra tremerão conforme–caminho–deles farei (a)–eles e–conforme–juízos–deles julgá-los-ei e–saberão que eu YHWH ¶
+-- c8-v1: E–foi no–ano o–sexto no–sexto no–quinto do–mês eu sentado em–casa–minha e–anciãos–de Yehudah sentados diante–de–mim e–caiu sobre–mim lá mão–de Adonai YHWH
+-- c8-v2: E–vi e–eis semelhança como–aparência–de fogo de–aparência–de lombos–dele e–para–baixo fogo e–de–lombos–dele e–para–cima como–aparência–de brilho como–aparência–de o–chashmal
+-- c8-v3: E–estendeu forma–de mão e–tomou-me por–madeixa–de cabeça–minha e–levou (a)–mim espírito entre a–terra e–entre os–céus e–trouxe (a)–mim Yerushalayim em–visões–de Elohim a entrada–de porta–de a–interior a–que–dá–para norte que lá assento–de ídolo–de o–ciúme o–que–provoca–ciúme
+-- c8-v4: E–eis lá glória–de Elohim–de Yisrael como–a–aparência que vi no–vale
+-- c8-v5: E–disse a–mim filho–de homem levanta por–favor olhos–teus caminho–de norte e–levantei olhos–meus caminho–de norte e–eis de–norte para–porta–de o–altar ídolo–de o–ciúme o–este na–entrada
+-- c8-v6: E–disse a–mim filho–de homem vês tu [o–que] (o–que) (eles) fazendo abominações grandes que casa–de Yisrael fazendo aqui para–distanciar de–sobre santuário–meu e–ainda voltarás verás abominações grandes §
+-- c8-v7: E–trouxe (a)–mim a entrada–de o–pátio e–vi e–eis buraco um na–parede
+-- c8-v8: E–disse a–mim filho–de homem cava por–favor na–parede e–cavei na–parede e–eis entrada uma
+-- c8-v9: E–disse a–mim entra e–vê (a) as–abominações as–más que eles fazendo aqui
+-- c8-v10: E–entrei e–vi e–eis toda forma–de réptil e–animal abominação e–todos ídolos–de casa–de Yisrael gravados sobre a–parede ao–redor ao–redor
+-- c8-v11: E–setenta homem de–anciãos–de casa–de Yisrael e–Yaazanyahu filho–de Shafan de–pé no–meio–deles de–pé diante–deles e–homem incensário–dele em–mão–dele e–nuvem–de nuvem–de o–incenso subindo
+-- c8-v12: E–disse a–mim viste filho–de homem que anciãos–de casa–de Yisrael fazendo na–escuridão homem em–câmaras–de imagem–dele porque dizendo não–há YHWH vendo (a)–nós abandonou YHWH (a) a–terra
+-- c8-v13: E–disse a–mim ainda voltarás verás abominações grandes que eles fazendo
+-- c8-v14: E–trouxe (a)–mim a entrada–de porta–de casa–de YHWH que a o–norte e–eis lá as–mulheres sentadas chorando (a) o–Tammuz §
+-- c8-v15: E–disse a–mim viste filho–de homem ainda voltarás verás abominações grandes do–que–estas
+-- c8-v16: E–trouxe (a)–mim a pátio–de casa–de YHWH o–interior e–eis entrada–de templo–de YHWH entre o–pórtico e–entre o–altar como–vinte e–cinco homem costas–deles a templo–de YHWH e–faces–deles oriente e–eles prostrando-se oriente para–o–sol
+-- c8-v17: E–disse a–mim viste filho–de homem é–leve para–casa–de Yehudah de–fazer (a) as–abominações que fizeram aqui porque encheram (a) a–terra violência e–voltam para–provocar-me e–eis-os põem (a) o–ramo a nariz–deles
+-- c8-v18: E–também eu farei em–fúria não poupará olho–meu e–não terei–pena e–clamarão em–ouvidos–meus voz grande e–não ouvirei (a)–eles
+-- c9-v1: E–clamou em–ouvidos–meus voz grande dizendo aproximai punições–de a–cidade e–homem arma–de destruição–dele em–mão–dele
+-- c9-v2: E–eis seis homens vindo de–caminho–de porta–de o–superior que dá–para norte e–homem arma–de esmagamento–dele em–mão–dele e–homem um no–meio–deles vestido–de linho e–estojo–de o–escriba em–lombos–dele e–vieram e–pararam junto–a altar–de o–bronze
+-- c9-v3: E–glória–de Elohim–de Yisrael subiu de–sobre o–querubim que estava sobre–ele a umbral–de a–casa e–chamou a o–homem o–vestido–de o–linho que estojo–de o–escriba em–lombos–dele §
+-- c9-v4: E–disse YHWH [a–ele] (a–ele) passa no–meio–de a–cidade no–meio–de Yerushalayim e–marcarás marca sobre testas–de os–homens os–que–suspiram e–os–que–gemem sobre todas as–abominações as–que–são–feitas no–meio–dela
+-- c9-v5: E–a–estes disse em–ouvidos–meus passai na–cidade atrás–dele e–feri [sobre] (não) poupe [olho–vosso] (olho–vosso) e–não tenhais–pena
+-- c9-v6: Velho jovem e–virgem e–criança e–mulheres matareis para–destruição e–sobre todo homem que sobre–ele a–marca não vos–aproximeis e–de–santuário–meu começareis e–começaram com–os–homens os–anciãos que diante–de a–casa
+-- c9-v7: E–disse a–eles contaminai (a) a–casa e–enchei (a) os–pátios traspassados saí e–saíram e–feriram na–cidade
+-- c9-v8: E–foi ao–ferirem–eles e–fiquei eu e–caí sobre face–minha e–clamei e–disse ah Adonai YHWH destruindo tu (a) todo resto–de Yisrael ao–derramares–tu (a) fúria–tua sobre Yerushalayim
+-- c9-v9: E–disse a–mim iniquidade–de casa–de Yisrael e–Yehudah grande com–muito muito e–encheu-se a–terra sangue e–a–cidade cheia–de perverção porque disseram abandonou YHWH (a) a–terra e–não–há YHWH vendo
+-- c9-v10: E–também eu não poupará olho–meu e–não terei–pena caminho–deles em–cabeça–deles dei
+-- c9-v11: E–eis o–homem vestido–de o–linho que o–estojo em–lombos–dele devolvendo palavra dizendo fiz [como] (conforme–tudo) (que) ordenaste-me §
+-- c10-v1: E–vi e–eis a o–firmamento que sobre cabeça–de os–querubins como–pedra–de safira como–aparência–de semelhança–de trono visível sobre–eles
+-- c10-v2: E–disse a o–homem vestido–de o–linho e–disse entra a entre para–a–roda a debaixo–de para–o–querubim e–enche palmas–tuas brasas–de fogo de–entre para–os–querubins e–espalha sobre a–cidade e–entrou a–olhos–meus
+-- c10-v3: E–os–querubins de–pé à–direita–de para–a–casa ao–entrar–ele o–homem e–a–nuvem encheu (a) o–pátio o–interior
+-- c10-v4: E–elevou-se glória–de YHWH de–sobre o–querubim sobre umbral–de a–casa e–encheu-se a–casa (a) a–nuvem e–o–pátio encheu-se (a) brilho–de glória–de YHWH
+-- c10-v5: E–som–de asas–de os–querubins era–ouvido até o–pátio o–exterior como–voz–de El Shaddai ao–falar–ele
+-- c10-v6: E–foi ao–ordenar–ele (a) o–homem vestido–de o–linho dizendo toma fogo de–entre para–a–roda de–entre para–os–querubins e–entrou e–parou junto–a a–roda
+-- c10-v7: E–estendeu o–querubim (a) mão–dele de–entre para–os–querubins a o–fogo que entre os–querubins e–levantou e–deu a palmas–de vestido–de o–linho e–tomou e–saiu
+-- c10-v8: E–via-se para–os–querubins forma–de mão–de homem debaixo–de asas–deles
+-- c10-v9: E–vi e–eis quatro rodas junto–a os–querubins roda uma junto–a o–querubim um e–roda uma junto–a o–querubim um e–aparência–de as–rodas como–aparência–de pedra–de crisólito
+-- c10-v10: E–aparência–delas semelhança–de um para–as–quatro–delas como–que seria a–roda no–meio–de a–roda
+-- c10-v11: Ao–andarem a quatro–de lados–delas andavam não viravam ao–andarem porque o–lugar que voltava a–cabeça atrás–dela andavam não viravam ao–andarem
+-- c10-v12: E–toda carne–delas e–costas–delas e–mãos–delas e–asas–delas e–as–rodas cheias–de olhos ao–redor para–as–quatro–delas rodas–delas
+-- c10-v13: Para–as–rodas para–elas chamando a–roda em–ouvidos–meus
+-- c10-v14: E–quatro faces para–um face–de o–primeiro face–de o–querubim e–face–de o–segundo face–de homem e–o–terceiro face–de leão e–o–quarto face–de águia
+-- c10-v15: E–elevaram-se os–querubins ela o–ser–vivente que vi no–rio–de Kevar
+-- c10-v16: E–ao–andar os–querubins andavam as–rodas junto–a–eles e–ao–levantarem os–querubins (a) asas–deles para–elevar-se de–sobre a–terra não viravam as–rodas também elas de–junto–deles
+-- c10-v17: Ao–pararem paravam e–ao–elevarem-se elevavam-se (a)–elas porque espírito–de o–ser–vivente nelas
+-- c10-v18: E–saiu glória–de YHWH de–sobre umbral–de a–casa e–parou sobre os–querubins
+-- c10-v19: E–levantaram os–querubins (a) asas–deles e–elevaram-se de a–terra a–olhos–meus ao–saírem e–as–rodas junto–a–eles e–parou entrada–de porta–de casa–de YHWH a–oriental e–glória–de Elohim–de Yisrael sobre–eles de–cima
+-- c10-v20: Ela o–ser–vivente que vi debaixo–de Elohim–de Yisrael no–rio–de Kevar e–soube que querubins eles
+-- c10-v21: Quatro quatro faces para–um e–quatro asas para–um e–semelhança–de mãos–de homem debaixo–de asas–deles
+-- c10-v22: E–semelhança–de faces–deles elas as–faces que vi sobre rio–de Kevar aparência–delas e–elas homem a lado–de face–dele andavam
+-- c11-v1: e–levantou (a)–mim espírito e–trouxe (a)–mim para– porta de–casa–de– YHWH o–oriental o–que–enfrenta para–oriente e–eis na–entrada–de– a–porta vinte e–cinco homens e–vi no–meio–deles (a)– Yaazanyah filho–de– Azzur e–(a)– Pelatyahu filho–de– Benayahu príncipes–de– o–povo ¶
+-- c11-v2: e–disse para–mim filho–de– homem estes os–homens os–que–planejam iniquidade e–os–que–aconselham conselho–de– mal na–cidade a–esta
+-- c11-v3: os–que–dizem não em–breve construir casas ela a–panela e–nós a–carne
+-- c11-v4: portanto profetiza contra–eles profetiza filho–de– homem
+-- c11-v5: e–caiu sobre–mim espírito–de– YHWH e–disse para–mim dize assim– disse YHWH assim dissestes casa–de– Yisrael e–pensamentos–de– vosso–espírito eu conheço–os
+-- c11-v6: multiplicastes vossos–mortos na–cidade a–esta e–enchestes suas–ruas de–morto ¶
+-- c11-v7: portanto assim– disse Senhor YHWH vossos–mortos que pusestes no–meio–dela eles a–carne e–ela a–panela e–a–vós fará–sair do–meio–dela
+-- c11-v8: espada temestes e–espada trarei sobre–vós declaração–de– Senhor YHWH
+-- c11-v9: e–farei–sair a–vós do–meio–dela e–darei a–vós na–mão–de– estrangeiros e–executarei contra–vós juízos
+-- c11-v10: pela–espada caireis na– fronteira–de– Yisrael julgarei a–vós e–sabereis que– eu YHWH
+-- c11-v11: ela não– será para–vós como–panela e–vós sereis no–meio–dela como–carne na– fronteira–de– Yisrael julgarei a–vós
+-- c11-v12: e–sabereis que– eu YHWH que nos–meus–estatutos não andastes e–meus–juízos não fizestes e–conforme–juízos–de– as–nações que ao–redor–de–vós fizestes
+-- c11-v13: e–foi quando–profetizei e–Pelatyahu filho–de– Benayah morreu e–caí sobre– meu–rosto e–clamei com–voz– grande e–disse ah Senhor YHWH fim tu fazendo (a)– remanescente–de– Yisrael ¶
+-- c11-v14: e–foi palavra–de– YHWH para–mim dizendo
+-- c11-v15: filho–de– homem teus–irmãos teus–irmãos homens–de– tua–redenção e–toda– casa–de– Yisrael toda–ela a–quem disseram a–eles habitantes–de– Yerushalayim afastai–vos de–sobre– YHWH para–nós ela foi–dada a–terra como–herança §
+-- c11-v16: portanto dize assim– disse Senhor YHWH porque os–afastei entre–as–nações e–porque os–espalhei nas–terras e–fui para–eles como–santuário pequeno nas–terras para–onde– vieram ali §
+-- c11-v17: portanto dize assim– disse Senhor YHWH e–reunirei a–vós de– os–povos e–ajuntarei a–vós de– as–terras nas–quais fostes–espalhados nelas e–darei a–vós (a)– terra–de– Yisrael
+-- c11-v18: e–virão– ali e–removerão (a)– todas– suas–coisas–detestáveis e–(a)– todas– suas–abominações dela
+-- c11-v19: e–darei a–eles coração um e–espírito novo porei em–vosso–interior e–removerei coração–de– a–pedra da–sua–carne e–darei a–eles coração–de– carne
+-- c11-v20: para–que nos–meus–estatutos andem e–(a)– meus–juízos guardem e–façam (a)–eles e–serão– para–mim como–povo e–eu serei para–eles como–Deus
+-- c11-v21: e–para– coração–de– suas–coisas–detestáveis e–suas–abominações seu–coração vai seu–caminho na–sua–cabeça porei declaração–de– Senhor YHWH
+-- c11-v22: e–levantaram os–querubins (a)– suas–asas e–as–rodas junto–a–eles e–glória–de– Deus–de– Yisrael sobre–eles do–alto
+-- c11-v23: e–subiu glória–de– YHWH de–sobre– meio–de– a–cidade e–parou sobre– o–monte que do–oriente da–cidade
+-- c11-v24: e–espírito levantou–me e–trouxe–me à–Caldeia para– o–exílio na–visão pelo–espírito–de– Deus e–subiu de–sobre–mim a–visão que vi
+-- c11-v25: e–falei para– o–exílio (a)– todas– palavras–de– YHWH que me–mostrou ¶
+-- c12-v1: e–foi palavra–de– YHWH para–mim dizendo
+-- c12-v2: filho–de– homem no–meio–de– casa–de– a–rebelião tu habitas que olhos a–eles para–ver e–não veem ouvidos a–eles para–ouvir e–não ouvem porque casa–de– rebelião eles
+-- c12-v3: e–tu filho–de– homem faze para–ti utensílios–de– exílio e–vai–para–o–exílio de–dia aos–olhos–deles e–irás–para–o–exílio do–teu–lugar para– lugar outro aos–olhos–deles talvez vejam porque casa–de– rebelião eles
+-- c12-v4: e–tirarás teus–utensílios como–utensílios–de– exílio de–dia aos–olhos–deles e–tu sairás à–tarde aos–olhos–deles como–saídas–de– exílio
+-- c12-v5: aos–olhos–deles cava– para–ti na–parede e–tirarás por–ela
+-- c12-v6: aos–olhos–deles sobre– ombro carregarás na–escuridão tirarás teu–rosto cobrirás e–não verás (a)– a–terra porque– sinal te–dei para–casa–de– Yisrael
+-- c12-v7: e–fiz assim como fui–ordenado meus–utensílios tirei como–utensílios–de– exílio de–dia e–à–tarde cavei– para–mim na–parede com–mão na–escuridão tirei sobre– ombro carreguei aos–olhos–deles ¶
+-- c12-v8: e–foi palavra–de– YHWH para–mim pela–manhã dizendo
+-- c12-v9: filho–de– homem não disseram para–ti casa–de– Yisrael casa–de– a–rebelião que tu fazendo
+-- c12-v10: dize a–eles assim disse Senhor YHWH o–príncipe a–carga a–esta em–Yerushalayim e–toda– casa–de– Yisrael que– eles no–meio–deles
+-- c12-v11: dize eu vosso–sinal como fiz assim será–feito a–eles no–exílio no–cativeiro irão
+-- c12-v12: e–o–príncipe que– no–meio–deles sobre– ombro carregará na–escuridão e–sairá na–parede cavarão para–tirar por–ela seu–rosto cobrirá porque que não– verá com–olho ele (a)– a–terra
+-- c12-v13: e–estenderei (a)– minha–rede sobre–ele e–será–apanhado em–minha–armadilha e–trarei (a)–ele à–Bavel terra–de– os–Kasdim e–a–ela não– verá e–ali morrerá
+-- c12-v14: e–todos que ao–redor–dele sua–ajuda sua–ajuda e–todas– suas–tropas espalharei a–todo– vento e–espada desembainharei atrás–deles
+-- c12-v15: e–saberão que– eu YHWH quando–espalhar (a)–eles entre–as–nações e–dispersar (a)–eles nas–terras
+-- c12-v16: e–deixarei–remanescentes deles homens–de– número da–espada da–fome e–da–peste para–que contem (a)– todas– suas–abominações entre–as–nações para–onde– vieram ali e–saberão que– eu YHWH ¶
+-- c12-v17: e–foi palavra–de– YHWH para–mim dizendo
+-- c12-v18: filho–de– homem teu–pão com–tremor comerás e–tua–água com–estremecimento e–com–ansiedade beberás
+-- c12-v19: e–dirás para– povo–de– a–terra assim– disse Senhor YHWH aos–habitantes–de– Yerushalayim sobre– terra–de– Yisrael seu–pão com–ansiedade comerão e–sua–água com–espanto beberão para–que seja–desolada sua–terra de–sua–plenitude por–causa–da–violência–de– todos– os–que–habitam nela
+-- c12-v20: e–as–cidades as–habitadas serão–destruídas e–a–terra desolação será e–sabereis que– eu YHWH ¶
+-- c12-v21: e–foi palavra–de– YHWH para–mim dizendo
+-- c12-v22: filho–de– homem que– o–provérbio o–este a–vós sobre– terra–de– Yisrael dizendo se–prolongam os–dias e–perece toda– visão
+-- c12-v23: portanto dize a–eles assim– disse Senhor YHWH farei–cessar (a)– o–provérbio o–este e–não– usarão (a)–ele mais em–Yisrael mas antes– fala a–eles se–aproximaram os–dias e–palavra–de– toda– visão
+-- c12-v24: porque não haverá mais toda– visão falsa e–adivinhação lisonjeira no–meio–de– casa–de– Yisrael
+-- c12-v25: porque eu YHWH falarei (a)– o–que falarei palavra e–será–feita não será–adiada mais porque em–vossos–dias casa–de– a–rebelião falarei palavra e–a–farei declaração–de– Senhor YHWH ¶
+-- c12-v26: e–foi palavra–de– YHWH para–mim dizendo
+-- c12-v27: filho–de– homem eis casa–de– Yisrael dizendo a–visão que– ele vê para–dias muitos e–para–tempos distantes ele profetiza
+-- c12-v28: portanto dize a–eles assim disse Senhor YHWH não– será–adiada mais toda– minhas–palavras que falarei palavra e–será–feita declaração–de– Senhor YHWH §
+-- c13-v1: e–foi palavra–de– YHWH para–mim dizendo
+-- c13-v2: filho–de– homem profetiza para– profetas–de– Yisrael os–que–profetizam e–dirás aos–profetas–de– seu–próprio–coração ouvi palavra–de– YHWH
+-- c13-v3: assim disse Senhor YHWH ai dos– os–profetas os–tolos que seguem atrás–de– seu–próprio–espírito e–sem– terem–visto
+-- c13-v4: como–raposas nas–ruínas teus–profetas Yisrael foram
+-- c13-v5: não subistes nas–brechas e–construir muro sobre– casa–de– Yisrael para–permanecer na–batalha no–dia–de– YHWH
+-- c13-v6: viram falsidade e–adivinhação mentira os–que–dizem declaração–de– YHWH e–YHWH não os–enviou e–esperaram para–confirmar palavra
+-- c13-v7: não visão–de– falsidade vistes e–adivinhação mentira dissestes e–dizendo declaração–de– YHWH e–eu não falei §
+-- c13-v8: portanto assim disse Senhor YHWH porque vosso–falar falsidade e–vistes mentira portanto eis–me contra–vós declaração–de– Senhor YHWH
+-- c13-v9: e–será minha–mão contra– os–profetas os–que–veem falsidade e–os–que–adivinham mentira no–conselho–de– meu–povo não– estarão e–no–registro–de– casa–de– Yisrael não serão–inscritos e–para– terra–de– Yisrael não virão e–sabereis que eu Senhor YHWH
+-- c13-v10: porque e–por–causa–de desviaram (a)– meu–povo dizendo paz e–não–há paz e–ele constrói parede e–eis rebocando (a)–ela argamassa
+-- c13-v11: dize para– os–que–rebocam argamassa e–cairá haverá chuva inundante e–vós pedras–de– granizo cairão e–vento–de– tempestades rasgará
+-- c13-v12: e–eis caiu a–parede não será–dito a–vós onde o–reboco que rebocastes §
+-- c13-v13: portanto assim disse Senhor YHWH e–rasgarei vento–de– tempestades na–minha–furia e–chuva inundante na–minha–ira haverá e–pedras–de– granizo em–furia para–destruição
+-- c13-v14: e–derrubarei (a)– a–parede que– rebocastes argamassa e–a–farei–tocar na– a–terra e–será–exposto seu–fundamento e–cairá e–sereis–consumidos no–meio–dela e–sabereis que– eu YHWH
+-- c13-v15: e–consumirei (a)– minha–furia na–parede e–nos–que–rebocam (a)–ela argamassa e–direi a–vós não–há a–parede e–não–há os–que–rebocam (a)–ela
+-- c13-v16: profetas–de– Yisrael os–que–profetizam para– Yerushalayim e–os–que–veem para–ela visão–de– paz e–não–há paz declaração–de– Senhor YHWH ¶
+-- c13-v17: e–tu filho–de– homem põe teu–rosto para– filhas–de– teu–povo as–que–profetizam de–seu–próprio–coração e–profetiza contra–elas
+-- c13-v18: e–dirás assim– disse Senhor YHWH ai das–que–costuram almofadas sobre– todos– pulsos–de– mãos e–que–fazem véus sobre– cabeça–de– toda– estatura para–caçar almas as–almas caçareis de–meu–povo e–almas de–vós preservareis
+-- c13-v19: e–profanastes (a)–mim diante–de– meu–povo por–punhados–de– cevada e–por–pedaços–de– pão para–matar almas que não– deveriam–morrer e–para–manter–vivas almas que não– deveriam–viver por–vossas–mentiras a–meu–povo ouvintes–de– mentira §
+-- c13-v20: portanto assim– disse Senhor YHWH eis–me contra– vossas–almofadas com–as–quais vós caçando ali (a)– as–almas para–voar e–rasgarei (a)–elas de–sobre– vossos–braços e–soltarei (a)– as–almas que vós caçando (a)– almas para–voar
+-- c13-v21: e–rasgarei (a)– vossos–véus e–livrarei (a)– meu–povo da–vossa–mão e–não– estarão mais em–vossa–mão para–presa e–sabereis que– eu YHWH
+-- c13-v22: porque entristecestes coração–de– justo falsamente e–eu não o–entristeci e–para–fortalecer mãos–de– perverso para–não– se–desviar de–seu–caminho o–mau para–preservar–a–vida
+-- c13-v23: portanto falsidade não vereis e–adivinhação não– adivinhareis mais e–livrarei (a)– meu–povo da–vossa–mão e–sabereis que– eu YHWH
+-- c14-v1: e–vieram para–mim homens dos–anciãos–de– Yisrael e–sentaram-se diante–de–mim ¶
+-- c14-v2: e–foi palavra–de– YHWH para–mim dizendo
+-- c14-v3: filho–de– homem os–homens os–estes fizeram–subir seus–ídolos sobre– seu–coração e–tropeço–de– sua–iniquidade puseram diante–de– seu–rosto serei–consultado serei–consultado por–eles §
+-- c14-v4: portanto fala– (a)–eles e–dirás a–eles assim– disse Senhor YHWH homem homem da–casa–de– Yisrael que fizer–subir (a)– seus–ídolos para– seu–coração e–tropeço–de– sua–iniquidade puser diante–de– seu–rosto e–vier para– o–profeta eu YHWH responderei a–ele nela vindo na–multidão–de– seus–ídolos
+-- c14-v5: para–que apanhe (a)– casa–de– Yisrael em–seu–coração que se–afastaram de–sobre–mim por–seus–ídolos todos–eles §
+-- c14-v6: portanto dize para– casa–de– Yisrael assim disse Senhor YHWH arrependei–vos e–afastai–vos de–sobre– vossos–ídolos e–de–sobre– todas– vossas–abominações afastai vosso–rosto
+-- c14-v7: porque homem homem da–casa–de– Yisrael e–do–estrangeiro que– peregrinar em–Yisrael e–se–separar de–após–mim e–fizer–subir seus–ídolos para– seu–coração e–tropeço–de– sua–iniquidade puser diante–de– seu–rosto e–vier para– o–profeta para–consultar– a–ele por–mim eu YHWH responderei– a–ele por–mim
+-- c14-v8: e–porei meu–rosto contra–o–homem o–aquele e–o–farei para–sinal e–para–provérbios e–o–cortarei do–meio–de– meu–povo e–sabereis que– eu YHWH §
+-- c14-v9: e–o–profeta se– for–enganado e–falar palavra eu YHWH enganei (a)– o–profeta o–aquele e–estenderei (a)– minha–mão contra–ele e–o–destruirei do–meio–de– meu–povo Yisrael
+-- c14-v10: e–carregarão sua–iniquidade como–iniquidade–de– o–que–consulta como–iniquidade–de– o–profeta será
+-- c14-v11: para–que não– se–desvie mais casa–de– Yisrael de–após–mim e–não– se–contaminem mais com–todas– suas–transgressões e–serão para–mim como–povo e–eu serei para–eles como–Deus declaração–de– Senhor YHWH ¶
+-- c14-v12: e–foi palavra–de– YHWH para–mim dizendo
+-- c14-v13: filho–de– homem terra se pecar– contra–mim para–transgredir– transgressão e–estenderei minha–mão contra–ela e–quebrarei para–ela bastão–de– pão e–enviarei– contra–ela fome e–cortarei dela homem e–animal
+-- c14-v14: e–fossem três–de– os–homens os–estes no–meio–dela Noach Daniel Daniel e–Iyyov eles por–sua–justiça livrariam sua–alma declaração–de– Senhor YHWH
+-- c14-v15: se– animal feroz eu–fizer–passar pela–terra e–a–deixar–sem–filhos e–for desolação sem– quem–passe por–causa–de– o–animal
+-- c14-v16: três–de– os–homens os–estes no–meio–dela vivo– eu declaração–de– Senhor YHWH se– filhos e–se– filhas livrarão eles sozinhos serão–livrados e–a–terra será desolação
+-- c14-v17: ou espada eu–trouxer sobre– a–terra a–aquela e–disser espada passa pela–terra e–cortarei dela homem e–animal
+-- c14-v18: e–três–de– os–homens os–estes no–meio–dela vivo– eu declaração–de– Senhor YHWH não livrarão filhos e–filhas mas eles sozinhos serão–livrados
+-- c14-v19: ou peste eu–enviar para– a–terra a–aquela e–derramar minha–furia sobre–ela com–sangue para–cortar dela homem e–animal
+-- c14-v20: e–Noach Daniel Daniel e–Iyyov no–meio–dela vivo– eu declaração–de– Senhor YHWH se– filho se– filha livrarão eles por–sua–justiça livrarão sua–alma ¶
+-- c14-v21: porque assim disse Senhor YHWH ainda que– quatro–de– meus–juízos os–maus espada e–fome e–animal feroz e–peste eu–enviar contra– Yerushalayim para–cortar dela homem e–animal
+-- c14-v22: e–eis restará– nela sobreviventes os–que–são–tirados filhos e–filhas eis saindo para–vós e–vereis (a)– seu–caminho e–(a)– suas–ações e–sereis–consolados sobre– o–mal que trouxe sobre– Yerushalayim (a)– tudo– que trouxe sobre–ela
+-- c14-v23: e–consolarão a–vós quando– virdes (a)– seu–caminho e–(a)– suas–ações e–sabereis que não em–vão fiz (a)– tudo– que– fiz nela declaração–de– Senhor YHWH ¶
+-- c15-v1: e–foi palavra–de– YHWH para–mim dizendo
+-- c15-v2: filho–de– homem o–que– será árvore–de– a–videira de–toda– árvore o–ramo que foi entre–árvores–de– a–floresta
+-- c15-v3: será–tomada dela madeira para–fazer para–trabalho se– tomarão dela estaca para–pendurar nela todo– utensílio
+-- c15-v4: eis para–o–fogo foi–dada para–devorar (a)– duas– suas–pontas devorou o–fogo e–seu–meio foi–chamuscado é–útil para–trabalho
+-- c15-v5: eis quando–estava íntegra não era–feita para–trabalho ainda que– fogo devorou–a e–foi–chamuscada e–será–feita ainda para–trabalho §
+-- c15-v6: portanto assim disse Senhor YHWH como árvore–de– a–videira entre–árvore–de– a–floresta que– dei–a para–o–fogo para–devorar assim dei (a)– habitantes–de– Yerushalayim
+-- c15-v7: e–porei (a)– meu–rosto contra–eles do–fogo saíram e–o–fogo os–devorará e–sabereis que– eu YHWH quando–puser (a)– meu–rosto contra–eles
+-- c15-v8: e–farei (a)– a–terra desolação porque transgrediram transgressão declaração–de– Senhor YHWH ¶
+-- c16-v1: e–foi palavra–de– YHWH para–mim dizendo
+-- c16-v2: filho–de– homem faze–conhecer (a)– Yerushalayim (a)– suas–abominações
+-- c16-v3: e–dirás assim– disse Senhor YHWH a–Yerushalayim tua–origem e–teu–nascimento de–terra–de– o–Kenaani teu–pai o–Emori e–tua–mãe Chittit
+-- c16-v4: e–teu–nascimento no–dia–de– nasceres a–ti não– foi–cortado teu–umbigo e–com–água não– foste–lavada para–limpeza e–salgar não foste–salgada e–enfaixar não foste–enfaixada
+-- c16-v5: não– poupou sobre–ti olho para–fazer a–ti uma destas para–compaixão sobre–ti e–foste–lançada para– face–de– o–campo com–náusea–de– tua–alma no–dia–de– nasceres a–ti
+-- c16-v6: e–passei junto–a–ti e–vi–te contorcendo-te no–teu–sangue e–disse a–ti no–teu–sangue vive e–disse a–ti no–teu–sangue vive
+-- c16-v7: dezenas–de–milhares como–brotar–de– o–campo te–fiz e–multiplicaste e–cresceste e–vieste em–ornamento–de– ornamentos seios ficaram–firmes e–teu–cabelo cresceu e–tu nua e–desnuda
+-- c16-v8: e–passei junto–a–ti e–vi–te e–eis teu–tempo tempo–de– amores e–estendi minha–asa sobre–ti e–cobri tua–nudez e–jurei a–ti e–entrei em–aliança contigo declaração–de– Senhor YHWH e–foste para–mim
+-- c16-v9: e–lavei–te com–água e–enxaguei teu–sangue de–sobre–ti e–ungi–te com–óleo
+-- c16-v10: e–vesti–te de–bordado e–calcei–te de–couro–fino e–cingi–te de–linho–fino e–cobri–te de–seda
+-- c16-v11: e–adornei–te de–adorno e–pus braceletes sobre– tuas–mãos e–colar sobre– teu–pescoço
+-- c16-v12: e–pus anel sobre– teu–nariz e–brincos sobre– tuas–orelhas e–coroa–de– esplendor na–tua–cabeça
+-- c16-v13: e–adornaste-te de–ouro e–prata e–tuas–vestes linho–fino linho–fino e–seda e–bordado flor–de–farinha e–mel e–óleo comeste comeste e–ficaste–bela em–muito muito e–prosperaste para–realeza
+-- c16-v14: e–saiu a–ti nome entre–as–nações pela–tua–beleza porque completa ela na–minha–majestade que– pus sobre–ti declaração–de– Senhor YHWH
+-- c16-v15: e–confiaste na–tua–beleza e–te–prostituíste por– teu–nome e–derramaste (a)– tuas–prostituições sobre– todo– que–passa para–ele– será
+-- c16-v16: e–tomaste de–tuas–vestes e–fizeste– para–ti altos coloridos e–te–prostituíste sobre–eles não vindo e–não será
+-- c16-v17: e–tomaste utensílios–de– tua–beleza do–meu–ouro e–da–minha–prata que dei a–ti e–fizeste– para–ti imagens–de– macho e–te–prostituíste– com–elas
+-- c16-v18: e–tomaste (a)– vestes–de– teu–bordado e–cobriste–os e–meu–óleo e–meu–incenso puseste puseste diante–deles
+-- c16-v19: e–meu–pão que– dei a–ti flor–de–farinha e–óleo e–mel alimentei–te e–puseste–o diante–deles como–cheiro–de– agrado e–foi declaração–de– Senhor YHWH
+-- c16-v20: e–tomaste (a)– teus–filhos e–(a)– tuas–filhas que geraste para–mim e–sacrificaste–os a–eles para–comer é–pouco de–tua–prostituição de–tuas–prostituições
+-- c16-v21: e–mataste (a)– meus–filhos e–os–deste ao–fazer–passar (a)–eles a–eles
+-- c16-v22: e–(a)– todas– tuas–abominações e–tuas–prostituições não lembraste lembraste (a)– dias–de– tua–juventude quando–eras nua e–desnuda contorcendo-te no–teu–sangue estavas
+-- c16-v23: e–foi depois–de– toda– tua–maldade ai ai de–ti declaração–de– Senhor YHWH
+-- c16-v24: e–construíste– para–ti morro e–fizeste– para–ti lugar–alto em–toda– praça
+-- c16-v25: em– toda– cabeça–de– caminho construíste teu–lugar–alto e–fizeste–abominavel (a)– tua–beleza e–abriste (a)– tuas–pernas a–todo– que–passa e–multiplicaste (a)– tua–prostituição tuas–prostituições
+-- c16-v26: e–te–prostituíste para– filhos–de– Mitsrayim teus–vizinhos grandes–de– carne e–multiplicaste (a)– tua–prostituição para–me–provocar
+-- c16-v27: e–eis estendi minha–mão sobre–ti e–diminuí tua–porção e–entreguei–te na–vontade–de– as–que–te–odeiam filhas–de– Pelishtim as–envergonhadas de–teu–caminho devasss
+-- c16-v28: e–te–prostituíste para– filhos–de– Ashshur por–não– estares–satisfeita e–te–prostituíste e–também não ficaste–satisfeita
+-- c16-v29: e–multiplicaste (a)– tua–prostituição para– terra–de– Kenaan à–Caldeia e–também– com–isso não ficaste–satisfeita
+-- c16-v30: quão fraco teu–coração declaração–de– Senhor YHWH ao–fazeres (a)– todas– estas obra–de– mulher– prostituta dominante
+-- c16-v31: quando–construíste teu–morro na–cabeça–de– todo– caminho e–teu–lugar–alto fizeste fizeste em–toda– praça e–não– foste foste como–a–prostituta para–desprezar pagamento
+-- c16-v32: a–mulher a–adúltera em–vez–de– seu–marido toma (a)– estranhos
+-- c16-v33: a–todas– prostitutas dão– presente e–tu deste (a)– teus–presentes a–todos– teus–amantes e–subornaste (a)–eles para–virem para–ti de–ao–redor em–tuas–prostituições
+-- c16-v34: e–foi– em–ti inversão das– as–mulheres em–tuas–prostituições e–após–ti não foi–prostituição e–ao–dares pagamento e–pagamento não foi–dado– a–ti e–foste como–inversão
+-- c16-v35: portanto prostituta ouve palavra–de– YHWH ¶
+-- c16-v36: assim– disse Senhor YHWH porque foi–derramada tua–imundice e–foi–exposta tua–nudez em–tuas–prostituições sobre– teus–amantes e–sobre– todos– ídolos–de– tuas–abominações e–como–sangue–de– teus–filhos que deste a–eles
+-- c16-v37: portanto eis–me ajuntando (a)– todos– teus–amantes com–os–quais te–misturaste sobre–eles e–(a)– todos– os–que amaste com– todos– os–que odiaste e–ajuntarei (a)–eles contra–ti de–ao–redor e–exporei tua–nudez a–eles e–verão (a)– toda– tua–nudez
+-- c16-v38: e–julgarei–te juízos–de– adúlteras e–derramadoras–de– sangue e–farei–te sangue–de– furia e–ciúme
+-- c16-v39: e–entregarei (a)–ti na–mão–deles e–derrubarão teu–morro e–destruirão teus–lugares–altos e–despirão (a)–ti tuas–vestes e–tomarão utensílios–de– tua–beleza e–deixarão–te nua e–desnuda
+-- c16-v40: e–farão–subir sobre–ti assembléia e–apedrejarão (a)–ti com–pedra e–cortarão–te com–suas–espadas
+-- c16-v41: e–queimarão tuas–casas com–fogo e–executarão– em–ti juízos aos–olhos–de– mulheres muitas e–farei–cessar–te de–prostituta e–também– pagamento não darás– mais
+-- c16-v42: e–farei–repousar minha–furia de–ti e–cessará meu–ciúme de–ti e–sossegar–me–ei e–não me–irar–ei mais
+-- c16-v43: porque que não– lembraste lembraste (a)– dias–de– tua–juventude e–provocaste–me– a–mim com–todas– estas e–também– eu eis teu–caminho na–cabeça porei declaração–de– Senhor YHWH e–não fizeste fizeste (a)– a–devassião sobre– todas– tuas–abominações
+-- c16-v44: eis todo– o–que–usa–provérbio sobre–ti usará–provérbio dizendo como–a–mãe a–filha
+-- c16-v45: filha–de– tua–mãe tu que–rejeita seu–marido e–seus–filhos e–irmã–de– tuas–irmãs tu que rejeitaram seus–maridos e–seus–filhos vossa–mãe Chittit e–vosso–pai Emori
+-- c16-v46: e–tua–irmã a–maior Shomeron ela e–suas–filhas a–que–habita à– tua–esquerda e–tua–irmã a–menor de–ti a–que–habita à–tua–direita Sedom e–suas–filhas
+-- c16-v47: e–não nos–seus–caminhos andaste e–em–suas–abominações fizeste fizeste como–pouco pouco e–te–corrompeste mais–do–que–elas em–todos– teus–caminhos
+-- c16-v48: vivo– eu declaração–de– Senhor YHWH se– fez Sedom tua–irmã ela e–suas–filhas como fizeste tu e–tuas–filhas
+-- c16-v49: eis– esta foi iniquidade–de– Sedom tua–irmã orgulho fartura–de– pão e–tranquilidade–de– o–sossego foi a–ela e–a–suas–filhas e–mão–de– pobre e–necessitado não fortaleceu
+-- c16-v50: e–se–ensoberbeceram e–fizeram abominação diante–de–mim e–removi (a)–elas como vi §
+-- c16-v51: e–Shomeron metade–de– teus–pecados não pecou e–multiplicaste (a)– tuas–abominações mais–do–que–elas e–justificaste (a)– tuas–irmãs tuas–irmãs em–todas– tuas–abominações que fizeste fizeste
+-- c16-v52: também– tu carrega tua–vergonha que intercedeste por–tuas–irmãs em–teus–pecados que– te–fizeste–mais–abominavel do–que–elas são–mais–justas do–que–ti e–também– tu envergonha–te e–carrega tua–vergonha ao–justificares tuas–irmãs
+-- c16-v53: e–restaurarei (a)– seu–cativeiro (a)– cativeiro–de– cativeiro–de– Sedom e–suas–filhas e–(a)– cativeiro–de– cativeiro–de– Shomeron e–suas–filhas e–cativeiro–de– e–cativeiro–de– teu–cativeiro no–meio–delas
+-- c16-v54: para–que carregues tua–vergonha e–te–envergonhes de–tudo que fizeste ao–consolares (a)–elas
+-- c16-v55: e–tuas–irmãs Sedom e–suas–filhas voltarão ao–seu–estado–anterior e–Shomeron e–suas–filhas voltarão ao–seu–estado–anterior e–tu e–tuas–filhas voltareis ao–vosso–estado–anterior
+-- c16-v56: e–não foi Sedom tua–irmã para–notícia em–tua–boca no–dia–de– teu–orgulho
+-- c16-v57: antes–de– ser–exposta tua–maldade como tempo–de– zombaria–de– filhas–de– Aram e–todas– ao–redor–dela filhas–de– Pelishtim as–que–te–desprezam (a)–ti de–ao–redor
+-- c16-v58: (a)– tua–devassião e–(a)– tuas–abominações tu carregaste–as declaração–de– YHWH §
+-- c16-v59: porque assim disse Senhor YHWH e–farei e–farei (a)–ti como fizeste que– desprezaste juramento para–quebrar aliança
+-- c16-v60: e–lembrar–me–ei eu (a)– minha–aliança contigo nos–dias–de– tua–juventude e–estabelecerei para–ti aliança eterna
+-- c16-v61: e–lembrarás (a)– teus–caminhos e–te–envergonharás quando–receberes (a)– tuas–irmãs as–maiores de–ti com– as–menores de–ti e–darei (a)–elas a–ti como–filhas e–não de–tua–aliança
+-- c16-v62: e–estabelecerei eu (a)– minha–aliança contigo e–saberás que– eu YHWH
+-- c16-v63: para–que lembres e–te–envergonhes e–não haja– a–ti mais abertura–de– boca por–causa–de– tua–vergonha quando–eu–expiar– por–ti por–tudo– que fizeste declaração–de– Senhor YHWH §
+-- c17-v1: e–foi palavra–de– YHWH para–mim dizendo
+-- c17-v2: filho–de– homem propõe enigma e–fala parábola para– casa–de– Yisrael
+-- c17-v3: e–dirás assim– disse Senhor YHWH a–águia a–grande grande–de– as–asas longa–de– a–plumagem cheia–de– a–pena que– a–ela o–bordado veio para– o–Lívano e–tomou (a)– copa–de– o–cedro
+-- c17-v4: (a)– ponta–de– seus–brotos arrancou e–trouxe–o para– terra–de– Kenaan em–cidade–de– mercadores colocou–o
+-- c17-v5: e–tomou da–semente–de– a–terra e–a–colocou em–campo–de– plantio tomando junto–a– águas muitas como–salgueiro a–pôs
+-- c17-v6: e–brotou e–foi como–videira espalhada baixa–de– estatura para–voltar seus–ramos para–ele e–suas–raízes debaixo–dele serão e–foi como–videira e–produziu ramos e–lançou brotos
+-- c17-v7: e–havia águia– uma grande grande–de– asas e–muita– pena e–eis a–videira a–esta curvou suas–raízes para–ela e–seus–ramos lançou– para–ela para–regar (a)–ela dos–canteiros–de– seu–plantio
+-- c17-v8: em– campo bom junto–a– águas muitas ela estava–plantada para–fazer ramo e–para–produzir fruto para–ser como–videira majestosa §
+-- c17-v9: dize assim disse Senhor YHWH prosperará não (a)– suas–raízes arrancará e–(a)– seu–fruto cortará e–secará todas– folhas–de– seu–broto secarão e–não– com–braço grande e–com–povo– muito para–levantá–la (a)–ela de–suas–raízes
+-- c17-v10: e–eis plantada prosperará não quando–tocar nela vento–de– o–leste secará secará sobre– canteiros–de– seu–broto secará ¶
+-- c17-v11: e–foi palavra–de– YHWH para–mim dizendo
+-- c17-v12: dize– por–favor à–casa–de– a–rebelião não sabeis que– estas dize eis– veio rei–de– Bavel a–Yerushalayim e–tomou (a)– seu–rei e–(a)– seus–príncipes e–trouxe (a)–eles para–ele a–Bavel
+-- c17-v13: e–tomou da–semente–de– a–realeza e–cortou com–ele aliança e–trouxe (a)–ele em–juramento e–(a)– poderosos–de– a–terra tomou
+-- c17-v14: para–ser reino humilde para–não– se–exaltar para–guardar (a)– sua–aliança para–permanecer
+-- c17-v15: e–rebelou–se– contra–ele para–enviar seus–mensageiros ao–Mitsrayim para–dar– a–ele cavalos e–povo– muito prosperará escapará o–que–faz estas e–quebra aliança e–escapará
+-- c17-v16: vivo– eu declaração–de– Senhor YHWH se– não no–lugar–de– o–rei o–que–fez–rei (a)–ele que desprezou (a)– seu–juramento e–que quebrou (a)– sua–aliança com–ele no–meio–de– Bavel morrerá
+-- c17-v17: e–não com–exército grande e–com–assembléia muita fará (a)–ele Paroah na–guerra quando–levantar rampa e–quando–construir torres–de–cerco para–cortar almas muitas
+-- c17-v18: e–desprezou juramento para–quebrar aliança e–eis deu sua–mão e–todas– estas fez não escapará §
+-- c17-v19: portanto assim– disse Senhor YHWH vivo– eu se– não meu–juramento que desprezou e–minha–aliança que quebrou e–porei–a na–sua–cabeça
+-- c17-v20: e–estenderei sobre–ele minha–rede e–será–apanhado em–minha–armadilha e–trarei–o a–Bavel e–julgarei com–ele ali sua–transgressão que transgrediu– contra–mim
+-- c17-v21: e–(a)– todos– seus–fugitivos seus–fugitivos em–todas– suas–tropas pela–espada cairão e–os–remanescentes a–todo– vento serão–espalhados e–sabereis que eu YHWH falei §
+-- c17-v22: assim disse Senhor YHWH e–tomarei eu da–copa–de– o–cedro o–alto e–porei da–ponta–de– seus–brotos tenro arrancarei e–plantarei eu sobre– monte– alto e–elevado
+-- c17-v23: no–monte–de– altura–de– Yisrael plantarei–o e–produzirá ramo e–fará fruto e–será como–cedro majestoso e–habitarão debaixo–dele toda ave–de– toda– asa na–sombra–de– seus–ramos habitarão
+-- c17-v24: e–saberão todas– árvores–de– o–campo que eu YHWH abaixei árvore alta exaltei árvore baixa sequei árvore verde e–fiz–florescer árvore seca eu YHWH falei e–farei ¶
+-- c18-v1: e–foi palavra–de– YHWH para–mim dizendo
+-- c18-v2: o–que– a–vós vós usais–provérbio (a)– o–provérbio o–este sobre– terra–de– Yisrael dizendo pais comem uvas–verdes e–dentes–de– os–filhos ficam–embotados
+-- c18-v3: vivo– eu declaração–de– Senhor YHWH se– haverá a–vós mais usar–provérbio o–provérbio o–este em–Yisrael
+-- c18-v4: eis todas– as–almas para–mim elas como–alma–de– o–pai e–como–alma–de– o–filho para–mim– elas a–alma a–que–peca ela morrerá §
+-- c18-v5: e–homem se– for justo e–fizer justiça e–justiça
+-- c18-v6: sobre– os–montes não comeu e–seus–olhos não levantou para– ídolos–de– casa–de– Yisrael e–(a)– mulher–de– seu–próximo não contaminou e–para– mulher menstruada não se–aproximou
+-- c18-v7: e–homem não oprime seu–penhor de–dívida devolve roubo não rouba seu–pão ao–faminto dá e–nu cobre– de–roupa
+-- c18-v8: com–juros não– dá e–usura não toma de–iniquidade retira sua–mão justiça–de– verdade faz entre homem a–homem
+-- c18-v9: nos–meus–estatutos anda e–meus–juízos guardou para–fazer verdade justo ele vivendo viverá declaração–de– Senhor YHWH
+-- c18-v10: e–gerar filho– violento derramador–de– sangue e–fizer irmão de–uma destas
+-- c18-v11: e–ele (a)– todas– estas não fez mas também sobre– os–montes comeu e–(a)– mulher–de– seu–próximo contaminou
+-- c18-v12: pobre e–necessitado oprimiu roubos roubou penhor não devolve e–para– os–ídolos levantou seus–olhos abominação fez
+-- c18-v13: com–juros deu e–usura tomou e–viverá não viverá (a)– todas– as–abominações as–estas fez morrendo morrerá seu–sangue nele será
+-- c18-v14: e–eis gerar filho e–vir (a)– todos– pecados–de– seu–pai que fez e–vir e–não fará como–eles
+-- c18-v15: sobre– os–montes não comeu e–seus–olhos não levantou para– ídolos–de– casa–de– Yisrael (a)– mulher–de– seu–próximo não contaminou
+-- c18-v16: e–homem não oprimiu penhor não reteve e–roubo não roubou seu–pão ao–faminto deu e–nu cobriu– de–roupa
+-- c18-v17: do–pobre retirou sua–mão juros e–usura não tomou meus–juízos fez nos–meus–estatutos andou ele não morrerá pela–iniquidade–de– seu–pai vivendo viverá
+-- c18-v18: seu–pai porque– oprimiu opressão roubou roubo–de– irmão e–o–que não– bom fez no–meio–de– seu–povo e–eis– morreu em–sua–iniquidade
+-- c18-v19: e–direis por–que não– carregou o–filho pela–iniquidade–de– o–pai e–o–filho justiça e–justiça fez (a)– todos– meus–estatutos guardou e–fez (a)–eles vivendo viverá
+-- c18-v20: a–alma a–que–peca ela morrerá filho não– carregará pela–iniquidade–de– o–pai e–pai não carregará pela–iniquidade–de– o–filho justiça–de– o–justo sobre–ele será e–maldade–de– perverso o–perverso sobre–ele será §
+-- c18-v21: e–o–perverso se se–converter de–todos– seus–pecados seus–pecados que fez e–guardar (a)– todos– meus–estatutos e–fizer justiça e–justiça vivendo viverá não morrerá
+-- c18-v22: todas– suas–transgressões que fez não serão–lembradas a–ele em–sua–justiça que– fez viverá
+-- c18-v23: desejando desejo morte–de– perverso declaração–de– Senhor YHWH não quando–se–converter de–seus–caminhos e–viverá §
+-- c18-v24: e–quando–se–converter justo de–sua–justiça e–fizer iniquidade conforme–todas– as–abominações que– fez o–perverso fará e–viverá todas– suas–justiças suas–justiças que– fez não serão–lembradas em–sua–transgressão que– transgrediu e–em–seu–pecado que– pecou neles morrerá
+-- c18-v25: e–direis não é–justo caminho–de– Senhor ouvi– por–favor casa–de– Yisrael meu–caminho não é–justo não vossos–caminhos não são–justos
+-- c18-v26: quando–se–converter– justo de–sua–justiça e–fizer iniquidade e–morrer por–eles em–sua–iniquidade que– fez morrerá §
+-- c18-v27: e–quando–se–converter perverso de–sua–maldade que fez e–fizer justiça e–justiça ele (a)– sua–alma manterá–viva
+-- c18-v28: e–vir e–se–converter e–se–converter de–todas– suas–transgressões que fez vivendo viverá não morrerá
+-- c18-v29: e–dizem casa–de– Yisrael não é–justo caminho–de– Senhor meus–caminhos não são–justos casa–de– Yisrael não vossos–caminhos não são–justos
+-- c18-v30: portanto homem conforme–seus–caminhos julgarei a–vós casa–de– Yisrael declaração–de– Senhor YHWH convertei–vos e–afastai–vos de–todas– vossas–transgressões e–não– será a–vós como–tropeço de–iniquidade
+-- c18-v31: lançai de–sobre–vós (a)– todas– vossas–transgressões que transgredistes nelas e–fazei para–vós coração novo e–espírito novo e–por–que morrereis casa–de– Yisrael
+-- c18-v32: porque não desejo pela–morte–de– o–que–morre declaração–de– Senhor YHWH e–convertei–vos e–vivei ¶
+-- c19-v1: e–tu levanta lamentação para– príncipes–de– Yisrael
+-- c19-v2: e–dirás que tua–mãe leoa entre leões se–deitou no–meio–de– leões–jovens criou seus–filhotes
+-- c19-v3: e–fez–subir um de–seus–filhotes leão–jovem foi e–aprendeu a–despedaçar– presa homem devorou
+-- c19-v4: e–ouviram sobre–ele nações em–sua–cova foi–apanhado e–trouxeram–no com–ganchos para– terra–de– Mitsrayim
+-- c19-v5: e–viu que foi–esperado foi–perdida sua–esperança e–tomou um de–seus–filhotes leão–jovem o–pôs
+-- c19-v6: e–andou no–meio–de– leões leão–jovem foi e–aprendeu a–despedaçar– presa homem devorou
+-- c19-v7: e–conheceu suas–viúvas e–suas–cidades destruiu e–ficou–desolada terra e–sua–plenitude do–som–de– seu–rugido
+-- c19-v8: e–puseram sobre–ele nações ao–redor das–províncias e–estenderam sobre–ele sua–rede em–sua–cova foi–apanhado
+-- c19-v9: e–puseram–no na–jaula com–ganchos e–trouxeram–no para– rei–de– Bavel trouxeram–no nas–fortalezas para–que não– seja–ouvida sua–voz mais sobre– montes–de– Yisrael ¶
+-- c19-v10: tua–mãe como–videira em–teu–sangue junto–a– águas plantada frutífera e–cheia–de–ramos foi de–águas muitas
+-- c19-v11: e–havia– a–ela varas–de– força para– cetros–de– governantes e–elevou-se sua–estatura sobre– entre ramos–espessos e–foi–vista em–sua–altura na–multidão–de– seus–ramos
+-- c19-v12: e–foi–arrancada em–furia à–terra foi–lançada e–vento–de– o–leste secou seu–fruto foram–quebrados e–secaram vara–de– sua–força fogo devorou–a
+-- c19-v13: e–agora plantada no–deserto em–terra–de– seca e–sede
+-- c19-v14: e–saiu fogo de–vara–de– seus–ramos seu–fruto devorou e–não– havia nela vara–de– força cetro para–governar lamentação ela e–foi como–lamentação ¶
+-- c20-v1: e–foi no–ano o–sétimo no–quinto no–décimo do–mês vieram homens dos–anciãos–de Yisrael para–consultar (a)– YHWH e–sentaram-se diante–de–mim §
+-- c20-v2: e–foi palavra–de– YHWH a–mim dizendo
+-- c20-v3: filho–de– homem fala (a)– anciãos–de Yisrael e–dirás a–eles assim disse Senhor YHWH para–consultar a–mim vós vindes vivo– eu se– serei–consultado por–vós oráculo–de Senhor YHWH
+-- c20-v4: julgarás (a)–eles julgarás filho–de– homem (a)– abominações–de pais–deles faze–conhecer–a–eles
+-- c20-v5: e–dirás a–eles assim– disse Senhor YHWH no–dia de–meu–escolher em–Yisrael e–levantei minha–mão à–semente–de casa–de Yaaqov e–me–dei–a–conhecer a–eles na–terra–de Mitsrayim e–levantei minha–mão a–eles dizendo eu YHWH vosso–Deus
+-- c20-v6: no–dia aquele levantei minha–mão a–eles para–fazê-los–sair da–terra–de Mitsrayim para– terra que– explorei para–eles que–flui leite e–mel ornamento ela de–todas– as–terras
+-- c20-v7: e–disse a–eles cada–um abominações–de seus–olhos lançai–fora e–com–os–ídolos–de Mitsrayim não– vos–contamineis eu YHWH vosso–Deus
+-- c20-v8: e–rebelaram-se– contra–mim e–não quiseram ouvir a–mim cada–um (a)– abominações–de seus–olhos não lançaram–fora e–(a)– ídolos–de Mitsrayim não abandonaram e–disse para–derramar minha–ira sobre–eles para–consumar minha–raiva contra–eles no–meio–de terra–de Mitsrayim
+-- c20-v9: e–agi por–causa–de meu–nome para–não ser–profanado aos–olhos–de as–nações que– eles no–meio–deles que me–dei–a–conhecer a–eles aos–olhos–deles para–fazê-los–sair da–terra–de Mitsrayim
+-- c20-v10: e–os–fiz–sair da–terra–de Mitsrayim e–os–trouxe para– o–deserto
+-- c20-v11: e–dei a–eles (a)– meus–estatutos e–(a)– meus–juízos fiz–conhecer (a)–eles que fará (a)–eles o–homem e–viverá por–eles
+-- c20-v12: e–também (a)– meus–sábados dei a–eles para–ser por–sinal entre–mim e–entre–eles para–saber que eu YHWH que–os–santifica
+-- c20-v13: e–rebelaram-se– contra–mim casa–de– Yisrael no–deserto em–meus–estatutos não– andaram e–(a)– meus–juízos rejeitaram que fará (a)–eles o–homem e–viverá por–eles e–(a)– meus–sábados profanaram muito e–disse para–derramar minha–ira sobre–eles no–deserto para–consumi-los
+-- c20-v14: e–agi por–causa–de meu–nome para–não ser–profanado aos–olhos–de as–nações que os–tirei aos–olhos–deles
+-- c20-v15: e–também– eu levantei minha–mão a–eles no–deserto para–não trazer (a)–eles para– a–terra que– dei que–flui leite e–mel ornamento ela de–todas– as–terras
+-- c20-v16: porque em–meus–juízos rejeitaram e–(a)– meus–estatutos não– andaram neles e–(a)– meus–sábados profanaram porque após seus–ídolos coração–deles ia
+-- c20-v17: e–poupou meu–olho sobre–eles de–destruí-los e–não– fiz (a)–eles fim no–deserto
+-- c20-v18: e–disse aos– filhos–deles no–deserto nos–estatutos–de vossos–pais não– andeis e–(a)– juízos–deles não– guardeis e–com–os–ídolos–deles não– vos–contamineis
+-- c20-v19: eu YHWH vosso–Deus em–meus–estatutos andai e–(a)– meus–juízos guardai e–fazei (a)–eles
+-- c20-v20: e–(a)– meus–sábados santificai e–serão por–sinal entre–mim e–entre–vós para–saber que eu YHWH vosso–Deus
+-- c20-v21: e–rebelaram-se– contra–mim os–filhos em–meus–estatutos não– andaram e–(a)– meus–juízos não– guardaram para–fazer (a)–eles que fará (a)–eles o–homem e–viverá por–eles (a)– meus–sábados profanaram e–disse para–derramar minha–ira sobre–eles para–consumar minha–raiva contra–eles no–deserto
+-- c20-v22: e–retirei (a)– minha–mão e–agi por–causa–de meu–nome para–não ser–profanado aos–olhos–de as–nações que– os–tirei (a)–eles aos–olhos–deles
+-- c20-v23: também– eu levantei (a)– minha–mão a–eles no–deserto para–espalhar (a)–eles entre–as–nações e–para–dispersar (a)–eles nas–terras
+-- c20-v24: porque meus–juízos não– fizeram e–meus–estatutos rejeitaram e–(a)– meus–sábados profanaram e–após ídolos–de seus–pais estavam seus–olhos
+-- c20-v25: e–também– eu dei a–eles estatutos não bons e–juízos não viverão por–eles
+-- c20-v26: e–contaminei (a)–eles em–suas–ofertas ao–fazer–passar todo– primogênito–de ventre para–que eu–os–devastasse para–que o–qual soubessem que eu YHWH §
+-- c20-v27: portanto fala à– casa–de Yisrael filho–de– homem e–dirás a–eles assim disse Senhor YHWH ainda isto blasfemaram a–mim vossos–pais em–sua–infidelidade contra–mim infidelidade
+-- c20-v28: e–os–trouxe para– a–terra que levantei (a)– minha–mão para–dar (a)–ela a–eles e–viram todo– monte alto e–toda– árvore frondosa e–sacrificaram– ali (a)– seus–sacrifícios e–deram– ali provo–cação–de sua–oferta e–puseram ali aroma–de seu–cheiro–suave e–derramaram ali (a)– suas–libações
+-- c20-v29: e–disse a–eles o–que–é o–lugar–alto que– vós ides para–lá e–foi–chamado seu–nome Bamah até o–dia este
+-- c20-v30: portanto dize à– casa–de Yisrael assim disse Senhor YHWH no–caminho–de vossos–pais vós vos–contaminais e–após suas–abominações vós vos–prostituís
+-- c20-v31: e–ao–ofertar vossas–ofertas ao–fazer–passar vossos–filhos pelo–fogo vós vos–contaminais com–todos– vossos–ídolos até– o–dia e–eu serei–consultado por–vós casa–de Yisrael vivo– eu oráculo–de Senhor YHWH se– serei–consultado por–vós
+-- c20-v32: e–o–que–sobe sobre– vosso–espírito sendo não será o–que vós dizeis seremos como–as–nações como–as–famílias–de as–terras para–servir madeira e–pedra
+-- c20-v33: vivo– eu oráculo–de Senhor YHWH se– não com–mão forte e–com–braço estendido e–com–ira derramada reinarei sobre–vós
+-- c20-v34: e–farei–sair (a)–vós de–entre– os–povos e–reunirei (a)–vós das– terras onde fostes–dispersos nelas com–mão forte e–com–braço estendido e–com–ira derramada
+-- c20-v35: e–trarei (a)–vós para– deserto–de os–povos e–entrarei–em–juízo convosco ali face a– face
+-- c20-v36: como entrei–em–juízo com– vossos–pais no–deserto–de terra–de Mitsrayim assim entrarei–em–juízo convosco oráculo–de Senhor YHWH
+-- c20-v37: e–farei–passar (a)–vós sob a–vara e–farei–entrar (a)–vós no–vínculo–de a–aliança
+-- c20-v38: e–separarei de–vós os–rebeldes e–os–transgressores contra–mim da–terra–de suas–peregrinações farei–sair (a)–eles e–para– terra–de Yisrael não entrarão e–sabereis que– eu YHWH
+-- c20-v39: e–vós casa–de– Yisrael assim– disse Senhor YHWH cada–um seus–ídolos ide servi e–depois se– não–estais ouvindo a–mim e–(a)– nome–de minha–santidade não profanareis– mais com–vossas–ofertas e–com–vossos–ídolos
+-- c20-v40: porque no–monte–de– minha–santidade no–monte– alto–de Yisrael oráculo–de Senhor YHWH ali me–servirão toda– casa–de Yisrael toda–ela na–terra ali os–aceitarei e–ali buscarei (a)– vossas–contribuições e–(a)– primícias–de vossas–ofertas com–todas– vossas–coisas–santas
+-- c20-v41: com–aroma–de cheiro–suave vos–aceitarei (a)–vós quando–eu–fizer–sair (a)–vós de–entre– os–povos e–vos–reunir (a)–vós das– terras onde fostes–dispersos nelas e–serei–santificado em–vós aos–olhos–de as–nações
+-- c20-v42: e–sabereis que– eu YHWH quando–eu–trouxer (a)–vós para– terra–de Yisrael para– a–terra que levantei (a)– minha–mão para–dar (a)–ela a–vossos–pais
+-- c20-v43: e–vos–lembrareis– ali (a)– vossos–caminhos e–(a)– todas– vossas–ações com–as–quais vos–contaminastes com–elas e–sentireis–nojo em–vossas–faces por–todas– vossas–maldades que fizestes
+-- c20-v44: e–sabereis que– eu YHWH quando–eu–agir convosco por–causa–de meu–nome não conforme–vossos–caminhos os–maus e–conforme–vossas–ações as–corrompidas casa–de Yisrael oráculo–de Senhor YHWH ¶
+-- c20-v45: e–foi palavra–de– YHWH a–mim dizendo
+-- c20-v46: filho–de– homem põe tua–face caminho–de o–sul e–derrama para– o–sul e–profetiza para– bosque–de o–campo Negev
+-- c20-v47: e–dirás ao–bosque–de o–Negev ouve palavra–de– YHWH assim– disse Senhor YHWH eis–me acendendo– em–ti fogo e–devorará em–ti toda– árvore– verde e–toda– árvore seca não– se–apagará chama–de labareda e–serão–queimadas– por–ela todas– faces do–sul ao–norte
+-- c20-v48: e–verão toda– carne que eu YHWH a–acendi não se–apagará
+-- c20-v49: e–disse ah Senhor YHWH eles dizem de–mim não faz–proferir parábolas ele ¶
+-- c21-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c21-v2: Filho–de homem coloca tua–face para Yerushalayim e–profetiza para os–santuários e–profetiza para terra–de Yisrael
+-- c21-v3: E–dirás a–terra–de Yisrael assim disse YHWH eis–me contra–ti e–tirarei minha–espada de–sua–bainha e–cortarei de–ti justo e–ímpio
+-- c21-v4: Porque que cortarei de–ti justo e–ímpio portanto sairá minha–espada de–sua–bainha para toda carne do–sul ao–norte
+-- c21-v5: E–saberão toda carne que eu YHWH tirei minha–espada de–sua–bainha não voltará mais §
+-- c21-v6: E–tu filho–de homem geme com–quebrantamento–de lombos e–com–amargura gemerás diante–de–olhos–deles
+-- c21-v7: E–será quando disserem a–ti sobre que tu gemes E–dirás por notícia porque vem e–derreterá todo coração e–enfraquecerão todas mãos e–desfalecerá todo espírito e–todos joelhos irão água eis vem e–acontecerá oráculo–de Senhor YHWH ¶
+-- c21-v8: E–foi palavra–de YHWH a–mim dizendo
+-- c21-v9: Filho–de homem profetiza e–dirás assim disse Senhor dize espada espada afiada e–também polida
+-- c21-v10: Para fazer–matança matança afiada para haver para–ela relâmpago polida ou nos–alegraremos cetro–de meu–filho desprezando toda árvore
+-- c21-v11: E–deu (a)–ela para–polir para–segurar na–mão ela afiada espada e–ela polida para–dar (a)–ela em–mão–de matador
+-- c21-v12: Clama e–lamenta filho–de homem porque ela foi contra–meu–povo ela contra–todos príncipes–de Yisrael aterrorizados para espada foram (a) meu–povo portanto bate sobre coxa
+-- c21-v13: Porque teste e–que se também cetro desprezando não será oráculo–de Senhor YHWH ¶
+-- c21-v14: E–tu filho–de homem profetiza e–bate palma contra palma e–duplicará espada terceira–vez espada–de feridos ela espada–de ferido o–grande penetrando neles
+-- c21-v15: Para derreter coração e–multiplicar os–tropeços sobre todas suas–portas pus pavor–de espada ah feita para–relâmpago afiada para–matança
+-- c21-v16: Une–te à–direita volta–te à–esquerda para–onde tua–face está–dirigida
+-- c21-v17: E–também eu baterei minha–palma contra minha–palma e–farei–repousar minha–ira eu YHWH falei ¶
+-- c21-v18: E–foi palavra–de YHWH a–mim dizendo
+-- c21-v19: E–tu filho–de homem põe para–ti dois caminhos para–vir espada–de rei–de Bavel de–terra uma sairão os–dois–deles e–mão marca no–início–de caminho–de cidade marca
+-- c21-v20: Caminho porás para–vir espada (a) Rabbah–de filhos–de Ammon e–(a) Yehudah em–Yerushalayim fortificada
+-- c21-v21: Porque parou rei–de Bavel na mãe–de o–caminho no–início–de dois os–caminhos para–adivinhar adivinhação sacudiu as–flechas consultou os–terafins olhou no–fígado
+-- c21-v22: Em–sua–direita estava a–adivinhação Yerushalayim para–colocar aríetes para–abrir boca em–grito–de–guerra para–levantar voz em–alarido para–colocar aríetes contra portas para–derramar rampa para–construir baluarte
+-- c21-v23: E–será para–eles como–adivinhação como–adivinhação falsa aos–olhos–deles juramentos–de juramentos para–eles e–ele lembrando iniquidade para–ser–pegos ¶
+-- c21-v24: Portanto assim disse Senhor YHWH porque fizestes–lembrar vossa–iniquidade ao–revelar–se vossas–transgressões para–serem–vistas vossos–pecados em–todas vossas–obras porque fostes–lembrados pela–mão sereis–pegos ¶
+-- c21-v25: E–tu ferido ímpio príncipe–de Yisrael cujo veio seu–dia no–tempo–de iniquidade–de fim §
+-- c21-v26: Assim disse Senhor YHWH Remove o–turbante e–tira a–coroa esta não esta o–humilde será–exaltado e–o–exaltado será–humilhado
+-- c21-v27: Ruína ruína ruína a–farei também esta não será até vir aquele–que a–ele o–juízo e–o–darei ¶
+-- c21-v28: E–tu filho–de homem profetiza e–dirás assim disse Senhor YHWH aos filhos–de Ammon e–sobre sua–vergonha E–dirás espada espada desembainhada para–matança polida para–consumir para relâmpago
+-- c21-v29: Ao–verem para–ti falsidade ao–adivinharem para–ti mentira para–pôr (a)–ti sobre pescoços–de feridos ímpios cujo veio seu–dia no–tempo–de iniquidade–de fim
+-- c21-v30: Devolve a sua–bainha no–lugar onde foste–criada na–terra–de tua–origem te–julgarei (a)–ti
+-- c21-v31: E–derramarei sobre–ti minha–indignação com–fogo–de minha–fúria soprarei sobre–ti e–te–entregarei em–mão–de homens brutais artífices–de destruição
+-- c21-v32: Para–fogo serás para–devorar teu–sangue estará no–meio–de a–terra não serás–lembrada porque eu YHWH falei ¶
+-- c22-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c22-v2: E–tu filho–de homem julgarás julgarás (a) cidade–de os–sangues e–farás–conhecer–a–ela (a) todas suas–abominações
+-- c22-v3: E–dirás assim disse Senhor YHWH cidade derramando sangue em–seu–meio para–vir seu–tempo e–fez ídolos sobre–ela para–contaminar–se
+-- c22-v4: Por–teu–sangue que derramaste te–tornaste–culpada e–por–teus–ídolos que fizeste te–contaminaste e–fizeste–aproximar teus–dias e–vieste até teus–anos por isso te–fiz vergonha para–as–nações e–zombaria para–todas as–terras
+-- c22-v5: As–próximas e–as–distantes de–ti zombarão de–ti contaminada–de nome grande–de tumulto
+-- c22-v6: Eis príncipes–de Yisrael cada–um segundo–seu–braço foram em–ti para derramar sangue
+-- c22-v7: Pai e–mãe desprezaram em–ti ao–estrangeiro fizeram com–opressão em–teu–meio órfão e–viúva oprimiram em–ti
+-- c22-v8: Minhas–coisas–santas desprezaste e–(a) meus–sábados profanaste
+-- c22-v9: Homens–de calúnia estiveram em–ti para derramar sangue e–sobre os–montes comeram em–ti leviandade fizeram em–teu–meio
+-- c22-v10: Nudez–de pai descobriu em–ti impura–de menstruação humilharam em–ti
+-- c22-v11: E–homem (a) esposa–de seu–próximo fez abominação e–homem (a) sua–nora contaminou com–leviandade e–homem (a) sua–irmã filha–de seu–pai humilhou em–ti
+-- c22-v12: Suborno tomaram em–ti para derramar sangue juros e–usura tomaste e–exploraste teus–próximos com–opressão e–a–mim esqueceste oráculo–de Senhor YHWH
+-- c22-v13: E–eis bati minha–palma contra teu–ganho–ilícito que fizeste e–contra teu–sangue que esteve em–teu–meio
+-- c22-v14: Permanecerá teu–coração ou serão–fortes tuas–mãos para–os–dias que eu fazendo contigo eu YHWH falei e–farei
+-- c22-v15: E–espalharei (a)–ti entre–as–nações e–te–dispersarei pelas–terras e–acabarei tua–impureza de–ti
+-- c22-v16: E–serás–profanada em–ti aos–olhos–de nações e–saberás que eu YHWH ¶
+-- c22-v17: E–foi palavra–de YHWH a–mim dizendo
+-- c22-v18: Filho–de homem tornou–se para–mim casa–de Yisrael para–escória para–escória todos–eles bronze e–estanho e–ferro e–chumbo no–meio–de forno escória–de prata se–tornaram §
+-- c22-v19: Portanto assim disse Senhor YHWH porque tornastes–vos todos–vós em–escória portanto eis–me reunindo (a)–vós para o–meio–de Yerushalayim
+-- c22-v20: Reunião–de prata e–bronze e–ferro e–chumbo e–estanho para o–meio–de forno para–soprar sobre–ele fogo para–derreter assim reunirei em–minha–ira e–em–meu–furor e–porei e–derreterei (a)–vós
+-- c22-v21: E–ajuntarei (a)–vós e–soprarei sobre–vós com–fogo–de minha–fúria e–sereis–derretidos no–meio–dela
+-- c22-v22: Como–derretimento–de prata no–meio–de forno assim sereis–derretidos no–meio–dela e–sabereis que eu YHWH derramei meu–furor sobre–vós ¶
+-- c22-v23: E–foi palavra–de YHWH a–mim dizendo
+-- c22-v24: Filho–de homem dize a–ela tu terra não purificada ela não regada no–dia–de indignação
+-- c22-v25: Conspiração–de seus–profetas em–seu–meio como–leão rugindo despedaçando presa vida devoraram tesouro e–preciosidades tomam suas–viúvas multiplicaram em–seu–meio
+-- c22-v26: Seus–sacerdotes violaram minha–lei e–profanaram minhas–coisas–santas entre santo e–profano não distinguiram e–entre o–impuro e–o–puro não ensinaram e–de–meus–sábados esconderam seus–olhos e–sou–profanado em–seu–meio
+-- c22-v27: Seus–príncipes em–seu–meio como–lobos despedaçando presa para–derramar sangue para–destruir vidas para obter ganho–ilícito
+-- c22-v28: E–seus–profetas rebocaram para–eles reboco vendo falsidade e–adivinhando para–eles mentira dizendo assim disse Senhor YHWH e–YHWH não falou
+-- c22-v29: Povo–de a–terra oprimiram opressão e–roubaram roubo e–pobre e–necessitado maltrataram e–(a) o–estrangeiro oprimiram sem justiça
+-- c22-v30: E–busquei dentre–eles homem construindo muro e–ficando–de–pé na–brecha diante–de–mim em–favor–de a–terra para–não destruí–la e–não encontrei
+-- c22-v31: E–derramei sobre–eles minha–indignação com–fogo–de minha–fúria os–consumi seu–caminho sobre–sua–cabeça pus oráculo–de Senhor YHWH ¶
+-- c23-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c23-v2: Filho–de homem duas mulheres filhas–de mãe uma eram
+-- c23-v3: E–prostituíram–se no–Egito em–sua–juventude prostituíram–se ali apertaram seus–seios e–ali comprimiram mamilos–de sua–virgindade
+-- c23-v4: E–seus–nomes Oholah a–maior e–Oholibah sua–irmã e–se–tornaram para–mim e–deram–à–luz filhos e–filhas e–seus–nomes Shomron Oholah e–Yerushalayim Oholibah
+-- c23-v5: E–prostituiu–se Oholah debaixo–de–mim e–apaixonou–se por seus–amantes por Ashur vizinhos
+-- c23-v6: Vestidos–de púrpura–azul governadores e–oficiais jovens–de desejo todos–eles cavaleiros cavalgando cavalos
+-- c23-v7: E–deu suas–prostituições sobre–eles escolhidos–de filhos–de Ashur todos–eles e–com–todos que desejou com–todos seus–ídolos contaminou–se
+-- c23-v8: E–(a) suas–prostituições do–Egito não abandonou porque com–ela deitaram–se em–sua–juventude e–eles comprimiram mamilos–de sua–virgindade e–derramaram sua–prostituição sobre–ela
+-- c23-v9: Portanto a–entreguei em–mão–de seus–amantes em–mão–de filhos–de Ashur que desejou sobre–eles
+-- c23-v10: Eles descobriram sua–nudez seus–filhos e–suas–filhas levaram e–a–ela com–espada mataram e–tornou–se nome para–as–mulheres e–juízos executaram nela §
+-- c23-v11: E–viu sua–irmã Oholibah e–corrompeu sua–paixão mais–que–ela e–(a) suas–prostituições mais–que–prostituições–de sua–irmã
+-- c23-v12: Por filhos–de Ashur apaixonou–se governadores e–oficiais vizinhos vestidos–de esplendor cavaleiros cavalgando cavalos jovens–de desejo todos–eles
+-- c23-v13: E–vi que contaminou–se caminho um para–ambas
+-- c23-v14: E–aumentou (a) suas–prostituições e–viu homens esculpidos sobre a–parede imagens–de caldeus caldeus gravados com–vermelho
+-- c23-v15: Cingidos–de cinto em–seus–lombos turbantes–de tintura em–suas–cabeças aparência–de oficiais todos–eles semelhança–de filhos–de Bavel Kasdim terra–de seu–nascimento
+-- c23-v16: e–apaixonou–se e–apaixonou–se por–eles ao–ver seus–olhos e–enviou mensageiros a–eles à–Caldéia
+-- c23-v17: E–vieram a–ela filhos–de Bavel para–cama–de amores e–contaminaram (a)–ela com–sua–prostituição e–contaminou–se com–eles e–alienou–se sua–alma deles
+-- c23-v18: E–descobriu suas–prostituições e–descobriu (a) sua–nudez e–alienou–se minha–alma dela assim–como alienou–se minha–alma de sua–irmã
+-- c23-v19: E–multiplicou (a) suas–prostituições para–lembrar (a) dias–de sua–juventude que prostituiu–se na–terra–de Mitsrayim
+-- c23-v20: E–apaixonou–se por seus–concubinos cuja carne–de jumentos sua–carne e–fluxo–de cavalos seu–fluxo
+-- c23-v21: E–visitaste (a) leviandade–de tua–juventude quando–faziam do–Egito teus–mamilos por–causa–de seios–de tua–juventude §
+-- c23-v22: Portanto Oholibah assim disse Senhor YHWH eis–me despertando (a) teus–amantes contra–ti (a) de–quem alienou–se tua–alma deles e–os–trarei contra–ti de–redor
+-- c23-v23: Filhos–de Bavel e–todos caldeus Pekod e–Shoa e–Koa todos filhos–de Ashur com–eles jovens–de desejo governadores e–oficiais todos–eles oficiais e–renomados cavalgando cavalos todos–eles
+-- c23-v24: E–virão contra–ti armas carro e–roda e–com–assembléia–de povos escudo e–broquel e–capacete colocarão contra–ti ao–redor e–darei diante–deles juízo e–te–julgarão com–seus–juízos
+-- c23-v25: E–porei meu–zelo contra–ti e–tratarão (a)–ti com–fúria teu–nariz e–tuas–orelhas tirarão e–teu–remanescente com–espada cairá eles teus–filhos e–tuas–filhas levarão e–teu–remanescente será–devorado pelo–fogo
+-- c23-v26: E–despirão–te (a) tuas–roupas e–tomarão objetos–de tua–beleza
+-- c23-v27: E–farei–cessar tua–leviandade de–ti e–(a) tua–prostituição da–terra–de Mitsrayim e–não levantarás teus–olhos para–eles e–Egito não lembrarás mais §
+-- c23-v28: Porque assim disse Senhor YHWH eis–me entregando–te em–mão–de quem odeias em–mão–de quem alienou–se tua–alma deles
+-- c23-v29: E–tratarão (a)–ti com–ódio e–tomarão todo teu–trabalho e–te–deixarão nua e–despida e–será–descoberta nudez–de tuas–prostituições e–tua–leviandade e–tuas–prostituições
+-- c23-v30: Farão estas–coisas a–ti por–prostituíres–te após nações sobre que te–contaminaste com–seus–ídolos
+-- c23-v31: No–caminho–de tua–irmã andaste e–darei sua–taça em–tua–mão §
+-- c23-v32: Assim disse Senhor YHWH taça–de tua–irmã beberás a–profunda e–a–larga será para–riso e–para–zomb muito para–conter
+-- c23-v33: Embriaguez e–tristeza te–encherás taça–de horror e–desolação taça–de tua–irmã Shomron
+-- c23-v34: E–beberás (a)–ela e–esgotarás e–(a) seus–cacos roerás e–teus–seios arrancarás porque eu falei oráculo–de Senhor YHWH §
+-- c23-v35: Portanto assim disse Senhor YHWH porque esqueceste (a)–mim e–lançaste (a)–mim para–trás–de tuas–costas e–também tu carrega tua–leviandade e–(a) tuas–prostituições §
+-- c23-v36: E–disse YHWH a–mim filho–de homem julgarás (a) Oholah e–(a) Oholibah e–declara a–elas (a) suas–abominações
+-- c23-v37: Porque cometeram–adultério e–sangue em–suas–mãos e–com seus–ídolos cometeram–adultério e–também (a) seus–filhos que deram–à–luz para–mim fizeram–passar para–eles para–devorar
+-- c23-v38: Ainda isto fizeram para–mim contaminaram (a) meu–santuário no–dia aquele e–(a) meus–sábados profanaram
+-- c23-v39: E–quando–sacrificavam (a) seus–filhos para–seus–ídolos e–vinham a meu–santuário no–dia aquele para–profaná–lo e–eis assim fizeram no–meio–de minha–casa
+-- c23-v40: E–ainda que enviaram a–homens vindos de–longe a–quem mensageiro enviado a–eles e–eis vieram para–quem te–lavaste pintaste teus–olhos e–te–adornaste adorno
+-- c23-v41: E–te–sentaste sobre cama gloriosa e–mesa preparada diante–dela e–meu–incenso e–meu–azeite puseste sobre–ela
+-- c23-v42: E–voz–de multidão tranquila nela e–para homens de–abundância–de humanidade trazidos sabeus sabeus do–deserto e–puseram braceletes sobre suas–mãos e–coroa–de beleza sobre suas–cabeças
+-- c23-v43: E–eu–disse à–gasta adultérios agora agora fornicarão fornicarão sua–prostituição e–ela
+-- c23-v44: E–entrou a–ela como–entrar a mulher prostituta assim entraram a Oholah e–a Oholibah mulheres–de a–leviandade
+-- c23-v45: E–homens justos eles julgarão (a)–elas juízo–de adúlteras e–juízo–de derramadoras–de sangue porque adúlteras elas e–sangue em–suas–mãos §
+-- c23-v46: Porque assim disse Senhor YHWH fazer–subir contra–elas assembléia e–entregá–las (a)–elas para–terror e–para–despojo
+-- c23-v47: E–apedrejarão sobre–elas pedra assembléia e–despedaçarão (a)–elas com–suas–espadas seus–filhos e–suas–filhas matarão e–suas–casas com–fogo queimarão
+-- c23-v48: E–farei–cessar leviandade de a–terra e–serão–advertidas todas as–mulheres e–não farão segundo–vossa–leviandade
+-- c23-v49: E–porão vossa–leviandade sobre–vós e–pecados–de vossos–ídolos carregareis e–sabereis que eu Senhor YHWH ¶
+-- c24-v1: E–foi palavra–de YHWH a–mim no–ano o–nono no–mês o–décimo no–décimo do–mês dizendo
+-- c24-v2: Filho–de homem escreve escreve para–ti (a) nome–de o–dia (a) essência–de o–dia este aproximou–se rei–de Bavel contra Yerushalayim na–essência–de o–dia este
+-- c24-v3: E–fala a casa–de a–rebelião parábola e–dirás a–eles assim disse Senhor YHWH Coloca a–panela coloca e–também derrama nela água
+-- c24-v4: Ajunta seus–pedaços nela todo pedaço bom coxa e–ombro escolhidos–de ossos enche
+-- c24-v5: Escolhidos–de o–rebanho toma e–também pilha–de os–ossos debaixo–dela ferve suas–fervuras também cozinhem–se seus–ossos nela §
+-- c24-v6: Portanto assim disse Senhor YHWH ai cidade–de os–sangues panela que sua–ferrugem nela e–sua–ferrugem não saiu dela pedaço–por–pedaço pedaço–por–pedaço tira–a não caiu sobre–ela sorte
+-- c24-v7: Porque seu–sangue em–seu–meio estava sobre rocha–nua penha colocou–o não derramou–o sobre a–terra para–cobrir sobre–ele pó
+-- c24-v8: Para–fazer–subir ira para–vingar vingança pus (a) seu–sangue sobre rocha–nua penha para–não ser–coberto ¶
+-- c24-v9: Portanto assim disse Senhor YHWH ai cidade–de os–sangues também eu engrandecerei a–fogueira
+-- c24-v10: Aumenta as–lenhas acende o–fogo termina a–carne e–tempera o–tempero e–os–ossos sejam–queimados
+-- c24-v11: E–coloca–a sobre suas–brasas vazia para–que aqueça e–queime seu–bronze e–derreta–se nela sua–impureza consuma–se sua–ferrugem
+-- c24-v12: Trabalhos cansou e–não saiu dela muita sua–ferrugem no–fogo sua–ferrugem
+-- c24-v13: Em–tua–impureza leviandade porque te–purifiquei e–não te–purificaste de–tua–impureza não te–purificarás mais até fazer–repousar (a) meu–furor em–ti
+-- c24-v14: Eu YHWH falei vem e–farei não me–retrairei e–não pouparei e–não me–arrependerei segundo–teus–caminhos e–segundo–tuas–obras te–julgarão oráculo–de Senhor YHWH ¶
+-- c24-v15: E–foi palavra–de YHWH a–mim dizendo
+-- c24-v16: Filho–de homem eis–me tomando de–ti (a) deleite–de teus–olhos com–praga e–não lamentarás e–não chorarás e–não virá tua–lágrima
+-- c24-v17: Geme em–silêncio mortos luto não farás teu–turbante amarra sobre–ti e–tuas–sandálias colocarás em–teus–pés e–não cobrirás sobre lábio e–pão–de homens não comerás
+-- c24-v18: E–falei ao o–povo de–manhã e–morreu minha–esposa à–tarde e–fiz de–manhã como fui–ordenado
+-- c24-v19: E–disseram a–mim o–povo não nos–declararás a–nós que estas–coisas a–nós que tu fazendo
+-- c24-v20: E–eu–disse a–eles Palavra–de YHWH foi a–mim dizendo
+-- c24-v21: Dize à–casa–de Yisrael assim disse Senhor YHWH eis–me profanando (a) meu–santuário orgulho–de vossa–força deleite–de vossos–olhos e–compaixão–de vossa–alma e–vossos–filhos e–vossas–filhas que deixastes pela–espada cairão
+-- c24-v22: E–fareis como fiz sobre lábio não cobrireis e–pão–de homens não comereis
+-- c24-v23: E–vossos–turbantes sobre vossas–cabeças e–vossas–sandálias em–vossos–pés não lamentareis e–não chorareis e–definhareis em–vossas–iniquidades e–gemereis homem para seu–irmão
+-- c24-v24: E–será Yechezkel para–vós por–sinal conforme–tudo que fez fareis quando–vier e–sabereis que eu Senhor YHWH §
+-- c24-v25: E–tu filho–de homem não no–dia tomar–eu deles (a) sua–fortaleza alegria–de sua–glória (a) deleite–de seus–olhos e–(a) desejo–de sua–alma seus–filhos e–suas–filhas
+-- c24-v26: No–dia aquele virá o–fugitivo a–ti para–fazer–ouvir ouvidos
+-- c24-v27: No–dia aquele será–aberta tua–boca (a) o–fugitivo e–falarás e–não ficarás–mudo mais e–serás para–eles por–sinal e–saberão que eu YHWH §
+-- c25-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c25-v2: Filho–de homem coloca tua–face contra filhos–de Ammon e–profetiza contra–eles
+-- c25-v3: E–dirás aos–filhos–de Ammon ouvi palavra–de Senhor YHWH assim disse Senhor YHWH porque teu–dizer aha contra meu–santuário porque foi–profanado e–contra terra–de Yisrael porque foi–devastada e–contra casa–de Yehudah porque foram ao–exílio
+-- c25-v4: Portanto eis–me entregando–te aos–filhos–de oriente por–herança e–estabelecerão seus–acampamentos em–ti e–colocarão em–ti suas–moradas eles comerão teu–fruto e–eles beberão teu–leite
+-- c25-v5: E–darei (a) Rabbah por–pastagem–de camelos e–(a) filhos–de Ammon por–curral–de ovelhas e–sabereis que eu YHWH §
+-- c25-v6: Porque assim disse Senhor YHWH porque teu–bater mão e–teu–bater com–pé e–te–alegraste com–todo teu–desprezo em–alma contra terra–de Yisrael
+-- c25-v7: Portanto eis–me estendendo (a) minha–mão sobre–ti e–te–darei por–despojo por–despojo às–nações e–te–cortarei dos povos e–te–destruirei das terras te–aniquilarei e–saberás que eu YHWH §
+-- c25-v8: Assim disse Senhor YHWH porque dizendo Moav e–Seir eis como–todas as–nações casa–de Yehudah
+-- c25-v9: Portanto eis–me abrindo (a) ombro–de Moav das–cidades de–suas–cidades de–sua–fronteira glória–de terra Beth–Hayeshimot Baal–Meon e–Kiriatayim e–Kiriatayim
+-- c25-v10: Aos–filhos–de oriente sobre filhos–de Ammon e–a–darei por–herança para–que não seja–lembrada filhos–de Ammon entre–as–nações
+-- c25-v11: E–em–Moav farei juízos e–saberão que eu YHWH §
+-- c25-v12: Assim disse Senhor YHWH porque fazer Edom ao–vingar vingança contra–casa–de Yehudah e–tornaram–se–culpados culpa e–vingaram–se neles
+-- c25-v13: Portanto assim disse Senhor YHWH e–estenderei minha–mão sobre Edom e–cortarei dele homem e–animal e–a–farei desolada desde–Teman e–Dedan pela–espada cairão
+-- c25-v14: E–porei (a) minha–vingança em–Edom por–mão–de meu–povo Yisrael e–farão em–Edom conforme–minha–ira e–conforme–meu–furor e–conhecerão (a) minha–vingança oráculo–de Senhor YHWH ¶
+-- c25-v15: Assim disse Senhor YHWH porque fazer filisteus com–vingança e–vingaram–se vingança com–desprezo em–alma para–destruir inimizade–de eternidade
+-- c25-v16: Portanto assim disse Senhor YHWH eis–me estendendo minha–mão sobre filisteus e–cortarei (a) quereteus e–destruirei (a) remanescente–de costa–de o–mar
+-- c25-v17: E–farei neles vinganças grandes com–correções–de fúria e–saberão que eu YHWH ao–dar–eu (a) minha–vingança neles §
+-- c26-v1: E–foi no–décimo–primeiro décimo–primeiro ano no–primeiro do–mês foi palavra–de YHWH a–mim dizendo
+-- c26-v2: Filho–de homem porque que disse Tsor contra Yerushalayim aha foi–quebrada portas–de os–povos voltou–se para–mim serei–cheia a–desolada
+-- c26-v3: Portanto assim disse Senhor YHWH eis–me contra–ti Tsor e–farei–subir contra–ti nações muitas como–fazer–subir o–mar suas–ondas
+-- c26-v4: E–destruirão muros–de Tsor e–derrubarão suas–torres e–varrei seu–pó dela e–a–farei (a)–ela rocha–nua penha
+-- c26-v5: Estendal–de redes será no–meio–de o–mar porque eu falei oráculo–de Senhor YHWH e–será para–despojo às–nações
+-- c26-v6: E–suas–filhas que no–campo pela–espada serão–mortas e–saberão que eu YHWH ¶
+-- c26-v7: Porque assim disse Senhor YHWH eis–me trazendo contra Tsor Nevukadnetsar rei–de Bavel do–norte rei–de reis com–cavalos e–com–carros e–com–cavaleiros e–assembléia e–povo muito
+-- c26-v8: Tuas–filhas no–campo pela–espada matará e–colocará contra–ti baluarte e–derramará contra–ti rampa e–levantará contra–ti escudo
+-- c26-v9: E–golpe–de seu–aríete dará contra–teus–muros e–tuas–torres derrubará com–suas–espadas
+-- c26-v10: Da–abundância–de seus–cavalos te–cobrirá seu–pó do–som–de cavaleiro e–roda e–carro tremerão teus–muros ao–entrar–ele por–tuas–portas como–entradas–de cidade invadida
+-- c26-v11: Com–cascos–de seus–cavalos pisará (a) todas tuas–ruas teu–povo pela–espada matará e–colunas–de tua–força à–terra descerão
+-- c26-v12: E–saquearão tuas–riquezas e–pilharão tuas–mercadorias e–derrubarão teus–muros e–casas–de teu–deleite derrubarão e–tuas–pedras e–tuas–madeiras e–teu–pó no–meio–de água colocarão
+-- c26-v13: E–farei–cessar estrépito–de teus–cânticos e–som–de tuas–harpas não será–ouvido mais
+-- c26-v14: E–te–farei rocha–nua penha estendal–de redes serás não serás–edificada mais porque eu YHWH falei oráculo–de Senhor YHWH §
+-- c26-v15: Assim disse Senhor YHWH a–Tsor não ao–som–de tua–queda ao–gemer ferido ao–matar–se matança em–teu–meio tremerão as–ilhas
+-- c26-v16: E–descerão de–sobre seus–tronos todos príncipes–de o–mar e–tirarão (a) suas–capas e–(a) vestes–de seu–bordado despirão tremores vestirão sobre a–terra sentar–se–ão e–tremerão a–cada–momento e–ficarão–desolados por–ti
+-- c26-v17: E–levantarão sobre–ti lamentação e–dirão a–ti como pereceste habitada dos–mares a–cidade a–louvada que era forte no–mar ela e–seus–habitantes que punham seu–terror a–todos seus–habitantes
+-- c26-v18: Agora tremerão as–ilhas dia–de tua–queda e–ficarão–aterrorizadas as–ilhas que no–mar de–tua–saída §
+-- c26-v19: Porque assim disse Senhor YHWH ao–fazer–te (a)–ti cidade desolada como–cidades que não são–habitadas ao–fazer–subir sobre–ti (a) o–abismo e–cobrirem–te as–águas as–muitas
+-- c26-v20: E–te–farei–descer (a) os–que–descem cova a povo–de eternidade e–te–farei–habitar na–terra–de profundezas como–ruínas–de antigamente (a) os–que–descem cova para–que não habites e–darei beleza na–terra–de viventes
+-- c26-v21: Terrores te–darei e–não–serás e–serás–buscada e–não serás–encontrada mais para–sempre oráculo–de Senhor YHWH §
+-- c27-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c27-v2: E–tu filho–de homem levanta sobre Tsor lamentação
+-- c27-v3: E–dirás a–Tsor a–que–habita a–que–habita sobre entradas–de mar comerciante–de os–povos para ilhas muitas assim disse Senhor YHWH Tsor tu disseste eu perfeita–em beleza
+-- c27-v4: No–coração–de mares teus–limites teus–construtores aperfeiçoaram tua–beleza
+-- c27-v5: Ciprestes de–Senir construíram para–ti (a) todas tábuas cedro do–Lívano tomaram para–fazer mastro sobre–ti
+-- c27-v6: Carvalhos de–Bashan fizeram teus–remos teu–convés fizeram marfim filha–de Ashurim das–ilhas–de Kittim Kittim
+-- c27-v7: Linho com–bordado do–Egito era tua–vela para–haver para–ti por–bandeira azul e–púrpura das–ilhas–de Elishah era tua–cobertura
+-- c27-v8: Habitantes–de Tsidon e–Arvad eram remadores para–ti teus–sábios Tsor estavam em–ti eles teus–pilotos
+-- c27-v9: Anciãos–de Geval e–seus–sábios estavam em–ti consertando tuas–fendas todos navios–de o–mar e–seus–marinheiros estavam em–ti para–negociar teu–comércio
+-- c27-v10: Paras e–Lud e–Put estavam em–teu–exército homens–de tua–guerra escudo e–capacete penduraram em–ti eles deram teu–esplendor
+-- c27-v11: Filhos–de Arvad e–teu–exército sobre teus–muros ao–redor e–Gammadim em–tuas–torres estavam seus–escudos penduraram sobre teus–muros ao–redor eles aperfeiçoaram tua–beleza
+-- c27-v12: Tarshish tua–comerciante pela–abundância–de toda riqueza com–prata ferro estanho e–chumbo deram teus–artigos
+-- c27-v13: Yavan Tuval e–Meshek eles teus–negociantes com–almas–de homem e–vasos–de bronze deram teu–comércio
+-- c27-v14: Da–casa–de Togarmah cavalos e–cavaleiros e–mulas deram teus–artigos
+-- c27-v15: Filhos–de Dedan teus–negociantes ilhas muitas comércio–de tua–mão chifres–de marfim e–ébano e–ébano devolveram teu–tributo
+-- c27-v16: Aram tua–comerciante pela–abundância–de tuas–obras com–turquesa púrpura e–bordado e–linho–fino e–corais e–rubi deram em–teus–artigos
+-- c27-v17: Yehudah e–terra–de Yisrael eles teus–negociantes com–trigos–de Minnit e–bolos e–mel e–azeite e–bálsamo deram teu–comércio
+-- c27-v18: Dammesek tua–comerciante pela–abundância–de tuas–obras pela–abundância–de toda riqueza com–vinho–de Chelbon e–lã branca
+-- c27-v19: E–Dan e–Yavan de–Uzal em–teus–artigos deram ferro trabalhado cássia e–cálamo em–teu–comércio era
+-- c27-v20: Dedan tua–negociante com–panos–de sela para–cavalgar
+-- c27-v21: Arav e–todos príncipes–de Kedar eles comerciantes–de tua–mão com–cordeiros e–carneiros e–bodes neles teus–comerciantes
+-- c27-v22: Negociantes–de Sheva e–Raamah eles teus–negociantes com–principal–de todo balsamo e–com–toda pedra preciosa e–ouro deram teus–artigos
+-- c27-v23: Charan e–Kanneh e–Eden negociantes–de Sheva Ashur Kilmad tua–negociante
+-- c27-v24: Eles teus–negociantes em–coisas–preciosas em–mantos–de azul e–bordado e–em–baús–de em–cordas em–cordas amarradas e–feitas–de–cedro em–teu–comércio
+-- c27-v25: Navios–de Tarshish tuas–caravanas teu–comércio e–foste–cheia e–foste–glorificada muito no–coração–de mares
+-- c27-v26: Em–águas muitas trouxeram–te os–remadores (a)–ti vento–de o–oriente quebrou–te no–coração–de mares
+-- c27-v27: Tua–riqueza e–teus–artigos teu–comércio teus–marinheiros e–teus–pilotos consertadores–de tuas–fendas e–negociantes–de teu–comércio e–todos homens–de tua–guerra que em–ti e–em–toda tua–assembléia que em–teu–meio cairão no–coração–de mares no–dia–de tua–queda
+-- c27-v28: Ao–som–de grito–de teus–pilotos tremerão substâncias
+-- c27-v29: E–descerão de–seus–navios todos que–seguram remo marinheiros todos pilotos–de o–mar para a–terra ficarão–de–pé
+-- c27-v30: E–farão–ouvir sobre–ti com–sua–voz e–clamarão amargamente e–lançarão pó sobre suas–cabeças em–cinza se–revolverão
+-- c27-v31: E–raparão por–ti calvice e–cingirão panos–de–saco e–chorarão por–ti com–amargura–de alma lamentação amarga
+-- c27-v32: E–levantarão por–ti em–sua–lamentação lamentação e–lamentarão sobre–ti quem como–Tsor como–a–silenciada no–meio–de o–mar
+-- c27-v33: Ao–saírem teus–artigos dos–mares saciaste povos muitos com–abundância–de tuas–riquezas e–teus–comércios enriqueceste reis–de terra
+-- c27-v34: Tempo–de ser–quebrada dos–mares nas–profundezas–de águas teu–comércio e–toda tua–assembléia em–teu–meio caíram
+-- c27-v35: Todos habitantes–de as–ilhas ficaram–desolados por–ti e–seus–reis estremeceram estremecimento se–perturbaram faces
+-- c27-v36: Mercadores entre–os–povos assobiam sobre–ti terrores te–tornaste e–não–serás até eternidade §
+-- c28-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c28-v2: Filho–de homem dize ao–príncipe–de Tsor assim disse Senhor YHWH porque elevou–se teu–coração e–disseste deus eu assento–de deuses assentei–me no–coração–de mares e–tu homem e–não deus e–puseste teu–coração como–coração–de deuses
+-- c28-v3: Eis sábio tu mais–que–Daniel mais–que–Daniel todo segredo não te–é–oculto
+-- c28-v4: Por–tua–sabedoria e–por–tua–inteligência fizeste para–ti riqueza e–fizeste ouro e–prata em–teus–tesouros
+-- c28-v5: Pela–abundância–de tua–sabedoria em–teu–comércio multiplicaste tua–riqueza e–elevou–se teu–coração por–tua–riqueza §
+-- c28-v6: Portanto assim disse Senhor YHWH porque fizeste (a) teu–coração como–coração–de deuses
+-- c28-v7: Portanto eis–me trazendo sobre–ti estrangeiros terríveis–de nações e–desembainharão suas–espadas sobre beleza–de tua–sabedoria e–profanarão teu–esplendor
+-- c28-v8: À–cova te–farão–descer e–morrerás mortes–de ferido no–coração–de mares
+-- c28-v9: Acaso–dizer dirás deus eu diante–de teu–matador e–tu homem e–não deus em–mão–de teus–profanadores
+-- c28-v10: Mortes–de incircuncisos morrerás por–mão–de estrangeiros porque eu falei oráculo–de Senhor YHWH §
+-- c28-v11: E–foi palavra–de YHWH a–mim dizendo
+-- c28-v12: Filho–de homem levanta lamentação sobre rei–de Tsor e–dirás a–ele assim disse Senhor YHWH tu selo–de perfeição cheio–de sabedoria e–perfeito–em beleza
+-- c28-v13: No–Éden jardim–de Deus estiveste toda pedra preciosa tua–cobertura sardônica topázio e–diamante berilo ônix e–jaspe safira turquesa e–esmeralda e–ouro arte–de teus–tamborins e–teus–engastes em–ti no–dia–de seres–criado foram–preparados
+-- c28-v14: Tu querubim ungido que–cobre e–te–pus no–monte–de santidade–de Deus estiveste no–meio–de pedras–de fogo andavas
+-- c28-v15: Perfeito tu em–teus–caminhos desde–o–dia–de seres–criado até ser–encontrada iniquidade em–ti
+-- c28-v16: Pela–abundância–de teu–comércio encheram teu–interior violência e–pecaste e–te–profanei do–monte–de Deus e–te–destruí querubim que–cobre do–meio–de pedras–de fogo
+-- c28-v17: Elevou–se teu–coração por–tua–beleza corrompeste tua–sabedoria por–causa–de teu–esplendor sobre terra te–lancei diante–de reis te–pus para–espetáculo a–ti
+-- c28-v18: Pela–multidão–de tuas–iniquidades com–iniquidade–de teu–comércio profanaste teus–santuários e–fiz–sair fogo de–teu–meio ele te–devorou e–te–reduzi a–cinza sobre a–terra aos–olhos–de todos que–te–veem
+-- c28-v19: Todos que–te–conhecem entre–os–povos ficaram–desolados por–ti terrores te–tornaste e–não–serás até eternidade ¶
+-- c28-v20: E–foi palavra–de YHWH a–mim dizendo
+-- c28-v21: Filho–de homem coloca tua–face contra Tsidon e–profetiza contra–ela
+-- c28-v22: E–dirás assim disse Senhor YHWH eis–me contra–ti Tsidon e–serei–glorificado em–teu–meio e–saberão que eu YHWH ao–fazer–eu nela juízos e–serei–santificado nela
+-- c28-v23: E–enviarei nela peste e–sangue em–suas–ruas e–cairão feridos em–seu–meio pela–espada sobre–ela de–redor e–saberão que eu YHWH
+-- c28-v24: E–não haverá mais para–casa–de Yisrael espinho doloroso e–abrolho aflitivo de–todos ao–redor–deles os–que–desprezam (a)–eles e–saberão que eu Senhor YHWH §
+-- c28-v25: Assim disse Senhor YHWH ao–ajuntar–eu (a) casa–de Yisrael das os–povos que foram–dispersos entre–eles e–serei–santificado neles aos–olhos–de as–nações e–habitarão sobre sua–terra que dei a–meu–servo a–Yaakov
+-- c28-v26: E–habitarão sobre–ela em–segurança e–edificarão casas e–plantarão vinhas e–habitarão em–segurança ao–fazer–eu juízos em–todos os–que–desprezam (a)–eles de–seu–redor e–saberão que eu YHWH seu–Deus §
+-- c29-v1: No–ano o–décimo no–décimo no–doze doze do–mês foi palavra–de YHWH a–mim dizendo
+-- c29-v2: Filho–de homem coloca tua–face contra Paroh rei–de Mitsrayim e–profetiza contra–ele e–contra Mitsrayim toda–ela
+-- c29-v3: Fala e–dirás assim disse Senhor YHWH eis–me contra–ti Paroh rei–de Mitsrayim o–grande–monstro o–grande o–que–jaz no–meio–de seus–rios que disse para–mim meu–rio e–eu me–fiz
+-- c29-v4: E–porei anzois anzois em–tuas–mandíbulas e–farei–grudar peixes–de teus–rios em–tuas–escamas e–te–farei–subir do–meio–de teus–rios e–(a) todos peixes–de teus–rios em–tuas–escamas grudarão
+-- c29-v5: E–te–abandonarei ao–deserto (a)–ti e–(a) todos peixes–de teus–rios sobre face–de o–campo cairás não serás–recolhido e–não serás–ajuntado à–fera–de a–terra e–à–ave–de os–céus te–dei por–alimento
+-- c29-v6: E–saberão todos habitantes–de Mitsrayim que eu YHWH porque serem–eles apoio–de cana para–casa–de Yisrael
+-- c29-v7: Ao–segurarem–te por–ti pela–mão pela–mão te–quebravas e–rasgaste para–eles todo ombro e–ao–apoiarem–se sobre–ti te–quebráste e–fizeste–vacilar para–eles todos lombos §
+-- c29-v8: Portanto assim disse Senhor YHWH eis–me trazendo sobre–ti espada e–cortarei de–ti homem e–animal
+-- c29-v9: E–será terra–de Mitsrayim para–desolação e–deserto e–saberão que eu YHWH porque disse o–rio para–mim e–eu fiz
+-- c29-v10: Portanto eis–me contra–ti e–contra teus–rios e–darei (a) terra–de Mitsrayim para–ruínas ruína desolação de–Migdol Seveneh e–até fronteira–de Kush
+-- c29-v11: Não passará por–ela pé–de homem e–pé–de animal não passará por–ela e–não será–habitada quarenta anos
+-- c29-v12: E–darei (a) terra–de Mitsrayim desolação no–meio–de terras desoladas e–suas–cidades no–meio–de cidades arruinadas serão desolação quarenta anos e–dispersarei (a) Mitsrayim entre–as–nações e–os–espalharei pelas–terras ¶
+-- c29-v13: Porque assim disse Senhor YHWH ao–fim–de quarenta anos ajuntarei (a) Mitsrayim dos povos que foram–dispersos para–lá
+-- c29-v14: E–restaurarei (a) cativeiro–de Mitsrayim e–os–farei–voltar (a)–eles terra–de Patros para terra–de sua–origem e–serão ali reino humilde
+-- c29-v15: Dos reinos será humilde e–não se–exaltará mais sobre as–nações e–os–diminuirei para–não dominar sobre–as–nações
+-- c29-v16: E–não será mais para–casa–de Yisrael por–confiança lembrando iniquidade ao–voltarem–se após–eles e–saberão que eu Senhor YHWH ¶
+-- c29-v17: E–foi no–vinte e–sete ano no–primeiro no–um do–mês foi palavra–de YHWH a–mim dizendo
+-- c29-v18: Filho–de homem Nevukadnetsar rei–de Bavel fez–trabalhar (a) seu–exército trabalho grande contra Tsor toda cabeça calva e–todo ombro pelado e–salário não houve para–ele e–para–seu–exército de–Tsor pelo trabalho que trabalhou contra–ela §
+-- c29-v19: Portanto assim disse Senhor YHWH eis–me dando a–Nevukadnetsar rei–de Bavel (a) terra–de Mitsrayim e–levará sua–abundância e–saqueará seu–saque e–pilhará sua–pilhagem e–será salário para–seu–exército
+-- c29-v20: Seu–serviço que serviu nela dei a–ele (a) terra–de Mitsrayim que fizeram para–mim oráculo–de Senhor YHWH §
+-- c29-v21: No–dia aquele farei–brotar chifre para–casa–de Yisrael e–a–ti darei abertura–de boca no–meio–deles e–saberão que eu YHWH ¶
+-- c30-v1: E–foi palavra–de YHWH a–mim dizendo
+-- c30-v2: Filho–de homem profetiza e–dirás assim disse Senhor YHWH lamentai ah pelo–dia
+-- c30-v3: Porque perto dia e–perto dia de–YHWH dia–de nuvem tempo–de nações será
+-- c30-v4: E–virá espada no–Egito e–haverá angústia em–Kush ao–cair ferido no–Egito e–tomarão sua–abundância e–serão–destruídos seus–fundamentos
+-- c30-v5: Kush e–Put e–Lud e–toda a–mistura e–Kuv e–filhos–de terra–de a–aliança com–eles pela–espada cairão ¶
+-- c30-v6: Assim disse YHWH e–cairão apoiadores–de Mitsrayim e–descerá orgulho–de sua–força desde–Migdol Seveneh pela–espada cairão nela oráculo–de Senhor YHWH
+-- c30-v7: E–ficarão–desoladas no–meio–de terras desoladas e–suas–cidades no–meio–de cidades arruinadas estarão
+-- c30-v8: E–saberão que eu YHWH ao–colocar–eu fogo no–Egito e–forem–quebrados todos seus–ajudadores
+-- c30-v9: No–dia aquele sairão mensageiros de–diante–de–mim em–navios para–aterrorizar (a) Kush em–segurança e–haverá angústia neles no–dia–de Mitsrayim porque eis vem §
+-- c30-v10: Assim disse Senhor YHWH e–farei–cessar (a) multidão–de Mitsrayim por–mão–de Nevukadnetsar rei–de Bavel
+-- c30-v11: Ele e–seu–povo com–ele terríveis–de nações trazidos para–destruir a–terra e–desembainharão suas–espadas contra Mitsrayim e–encherão (a) a–terra de–feridos
+-- c30-v12: E–darei os–rios por–seco e–venderei (a) a–terra em–mão–de maus e–devastarei terra e–sua–plenitude por–mão–de estrangeiros eu YHWH falei §
+-- c30-v13: Assim disse Senhor YHWH e–destruirei ídolos e–farei–cessar nulidades de–Nof e–príncipe de–terra–de Mitsrayim não haverá mais e–porei temor na–terra–de Mitsrayim
+-- c30-v14: E–devastarei (a) Patros e–porei fogo em–Tsoan e–farei juízos em–No
+-- c30-v15: E–derramarei meu–furor sobre Sin fortaleza–de Mitsrayim e–cortarei (a) multidão–de No
+-- c30-v16: E–porei fogo no–Egito dores–de–parto terá–dores terá–dores Sin e–No será para–ser–invadida e–Nof adversários–de dia
+-- c30-v17: Jovens–de On e–Pi–Beset pela–espada cairão e–elas em–cativeiro irão
+-- c30-v18: E–em–Techaphnechés escurecerá o–dia ao–quebrar–eu ali (a) jugos–de Mitsrayim e–cessará nela orgulho–de sua–força ela nuvem a–cobrirá e–suas–filhas em–cativeiro irão
+-- c30-v19: E–farei juízos em–Mitsrayim e–saberão que eu YHWH ¶
+-- c30-v20: E–foi no–décimo–primeiro décimo–primeiro ano no–primeiro no–sete do–mês foi palavra–de YHWH a–mim dizendo
+-- c30-v21: Filho–de homem (a) braço–de Paroh rei–de Mitsrayim quebrei e–eis não foi–enfaixado para–dar remédios para–colocar atadura para–enfaixá–lo para–fortalecê–lo para–segurar a–espada §
+-- c30-v22: Portanto assim disse Senhor YHWH eis–me contra Paroh rei–de Mitsrayim e–quebrarei (a) seus–braços (a) o–forte e–(a) o–quebrado e–farei–cair (a) a–espada de–sua–mão
+-- c30-v23: E–dispersarei (a) Mitsrayim entre–as–nações e–os–espalharei pelas–terras
+-- c30-v24: E–fortalecerei (a) braços–de rei–de Bavel e–darei (a) minha–espada em–sua–mão e–quebrarei (a) braços–de Paroh e–gemerá gemidos–de ferido diante–dele
+-- c30-v25: E–fortalecerei (a) braços–de rei–de Bavel e–braços–de Paroh cairão e–saberão que eu YHWH ao–dar–eu minha–espada em–mão–de rei–de Bavel e–ele–a–estenderá (a)–ela contra terra–de Mitsrayim
+-- c30-v26: E–dispersarei (a) Mitsrayim entre–as–nações e–os–espalharei (a)–eles pelas–terras e–saberão que eu YHWH §
+-- c31-v1: E–foi em–um dez ano no–terceiro em–um do–mês foi palavra-de– YHWH a–mim dizendo
+-- c31-v2: Filho-de– homem diz a– Faraó rei-de– Egito e–a– multidão-dele A– quem te–assemelhas em–grandeza-tua
+-- c31-v3: Eis Assíria cedro no–Líbano belo-de ramo e–bosque-de sombra e–alto-de estatura e–entre nuvens estava copa-dele
+-- c31-v4: Águas fizeram-crescer-o abismo elevou-o (a) rios-dela ia ao-redor-de plantação-dela e–(a) canais-dela enviou a todas– árvores-de o–campo
+-- c31-v5: Por– isso elevou-se estatura-dele de–todas árvores-de o–campo e–multiplicaram-se ramos-dele e–alongaram-se [galhos-dele] (galhos-dele) de–águas muitas em–estender-dele
+-- c31-v6: Em–galhos-dele aninharam todas– aves-de os–céus e–sob ramos-dele pariram todos animais-de o–campo e–em–sombra-dele habitaram todas nações muitas
+-- c31-v7: E–era-belo em–grandeza-dele em–comprimento-de galhos-dele porque– estava raiz-dele junto–a– águas muitas
+-- c31-v8: Cedros não– obscureceram-o em–jardim-de– Deus ciprestes não igualaram-se a– ramos-dele e–plátanos não– foram como–galhos-dele Toda– árvore em–jardim-de– Deus não– se–comparou a–ele em–beleza-dele
+-- c31-v9: Belo fiz-o em–abundância-de galhos-dele e–invejaram-o todas– árvores-de– Éden que em–jardim-de o–Deus §
+-- c31-v10: Portanto assim disse Senhor YHWH Visto-que que te–elevaste em–estatura e–pôs copa-dele a– entre nuvens e–exaltou-se coração-dele em–altura-dele
+-- c31-v11: E–entregue-lo-ei em–mão-de poderoso-de nações fazendo fará a–ele conforme–maldade-dele expulsei-o
+-- c31-v12: E–cortaram-o estrangeiros violentos-de nações e–lançaram-o Sobre– os–montes e–em–todos– vales-dele caíram galhos-dele e–quebraram-se ramos-dele em–todos ribeiros-de a–terra e–desceram de–sombra-dele todos– povos-de a–terra e–abandonaram-o
+-- c31-v13: Sobre– queda-dele habitarão todas– aves-de os–céus e–sobre– ramos-dele estiveram todos animais-de o–campo
+-- c31-v14: Para–que que não– se–exaltem em–estatura-deles todas– árvores-de– água e–não– ponham (a) copa-deles a– entre nuvens e–não– permaneçam a–eles em–altura-deles todos– bebedores-de água Porque– todos-eles foram-entregues à–morte a– terra inferior no–meio-de filhos-de homem a– os–que–descem-à cova §
+-- c31-v15: Assim– disse Senhor YHWH No–dia-de descer-dele ao–Sheol fiz–lamentar cobri sobre–ele (a) abismo e–retive rios-dela e–foram-contidas águas muitas e–enlutei sobre–ele o–Líbano e–todas– árvores-de o–campo por–ele desmaiaram
+-- c31-v16: Do–som-de queda-dele fiz–tremer nações quando–fiz–descer (a)–ele ao–Sheol com– os–que–descem-à cova e–foram–consoladas em–terra inferior todas– árvores-de– Éden melhor– e–bom-de– Líbano todos– bebedores-de água
+-- c31-v17: Também– eles com–ele desceram ao–Sheol aos– traspassados-de– espada e–braço-dele habitaram em–sombra-dele no–meio-de nações
+-- c31-v18: A– quem te–assemelhaste assim em–glória e–em–grandeza entre–árvores-de– Éden e–serás–feito–descer com– árvores-de– Éden a– terra inferior no–meio-de incircuncisos jazerás com– traspassados-de– espada Ele-é Faraó e–toda– multidão-dele oráculo-de Senhor YHWH §
+-- c32-v1: E–foi em–dois dez ano em–dois– dez mês em–um do–mês foi palavra-de– YHWH a–mim dizendo
+-- c32-v2: Filho-de– homem levanta lamentação sobre– Faraó rei-de– Egito e–dirás a–ele leão-jovem-de nações foste-comparado e–tu como–o–dragão nos–mares e–irrompeste em–rios-teus e–turvaste– águas com–pés-teus e–pisoteaste rios-deles
+-- c32-v3: Assim disse Senhor YHWH E–estenderei sobre–ti (a) rede-minha em–assembleia-de povos muitos e–subirão-te em–rede-minha
+-- c32-v4: E–abandonar-te-ei na–terra sobre– face-de o–campo lançar-te-ei e–farei-habitar sobre–ti todas– aves-de os–céus e–fartarei de–ti animais-de toda– a–terra
+-- c32-v5: E–porei (a) carne-tua sobre– os–montes e–encherei os–vales altura-tua
+-- c32-v6: E–regarei terra-de fluxo-teu de–sangue-teu até– os–montes e–ribeiros serão-cheios de–ti
+-- c32-v7: E–cobrirei em–apagar-te céus e–escurecerei (a) estrelas-deles Sol em–nuvem cobrirei-o e–lua não– brilhará luz-dela
+-- c32-v8: Todas– luminárias-de luz nos–céus escurecerei sobre–ti e–porei trevas sobre– terra-tua oráculo-de Senhor YHWH
+-- c32-v9: E–irritarei coração-de povos muitos quando–levar destruição-tua nas–nações sobre– terras que não– conheceste
+-- c32-v10: E–espantarei sobre–ti povos muitos e–reis-deles horrorizarão sobre–ti horror quando–brandir espada-minha sobre– faces-deles e–tremerão a–momentos homem pela–vida-dele no–dia-de queda-tua §
+-- c32-v11: Porque assim disse Senhor YHWH espada-de rei-de– Babilônia virá-a-ti
+-- c32-v12: Com–espadas-de valentes farei-cair multidão-tua violentos-de nações todos-eles e–destruirão (a) orgulho-de Egito e–será-destruída toda– multidão-dela
+-- c32-v13: E–destruirei (a) todos– animais-dela de–sobre águas muitas e–não turvá-las-á pé-de– homem mais e–cascos-de animal não turvá-las-ão
+-- c32-v14: Então farei-assentar águas-deles e–rios-deles como–o–óleo farei-correr oráculo-de Senhor YHWH
+-- c32-v15: Quando–tornar (a) terra-de Egito desolação e–devastação terra de–plenitude-dela quando–ferir (a) todos– os–que-habitam-em ela e–saberão que– Eu YHWH
+-- c32-v16: Lamentação ela-é e–lamentarão-a filhas-de as–nações lamentarão ela sobre– Egito e–sobre– toda– multidão-dela lamentarão ela oráculo-de Senhor YHWH ¶
+-- c32-v17: E–foi em–dois dez ano no–quinze dez do–mês foi palavra-de– YHWH a–mim dizendo
+-- c32-v18: Filho-de– homem lamenta sobre– multidão-de Egito e–faze-descer-o ela e–filhas-de nações poderosas a– terra inferior com– os–que-descem-à cova
+-- c32-v19: De–quem és-mais-agradável desce e–deita-te com– incircuncisos
+-- c32-v20: No–meio-de traspassados-de– espada cairão espada foi-dada arrastai ela e–todas– multidões-dela
+-- c32-v21: Falarão– a–ele chefes-de valentes do–meio-de Sheol com– ajudadores-dele desceram jazem os–incircuncisos traspassados-de– espada
+-- c32-v22: Lá Assíria e–toda– congregação-dela ao-redor-dele sepulturas-dele todos-eles traspassados os–que-caíram pela–espada
+-- c32-v23: Que foram-postas sepulturas-dela nos–confins-de– cova e–foi congregação-dela ao-redor-de sepultura-dela todos-eles traspassados os–que-caem pela–espada que– causaram terror em–terra-de vivos
+-- c32-v24: Lá Elam e–toda– multidão-dela ao-redor-de sepultura-dela todos-eles traspassados os–que-caíram pela–espada que– desceram incircuncisos a– terra inferior que causaram terror-deles em–terra-de vivos e–carregaram vergonha-deles com– os–que-descem-à cova
+-- c32-v25: No–meio-de traspassados puseram leito para–ela com–toda– multidão-dela ao-redor-dele sepulturas-dela todos-eles incircuncisos traspassados-de– espada porque– foi-causado terror-deles em–terra-de vivos e–carregaram vergonha-deles com– os–que-descem-à cova no–meio-de traspassados foi-posto
+-- c32-v26: Lá Meshek Tubal e–toda– multidão-dela ao-redor-dele sepulturas-dela todos-eles incircuncisos feridos-de espada porque– causaram terror-deles em–terra-de vivos
+-- c32-v27: E–não jazerão com– valentes os–que-caem dos–incircuncisos que desceram– ao–Sheol com–armas-de– guerra-deles e–puseram (a) espadas-deles debaixo-de cabeças-deles e–foi iniquidades-deles sobre– ossos-deles porque– terror-de valentes em–terra-de vivos
+-- c32-v28: E–tu no–meio-de incircuncisos serás-quebrado e–jazerás com– traspassados-de– espada
+-- c32-v29: Lá Edom reis-dela e–todos– príncipes-dela que– foram-postos com–valentia-deles com– traspassados-de– espada eles com– incircuncisos jazerão e–com– os–que-descem-à cova
+-- c32-v30: Lá príncipes-de norte todos-eles e–todos– sidônios que– desceram com– traspassados com–terror-deles de–valentia-deles envergonhados e–jazem incircuncisos com– traspassados-de– espada e–carregaram vergonha-deles com– os–que-descem-à cova
+-- c32-v31: Eles verá Faraó e–será-consolado sobre– toda– [multidão-dela] (multidão-dele) traspassados-de– espada Faraó e–todo– exército-dele oráculo-de Senhor YHWH
+-- c32-v32: Porque– pus (a) [terror-dele] (terror-meu) em–terra-de vivos e–será-deitado no–meio-de incircuncisos com– traspassados-de– espada Faraó e–toda– multidão-dele oráculo-de Senhor YHWH ¶
+-- c33-v1: E–foi palavra-de– YHWH a–mim dizendo
+-- c33-v2: Filho-de– homem fala a– filhos-de– povo-teu e–dirás a–eles Terra quando– trouxer sobre–ela espada e–tomar povo-da– a–terra homem um dos–confins-deles e–puserem (a)–ele para–eles como–atalaia
+-- c33-v3: E–ver (a) a–espada vindo sobre– a–terra e–tocar na–trombeta e–advertir (a) o–povo
+-- c33-v4: E–ouvir o–que-ouve (a) som-de a–trombeta e–não se–advertir e–vir espada e–tomá-lo sangue-dele em–cabeça-dele será
+-- c33-v5: (a) som-de a–trombeta ouviu e–não se–advertiu sangue-dele nele será e–ele se–advertido alma-dele livrou
+-- c33-v6: E–o–atalaia quando– ver (a) a–espada vindo e–não– tocar na–trombeta e–o–povo não– for–advertido e–vier espada e–tomar deles alma ele em–iniquidade-dele foi–tomado e–sangue-dele de–mão-de– o–atalaia requererei §
+-- c33-v7: E–tu filho-de– homem atalaia pus-te para–casa-de Israel e–ouvirás de–boca-minha palavra e–advertirás (a)–eles de–mim
+-- c33-v8: Quando–dizer-eu ao–ímpio Ímpio morte morrerás e–não falares para–advertir ímpio de–caminho-dele ele ímpio em–iniquidade-dele morrerá e–sangue-dele de–mão-tua requererei
+-- c33-v9: E–tu quando– advertires ímpio de–caminho-dele para–voltar dela e–não– voltar de–caminho-dele ele em–iniquidade-dele morrerá e–tu alma-tua livraste §
+-- c33-v10: E–tu filho-de– homem diz a– casa-de Israel Assim dissestes dizendo Quando– transgressões-nossas e–pecados-nossos sobre–nós e–neles nós definhamos e–como viveremos
+-- c33-v11: Diz a–eles Vivo-sou– Eu oráculo-de Senhor YHWH se– deleito em–morte-de o–ímpio mas-sim se– em–voltar ímpio de–caminho-dele e–viver Voltai voltai de–caminhos-vossos maus e–por-que morrereis casa-de Israel ¶
+-- c33-v12: E–tu filho-de– homem diz a– filhos-de– povo-teu Justiça-de o–justo não livrá-lo-á no–dia-de transgressão-dele e–maldade-de o–ímpio não– tropeçará nela no–dia-de voltar-dele de–maldade-dele e–justo não poderá viver nela no–dia-de pecar-dele
+-- c33-v13: Quando–dizer-eu ao–justo Vivendo viverá e–ele– confiar em– justiça-dele e–fizer iniquidade Todas– [justiça-dele] (justiças-dele) não serão-lembradas e–em–iniquidade-dele que– fez nela morrerá
+-- c33-v14: E–quando–dizer-eu ao–ímpio Morte morrerás e–voltar de–pecado-dele e–fizer justiça e–retidão
+-- c33-v15: Penhor devolver ímpio roubo restituir em–estatutos-de a–vida andar para–não fazer iniquidade Vivendo viverá não morrerá
+-- c33-v16: Todos– [pecado-dele] (pecados-dele) que pecou não serão-lembrados a–ele justiça e–retidão fez vivendo viverá
+-- c33-v17: E–disseram filhos-de povo-teu Não é-reto caminho-de o–Senhor e–eles caminho-deles não– é-reto
+-- c33-v18: Quando–voltar– justo de–justiça-dele e–fizer iniquidade e–morrerá neles
+-- c33-v19: E–quando–voltar ímpio de–maldade-dele e–fizer justiça e–retidão por–eles ele viverá
+-- c33-v20: E–dissestes Não é-reto caminho-de o–Senhor Homem conforme–caminhos-dele julgarei (a)–vós casa-de Israel ¶
+-- c33-v21: E–foi em–dois dez ano no–décimo no–cinco do–mês de–exílio-nosso veio– a–mim o–fugitivo de–Jerusalém dizendo Foi-ferida a–cidade
+-- c33-v22: E–mão-de– YHWH esteve sobre–mim na–tarde antes-de vir-de o–fugitivo e–abriu (a) boca-minha até– vir a–mim na–manhã e–foi-aberta boca-minha e–não fui-emudecido mais ¶
+-- c33-v23: E–foi palavra-de– YHWH a–mim dizendo
+-- c33-v24: Filho-de– homem Habitantes-de as–ruínas estas sobre– terra-de Israel dizem dizendo Um era Abraão e–herdou (a) a–terra e–nós muitos a–nós foi-dada a–terra como–herança §
+-- c33-v25: Portanto diz a–eles Assim– disse Senhor YHWH Sobre– o–sangue comeis e–olhos-vossos levantais a– ídolos-vossos e–sangue derramais e–a–terra herdareis
+-- c33-v26: Firmastes-vos sobre– espada-vossa fizestes abominação e–homem (a) mulher-de próximo-dele contaminastes e–a–terra herdareis §
+-- c33-v27: Assim– dirás a–eles Assim– disse Senhor YHWH Vivo-sou– Eu se– não que nas–ruínas pela–espada cairão e–que sobre– face-de o–campo ao–animal darei-o para–comer-o e–que nas–fortalezas e–nas–cavernas pela–peste morrerão
+-- c33-v28: E–tornarei (a) a–terra desolação e–devastação e–cessará orgulho-de força-dela e–serão-desolados montes-de Israel sem passante
+-- c33-v29: E–saberão que– Eu YHWH quando–tornar (a) a–terra desolação e–devastação por-causa-de todas– abominações-deles que fizeram §
+-- c33-v30: E–tu filho-de– homem filhos-de povo-teu os–que-falam de–ti junto-a as–paredes e–nas–portas-de as–casas e–fala– um com– outro homem com– irmão-dele dizendo Vinde– por-favor e–ouvi que a–palavra que–sai de–com YHWH
+-- c33-v31: E–virão a–ti como–vir-de– povo e–sentarão diante-de-ti povo-meu e–ouvirão (a) palavras-tuas e–elas não farão porque– amores com–bocas-deles eles fazem atrás-de ganho-deles coração-deles vai
+-- c33-v32: E–eis-te para–eles como–canção-de amores bela-de voz e–bom-de tocar e–ouvirão (a) palavras-tuas e–fazendo não-estão elas
+-- c33-v33: E–quando–vier eis vem e–saberão que profeta esteve no–meio-deles §
+-- c34-v1: E–foi palavra-de– YHWH a–mim dizendo
+-- c34-v2: Filho-de– homem profetiza sobre– pastores-de Israel profetiza e–dirás a–eles aos–pastores Assim disse Senhor YHWH Ai-de pastores-de– Israel que estavam apascentando (a)–si-mesmos Acaso–não as–ovelhas apascentarão os–pastores
+-- c34-v3: (a) a–gordura comeis e–(a) a–lã vestis a–gorda abateis as–ovelhas não apascentais
+-- c34-v4: (a)– as–fracas não fortalecestes e–(a) a–doente não– curastes e–à–quebrada não atastes e–(a) a–desgarrada não fizestes-voltar e–(a) a–perdida não buscastes e–com–força dominastes (a)–elas e–com–rigor
+-- c34-v5: E–dispersaram-se por–não-haver pastor e–tornaram-se comida para–todos– animais-de o–campo e–dispersaram-se
+-- c34-v6: Erraram ovelhas-minhas por–todos– os–montes e–sobre todo– outeiro alto e–sobre toda– face-de a–terra dispersaram-se ovelhas-minhas e–não-havia buscador e–não-havia procurador
+-- c34-v7: Portanto pastores ouvi (a) palavra-de YHWH
+-- c34-v8: Vivo-sou– Eu oráculo-de Senhor YHWH se– não visto-que foram– ovelhas-minhas para–despojo e–tornaram-se ovelhas-minhas comida para–todos– animais-de o–campo sem pastor e–não– buscaram pastores-meus (a) ovelhas-minhas e–apascentaram os–pastores (a)–si-mesmos e–(a) ovelhas-minhas não apascentaram §
+-- c34-v9: Portanto os–pastores ouvi palavra-de– YHWH
+-- c34-v10: Assim– disse Senhor YHWH Eis-me contra– os–pastores e–requerei (a) ovelhas-minhas de–mão-deles e–fá-los-ei-cessar de–apascentar ovelhas e–não– apascentarão mais os–pastores (a)–si-mesmos e–livrarei ovelhas-minhas de–boca-deles e–não– serão para–eles comida §
+-- c34-v11: Porque assim disse Senhor YHWH Eis-me– Eu e–buscarei (a) ovelhas-minhas e–cuidarei-delas
+-- c34-v12: Como–cuidar-de pastor rebanho-dele no–dia-de– estar-dele no–meio-de– ovelhas-dele espalhadas assim cuidarei (a) ovelhas-minhas e–livrarei (a)–elas de–todos– os–lugares que foram-dispersas lá em–dia-de nuvem e–escuridão
+-- c34-v13: E–tirarei-as de–entre– os–povos e–reuní-las-ei de–entre– as–terras e–traze-las-ei a– terra-deles e–apascentá-las-ei junto-a– montes-de Israel nos–ribeiros e–em–todas habitações-de a–terra
+-- c34-v14: Em–pasto– bom apascentá-las-ei (a)–elas e–em–montes-de altura– de-Israel será aprisco-delas lá deitar-se-ão em–aprisco bom e–pasto gordo apascentar-se-ão junto-a– montes-de Israel
+-- c34-v15: Eu apascentarei ovelhas-minhas e–Eu farei-deitarem-se oráculo-de Senhor YHWH
+-- c34-v16: (a) a–perdida buscarei e–(a) a–desgarrada farei-voltar e–à–quebrada atarei e–(a) a–doente fortalecerei e–(a) a–gorda e–(a) a–forte destruirei apascentá-la-ei com–justiça
+-- c34-v17: E–vós ovelhas-minhas assim disse Senhor YHWH Eis-me julgando entre– ovelha e–ovelha aos–carneiros e–aos–bodes
+-- c34-v18: É-pouco de–vós o–pasto o–bom comereis e–resto-de pasto-vosso pisareis com–pés-vossos e–água– clara bebereis e–(a) a–que-resta com–pés-vossos turvareis
+-- c34-v19: E–ovelhas-minhas pisar-de pés-vossos apascentar-se-ão e–turvar-de pés-vossos beberão §
+-- c34-v20: Portanto assim disse Senhor YHWH a–eles Eis-me– Eu e–julgarei entre– ovelha gorda e–entre ovelha magra
+-- c34-v21: Visto-que com–lado e–com–ombro empurráveis e–com–chifres-vossos chifráveis todas– as–fracas até que dispersastes (a)–elas para– o–exterior
+-- c34-v22: E–salvarei para–ovelhas-minhas e–não– serão mais despojo e–julgarei entre ovelha e–ovelha
+-- c34-v23: E–levantarei sobre–elas pastor um e–apascentará (a)–elas (a) servo-meu Davi ele apascentará (a)–elas e–ele– será para–elas pastor
+-- c34-v24: E–Eu YHWH serei para–elas Deus e–servo-meu Davi príncipe no–meio-delas Eu YHWH falei
+-- c34-v25: E–farei com–elas aliança-de paz e–farei-cessar animal– mau de– a–terra e–habitarão no–deserto em–segurança e–dormirão nos–bosques
+-- c34-v26: E–porei (a)–elas e–ao-redor-de outeiro-meu bênção e–farei-descer a–chuva em–tempo-dela chuvas-de bênção serão
+-- c34-v27: E–dará árvore-de o–campo (a) fruto-dela e–a–terra dará produto-dela e–estarão sobre– terra-delas em–segurança e–saberão que– Eu YHWH quando–quebrar (a) barras-de jugo-delas e–livrá-las-ei de–mão-de os–que-as-escravizavam nelas
+-- c34-v28: E–não– serão mais despojo às–nações e–animal-de a–terra não comê-las-á e–habitarão em–segurança e–não-haverá quem-aterre
+-- c34-v29: E–levantarei para–elas plantação para–nome e–não– serão mais recolhidas-de fome na–terra e–não– carregarão mais vergonha-de as–nações
+-- c34-v30: E–saberão que Eu YHWH Deus-delas com–elas e–elas povo-meu casa-de Israel oráculo-de Senhor YHWH
+-- c34-v31: E–vós ovelhas-minhas ovelhas-de pastagem-minha homem sois Eu Deus-vosso oráculo-de Senhor YHWH ¶
+-- c35-v1: E–foi palavra-de– YHWH a–mim dizendo
+-- c35-v2: Filho-de– homem põe face-tua contra– monte Seir e–profetiza contra–ele
+-- c35-v3: E–dirás a–ele Assim disse Senhor YHWH Eis-me contra–ti monte– Seir e–estenderei mão-minha contra–ti e–tornarei-te desolação e–devastação
+-- c35-v4: Cidades-tuas ruínas porei e–tu desolação serás e–saberás que– Eu YHWH
+-- c35-v5: Visto-que teres para–ti inimizade-de eternidade e–entregaste (a) filhos-de– Israel a– mãos-de– espada no–tempo-de calamidade-deles no–tempo-de iniquidade-de fim
+-- c35-v6: Portanto vivo-sou– Eu oráculo-de Senhor YHWH que– para–sangue prepararei-te e–sangue perseguir-te-á se– não sangue odiaste e–sangue perseguir-te-á
+-- c35-v7: E–tornarei (a) monte Seir desolação e–devastação e–cortarei dele passante e–retornante
+-- c35-v8: E–encherei (a) montes-dele traspassados-dele outeiros-teus e–vales-teus e–todos– ribeiros-teus traspassados-de– espada cairão neles
+-- c35-v9: Desolações-de eternidade porei-te e–cidades-tuas não [voltarão] (serão-habitadas) e–sabereis que– Eu YHWH
+-- c35-v10: Visto-que dizer-teu (a) duas-de as–nações e–(a) duas-de as–terras para–mim serão e–possuí-las-emos e–YHWH lá estava
+-- c35-v11: Portanto vivo-sou– Eu oráculo-de Senhor YHWH e–farei conforme–ira-tua e–conforme–ciúme-teu que fizeste de–ódios-teus neles e–serei-conhecido neles quando te–julgar
+-- c35-v12: E–saberás que– Eu YHWH ouvi (a) todas– blasfêmias-tuas que disseste contra– montes-de Israel dizendo [foram-desolados] (estão-desolados) a–nós foram-dados para–comer
+-- c35-v13: E–engrandecestes contra–mim com–boca-vossa e–multiplicastes contra–mim palavras-vossas Eu ouvi §
+-- c35-v14: Assim disse Senhor YHWH Quando–alegrar-se toda– a–terra desolação farei– a–ti
+-- c35-v15: Como–alegria-tua pela–herança-de casa-de– Israel sobre que– foi-desolada assim farei– a–ti desolação serás monte– Seir e–todo– Edom todo-ele e–saberão que– Eu YHWH ¶
+-- c36-v1: E–tu filho-de– homem profetiza a– montes-de Israel e–dirás Montes-de Israel ouvi palavra-de– YHWH
+-- c36-v2: Assim disse Senhor YHWH Visto-que disse o–inimigo contra–vós Ahá e–altos–lugares-de eternidade para–herança foram para–nós
+-- c36-v3: Portanto profetiza e–dirás Assim disse Senhor YHWH Visto-que por–visto-que desolaram e–esmigalharam (a)–vós de-redor para–serdes herança para–resto-de as–nações e–subistes sobre– lábio-de língua e–difamação-de– povo
+-- c36-v4: Portanto montes-de Israel ouvi palavra-de– Senhor YHWH Assim– disse Senhor YHWH aos–montes e–aos–outeiros aos–ribeiros e–aos–vales e–às–ruínas as–desoladas e–às–cidades as–abandonadas que foram despojo e–escarnecimento ao–resto-de as–nações que de-redor §
+-- c36-v5: Portanto assim– disse Senhor YHWH Se– não em–fogo-de zelo-meu falei contra– resto-de as–nações e–contra– Edom todo-ele que deram– (a) terra-minha para–si como–herança com–alegria-de todo– coração com–desprezo-de alma para–que expulsão-dela para–despojo
+-- c36-v6: Portanto profetiza sobre– terra-de Israel e–dirás aos–montes e–aos–outeiros aos–ribeiros e–aos–vales Assim– disse Senhor YHWH Eis-me em–zelo-meu e–em–fúria-minha falei visto-que vergonha-de nações carregastes
+-- c36-v7: Portanto assim disse Senhor YHWH Eu levantei (a) mão-minha se– não as–nações que para–vós de-redor elas vergonha-deles carregarão
+-- c36-v8: E–vós montes-de Israel ramos-vossos dareis e–fruto-vosso carregareis para–povo-meu Israel porque aproximaram-se para–vir
+-- c36-v9: Porque eis-me a–vós e–virar-me-ei a–vós e–sereis-lavrados e–sereis-semeados
+-- c36-v10: E–multiplicarei sobre–vós homem toda– casa-de Israel toda-ela e–serão-habitadas as–cidades e–as–ruínas serão-construídas
+-- c36-v11: E–multiplicarei sobre–vós homem e–animal e–multiplicarão e–frutificarão e–farei-habitar (a)–vós como–antigamente-vosso e–farei-bem mais-que-princípios-vossos e–sabereis que– Eu YHWH
+-- c36-v12: E–farei-andar sobre–vós homem (a) povo-meu Israel e–possuir-te-ão e–serás para–eles herança e–não– continuarás mais a–desfilhar-os §
+-- c36-v13: Assim disse Senhor YHWH Visto-que dizem a–vós Devoradora-de homem [tu] (tu) e–desfilhadora-de [nação-tua] (nações-tuas) foste
+-- c36-v14: Portanto homem não– devorarás mais [e–nação-tua] (e–nações-tuas) não [desfilharás–] (desfilharás–) mais oráculo-de Senhor YHWH
+-- c36-v15: E–não– farei-ouvir a–ti mais vergonha-de as–nações e–opróbrio-de povos não carregarás– mais [e–nação-tua] (e–nações-tuas) não– farás-tropeçar mais oráculo-de Senhor YHWH §
+-- c36-v16: E–foi palavra-de– YHWH a–mim dizendo
+-- c36-v17: Filho-de– homem Casa-de Israel habitando sobre– terra-deles e–contaminaram (a)–ela em–caminho-deles e–em–práticas-deles como–impureza-de a–menstruada foi caminho-deles diante-de-mim
+-- c36-v18: E–derramei fúria-minha sobre–eles por-causa-de– o–sangue que– derramaram sobre– a–terra e–com–ídolos-deles contaminaram-na
+-- c36-v19: E–espalhei (a)–eles nas–nações e–foram-dispersos nas–terras conforme–caminho-deles e–conforme–práticas-deles julguei-os
+-- c36-v20: E–entrou a– as–nações que– entraram lá e–profanaram (a) nome-de santidade-minha ao–dizer a–eles povo-de– YHWH estes e–de–terra-dele saíram
+-- c36-v21: E–tive-compaixão de– nome-de santidade-minha que profanaram-o casa-de Israel nas–nações que– entraram lá §
+-- c36-v22: Portanto diz à–casa-de– Israel Assim disse Senhor YHWH Não por-amor-vosso Eu faço casa-de Israel mas-sim se– por–nome-de– santidade-minha que profanastes nas–nações que– entrastes lá
+-- c36-v23: E–santificarei (a) nome-meu o–grande o–profanado nas–nações que profanastes no–meio-delas e–saberão as–nações que– Eu YHWH oráculo-de Senhor YHWH quando–ser-santificado em–vós aos–olhos-deles
+-- c36-v24: E–tomarei (a)–vós de–entre– as–nações e–reuní-los-ei (a)–vós de–todas– as–terras e–trarei (a)–vós a– terra-vossa
+-- c36-v25: E–aspergirei sobre–vós águas puras e–sereis-purificados de–todas impurezas-vossas e–de–todos– ídolos-vossos purificarei (a)–vós
+-- c36-v26: E–darei a–vós coração novo e–espírito novo porei em–interior-vosso e–removerei (a) coração de–pedra de–carne-vossa e–darei a–vós coração de–carne
+-- c36-v27: E–(a) espírito-meu porei em–interior-vosso e–farei (a) que– em–estatutos-meus andareis e–ordenanças-minhas guardareis e–fareis
+-- c36-v28: E–habitareis na–terra que dei aos–pais-vossos e–sereis para–mim povo e–Eu serei para–vós Deus
+-- c36-v29: E–salvarei (a)–vós de–todas impurezas-vossas e–chamarei ao– grão e–multiplicarei (a)–ele e–não– porei sobre–vós fome
+-- c36-v30: E–multiplicarei (a) fruto-de a–árvore e–produto-de o–campo para–que que não recebais mais vergonha-de fome nas–nações
+-- c36-v31: E–lembrareis (a) caminhos-vossos maus e–ações-vossas que não– boas e–sentireis-nojo de–vós-mesmos por-causa-de iniquidades-vossas e–por-causa-de abominações-vossas
+-- c36-v32: Não por-amor-vosso Eu– faço oráculo-de Senhor YHWH seja-sabido a–vós envergonhai-vos e–humilhai-vos de–caminhos-vossos casa-de Israel §
+-- c36-v33: Assim disse Senhor YHWH No–dia-de purificar-eu (a)–vós de–todas iniquidades-vossas e–farei-habitar (a) as–cidades e–serão-construídas as–ruínas
+-- c36-v34: E–a–terra a–desolada será-lavrada ao-invés-de que era desolação aos–olhos-de todo– passante
+-- c36-v35: E–dirão A–terra esta a–desolada tornou-se como–jardim-de– Éden e–as–cidades as–arruinadas e–as–desoladas e–as–demolidas fortificadas foram-habitadas
+-- c36-v36: E–saberão as–nações que restarem ao-redor-de-vós que Eu YHWH construí as–demolidas plantei a–desolada Eu YHWH falei e–farei §
+-- c36-v37: Assim disse Senhor YHWH Ainda isto serei-buscado pela–casa-de– Israel para–fazer para–eles multiplicarei (a)–eles como–ovelhas-de homem
+-- c36-v38: Como–ovelhas-de consagrações como–ovelhas-de Jerusalém em–festas-dela assim serão as–cidades as–arruinadas cheias-de ovelhas-de homem e–saberão que– Eu YHWH §
+-- c37-v1: Estava sobre–mim mão-de– YHWH e–fez-sair-me em–espírito-de YHWH e–colocou-me no–meio-de o–vale e–ele cheio-de ossos
+-- c37-v2: E–fez-passar-me sobre–eles ao-redor ao-redor e–eis muitos muito sobre– face-de o–vale e–eis secos muito
+-- c37-v3: E–disse a–mim Filho-de– homem viverão os–ossos estes E–disse Senhor YHWH Tu sabes
+-- c37-v4: E–disse a–mim Profetiza sobre– os–ossos estes e–dirás a–eles Os–ossos os–secos ouvi palavra-de– YHWH
+-- c37-v5: Assim disse Senhor YHWH aos–ossos estes Eis Eu fazendo-entrar em–vós espírito e–vivereis
+-- c37-v6: E–porei sobre–vós tendões e–farei-subir sobre–vós carne e–cobrirei sobre–vós pele e–porei em–vós espírito e–vivereis e–sabereis que– Eu YHWH
+-- c37-v7: E–profetizei conforme fui-ordenado e–houve– som quando–profetizei e–eis– estremecimento e–aproximaram-se ossos osso a– osso-dele
+-- c37-v8: E–vi e–eis– sobre–eles tendões e–carne subiu e–cobriu sobre–eles pele de–cima e–espírito não-havia neles
+-- c37-v9: E–disse a–mim Profetiza ao– o–espírito profetiza filho-de– homem e–dirás ao– o–espírito Assim– disse Senhor YHWH Dos–quatro ventos vem ó–espírito e–sopra nos–mortos estes e–vivam
+-- c37-v10: E–profetizei conforme fui-ordenado e–entrou neles o–espírito e–viveram e–levantaram-se sobre– pés-deles exército grande muito– muito §
+-- c37-v11: E–disse a–mim Filho-de– homem Os–ossos estes toda– casa-de Israel eles Eis dizem Secaram ossos-nossos e–pereceu esperança-nossa fomos-cortados para–nós
+-- c37-v12: Portanto profetiza e–dirás a–eles Assim– disse Senhor YHWH Eis Eu abrindo (a) sepulturas-vossas e–farei-subir (a)–vós de–sepulturas-vossas povo-meu e–trarei (a)–vós a– terra-de Israel §
+-- c37-v13: E–sabereis que– Eu YHWH quando–abrir (a) sepulturas-vossas e–quando–fazer-subir (a)–vós de–sepulturas-vossas povo-meu
+-- c37-v14: E–porei espírito-meu em–vós e–vivereis e–darei-descanso-a (a)–vós sobre– terra-vossa e–sabereis que– Eu YHWH falei e–farei oráculo-de– YHWH ¶
+-- c37-v15: E–foi palavra-de– YHWH a–mim dizendo
+-- c37-v16: E–tu filho-de– homem toma– para–ti madeira um e–escreve sobre–ele Para–Judá e–para–filhos-de Israel [companheiros-dele] (companheiros-dele) e–toma madeira um e–escreve sobre–ele Para–José madeira-de Efraim e–toda– casa-de Israel [companheiros-dele] (companheiros-dele)
+-- c37-v17: E–aproxima (a)–eles um a– um para–ti para–madeira um e–serão para–um em–mão-tua
+-- c37-v18: E–quando disserem a–ti filhos-de povo-teu dizendo Acaso–não– declararás a–nós que– estes para–ti
+-- c37-v19: Fala a–eles Assim– disse Senhor YHWH Eis Eu tomando (a) madeira-de José que em–mão-de– Efraim e–tribos-de Israel [companheiros-dele] (companheiros-dele) e–porei (a)–eles sobre–ele (a) madeira-de Judá e–fá-los-ei madeira um e–serão um em–mão-minha
+-- c37-v20: E–serão as–madeiras que– escreverás sobre–elas em–mão-tua aos–olhos-deles
+-- c37-v21: E–fala a–eles Assim– disse Senhor YHWH Eis Eu tomando (a) filhos-de Israel de–entre as–nações que foram– lá e–reuní-los-ei (a)–eles de-redor e–trarei (a)–eles a– terra-deles
+-- c37-v22: E–farei (a)–eles nação uma na–terra nos–montes-de Israel e–rei um será para–todos-eles rei e–não [será–] (serão–) mais duas nações e–não serão-divididos mais em–dois reinos mais
+-- c37-v23: E–não contaminar-se-ão mais com–ídolos-deles e–com–abominações-deles e–com–todas transgressões-deles e–salvarei (a)–eles de–todas habitações-deles que pecaram nelas e–purificarei (a)–eles e–serão– para–mim povo e–Eu serei para–eles Deus
+-- c37-v24: E–servo-meu Davi rei sobre–eles e–pastor um será para–todos-eles e–em–ordenanças-minhas andarão e–estatutos-meus guardarão e–farão (a)–eles
+-- c37-v25: E–habitarão sobre– a–terra que dei a–servo-meu Jacó que habitaram– nela pais-vossos e–habitarão sobre–ela eles e–filhos-deles e–filhos-de filhos-deles até– eternidade e–Davi servo-meu príncipe para–eles para–sempre
+-- c37-v26: E–farei com–eles aliança-de paz aliança-de eternidade será (a)–eles e–porei-os e–multiplicarei (a)–eles e–porei (a) santuário-meu no–meio-deles para–sempre
+-- c37-v27: E–será tabernáculo-meu sobre–eles e–serei para–eles Deus e–eles serão– para–mim povo
+-- c37-v28: E–saberão as–nações que Eu YHWH santificador-de (a) Israel quando–estar santuário-meu no–meio-deles para–sempre §
+-- c38-v1: E–foi palavra-de– YHWH a–mim dizendo
+-- c38-v2: Filho-de– homem põe face-tua contra– Gogue terra-de Magogue príncipe-de cabeça Meshek e–Tubal e–profetiza contra–ele
+-- c38-v3: E–dirás Assim disse Senhor YHWH Eis-me contra–ti Gogue príncipe-de cabeça Meshek e–Tubal
+-- c38-v4: E–farei-te-voltar e–porei anzois em–mandíbulas-tuas e–tirarei (a)–ti e–(a) todo– exército-teu cavalos e–cavaleiros vestidos-de perfeição todos-eles assembleia grande escudo-grande e–escudo-pequeno empunhadores-de espadas todos-eles
+-- c38-v5: Pérsia Cuxe e–Pute com–eles todos-eles escudo e–capacete
+-- c38-v6: Gomer e–todas– tropas-dela casa-de Togarma confins-de norte e–(a) todas– tropas-dele povos muitos contigo
+-- c38-v7: Prepara-te e–prepara para–ti tu e–toda– assembleia-tua os–reunidos sobre–ti e–serás para–eles guarda
+-- c38-v8: De–dias muitos serás-convocado no–fim-de os–anos virás a– terra restaurada de–espada reunida de–povos muitos sobre montes-de Israel que– estiveram como–ruína continuamente e–ela de–povos foi-tirada e–habitarão em–segurança todos-eles
+-- c38-v9: E–subirás como–tempestade virás como–nuvem para–cobrir a–terra serás tu e–todas– tropas-tuas e–povos muitos contigo §
+-- c38-v10: Assim disse Senhor YHWH E–será no–dia aquele subirão coisas sobre– coração-teu e–tramarás plano mau
+-- c38-v11: E–dirás Subirei contra– terra-de aldeias-abertas virei aos–quietos habitadores-de segurança todos-eles habitando sem muro e–tranca e–portas não-há a–eles
+-- c38-v12: Para–saquear saque e–para–despojar despojo para–voltar mão-tua contra– ruínas habitadas e–contra– povo reunido de–nações fazendo rebanho e–propriedade habitadores-de sobre– umbigo-de a–terra
+-- c38-v13: Sabá e–Dedã e–mercadores-de Tarshish e–todos– leões-jovens-dela dirão a–ti Para–saquear saque tu vens para–despojar despojo reuniste assembleia-tua para–carregar prata e–ouro para–tomar rebanho e–propriedade para–saquear saque grande §
+-- c38-v14: Portanto profetiza filho-de– homem e–dirás a–Gogue Assim disse Senhor YHWH Acaso–não no–dia aquele quando–sentar povo-meu Israel em–segurança saberás
+-- c38-v15: E–virás de–lugar-teu dos–confins-de norte tu e–povos muitos contigo cavaleiros-de cavalos todos-eles assembleia grande e–exército grande
+-- c38-v16: E–subirás contra– povo-meu Israel como–nuvem para–cobrir a–terra no–fim-de os–dias será e–trarei-te contra– terra-minha para–que conhecer as–nações (a)–mim quando–ser-santificado em–ti aos–olhos-deles Gogue §
+-- c38-v17: Assim– disse Senhor YHWH És-tu– ele que– falei nos–dias antigos por–mão-de servos-meus profetas-de Israel os–que-profetizaram nos–dias aqueles anos para–trazer (a)–ti sobre–eles §
+-- c38-v18: E–será no–dia aquele no–dia-de vir-de Gogue contra– terra-de Israel oráculo-de Senhor YHWH subirá fúria-minha em–nariz-meu
+-- c38-v19: E–em–zelo-meu em–fogo-de– ira-minha falei Se– não no–dia aquele haverá terremoto grande sobre terra-de Israel
+-- c38-v20: E–tremerão de–face-minha peixes-de o–mar e–ave-de os–céus e–animal-de o–campo e–todo– réptil o–que-rasteja sobre– a–terra e–todo o–homem que sobre– face-de a–terra e–serão-demolidos os–montes e–cairão os–penhascos e–todo– muro à–terra cairá
+-- c38-v21: E–chamarei contra–ele para–todos– montes-meus espada oráculo-de Senhor YHWH espada-de homem contra–irmão-dele será
+-- c38-v22: E–julgarei com–ele com–peste e–com–sangue e–chuva inundante e–pedras-de gelo fogo e–enxofre farei-chover sobre–ele e–sobre– tropas-dele e–sobre– povos muitos que com–ele
+-- c38-v23: E–magnificarei e–santificarei e–serei-conhecido aos–olhos-de nações muitas e–saberão que– Eu YHWH §
+-- c39-v1: E–tu filho-de– homem profetiza contra– Gogue e–dirás Assim disse Senhor YHWH Eis-me contra–ti Gogue príncipe-de cabeça Meshek e–Tubal
+-- c39-v2: E–farei-te-voltar e–guiarei-te e–farei-te-subir dos–confins-de norte e–trarei-te contra– montes-de Israel
+-- c39-v3: E–derrubarei arco-teu de–mão-de esquerda-tua e–flechas-tuas de–mão-de direita-tua farei-cair
+-- c39-v4: Sobre– montes-de Israel cairás tu e–todas– tropas-tuas e–povos que contigo a–ave-de-rapina pássaro-de toda– asa e–animal-de o–campo darei-te para–comida
+-- c39-v5: Sobre– face-de o–campo cairás porque Eu falei oráculo-de Senhor YHWH
+-- c39-v6: E–enviarei– fogo em–Magogue e–nos–habitadores-de as–ilhas em–segurança e–saberão que– Eu YHWH
+-- c39-v7: E–(a) nome-de santidade-minha farei-conhecer no–meio-de povo-meu Israel e–não– profanarei (a) nome-de– santidade-minha mais e–saberão as–nações que– Eu YHWH santo em–Israel
+-- c39-v8: Eis vem e–acontecerá oráculo-de Senhor YHWH ele-é o–dia que falei
+-- c39-v9: E–sairão habitantes-de cidades-de Israel e–acenderão e–farão-fogo com–arma e–escudo-pequeno e–escudo-grande com–arco e–com–flechas e–com–bastão-de mão e–com–lança e–acenderão com–eles fogo sete anos
+-- c39-v10: E–não– carregarão lenha de– o–campo e–não cortarão dos– os–bosques porque com–as-armas acenderão– fogo e–saquearão (a) saqueadores-deles e–despojarão (a) despojadores-deles oráculo-de Senhor YHWH §
+-- c39-v11: E–será no–dia aquele darei a–Gogue lugar– lá sepultura em–Israel vale-de os–que-passam a–leste-de o–mar e–obstruirá ela (a) os–que-passam e–enterrarão lá (a) Gogue e–(a) toda– multidão-dele e–chamarão Vale-de Multidão-de Gogue
+-- c39-v12: E–enterrarão-os casa-de Israel para–que purificar (a) a–terra sete meses
+-- c39-v13: E–enterrarão todo– povo-de a–terra e–será para–eles renome dia-de glorificar-me oráculo-de Senhor YHWH
+-- c39-v14: E–homens-de continuação separarão passadores na–terra enterradores (a) os–que-passam (a) os–que-restam sobre– face-de a–terra para–purificá-la ao–fim-de sete– meses pesquisarão
+-- c39-v15: E–passarão os–que-passam na–terra e–ver osso-de homem e–construirá junto-a-ele marco até enterrarem (a)–ele os–enterradores no– Vale-de Multidão-de Gogue
+-- c39-v16: E–também nome-de– cidade Hamona e–purificarão a–terra §
+-- c39-v17: E–tu filho-de– homem Assim– disse Senhor YHWH Diz a–pássaro-de toda– asa e–a–todo animal-de o–campo Reuni-vos e–vinde Ajuntai-vos de-redor sobre– sacrifício-meu que Eu sacrificando para–vós sacrifício grande sobre montes-de Israel e–comereis carne e–bebereis sangue
+-- c39-v18: Carne-de valentes comereis e–sangue-de príncipes-de a–terra bebereis carneiros cordeiros e–bodes touros gordos-de Bashã todos-eles
+-- c39-v19: E–comereis– gordura à–saciedade e–bebereis sangue à–embriaguez de–sacrifício-meu que– sacrifiquei para–vós
+-- c39-v20: E–saciar-vos-eis à– mesa-minha cavalo e–carro valente e–todo– homem-de guerra oráculo-de Senhor YHWH
+-- c39-v21: E–porei (a) glória-minha nas–nações e–verão todas– as–nações (a) juízos-meus que fiz e–(a) mão-minha que– pus neles
+-- c39-v22: E–saberão casa-de Israel que Eu YHWH Deus-deles desde– o–dia aquele e–em-diante
+-- c39-v23: E–saberão as–nações que por–iniquidade-deles foram-exilados casa-de– Israel por-causa-de que traíram– contra–mim e–escondi face-minha deles e–entreguei-os em–mão-de opressores-deles e–caíram pela–espada todos-eles
+-- c39-v24: Conforme–impureza-deles e–conforme–transgressões-deles fiz (a)–eles e–escondi face-minha deles §
+-- c39-v25: Portanto assim disse Senhor YHWH Agora restaurarei (a) [cativeiro] (sorte-de) Jacó e–terei-compaixão-de toda– casa-de Israel e–zelarei pelo–nome-de santidade-minha
+-- c39-v26: E–carregarão (a) vergonha-deles e–(a) toda– infidelidade-deles que traíram– contra–mim quando–habitarem sobre– terra-deles em–segurança e–não-haverá quem-aterre
+-- c39-v27: Quando–fizer-voltar (a)–eles de–entre– os–povos e–reuní-los-ei (a)–eles de–terras-de inimigos-deles e–serei-santificado neles aos–olhos-de as–nações muitas
+-- c39-v28: E–saberão que Eu YHWH Deus-deles quando–exilar (a)–eles a– as–nações e–ajuntá-los-ei sobre– terra-deles e–não– deixarei mais deles lá
+-- c39-v29: E–não– esconderei mais face-minha deles que derramei (a) espírito-meu sobre– casa-de Israel oráculo-de Senhor YHWH ¶
+-- c40-v1: No–vigésimo e–cinco ano do–nosso–exílio no–princípio do–ano no–décimo do–mês no–décimo quarto ano depois que foi–ferida a–cidade nesse–mesmo o–dia esse foi sobre–mim mão-de– YHWH e–trouxe (a)–mim para–lá
+-- c40-v2: Em–visões-de Deus trouxe–me para– terra-de Israel e–colocou–me sobre– monte alto muito e–sobre–ele como–construção-de– cidade do–sul
+-- c40-v3: E–trouxe (a)–mim para–lá e–eis– homem sua–aparência como–aparência-de bronze e–cordão-de– linho em–sua–mão e–cana-de a–medida e–ele estava–de–pé no–portão
+-- c40-v4: E–falou a–mim o–homem Filho-de– homem vê com–teus–olhos e–com–teus–ouvidos ouve e–coloca teu–coração a–tudo que– eu mostrando (a)–ti pois para–que te–mostrar foste–trazido aqui declara (a)– toda– que– tu vês à–casa-de Israel
+-- c40-v5: E–eis muro por–fora da–casa ao–redor ao–redor e–na–mão-de o–homem cana-de a–medida seis– côvados pelo–côvado e–palmo e–mediu (a)– largura-de a–construção cana uma e–altura cana uma
+-- c40-v6: E–entrou no– portão que sua–face direção-de o–oriente e–subiu [pelos–seus–degraus] (pelos–seus–degraus) e–mediu (a)– umbral-de o–portão cana uma largura e–(a) umbral um cana uma largura
+-- c40-v7: E–a–câmara cana uma comprimento e–cana uma largura e–entre as–câmaras cinco côvados e–umbral-de o–portão de–junto vestíbulo-de o–portão de–a–casa cana uma
+-- c40-v8: E–mediu (a)– vestíbulo-de o–portão de–a–casa cana uma
+-- c40-v9: E–mediu (a)– vestíbulo-de o–portão oito côvados [e–seus–pilares] (e–seus–pilares) dois côvados e–vestíbulo-de o–portão de–a–casa
+-- c40-v10: E–câmaras-de o–portão direção-de o–oriente três daqui e–três dali medida uma para–as–três e–medida uma para–os–pilares daqui e–dali
+-- c40-v11: E–mediu (a)– largura-de entrada-de– o–portão dez côvados comprimento-de o–portão três dez côvados
+-- c40-v12: E–limite diante-de as–câmaras côvado um e–côvado– um limite daqui e–a–câmara seis– côvados dali e–seis côvados daqui
+-- c40-v13: E–mediu (a)– o–portão do–teto-de a–câmara até–seu–teto largura vinte e–cinco côvados entrada defronte-de entrada
+-- c40-v14: E–fez (a)– os–pilares sessenta côvados e–até– pilar-de o–átrio o–portão ao–redor ao–redor
+-- c40-v15: E–sobre face-de o–portão [da–entrada] (da–entrada) até– diante-de vestíbulo-de o–portão o–interior cinquenta côvados
+-- c40-v16: E–janelas estreitas para– as–câmaras e–para seus–pilares para–dentro do–portão ao–redor ao–redor e–assim para–os–vestíbulos e–janelas ao–redor ao–redor para–dentro e–sobre– pilar palmeiras
+-- c40-v17: E–trouxe–me para– o–átrio o–exterior e–eis câmaras e–pavimento feito para–o–átrio ao–redor ao–redor trinta câmaras sobre– o–pavimento
+-- c40-v18: E–o–pavimento ao– lado-de os–portões correspondendo-a comprimento-de os–portões o–pavimento o–inferior
+-- c40-v19: E–mediu largura de–diante-de o–portão o–inferior diante-de o–átrio o–interior por–fora cem côvados o–oriente e–o–norte
+-- c40-v20: E–o–portão que sua–face direção-de o–norte do–átrio o–exterior mediu seu–comprimento e–sua–largura
+-- c40-v21: [e–suas–câmaras] (e–suas–câmaras) três daqui e–três dali [e–seus–pilares] (e–seus–pilares) [e–seus–vestíbulos] (e–seus–vestíbulos) foi conforme–medida-de o–portão o–primeiro cinquenta côvados seu–comprimento e–largura cinco e–vinte pelo–côvado
+-- c40-v22: [e–suas–janelas] (e–suas–janelas) [e–seus–vestíbulos] (e–seus–vestíbulos) [e–suas–palmeiras] (e–suas–palmeiras) conforme–medida-de o–portão que sua–face direção-de o–oriente e–pelos–degraus sete subiam– nele [e–seus–vestíbulos] (e–seus–vestíbulos) diante–deles
+-- c40-v23: E–portão do–átrio o–interior defronte-de o–portão do–norte e–do–oriente e–mediu de–portão até– portão cem côvados
+-- c40-v24: E–conduziu–me direção-de o–sul e–eis– portão direção-de o–sul e–mediu [seus–pilares] (seus–pilares) [e–seus–vestíbulos] (e–seus–vestíbulos) conforme–as–medidas estas
+-- c40-v25: E–janelas para–ele [e–para–seus–vestíbulos] (e–para–seus–vestíbulos) ao–redor ao–redor como–as–janelas estas cinquenta côvados comprimento e–largura cinco e–vinte côvados
+-- c40-v26: E–degraus sete [suas–subidas] (suas–subidas) [e–seus–vestíbulos] (e–seus–vestíbulos) diante–deles e–palmeiras para–ele uma daqui e–uma dali sobre– [seus–pilares] (seus–pilares)
+-- c40-v27: E–portão do–átrio o–interior direção-de o–sul e–mediu de–portão até– o–portão direção-de o–sul cem côvados
+-- c40-v28: E–trouxe–me para– átrio o–interior pelo–portão do–sul e–mediu (a)– o–portão do–sul conforme–as–medidas estas
+-- c40-v29: [e–suas–câmaras] (e–suas–câmaras) [e–seus–pilares] (e–seus–pilares) [e–seus–vestíbulos] (e–seus–vestíbulos) conforme–as–medidas estas e–janelas para–ele [e–para–seus–vestíbulos] (e–para–seus–vestíbulos) ao–redor ao–redor cinquenta côvados comprimento e–largura vinte e–cinco côvados
+-- c40-v30: E–vestíbulos ao–redor ao–redor comprimento cinco e–vinte côvados e–largura cinco côvados
+-- c40-v31: E–seu–vestíbulo para– átrio o–exterior e–palmeiras sobre– [seus–pilares] (seus–pilares) e–degraus oito [suas–subidas] (suas–subidas)
+-- c40-v32: E–trouxe–me para– o–átrio o–interior direção-de o–oriente e–mediu (a)– o–portão conforme–as–medidas estas
+-- c40-v33: [e–suas–câmaras] (e–suas–câmaras) [e–seus–pilares] (e–seus–pilares) [e–seus–vestíbulos] (e–seus–vestíbulos) conforme–as–medidas estas e–janelas para–ele [e–para–seus–vestíbulos] (e–para–seus–vestíbulos) ao–redor ao–redor comprimento cinquenta côvados e–largura cinco e–vinte côvados
+-- c40-v34: [e–seus–vestíbulos] (e–seus–vestíbulos) do–átrio o–exterior e–palmeiras sobre– [seus–pilares] (seus–pilares) daqui e–dali e–oito degraus [suas–subidas] (suas–subidas)
+-- c40-v35: E–trouxe–me para– portão do–norte e–mediu conforme–as–medidas estas
+-- c40-v36: [suas–câmaras] (suas–câmaras) [seus–pilares] (seus–pilares) [e–seus–vestíbulos] (e–seus–vestíbulos) e–janelas para–ele ao–redor ao–redor comprimento cinquenta côvados e–largura cinco e–vinte côvados
+-- c40-v37: [e–seus–pilares] (e–seus–pilares) do–átrio o–exterior e–palmeiras sobre– [seus–pilares] (seus–pilares) daqui e–dali e–oito degraus [suas–subidas] (suas–subidas)
+-- c40-v38: E–câmara e–sua–entrada pelos–pilares-de os–portões ali lavarão (a)– a–oferta–queimada
+-- c40-v39: E–no–vestíbulo-de o–portão duas mesas daqui e–duas mesas dali para–degolar sobre–elas a–oferta–queimada e–a–oferta–pelo–pecado e–a–oferta–pela–culpa
+-- c40-v40: E–para– o–lado por–fora para–quem–sobe à–entrada-de o–portão do–norte duas mesas e–para– o–lado o–outro que do–vestíbulo-de o–portão duas mesas
+-- c40-v41: Quatro mesas daqui e–quatro mesas dali ao–lado-de o–portão oito mesas sobre–elas degolarão
+-- c40-v42: E–quatro mesas para–a–oferta–queimada pedras-de cantaria comprimento côvado um e–meio e–largura côvado um e–meio e–altura côvado um sobre–elas e–colocarão (a)– os–utensílios que degolarão (a)– a–oferta–queimada com–eles e–o–sacrifício
+-- c40-v43: E–os–ganchos palmo um fixados na–casa ao–redor ao–redor e–sobre– as–mesas carne-de a–oferta
+-- c40-v44: E–de–fora do–portão o–interior câmaras-de cantores no–átrio o–interior que ao– lado-de portão do–norte e–suas–faces direção-de o–sul uma ao– lado-de portão do–oriente face direção-de o–norte
+-- c40-v45: E–falou a–mim esta a–câmara que sua–face direção-de o–sul para–os–sacerdotes guardiões-de guarda-de a–casa
+-- c40-v46: E–a–câmara que sua–face direção-de o–norte para–os–sacerdotes guardiões-de guarda-de o–altar eles filhos-de– Tsadoq os–que–se–aproximam dos–filhos-de– Levi de– YHWH para–servi–lo
+-- c40-v47: E–mediu (a)– o–átrio comprimento cem côvados e–largura cem côvados quadrado e–o–altar diante-de a–casa
+-- c40-v48: E–trouxe–me para– vestíbulo-de a–casa e–mediu pilar-de vestíbulo cinco côvados daqui e–cinco côvados dali e–largura-de o–portão três côvados daqui e–três côvados dali
+-- c40-v49: Comprimento-de o–vestíbulo vinte côvados e–largura onze dez côvados e–pelos–degraus que subiam a–ele e–colunas junto– os–pilares um daqui e–um dali
+-- c41-v1: E–trouxe–me para– o–templo e–mediu (a) os–pilares seis– côvados largura– daqui e–seis– côvados– largura dali largura da–tenda
+-- c41-v2: E–largura da–entrada dez côvados e–lados da–entrada cinco côvados daqui e–cinco côvados dali e–mediu seu–comprimento quarenta côvados e–largura vinte côvados
+-- c41-v3: E–entrou para–dentro e–mediu pilar– da–entrada dois côvados e–a–entrada seis côvados e–largura da–entrada sete côvados
+-- c41-v4: E–mediu (a) seu–comprimento vinte côvados e–largura vinte côvados para– face–de o–templo e–disse para–mim este santo dos–santos
+-- c41-v5: E–mediu parede– da–casa seis côvados e–largura da–câmara–lateral quatro côvados ao–redor ao–redor da–casa ao–redor
+-- c41-v6: E–as–câmaras–laterais câmara sobre– câmara três e–trinta vezes e–entrando na–parede que– da–casa para–as–câmaras–laterais ao–redor ao–redor para–ser fixadas e–não– seriam fixadas na–parede da–casa
+-- c41-v7: E–alargou e–circundou para–cima para–cima para–as–câmaras–laterais pois cercando– a–casa para–cima para–cima ao–redor ao–redor da–casa sobre– assim largura– da–casa para–cima e–assim a–inferior subia sobre– a–superior para–a–do–meio
+-- c41-v8: E–vi da–casa altura ao–redor ao–redor [fundamentos] (fundamentos) das–câmaras–laterais cheio a–cana seis côvados junta
+-- c41-v9: Largura da–parede que– da–câmara–lateral para– o–exterior cinco côvados e–que deixado casa das–câmaras–laterais que da–casa
+-- c41-v10: E–entre as–câmaras largura vinte côvados ao–redor da–casa ao–redor ao–redor
+-- c41-v11: E–entrada da–câmara–lateral para–o–que–está–deixado entrada uma caminho o–norte e–entrada uma para–o–sul e–largura lugar do–que–está–deixado cinco côvados ao–redor ao–redor
+-- c41-v12: E–o–edifício que para– face–de a–área–separada lado caminho– o–oeste largura setenta côvados e–parede do–edifício cinco– côvados largura ao–redor ao–redor e–seu–comprimento noventa côvados
+-- c41-v13: E–mediu (a) a–casa comprimento cem côvados e–a–área–separada e–o–edifício e–suas–paredes comprimento cem côvados
+-- c41-v14: E–largura face–de a–casa e–a–área–separada para–o–oriente cem côvados
+-- c41-v15: E–mediu comprimento– do–edifício para– face–de a–área–separada que sobre– atrás–dela [e–suas–galerias] (e–suas–galerias) daqui e–dali cem côvados e–o–templo o–interior e–pórticos–de o–átrio
+-- c41-v16: Os–umbrais e–as–janelas estreitas e–as–galerias ao–redor para–os–três diante–de o–umbral revestido madeira ao–redor ao–redor e–o–chão até– as–janelas e–as–janelas cobertas
+-- c41-v17: Sobre– acima–de a–entrada e–até– a–casa a–interior e–para–fora e–para– toda– a–parede ao–redor ao–redor no–interior e–no–exterior medidas
+-- c41-v18: E–feito querubins e–palmeiras e–palmeira entre– querubim e–querubim e–duas faces para–o–querubim
+-- c41-v19: E–face–de homem para– a–palmeira daqui e–face–de– leão–jovem para– a–palmeira dali feito para– toda– a–casa ao–redor ao–redor
+-- c41-v20: Do–chão até– acima–de a–entrada os–querubins e–as–palmeiras feitos e–parede do–templo
+-- c41-v21: O–templo batente quadrado e–face–de o–santo a–aparência como–a–aparência
+-- c41-v22: O–altar madeira três côvados alto e–seu–comprimento dois– côvados e–seus–cantos dele e–seu–comprimento e–suas–paredes madeira e–falou para–mim esta a–mesa que diante–de YHWH
+-- c41-v23: E–duas portas para–o–templo e–para–o–santo
+-- c41-v24: E–duas portas para–as–portas duas giratórias portas duas para–porta uma e–duas portas para–a–outra
+-- c41-v25: E–feito sobre–elas para– portas–de o–templo querubins e–palmeiras como–que feito para–as–paredes e–viga madeira para– face–de o–pórtico de–fora
+-- c41-v26: E–janelas estreitas e–palmeiras daqui e–dali para– lados–de o–pórtico e–câmaras–laterais da–casa e–as–vigas
+-- c42-v1: E–fez–me–sair para– o–átrio o–exterior o–caminho caminho o–norte e–trouxe–me para– a–câmara que diante–de a–área–separada e–que– diante–de o–edifício para– o–norte
+-- c42-v2: Para– face–de– comprimento côvados os–cem entrada o–norte e–a–largura cinquenta côvados
+-- c42-v3: Diante–de os–vinte que do–átrio o–interior e–diante–de pavimento que do–átrio o–exterior galeria para– face–de– galeria nos–três
+-- c42-v4: E–diante–de as–câmaras passagem dez côvados largura para– a–interior caminho côvado um e–suas–entradas para–o–norte
+-- c42-v5: E–as–câmaras as–superiores encurtadas pois– tomavam galerias delas das–inferiores e–das–do–meio edifício
+-- c42-v6: Pois em–três–andares elas e–não–há para–elas colunas como–colunas–de os–átrios sobre– assim tomado das–inferiores e–das–do–meio do–chão
+-- c42-v7: E–muro que– para–fora paralelo–a as–câmaras caminho do–átrio o–exterior para– face–de as–câmaras seu–comprimento cinquenta côvados
+-- c42-v8: Pois– comprimento das–câmaras que do–átrio o–exterior cinquenta côvados e–eis sobre– face–de o–templo cem côvados
+-- c42-v9: [e–debaixo–de] [câmaras] (e–debaixo–de) (as–câmaras) estas [a–entrada] (o–que–traz) do–oriente ao–entrar nelas do–átrio o–exterior
+-- c42-v10: Na–largura muro–de o–átrio caminho o–oriente para– face–de a–área–separada e–para– face–de o–edifício câmaras
+-- c42-v11: E–caminho diante–delas como–aparência das–câmaras que caminho o–norte como–seu–comprimento assim sua–largura e–todas suas–saídas e–como–seus–regulamentos e–como–suas–entradas
+-- c42-v12: E–como–entradas–de as–câmaras que caminho o–sul entrada no–início–de caminho caminho na–face–de a–muralha apropriada caminho o–oriente ao–entrar–nelas
+-- c42-v13: E–disse para–mim Câmaras–de o–norte câmaras–de o–sul que para– face–de a–área–separada elas câmaras–de o–santo que comerão– ali os–sacerdotes que– próximos de–YHWH santos–de os–santos ali porão santos–de os–santos e–a–oferta–de–cereais e–a–oferta–pelo–pecado e–a–oferta–pela–culpa pois o–lugar santo
+-- c42-v14: Ao–entrarem os–sacerdotes e–não– sairão do–santo para– o–átrio o–exterior e–ali porão suas–vestes que– servem nelas pois– santo elas [vestirão] (e–vestirão) vestes outras e–aproximar–se–ão para– que do–povo
+-- c42-v15: E–terminou (a) medidas–de a–casa a–interior e–fez–me–sair caminho o–portão que sua–face caminho o–oriente e–mediu–o ao–redor ao–redor
+-- c42-v16: Mediu lado o–oriente com–cana–de a–medida cinco– [côvados] (centenas) canas com–cana–de a–medida ao–redor
+-- c42-v17: Mediu lado o–norte cinco– centenas canas com–cana–de a–medida ao–redor
+-- c42-v18: (a) lado o–sul mediu cinco– centenas canas com–cana–de a–medida
+-- c42-v19: Virou para– lado o–oeste mediu cinco– centenas canas com–cana–de a–medida
+-- c42-v20: Para–quatro lados mediu–o muro dele ao–redor ao–redor comprimento cinco centenas e–largura cinco centenas para–separar entre o–santo e–o–comum
+-- c43-v1: E–fez–me–ir para– o–portão portão que voltado caminho o–oriente
+-- c43-v2: E–eis glória–de Deus–de Israel vindo do–caminho o–oriente e–sua–voz como–voz–de águas muitas e–a–terra iluminou de–sua–glória
+-- c43-v3: E–como–aparência a–aparência que vi como–a–aparência que– vi ao–vir–eu para–destruir (a) a–cidade e–aparências como–a–aparência que vi junto–a– rio– Kebar e–caí sobre– minha–face
+-- c43-v4: E–glória–de YHWH entrou para– a–casa caminho portão que sua–face caminho o–oriente
+-- c43-v5: E–levantou–me espírito e–trouxe–me para– o–átrio o–interior e–eis cheia glória–de– YHWH a–casa
+-- c43-v6: E–ouvi falando para–mim da–casa e–homem estava de–pé junto–a–mim
+-- c43-v7: E–disse para–mim Filho–de– homem (a) lugar–de meu–trono e–(a) lugar–de solas–de meus–pés que habitarei– ali no–meio–de filhos–de– Israel para–sempre e–não contaminarão mais casa–de– Israel nome–de minha–santidade eles e–seus–reis em–sua–prostituição e–em–cadáveres–de seus–reis em–seus–altos
+-- c43-v8: Ao–pôrem seu–umbral (a) meu–umbral e–sua–ombreira junto–a minha–ombreira e–a–parede entre–mim e–entre–eles e–contaminaram (a) nome–de minha–santidade em–suas–abominações que fizeram e–consumi eles em–minha–ira
+-- c43-v9: Agora afastarão (a) sua–prostituição e–cadáveres–de seus–reis de–mim e–habitarei no–meio–deles para–sempre §
+-- c43-v10: Tu filho–de– homem declara (a) casa–de– Israel (a) a–casa e–envergonhar–se–ão de–suas–iniquidades e–medirão (a) o–projeto
+-- c43-v11: E–se– se–envergonharem de–tudo que– fizeram forma–de a–casa e–seu–arranjo e–suas–saídas e–suas–entradas e–todas– suas–formas e–(a) todos– seus–estatutos e–todas– [formas] (suas–formas) e–todas– [sua–lei] (suas–leis) faz–conhecer eles e–escreve diante–de–seus–olhos e–guardarão (a) toda– sua–forma e–(a) todos– seus–estatutos e–farão eles
+-- c43-v12: Esta lei–de a–casa sobre– cume–de a–montanha todo– seu–território ao–redor ao–redor santo dos–santos eis– esta lei–de a–casa
+-- c43-v13: E–estas medidas–de o–altar em–côvados côvado côvado e–palmo e–cavidade do–côvado e–côvado– largura e–sua–borda para– sua–beirada ao–redor palmo o–um e–este base–de o–altar
+-- c43-v14: E–da–cavidade do–chão até– a–saliencia a–inferior dois côvados e–largura côvado um e–da–saliência a–pequena até– a–saliência a–grande quatro côvados e–largura o–côvado
+-- c43-v15: E–a–lareira quatro côvados e–da–lareira e–para–cima os–chifres quatro
+-- c43-v16: [e–a–lareira] (e–a–lareira) doze  comprimento por–doze  largura quadrado para quatro seus–lados
+-- c43-v17: E–a–saliência quatorze  comprimento por–quatorze  largura para quatro seus–lados e–a–borda ao–redor dela meio do–côvado e–a–cavidade– dela côvado ao–redor e–seus–degraus voltados oriente
+-- c43-v18: E–disse para–mim Filho–de– homem assim diz Senhor YHWH Estes estatutos–de o–altar no–dia de–ser–feito para–oferecer sobre–ele holocausto e–para–aspergir sobre–ele sangue
+-- c43-v19: E–darás para– os–sacerdotes os–levitas que eles da–descendência–de Tsadoq os–que–se–aproximam de–mim declaração–de Senhor YHWH para–me–servir novilho filho–de– gado para–oferta–pelo–pecado
+-- c43-v20: E–tomarás de–seu–sangue e–porás sobre– quatro seus–chifres e–para– quatro cantos–de a–saliência e–para– a–borda ao–redor e–purificarás ele e–farás–expiação–por–ele
+-- c43-v21: E–tomarás (a) o–novilho da–oferta–pelo–pecado e–queimar–se–á no–lugar–designado–de a–casa fora–de o–santuário
+-- c43-v22: E–no–dia o–segundo oferecerás bode–de– cabras perfeito para–oferta–pelo–pecado e–purificarão (a) o–altar como–que purificaram com–o–novilho
+-- c43-v23: Ao–terminares de–purificar oferecerás novilho filho–de– gado perfeito e–carneiro de– o–rebanho perfeito
+-- c43-v24: E–apresentarás–os diante–de YHWH e–lançarão os–sacerdotes sobre–eles sal e–oferecerão eles holocausto para–YHWH
+-- c43-v25: Sete dias farás bode–de– oferta–pelo–pecado por–dia e–novilho filho–de– gado e–carneiro de– o–rebanho perfeitos farão
+-- c43-v26: Sete dias farão–expiação (a) o–altar e–purificarão ele e–consagrarão [sua–mão] (suas–mãos)
+-- c43-v27: E–terminarão (a) os–dias § e–será no–dia o–oitavo e–adiante farão os–sacerdotes sobre– o–altar (a) vossos–holocaustos e–(a) vossas–ofertas–pacíficas e–aceitar–vos–ei vós declaração–de Senhor YHWH §
+-- c44-v1: E–fez–me–voltar a–mim caminho portão–de o–santuário o–exterior o–voltado oriente e–ele fechado
+-- c44-v2: E–disse para–mim YHWH o–portão este fechado será não será–aberto e–homem não– entrará por–ele pois YHWH Deus–de– Israel entrou por–ele e–estará fechado
+-- c44-v3: (a)– o–príncipe príncipe ele sentar–se–á– nele para–comer– pão diante–de YHWH do–caminho pórtico–de o–portão entrará e–por–seu–caminho sairá
+-- c44-v4: E–trouxe–me caminho–de– portão o–norte para– face–de a–casa e–vi e–eis cheia glória–de– YHWH (a) casa–de YHWH e–caí sobre– minha–face
+-- c44-v5: E–disse para–mim YHWH Filho–de– homem põe teu–coração e–vê com–teus–olhos e–com–teus–ouvidos ouve (a) tudo– que eu falando contigo para–todos– estatutos–de casa–de– YHWH e–para–todas– [sua–lei] (suas–leis) e–porás teu–coração para–entrada–de a–casa em–todas saídas–de o–santuário
+-- c44-v6: E–dirás para– rebelde para– casa–de Israel Assim diz Senhor YHWH Basta– para–vós de–todas– vossas–abominações casa–de Israel
+-- c44-v7: Ao–trazeres filhos–de– estrangeiro incircuncisos–de– coração e–incircuncisos–de carne para–estar em–meu–santuário para–profaná–lo (a) minha–casa ao–oferecerdes (a) meu–pão gordura e–sangue e–quebraram (a) minha–aliança para todas– vossas–abominações
+-- c44-v8: E–não guardastes guarda–de minhas–coisas–santas e–pusestes para–guardadores–de minha–guarda em–meu–santuário para–vós
+-- c44-v9: Assim– diz Senhor YHWH todo– filho–de– estrangeiro incircunciso–de coração e–incircunciso–de carne não entrará para– meu–santuário para–todo– filho–de– estrangeiro que no–meio–de filhos–de Israel
+-- c44-v10: Porém se– os–levitas que afastaram–se de–sobre–mim no–desviar–se Israel que desviou–se de–sobre–mim após seus–ídolos e–levarão sua–iniquidade
+-- c44-v11: E–serão em–meu–santuário servindo encargos para– portões–de a–casa e–servindo (a) a–casa eles abaterão (a) o–holocausto e–(a) o–sacrifício para–o–povo e–eles ficarão–de–pé diante–deles para–servi–los
+-- c44-v12: Porque que serviram eles diante–de seus–ídolos e–foram para–casa–de– Israel para–tropeço–de iniquidade sobre– assim levantei minha–mão sobre–eles declaração–de Senhor YHWH e–levarão sua–iniquidade
+-- c44-v13: E–não– aproximar–se–ão de–mim para–servir–como–sacerdotes para–mim e–para–aproximar–se de– todas– minhas–coisas–santas para– santos–de os–santos e–levarão sua–vergonha e–suas–abominações que fizeram
+-- c44-v14: E–darei eles guardadores–de guarda–de a–casa para–todo seu–serviço e–para–tudo que será–feito nela ¶
+-- c44-v15: Mas–os–sacerdotes os–levitas filhos–de Tsadoq que guardaram (a) guarda–de meu–santuário no–desviar–se filhos–de– Israel de–sobre–mim eles aproximar–se–ão de–mim para–me–servir e–ficarão–de–pé diante–de–mim para–oferecer para–mim gordura e–sangue declaração–de Senhor YHWH
+-- c44-v16: Eles entrarão para– meu–santuário e–eles aproximar–se–ão para– minha–mesa para–me–servir e–guardarão (a) minha–guarda
+-- c44-v17: E–será ao–entrarem para– portões–de o–átrio o–interior vestes–de linho vestirão e–não– subirá sobre–eles lã ao–servirem nos–portões–de o–átrio o–interior e–dentro
+-- c44-v18: Turbantes–de linho estarão sobre– sua–cabeça e–calções–de linho estarão sobre– seus–lombos não cingirão com–suor
+-- c44-v19: E–ao–saírem para– o–átrio o–exterior para– o–átrio o–exterior para– o–povo tirarão (a) suas–vestes que– eles servindo nelas e–deixarão elas nas–câmaras–de o–santo e–vestirão vestes outras e–não– santificarão (a) o–povo com–suas–vestes
+-- c44-v20: E–sua–cabeça não rasparão e–cabelo–solto não deixarão–crescer aparando apararão (a) suas–cabeças
+-- c44-v21: E–vinho não– beberão todo– sacerdote ao–entrarem para– o–átrio o–interior
+-- c44-v22: E–viúva e–divorciada não– tomarão para–eles por–esposas pois se– virgens da–descendência–de casa–de Israel e–a–viúva que será viúva de–sacerdote tomarão
+-- c44-v23: E–(a) meu–povo ensinarão entre santo e–comum e–entre– impuro e–puro farão–conhecer–os
+-- c44-v24: E–sobre– contenda eles ficarão–de–pé [para–julgar] (para–juízo) com–meus–juízos [julgarão–o] (julgarão–o) e–(a) minhas–leis e–(a) meus–estatutos em–todas– minhas–festas guardarão e–(a) meus–sábados santificarão
+-- c44-v25: E–para– morto homem não entrará para–contaminar–se pois se– por–pai e–por–mãe e–por–filho e–por–filha por–irmão e–por–irmã que– não– foi para–homem contaminar–se–ão
+-- c44-v26: E–depois–de sua–purificação sete dias contar–se–ão– para–ele
+-- c44-v27: E–no–dia de–sua–vinda para– o–santo para– o–átrio o–interior para–servir no–santo oferecerá sua–oferta–pelo–pecado declaração–de Senhor YHWH
+-- c44-v28: E–será para–eles por–herança eu sua–herança e–possessão não– dareis para–eles em–Israel eu sua–possessão
+-- c44-v29: A–oferta–de–cereais e–a–oferta–pelo–pecado e–a–oferta–pela–culpa eles comerão e–toda– coisa–consagrada em–Israel para–eles será
+-- c44-v30: E–princípios–de todas– primícias–de tudo e–toda– contribuição–de tudo de–todas vossas–contribuições para–os–sacerdotes será e–princípio–de vossas–massas dareis para–o–sacerdote para–fazer–repousar bênção para– tua–casa
+-- c44-v31: Toda– carcaça e–despedaçado de– a–ave e–de– o–animal não comerão os–sacerdotes ¶
+-- c45-v1: E–ao–lançardes (a) a–terra por–herança oferecereis contribuição para–YHWH santo de– a–terra comprimento vinte– e–cinco mil comprimento e–largura dez mil santo– ele em–todo– seu–território ao–redor
+-- c45-v2: Será disto para– o–santo cinco centenas por–cinco centenas quadrado ao–redor e–cinquenta côvados campo–aberto dele ao–redor
+-- c45-v3: E–de– a–medida esta medirás comprimento [cinco] (vinte–e–cinco)  mil e–largura dez mil e–nele– estará o–santuário santo dos–santos
+-- c45-v4: Santo de– a–terra ele para–os–sacerdotes servos–de o–santuário será os–que–se–aproximam para–servir (a) YHWH e–será para–eles lugar para–casas e–santuário para–o–santuário
+-- c45-v5: E–vinte–e–cinco  mil comprimento e–dez mil largura [será] (e–será) para–os–levitas servos–de a–casa para–eles por–possessão vinte câmaras
+-- c45-v6: E–possessão–de a–cidade dareis cinco mil largura e–comprimento vinte–e–cinco  mil paralelo–a contribuição–de o–santo para–toda– casa–de Israel será
+-- c45-v7: E–para–o–príncipe daqui e–dali para–contribuição–de o–santo e–para–possessão–de a–cidade para– face–de contribuição–de– o–santo e–para– face–de possessão–de a–cidade do–lado–de– mar para–o–mar e–do–lado–de– oriente para–o–oriente e–comprimento paralelo–a uma das–porções de–limite–de mar até– limite–de oriente
+-- c45-v8: Para–a–terra será– para–ele por–possessão em–Israel e–não– oprimiriam mais meus–príncipes (a) meu–povo e–a–terra darão para–casa–de– Israel para–suas–tribos §
+-- c45-v9: Assim– diz Senhor YHWH Basta– para–vós príncipes–de Israel violência e–destruição afastai e–justiça e–retidão fazei tirai vossas–expulsões de–sobre meu–povo declaração–de Senhor YHWH
+-- c45-v10: Balanças–de– justiça e–efa–de– justiça e–bato–de– justiça haverá para–vós
+-- c45-v11: A–efa e–o–bato medida uma será para–conter décimo–de o–ômer o–bato e–décimo–de o–ômer a–efa para– o–ômer será sua–proporção
+-- c45-v12: E–o–siclo vinte geras vinte siclos vinte–e–cinco  siclos quinze  siclo a–mina será para–vós
+-- c45-v13: Esta a–contribuição que oferecereis sexto–de a–efa de–ômer–de os–trigos e–sexto–de a–efa de–ômer–de as–cevadas
+-- c45-v14: E–estatuto–de o–azeite o–bato o–azeite décimo–de o–bato de– o–coro dez os–batos ômer pois– dez os–batos ômer
+-- c45-v15: E–ovelha– uma de– o–rebanho de– os–duzentos de–pasto–de Israel para–oferta–de–cereais e–para–holocausto e–para–ofertas–pacíficas para–fazer–expiação por–eles declaração–de Senhor YHWH
+-- c45-v16: Todo o–povo–de a–terra serão para– a–contribuição esta para–o–príncipe em–Israel
+-- c45-v17: E–sobre– o–príncipe será os–holocaustos e–a–oferta–de–cereais e–a–libação nas–festas e–nas–luas–novas e–nos–sábados em–todas– festas–de casa–de Israel ele– fará (a) a–oferta–pelo–pecado e–(a) a–oferta–de–cereais e–(a) o–holocausto e–(a) as–ofertas–pacíficas para–fazer–expiação em–favor–de casa–de– Israel §
+-- c45-v18: Assim– diz Senhor YHWH No–primeiro no–um do–mês tomarás novilho– filho–de– gado perfeito e–purificarás (a) o–santuário
+-- c45-v19: E–tomará o–sacerdote de–sangue–de a–oferta–pelo–pecado e–porá sobre– ombreira–de a–casa e–sobre– quatro cantos–de a–saliência do–altar e–sobre– ombreira–de portão–de o–átrio o–interior
+-- c45-v20: E–assim farás no–sete do–mês de–homem errante e–de–simples e–fareis–expiação (a) a–casa
+-- c45-v21: No–primeiro no–quatorze  dia do–mês será para–vós a–Páscoa festa semanas–de dias pães–ázimos será–comido
+-- c45-v22: E–fará o–príncipe no–dia esse por–si e–por todo– povo–de a–terra novilho oferta–pelo–pecado
+-- c45-v23: E–sete dias–de– a–festa fará holocausto para–YHWH sete novilhos e–sete carneiros perfeitos por–dia sete os–dias e–oferta–pelo–pecado bode–de cabras por–dia
+-- c45-v24: E–oferta–de–cereais efa para–o–novilho e–efa para–o–carneiro fará e–azeite him para–a–efa
+-- c45-v25: No–sétimo no–quinze  dia do–mês na–festa fará como–estes sete os–dias como–a–oferta–pelo–pecado como–o–holocausto e–como–a–oferta–de–cereais e–como–o–azeite §
+-- c46-v1: Assim– diz Senhor YHWH Portão–de o–átrio o–interior o–voltado oriente será fechado seis dias–de o–trabalho e–no–dia–de o–sábado será–aberto e–no–dia–de o–mês será–aberto
+-- c46-v2: E–entrará o–príncipe caminho pórtico–de o–portão de–fora e–ficará–de–pé junto–a– ombreira–de o–portão e–farão os–sacerdotes (a) seu–holocausto e–(a) suas–ofertas–pacíficas e–prostrar–se–á sobre– umbral–de o–portão e–sairá e–o–portão não– será–fechado até– a–tarde
+-- c46-v3: E–prostrar–se–ão povo–de– a–terra entrada–de o–portão esse nos–sábados e–nas–luas–novas diante–de YHWH
+-- c46-v4: E–o–holocausto que– oferecerá o–príncipe para–YHWH no–dia–de o–sábado seis cordeiros perfeitos e–carneiro perfeito
+-- c46-v5: E–oferta–de–cereais efa para–o–carneiro e–para–os–cordeiros oferta–de–cereais dádiva–de sua–mão e–azeite him para–a–efa
+-- c46-v6: E–no–dia–de o–mês novilho filho–de– gado perfeitos e–seis cordeiros e–carneiro perfeitos serão
+-- c46-v7: E–efa para–o–novilho e–efa para–o–carneiro fará oferta–de–cereais e–para–os–cordeiros conforme–que alcançar sua–mão e–azeite him para–a–efa
+-- c46-v8: E–ao–entrar o–príncipe caminho pórtico–de o–portão entrará e–por–seu–caminho sairá
+-- c46-v9: E–ao–entrar povo–de– a–terra diante–de YHWH nas–festas o–que–entra caminho–de– portão norte para–prostrar–se sairá caminho–de– portão sul e–o–que–entra caminho–de– portão sul sairá caminho–de– portão norte não voltará caminho o–portão que– entrou por–ele pois em–frente–dele [sairão] (sairá)
+-- c46-v10: E–o–príncipe no–meio–deles ao–entrarem entrará e–ao–saírem sairão
+-- c46-v11: E–nas–festas e–nas–solenidades será a–oferta–de–cereais efa para–o–novilho e–efa para–o–carneiro e–para–os–cordeiros dádiva–de sua–mão e–azeite him para–a–efa §
+-- c46-v12: E–quando– fizer o–príncipe voluntária holocausto ou– ofertas–pacíficas voluntária para–YHWH e–abrirá para–ele (a) o–portão o–voltado oriente e–fará (a) seu–holocausto e–(a) suas–ofertas–pacíficas como–que faz no–dia–de o–sábado e–sairá e–fechará (a) o–portão depois–de sua–saída
+-- c46-v13: E–cordeiro filho–de– seu–ano perfeito farás holocausto por–dia para–YHWH na–manhã na–manhã farás ele
+-- c46-v14: E–oferta–de–cereais farás sobre–ele na–manhã na–manhã sexto–de a–efa e–azeite terço–de o–him para–umedecer (a) a–flor–de–farinha oferta–de–cereais para–YHWH estatutos perpétuos contínuos
+-- c46-v15: [e–farão] (farão) (a) o–cordeiro e–(a) a–oferta–de–cereais e–(a) o–azeite na–manhã na–manhã holocausto–de contínuo ¶
+-- c46-v16: Assim– diz Senhor YHWH Se– der o–príncipe presente para–homem de–seus–filhos sua–herança ela para–seus–filhos será sua–possessão ela por–herança
+-- c46-v17: E–se– der presente de–sua–herança para–um de–seus–servos e–será para–ele até– ano–de a–liberdade e–voltará para–o–príncipe somente sua–herança seus–filhos para–eles será
+-- c46-v18: E–não– tomará o–príncipe de–herança–de o–povo para–oprimi–los de–sua–possessão de–sua–possessão dará–herança (a) seus–filhos para–que que não– sejam–dispersos meu–povo homem de–sua–possessão
+-- c46-v19: E–trouxe–me na–entrada que junto–a– lado–de o–portão para– as–câmaras–de o–santo para– os–sacerdotes as–voltadas norte e–eis– ali lugar [nos–cantos] (nos–cantos) para–o–oeste §
+-- c46-v20: E–disse para–mim Este o–lugar que cozinhar–ão– ali os–sacerdotes (a) a–oferta–pela–culpa e–(a) a–oferta–pelo–pecado que assarão (a) a–oferta–de–cereais para–não levar–para–fora para– o–átrio o–exterior para–santificar (a) o–povo
+-- c46-v21: E–fez–me–sair para– o–átrio o–exterior e–fez–me–passar para– quatro cantos–de o–átrio e–eis átrio no–canto–de o–átrio átrio no–canto–de o–átrio
+-- c46-v22: Nos–quatro cantos–de o–átrio átrios cercados quarenta comprimento e–trinta largura medida uma para–os–quatro nos–cantos
+-- c46-v23: E–fileira ao–redor neles ao–redor para–os–quatro e–cozinhas feitas debaixo–de as–fileiras ao–redor
+-- c46-v24: E–disse para–mim Estas casa–de os–cozinheiros que cozinhar–ão– ali servos–de a–casa (a) sacrifício–de o–povo
+-- c47-v1: E–fez–me–voltar para– entrada–de a–casa e–eis– águas saindo de–debaixo–de umbral–de a–casa para–o–oriente pois– face–de a–casa oriente e–as–águas descendo de–debaixo de–lado–de a–casa o–direito do–sul–de o–altar
+-- c47-v2: E–fez–me–sair caminho–de– portão norte e–fez–me–rodear caminho fora para– portão o–exterior caminho o–voltado oriente e–eis– águas brotando de– o–lado o–direito
+-- c47-v3: Ao–sair– o–homem para–o–oriente e–linha em–sua–mão e–mediu mil em–côvados e–fez–me–passar nas–águas águas–de tornozelos
+-- c47-v4: E–mediu mil e–fez–me–passar nas–águas águas joelhos e–mediu mil e–fez–me–passar águas–de lombos
+-- c47-v5: E–mediu mil rio que não– podia passar pois– subiram as–águas águas–de nadar rio que não– seria–atravessado
+-- c47-v6: E–disse para–mim Viste filho–de– homem e–fez–me–ir e–fez–me–voltar margem–de o–rio
+-- c47-v7: Ao–voltar–eu e–eis junto–a– margem–de o–rio árvore muita muito daqui e–dali
+-- c47-v8: E–disse para–mim As–águas estas saindo para– a–região a–oriental e–descerão sobre– a–Arabah e–virão para–o–mar para– o–mar o–que–saí [e–serão–curadas] (e–serão–curadas) as–águas
+-- c47-v9: E–será toda– alma viva que– fervilhar para todo– que vir ali dois–rios viverá e–serão os–peixes muitos muito pois vieram lá as–águas estas e–serão–curadas e–viverá tudo que– vier lá o–rio
+-- c47-v10: E–será [ficarão–de–pé] (ficarão–de–pé) sobre–ele pescadores desde–En–Gedi e–até– En–Eglaim lugar–de–estender para–redes serão segundo–sua–espécie serão seus–peixes como–peixes–de o–mar o–grande muitos muito
+-- c47-v11: [seus–pântanos] (seus–pântanos) e–seus–charcos e–não serão–curadas para–sal serão–dados
+-- c47-v12: E–sobre– o–rio crescerá sobre– sua–margem daqui e–dali toda– árvore–de– alimento não– murchará sua–folha e–não– acabará seu–fruto por–seus–meses dará–primícias pois suas–águas de– o–santuário elas saindo [e–serão] (e–será) seu–fruto para–alimento e–sua–folha para–cura §
+-- c47-v13: Assim diz Senhor YHWH Este território que herdareis (a) a–terra para–doze  tribos–de Israel José porções
+-- c47-v14: E–herdareis ela homem como–seu–irmão que levantei (a) minha–mão para–dá–la a–vossos–pais e–cairá a–terra esta para–vós por–herança
+-- c47-v15: E–este território–de a–terra para–lado–de norte de– o–mar o–grande o–caminho Chetlon indo–a Tsedad
+-- c47-v16: Chamat Berotah Sibrayim que entre– limite–de Dammesheq e–entre limite–de Chamat Chatser ha–Tikon que para– limite–de Chavran
+-- c47-v17: E–será território de– o–mar Chatsar Enon limite–de Dammesheq e–norte norte e–limite–de Chamat e–(a) lado–de norte
+-- c47-v18: E–lado–de oriente de–entre Chavran e–de–entre– Dammesheq e–de–entre o–Gilead e–de–entre terra–de Israel o–Jordão de–limite sobre– o–mar o–oriental medireis e–(a) lado–de oriente
+-- c47-v19: E–lado–de sul para–o–sul de–Tamar até– águas–de Meribat–de– Qadesh ribeiro para– o–mar o–grande e–(a) lado–de– para–o–sul sul
+-- c47-v20: E–lado–de– oeste o–mar o–grande de–limite até– defronte–de entrar–em Chamat este lado–de– oeste
+-- c47-v21: E–dividireis (a) a–terra esta para–vós para–tribos–de Israel
+-- c47-v22: E–será lançareis ela por–herança para–vós e–para–os–estrangeiros os–estrangeiros no–meio–de–vós que– geraram filhos no–meio–de–vós e–serão para–vós como–nativo entre–filhos–de Israel convosco cairão por–herança no–meio–de tribos–de Israel
+-- c47-v23: E–será na–tribo que– peregrinou o–estrangeiro com–ele ali dareis sua–herança declaração–de Senhor YHWH §
+-- c48-v1: E–estes nomes–de as–tribos do–extremo–de norte para– lado–de caminho–de– Chetlon para–entrar–em– Chamat Chatsar Enan limite–de Dammesheq norte para– lado–de Chamat e–serão– dele lado–de– oriente o–mar Dan um
+-- c48-v2: E–sobre limite–de Dan do–lado–de oriente até– lado–de– oeste Asher um
+-- c48-v3: E–sobre limite–de Asher do–lado–de oriente e–até– lado–de– oeste Naftali um
+-- c48-v4: E–sobre limite–de Naftali do–lado–de oriente até– lado–de– oeste Menashe um
+-- c48-v5: E–sobre limite–de Menashe do–lado–de oriente até– lado–de– oeste Efrayim um
+-- c48-v6: E–sobre limite–de Efrayim do–lado–de oriente e–até– lado–de– oeste Reuven um
+-- c48-v7: E–sobre limite–de Reuven do–lado–de oriente até– lado–de– oeste Yehudah um
+-- c48-v8: E–sobre limite–de Yehudah do–lado–de oriente até– lado–de– oeste será a–contribuição que– oferecereis vinte–e–cinco  mil largura e–comprimento como–uma das–porções do–lado–de oriente até– lado–de– oeste e–será o–santuário no–meio–dele
+-- c48-v9: A–contribuição que oferecereis para–YHWH comprimento vinte–e–cinco  mil e–largura dez mil
+-- c48-v10: E–para–estes será contribuição–de– o–santo para–os–sacerdotes norte vinte–e–cinco  mil e–para–o–oeste largura dez mil e–para–o–oriente largura dez mil e–para–o–sul comprimento vinte–e–cinco  mil e–será santuário–de– YHWH no–meio–dele
+-- c48-v11: Para–os–sacerdotes o–santificado dos–filhos–de Tsadoq que guardaram minha–guarda que não– desviaram no–desviar–se filhos–de Israel como–que desviaram os–levitas §
+-- c48-v12: E–será para–eles contribuição de–contribuição–de a–terra santo dos–santos junto–a– limite–de os–levitas
+-- c48-v13: E–os–levitas paralelo–a limite–de os–sacerdotes vinte–e–cinco  mil comprimento e–largura dez mil todo– comprimento vinte–e–cinco  mil e–largura dez mil
+-- c48-v14: E–não– venderão dela e–não trocará e–não [passará] (fará–passar) princípios–de a–terra pois– santo para–YHWH
+-- c48-v15: E–cinco mil o–que–sobra na–largura sobre– face–de vinte–e–cinco  mil comum– ele para–a–cidade para–morada e–para–campo–aberto e–será a–cidade [no–meio–dela] (no–meio–dele)
+-- c48-v16: E–estas suas–medidas lado–de norte quatro–mil  e–quinhentos  e–lado–de– sul quatro–mil [quinhentos]  e–quinhentos  e–do–lado–de oriente quatro–mil  e–quinhentos  e–lado–de– oeste quatro–mil  e–quinhentos 
+-- c48-v17: E–será campo–aberto da–cidade norte duzentos e–cinquenta e–para–o–sul duzentos e–cinquenta e–para–o–oriente duzentos e–cinquenta e–para–o–oeste duzentos e–cinquenta
+-- c48-v18: E–o–que–sobra no–comprimento paralelo–a contribuição–de o–santo dez mil para–o–oriente e–dez mil para–o–oeste e–será paralelo–a contribuição–de o–santo e–será [seu–produto] (seu–produto) para–pão para–trabalhadores–de a–cidade
+-- c48-v19: E–o–que–trabalha a–cidade trabalharão–a de–todas tribos–de Israel
+-- c48-v20: Toda– a–contribuição vinte–e–cinco  mil por–vinte–e–cinco  mil quadrada oferecereis (a) contribuição–de o–santo para– possessão–de a–cidade
+-- c48-v21: E–o–que–sobra para–o–príncipe daqui e–dali para–contribuição–de– o–santo e–para–possessão–de a–cidade para– face–de vinte–e–cinco  mil contribuição até– limite–de oriente e–para–o–oeste sobre– face–de vinte–e–cinco  mil sobre– limite–de oeste paralelo–a porções para–o–príncipe e–será contribuição–de o–santo e–santuário–de a–casa [no–meio–dela] (no–meio–dele)
+-- c48-v22: E–de–possessão–de os–levitas e–de–possessão–de a–cidade no–meio–de que do–príncipe será entre limite–de Yehudah e–entre limite–de Binyamin para–o–príncipe será
+-- c48-v23: E–resto–de as–tribos do–lado–de oriente até– lado–de– oeste Binyamin um
+-- c48-v24: E–sobre limite–de Binyamin do–lado–de oriente até– lado–de– oeste Shimon um
+-- c48-v25: E–sobre limite–de Shimon do–lado–de oriente até– lado–de– oeste Yissakar um
+-- c48-v26: E–sobre limite–de Yissakar do–lado–de oriente até– lado–de– oeste Zevulun um
+-- c48-v27: E–sobre limite–de Zevulun do–lado–de oriente até– lado–de– oeste Gad um
+-- c48-v28: E–sobre limite–de Gad para– lado–de sul para–o–sul e–será limite de–Tamar águas–de Meribat–de– Qadesh ribeiro sobre– o–mar o–grande
+-- c48-v29: Esta a–terra que– lançareis por–herança para–tribos–de Israel e–estas suas–divisões declaração–de Senhor YHWH ¶
+-- c48-v30: E–estas saídas–de a–cidade do–lado–de norte quatro–mil  e–quinhentos  medida
+-- c48-v31: E–portões–de a–cidade sobre– nomes–de tribos–de Israel portões três norte portão–de Reuven um portão–de Yehudah um portão–de Levi um
+-- c48-v32: E–para– lado–de oriente quatro–mil  e–quinhentos  e–portões três e–portão–de Yosef um portão–de Binyamin um portão–de Dan um
+-- c48-v33: E–lado–de– sul quatro–mil  e–quinhentos  medida e–portões três portão–de Shimon um portão–de Yissakar um portão–de Zevulun um
+-- c48-v34: Lado–de– oeste quatro–mil  e–quinhentos  seus–portões três portão–de Gad um portão–de Asher um portão–de Naftali um
+-- c48-v35: Ao–redor dezoito  mil e–nome–de– a–cidade desde–o–dia YHWH lá
 
 BEGIN;
 -- 2600100101: וַיְהִ֣י ׀ (H1961) → "E–foi" [opus-4.5-chirho]

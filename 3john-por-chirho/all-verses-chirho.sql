@@ -3,22 +3,22 @@
 -- — John 3:16
 
 -- 3JOHN - POR Combined
--- Generated: 2026-01-27T21:46:30Z
+-- Generated: 2026-01-27T22:19:38Z
 
--- 3JOHN c1-v1 - POR
--- 3JOHN c1-v2 - POR
--- 3JOHN c1-v3 - POR
--- 3JOHN c1-v4 - POR
--- 3JOHN c1-v5 - POR
--- 3JOHN c1-v6 - POR
--- 3JOHN c1-v7 - POR
--- 3JOHN c1-v8 - POR
--- 3JOHN c1-v9 - POR
--- 3JOHN c1-v10 - POR
--- 3JOHN c1-v11 - POR
--- 3JOHN c1-v12 - POR
--- 3JOHN c1-v13 - POR
--- 3JOHN c1-v14 - POR
+-- c1-v1: O ancião, a–Gaio o amado, a–quem eu amo em verdade.
+-- c1-v2: Amado, acerca–de todas–as–coisas oro que–tu prosperes e tenhas–saúde, assim–como prospera tua a alma.
+-- c1-v3: alegrei-me pois grandemente, vindo irmãos e testemunhando de–ti a verdade, assim–como tu em verdade andas.
+-- c1-v4: Maior do–que–estas–coisas não tenho alegria, que ouça os meus filhos na a verdade andando.
+-- c1-v5: Amado, fielmente fazes aquilo–que, se realizas, para os irmãos, e isto para–estrangeiros;
+-- c1-v6: os–quais testemunharam de–ti o amor diante–de a–igreja, aos–quais bem farás, encaminhando-os dignamente de Deus;
+-- c1-v7: em–favor–de pois o Nome saíram, nada recebendo de os gentílicos.
+-- c1-v8: nós portanto devemos acolher os tais, para–que cooperadores nos–tornemos da verdade.
+-- c1-v9: Escrevi algo à igreja; mas o que–ama–ser–o–primeiro deles, Diótrefes, não nos–recebe a–nós.
+-- c1-v10: Por–isso, isto, se eu–vier, lembrarei dele as obras as–quais faz, com–palavras más tagarelando contra–nós; e não satisfeito com estas–coisas, nem ele–mesmo recebe os irmãos, e aos que–desejam, impéde, e da a igreja expulsa.
+-- c1-v11: Amado, não imites o mal, mas o bem. O que–faz–o–bem, de o Deus é; o que–faz–o–mal, não tem–visto a Deus.
+-- c1-v12: De–Demétrio foi–dado–testemunho por todos, e por ela–mesma a verdade; e nós também testemunhamos, e sabes que o testemunho nosso verdadeiro é.
+-- c1-v13: Muitas–coisas tinha a–escrever a–ti, mas não quero por–meio–de tinta e cálamo a–ti escrever;
+-- c1-v14: espero porém em–breve, a–ti ver, e boca a boca falaremos. Paz a–ti. Saúdam-te a–ti, os amigos. Saúda aos amigos por nome.
 
 BEGIN;
 -- 6400100101: Ὁ (G3588) → "O" [opus-4.5-chirho]

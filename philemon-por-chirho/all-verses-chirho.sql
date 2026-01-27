@@ -3,33 +3,33 @@
 -- — John 3:16
 
 -- PHILEMON - POR Combined
--- Generated: 2026-01-27T21:47:48Z
+-- Generated: 2026-01-27T22:21:51Z
 
--- PHILEMON c1-v1 - POR
--- PHILEMON c1-v2 - POR
--- PHILEMON c1-v3 - POR
--- PHILEMON c1-v4 - POR
--- PHILEMON c1-v5 - POR
--- PHILEMON c1-v6 - POR
--- PHILEMON c1-v7 - POR
--- PHILEMON c1-v8 - POR
--- PHILEMON c1-v9 - POR
--- PHILEMON c1-v10 - POR
--- PHILEMON c1-v11 - POR
--- PHILEMON c1-v12 - POR
--- PHILEMON c1-v13 - POR
--- PHILEMON c1-v14 - POR
--- PHILEMON c1-v15 - POR
--- PHILEMON c1-v16 - POR
--- PHILEMON c1-v17 - POR
--- PHILEMON c1-v18 - POR
--- PHILEMON c1-v19 - POR
--- PHILEMON c1-v20 - POR
--- PHILEMON c1-v21 - POR
--- PHILEMON c1-v22 - POR
--- PHILEMON c1-v23 - POR
--- PHILEMON c1-v24 - POR
--- PHILEMON c1-v25 - POR
+-- c1-v1: Paûlos, prisioneiro de–Christoû Iēsoû, e Timótheos, o irmão; a–Philḗmōn, ao amado e cooperador nosso;
+-- c1-v2: e a–Apphía, a irmã; e a–Árchippos, ao companheiro–de–armas nosso; e à na casa tua igreja:
+-- c1-v3: graça a–vós e paz, de Deus Pai nosso, e do–Senhor Iēsoû Christoû.
+-- c1-v4: Dou–graças ao Deus meu sempre, menção de–ti fazendo nas minhas orações minhas,
+-- c1-v5: ouvindo de–ti o amor e a fé que tens para–com o Senhor Iēsoûn, e para todos os santos,
+-- c1-v6: para–que a comunhão da fé tua, eficaz se–torne no conhecimento de–todo bem o em nós, para Christón.
+-- c1-v7: Alegria pois muita tive, e consolação pelo teu amor teu, porque as entranhas dos santos têm–sido–reconfortadas por ti, irmão.
+-- c1-v8: Por–isso muita em Christôi ousadia tendo, ordenar–te a–ti o que–convem,
+-- c1-v9: por–causa do amor, antes rogo, tal sendo, como Paûlos ancião, agora porém, também prisioneiro de–Christoû Iēsoû.
+-- c1-v10: Rogo–te a–ti acerca do meu filho, a–quem gerei nas minhas prisões, Onḗsimos;
+-- c1-v11: o outrora a–ti inútil, agora porém tanto a–ti quanto a–mim útil;
+-- c1-v12: o–qual enviei–de–volta a–ti ele–mesmo–– isto é as minhas entranhas––
+-- c1-v13: a–quem eu queria junto a–mim–mesmo reter, para–que em–teu–lugar de–ti a–mim servisse, nas minhas prisões do evangelho;
+-- c1-v14: sem porém o teu consentimento, nada quis fazer, para–que não como segundo necessidade, o bem teu fosse, mas segundo voluntário;
+-- c1-v15: talvez pois por isto, foi–separado por uma–hora, para–que eternamente a–ele possuas,
+-- c1-v16: já–não como escravo, mas mais–que escravo, irmão amado, especialmente a–mim, quanto porém mais a–ti, tanto na carne como no Senhor.
+-- c1-v17: Se portanto a–mim tens como–companheiro, recebe a–ele como a–mim.
+-- c1-v18: Se porém algo te–prejudicou a–ti, ou deve, isto a–mim põe–na–conta.
+-- c1-v19: Eu Paûlos escrevi com–a minha mão; eu pagarei; para–que–não não diga a–ti, que também a–ti–mesmo a–mim deves.
+-- c1-v20: Sim, irmão, eu de–ti quero–proveito no Senhor; reconforta minhas as entranhas em Christôi.
+-- c1-v21: Confiando na obediência tua, escrevi–te a–ti, sabendo que também além–do que digo, farás.
+-- c1-v22: Ao–mesmo–tempo porém, também prepara para–mim hospedagem; espero pois que por das orações vossas, serei–concedido a–vós.
+-- c1-v23: Saúda–te a–ti, Epaphâs, o meu–companheiro–de–prisão meu em Christôi Iēsoû,
+-- c1-v24: Mârkos, Áristarchos, Dēmâs, Loukâs, os cooperadores meus.
+-- c1-v25: A graça do Senhor Iēsoû Christoû com o espírito vosso. <Amén>.
 
 BEGIN;
 -- 5700100101: Παῦλος, (G3972) → "Paûlos," [opus-4.5-chirho]

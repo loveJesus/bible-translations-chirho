@@ -3,923 +3,923 @@
 -- — John 3:16
 
 -- PROVERBS - POR Combined
--- Generated: 2026-01-27T21:47:49Z
+-- Generated: 2026-01-27T22:21:52Z
 
--- PROVERBS c1-v1 - POR
--- PROVERBS c1-v2 - POR
--- PROVERBS c1-v3 - POR
--- PROVERBS c1-v4 - POR
--- PROVERBS c1-v5 - POR
--- PROVERBS c1-v6 - POR
--- PROVERBS c1-v7 - POR
--- PROVERBS c1-v8 - POR
--- PROVERBS c1-v9 - POR
--- PROVERBS c1-v10 - POR
--- PROVERBS c1-v11 - POR
--- PROVERBS c1-v12 - POR
--- PROVERBS c1-v13 - POR
--- PROVERBS c1-v14 - POR
--- PROVERBS c1-v15 - POR
--- PROVERBS c1-v16 - POR
--- PROVERBS c1-v17 - POR
--- PROVERBS c1-v18 - POR
--- PROVERBS c1-v19 - POR
--- PROVERBS c1-v20 - POR
--- PROVERBS c1-v21 - POR
--- PROVERBS c1-v22 - POR
--- PROVERBS c1-v23 - POR
--- PROVERBS c1-v24 - POR
--- PROVERBS c1-v25 - POR
--- PROVERBS c1-v26 - POR
--- PROVERBS c1-v27 - POR
--- PROVERBS c1-v28 - POR
--- PROVERBS c1-v29 - POR
--- PROVERBS c1-v30 - POR
--- PROVERBS c1-v31 - POR
--- PROVERBS c1-v32 - POR
--- PROVERBS c1-v33 - POR
--- PROVERBS c2-v1 - POR
--- PROVERBS c2-v2 - POR
--- PROVERBS c2-v3 - POR
--- PROVERBS c2-v4 - POR
--- PROVERBS c2-v5 - POR
--- PROVERBS c2-v6 - POR
--- PROVERBS c2-v7 - POR
--- PROVERBS c2-v8 - POR
--- PROVERBS c2-v9 - POR
--- PROVERBS c2-v10 - POR
--- PROVERBS c2-v11 - POR
--- PROVERBS c2-v12 - POR
--- PROVERBS c2-v13 - POR
--- PROVERBS c2-v14 - POR
--- PROVERBS c2-v15 - POR
--- PROVERBS c2-v16 - POR
--- PROVERBS c2-v17 - POR
--- PROVERBS c2-v18 - POR
--- PROVERBS c2-v19 - POR
--- PROVERBS c2-v20 - POR
--- PROVERBS c2-v21 - POR
--- PROVERBS c2-v22 - POR
--- PROVERBS c3-v1 - POR
--- PROVERBS c3-v2 - POR
--- PROVERBS c3-v3 - POR
--- PROVERBS c3-v4 - POR
--- PROVERBS c3-v5 - POR
--- PROVERBS c3-v6 - POR
--- PROVERBS c3-v7 - POR
--- PROVERBS c3-v8 - POR
--- PROVERBS c3-v9 - POR
--- PROVERBS c3-v10 - POR
--- PROVERBS c3-v11 - POR
--- PROVERBS c3-v12 - POR
--- PROVERBS c3-v13 - POR
--- PROVERBS c3-v14 - POR
--- PROVERBS c3-v15 - POR
--- PROVERBS c3-v16 - POR
--- PROVERBS c3-v17 - POR
--- PROVERBS c3-v18 - POR
--- PROVERBS c3-v19 - POR
--- PROVERBS c3-v20 - POR
--- PROVERBS c3-v21 - POR
--- PROVERBS c3-v22 - POR
--- PROVERBS c3-v23 - POR
--- PROVERBS c3-v24 - POR
--- PROVERBS c3-v25 - POR
--- PROVERBS c3-v26 - POR
--- PROVERBS c3-v27 - POR
--- PROVERBS c3-v28 - POR
--- PROVERBS c3-v29 - POR
--- PROVERBS c3-v30 - POR
--- PROVERBS c3-v31 - POR
--- PROVERBS c3-v32 - POR
--- PROVERBS c3-v33 - POR
--- PROVERBS c3-v34 - POR
--- PROVERBS c3-v35 - POR
--- PROVERBS c4-v1 - POR
--- PROVERBS c4-v2 - POR
--- PROVERBS c4-v3 - POR
--- PROVERBS c4-v4 - POR
--- PROVERBS c4-v5 - POR
--- PROVERBS c4-v6 - POR
--- PROVERBS c4-v7 - POR
--- PROVERBS c4-v8 - POR
--- PROVERBS c4-v9 - POR
--- PROVERBS c4-v10 - POR
--- PROVERBS c4-v11 - POR
--- PROVERBS c4-v12 - POR
--- PROVERBS c4-v13 - POR
--- PROVERBS c4-v14 - POR
--- PROVERBS c4-v15 - POR
--- PROVERBS c4-v16 - POR
--- PROVERBS c4-v17 - POR
--- PROVERBS c4-v18 - POR
--- PROVERBS c4-v19 - POR
--- PROVERBS c4-v20 - POR
--- PROVERBS c4-v21 - POR
--- PROVERBS c4-v22 - POR
--- PROVERBS c4-v23 - POR
--- PROVERBS c4-v24 - POR
--- PROVERBS c4-v25 - POR
--- PROVERBS c4-v26 - POR
--- PROVERBS c4-v27 - POR
--- PROVERBS c5-v1 - POR
--- PROVERBS c5-v2 - POR
--- PROVERBS c5-v3 - POR
--- PROVERBS c5-v4 - POR
--- PROVERBS c5-v5 - POR
--- PROVERBS c5-v6 - POR
--- PROVERBS c5-v7 - POR
--- PROVERBS c5-v8 - POR
--- PROVERBS c5-v9 - POR
--- PROVERBS c5-v10 - POR
--- PROVERBS c5-v11 - POR
--- PROVERBS c5-v12 - POR
--- PROVERBS c5-v13 - POR
--- PROVERBS c5-v14 - POR
--- PROVERBS c5-v15 - POR
--- PROVERBS c5-v16 - POR
--- PROVERBS c5-v17 - POR
--- PROVERBS c5-v18 - POR
--- PROVERBS c5-v19 - POR
--- PROVERBS c5-v20 - POR
--- PROVERBS c5-v21 - POR
--- PROVERBS c5-v22 - POR
--- PROVERBS c5-v23 - POR
--- PROVERBS c6-v1 - POR
--- PROVERBS c6-v2 - POR
--- PROVERBS c6-v3 - POR
--- PROVERBS c6-v4 - POR
--- PROVERBS c6-v5 - POR
--- PROVERBS c6-v6 - POR
--- PROVERBS c6-v7 - POR
--- PROVERBS c6-v8 - POR
--- PROVERBS c6-v9 - POR
--- PROVERBS c6-v10 - POR
--- PROVERBS c6-v11 - POR
--- PROVERBS c6-v12 - POR
--- PROVERBS c6-v13 - POR
--- PROVERBS c6-v14 - POR
--- PROVERBS c6-v15 - POR
--- PROVERBS c6-v16 - POR
--- PROVERBS c6-v17 - POR
--- PROVERBS c6-v18 - POR
--- PROVERBS c6-v19 - POR
--- PROVERBS c6-v20 - POR
--- PROVERBS c6-v21 - POR
--- PROVERBS c6-v22 - POR
--- PROVERBS c6-v23 - POR
--- PROVERBS c6-v24 - POR
--- PROVERBS c6-v25 - POR
--- PROVERBS c6-v26 - POR
--- PROVERBS c6-v27 - POR
--- PROVERBS c6-v28 - POR
--- PROVERBS c6-v29 - POR
--- PROVERBS c6-v30 - POR
--- PROVERBS c6-v31 - POR
--- PROVERBS c6-v32 - POR
--- PROVERBS c6-v33 - POR
--- PROVERBS c6-v34 - POR
--- PROVERBS c6-v35 - POR
--- PROVERBS c7-v1 - POR
--- PROVERBS c7-v2 - POR
--- PROVERBS c7-v3 - POR
--- PROVERBS c7-v4 - POR
--- PROVERBS c7-v5 - POR
--- PROVERBS c7-v6 - POR
--- PROVERBS c7-v7 - POR
--- PROVERBS c7-v8 - POR
--- PROVERBS c7-v9 - POR
--- PROVERBS c7-v10 - POR
--- PROVERBS c7-v11 - POR
--- PROVERBS c7-v12 - POR
--- PROVERBS c7-v13 - POR
--- PROVERBS c7-v14 - POR
--- PROVERBS c7-v15 - POR
--- PROVERBS c7-v16 - POR
--- PROVERBS c7-v17 - POR
--- PROVERBS c7-v18 - POR
--- PROVERBS c7-v19 - POR
--- PROVERBS c7-v20 - POR
--- PROVERBS c7-v21 - POR
--- PROVERBS c7-v22 - POR
--- PROVERBS c7-v23 - POR
--- PROVERBS c7-v24 - POR
--- PROVERBS c7-v25 - POR
--- PROVERBS c7-v26 - POR
--- PROVERBS c7-v27 - POR
--- PROVERBS c8-v1 - POR
--- PROVERBS c8-v2 - POR
--- PROVERBS c8-v3 - POR
--- PROVERBS c8-v4 - POR
--- PROVERBS c8-v5 - POR
--- PROVERBS c8-v6 - POR
--- PROVERBS c8-v7 - POR
--- PROVERBS c8-v8 - POR
--- PROVERBS c8-v9 - POR
--- PROVERBS c8-v10 - POR
--- PROVERBS c8-v11 - POR
--- PROVERBS c8-v12 - POR
--- PROVERBS c8-v13 - POR
--- PROVERBS c8-v14 - POR
--- PROVERBS c8-v15 - POR
--- PROVERBS c8-v16 - POR
--- PROVERBS c8-v17 - POR
--- PROVERBS c8-v18 - POR
--- PROVERBS c8-v19 - POR
--- PROVERBS c8-v20 - POR
--- PROVERBS c8-v21 - POR
--- PROVERBS c8-v22 - POR
--- PROVERBS c8-v23 - POR
--- PROVERBS c8-v24 - POR
--- PROVERBS c8-v25 - POR
--- PROVERBS c8-v26 - POR
--- PROVERBS c8-v27 - POR
--- PROVERBS c8-v28 - POR
--- PROVERBS c8-v29 - POR
--- PROVERBS c8-v30 - POR
--- PROVERBS c8-v31 - POR
--- PROVERBS c8-v32 - POR
--- PROVERBS c8-v33 - POR
--- PROVERBS c8-v34 - POR
--- PROVERBS c8-v35 - POR
--- PROVERBS c8-v36 - POR
--- PROVERBS c9-v1 - POR
--- PROVERBS c9-v2 - POR
--- PROVERBS c9-v3 - POR
--- PROVERBS c9-v4 - POR
--- PROVERBS c9-v5 - POR
--- PROVERBS c9-v6 - POR
--- PROVERBS c9-v7 - POR
--- PROVERBS c9-v8 - POR
--- PROVERBS c9-v9 - POR
--- PROVERBS c9-v10 - POR
--- PROVERBS c9-v11 - POR
--- PROVERBS c9-v12 - POR
--- PROVERBS c9-v13 - POR
--- PROVERBS c9-v14 - POR
--- PROVERBS c9-v15 - POR
--- PROVERBS c9-v16 - POR
--- PROVERBS c9-v17 - POR
--- PROVERBS c9-v18 - POR
--- PROVERBS c10-v1 - POR
--- PROVERBS c10-v2 - POR
--- PROVERBS c10-v3 - POR
--- PROVERBS c10-v4 - POR
--- PROVERBS c10-v5 - POR
--- PROVERBS c10-v6 - POR
--- PROVERBS c10-v7 - POR
--- PROVERBS c10-v8 - POR
--- PROVERBS c10-v9 - POR
--- PROVERBS c10-v10 - POR
--- PROVERBS c10-v11 - POR
--- PROVERBS c10-v12 - POR
--- PROVERBS c10-v13 - POR
--- PROVERBS c10-v14 - POR
--- PROVERBS c10-v15 - POR
--- PROVERBS c10-v16 - POR
--- PROVERBS c10-v17 - POR
--- PROVERBS c10-v18 - POR
--- PROVERBS c10-v19 - POR
--- PROVERBS c10-v20 - POR
--- PROVERBS c10-v21 - POR
--- PROVERBS c10-v22 - POR
--- PROVERBS c10-v23 - POR
--- PROVERBS c10-v24 - POR
--- PROVERBS c10-v25 - POR
--- PROVERBS c10-v26 - POR
--- PROVERBS c10-v27 - POR
--- PROVERBS c10-v28 - POR
--- PROVERBS c10-v29 - POR
--- PROVERBS c10-v30 - POR
--- PROVERBS c10-v31 - POR
--- PROVERBS c10-v32 - POR
--- PROVERBS c11-v1 - POR
--- PROVERBS c11-v2 - POR
--- PROVERBS c11-v3 - POR
--- PROVERBS c11-v4 - POR
--- PROVERBS c11-v5 - POR
--- PROVERBS c11-v6 - POR
--- PROVERBS c11-v7 - POR
--- PROVERBS c11-v8 - POR
--- PROVERBS c11-v9 - POR
--- PROVERBS c11-v10 - POR
--- PROVERBS c11-v11 - POR
--- PROVERBS c11-v12 - POR
--- PROVERBS c11-v13 - POR
--- PROVERBS c11-v14 - POR
--- PROVERBS c11-v15 - POR
--- PROVERBS c11-v16 - POR
--- PROVERBS c11-v17 - POR
--- PROVERBS c11-v18 - POR
--- PROVERBS c11-v19 - POR
--- PROVERBS c11-v20 - POR
--- PROVERBS c11-v21 - POR
--- PROVERBS c11-v22 - POR
--- PROVERBS c11-v23 - POR
--- PROVERBS c11-v24 - POR
--- PROVERBS c11-v25 - POR
--- PROVERBS c11-v26 - POR
--- PROVERBS c11-v27 - POR
--- PROVERBS c11-v28 - POR
--- PROVERBS c11-v29 - POR
--- PROVERBS c11-v30 - POR
--- PROVERBS c11-v31 - POR
--- PROVERBS c12-v1 - POR
--- PROVERBS c12-v2 - POR
--- PROVERBS c12-v3 - POR
--- PROVERBS c12-v4 - POR
--- PROVERBS c12-v5 - POR
--- PROVERBS c12-v6 - POR
--- PROVERBS c12-v7 - POR
--- PROVERBS c12-v8 - POR
--- PROVERBS c12-v9 - POR
--- PROVERBS c12-v10 - POR
--- PROVERBS c12-v11 - POR
--- PROVERBS c12-v12 - POR
--- PROVERBS c12-v13 - POR
--- PROVERBS c12-v14 - POR
--- PROVERBS c12-v15 - POR
--- PROVERBS c12-v16 - POR
--- PROVERBS c12-v17 - POR
--- PROVERBS c12-v18 - POR
--- PROVERBS c12-v19 - POR
--- PROVERBS c12-v20 - POR
--- PROVERBS c12-v21 - POR
--- PROVERBS c12-v22 - POR
--- PROVERBS c12-v23 - POR
--- PROVERBS c12-v24 - POR
--- PROVERBS c12-v25 - POR
--- PROVERBS c12-v26 - POR
--- PROVERBS c12-v27 - POR
--- PROVERBS c12-v28 - POR
--- PROVERBS c13-v1 - POR
--- PROVERBS c13-v2 - POR
--- PROVERBS c13-v3 - POR
--- PROVERBS c13-v4 - POR
--- PROVERBS c13-v5 - POR
--- PROVERBS c13-v6 - POR
--- PROVERBS c13-v7 - POR
--- PROVERBS c13-v8 - POR
--- PROVERBS c13-v9 - POR
--- PROVERBS c13-v10 - POR
--- PROVERBS c13-v11 - POR
--- PROVERBS c13-v12 - POR
--- PROVERBS c13-v13 - POR
--- PROVERBS c13-v14 - POR
--- PROVERBS c13-v15 - POR
--- PROVERBS c13-v16 - POR
--- PROVERBS c13-v17 - POR
--- PROVERBS c13-v18 - POR
--- PROVERBS c13-v19 - POR
--- PROVERBS c13-v20 - POR
--- PROVERBS c13-v21 - POR
--- PROVERBS c13-v22 - POR
--- PROVERBS c13-v23 - POR
--- PROVERBS c13-v24 - POR
--- PROVERBS c13-v25 - POR
--- PROVERBS c14-v1 - POR
--- PROVERBS c14-v2 - POR
--- PROVERBS c14-v3 - POR
--- PROVERBS c14-v4 - POR
--- PROVERBS c14-v5 - POR
--- PROVERBS c14-v6 - POR
--- PROVERBS c14-v7 - POR
--- PROVERBS c14-v8 - POR
--- PROVERBS c14-v9 - POR
--- PROVERBS c14-v10 - POR
--- PROVERBS c14-v11 - POR
--- PROVERBS c14-v12 - POR
--- PROVERBS c14-v13 - POR
--- PROVERBS c14-v14 - POR
--- PROVERBS c14-v15 - POR
--- PROVERBS c14-v16 - POR
--- PROVERBS c14-v17 - POR
--- PROVERBS c14-v18 - POR
--- PROVERBS c14-v19 - POR
--- PROVERBS c14-v20 - POR
--- PROVERBS c14-v21 - POR
--- PROVERBS c14-v22 - POR
--- PROVERBS c14-v23 - POR
--- PROVERBS c14-v24 - POR
--- PROVERBS c14-v25 - POR
--- PROVERBS c14-v26 - POR
--- PROVERBS c14-v27 - POR
--- PROVERBS c14-v28 - POR
--- PROVERBS c14-v29 - POR
--- PROVERBS c14-v30 - POR
--- PROVERBS c14-v31 - POR
--- PROVERBS c14-v32 - POR
--- PROVERBS c14-v33 - POR
--- PROVERBS c14-v34 - POR
--- PROVERBS c14-v35 - POR
--- PROVERBS c15-v1 - POR
--- PROVERBS c15-v2 - POR
--- PROVERBS c15-v3 - POR
--- PROVERBS c15-v4 - POR
--- PROVERBS c15-v5 - POR
--- PROVERBS c15-v6 - POR
--- PROVERBS c15-v7 - POR
--- PROVERBS c15-v8 - POR
--- PROVERBS c15-v9 - POR
--- PROVERBS c15-v10 - POR
--- PROVERBS c15-v11 - POR
--- PROVERBS c15-v12 - POR
--- PROVERBS c15-v13 - POR
--- PROVERBS c15-v14 - POR
--- PROVERBS c15-v15 - POR
--- PROVERBS c15-v16 - POR
--- PROVERBS c15-v17 - POR
--- PROVERBS c15-v18 - POR
--- PROVERBS c15-v19 - POR
--- PROVERBS c15-v20 - POR
--- PROVERBS c15-v21 - POR
--- PROVERBS c15-v22 - POR
--- PROVERBS c15-v23 - POR
--- PROVERBS c15-v24 - POR
--- PROVERBS c15-v25 - POR
--- PROVERBS c15-v26 - POR
--- PROVERBS c15-v27 - POR
--- PROVERBS c15-v28 - POR
--- PROVERBS c15-v29 - POR
--- PROVERBS c15-v30 - POR
--- PROVERBS c15-v31 - POR
--- PROVERBS c15-v32 - POR
--- PROVERBS c15-v33 - POR
--- PROVERBS c16-v1 - POR
--- PROVERBS c16-v2 - POR
--- PROVERBS c16-v3 - POR
--- PROVERBS c16-v4 - POR
--- PROVERBS c16-v5 - POR
--- PROVERBS c16-v6 - POR
--- PROVERBS c16-v7 - POR
--- PROVERBS c16-v8 - POR
--- PROVERBS c16-v9 - POR
--- PROVERBS c16-v10 - POR
--- PROVERBS c16-v11 - POR
--- PROVERBS c16-v12 - POR
--- PROVERBS c16-v13 - POR
--- PROVERBS c16-v14 - POR
--- PROVERBS c16-v15 - POR
--- PROVERBS c16-v16 - POR
--- PROVERBS c16-v17 - POR
--- PROVERBS c16-v18 - POR
--- PROVERBS c16-v19 - POR
--- PROVERBS c16-v20 - POR
--- PROVERBS c16-v21 - POR
--- PROVERBS c16-v22 - POR
--- PROVERBS c16-v23 - POR
--- PROVERBS c16-v24 - POR
--- PROVERBS c16-v25 - POR
--- PROVERBS c16-v26 - POR
--- PROVERBS c16-v27 - POR
--- PROVERBS c16-v28 - POR
--- PROVERBS c16-v29 - POR
--- PROVERBS c16-v30 - POR
--- PROVERBS c16-v31 - POR
--- PROVERBS c16-v32 - POR
--- PROVERBS c16-v33 - POR
--- PROVERBS c17-v1 - POR
--- PROVERBS c17-v2 - POR
--- PROVERBS c17-v3 - POR
--- PROVERBS c17-v4 - POR
--- PROVERBS c17-v5 - POR
--- PROVERBS c17-v6 - POR
--- PROVERBS c17-v7 - POR
--- PROVERBS c17-v8 - POR
--- PROVERBS c17-v9 - POR
--- PROVERBS c17-v10 - POR
--- PROVERBS c17-v11 - POR
--- PROVERBS c17-v12 - POR
--- PROVERBS c17-v13 - POR
--- PROVERBS c17-v14 - POR
--- PROVERBS c17-v15 - POR
--- PROVERBS c17-v16 - POR
--- PROVERBS c17-v17 - POR
--- PROVERBS c17-v18 - POR
--- PROVERBS c17-v19 - POR
--- PROVERBS c17-v20 - POR
--- PROVERBS c17-v21 - POR
--- PROVERBS c17-v22 - POR
--- PROVERBS c17-v23 - POR
--- PROVERBS c17-v24 - POR
--- PROVERBS c17-v25 - POR
--- PROVERBS c17-v26 - POR
--- PROVERBS c17-v27 - POR
--- PROVERBS c17-v28 - POR
--- PROVERBS c18-v1 - POR
--- PROVERBS c18-v2 - POR
--- PROVERBS c18-v3 - POR
--- PROVERBS c18-v4 - POR
--- PROVERBS c18-v5 - POR
--- PROVERBS c18-v6 - POR
--- PROVERBS c18-v7 - POR
--- PROVERBS c18-v8 - POR
--- PROVERBS c18-v9 - POR
--- PROVERBS c18-v10 - POR
--- PROVERBS c18-v11 - POR
--- PROVERBS c18-v12 - POR
--- PROVERBS c18-v13 - POR
--- PROVERBS c18-v14 - POR
--- PROVERBS c18-v15 - POR
--- PROVERBS c18-v16 - POR
--- PROVERBS c18-v17 - POR
--- PROVERBS c18-v18 - POR
--- PROVERBS c18-v19 - POR
--- PROVERBS c18-v20 - POR
--- PROVERBS c18-v21 - POR
--- PROVERBS c18-v22 - POR
--- PROVERBS c18-v23 - POR
--- PROVERBS c18-v24 - POR
--- PROVERBS c19-v1 - POR
--- PROVERBS c19-v2 - POR
--- PROVERBS c19-v3 - POR
--- PROVERBS c19-v4 - POR
--- PROVERBS c19-v5 - POR
--- PROVERBS c19-v6 - POR
--- PROVERBS c19-v7 - POR
--- PROVERBS c19-v8 - POR
--- PROVERBS c19-v9 - POR
--- PROVERBS c19-v10 - POR
--- PROVERBS c19-v11 - POR
--- PROVERBS c19-v12 - POR
--- PROVERBS c19-v13 - POR
--- PROVERBS c19-v14 - POR
--- PROVERBS c19-v15 - POR
--- PROVERBS c19-v16 - POR
--- PROVERBS c19-v17 - POR
--- PROVERBS c19-v18 - POR
--- PROVERBS c19-v19 - POR
--- PROVERBS c19-v20 - POR
--- PROVERBS c19-v21 - POR
--- PROVERBS c19-v22 - POR
--- PROVERBS c19-v23 - POR
--- PROVERBS c19-v24 - POR
--- PROVERBS c19-v25 - POR
--- PROVERBS c19-v26 - POR
--- PROVERBS c19-v27 - POR
--- PROVERBS c19-v28 - POR
--- PROVERBS c19-v29 - POR
--- PROVERBS c20-v1 - POR
--- PROVERBS c20-v2 - POR
--- PROVERBS c20-v3 - POR
--- PROVERBS c20-v4 - POR
--- PROVERBS c20-v5 - POR
--- PROVERBS c20-v6 - POR
--- PROVERBS c20-v7 - POR
--- PROVERBS c20-v8 - POR
--- PROVERBS c20-v9 - POR
--- PROVERBS c20-v10 - POR
--- PROVERBS c20-v11 - POR
--- PROVERBS c20-v12 - POR
--- PROVERBS c20-v13 - POR
--- PROVERBS c20-v14 - POR
--- PROVERBS c20-v15 - POR
--- PROVERBS c20-v16 - POR
--- PROVERBS c20-v17 - POR
--- PROVERBS c20-v18 - POR
--- PROVERBS c20-v19 - POR
--- PROVERBS c20-v20 - POR
--- PROVERBS c20-v21 - POR
--- PROVERBS c20-v22 - POR
--- PROVERBS c20-v23 - POR
--- PROVERBS c20-v24 - POR
--- PROVERBS c20-v25 - POR
--- PROVERBS c20-v26 - POR
--- PROVERBS c20-v27 - POR
--- PROVERBS c20-v28 - POR
--- PROVERBS c20-v29 - POR
--- PROVERBS c20-v30 - POR
--- PROVERBS c21-v1 - POR
--- PROVERBS c21-v2 - POR
--- PROVERBS c21-v3 - POR
--- PROVERBS c21-v4 - POR
--- PROVERBS c21-v5 - POR
--- PROVERBS c21-v6 - POR
--- PROVERBS c21-v7 - POR
--- PROVERBS c21-v8 - POR
--- PROVERBS c21-v9 - POR
--- PROVERBS c21-v10 - POR
--- PROVERBS c21-v11 - POR
--- PROVERBS c21-v12 - POR
--- PROVERBS c21-v13 - POR
--- PROVERBS c21-v14 - POR
--- PROVERBS c21-v15 - POR
--- PROVERBS c21-v16 - POR
--- PROVERBS c21-v17 - POR
--- PROVERBS c21-v18 - POR
--- PROVERBS c21-v19 - POR
--- PROVERBS c21-v20 - POR
--- PROVERBS c21-v21 - POR
--- PROVERBS c21-v22 - POR
--- PROVERBS c21-v23 - POR
--- PROVERBS c21-v24 - POR
--- PROVERBS c21-v25 - POR
--- PROVERBS c21-v26 - POR
--- PROVERBS c21-v27 - POR
--- PROVERBS c21-v28 - POR
--- PROVERBS c21-v29 - POR
--- PROVERBS c21-v30 - POR
--- PROVERBS c21-v31 - POR
--- PROVERBS c22-v1 - POR
--- PROVERBS c22-v2 - POR
--- PROVERBS c22-v3 - POR
--- PROVERBS c22-v4 - POR
--- PROVERBS c22-v5 - POR
--- PROVERBS c22-v6 - POR
--- PROVERBS c22-v7 - POR
--- PROVERBS c22-v8 - POR
--- PROVERBS c22-v9 - POR
--- PROVERBS c22-v10 - POR
--- PROVERBS c22-v11 - POR
--- PROVERBS c22-v12 - POR
--- PROVERBS c22-v13 - POR
--- PROVERBS c22-v14 - POR
--- PROVERBS c22-v15 - POR
--- PROVERBS c22-v16 - POR
--- PROVERBS c22-v17 - POR
--- PROVERBS c22-v18 - POR
--- PROVERBS c22-v19 - POR
--- PROVERBS c22-v20 - POR
--- PROVERBS c22-v21 - POR
--- PROVERBS c22-v22 - POR
--- PROVERBS c22-v23 - POR
--- PROVERBS c22-v24 - POR
--- PROVERBS c22-v25 - POR
--- PROVERBS c22-v26 - POR
--- PROVERBS c22-v27 - POR
--- PROVERBS c22-v28 - POR
--- PROVERBS c22-v29 - POR
--- PROVERBS c23-v1 - POR
--- PROVERBS c23-v2 - POR
--- PROVERBS c23-v3 - POR
--- PROVERBS c23-v4 - POR
--- PROVERBS c23-v5 - POR
--- PROVERBS c23-v6 - POR
--- PROVERBS c23-v7 - POR
--- PROVERBS c23-v8 - POR
--- PROVERBS c23-v9 - POR
--- PROVERBS c23-v10 - POR
--- PROVERBS c23-v11 - POR
--- PROVERBS c23-v12 - POR
--- PROVERBS c23-v13 - POR
--- PROVERBS c23-v14 - POR
--- PROVERBS c23-v15 - POR
--- PROVERBS c23-v16 - POR
--- PROVERBS c23-v17 - POR
--- PROVERBS c23-v18 - POR
--- PROVERBS c23-v19 - POR
--- PROVERBS c23-v20 - POR
--- PROVERBS c23-v21 - POR
--- PROVERBS c23-v22 - POR
--- PROVERBS c23-v23 - POR
--- PROVERBS c23-v24 - POR
--- PROVERBS c23-v25 - POR
--- PROVERBS c23-v26 - POR
--- PROVERBS c23-v27 - POR
--- PROVERBS c23-v28 - POR
--- PROVERBS c23-v29 - POR
--- PROVERBS c23-v30 - POR
--- PROVERBS c23-v31 - POR
--- PROVERBS c23-v32 - POR
--- PROVERBS c23-v33 - POR
--- PROVERBS c23-v34 - POR
--- PROVERBS c23-v35 - POR
--- PROVERBS c24-v1 - POR
--- PROVERBS c24-v2 - POR
--- PROVERBS c24-v3 - POR
--- PROVERBS c24-v4 - POR
--- PROVERBS c24-v5 - POR
--- PROVERBS c24-v6 - POR
--- PROVERBS c24-v7 - POR
--- PROVERBS c24-v8 - POR
--- PROVERBS c24-v9 - POR
--- PROVERBS c24-v10 - POR
--- PROVERBS c24-v11 - POR
--- PROVERBS c24-v12 - POR
--- PROVERBS c24-v13 - POR
--- PROVERBS c24-v14 - POR
--- PROVERBS c24-v15 - POR
--- PROVERBS c24-v16 - POR
--- PROVERBS c24-v17 - POR
--- PROVERBS c24-v18 - POR
--- PROVERBS c24-v19 - POR
--- PROVERBS c24-v20 - POR
--- PROVERBS c24-v21 - POR
--- PROVERBS c24-v22 - POR
--- PROVERBS c24-v23 - POR
--- PROVERBS c24-v24 - POR
--- PROVERBS c24-v25 - POR
--- PROVERBS c24-v26 - POR
--- PROVERBS c24-v27 - POR
--- PROVERBS c24-v28 - POR
--- PROVERBS c24-v29 - POR
--- PROVERBS c24-v30 - POR
--- PROVERBS c24-v31 - POR
--- PROVERBS c24-v32 - POR
--- PROVERBS c24-v33 - POR
--- PROVERBS c24-v34 - POR
--- PROVERBS c25-v1 - POR
--- PROVERBS c25-v2 - POR
--- PROVERBS c25-v3 - POR
--- PROVERBS c25-v4 - POR
--- PROVERBS c25-v5 - POR
--- PROVERBS c25-v6 - POR
--- PROVERBS c25-v7 - POR
--- PROVERBS c25-v8 - POR
--- PROVERBS c25-v9 - POR
--- PROVERBS c25-v10 - POR
--- PROVERBS c25-v11 - POR
--- PROVERBS c25-v12 - POR
--- PROVERBS c25-v13 - POR
--- PROVERBS c25-v14 - POR
--- PROVERBS c25-v15 - POR
--- PROVERBS c25-v16 - POR
--- PROVERBS c25-v17 - POR
--- PROVERBS c25-v18 - POR
--- PROVERBS c25-v19 - POR
--- PROVERBS c25-v20 - POR
--- PROVERBS c25-v21 - POR
--- PROVERBS c25-v22 - POR
--- PROVERBS c25-v23 - POR
--- PROVERBS c25-v24 - POR
--- PROVERBS c25-v25 - POR
--- PROVERBS c25-v26 - POR
--- PROVERBS c25-v27 - POR
--- PROVERBS c25-v28 - POR
--- PROVERBS c26-v1 - POR
--- PROVERBS c26-v2 - POR
--- PROVERBS c26-v3 - POR
--- PROVERBS c26-v4 - POR
--- PROVERBS c26-v5 - POR
--- PROVERBS c26-v6 - POR
--- PROVERBS c26-v7 - POR
--- PROVERBS c26-v8 - POR
--- PROVERBS c26-v9 - POR
--- PROVERBS c26-v10 - POR
--- PROVERBS c26-v11 - POR
--- PROVERBS c26-v12 - POR
--- PROVERBS c26-v13 - POR
--- PROVERBS c26-v14 - POR
--- PROVERBS c26-v15 - POR
--- PROVERBS c26-v16 - POR
--- PROVERBS c26-v17 - POR
--- PROVERBS c26-v18 - POR
--- PROVERBS c26-v19 - POR
--- PROVERBS c26-v20 - POR
--- PROVERBS c26-v21 - POR
--- PROVERBS c26-v22 - POR
--- PROVERBS c26-v23 - POR
--- PROVERBS c26-v24 - POR
--- PROVERBS c26-v25 - POR
--- PROVERBS c26-v26 - POR
--- PROVERBS c26-v27 - POR
--- PROVERBS c26-v28 - POR
--- PROVERBS c27-v1 - POR
--- PROVERBS c27-v2 - POR
--- PROVERBS c27-v3 - POR
--- PROVERBS c27-v4 - POR
--- PROVERBS c27-v5 - POR
--- PROVERBS c27-v6 - POR
--- PROVERBS c27-v7 - POR
--- PROVERBS c27-v8 - POR
--- PROVERBS c27-v9 - POR
--- PROVERBS c27-v10 - POR
--- PROVERBS c27-v11 - POR
--- PROVERBS c27-v12 - POR
--- PROVERBS c27-v13 - POR
--- PROVERBS c27-v14 - POR
--- PROVERBS c27-v15 - POR
--- PROVERBS c27-v16 - POR
--- PROVERBS c27-v17 - POR
--- PROVERBS c27-v18 - POR
--- PROVERBS c27-v19 - POR
--- PROVERBS c27-v20 - POR
--- PROVERBS c27-v21 - POR
--- PROVERBS c27-v22 - POR
--- PROVERBS c27-v23 - POR
--- PROVERBS c27-v24 - POR
--- PROVERBS c27-v25 - POR
--- PROVERBS c27-v26 - POR
--- PROVERBS c27-v27 - POR
--- PROVERBS c28-v1 - POR
--- PROVERBS c28-v2 - POR
--- PROVERBS c28-v3 - POR
--- PROVERBS c28-v4 - POR
--- PROVERBS c28-v5 - POR
--- PROVERBS c28-v6 - POR
--- PROVERBS c28-v7 - POR
--- PROVERBS c28-v8 - POR
--- PROVERBS c28-v9 - POR
--- PROVERBS c28-v10 - POR
--- PROVERBS c28-v11 - POR
--- PROVERBS c28-v12 - POR
--- PROVERBS c28-v13 - POR
--- PROVERBS c28-v14 - POR
--- PROVERBS c28-v15 - POR
--- PROVERBS c28-v16 - POR
--- PROVERBS c28-v17 - POR
--- PROVERBS c28-v18 - POR
--- PROVERBS c28-v19 - POR
--- PROVERBS c28-v20 - POR
--- PROVERBS c28-v21 - POR
--- PROVERBS c28-v22 - POR
--- PROVERBS c28-v23 - POR
--- PROVERBS c28-v24 - POR
--- PROVERBS c28-v25 - POR
--- PROVERBS c28-v26 - POR
--- PROVERBS c28-v27 - POR
--- PROVERBS c28-v28 - POR
--- PROVERBS c29-v1 - POR
--- PROVERBS c29-v2 - POR
--- PROVERBS c29-v3 - POR
--- PROVERBS c29-v4 - POR
--- PROVERBS c29-v5 - POR
--- PROVERBS c29-v6 - POR
--- PROVERBS c29-v7 - POR
--- PROVERBS c29-v8 - POR
--- PROVERBS c29-v9 - POR
--- PROVERBS c29-v10 - POR
--- PROVERBS c29-v11 - POR
--- PROVERBS c29-v12 - POR
--- PROVERBS c29-v13 - POR
--- PROVERBS c29-v14 - POR
--- PROVERBS c29-v15 - POR
--- PROVERBS c29-v16 - POR
--- PROVERBS c29-v17 - POR
--- PROVERBS c29-v18 - POR
--- PROVERBS c29-v19 - POR
--- PROVERBS c29-v20 - POR
--- PROVERBS c29-v21 - POR
--- PROVERBS c29-v22 - POR
--- PROVERBS c29-v23 - POR
--- PROVERBS c29-v24 - POR
--- PROVERBS c29-v25 - POR
--- PROVERBS c29-v26 - POR
--- PROVERBS c29-v27 - POR
--- PROVERBS c30-v1 - POR
--- PROVERBS c30-v2 - POR
--- PROVERBS c30-v3 - POR
--- PROVERBS c30-v4 - POR
--- PROVERBS c30-v5 - POR
--- PROVERBS c30-v6 - POR
--- PROVERBS c30-v7 - POR
--- PROVERBS c30-v8 - POR
--- PROVERBS c30-v9 - POR
--- PROVERBS c30-v10 - POR
--- PROVERBS c30-v11 - POR
--- PROVERBS c30-v12 - POR
--- PROVERBS c30-v13 - POR
--- PROVERBS c30-v14 - POR
--- PROVERBS c30-v15 - POR
--- PROVERBS c30-v16 - POR
--- PROVERBS c30-v17 - POR
--- PROVERBS c30-v18 - POR
--- PROVERBS c30-v19 - POR
--- PROVERBS c30-v20 - POR
--- PROVERBS c30-v21 - POR
--- PROVERBS c30-v22 - POR
--- PROVERBS c30-v23 - POR
--- PROVERBS c30-v24 - POR
--- PROVERBS c30-v25 - POR
--- PROVERBS c30-v26 - POR
--- PROVERBS c30-v27 - POR
--- PROVERBS c30-v28 - POR
--- PROVERBS c30-v29 - POR
--- PROVERBS c30-v30 - POR
--- PROVERBS c30-v31 - POR
--- PROVERBS c30-v32 - POR
--- PROVERBS c30-v33 - POR
--- PROVERBS c31-v1 - POR
--- PROVERBS c31-v2 - POR
--- PROVERBS c31-v3 - POR
--- PROVERBS c31-v4 - POR
--- PROVERBS c31-v5 - POR
--- PROVERBS c31-v6 - POR
--- PROVERBS c31-v7 - POR
--- PROVERBS c31-v8 - POR
--- PROVERBS c31-v9 - POR
--- PROVERBS c31-v10 - POR
--- PROVERBS c31-v11 - POR
--- PROVERBS c31-v12 - POR
--- PROVERBS c31-v13 - POR
--- PROVERBS c31-v14 - POR
--- PROVERBS c31-v15 - POR
--- PROVERBS c31-v16 - POR
--- PROVERBS c31-v17 - POR
--- PROVERBS c31-v18 - POR
--- PROVERBS c31-v19 - POR
--- PROVERBS c31-v20 - POR
--- PROVERBS c31-v21 - POR
--- PROVERBS c31-v22 - POR
--- PROVERBS c31-v23 - POR
--- PROVERBS c31-v24 - POR
--- PROVERBS c31-v25 - POR
--- PROVERBS c31-v26 - POR
--- PROVERBS c31-v27 - POR
--- PROVERBS c31-v28 - POR
--- PROVERBS c31-v29 - POR
--- PROVERBS c31-v30 - POR
--- PROVERBS c31-v31 - POR
+-- c1-v1: Provérbios–de Shelomoh filho–de Dawid rei–de Yisrael
+-- c1-v2: Para–conhecer sabedoria e–instrução para–entender palavras–de entendimento
+-- c1-v3: Para–receber instrução–de prudência justiça e–juízo e–retidões
+-- c1-v4: Para–dar aos–simples astúcia ao–jovem conhecimento e–discrição
+-- c1-v5: Ouvirá o–sábio e–aumentará ensino e–o–entendido orientações adquirirá
+-- c1-v6: Para–entender provérbio e–enigma palavras–de sábios e–suas–charadas
+-- c1-v7: Temor–de YHWH princípio–de conhecimento sabedoria e–instrução tolos desprezam ¶
+-- c1-v8: Ouve meu–filho instrução–de teu–pai e–não abandones lei–de tua–mãe
+-- c1-v9: Porque grinalda–de graça eles para–tua–cabeça e–colares para–teu–pescoço
+-- c1-v10: Meu–filho se te–seduzem pecadores não consistas
+-- c1-v11: Se disserem Vem conosco embosquemos para–sangue escondamo-nos para–inocente sem–causa
+-- c1-v12: Engulamo-los como–Sheol vivos e–íntegros como–os–que–descem à–cova
+-- c1-v13: Todo bem precioso encontraremos encheremos nossas–casas–de despojo
+-- c1-v14: Tua–sorte lançarás no–nosso–meio bolsa uma será para–todos–nós
+-- c1-v15: Meu–filho não andes no–caminho com–eles retém teu–pé de–suas–veredas
+-- c1-v16: Porque seus–pés para–o–mal correm e–apressam-se para–derramar sangue
+-- c1-v17: Porque em–vão é–espalhada a–rede aos–olhos–de todo senhor–de asa
+-- c1-v18: E–eles para–seu–sangue espreitam escondem-se para–suas–almas
+-- c1-v19: Assim são–as–veredas–de todo que–obtém–ganho de–ganho (a) alma–de seus–donos toma ¶
+-- c1-v20: Sabedoria na–rua clama nas–praças dá sua–voz
+-- c1-v21: Na–cabeça–de tumultuosas chama nas–entradas–das portas na–cidade suas–palavras diz
+-- c1-v22: Até quando simples amareis simplicidade e–zombadores zombaria desejam para–si e–tolos odiarão conhecimento
+-- c1-v23: Voltai-vos à–minha–repreensão eis derramarei a–vós meu–espírito farei–conhecer minhas–palavras a–vós
+-- c1-v24: Porque chamei e–recusastes estendi minha–mão e–ninguém atentou
+-- c1-v25: E–desprezastes todo meu–conselho e–minha–repreensão não quisestes
+-- c1-v26: Também eu na–vossa–calamidade rirei zombarei quando–vier vosso–pavor
+-- c1-v27: Quando–vier [ketiv] como–tempestade vosso–pavor e–vossa–calamidade como–vendaval vier quando–vier sobre–vós angústia e–aflição
+-- c1-v28: Então chamar-me-ão e–não responderei buscar-me-ão e–não me–encontrarão
+-- c1-v29: Porque que odiaram conhecimento e–temor–de YHWH não escolheram
+-- c1-v30: Não quiseram meu–conselho desprezaram toda minha–repreensão
+-- c1-v31: E–comerão do–fruto–de seu–caminho e–de–seus–conselhos se–fartarão
+-- c1-v32: Porque apostasia–de simples os–matará e–tranquilidade–de tolos os–destruirá
+-- c1-v33: E–o–que–ouve a–mim habitará em–segurança e–estará–tranquilo de–temor–de mal ¶
+-- c2-v1: Meu–filho se receberes minhas–palavras e–meus–mandamentos guardares contigo
+-- c2-v2: Para–fazer–atento à–sabedoria teu–ouvido inclinarás teu–coração ao–entendimento
+-- c2-v3: Porque se ao–discernimento clamares ao–entendimento deres tua–voz
+-- c2-v4: Se a–buscares como–prata e–como–tesouros a–procurares
+-- c2-v5: Então entenderás temor–de YHWH e–conhecimento–de Elohim encontrarás
+-- c2-v6: Porque YHWH dá sabedoria de–sua–boca conhecimento e–entendimento
+-- c2-v7: [ketiv] reserva para–os–retos eficácia escudo para–os–que–andam em–integridade
+-- c2-v8: Para–guardar veredas–de juízo e–caminho–de [ketiv] seus–fiéis protegerá
+-- c2-v9: Então entenderás justiça e–juízo e–retidões toda trilha boa
+-- c2-v10: Porque entrará sabedoria em–teu–coração e–conhecimento para–tua–alma será–agradável
+-- c2-v11: Discrição guardará sobre–ti entendimento te–protegerá
+-- c2-v12: Para–te–livrar de–caminho–de mal de–homem que–fala perversidades
+-- c2-v13: Os–que–abandonam veredas–de retidão para–andar em–caminhos–de escuridão
+-- c2-v14: Os–que–se–alegram em–fazer mal regozijam-se em–perversidades–de mal
+-- c2-v15: Que suas–veredas são–tortuosas e–desviados em–suas–trilhas
+-- c2-v16: Para–te–livrar de–mulher estranha de–estrangeira suas–palavras lisonjeia
+-- c2-v17: A–que–abandona companheiro–de sua–juventude e–(a) aliança–de seu–Elohim esquece
+-- c2-v18: Porque afunda para morte sua–casa e–para os–mortos suas–trilhas
+-- c2-v19: Todos os–que–vão–a–ela não voltarão e–não alcançarão veredas–de vida
+-- c2-v20: Para–que andes em–caminho–de bons e–veredas–de justos guardes
+-- c2-v21: Porque retos habitarão na–terra e–íntegros permanecerão nela
+-- c2-v22: E–ímpios da–terra serão–cortados e–traidores serão–arrancados dela ¶
+-- c3-v1: Meu-filho minha-lei nao esquecas e-meus-mandamentos guarde teu-coracao
+-- c3-v2: Porque longura-de dias e-anos-de vida e-paz acrescentarao a-ti
+-- c3-v3: Bondade e-verdade nao te-abandonem ata-as sobre teu-pescoco escreve-as sobre tabua-de teu-coracao
+-- c3-v4: E-encontraras graca e-bom entendimento aos-olhos-de Elohim e-homem P
+-- c3-v5: Confia em YHWH com-todo teu-coracao e-em teu-entendimento nao te-apoies
+-- c3-v6: Em-todos teus-caminhos conhece-o e-ele endireitara tuas-veredas
+-- c3-v7: Nao sejas sabio aos-teus-olhos teme (a) YHWH e-afasta-te do-mal
+-- c3-v8: Cura sera para-tua-carne e-refrigeracao para-teus-ossos
+-- c3-v9: Honra (a) YHWH de-tua-riqueza e-das-primicias-de toda tua-producao
+-- c3-v10: E-serao-cheios teus-celeiros de-fartura e-vinho-novo teus-lagares transbordarao P
+-- c3-v11: Instrucao-de YHWH meu-filho nao rejeites e-nao te-aborrecas de-sua-repreensao
+-- c3-v12: Porque (a) quem ama YHWH corrige e-como-pai (a) filho em-quem-se-agrada
+-- c3-v13: Bem-aventurado homem-que encontra sabedoria e-homem-que obtem entendimento
+-- c3-v14: Porque bom seu-comercio que-comercio-de prata e-que-ouro seu-fruto
+-- c3-v15: Preciosa ela [ketiv] que-perolas e-todos teus-desejos nao se-comparam a-ela
+-- c3-v16: Longura-de dias em-sua-direita em-sua-esquerda riquezas e-honra
+-- c3-v17: Seus-caminhos sao-caminhos-de deleite e-todas suas-veredas sao-paz
+-- c3-v18: Arvore-de vida ela para-os-que-se-apegam a-ela e-os-que-a-seguram bem-aventurado P
+-- c3-v19: YHWH com-sabedoria fundou terra estabeleceu ceus com-entendimento
+-- c3-v20: Com-seu-conhecimento abismos se-fenderam e-nuvens destilam orvalho
+-- c3-v21: Meu-filho nao se-desviem de-teus-olhos guarda eficacia e-discricao
+-- c3-v22: E-serao vida para-tua-alma e-graca para-teu-pescoco
+-- c3-v23: Entao andaras em-seguranca teu-caminho e-teu-pe nao tropecara
+-- c3-v24: Se deitares nao temeras e-quando-deitares sera-doce teu-sono
+-- c3-v25: Nao temas de-pavor repentino e-de-destruicao-de impios quando vier
+-- c3-v26: Porque YHWH sera tua-confianca e-guardara teu-pe de-ser-apanhado
+-- c3-v27: Nao retenhas bem de-seus-donos quando-esta ao-poder-de [ketiv] tua-mao para-fazer
+-- c3-v28: Nao digas [ketiv] ao-teu-proximo Vai e-volta e-amanha darei e-ha contigo
+-- c3-v29: Nao trames contra teu-proximo mal e-ele habita em-seguranca contigo
+-- c3-v30: Nao [ketiv] contendas com homem sem-causa se nao te-fez mal
+-- c3-v31: Nao invejes homem-de violencia e-nao escolhas em-nenhum-de seus-caminhos
+-- c3-v32: Porque abominacao-de YHWH e-o-perverso e-com retos e-seu-segredo
+-- c3-v33: Maldicao-de YHWH na-casa-de impio mas-morada-de justos abencoa
+-- c3-v34: Se aos-zombadores ele zomba [ketiv] mas-aos-humildes da graca
+-- c3-v35: Honra sabios herdarao mas-tolos levantando vergonha P
+-- c4-v1: Ouvi filhos instrução–de pai e–atentai para–conhecer entendimento
+-- c4-v2: Porque ensino bom dei a–vós minha–lei não abandoneis
+-- c4-v3: Porque filho fui para–meu–pai tenro e–único diante–de minha–mãe
+-- c4-v4: E–ensinou-me e–disse-me a–mim Segure minhas–palavras teu–coração guarda meus–mandamentos e–vive
+-- c4-v5: Adquire sabedoria adquire entendimento não esqueças e–não te–desvies das–palavras–de minha–boca
+-- c4-v6: Não a–abandones e–te–guardará ama-a e–te–protegerá
+-- c4-v7: Princípio–de sabedoria adquire sabedoria e–com–toda tua–aquisição adquire entendimento
+-- c4-v8: Exalta-a e–te–elevará te–honrará quando a–abraçares
+-- c4-v9: Dará para–tua–cabeça grinalda–de graça coroa–de beleza te–entregará
+-- c4-v10: Ouve meu–filho e–recebe minhas–palavras e–multiplicarão-se para–ti anos–de vida
+-- c4-v11: Em–caminho–de sabedoria te–instruí te–guiei em–trilhas–de retidão
+-- c4-v12: Ao–andares não será–estreitado teu–passo e–se correres não tropeçarás
+-- c4-v13: Agarra-te à–instrução não largues guarda-a porque ela é–tua–vida
+-- c4-v14: Na–vereda–de ímpios não entres e–não prossigâs em–caminho–de maus
+-- c4-v15: Evita-o não passes por–ele desvia-te de–sobre–ele e–passa–adiante
+-- c4-v16: Porque não dormem se não fizerem–mal e–é–roubado seu–sono se não [ketiv] fizerem–tropecar
+-- c4-v17: Porque comem pão–de maldade e–vinho–de violências bebem
+-- c4-v18: Mas–vereda–de justos como–luz de–aurora que–vai e–iluminando até estabelecido o–dia
+-- c4-v19: Caminho–de ímpios como–escuridão não sabem em–que tropecarão ¶
+-- c4-v20: Meu–filho às–minhas–palavras atenta às–minhas–declarações inclina teu–ouvido
+-- c4-v21: Não se–apartem de–teus–olhos guarda-as no–meio–de teu–coração
+-- c4-v22: Porque vida elas para–os–que–as–encontram e–para–toda sua–carne cura
+-- c4-v23: De–toda vigília guarda teu–coração porque dele manan–ciais–de vida
+-- c4-v24: Remove de–ti perversidade–de boca e–desvio–de lábios afasta de–ti
+-- c4-v25: Teus–olhos para–diante olhem e–tuas–pálpebras endireitem diante–de–ti
+-- c4-v26: Aplana trilha–de teu–pé e–todos teus–caminhos sejam–firmes
+-- c4-v27: Não te–desvies à–direita ou–à–esquerda afasta teu–pé do–mal
+-- c5-v1: Meu–filho à–minha–sabedoria atenta ao–meu–entendimento inclina teu–ouvido
+-- c5-v2: Para–guardar discrições e–conhecimento teus–lábios guardarão
+-- c5-v3: Porque favos gotejam lábios–de estranha e–liso que–azeite seu–paladar
+-- c5-v4: E–seu–fim amargo como–absinto afiada como–espada–de dois–gumes
+-- c5-v5: Seus–pés descem–à morte Sheol seus–passos sustentam
+-- c5-v6: Vereda–de vida para–que–não ponderes vacilam suas–trilhas não sabes ¶
+-- c5-v7: E–agora filhos ouvi a–mim e–não vos–desvieis das–palavras–de minha–boca
+-- c5-v8: Afasta de–sobre–ela teu–caminho e–não te–aproximes à porta–de sua–casa
+-- c5-v9: Para–que–não dês a–outros tua–honra e–teus–anos ao–cruel
+-- c5-v10: Para–que–não se–fartem estranhos–de tua–força e–teus–trabalhos em–casa–de estrangeiro
+-- c5-v11: E–gemas no–teu–fim quando–se–consumir tua–carne e–teu–corpo
+-- c5-v12: E–digas Como odiei instrução e–repreensão desprezou meu–coração
+-- c5-v13: E–não ouvi na–voz–de meus–mestres e–a–meus–instrutores não inclinei meu–ouvido
+-- c5-v14: Quase estive em–todo mal no–meio–de congregação e–assembléia
+-- c5-v15: Bebe água de–tua–cisterna e–correntes do–meio–de teu–poço
+-- c5-v16: Derramem-se tuas–fontes para–fora nas–praças rios–de águas
+-- c5-v17: Sejam para–ti somente–para–ti e–não para–estranhos contigo
+-- c5-v18: Seja tua–fonte bendita e–alegra-te com–a–mulher–de tua–juventude
+-- c5-v19: Corsa–de amores e–cabra–de graça seus–seios te–saciem em–todo tempo em–seu–amor embriaga-te sempre
+-- c5-v20: E–por–que te–embriagarias meu–filho com–estranha e–abraçarias seio–de estrangeira
+-- c5-v21: Porque diante–dos olhos–de YHWH são–os–caminhos–de homem e–todas suas–trilhas pesa
+-- c5-v22: Suas–iniquidades o–apanharão (a) o–ímpio e–com–cordas–de seu–pecado será–preso
+-- c5-v23: Ele morrerá por–falta–de instrução e–na–grandeza–de sua–loucura se–desencaminhará ¶
+-- c6-v1: Meu–filho se fiaste ao–teu–próximo deste ao–estranho tuas–mãos
+-- c6-v2: Enlaçaste-te com–palavras–de tua–boca foste–apanhado com–palavras–de tua–boca
+-- c6-v3: Faz isto pois meu–filho e–livra-te porque vieste na–mão–de teu–próximo vai humilha-te e–importuna teu–próximo
+-- c6-v4: Não dês sono aos–teus–olhos nem–cochilo às–tuas–pálpebras
+-- c6-v5: Livra-te como–gazela da–mão e–como–ave da–mão–do caçador ¶
+-- c6-v6: Vai à formiga preguiçoso vê seus–caminhos e–sê–sábio
+-- c6-v7: Que não–tem para–ela capitão oficial ou–governante
+-- c6-v8: Prepara no–verão seu–pão recolhe na–colheita seu–alimento
+-- c6-v9: Até quando preguiçoso deitarás quando levantarás de–teu–sono
+-- c6-v10: Um–pouco–de sono um–pouco–de cochilo um–pouco–de cruzar–de mãos para–deitar
+-- c6-v11: E–virá como–viajante tua–pobreza e–tua–carência como–homem–de escudo ¶
+-- c6-v12: Homem de–Belial homem–de iniquidade anda com–perversidade–de boca
+-- c6-v13: Pisca com–seus–olhos arrasta com–seus–pés aponta com–seus–dedos
+-- c6-v14: Perversidades em–seu–coração trama mal em–todo tempo [ketiv] contendas semeia
+-- c6-v15: Por–isso de–repente repentinamente virá sua–calamidade subitamente será–quebrado e–não–haverá cura ¶
+-- c6-v16: Seis estas odeia YHWH e–sete [ketiv] abominações–de sua–alma
+-- c6-v17: Olhos altivos língua–de mentira e–mãos que–derramam sangue inocente
+-- c6-v18: Coração que–trama planos–de iniquidade pés que–se–apressam para–correr para–o–mal
+-- c6-v19: Sopra mentiras testemunha–de falsidade e–o–que–semeia contendas entre irmãos ¶
+-- c6-v20: Guarda meu–filho mandamento–de teu–pai e–não abandones lei–de tua–mãe
+-- c6-v21: Ata-os sobre teu–coração sempre enlaça-os sobre teu–pescoço
+-- c6-v22: Ao–andares te–guiará a–ti ao–deitares guardará sobre–ti e–ao–acordares ela falará–contigo
+-- c6-v23: Porque lâmpada o–mandamento e–a–lei é–luz e–caminho–de vida repreensões–de instrução
+-- c6-v24: Para–guardar-te de–mulher–de mal de–lisonja–de língua–de estrangeira
+-- c6-v25: Não cobiçes sua–beleza em–teu–coração e–não te–prenda com–suas–pálpebras
+-- c6-v26: Porque por–causa–de mulher prostituta até pedaço–de pão e–mulher–de homem alma preciosa caça ¶
+-- c6-v27: Pode–tomar homem fogo em–seu–seio e–suas–vestes não se–queimarão
+-- c6-v28: Ou andará homem sobre as–brasas e–seus–pés não se–queimariam
+-- c6-v29: Assim o–que–vai à mulher–de seu–próximo não ficará–impune todo o–que–a–toca nela
+-- c6-v30: Não desprezam ao–ladrão quando furta para–satisfazer sua–alma quando tem–fome
+-- c6-v31: E–se–for–encontrado pagará sete–vezes (a) todos bens–de sua–casa dará
+-- c6-v32: O–que–adultera com–mulher falto–de coração destruidor–de sua–alma ele o–fará
+-- c6-v33: Ferida e–vergonha encontrará e–sua–desonra não será–apagada
+-- c6-v34: Porque ciúme é–furor–de varão e–não terá–compaixão no–dia–de vingança
+-- c6-v35: Não aceitará face–de nenhum resgate e–não consentirá ainda–que multipliques suborno ¶
+-- c7-v1: Meu–filho guarda minhas–palavras e–meus–mandamentos guarda contigo
+-- c7-v2: Guarda meus–mandamentos e–vive e–minha–lei como–menina–de teus–olhos
+-- c7-v3: Ata-os sobre teus–dedos escreve-os sobre tábua–de teu–coração
+-- c7-v4: Diz à–sabedoria minha–irmã és–tu e–parente ao–entendimento chama
+-- c7-v5: Para–guardar-te de–mulher estranha de–estrangeira suas–palavras lisonjeia
+-- c7-v6: Porque pela–janela–de minha–casa através–de minha–grade olhei
+-- c7-v7: E–vi entre–os–simples observei entre–os–filhos jovem falto–de coração
+-- c7-v8: Passando pela–rua junto–à sua–esquina e–caminho–de sua–casa pisava
+-- c7-v9: No–crepúsculo no–entardecer–do dia na–menina–da noite e–escuridão
+-- c7-v10: E–eis mulher ao–encontro–dele traje–de prostituta e–guarda–de coração
+-- c7-v11: Tumultuosa ela e–rebelde em–sua–casa não ficam seus–pés
+-- c7-v12: Ora na–rua ora nas–praças e–junto–a toda esquina espreita
+-- c7-v13: E–agarrou-o nele e–beijou-o a–ele endureceu sua–face e–disse-lhe a–ele
+-- c7-v14: Sacrifícios–de ofertas–de–paz sobre–mim hoje paguei meus–votos
+-- c7-v15: Por–isso de–fato saí ao–teu–encontro para–buscar tua–face e–te–encontrei
+-- c7-v16: Coberturas cobri minha–cama bordados–de linho–do Egito
+-- c7-v17: Perfumei meu–leito com–mirra aloés e–canela
+-- c7-v18: Vem embriaguemo-nos–de amores até a–manhã deleitemo-nos com–amores
+-- c7-v19: Porque não–está o–homem em–sua–casa foi em–caminho distante
+-- c7-v20: Bolsa–de prata tomou em–sua–mão para–dia–da lua–cheia virá a–sua–casa
+-- c7-v21: Desviou-o com–a–abundância–de seu–ensino com–lisonja–de seus–lábios o–seduziu
+-- c7-v22: Indo após–ela de–repente como–boi ao matadouro vai e–como–grilheta para instrução–de tolo
+-- c7-v23: Até rasgar flecha seu–fígado como–apressar-se ave para laço e–não sabe que em–sua–alma é ¶
+-- c7-v24: E–agora filhos ouvi a–mim e–atentai às–palavras–de minha–boca
+-- c7-v25: Não se–desvie para seus–caminhos teu–coração não te–extravies em–suas–veredas
+-- c7-v26: Porque muitos feridos fez–cair e–fortes todos seus–mortos
+-- c7-v27: Caminhos–de Sheol é–sua–casa descendo para câmaras–de morte ¶
+-- c8-v1: Porventura–não sabedoria clama e–entendimento dá a–voz–dela
+-- c8-v2: No–topo–de alturas sobre o–caminho casa–de veredas se–posta
+-- c8-v3: Ao–lado–de portões à–boca–de cidade entrada–de portas ela–clama
+-- c8-v4: A–vós homens eu–clamo e–a–voz–minha para filhos–de adam
+-- c8-v5: Entendei simples prudência e–tolos entendei coração
+-- c8-v6: Ouvi porque coisas–excelentes eu–falo e–a–abertura–de lábios–meus retidões
+-- c8-v7: Porque verdade profere paladar–meu e–abominação–de lábios–meus maldade
+-- c8-v8: Em–justiça todas palavras–de boca–minha não–há nelas tortuoso e–perverso
+-- c8-v9: Todas–elas retas ao–que–entende e–direitas aos–que–acham conhecimento
+-- c8-v10: Recebei instrução–minha e–não prata e–conhecimento mais–que–ouro escolhido
+-- c8-v11: Porque melhor sabedoria do–que–pérolas e–todas as–coisas–desejáveis não se–igualam a–ela
+-- c8-v12: Eu sabedoria habito prudência e–conhecimento–de planos eu–acho
+-- c8-v13: Temor–de YHWH odiar mal orgulho e–arrogância e–caminho–de mal e–boca–de perversidades eu–odeio
+-- c8-v14: A–mim conselho e–sabedoria–prática eu entendimento a–mim força
+-- c8-v15: Por–mim reis reinam e–príncipes decretam justiça
+-- c8-v16: Por–mim líderes governam e–nobres todos juízes–de justiça
+-- c8-v17: Eu [os–que–me–amam] (os–que–me–amam) amo e–os–que–me–buscam–cedo me–encontrarão
+-- c8-v18: Riqueza e–honra comigo tesouro duradouro e–justiça
+-- c8-v19: Melhor fruto–meu do–que–ouro e–do–que–ouro–puro e–renda–minha do–que–prata escolhida
+-- c8-v20: Em–vereda–de justiça eu–ando em–meio–de caminhos–de juízo
+-- c8-v21: Para–fazer–herdar os–que–me–amam substância e–tesouros–deles eu–encherai ¶
+-- c8-v22: YHWH me–possuiu princípio–de caminho–dele antes de–obras–dele desde–então
+-- c8-v23: Desde–eternidade fui–estabelecida desde–o–princípio desde–os–primórdios–de terra
+-- c8-v24: Quando–não–havia abismos fui–gerada quando–não–havia fontes carregadas–de águas
+-- c8-v25: Antes–que montes fossem–firmados antes–de colinas fui–gerada
+-- c8-v26: Enquanto–não não ele–fez terra e–campos e–princípio–de pós do–mundo
+-- c8-v27: Quando–ele–preparou céus lá eu quando–ele–traçou círculo sobre faces–de abismo
+-- c8-v28: Quando–ele–firmou nuvens de–cima quando–se–fortaleceram fontes–de abismo
+-- c8-v29: Quando–ele–colocou ao–mar decreto–dele e–águas não transgrediriam boca–dele quando–ele–marcou fundamentos–de terra
+-- c8-v30: E–eu–estava junto–a–ele mestre–de–obras e–eu–era delícias dia dia brincando diante–dele em–todo tempo
+-- c8-v31: Brincando no–mundo terra–dele e–delícias–minhas (a) filhos–de adam ¶
+-- c8-v32: E–agora filhos ouvi a–mim e–benditos caminhos–meus os–que–guardam
+-- c8-v33: Ouvi instrução e–sede–sábios e–não a–recuseis
+-- c8-v34: Bendito adam que–ouve a–mim para–velar sobre portas–minhas dia dia para–guardar umbrais–de entradas–minhas
+-- c8-v35: Porque quem–me–acha [encontrar] (encontrou) vida e–obtém favor de–YHWH
+-- c8-v36: E–quem–peca–contra–mim violenta alma–dele todos os–que–me–odeiam amam morte ¶
+-- c9-v1: Sabedorias edificou casa–dela lavrou colunas–dela sete
+-- c9-v2: Matou animais–dela misturou vinho–dela também preparou mesa–dela
+-- c9-v3: Enviou servas–dela ela–clama sobre lugares–altos–de alturas–de cidade
+-- c9-v4: Quem simples desvie–se para–cá que–carece–de coração ela–diz a–ele
+-- c9-v5: Vinde comei do–pão–meu e–bebei do–vinho que–eu–misturei
+-- c9-v6: Deixai simples e–vivei e–andai–reto em–caminho–de entendimento
+-- c9-v7: Quem–repreende escarnecedor toma para–si vergonha e–quem–corrige ao–ímpio defeito–dele
+-- c9-v8: Não repreendas escarnecedor para–que–não ele–te–odeie repreende ao–sábio e–ele–te–amará
+-- c9-v9: Dá ao–sábio e–será–mais–sábio ainda faz–saber ao–justo e–acrescentará ensino ¶
+-- c9-v10: Princípio–de sabedoria temor–de YHWH e–conhecimento–de santos entendimento
+-- c9-v11: Porque por–mim se–multiplicarão dias–teus e–se–acrescentarão a–ti anos–de vida
+-- c9-v12: Se te–tornares–sábio te–tornaste–sábio para–ti e–se–escarneceres sozinho tu–suportarás
+-- c9-v13: Mulher–de insensatez turbulenta simplicidade e–nada ela–sabe quê
+-- c9-v14: E–ela–se–sentou à–porta–de casa–dela sobre assento alturas–de cidade
+-- c9-v15: Para–chamar aos–que–passam–pelo caminho os–que–endireitam veredas–deles
+-- c9-v16: Quem simples desvie–se para–cá e–quem–carece–de coração e–ela–diz a–ele
+-- c9-v17: Águas furtadas são–doces e–pão–de ocultamento é–agradável
+-- c9-v18: E–não ele–sabe que mortos lá nas–profundezas–de sheol convidados–dela ¶
+-- c10-v1: Provérbios–de Shelomoh ¶ Filho sábio alegra pai e–filho tolo tristeza–de mãe–dele
+-- c10-v2: Não aproveitam tesouros–de maldade e–justiça livra da–morte
+-- c10-v3: Não fará–passar–fome YHWH alma–de justo e–desejo–de ímpios ele–rejeita
+-- c10-v4: Pobre quem–trabalha palma–de engano e–mão–de diligentes enriquece
+-- c10-v5: Quem–ajunta no–verão filho prudente quem–dorme na–colheita filho que–envergonha
+-- c10-v6: Bênçãos para–cabeça–de justo e–boca–de ímpios cobre violência
+-- c10-v7: Memória–de justo para–bênção e–nome–de ímpios apodrecerá
+-- c10-v8: Sábio–de coração receberá mandamentos e–tolo–de lábios cairá
+-- c10-v9: Quem–anda em–integridade andará seguro e–quem–perverte caminhos–dele será–conhecido
+-- c10-v10: Quem–pisca olho dá dor e–tolo–de lábios cairá
+-- c10-v11: Fonte–de vida boca–de justo e–boca–de ímpios cobre violência
+-- c10-v12: Ódio desperta contendas e–sobre todas as–transgressões cobre amor
+-- c10-v13: Em–lábios–de entendido se–acha sabedoria e–vara para–costas–de que–carece–de coração
+-- c10-v14: Sábios guardam conhecimento e–boca–de tolo ruína próxima
+-- c10-v15: Riqueza–de rico cidade–de força–dele ruína–de pobres pobreza–deles
+-- c10-v16: Trabalho–de justo para–vida renda–de ímpio para–pecado
+-- c10-v17: Vereda para–vida quem–guarda instrução e–quem–abandona repreenção desvia
+-- c10-v18: Quem–encobre ódio lábios–de mentira e–quem–espalha calúnia ele tolo
+-- c10-v19: Na–multidão–de palavras não falta transgressão e–quem–retém lábios–seus prudente
+-- c10-v20: Prata escolhida língua–de justo coração–de ímpios como–pouco
+-- c10-v21: Lábios–de justo apascentam muitos e–tolos por–falta–de coração morrem
+-- c10-v22: Bênção–de YHWH ela enriquece e–não ele–acrescenta dor com–ela
+-- c10-v23: Como–riso para–tolo fazer maldade e–sabedoria para–homem–de entendimento
+-- c10-v24: Medo–de ímpio ele virá–sobre–ele e–desejo–de justos ele–dará
+-- c10-v25: Quando–passa tempestade e–não–há ímpio e–justo fundamento–de eternidade
+-- c10-v26: Como–vinagre para–os–dentes e–como–fumaça para–os–olhos assim o–preguiçoso para–os–que–o–enviam
+-- c10-v27: Temor–de YHWH acrescenta dias e–anos–de ímpios serão–encurtados
+-- c10-v28: Esperança–de justos alegria e–esperança–de ímpios perecerá
+-- c10-v29: Fortaleza para–o–íntegro caminho–de YHWH e–ruína para–os–que–praticam iniquidade
+-- c10-v30: Justo para–sempre jamais será–movido e–ímpios não habitarão terra
+-- c10-v31: Boca–de justo produz sabedoria e–língua–de perversidades será–cortada
+-- c10-v32: Lábios–de justo conhecem aceitação e–boca–de ímpios perversidades
+-- c11-v1: Balanças–de engano abominação–de YHWH e–pedra perfeita agrado–dele
+-- c11-v2: Veio soberba e–veio vergonha e–com humildes sabedoria
+-- c11-v3: Integridade–de retos os–guia e–perversão–de traidores [os–destruirá] (os–destruirá)
+-- c11-v4: Não aproveita riqueza no–dia–de ira e–justiça livra da–morte
+-- c11-v5: Justiça–de íntegro endireita caminho–dele e–por–maldade–dele cairá ímpio
+-- c11-v6: Justiça–de retos os–livrará e–por–desejo traidores serão–apanhados
+-- c11-v7: Na–morte–de adam ímpio perece esperança e–expectativa–de ímpios pereceu
+-- c11-v8: Justo da–angústia é–libertado e–vem ímpio no–lugar–dele
+-- c11-v9: Com–a–boca hipócrita destrói próximo–dele e–por–conhecimento justos são–libertados
+-- c11-v10: No–bem–de justos exulta cidade e–na–destruição–de ímpios júbilo
+-- c11-v11: Pela–bênção–de retos é–exaltada cidade e–pela–boca–de ímpios é–destruída
+-- c11-v12: Quem–despreza ao–próximo–dele que–carece–de coração e–homem–de entendimento se–cala
+-- c11-v13: Quem–anda caluniador revela segredo e–fiel–de espírito encobre assunto
+-- c11-v14: Por–falta–de direção cai povo e–salvação na–multidão–de conselheiros
+-- c11-v15: Mal sofrerá–mal quando é–fiador estranho e–quem–odeia bater–de–mãos está–seguro
+-- c11-v16: Mulher–de graça retém honra e–violentos retêm riqueza
+-- c11-v17: Quem–faz–bem alma–dele homem–de bondade e–quem–perturba carne–dele cruel
+-- c11-v18: Ímpio faz obra–de falsidade e–quem–semeia justiça recompensa–de verdade
+-- c11-v19: Assim justiça para–vida e–quem–persegue mal para–morte–dele
+-- c11-v20: Abominação–de YHWH perversos–de coração e–agrado–dele íntegros–de caminho
+-- c11-v21: Mão a–mão não ficará–impune mau e–semente–de justos escapará
+-- c11-v22: Argola–de ouro em–nariz–de porco mulher bela e–que–se–desvia–de discernimento
+-- c11-v23: Desejo–de justos somente bem esperança–de ímpios ira
+-- c11-v24: Há quem–espalha e–é–acrescentado ainda e–quem–retém mais–que–reto somente para–falta
+-- c11-v25: Alma–de bênção será–engordada e–quem–rega também ele será–regado
+-- c11-v26: Quem–retém grão o–povo–o–amaldiçoa nação e–bênção para–cabeça–de quem–vende
+-- c11-v27: Quem–busca bem busca favor e–quem–busca mal virá–sobre–ele
+-- c11-v28: Quem–confia na–riqueza–dele ele cairá e–como–folha justos florescerão
+-- c11-v29: Quem–perturba casa–dele herdará vento e–servo tolo para–o–sábio–de coração
+-- c11-v30: Fruto–de justo árvore–de vida e–quem–toma almas sábio
+-- c11-v31: Eis justo na–terra é–recompensado quanto–mais certamente ímpio e–pecador
+-- c12-v1: Quem–ama instrução ama conhecimento e–quem–odeia repreenção bruto
+-- c12-v2: Bom obtém favor de–YHWH e–homem–de planos–maus ele–condenará
+-- c12-v3: Não se–estabelece adam por–maldade e–raiz–de justos jamais será–movida
+-- c12-v4: Mulher–de virtude coroa–de marido–dela e–como–podrído nos–ossos–dele a–que–envergonha
+-- c12-v5: Pensamentos–de justos justiça conselhos–de ímpios engano
+-- c12-v6: Palavras–de ímpios emboscada–de sangue e–boca–de retos os–livrará
+-- c12-v7: Destruir ímpios e–não–há–mais e–casa–de justos permanecerá
+-- c12-v8: Segundo entendimento–dele é–louvado homem e–perverso–de coração será para–desprezo
+-- c12-v9: Melhor o–desprezado e–servo para–ele do–que–quem–se–honra e–carece–de pão
+-- c12-v10: Conhece justo alma–de animal–dele e–entranhas–de ímpios cruéis
+-- c12-v11: Quem–lavra terra–dele se–fartará–de pão e–quem–persegue coisas–vãs carece–de coração
+-- c12-v12: Desejou ímpio rede–de maus e–raiz–de justos dará
+-- c12-v13: Em–transgressão–de lábios laço–de mal e–sairá da–angústia justo
+-- c12-v14: Do–fruto–de boca–de homem se–fartará–de bem e–retribuição–de mãos–de adam [retornará] (retornará) a–ele
+-- c12-v15: Caminho–de tolo reto nos–olhos–dele e–quem–ouve a–conselho sábio
+-- c12-v16: Tolo no–dia se–conhece ira–dele e–quem–encobre vergonha prudente
+-- c12-v17: Respira fidelidade declara justiça e–testemunha–de mentiras engano
+-- c12-v18: Há quem–fala–imprudentemente como–estocadas–de espada e–língua–de sábios cura
+-- c12-v19: Lábio–de verdade é–estabelecido para–sempre e–até um–momento língua–de mentira
+-- c12-v20: Engano em–coração–de quem–trama mal e–para–os–que–aconselham paz alegria
+-- c12-v21: Não acontecerá ao–justo nenhuma iniquidade e–ímpios se–enchem–de mal
+-- c12-v22: Abominação–de YHWH lábios–de mentira e–os–que–fazem fidelidade agrado–dele
+-- c12-v23: Adam prudente encobre conhecimento e–coração–de tolos proclama insensatez
+-- c12-v24: Mão–de diligentes dominará e–enganosa será para–trabalho–forçado
+-- c12-v25: Ansiedade em–coração–de homem a–abate e–palavra boa a–alegra
+-- c12-v26: Melhor do–que–próximo–dele justo e–caminho–de ímpios os–desvia
+-- c12-v27: Não assam engano caça–dele e–tesouro–de adam precioso diligente
+-- c12-v28: Em–vereda–de justiça vida e–caminho–de vereda–dela não morte
+-- c13-v1: Filho sábio instrução–de pai e–escarnecedor não ouve repreenção
+-- c13-v2: Do–fruto–de boca–de homem comerá bem e–alma–de traidores violência
+-- c13-v3: Quem–guarda boca–dele guarda alma–dele quem–abre–largamente lábios–dele ruína para–ele
+-- c13-v4: Desejando e–não–há alma–dele preguiçoso e–alma–de diligentes será–engordada
+-- c13-v5: Palavra–de mentira odeia justo e–ímpio faz–feder e–envergonha
+-- c13-v6: Justiça guarda íntegro–de caminho e–maldade perverte pecado
+-- c13-v7: Há quem–se–faz–rico e–nada–há tudo quem–se–faz–pobre e–riqueza muita
+-- c13-v8: Resgate–de alma–de homem riqueza–dele e–pobre não ouve repreenção
+-- c13-v9: Luz–de justos se–alegra e–lâmpada–de ímpios se–apagará
+-- c13-v10: Somente por–soberba dá contenda e–com os–que–se–aconselham sabedoria
+-- c13-v11: Riqueza da–vaidade diminuirá e–quem–ajunta com mão aumentará
+-- c13-v12: Esperança prolongada adoece coração e–árvore–de vida desejo que–vem
+-- c13-v13: Quem–despreza a–palavra será–destruído a–ele e–quem–teme mandamento ele será–recompensado
+-- c13-v14: Ensino–de sábio fonte–de vida para–desviar dos–laços–de morte
+-- c13-v15: Entendimento bom dá favor e–caminho–de traidores permanente
+-- c13-v16: Todo prudente age com–conhecimento e–tolo espalha insensatez
+-- c13-v17: Mensageiro mau cai em–mal e–embaixador–de fiéis cura
+-- c13-v18: Pobreza e–vergonha quem–rejeita instrução e–quem–guarda repreenção será–honrado
+-- c13-v19: Desejo realizado é–doce para–alma e–abominação–de tolos desviar do–mal
+-- c13-v20: [Andando] (Quem–anda) com sábios [e–será–sábio] (será–sábio) e–companheiro–de tolos sofrerá–mal
+-- c13-v21: Pecadores persegue mal e–a justos ele–retribuirá bem
+-- c13-v22: Bom fará–herdar filhos–de filhos e–guardada para–o–justo riqueza–de pecador
+-- c13-v23: Muita comida campo–lavrado–de pobres e–há quem–é–consumido por–falta–de justiça
+-- c13-v24: Quem–poupa vara–dele odeia filho–dele e–quem–o–ama o–busca–cedo instrução
+-- c13-v25: Justo come para–saciedade–de alma–dele e–ventre–de ímpios passará–falta ¶
+-- c14-v1: Sabedorias–de mulheres edificou casa–dela e–insensatez com–mãos–dela a–derruba
+-- c14-v2: Quem–anda em–retidão–dele teme YHWH e–quem–é–tortuoso caminhos–dele o–despreza
+-- c14-v3: Em–boca–de tolo vara–de soberba e–lábios–de sábios os–guardará
+-- c14-v4: Por–falta–de bois estrebaria limpa e–muita produção pela–força–de boi
+-- c14-v5: Testemunha fiel não mente e–respira mentiras testemunha–de falsidade
+-- c14-v6: Busca escarnecedor sabedoria e–não–há e–conhecimento para–o–entendido fácil
+-- c14-v7: Vai de–diante–de homem tolo e–não conhecerás lábios–de conhecimento
+-- c14-v8: Sabedoria–de prudente entender caminho–dele e–insensatez–de tolos engano
+-- c14-v9: Tolos zombam de–culpa e–entre retos favor
+-- c14-v10: Coração conhece amargura–de alma–dele e–na–alegria–dele não se–mistura estranho
+-- c14-v11: Casa–de ímpios será–destruída e–tenda–de retos florescerá
+-- c14-v12: Há caminho reto diante–de homem e–fim–dele caminhos–de morte
+-- c14-v13: Também no–riso doerá coração e–fim–dela alegria tristeza
+-- c14-v14: De–caminhos–dele se–fartará desviado–de coração e–de–sobre–ele homem bom
+-- c14-v15: Simples crê em–toda palavra e–prudente entende para–passo–dele
+-- c14-v16: Sábio teme e–desvia do–mal e–tolo se–enfurece e–confia
+-- c14-v17: Curto–de narinas fará insensatez e–homem–de planos será–odiado
+-- c14-v18: Herdaram simples insensatez e–prudentes se–coroarão–de conhecimento
+-- c14-v19: Inclinam–se maus diante–de bons e–ímpios sobre portões–de justo
+-- c14-v20: Também pelo–próximo–dele é–odiado pobre e–os–que–amam rico muitos
+-- c14-v21: Quem–despreza o–próximo–dele peca e–quem–se–compadece–de [pobres] (humildes) bendito–ele
+-- c14-v22: Porventura–não se–desviam os–que–tramam mal e–bondade e–verdade os–que–tramam bem
+-- c14-v23: Em–todo trabalho haverá lucro e–palavra–de lábios somente para–falta
+-- c14-v24: Coroa–de sábios riqueza–deles insensatez–de tolos insensatez
+-- c14-v25: Livrador–de almas testemunha–de verdade e–quem–respira mentiras engano
+-- c14-v26: No–temor–de YHWH confiança–de força e–para–filhos–dele haverá refúgio
+-- c14-v27: Temor–de YHWH fonte–de vida para–desviar de–laços–de morte
+-- c14-v28: Na–multidão–de povo glória–de rei e–na–falta–de nação ruína–de príncipe
+-- c14-v29: Longo–de narinas grande–de entendimento e–curto–de espírito exalta insensatez
+-- c14-v30: Vida–de carnes coração que–cura e–podrído–de ossos inveja
+-- c14-v31: Quem–oprime pobre afronta Criador–dele e–quem–o–honra se–compadece–de necessitado
+-- c14-v32: Na–maldade–dele é–derrubado ímpio e–refugia–se na–morte–dele justo
+-- c14-v33: Em–coração–de entendido descansa sabedoria e–no–meio–de tolos é–conhecida
+-- c14-v34: Justiça exalta nação e–bondade–de nações pecado
+-- c14-v35: Favor–de rei para–servo prudente e–ira–dele será para–o–que–envergonha
+-- c15-v1: Resposta– branda desvia ira e–palavra– dolorosa levanta– fúria
+-- c15-v2: Língua–de sábios torna–boa conhecimento e–boca–de tolos jorra loucura
+-- c15-v3: Em–todo– lugar olhos–de YHWH vigiando maus e–bons
+-- c15-v4: Cura–de língua árvore–de vida e–perversidade nela quebrantamento em–espírito
+-- c15-v5: Tolo despreza disciplina–de seu–pai e–o–que–guarda repreensão age–prudentemente
+-- c15-v6: Casa–de justo tesouro grande e–na–renda–de ímpio perturbação
+-- c15-v7: Lábios–de sábios espalham conhecimento e–coração–de tolos não– assim
+-- c15-v8: Sacrifício–de ímpios abominação–de YHWH e–oração–de retos seu–prazer
+-- c15-v9: Abominação–de YHWH caminho–de ímpio e–o–que–persegue justiça Ele–ama
+-- c15-v10: Disciplina severa para–o–que–abandona caminho o–que–odeia repreensão morrerá
+-- c15-v11: Sheol e–Abaddon diante–de YHWH quanto–mais certamente– corações–de filhos–de homem
+-- c15-v12: Não ama– zombador repreender a–ele a– sábios não irá
+-- c15-v13: Coração alegre faz–bom rosto e–em–tristeza–de– coração espírito abatido
+-- c15-v14: Coração entendido busca– conhecimento [e–face–de] (e–boca–de) tolos se–alimenta–de loucura
+-- c15-v15: Todos– dias–de aflito maus e–bom– coração banquete contínuo
+-- c15-v16: Melhor– pouco com–temor–de YHWH do–que–tesouro grande e–confusão nele
+-- c15-v17: Melhor porção–de verduras e–amor– ali do–que–boi cevado e–ódio– nele
+-- c15-v18: Homem–de ira provoca contenda e–lento–de ira aquieta disputa
+-- c15-v19: Caminho–de preguiçoso como–cerca–de espinhos e–senda–de retos pavimentada
+-- c15-v20: Filho sábio alegra– pai e–tolo homem desprezando sua–mãe
+-- c15-v21: Loucura alegria para–o–carente–de– coração e–homem–de entendimento endireita– caminhada
+-- c15-v22: Frustrados planos por–falta–de conselho e–na–multidão–de conselheiros se–estabelece
+-- c15-v23: Alegria para–o–homem em–resposta–de– sua–boca e–palavra em–seu–tempo quão– boa
+-- c15-v24: Caminho–de vida para–cima para–o–prudente para–que se–desvie de–Sheol abaixo
+-- c15-v25: Casa–de soberbos arranca YHWH e–estabelece limite–de viúva
+-- c15-v26: Abominação–de YHWH pensamentos–de mal e–puros palavras–de– agradabilidade
+-- c15-v27: Perturba sua–casa o–ganancioso–de ganância e–o–que–odeia presentes viverá
+-- c15-v28: Coração–de justo medita para–responder e–boca–de ímpios jorra males
+-- c15-v29: Longe YHWH de–ímpios e–oração–de justos Ele–ouve
+-- c15-v30: Luz–de– olhos alegra– coração notícia boa engorda– osso
+-- c15-v31: Ouvido que–ouve repreensão–de vida no–meio–de sábios habitará
+-- c15-v32: O–que–ignora disciplina rejeita sua–alma e–o–que–ouve repreensão adquire coração
+-- c15-v33: Temor–de YHWH disciplina–de sabedoria e–antes–de honra humildade
+-- c16-v1: Para–homem arranjos–de– coração e–de–YHWH resposta–de língua
+-- c16-v2: Todos– caminhos–de– homem puros em–seus–olhos e–examina espíritos YHWH
+-- c16-v3: Entrega a– YHWH tuas–obras e–serão–estabelecidos teus–pensamentos
+-- c16-v4: Tudo fez YHWH para–seu–propósito e–também– ímpio para–dia–de mal
+-- c16-v5: Abominação–de YHWH todo– orgulhoso–de– coração mão a–mão não será–inocente
+-- c16-v6: Por–misericórdia e–verdade expiará iniquidade e–pelo–temor–de YHWH desviar de–mal
+-- c16-v7: Quando–se–agrada YHWH caminhos–de– homem também– seus–inimigos faz–paz com–ele
+-- c16-v8: Melhor– pouco com–justiça do–que–multidão–de rendas sem– justiça
+-- c16-v9: Coração–de homem planeja seu–caminho e–YHWH dirige seus–passos
+-- c16-v10: Oráculo sobre– lábios–de– rei em–juízo não erra– sua–boca
+-- c16-v11: Balança e–escalas–de justiça de–YHWH sua–obra todas– pedras–de– bolsa
+-- c16-v12: Abominação–de reis praticar maldade pois por–justiça se–estabelece trono
+-- c16-v13: Prazer–de reis lábios–de– justiça e–o–que–fala retidão ele–ama
+-- c16-v14: Ira–de– rei mensageiros–de– morte e–homem sábio a–apazigua
+-- c16-v15: Na–luz–de– face–de– rei vida e–seu–favor como–nuvem–de chuva–tardia
+-- c16-v16: Adquirir– sabedoria quão– bom do–que–ouro e–adquirir entendimento preferível a–prata
+-- c16-v17: Caminho–de retos desviar de–mal o–que–guarda sua–alma guarda seu–caminho
+-- c16-v18: Antes–de– quebrantamento soberba e–antes–de tropeço altívez–de espírito
+-- c16-v19: Melhor humilde–de– espírito com– [pobres] (humildes) do–que–repartir despojo com– soberbos
+-- c16-v20: O–que–atende a– palavra achará– bem e–o–que–confia em–YHWH bem–aventurado
+-- c16-v21: O–de–sábio– coração será–chamado prudente e–doçura–de lábios aumenta ensino
+-- c16-v22: Fonte–de vida entendimento para–seus–possuidores e–disciplina–de tolos loucura
+-- c16-v23: Coração–de sábio instrui sua–boca e–sobre– seus–lábios acrescenta ensino
+-- c16-v24: Favo–de– mel palavras–de– agradabilidade doce para–a–alma e–cura para–o–osso
+-- c16-v25: Há caminho reto diante–de– homem e–seu–fim caminhos–de– morte
+-- c16-v26: Alma–de trabalhador trabalha para–ele pois– sua–boca–o–impele sobre–ele sua–boca
+-- c16-v27: Homem–de belial cava mal e–sobre– [seus–lábios] (seu–lábio) como–fogo ardente
+-- c16-v28: Homem–de perversidades semeia contenda e–murmurador separa íntimo
+-- c16-v29: Homem–de violência seduz seu–vizinho e–o–conduz em–caminho não– bom
+-- c16-v30: O–que–fecha seus–olhos para–planejar perversidades o–que–comprime seus–lábios completa mal
+-- c16-v31: Coroa–de beleza cabelos–grisalhos em–caminho–de justiça será–encontrada
+-- c16-v32: Melhor lento–de ira do–que–guerreiro e–o–que–domina seu–espírito do–que–o–que–conquista cidade
+-- c16-v33: No–regaço é–lançada (a) a–sorte e–de–YHWH toda– sua–decisão
+-- c17-v1: Melhor pedaço–de– pão–seco e–paz– nele do–que–casa cheia–de sacrifícios–de– contenda
+-- c17-v2: Servo– prudente governará sobre–filho vergonhoso e–no–meio–de irmãos repartirá herança
+-- c17-v3: Cadinho para–a–prata e–fornalha para–o–ouro e–o–que–prova corações YHWH
+-- c17-v4: Malfazejo dá–atenção a– lábio–de– iniquidade mentiroso dá–ouvidos a– língua–de destruição
+-- c17-v5: O–que–zomba do–pobre afronta seu–Criador o–que–se–alegra de–calamidade não será–inocente
+-- c17-v6: Coroa–de anciãos filhos–de filhos e–glória–de filhos seus–pais
+-- c17-v7: Não– convém a–tolo lábio–de– excelência quanto–mais certamente– a–nobre lábio–de– falsidade
+-- c17-v8: Pedra–de– graça o–suborno aos–olhos–de seu–possuidor a– todo– onde se–voltar prosperará
+-- c17-v9: O–que–encobre– transgressão busca amor e–o–que–repete em–assunto separa íntimo
+-- c17-v10: Penetra repreensão no–entendido mais–do–que–golpear tolo cem–vezes
+-- c17-v11: Só– rebelião busca– mal e–mensageiro cruel será–enviado– contra–ele
+-- c17-v12: Encontrar ursa roubada–de–filhotes um–homem e–não– tolo em–sua–loucura
+-- c17-v13: O–que–retribui mal em–lugar–de bem não– [se–moverá] (se–apartará) mal de–sua–casa
+-- c17-v14: O–que–libera águas início–de contenda e–antes–de irromper a–disputa abandona
+-- c17-v15: O–que–justifica ímpio e–o–que–condena justo abominação–de YHWH também– ambos
+-- c17-v16: Por–que– isto preço na–mão–de– tolo para–comprar sabedoria e–coração– não–há
+-- c17-v17: Em–todo– tempo ama o–amigo e–irmão para–adversidade nasce
+-- c17-v18: Homem carente–de– coração dá mão sendo–fiador–de fiadores diante–de seu–vizinho
+-- c17-v19: O–que–ama transgressão ama contenda o–que–eleva sua–porta busca– destruição
+-- c17-v20: Perverso–de– coração não achará– bem e–o–que–vira em–sua–língua cairá em–mal
+-- c17-v21: O–que–gera tolo para–tristeza para–ele e–não– se–alegrará pai–de insensato
+-- c17-v22: Coração alegre faz–bem remédio e–espírito abatido seca– osso
+-- c17-v23: Suborno do–seio ímpio toma para–perverter caminhos–de justiça
+-- c17-v24: (a) face–de entendido sabedoria e–olhos–de tolo nos–confins–de– terra
+-- c17-v25: Provocação para–seu–pai filho tolo e–amargura para–a–que–o–gerou
+-- c17-v26: Também punir ao–justo não– bom golpear nobres por– retidão
+-- c17-v27: O–que–refreia suas–palavras conhece conhecimento [e–frio–de] (e–precioso–de) espírito homem–de entendimento
+-- c17-v28: Também tolo o–que–se–cala sábio será–considerado o–que–fecha seus–lábios prudente
+-- c18-v1: Para–desejo busca o–isolado contra–toda– sabedoria–prática ele–irrompe
+-- c18-v2: Não– se–deleita tolo em–entendimento mas se– em–revelar seu–coração
+-- c18-v3: Quando–vem– ímpio vem também– desprezo e–com– vergonha reprovação
+-- c18-v4: Águas profundas palavras–de boca–de– homem ribeiro transbordante fonte–de sabedoria
+-- c18-v5: Levantar face–de– ímpio não– bom para–perverter justo no–julgamento
+-- c18-v6: Lábios–de tolo entram em–contenda e–sua–boca a–golpes chama
+-- c18-v7: Boca–de– tolo destruição– para–ele e–seus–lábios cilada para–sua–alma
+-- c18-v8: Palavras–de murmurador como–guloseimas e–elas descem câmaras–de– ventre
+-- c18-v9: Também o–que–relaxa em–seu–trabalho irmão ele do–senhor–de destruição
+-- c18-v10: Torre–de– força nome–de YHWH para–ela– corre justo e–é–posto–em–alto
+-- c18-v11: Riqueza–de rico cidade–de sua–força e–como–muro elevado em–sua–imaginação
+-- c18-v12: Antes–de– quebrantamento se–exalta coração–de– homem e–antes–de honra humildade
+-- c18-v13: O–que–responde palavra antes–de ouvir loucura ela–é– para–ele e–vergonha
+-- c18-v14: Espírito–de– homem sustenta sua–enfermidade e–espírito abatido quem o–suportará
+-- c18-v15: Coração–de entendido adquire– conhecimento e–ouvido–de sábios busca– conhecimento
+-- c18-v16: Presente–de homem alarga para–ele e–diante–de grandes o–conduz
+-- c18-v17: Justo o–primeiro em–sua–causa [virá–] (e–virá–) seu–vizinho e–o–examinará
+-- c18-v18: Contendas faz–cessar a–sorte e–entre poderosos separa
+-- c18-v19: Irmão ofendido mais–que–cidade–de– força [e–contendas] (e–contendas) como–tranca–de palácio
+-- c18-v20: De–fruto–de boca–de– homem se–farta seu–ventre produção–de seus–lábios se–satisfará
+-- c18-v21: Morte e–vida na–mão–de– língua e–os–que–a–amam comerão seu–fruto
+-- c18-v22: O–que–achou esposa achou bem e–obtém favor de–YHWH
+-- c18-v23: Súplicas fala– pobre e–rico responde duramente
+-- c18-v24: Homem–de amigos para–ser–destruido e–há amigo apegado mais–que–irmão
+-- c19-v1: Melhor– pobre andando em–sua–integridade do–que–perverso–de seus–lábios e–ele tolo
+-- c19-v2: Também sem– conhecimento alma não– bom e–o–que–apressa com–pés erra
+-- c19-v3: Loucura–de homem perverte seu–caminho e–contra– YHWH se–enfurece seu–coração
+-- c19-v4: Riqueza acrescenta amigos muitos e–pobre de–seu–amigo se–separa
+-- c19-v5: Testemunha–de mentiras não será–inocente e–o–que–sopra falsidades não escapará
+-- c19-v6: Muitos cortejam face–de– nobre e–todo– o–amigo do–homem–de presente
+-- c19-v7: Todos– irmãos–de– pobre o–odeiam quanto–mais certamente seus–amigos se–afastam dele o–que–persegue palavras [não–] (dele–) elas
+-- c19-v8: O–que–adquire– coração ama sua–alma o–que–guarda entendimento para–achar– bem
+-- c19-v9: Testemunha–de mentiras não será–inocente e–o–que–sopra falsidades perecerá ¶
+-- c19-v10: Não– convém a–tolo luxo quanto–mais certamente– a–servo governar sobre–príncipes
+-- c19-v11: Prudência–de homem prolonga sua–ira e–sua–glória passar–por–cima–de sobre– transgressão
+-- c19-v12: Rugido como–leão–jovem ira–de rei e–como–orvalho sobre– erva seu–favor
+-- c19-v13: Destruição para–seu–pai filho tolo e–goteira contínua contendas–de mulher
+-- c19-v14: Casa e–riqueza herança–de pais e–de–YHWH mulher prudente
+-- c19-v15: Preguiça lança sono–profundo e–alma de–enganosa passará–fome
+-- c19-v16: O–que–guarda mandamento guarda sua–alma o–que–despreza seus–caminhos [morrerá] (morrerá)
+-- c19-v17: O–que–empresta–a YHWH o–que–dá–graça–ao pobre e–sua–recompensa lhe–pagará– a–ele
+-- c19-v18: Disciplina teu–filho pois– há esperança e–a– matá–lo não– levantes tua–alma
+-- c19-v19: [Grande–de] (grande–de) ira carregando castigo pois se– livrares e–ainda acrescentarás
+-- c19-v20: Ouve conselho e–recebe disciplina para–que sejas–sábio em–teu–fim
+-- c19-v21: Muitos planos em–coração–de– homem e–conselho–de YHWH ele se–estabelecerá
+-- c19-v22: Desejo–de homem sua–benevolencia e–melhor– pobre do–que–homem mentiroso
+-- c19-v23: Temor–de YHWH para–vida e–satisfeito passará–a–noite sem– ser–visitado mal
+-- c19-v24: Escondeu preguiçoso sua–mão no–prato também– a– sua–boca não a–trará
+-- c19-v25: Zombador golpeia e–simples ficará–prudente e–repreender ao–entendido ele–entenderá conhecimento
+-- c19-v26: O–que–arruina– pai faz–fugir mãe filho envergonhando e–humilhando
+-- c19-v27: Cessa– meu–filho de–ouvir disciplina para–errar de–palavras–de– conhecimento
+-- c19-v28: Testemunha–de belial zomba–de justiça e–boca–de ímpios engole– iniquidade
+-- c19-v29: Preparados para–zombadores julgamentos e–golpes para–costas–de tolos
+-- c20-v1: Zombador o–vinho barulhento bebida–forte e–todo– o–que–erra por–ele não será–sábio
+-- c20-v2: Rugido como–leão–jovem terror–de rei o–que–o–provoca peca contra–sua–alma
+-- c20-v3: Honra para–o–homem cessar de–contenda e–todo– tolo irrompe
+-- c20-v4: Por–causa–do–frio preguiçoso não– arará [e–pedirá] (e–pedirá) na–ceifa e–não–há
+-- c20-v5: Águas profundas conselho em–coração–de– homem e–homem–de entendimento o–tirará
+-- c20-v6: Maioria–de– homem proclamará cada–um sua–bondade e–homem–de fidelidade quem achará
+-- c20-v7: O–que–anda em–sua–integridade justo bem–aventurados seus–filhos depois–dele
+-- c20-v8: Rei assentado sobre– trono–de– julgamento dispersa com–seus–olhos todo– mal
+-- c20-v9: Quem– dirá purifiquei meu–coração fui–purificado de–meu–pecado
+-- c20-v10: Pedra e–pedra efa e–efa abominação–de YHWH também– ambos
+-- c20-v11: Também em–suas–ações se–dá–a–conhecer– rapaz se– puro e–se– reto sua–obra
+-- c20-v12: Ouvido que–ouve e–olho que–vê YHWH fez também– ambos
+-- c20-v13: Não– ames sono para–que–não– empobreças abre teus–olhos saciado–de– pão
+-- c20-v14: Mau mau diz o–comprador e–vai–embora para–ele então se–gloriará
+-- c20-v15: Há ouro e–abundância–de– pérolas e–vaso–de precioso lábios–de– conhecimento
+-- c20-v16: Toma– sua–roupa pois– ficou–fiador–de estranho e–em–favor–de [estranhos] (estrangeira) o–penhor
+-- c20-v17: Doce para–o–homem pão–de falsidade e–depois se–encherá– sua–boca cascalho
+-- c20-v18: Planos por–conselho se–estabelecem e–com–estratégias faze guerra
+-- c20-v19: O–que–revela– segredo andando como–difamador e–com–o–que–abre seus–lábios não te–mistures
+-- c20-v20: O–que–amaldiçoa seu–pai e–sua–mãe será–apagada sua–lâmpada [em–menina] (em–escuridão–de) trevas
+-- c20-v21: Herança [apressada] (adquirida–rapidamente) no–começo e–seu–fim não será–abençoada
+-- c20-v22: Não– digas retribuirei– mal espera por–YHWH e–Ele–salvará a–ti
+-- c20-v23: Abominação–de YHWH pedra e–pedra e–balanças–de engano não– bom
+-- c20-v24: De–YHWH passos–de– homem e–homem que– entenderá seu–caminho
+-- c20-v25: Cilada de–homem apressar–se–a–dizer santo e–depois–de votos inquirir
+-- c20-v26: Dispersa ímpios rei sábio e–faz–voltar sobre–eles roda
+-- c20-v27: Lâmpada–de YHWH fôlego–de homem examinando todas– câmaras–de– ventre
+-- c20-v28: Misericórdia e–verdade guardam– rei e–sustenta por–misericórdia seu–trono
+-- c20-v29: Glória–de jovens sua–força e–esplendor–de anciãos cabelos–grisalhos
+-- c20-v30: Vergastadas–de ferida [limpam] (limpeza) em–mal e–golpes câmaras–de– ventre
+-- c21-v1: Canais–de– águas coração–de– rei na–mão–de– YHWH a– todo– onde Ele–quiser o–inclina
+-- c21-v2: Todo– caminho–de– homem reto em–seus–olhos e–examina corações YHWH
+-- c21-v3: Praticar justiça e–juízo preferível a–YHWH do–que–sacrifício
+-- c21-v4: Altívez–de– olhos e–orgulho–de– coração lâmpada–de ímpios pecado
+-- c21-v5: Planos–de diligente somente– para–abundância e–todo– o–que–se–apressa somente– para–carência
+-- c21-v6: O–que–trabalha–por tesouros com–língua–de mentira vaidade dispersa os–que–buscam– morte
+-- c21-v7: Violência–de– ímpios os–arrasta pois recusam praticar justiça
+-- c21-v8: Tortuoso caminho–de homem e–estranho e–puro reto sua–obra
+-- c21-v9: Melhor habitar sobre– canto–de– telhado do–que–mulher–de contendas e–casa–de companhia
+-- c21-v10: Alma–de ímpio deseja– mal não– achará–favor em–seus–olhos seu–vizinho
+-- c21-v11: Ao–punir– zombador se–torna–sábio– simples e–ao–instruir ao–sábio ele–receberá– conhecimento
+-- c21-v12: Considera justo para–casa–de ímpio o–que–subverte ímpios para–mal
+-- c21-v13: O–que–fecha seu–ouvido do–clamor–de– pobre também– ele clamará e–não será–respondido
+-- c21-v14: Presente em–segredo abate– ira e–suborno no–seio fúria forte
+-- c21-v15: Alegria para–o–justo praticar justiça e–destruição para–os–que–praticam iniquidade
+-- c21-v16: Homem que–vagueia de–caminho–de prudência na–assembléia–de mortos descansará
+-- c21-v17: Homem–de escassez o–que–ama alegria o–que–ama vinho– e–óleo não enriquecerá
+-- c21-v18: Resgate para–o–justo ímpio e–em–lugar–de retos traidor
+-- c21-v19: Melhor habitar em–terra–de– deserto do–que–mulher–de [contendas] (contendas) e–provocação
+-- c21-v20: Tesouro desejável e–óleo na–morada–de sábio e–tolo homem o–engole
+-- c21-v21: O–que–persegue justiça e–misericórdia achará vida justiça e–honra
+-- c21-v22: Cidade–de valentes subiu sábio e–derrubou força–de sua–confiança
+-- c21-v23: O–que–guarda sua–boca e–sua–língua guarda de–angústias sua–alma
+-- c21-v24: Soberbo presunçoso zombador seu–nome age em–excesso–de presunção
+-- c21-v25: Desejo–de preguiçoso o–matará pois– recusam suas–mãos de–trabalhar
+-- c21-v26: Todo– o–dia desejando desejo e–justo dá e–não retém
+-- c21-v27: Sacrifício–de ímpios abominação quanto–mais certamente– com–má–intenção ele–o–traz
+-- c21-v28: Testemunha–de– mentiras perecerá e–homem que–ouve para–sempre falará
+-- c21-v29: Endurece homem ímpio sua–face e–reto ele [estabelece] (entende) [seus–caminhos] (seu–caminho)
+-- c21-v30: Não–há sabedoria e–não–há entendimento e–não–há conselho contra YHWH ¶
+-- c21-v31: Cavalo preparado para–dia–de batalha e–de–YHWH a–vitória
+-- c22-v1: É–escolhido nome mais–que–riqueza muita mais–que–prata e–mais–que–ouro favor bom
+-- c22-v2: Rico e–pobre encontram–se fazedor–de todos–eles Yahweh
+-- c22-v3: Astuto vê mal [e–se–esconde] e–se–esconde e–simples passam e–são–punidos
+-- c22-v4: Recompensa–de humildade temor–de Yahweh riqueza e–honra e–vida
+-- c22-v5: Espinhos armadilhas no–caminho–de perverso guardador–de alma–sua afasta–se deles
+-- c22-v6: Instrui ao–jovem conforme– boca–de caminho–seu também quando– envelhecer não– desviará dela
+-- c22-v7: Rico sobre–pobres governa e–servo que–toma–emprestado para–homem que–empresta
+-- c22-v8: Semeador–de injustiça [ceifará–] ceifará– iniquidade e–vara–de fúria–sua cessará
+-- c22-v9: Bom– olho ele será–abençoado porque– deu de–pão–seu ao–pobre
+-- c22-v10: Expulsa escarnecedor e–sairá contenda e–cessará litígio e–desonra
+-- c22-v11: Amador–de [puro–] puro– coração graça–de lábios–seus amigo–seu rei
+-- c22-v12: Olhos–de Yahweh guardam conhecimento e–transtorna palavras–de traidor
+-- c22-v13: Diz preguiçoso leão lá–fora no–meio–de praças serei–morto
+-- c22-v14: Cova profunda boca–de estranhas abominável–a Yahweh [cairá–] cairá– ali
+-- c22-v15: Insensatez está–ligada no–coração–de jovem vara–de disciplina afasta–ela dele
+-- c22-v16: Opressor–de pobre para–aumentar para–si dador ao–rico somente– para–carência
+-- c22-v17: Inclina ouvido–teu e–ouve palavras–de sábios e–coração–teu aplica ao–conhecimento–meu
+-- c22-v18: Porque– agradável quando– os–guardares em–ventre–teu estarão–firmes juntos sobre– lábios–teus
+-- c22-v19: Para–ser em–Yahweh confiança–tua fiz–te–conhecer o–dia também– tu
+-- c22-v20: Acaso–não escrevi para–ti [trinta] trinta em–conselhos e–conhecimento
+-- c22-v21: Para–fazer–te–conhecer certeza–de palavras–de verdade para–responder palavras verdade aos–que–te–enviam §
+-- c22-v22: Não– roubes– pobre porque pobre– ele e–não– esmagues aflito na–porta
+-- c22-v23: Porque– Yahweh contenderá causa–deles e–roubará (a) roubadores–deles alma
+-- c22-v24: Não– te–associes com– senhor–de ira e–com– homem–de furores não virás
+-- c22-v25: Para–que–não– aprendas [caminhos–seus] caminhos–seus e–tomes laço para–alma–tua
+-- c22-v26: Não– sejas entre–os–que–batem– palma entre–os–que–são–fiadores–de dívidas
+-- c22-v27: Se– não–há– para–ti para–pagar por–que tomará cama–tua de–debaixo–de–ti
+-- c22-v28: Não– mudes limite antigo que fizeram pais–teus
+-- c22-v29: Viste homem hábil em–trabalho–seu diante–de– reis se–apresentará não– se–apresentará diante–de obscuros §
+-- c23-v1: Quando– sentares para–comer com– governante entender entende (a) aquilo–que diante–de–ti
+-- c23-v2: E–porás faca em–garganta–tua se– senhor–de apetite tu
+-- c23-v3: Não– desejes iguarias–suas e–ele pão–de mentiras
+-- c23-v4: Não– te–canses para–enriquecer de–entendimento–teu cessa
+-- c23-v5: [Voarão] Farás–voar olhos–teus nele e–não–está porque certamente–fará fará– para–si asas como–águia [e–voa] voará aos–céus §
+-- c23-v6: Não– comas (a) pão–de mau– olho e–não– [desejes] desejes iguarias–suas
+-- c23-v7: Porque como– calcula em–alma–sua assim– ele come e–bebe diz para–ti e–coração–seu não– contigo
+-- c23-v8: Bocaço–teu– comeste vomitarás e–perderás palavras–tuas as–agradáveis
+-- c23-v9: Em–ouvidos–de insensato não– fales porque– desprezará a–prudência–de palavras–tuas
+-- c23-v10: Não– mudes limite antigo e–em–campos–de órfãos não– entres
+-- c23-v11: Porque– redentor–deles forte ele– contenderá (a) causa–deles contigo
+-- c23-v12: Traz à–disciplina coração–teu e–ouvidos–teus a–palavras–de– conhecimento
+-- c23-v13: Não– retenhas do–jovem disciplina porque– o–baterás com–a–vara não morrerá
+-- c23-v14: Tu com–a–vara o–baterás e–alma–sua do–Sheol livrarás
+-- c23-v15: Filho–meu se– sábio coração–teu alegrar–se–á coração–meu também– eu
+-- c23-v16: E–exultarão rins–meus quando–falar lábios–teus retidão
+-- c23-v17: Não– inveje coração–teu os–pecadores mas sim– em–temor–de– Yahweh todo– o–dia
+-- c23-v18: Porque certamente– há futuro e–esperança–tua não será–cortada
+-- c23-v19: Ouve– tu filho–meu e–sê–sábio e–guia no–caminho coração–teu
+-- c23-v20: Não– estejas entre–bebedores–de– vinho entre–glutões–de carne para–si
+-- c23-v21: Porque– bebedão e–glutão empobrecerão e–trapos vestirá sonolência
+-- c23-v22: Ouve a–pai–teu este te–gerou e–não– desprezes quando– envelhecer mãe–tua
+-- c23-v23: Verdade compra e–não– vendas sabedoria e–disciplina e–entendimento
+-- c23-v24: [Alegrar] alegrar [alegrar–se–á] alegrar–se–á pai–de justo [e–gerador–de] e–gerador–de sábio [e–se–alegrará–] se–alegrará– nele
+-- c23-v25: Alegrar–se–á– pai–teu e–mãe–tua e–exultará a–que–te–gerou
+-- c23-v26: Dá– filho–meu coração–teu a–mim e–olhos–teus caminhos–meus [observem] observem
+-- c23-v27: Porque– cova profunda prostituta e–poço estreito estrangeira
+-- c23-v28: Também– ela como–ladrão embosca e–traidores entre–homem acrescenta
+-- c23-v29: Para–quem ai para–quem lamento para–quem [contendas] contendas para–quem queixa para–quem feridas sem–motivo para–quem vermelhidão–de olhos
+-- c23-v30: Para–os–que–demoram sobre– o–vinho para–os–que–vêm para–investigar mistura
+-- c23-v31: Não– olhes vinho quando se–avermelha quando– dá [no–cálice] no–cálice cor–sua anda em–retidão
+-- c23-v32: Fim–seu como–serpente morderá e–como–víbora pica
+-- c23-v33: Olhos–teus verão estranhas e–coração–teu falará perversidades
+-- c23-v34: E–serás como–o–que–jaz no–coração–de– mar e–como–o–que–jaz no–topo–de mastro
+-- c23-v35: Feriram–me não– fiquei–doente bateram–me não– soube quando acordarei continuarei o–buscarei ainda
+-- c24-v1: Não– tenhas–invégia de–homens–de maldade e–não– [desejes] desejes estar com–eles
+-- c24-v2: Porque– violência medita coração–deles e–malícia lábios–deles falam
+-- c24-v3: Com–sabedoria é–construída casa e–com–entendimento é–estabelecida
+-- c24-v4: E–com–conhecimento câmaras são–enchidas toda– riqueza preciosa e–agradável
+-- c24-v5: Homem– sábio em–força e–homem–de– conhecimento fortalece– poder
+-- c24-v6: Porque com–estratégias farás– para–ti guerra e–vitória com–multidão–de conselheiros
+-- c24-v7: Altas para–o–insensato sabedorias na–porta não abrirá– boca–sua
+-- c24-v8: Planejador–de fazer–mal a–ele senhor–de– maquinções chamarão
+-- c24-v9: Plano–de insensatez pecado e–abominação para–o–homem escarnecedor
+-- c24-v10: Desanimaste no–dia–de angústia estreita força–tua
+-- c24-v11: Livra os–que–são–levados para–a–morte e–os–que–vacilam para–a–matapança se– retiveres
+-- c24-v12: Se– disseres eis não– soubémos isto acaso–não– pesador–de corações ele– entende e–guardador–de alma–tua ele sabe e–retribuirá ao–homem conforme–obra–sua
+-- c24-v13: Come– filho–meu mel porque– bom e–favo doce sobre– paladar–teu
+-- c24-v14: Assim conhece sabedoria para–alma–tua se– achares e–há futuro e–esperança–tua não será–cortada §
+-- c24-v15: Não– embosques ó–ímpio contra–habitação–de justo não– destruás lugar–de–repouso–seu
+-- c24-v16: Porque sete cairá justo e–se–levantará e–ímpios tropeçarão em–mal
+-- c24-v17: Na–queda–de [inimigos–teus] inimigo–teu não– te–alegres e–no–tropeçar–seu não– exulte coração–teu
+-- c24-v18: Para–que–não– veja Yahweh e–mal em–olhos–seus e–desvie de–sobre–ele ira–sua
+-- c24-v19: Não– te–irrites com–os–malfeitores não– tenhas–invégia dos–ímpios
+-- c24-v20: Porque não– haverá futuro para–o–mal lâmpada–de ímpios apagar–se–á
+-- c24-v21: Teme– (a) Yahweh filho–meu e–rei com– os–que–mudam não– te–mistures
+-- c24-v22: Porque– de–repente levantar–se–á calamidade–deles e–ruína–de ambos–eles quem sabe §
+-- c24-v23: Também– estas para–os–sábios reconhecer– rostos em–julgamento não– bom
+-- c24-v24: Dizedor– ao–ímpio justo tu amaldiçoarão–o povos abominarão–o nações
+-- c24-v25: E–para–os–que–repreendem será–agradável e–sobre–eles virá bênção–de– bem
+-- c24-v26: Lábios beija o–que–responde palavras retas
+-- c24-v27: Prepara lá–fora trabalho–teu e–aprontas–a no–campo para–ti depois e–construirás casa–tua §
+-- c24-v28: Não– sejas testemunha– de–graça contra–próximo–teu e–enganarás com–lábios–teus
+-- c24-v29: Não– digas como fez– a–mim assim farei– a–ele retribuirei ao–homem conforme–obra–sua
+-- c24-v30: Sobre– campo–de homem– preguiçoso passei e–sobre– vinha–de homem falto–de– entendimento
+-- c24-v31: E–eis subiu todo–ele espinhos cobriram face–sua urtigas e–muro–de pedras–seu foi–destruído
+-- c24-v32: E–vi eu pus coração–meu vi recebi disciplina
+-- c24-v33: Um–pouco–de sonos um–pouco–de cochilos um–pouco–de cruzar–de mãos para–deitar
+-- c24-v34: E–virá– andando pobreza–tua e–carências–tuas como–homem armado §
+-- c25-v1: Também– estes provérbios–de Shelomoh que copiaram homens–de Chizqiyyahu rei–de– Yehudah
+-- c25-v2: Glória–de Elohim ocultar assunto e–glória–de reis investigar assunto
+-- c25-v3: Céus para–altura e–terra para–profundidade e–coração–de reis não–há investigação
+-- c25-v4: Remove escórias da–prata e–sairá para–o–ourives vaso
+-- c25-v5: Remove ímpio de–diante–de– rei e–será–estabelecido na–justiça trono–seu
+-- c25-v6: Não– te–glorifiques diante–de– rei e–em–lugar–de grandes não– fiques
+-- c25-v7: Porque melhor dizer– a–ti sobe para–cá do–que–rebaixar–te diante–de nobre que viram olhos–teus
+-- c25-v8: Não– saias para–contenda depressa para–que–não quê– farás no–fim–seu quando–envergonhar (a)–ti próximo–teu
+-- c25-v9: Causa–tua contende com– próximo–teu e–segredo–de outro não– reveles
+-- c25-v10: Para–que–não– te–envergonhe o–que–ouve e–difamação–tua não volte
+-- c25-v11: Maçãs–de ouro em–engastes–de prata palavra falada sobre– rodas–suas
+-- c25-v12: Anel–de ouro e–ornamento–de– ouro–fino repreendedor sábio sobre– orelha que–ouve
+-- c25-v13: Como–frescor–de– neve em–dia–de colheita mensageiro fiel para–os–que–o–enviam e–alma–de senhores–seus restaura §
+-- c25-v14: Nuvens e–vento e–chuva não–há homem que–se–vangloria em–dádiva–de– falsidade
+-- c25-v15: Com–longanimidade–de narinas será–persuadido governador e–língua suave quebrará– osso
+-- c25-v16: Mel achaste come suficiente–para–ti para–que–não– te–fartes–dele e–o–vomites
+-- c25-v17: Torna–raro pé–teu de–casa–de próximo–teu para–que–não– se–farte–de–ti e–te–odeie
+-- c25-v18: Maça e–espada e–flecha afiada homem que–responde contra–próximo–seu testemunha–de falsidade
+-- c25-v19: Dente quebrado e–pé deslocado confiança em–traidor em–dia–de angústia
+-- c25-v20: Despidor–de veste em–dia–de frio vinagre sobre– niter e–cantor–de com–canções sobre coração– triste §
+-- c25-v21: Se– faminto odiador–teu alimenta–o pão e–se– sedento dá–de–beber–lhe água
+-- c25-v22: Porque brasas tu amontoando sobre– cabeça–sua e–Yahweh retribuirá– a–ti
+-- c25-v23: Vento–de norte produz chuva e–rosto irado língua–de secreto
+-- c25-v24: Melhor habitar sobre– canto–de– telhado do–que–mulher–de [contendas] contendas e–casa–de companhia
+-- c25-v25: Águas frias sobre– alma cansada e–notícia boa de–terra distante
+-- c25-v26: Fonte pisada e–manancial corrompido justo que–vacila diante–de– ímpio
+-- c25-v27: Comer mel muito não– bom e–investigar glória–deles glória
+-- c25-v28: Cidade aberta não–há muro homem que não–há domínio para–espírito–seu
+-- c26-v1: Como–neve no–verão e–como–chuva na–colheita assim não– apropriada para–insensato honra
+-- c26-v2: Como–pardal para–vagar como–andorinha para–voar assim maldição–de sem–motivo [não] a–ele virá
+-- c26-v3: Chicote para–o–cavalo freio para–o–jumento e–vara para–costas–de insensatos
+-- c26-v4: Não– respondas insensato conforme–insensatez–sua para–que–não– te–iguale– a–ele também– tu
+-- c26-v5: Responde insensato conforme–insensatez–sua para–que–não– seja sábio em–olhos–seus
+-- c26-v6: Cortador–de pés violência bebedor enviador–de assuntos por–mão–de– insensato
+-- c26-v7: Pendem pernas do–coxo e–provérbio na–boca–de insensatos
+-- c26-v8: Como–atador–de pedra na–funda assim– dador–de a–insensato honra
+-- c26-v9: Espinho subiu na–mão–de– bêbedo e–provérbio na–boca–de insensatos
+-- c26-v10: Grande formador–de– tudo e–contratador–de insensato e–contratador–de passantes
+-- c26-v11: Como–cão que–retorna a– vômito–seu insensato que–repete em–insensatez–sua
+-- c26-v12: Viste homem sábio em–olhos–seus esperança para–insensato mais–do–que–ele
+-- c26-v13: Diz preguiçoso leão no–caminho leão entre as–praças
+-- c26-v14: A–porta gira sobre– gonzos–seus e–preguiçoso sobre– cama–sua
+-- c26-v15: Escondeu preguiçoso mão–sua no–prato cansa–se para–devolvê–la a– boca–sua
+-- c26-v16: Sábio preguiçoso em–olhos–seus mais–do–que–sete respondedores–de bom–senso
+-- c26-v17: Agarrador–de orelhas–de– cão passante que–se–enfurece sobre– contenda não– sua
+-- c26-v18: Como–louco que–atira faíscas flechas e–morte
+-- c26-v19: Assim– homem que–enganou (a) próximo–seu e–diz acaso–não– brincando eu
+-- c26-v20: Sem lenha apagar–se–á– fogo e–sem murmurador silenciará contenda
+-- c26-v21: Carvão para–brasas e–lenha para–fogo e–homem–de [contendas] contendas para–inflamar– contenda §
+-- c26-v22: Palavras–de murmurador como–guloseimas e–elas descem câmaras–de– ventre
+-- c26-v23: Prata–de escórias coberta sobre– vaso–de–barro lábios ardentes e–coração– mau
+-- c26-v24: [Com–lábios–seus] Com–lábios–seus se–disfargança odiador e–no–interior–seu põe engano
+-- c26-v25: Quando– suaviza voz–sua não– acredites– nele porque sete abominações em–coração–seu
+-- c26-v26: Cobrir–se–á ódio com–engano será–revelada maldade–sua em–assembleia
+-- c26-v27: Cavador–de– cova nela cairá e–rolador–de pedra a–ele voltará
+-- c26-v28: Língua–de– falsidade odeia esmagados–seus e–boca lisonjeira fará ruína
+-- c27-v1: Não– te–glories no–dia–de amanhã porque não– sabes quê– dará–à–luz dia
+-- c27-v2: Louvar–te–á estranho e–não– boca–tua estrangeiro e–não– lábios–teus
+-- c27-v3: Peso–de– pedra e–carga–de a–areia e–irritação–de insensato pesada mais–que–ambos–eles
+-- c27-v4: Crueldade–de furia e–inundação–de ira e–quem ficará–de–pé diante–de ciúmes
+-- c27-v5: Melhor repreensão revelada do–que–amor escondido
+-- c27-v6: Fiéis feridas–de amigo e–abundantes beijos–de odiador
+-- c27-v7: Alma satisfeita pisará favo e–alma faminta todo– amargo doce
+-- c27-v8: Como–pássaro que–vagueia do– ninho–seu assim– homem que–vagueia do–lugar–seu
+-- c27-v9: Óleo e–incenso alegram– coração e–doçura–de amigo–seu mais–do–que–conselho–de– alma
+-- c27-v10: Amigo–teu [e–amigo–de] e–amigo–de pai–teu não– abandones e–casa–de irmão–teu não– entres no–dia–de calamidade–tua melhor vizinho perto do–que–irmão longe
+-- c27-v11: Sê–sábio filho–meu e–alegra coração–meu e–responderei ao–que–me–afronta palavra
+-- c27-v12: Astuto vê mal esconde–se simples passam são–punidos
+-- c27-v13: Toma– veste–sua porque– fiou estranho e–por–causa–de estrangeira penhora–o
+-- c27-v14: Abençoador–de próximo–seu com–voz alta de–manhã cedo maldição será–considerada para–ele
+-- c27-v15: Goteira constante em–dia–de chuva–persistente e–mulher–de [contendas] contendas são–iguais
+-- c27-v16: Escondedores–dela escondem– vento e–óleo–de mão–direita–sua encontra
+-- c27-v17: Ferro com–ferro aguapança e–homem aguapança rosto–de– amigo–seu
+-- c27-v18: Guardador–de figueira comerá fruto–seu e–guardador–de senhor–seu será–honrado
+-- c27-v19: Como–as–águas o–rosto para–o–rosto assim coração–de– o–homem para–o–homem
+-- c27-v20: Sheol [e–Abadón] e–Abadón não se–satisfazem e–olhos–de o–homem não se–satisfazem
+-- c27-v21: Crisol para–a–prata e–fornalha para–o–ouro e–homem conforme– louvor–seu
+-- c27-v22: Se esmagares– (a) o–insensato no–pilão no–meio–de o–grão com–o–pilão não– apartar–se–á de–sobre–ele insensatez–sua §
+-- c27-v23: Conhecer conhecerás face–de ovelhas–tuas põe coração–teu aos–rebanhos
+-- c27-v24: Porque não para–sempre tesouro e–se– coroa para–geração [e–geração] e–geração
+-- c27-v25: Desaparece feno e–aparece– relva e–são–colhidas ervas–de montes
+-- c27-v26: Cordeiros para–vestes–tuas e–preço–de campo bodes
+-- c27-v27: E–suficiente–de leite–de cabras para–pão–teu para–pão–de casa–tua e–vida para–servas–tuas
+-- c28-v1: Fogem e–não–há– perseguidor ímpio e–justos como–leão–jovem confia
+-- c28-v2: Na–transgressão–de terra muitos príncipes–seus e–com–homem entendido que–sabe assim durará
+-- c28-v3: Homem pobre e–opressor–de pobres chuva que–varre e–não–há pão
+-- c28-v4: Abandonadores–de lei louvam ímpio e–guardadores–de lei lutam–contra eles §
+-- c28-v5: Homens–de– mal não– entendem justiça e–buscadores–de Yahweh entendem tudo
+-- c28-v6: Melhor– pobre andador–de em–integridade–sua do–que–perverso–de caminhos e–ele rico
+-- c28-v7: Guardador–de lei filho entendido e–companheiro–de glutões envergonha pai–seu
+-- c28-v8: Aumentador–de riqueza–sua com–juros [e–usura] e–usura para–o–que–se–compadece–de pobres ajunta–a
+-- c28-v9: Afastador–de ouvido–seu de–ouvir lei também– oração–sua abominação
+-- c28-v10: Desencaminhador–de retos em–caminho mau em–cova–sua ele– cairá e–íntegros herdarão– bem
+-- c28-v11: Sábio em–olhos–seus homem rico e–pobre entendido o–examinará
+-- c28-v12: Quando–exultam justos grande glória e–quando–se–levantam ímpios é–procurado homem
+-- c28-v13: Encobertador–de transgressões–suas não prosperará e–confessador e–abandonador alcançará–misericórdia
+-- c28-v14: Bem–aventurado–de homem que–teme sempre e–endurecedor–de coração–seu cairá em–mal
+-- c28-v15: Leão– que–ruge e–urso que–ataca governante ímpio sobre povo– pobre
+-- c28-v16: Príncipe falto–de entendimento e–grande–de opressões [odiador–de] odiador–de ganho–injusto prolongará dias §
+-- c28-v17: Homem oprimido–por sangue–de– alma até– cova fugirá não– o–apoiem– nele
+-- c28-v18: Andador–de íntegro será–salvo e–perverso–de caminhos cairá em–um
+-- c28-v19: Trabalhador–de terra–sua fartar–se–á–de– pão e–perseguidor–de vaidades fartar–se–á–de– pobreza
+-- c28-v20: Homem–de fidelidades grande–de– bênçãos e–apressado para–enriquecer não será–inocentado
+-- c28-v21: Reconhecer– rostos não– bom e–por– pedaço–de– pão transgredirá– homem
+-- c28-v22: Apressando–se para–riqueza homem mau–de olho e–não– sabe que– carência virá–sobre–ele
+-- c28-v23: Repreendedor–de homem depois favor achará mais–do–que–lisonjeador–de língua
+-- c28-v24: Roubador–de pai–seu e–mãe–sua e–dizedor não–há– transgressão companheiro ele para–homem destruidor
+-- c28-v25: Largo–de– alma levantará contenda e–confiador–de sobre– Yahweh será–feito–gordo
+-- c28-v26: Confiador–de em–coração–seu ele insensato e–andador–de em–sabedoria ele escapará
+-- c28-v27: Dador–de ao–pobre não–há carência e–escondedor–de olhos–seus grande–de– maldições
+-- c28-v28: Quando–se–levantam ímpios esconde–se homem e–quando–perecem–eles multiplicam–se justos
+-- c29-v1: homem de–repreensões endurecendo– pescoço subitamente será–quebrado e–não–há cura
+-- c29-v2: no–multiplicar–se de–justos se–alegra o–povo e–no–governar de–ímpio geme povo
+-- c29-v3: homem– amando sabedoria alegra seu–pai e–companheiro de–prostitutas destrói– riqueza
+-- c29-v4: rei por–justiça faz–permanecer terra e–homem de–impostos a–derruba
+-- c29-v5: homem lisonjeando sobre– seu–próximo rede estendendo sobre– seus–passos
+-- c29-v6: na–transgressão de–homem mau laço e–justo canta e–se–alegra
+-- c29-v7: conhecendo justo causa de–pobres ímpio não– entende conhecimento
+-- c29-v8: homens–de escárnio sopram cidade e–sábios afastam ira
+-- c29-v9: homem– sábio pleiteando (a)– homem tolo e–irado e–rindo e–não–há descanso
+-- c29-v10: homens–de sangues odeiam– íntegro e–retos buscam sua–vida
+-- c29-v11: todo– seu–espírito solta tolo e–sábio para–trás a–acalma
+-- c29-v12: governante dando–ouvido a– palavra–de– mentira todos– seus–servos ímpios
+-- c29-v13: pobre e–homem de–opressões se–encontram iluminando– olhos–de ambos–eles YHWH
+-- c29-v14: rei julgando em–verdade pobres seu–trono para–sempre será–estabelecido
+-- c29-v15: vara e–repreensão dá sabedoria e–rapaz deixado–livre envergonha sua–mãe
+-- c29-v16: no–multiplicar–se de–ímpios multiplica–se– transgressão e–justos na–queda–deles verão
+-- c29-v17: disciplina teu–filho e–te–dará–descanso e–dará delícias à–tua–alma ¶
+-- c29-v18: sem– visão se–descontrola povo e–guardando lei bem–aventurado–ele
+-- c29-v19: por–palavras não– é–corrigido servo pois– entende e–não–há resposta
+-- c29-v20: viste homem apressado em–suas–palavras esperança para–tolo mais–do–que–ele
+-- c29-v21: mimando desde–juventude seu–servo e–seu–fim será ingrato
+-- c29-v22: homem–de– ira provoca contenda e–senhor–de fúria abundante– transgressão
+-- c29-v23: soberba–de homem o–humilha e–humilde–de– espírito sustém honra
+-- c29-v24: partilhando com– ladrão odiando sua–vida maldição ouve e–não revela
+-- c29-v25: tremor–de homem dá laço e–confiando em–YHWH é–exaltado
+-- c29-v26: muitos buscando face–de– governante e–de–YHWH justiça–de– homem
+-- c29-v27: abominação–de justos homem de–iniquidade e–abominação–de ímpio reto–de– caminho ¶
+-- c30-v1: palavras–de Agur filho–de– Yaqeh o–oráculo declaração do–homem a–Itiel a–Itiel e–Ucal
+-- c30-v2: pois embrutecido eu de–homem e–não– entendimento–de homem para–mim
+-- c30-v3: e–não– aprendi sabedoria e–conhecimento–de santos conheço
+-- c30-v4: quem subiu– céus e–desceu quem reuniu– vento em–seus–punhos quem envolveu– águas na–veste quem estabeleceu todas– extremidades–de– terra qual– seu–nome e–qual– nome–de– seu–filho pois sabes
+-- c30-v5: toda– palavra–de Deus purificada escudo ele aos–refugiando–se n–ele
+-- c30-v6: não– acrescentes às– suas–palavras para–que–não– repreenda a–ti e–sejas–achado–mentiroso ¶
+-- c30-v7: duas–coisas pedi de–ti não– me–negues de–mim antes–que eu–morra
+-- c30-v8: vaidade e–palavra–de– mentira afasta de–mim pobreza e–riqueza não– me–dês– a–mim alimenta–me pão–de minha–porção
+-- c30-v9: para–que–não eu–me–farte e–te–negue e–diga quem YHWH e–para–que–não– empobreça e–roube e–tome nome–de meu–Deus ¶
+-- c30-v10: não– calunies servo a– [seu-senhor] seu–senhor para–que–não– te–amaldiçoe e–sejas–culpado
+-- c30-v11: geração seu–pai amaldiçoa e–(a)– sua–mãe não abençoa
+-- c30-v12: geração puro em–seus–olhos e–de–sua–sujeira não é–lavado
+-- c30-v13: geração como– elevados seus–olhos e–suas–pálpebras se–levantam
+-- c30-v14: geração espadas seus–dentes e–facas seus–molares para–devorar aflitos da–terra e–necessitados dentre–humanidade ¶
+-- c30-v15: À–sanguessuga duas filhas dá dá três elas não se–satisfazem quatro não– dizem basta
+-- c30-v16: Sheol e–fechamento–de ventre terra não– se–satisfaz de–águas e–fogo não– diz basta
+-- c30-v17: olho zombando de–pai e–desprezando obediência–a– mãe arrancarão–o corvos–de– ribeiro e–devorarão–o filhotes–de– águia ¶
+-- c30-v18: três eles maravilhosos de–mim [e-quatro] e–quatro não os–conheço
+-- c30-v19: caminho–de a–águia nos–céus caminho–de serpente sobre rocha caminho–de– navio no–coração–de– mar e–caminho–de homem em–virgem
+-- c30-v20: assim caminho–de mulher adúltera comeu e–limpou sua–boca e–disse não– fiz iniquidade ¶
+-- c30-v21: sob três treme terra e–sob quatro não– pode suportar
+-- c30-v22: sob– servo quando reina e–tolo quando se–farta–de– pão
+-- c30-v23: sob odiada quando se–casa e–serva quando– herda sua–senhora ¶
+-- c30-v24: quatro eles pequenos–de– terra e–eles sábios feitos–sábios
+-- c30-v25: as–formigas povo não– forte e–preparam no–verão seu–alimento
+-- c30-v26: coelhos povo não– poderoso e–colocam na–rocha sua–casa
+-- c30-v27: rei não–há para–gafanhoto e–sai dividido todo–ele
+-- c30-v28: lagartixa com–mãos agarra e–ela nos–palácios–de rei ¶
+-- c30-v29: três eles bem–marchando passo e–quatro bem–andando andar
+-- c30-v30: leão poderoso entre–os–animais e–não– volta da–face–de– qualquer–um
+-- c30-v31: galo de–lombos ou– bode e–rei irresistível com–ele
+-- c30-v32: se– fizeste–loucura em–exaltar–te e–se– planejaste mão para–boca
+-- c30-v33: pois pressionar de–leite produz manteiga e–pressionar–de– nariz produz sangue e–pressionar–de iras produz contenda ¶
+-- c31-v1: palavras–de Lemuel rei oráculo que– instruiu–o sua–mãe
+-- c31-v2: o–que– meu–filho e–o–que– filho–de– meu–ventre e–o–que filho–de– meus–votos
+-- c31-v3: não– dês às–mulheres tua–força e–teus–caminhos às–destruidoras–de reis
+-- c31-v4: não para–reis Lemuel não para–reis beber– vinho e–para–governantes [onde] onde bebida–forte
+-- c31-v5: para–que–não– beba e–esqueça o–decretado e–altere justiça–de todos– filhos–de– aflição
+-- c31-v6: dai– bebida–forte ao–perecendo e–vinho aos–amargos–de alma
+-- c31-v7: beba e–esqueça sua–pobreza e–seu–sofrimento não lembre– mais
+-- c31-v8: abre– tua–boca pelo–mudo para– justiça–de todos– filhos–de passagem
+-- c31-v9: abre– tua–boca julga– justamente e–defende pobre e–necessitado ¶
+-- c31-v10: mulher–de– virtude quem encontrará e–longe de–pérolas seu–valor
+-- c31-v11: confia nela coração–de seu–marido e–despojo não faltará
+-- c31-v12: retribui–lhe bem e–não– mal todos– dias–de sua–vida
+-- c31-v13: busca lã e–linho e–trabalha com–deleite–de suas–mãos
+-- c31-v14: ela–é como–navios–de mercador de–longe traz seu–alimento
+-- c31-v15: e–levanta–se enquanto–ainda noite e–dá comida para–sua–casa e–porção para–suas–servas
+-- c31-v16: planeja campo e–o–compra do–fruto–de suas–mãos [planta] planta vinha
+-- c31-v17: cinge com–força seus–lombos e–fortalece seus–braços
+-- c31-v18: prova que– bom seu–comércio não– se–apaga [na-noite] na–noite sua–lâmpada
+-- c31-v19: suas–mãos estende ao–fuso e–suas–palmas seguram roca
+-- c31-v20: sua–palma abre ao–pobre e–suas–mãos estende ao–necessitado
+-- c31-v21: não– teme para–sua–casa de–neve pois toda– sua–casa vestida de–escarlate
+-- c31-v22: cobertas fez– para–si linho–fino e–púrpura sua–vestimenta
+-- c31-v23: conhecido nas–portas seu–marido em–seu–sentar–se com– anciãos–de– terra
+-- c31-v24: veste–de–linho fez e–vendeu e–cinto deu ao–mercador
+-- c31-v25: força– e–esplendor sua–vestimenta e–ri para–dia último
+-- c31-v26: sua–boca abre com–sabedoria e–lei–de– bondade sobre– sua–língua
+-- c31-v27: vigiando procedimentos–de sua–casa e–pão–de preguiça não come
+-- c31-v28: levantam–se seus–filhos e–a–chamam–bem–aventurada seu–marido e–a–louva
+-- c31-v29: muitas filhas fizeram virtude e–tu subiste sobre– todas–elas
+-- c31-v30: engano a–graça e–vaidade a–beleza mulher temendo– YHWH ela será–louvada
+-- c31-v31: dai– a–ela do–fruto–de suas–mãos e–louvem–na nas–portas suas–obras
 
 BEGIN;
 -- 2000100101: מִ֭שְׁלֵי (H4912) → "Provérbios–de" [opus-4.5-chirho]

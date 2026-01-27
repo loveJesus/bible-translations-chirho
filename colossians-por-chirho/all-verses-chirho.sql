@@ -3,103 +3,103 @@
 -- — John 3:16
 
 -- COLOSSIANS - POR Combined
--- Generated: 2026-01-27T21:46:34Z
+-- Generated: 2026-01-27T22:19:44Z
 
--- COLOSSIANS c1-v1 - POR
--- COLOSSIANS c1-v2 - POR
--- COLOSSIANS c1-v3 - POR
--- COLOSSIANS c1-v4 - POR
--- COLOSSIANS c1-v5 - POR
--- COLOSSIANS c1-v6 - POR
--- COLOSSIANS c1-v7 - POR
--- COLOSSIANS c1-v8 - POR
--- COLOSSIANS c1-v9 - POR
--- COLOSSIANS c1-v10 - POR
--- COLOSSIANS c1-v11 - POR
--- COLOSSIANS c1-v12 - POR
--- COLOSSIANS c1-v13 - POR
--- COLOSSIANS c1-v14 - POR
--- COLOSSIANS c1-v15 - POR
--- COLOSSIANS c1-v16 - POR
--- COLOSSIANS c1-v17 - POR
--- COLOSSIANS c1-v18 - POR
--- COLOSSIANS c1-v19 - POR
--- COLOSSIANS c1-v20 - POR
--- COLOSSIANS c1-v21 - POR
--- COLOSSIANS c1-v22 - POR
--- COLOSSIANS c1-v23 - POR
--- COLOSSIANS c1-v24 - POR
--- COLOSSIANS c1-v25 - POR
--- COLOSSIANS c1-v26 - POR
--- COLOSSIANS c1-v27 - POR
--- COLOSSIANS c1-v28 - POR
--- COLOSSIANS c1-v29 - POR
--- COLOSSIANS c2-v1 - POR
--- COLOSSIANS c2-v2 - POR
--- COLOSSIANS c2-v3 - POR
--- COLOSSIANS c2-v4 - POR
--- COLOSSIANS c2-v5 - POR
--- COLOSSIANS c2-v6 - POR
--- COLOSSIANS c2-v7 - POR
--- COLOSSIANS c2-v8 - POR
--- COLOSSIANS c2-v9 - POR
--- COLOSSIANS c2-v10 - POR
--- COLOSSIANS c2-v11 - POR
--- COLOSSIANS c2-v12 - POR
--- COLOSSIANS c2-v13 - POR
--- COLOSSIANS c2-v14 - POR
--- COLOSSIANS c2-v15 - POR
--- COLOSSIANS c2-v16 - POR
--- COLOSSIANS c2-v17 - POR
--- COLOSSIANS c2-v18 - POR
--- COLOSSIANS c2-v19 - POR
--- COLOSSIANS c2-v20 - POR
--- COLOSSIANS c2-v21 - POR
--- COLOSSIANS c2-v22 - POR
--- COLOSSIANS c2-v23 - POR
--- COLOSSIANS c3-v1 - POR
--- COLOSSIANS c3-v2 - POR
--- COLOSSIANS c3-v3 - POR
--- COLOSSIANS c3-v4 - POR
--- COLOSSIANS c3-v5 - POR
--- COLOSSIANS c3-v6 - POR
--- COLOSSIANS c3-v7 - POR
--- COLOSSIANS c3-v8 - POR
--- COLOSSIANS c3-v9 - POR
--- COLOSSIANS c3-v10 - POR
--- COLOSSIANS c3-v11 - POR
--- COLOSSIANS c3-v12 - POR
--- COLOSSIANS c3-v13 - POR
--- COLOSSIANS c3-v14 - POR
--- COLOSSIANS c3-v15 - POR
--- COLOSSIANS c3-v16 - POR
--- COLOSSIANS c3-v17 - POR
--- COLOSSIANS c3-v18 - POR
--- COLOSSIANS c3-v19 - POR
--- COLOSSIANS c3-v20 - POR
--- COLOSSIANS c3-v21 - POR
--- COLOSSIANS c3-v22 - POR
--- COLOSSIANS c3-v23 - POR
--- COLOSSIANS c3-v24 - POR
--- COLOSSIANS c3-v25 - POR
--- COLOSSIANS c4-v1 - POR
--- COLOSSIANS c4-v2 - POR
--- COLOSSIANS c4-v3 - POR
--- COLOSSIANS c4-v4 - POR
--- COLOSSIANS c4-v5 - POR
--- COLOSSIANS c4-v6 - POR
--- COLOSSIANS c4-v7 - POR
--- COLOSSIANS c4-v8 - POR
--- COLOSSIANS c4-v9 - POR
--- COLOSSIANS c4-v10 - POR
--- COLOSSIANS c4-v11 - POR
--- COLOSSIANS c4-v12 - POR
--- COLOSSIANS c4-v13 - POR
--- COLOSSIANS c4-v14 - POR
--- COLOSSIANS c4-v15 - POR
--- COLOSSIANS c4-v16 - POR
--- COLOSSIANS c4-v17 - POR
--- COLOSSIANS c4-v18 - POR
+-- c1-v1: Paulo apóstolo de–Cristo Jesus pela vontade de–Deus e Timóteo o irmão
+-- c1-v2: aos em Colossos santos e fiéis irmãos em Cristo graça a–vós e paz da–parte–de Deus Pai nosso
+-- c1-v3: damos–graças ao Deus Pai do Senhor nosso Jesus Cristo sempre por vós orando
+-- c1-v4: tendo–ouvido da fé vossa em Cristo Jesus e do amor que tendes para–com todos os santos
+-- c1-v5: por–causa–da a esperança a reservada para–vós nos os céus da–qual ouvistes–antes na a palavra da verdade do evangelho
+-- c1-v6: o que–chegou a vós assim–como também em todo o mundo está frutificando e crescendo assim–como também entre vós desde o dia em–que–ouvistes e conhecestes a graça de Deus em verdade
+-- c1-v7: assim–como aprendestes de Epafras o amado conservo nosso que é fiel em–favor–de vós ministro de Cristo
+-- c1-v8: o também que–nos–declarou a–nós o vosso amor no Espírito
+-- c1-v9: por–isso isto também nós desde o dia em–que–ouvimos não cessamos por vós de–orar e de–pedir para–que sejais–cheios do conhecimento da vontade dele em toda sabedoria e entendimento espiritual
+-- c1-v10: para–andardes dignamente do Senhor para todo agrado em toda obra boa frutificando e crescendo no conhecimento de Deus
+-- c1-v11: com todo poder sendo–fortalecidos segundo a força da glória dele para toda paciência e longanimidade com alegria
+-- c1-v12: dando–graças ao Pai que vos–capacitou vós para a participação da herança dos santos na a luz
+-- c1-v13: o–qual nos–libertou nós do o domínio das trevas e nos–transportou para o reino do Filho do amor dele
+-- c1-v14: em quem temos a redenção o perdão dos pecados
+-- c1-v15: o–qual é imagem do Deus o invisível primogênito de–toda criação
+-- c1-v16: porque nele nele foram–criadas todas–as coisas nos os céus e sobre a terra as visíveis e as invisíveis quer tronos quer domínios quer principados quer potestades todas–as coisas por–meio–dele dele e para ele foram–criadas
+-- c1-v17: e ele é antes–de todas–as–coisas e todas–as coisas nele nele subsistem
+-- c1-v18: e ele é a cabeça do corpo da igreja o–qual é o princípio primogênito dentre os mortos para–que venha–a–ser em tudo ele preeminente
+-- c1-v19: porque nele nele agradou toda a plenitude habitar
+-- c1-v20: e por–meio–dele dele reconciliar todas–as coisas para ele tendo–feito–a–paz pelo o sangue da cruz dele por–meio–dele dele quer as–coisas sobre a terra quer as–coisas nos os céus
+-- c1-v21: e a–vós outrora sendo alienados e inimigos na mente nas as obras as más
+-- c1-v22: agora porém reconciliou no o corpo da carne dele pela a morte para–vos–apresentar vós santos e sem–mácula e irrepreensíveis perante ele
+-- c1-v23: se de–fato permanecerdes na fé alicercados e firmes e não sendo–removidos da a esperança do evangelho que ouvistes o pregado em toda criatura a debaixo–do o céu do–qual tornei–me eu Paulo ministro
+-- c1-v24: agora me–alegro nos os sofrimentos por vós e completo o–que–falta das–aflições das tribulações de Cristo na a carne minha em–favor–do o corpo dele que é a igreja
+-- c1-v25: da–qual tornei–me eu ministro segundo a dispensação de Deus a dada a–mim para vós para–cumprir a palavra de Deus
+-- c1-v26: o mistério o oculto desde os séculos e desde as gerações agora porém foi–manifestado aos santos dele
+-- c1-v27: aos–quais quis o Deus dar–a–conhecer qual a riqueza da glória deste mistério este entre os gentios que é Cristo em vós a esperança da glória
+-- c1-v28: o–qual nós anunciamos admoestando a–todo homem e ensinando a–todo homem em toda sabedoria para–que apresentemos todo homem perfeito em Cristo
+-- c1-v29: para o–que também trabalho lutando segundo a operação dele a que–opera em mim em poder
+-- c2-v1: Quero pois vós saber quão–grande luta tenho por vós e os–que em Laodiceia e quantos não viram a face minha em carne
+-- c2-v2: para–que sejam–consolados os corações deles unidos em amor e para toda riqueza da plena–certeza do entendimento para conhecimento do mistério de Deus Cristo
+-- c2-v3: em quem estão todos os tesouros da sabedoria e conhecimento ocultos
+-- c2-v4: Isto digo para–que ninguém vós engane com palavras–persuasivas
+-- c2-v5: se pois também na carne estou–ausente mas no espírito com vós estou alegrando–me e vendo vossa a ordem e a firmeza da em Cristo fé vossa
+-- c2-v6: Como portanto recebestes o Cristo Jesus o Senhor nele nele andai
+-- c2-v7: arraigados e edificados nele nele e confirmados na fé conforme fostes–ensinados abundando nela nela em ação–de–graças
+-- c2-v8: Vede que–não alguém vós haja o–que faz–presa por–meio da filosofia e vã engano segundo a tradição dos homens segundo os rudimentos do mundo e não segundo Cristo
+-- c2-v9: porque nele nele habita toda a plenitude da Divindade corporalmente
+-- c2-v10: e estais nele nele cheios que é a cabeça de–todo principado e potestade
+-- c2-v11: em quem também fostes–circuncidados circuncisão não–feita–por–mãos no no despojamento do corpo da carne na na circuncisão de Cristo
+-- c2-v12: sepultados–com ele no no batismo em quem também fostes–ressuscitados–com por–meio da fé na operação de Deus o–que ressuscitou ele dentre mortos
+-- c2-v13: E vós mortos estando nas nas transgressões e na incircuncisão da carne vossa vivificou–juntamente vós com ele perdoando nos todas as transgressões
+-- c2-v14: apagando a contra nós escrita–de–dívida com–os decretos que era contrária nos e ela tirou do do meio cravando ela na cruz
+-- c2-v15: despojando os principados e as potestades expôs–publicamente em ousadia triunfando deles nela nela
+-- c2-v16: Não portanto alguém vós julgue em comida e em bebida ou em questão de–festa ou de–lua–nova ou de–sábados
+-- c2-v17: que são sombra das–coisas vindouras o mas corpo de Cristo
+-- c2-v18: Ninguém vós prive–do–prêmio querendo em humildade e culto dos anjos que viu investigando em–vão inchado pela pela mente da carne sua
+-- c2-v19: e não retendo a Cabeça de quem todo o corpo por–meio das juntas e ligamentos sendo–suprido e unido cresce o crescimento de Deus
+-- c2-v20: Se morrestes com Cristo dos dos rudimentos do mundo por–que como vivendo no mundo vos–submeteis–a–ordenanças
+-- c2-v21: Não toques nem proves nem manuseies
+-- c2-v22: que são todas para destruição pelo uso segundo os mandamentos e doutrinas dos homens
+-- c2-v23: as–quais têm palavra certamente tendo de–sabedoria em culto–voluntário e humildade e severidade de–corpo não em valor algum para saciedade da carne
+-- c3-v1: Se portanto fostes–ressuscitados–com o Cristo as–coisas do–alto buscai onde o Cristo está à direita de Deus sentado
+-- c3-v2: As–coisas do–alto pensai não as–coisas sobre a terra
+-- c3-v3: morrestes pois e a vida vossa está–escondida com o Cristo em o Deus
+-- c3-v4: quando o Cristo for–manifestado a vida vossa então também vós com ele sereis–manifestados em glória
+-- c3-v5: Mortificai portanto os membros os–que sobre a terra fornicação impureza paixão desejo mau e a avarícia a–qual é idolatria
+-- c3-v6: por–causa das–quais vem a ira de Deus sobre os filhos da desobediência
+-- c3-v7: nas quais também vós andastes outrora quando víveis nelas nelas
+-- c3-v8: Agora porém despojais também vós todas as–coisas ira cólera malícia blasmêmia linguagem–torpe de a boca vossa
+-- c3-v9: não mintais uns–aos outros tendo–despido o velho homem com as práticas suas
+-- c3-v10: e tendo–vestido o novo o–que está–sendo–renovado para conhecimento segundo imagem do que–criou ele
+-- c3-v11: onde não há grego e judeu circuncisão e incircuncisão bárbaro cita escravo livre mas todas–as–coisas todas–as–coisas e em todos Cristo
+-- c3-v12: Revesti–vos portanto como eleitos de Deus santos e amados entranhas de–compaixão benignidade humildade mansidão longanimidade
+-- c3-v13: suportando uns–aos–outros e perdoando uns–aos–outros se alguém contra alguém tiver queixa conforme também o Senhor perdoou vós assim também vós
+-- c3-v14: sobre todas porém estas–coisas o amor o–qual é vínculo da perfeição
+-- c3-v15: E a paz de Cristo governe nos os corações vossos para a–qual também fostes–chamados em um corpo e gratos sede
+-- c3-v16: A palavra de Cristo habite em vós ricamente em toda sabedoria ensinando e admoestando uns–aos–outros salmos hinos cânticos espirituais em a graça cantando nos os corações vossos a Deus
+-- c3-v17: E tudo o–que que porventura fizerdes em palavra ou em obra tudo em nome de–Senhor Jesus dando–graças a Deus Pai por–meio dele
+-- c3-v18: As esposas submetei–vos aos maridos como convinha no Senhor
+-- c3-v19: Os maridos amai as esposas e não vos–irriteis contra elas
+-- c3-v20: Os filhos obedecei aos pais em tudo isto pois agradável é no Senhor
+-- c3-v21: Os pais não irriteis os filhos vossos para–que não desanimem
+-- c3-v22: Os escravos obedecei em tudo aos segundo carne senhores não em serviço–da–aparência como agradadores–de–homens mas em sinceridade de–coração temendo o Senhor
+-- c3-v23: o–que porventura fizerdes de alma trabalhai como ao Senhor e não a–homens
+-- c3-v24: sabendo que do Senhor recebereis a recompensa da herança ao Senhor Cristo servi
+-- c3-v25: o–que pois faz–injustiça receberá o–que fez–injustiça e não há aceitação–de–pessoas
+-- c4-v1: Os senhores o justo e a igualdade aos escravos proporcionai sabendo que também vós tendes Senhor no céu
+-- c4-v2: À oração perseverai vigiando nela nela em ação–de–graças
+-- c4-v3: orando juntamente também por nós para–que o Deus abra nos porta da palavra para–falar o mistério de Cristo pelo–qual pelo–qual também estou–preso
+-- c4-v4: para–que manifeste ele como é–necessário eu falar
+-- c4-v5: Em sabedoria andai para–com os–de fora o tempo remindo
+-- c4-v6: A palavra vossa sempre em graça com–sal temperada saber como é–necessário vós a–cada um responder
+-- c4-v7: As–coisas a–respeito de–mim todas dará–a–conhecer vos Tíquico o amado irmão e fiel servo e conservo no Senhor
+-- c4-v8: o–qual enviei para vós para isto mesmo para–que conheçais as–coisas a–respeito de–nós e console os corações vossos
+-- c4-v9: com Onésimo o fiel e amado irmão que é de vós todas–as–coisas vos darão–a–conhecer as daqui
+-- c4-v10: Saúda vos Aristarco o companheiro–de–prisão meu e Marcos o primo de–Barnabé a–respeito de–quem recebestes mandamentos se vier para vós recebei ele
+-- c4-v11: e Jesus o chamado Justo os–que são de circuncisão estes únicos cooperadores para o reino de Deus os–quais tornaram–se para–mim consôlo
+-- c4-v12: Saúda vos Epafras o–que de vós servo de–Cristo Jesus sempre combatendo por vós nas nas orações para–que estejais perfeitos e plenamente–persuadidos em toda vontade de Deus
+-- c4-v13: Testemunho pois dele que tem muito trabalho por vós e os–em em Laodiceia e os–em em Hierá polis
+-- c4-v14: Saúda vos Lucas o médico o amado e Demas
+-- c4-v15: Saudai os em Laodiceia irmãos e Ninfa e a em casa dela igreja
+-- c4-v16: e quando for–lida entre vós a carta fazei para–que também na na dos–laodicenses igreja seja–lida e a de Laodiceia para–que também vós leiais
+-- c4-v17: e dizei a–Arquipo Atenta para–o ministério que recebeste no Senhor para–que ele cumpras
+-- c4-v18: A saudação pela minha mão de–Paulo Lembrai–vos minhas das prisões A graça com vós Amém
 
 BEGIN;
 -- 5100100101: Παῦλος (G3972) → "Paulo" [opus-4.5-chirho]

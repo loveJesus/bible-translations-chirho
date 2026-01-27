@@ -3,154 +3,154 @@
 -- — John 3:16
 
 -- AMOS - POR Combined
--- Generated: 2026-01-27T21:46:33Z
+-- Generated: 2026-01-27T22:19:43Z
 
--- AMOS c1-v1 - POR
--- AMOS c1-v2 - POR
--- AMOS c1-v3 - POR
--- AMOS c1-v4 - POR
--- AMOS c1-v5 - POR
--- AMOS c1-v6 - POR
--- AMOS c1-v7 - POR
--- AMOS c1-v8 - POR
--- AMOS c1-v9 - POR
--- AMOS c1-v10 - POR
--- AMOS c1-v11 - POR
--- AMOS c1-v12 - POR
--- AMOS c1-v13 - POR
--- AMOS c1-v14 - POR
--- AMOS c1-v15 - POR
--- AMOS c2-v1 - POR
--- AMOS c2-v2 - POR
--- AMOS c2-v3 - POR
--- AMOS c2-v4 - POR
--- AMOS c2-v5 - POR
--- AMOS c2-v6 - POR
--- AMOS c2-v7 - POR
--- AMOS c2-v8 - POR
--- AMOS c2-v9 - POR
--- AMOS c2-v10 - POR
--- AMOS c2-v11 - POR
--- AMOS c2-v12 - POR
--- AMOS c2-v13 - POR
--- AMOS c2-v14 - POR
--- AMOS c2-v15 - POR
--- AMOS c2-v16 - POR
--- AMOS c3-v1 - POR
--- AMOS c3-v2 - POR
--- AMOS c3-v3 - POR
--- AMOS c3-v4 - POR
--- AMOS c3-v5 - POR
--- AMOS c3-v6 - POR
--- AMOS c3-v7 - POR
--- AMOS c3-v8 - POR
--- AMOS c3-v9 - POR
--- AMOS c3-v10 - POR
--- AMOS c3-v11 - POR
--- AMOS c3-v12 - POR
--- AMOS c3-v13 - POR
--- AMOS c3-v14 - POR
--- AMOS c3-v15 - POR
--- AMOS c4-v1 - POR
--- AMOS c4-v2 - POR
--- AMOS c4-v3 - POR
--- AMOS c4-v4 - POR
--- AMOS c4-v5 - POR
--- AMOS c4-v6 - POR
--- AMOS c4-v7 - POR
--- AMOS c4-v8 - POR
--- AMOS c4-v9 - POR
--- AMOS c4-v10 - POR
--- AMOS c4-v11 - POR
--- AMOS c4-v12 - POR
--- AMOS c4-v13 - POR
--- AMOS c5-v1 - POR
--- AMOS c5-v2 - POR
--- AMOS c5-v3 - POR
--- AMOS c5-v4 - POR
--- AMOS c5-v5 - POR
--- AMOS c5-v6 - POR
--- AMOS c5-v7 - POR
--- AMOS c5-v8 - POR
--- AMOS c5-v9 - POR
--- AMOS c5-v10 - POR
--- AMOS c5-v11 - POR
--- AMOS c5-v12 - POR
--- AMOS c5-v13 - POR
--- AMOS c5-v14 - POR
--- AMOS c5-v15 - POR
--- AMOS c5-v16 - POR
--- AMOS c5-v17 - POR
--- AMOS c5-v18 - POR
--- AMOS c5-v19 - POR
--- AMOS c5-v20 - POR
--- AMOS c5-v21 - POR
--- AMOS c5-v22 - POR
--- AMOS c5-v23 - POR
--- AMOS c5-v24 - POR
--- AMOS c5-v25 - POR
--- AMOS c5-v26 - POR
--- AMOS c5-v27 - POR
--- AMOS c6-v1 - POR
--- AMOS c6-v2 - POR
--- AMOS c6-v3 - POR
--- AMOS c6-v4 - POR
--- AMOS c6-v5 - POR
--- AMOS c6-v6 - POR
--- AMOS c6-v7 - POR
--- AMOS c6-v8 - POR
--- AMOS c6-v9 - POR
--- AMOS c6-v10 - POR
--- AMOS c6-v11 - POR
--- AMOS c6-v12 - POR
--- AMOS c6-v13 - POR
--- AMOS c6-v14 - POR
--- AMOS c7-v1 - POR
--- AMOS c7-v2 - POR
--- AMOS c7-v3 - POR
--- AMOS c7-v4 - POR
--- AMOS c7-v5 - POR
--- AMOS c7-v6 - POR
--- AMOS c7-v7 - POR
--- AMOS c7-v8 - POR
--- AMOS c7-v9 - POR
--- AMOS c7-v10 - POR
--- AMOS c7-v11 - POR
--- AMOS c7-v12 - POR
--- AMOS c7-v13 - POR
--- AMOS c7-v14 - POR
--- AMOS c7-v15 - POR
--- AMOS c7-v16 - POR
--- AMOS c7-v17 - POR
--- AMOS c8-v1 - POR
--- AMOS c8-v2 - POR
--- AMOS c8-v3 - POR
--- AMOS c8-v4 - POR
--- AMOS c8-v5 - POR
--- AMOS c8-v6 - POR
--- AMOS c8-v7 - POR
--- AMOS c8-v8 - POR
--- AMOS c8-v9 - POR
--- AMOS c8-v10 - POR
--- AMOS c8-v11 - POR
--- AMOS c8-v12 - POR
--- AMOS c8-v13 - POR
--- AMOS c8-v14 - POR
--- AMOS c9-v1 - POR
--- AMOS c9-v2 - POR
--- AMOS c9-v3 - POR
--- AMOS c9-v4 - POR
--- AMOS c9-v5 - POR
--- AMOS c9-v6 - POR
--- AMOS c9-v7 - POR
--- AMOS c9-v8 - POR
--- AMOS c9-v9 - POR
--- AMOS c9-v10 - POR
--- AMOS c9-v11 - POR
--- AMOS c9-v12 - POR
--- AMOS c9-v13 - POR
--- AMOS c9-v14 - POR
--- AMOS c9-v15 - POR
+-- c1-v1: Palavras–de Amós que– foi entre–os–pastores de–Teqoa que viu sobre– Yisrael nos–dias–de Uziyah rei–de– Yehudah e–nos–dias–de Yarovam filho–de– Yoash rei–de Yisrael dois–anos antes–de o–terremoto
+-- c1-v2: E–disse YHWH de–Tsiyon ruge e–de–Yerushalayim dá sua–voz e–lamentam pastagens–de os–pastores e–seca cume–de o–Karmel ¶
+-- c1-v3: Assim disse YHWH por– três transgressões–de Dammeseq e–por– quatro não o–revogarei por– seu–debulhar com–trenós–de o–ferro (a) o–Gilad
+-- c1-v4: E–enviarei fogo na–casa–de Hazael e–consumirá palácios–de Ben–Hadad
+-- c1-v5: E–quebrarei ferrolho–de Dammeseq e–cortarei habitante de–Vale–de– Aven e–que–segura cetro de–casa–de Eden e–irão–ao–exílio povo–de– Aram para–Qir disse YHWH ¶
+-- c1-v6: Assim disse YHWH por– três transgressões–de Azzah e–por– quatro não o–revogarei por– seu–exilar exílio completo para–entregar a–Edom
+-- c1-v7: E–enviarei fogo no–muro–de Azzah e–consumirá seus–palácios
+-- c1-v8: E–cortarei habitante de–Ashdod e–que–segura cetro de–Ashqelon e–virarei minha–mão contra– Eqron e–perecerá remanescente–de Pelishtim disse Adonay YHWH ¶
+-- c1-v9: Assim disse YHWH por– três transgressões–de– Tsor e–por– quatro não o–revogarei por– seu–entregar exílio completo a–Edom e–não lembraram aliança–de irmãos
+-- c1-v10: E–enviarei fogo no–muro–de Tsor e–consumirá seus–palácios ¶
+-- c1-v11: Assim disse YHWH por– três transgressões–de Edom e–por– quatro não o–revogarei por– seu–perseguir com–espada seu–irmão e–corrompeu suas–compaixões e–despedaçou para–sempre sua–ira e–sua–fúria guardou perpetuamente
+-- c1-v12: E–enviarei fogo em–Teman e–consumirá palácios–de Botsrah ¶
+-- c1-v13: Assim disse YHWH por– três transgressões–de filhos–de– Ammon e–por– quatro não o–revogarei por– seu–rasgar grávidas–de o–Gilad para alargar (a) sua–fronteira
+-- c1-v14: E–acenderei fogo no–muro–de Rabbah e–consumirá seus–palácios com–grito–de–guerra no–dia–de batalha com–tempestade no–dia–de vendaval
+-- c1-v15: E–irá seu–rei ao–exílio ele e–seus–príncipes juntos disse YHWH ¶
+-- c2-v1: Assim disse YHWH por– três transgressões–de Moav e–por– quatro não o–revogarei por– seu–queimar ossos–de rei–de– Edom para–cal
+-- c2-v2: E–enviarei– fogo em–Moav e–consumirá palácios–de as–Qeriyot e–morrerá com–tumulto Moav com–grito–de–guerra com–som–de shofar
+-- c2-v3: E–cortarei juiz do–meio–dela e–todos– seus–príncipes matarei com–ele disse YHWH ¶
+-- c2-v4: Assim disse YHWH por– três transgressões–de Yehudah e–por– quatro não o–revogarei por– seu–rejeitar (a) Torah–de YHWH e–seus–estatutos não guardaram e–os–desviaram suas–mentiras que– andaram seus–pais após–eles
+-- c2-v5: E–enviarei fogo em–Yehudah e–consumirá palácios–de Yerushalayim ¶
+-- c2-v6: Assim disse YHWH por– três transgressões–de Yisrael e–por– quatro não o–revogarei por– seu–vender por–prata justo e–necessitado por–causa–de sandálias
+-- c2-v7: Os–que–anseiam sobre– pó–de– terra na–cabeça–de pobres e–caminho–de humildes desviam e–homem e–seu–pai vão a– a–jovem para profanar (a) nome–de minha–santidade
+-- c2-v8: E–sobre– vestes tomadas–em–penhor se–deitam ao–lado–de todo– altar e–vinho–de multados bebem casa–de seu–deus
+-- c2-v9: E–eu destruí (a) o–Emorri de–diante–deles que como–altura–de cedros sua–altura e–forte ele como–os–carvalhos e–destruí seu–fruto de–cima e–suas–raízes de–baixo
+-- c2-v10: E–eu fiz–subir (a)–vós de–terra–de Mitsrayim e–vos–conduzi (a)–vós no–deserto quarenta anos para–possuir (a) terra–de o–Emorri
+-- c2-v11: E–levantei de–vossos–filhos para–profetas e–de–vossos–jovens para–nazireus Por–acaso não–é– isto filhos–de Yisrael declaração–de– YHWH
+-- c2-v12: E–fizestes–beber (a) os–nazireus vinho e–sobre– os–profetas ordenastes dizendo não profetizeis
+-- c2-v13: Eis eu oprimindo debaixo–de–vós como oprime a–carreta a–cheia para–ela feixe
+-- c2-v14: E–perecerá refúgio do–veloz e–forte não– fortalecerá sua–força e–guerreiro não– livrará sua–alma
+-- c2-v15: E–que–empunha o–arco não ficará–de–pé e–rápido de–seus–pés não livrará e–cavaleiro–de o–cavalo não livrará sua–alma
+-- c2-v16: E–forte–de seu–coração entre–os–guerreiros nu fugirá no–dia– aquele declaração–de– YHWH ¶
+-- c3-v1: Ouvi (a) a–palavra a–esta que falou YHWH sobre–vós filhos–de Yisrael sobre toda– a–família que fiz–subir de–terra–de Mitsrayim dizendo
+-- c3-v2: Somente (a)–vós conheci de–todas famílias–de a–terra por– isso visitarei sobre–vós (a) todas– vossas–iniquidades
+-- c3-v3: Andarão dois juntos sem se– combinaram
+-- c3-v4: Rugirá leão na–floresta e–presa não–há para–ele Dará leaozinho sua–voz de–sua–toca sem se– apanhou
+-- c3-v5: Cairá pássaro sobre– armadilha–de a–terra e–laço não–há para–ela Subirá– armadilha de– a–terra e–apanhar não apanhou
+-- c3-v6: Se– for–tocado shofar em–cidade e–povo não tremerá Se– haver mal em–cidade e–YHWH não fez
+-- c3-v7: Pois não fará Adonay YHWH coisa pois se– revelou seu–segredo a– seus–servos os–profetas
+-- c3-v8: Leão rugiu quem não temerá Adonay YHWH falou quem não profetizará
+-- c3-v9: Fazei–ouvir sobre– palácios–de em–Ashdod e–sobre– palácios em–terra–de Mitsrayim e–dizei Ajuntai–vos sobre– montes–de Shomron e–vede tumultos grandes em–seu–meio e–oprimidos dentro–dela
+-- c3-v10: E–não– sabem fazer– retidão declaração–de– YHWH os–que–entesourar violência e–destruição em–seus–palácios ¶
+-- c3-v11: Portanto assim disse Adonay YHWH inimigo e–ao–redor–de a–terra e–fará–descer de–ti tua–força e–serão–saqueados teus–palácios
+-- c3-v12: Assim disse YHWH como livra o–pastor da–boca–de o–leão duas pernas ou pedaço–de– orelha assim serão–livrados filhos–de Yisrael os–que–habitam em–Shomron no–canto–de cama e–em–Dammeseq divã
+-- c3-v13: Ouvi e–testemunhai na–casa–de Yaaqov declaração–de– Adonay YHWH Elohim–de os–exércitos
+-- c3-v14: Pois no–dia em–que–eu–visitar transgressões–de– Yisrael sobre–ele e–visitarei sobre– altares–de Beyt–El e–serão–cortados chifres–de o–altar e–cairão para–a–terra
+-- c3-v15: E–ferirei casa–de– o–inverno junto–com– casa–de o–verão e–perecerão casas–de o–marfim e–serão–destruídas casas muitas declaração–de– YHWH §
+-- c4-v1: Ouvi a–palavra a–esta vacas–de o–Bashan que no–monte–de Shomron as–que–oprimem pobres as–que–esmagam necessitados as–que–dizem a–seus–senhores trazé e–bebamos
+-- c4-v2: Jurou Adonay YHWH por–sua–santidade pois eis dias vindo sobre–vós e–levantará (a)–vós com–ganchos e–vossa–posteridade com–anzóis–de pesca
+-- c4-v3: E–por–brechas saireis mulher diante–dela e–sereis–lançadas para–Harmon declaração–de– YHWH
+-- c4-v4: Vinde Beyt–El e–transgredi o–Gilgal multiplicai transgredir e–trazei pela–manhã vossos–sacrifícios para–três–de dias vossos–dízimos
+-- c4-v5: E–queimeis–incenso de–levedado ação–de–graças e–proclamai ofertas–voluntárias fazei–ouvir pois assim amastes filhos–de Yisrael declaração–de Adonay YHWH
+-- c4-v6: E–também– eu dei a–vós limpeza–de dentes em–todas– vossas–cidades e–falta–de pão em–todos vossos–lugares e–não– voltastes a–mim declaração–de– YHWH
+-- c4-v7: E–também eu retive de–vós (a) a–chuva quando–ainda três meses para–a–ceifa e–fiz–chover sobre– cidade uma e–sobre– cidade uma não fiz–chover porção uma chovia e–porção que– não– chovia sobre–ela secava
+-- c4-v8: E–vagavam duas três cidades a– cidade uma para–beber água e–não se–saciavam e–não– voltastes a–mim declaração–de– YHWH
+-- c4-v9: Feri (a)–vós com–ferrugem e–com–míldio a–abundância–de vossos–jardins e–vossas–vinhas e–vossas–figueiras e–vossas–oliveiras devorava o–gafanhoto e–não– voltastes a–mim declaração–de– YHWH §
+-- c4-v10: Enviei entre–vós peste no–caminho–de Mitsrayim matei com–espada vossos–jovens junto–com cativeiro–de vossos–cavalos e–fiz–subir fedor–de vosso–acampamento e–em–vosso–nariz e–não– voltastes a–mim declaração–de– YHWH
+-- c4-v11: Transtornei entre–vós como–transtorno–de Elohim (a) Sedom e–(a) Amorah e–fostes como–tição resgatado de–incêndio e–não– voltastes a–mim declaração–de– YHWH §
+-- c4-v12: Portanto assim farei– a–ti Yisrael porque pois– isto farei– a–ti prepara–te para–encontrar– teu–Elohim Yisrael
+-- c4-v13: Pois eis que–forma montes e–cria vento e–declara ao–homem o–que– seu–pensamento que–faz aurora escuridão e–pisa sobre– altos–de terra YHWH Elohim–de– exércitos seu–nome §
+-- c5-v1: Ouvi (a) a–palavra a–esta que eu levanto sobre–vós lamentação casa–de Yisrael
+-- c5-v2: Caiu não– continuará levantar–se virgem–de Yisrael abandonada sobre– sua–terra não–há quem–a–levante
+-- c5-v3: Pois assim disse Adonay YHWH a–cidade a–que–sai mil deixará cem e–a–que–sai cem deixará dez para–casa–de Yisrael §
+-- c5-v4: Pois assim disse YHWH para–casa–de Yisrael Buscai–me e–vivei
+-- c5-v5: E–não– busqueis Beyt–El e–o–Gilgal não entreis e–Beer–Sheva não passeis pois o–Gilgal certamente–irá–ao–exílio irá–ao–exílio e–Beyt–El será para–nada
+-- c5-v6: Buscai (a) YHWH e–vivei para–que–não– irrompa como–fogo casa–de Yosef e–consuma e–não–há– quem–extinga para–Beyt–El
+-- c5-v7: Os–que–transformam em–losna justiça e–justiça para–a–terra lançam
+-- c5-v8: Que–faz as–Plêiades e–o–Órion e–transforma para–manhã sombra–de–morte e–dia noite escureceu o–que–chama para–águas–de– o–mar e–as–derrama sobre– face–de a–terra YHWH seu–nome §
+-- c5-v9: O–que–faz–brilhar destruição sobre– forte e–destruição sobre– fortaleza virá
+-- c5-v10: Odiaram no–portão que–repreende e–que–fala íntegro abominam
+-- c5-v11: Portanto porque vosso–pisotear sobre– pobre e–tributo–de– cereal tomais dele casas–de pedras–lavradas construistes e–não– habitareis nelas vinhas–de– delícia plantastes e–não bebereis (a) seu–vinho
+-- c5-v12: Pois conheci muitas vossas–transgressões e–numerosos vossos–pecados afligidores–de justo tomadores–de suborno e–necessitados no–portão desviam
+-- c5-v13: Portanto o–prudente no–tempo o–aquele calará pois tempo–de mal ele
+-- c5-v14: Buscai– bem e–não– mal para–que vivais e–será– assim YHWH Elohim–de– exércitos convosco como dissestes
+-- c5-v15: Odiai– mal e–amai bem e–estabelecei no–portão justiça talvez se–compadeça YHWH Elohim–de– exércitos remanescente–de Yosef §
+-- c5-v16: Portanto assim– disse YHWH Elohim–de exércitos Adonay em–todas– praças lamentação e–em–todas– ruas dirão Ai– ai e–chamarão agricultor para– luto e–lamentação para– conhecedores–de lamento
+-- c5-v17: E–em–todas– vinhas lamentação pois– passarei no–teu–meio disse YHWH §
+-- c5-v18: Ai–dos os–que–desejam (a) dia–de YHWH para–que– este para–vós dia–de YHWH ele– escuridão e–não– luz
+-- c5-v19: Como foge homem de–diante–de o–leão e–o–encontra o–urso e–entra a–casa e–apoia sua–mão sobre– a–parede e–o–morde a–serpente
+-- c5-v20: Acaso–não– escuridão dia–de YHWH e–não– luz e–trevas e–não– esplendor para–ele
+-- c5-v21: Odiei rejeitei vossas–festas e–não cheirarei em–vossas–assembleias
+-- c5-v22: Pois se– oferecerdes– a–mim holocaustos e–vossas–ofertas não aceitarei e–ofertas–de–paz–de vossos–animais–cevados não olharei
+-- c5-v23: Afasta de–sobre–mim barulho–de tuas–canções e–melodia–de tuas–harpas não ouvirei
+-- c5-v24: E–role como–as–águas justiça e–justiça como–ribeiro perene
+-- c5-v25: Sacrifícios e–ofertas oferecestes– a–mim no–deserto quarenta anos casa–de Yisrael
+-- c5-v26: E–carregareis (a) Sikkut vosso–rei e–(a) Kiyyun vossas–imagens estrela–de vosso–deus que fizestes para–vós
+-- c5-v27: E–exilarei (a)–vós além–de Dammeseq disse YHWH Elohim–de– exércitos seu–nome ¶
+-- c6-v1: Ai–dos os–despreocupados em–Tsiyon e–os–que–confiam no–monte–de Shomron notáveis–de primeira–de as–nações e–vêm a–eles casa–de Yisrael
+-- c6-v2: Passai Kalneh e–vede e–ide de–lá Hamat grande e–descei Gat–de– Pelishtim Melhores do–que– os–reinos os–estes se– grande sua–fronteira do–que–vossa–fronteira
+-- c6-v3: Os–que–afastam para–dia–de mal e–fazeis–aproximar assento–de violência
+-- c6-v4: Os–que–deitam sobre– camas–de marfim e–esparramados sobre– seus–divãs e–comem cordeiros do–rebanho e–bezerros do–meio–de engorda
+-- c6-v5: Os–que–cantarolam ao–som–de– boca–de a–harpa como–David inventaram para–eles instrumentos–de– cântico
+-- c6-v6: Os–que–bebem em–taças–de vinho e–primeiro–de óleos se–ungem e–não se–afligiram pela– ruina–de Yosef
+-- c6-v7: Portanto agora irão–ao–exílio na–cabeça–de exilados e–acabará orgia–de os–esparramados ¶
+-- c6-v8: Jurou Adonay YHWH por–sua–alma declaração–de– YHWH Elohim–de exércitos detesto eu (a) soberba–de Yaaqov e–seus–palácios odeio e–entregarei cidade e–sua–plenitude
+-- c6-v9: E–será se– restarem dez homens em–casa uma e–morrerão
+-- c6-v10: E–levantará–o seu–tio e–o–que–o–queima para–tirar ossos de– a–casa e–dirá ao–que nos–cantos–de a–casa ainda–há contigo e–dirá acabou e–dirá silêncio pois não para–mencionar em–nome–de YHWH
+-- c6-v11: Pois– eis YHWH ordenando e–ferirá a–casa a–grande ruínas e–a–casa a–pequena fendas
+-- c6-v12: Correrão na–rocha cavalos se– arará com–bois pois– transformastes em–veneno justiça e–fruto–de justiça em–losna
+-- c6-v13: Os–que–se–alegram por–não– coisa os–que–dizem acaso–não com–nossa–força tomamos para–nós chifres
+-- c6-v14: Pois eis–me levantando sobre–vós casa–de Yisrael declaração–de– YHWH Elohim–de os–exércitos nação e–vos–oprimem (a)–vós da–entrada–de Hamat até– ribeiro–de o–Arabah §
+-- c7-v1: Assim mostrou–me Adonay YHWH e–eis formando gafanhotos no–início–de subir–de o–rebento e–eis– rebento depois–de cortes–de o–rei
+-- c7-v2: E–foi se– acabou de–comer (a) relva–de a–terra e–disse Adonay YHWH perdoa– por–favor quem se–levantará Yaaqov pois pequeno ele
+-- c7-v3: Arrependeu–se YHWH sobre– isto não será disse YHWH
+-- c7-v4: Assim mostrou–me Adonay YHWH e–eis chamando para–contender com–fogo Adonay YHWH e–consumiu (a) abismo grande e–consumiu (a) a–porção
+-- c7-v5: E–disse Adonay YHWH cessa– por–favor quem se–levantará Yaaqov pois pequeno ele
+-- c7-v6: Arrependeu–se YHWH sobre– isto também– ela não será disse Adonay YHWH §
+-- c7-v7: Assim mostrou–me e–eis Adonay postado sobre– muro–de prumo e–em–sua–mão prumo
+-- c7-v8: E–disse YHWH a–mim Que– tu vês Amós e–disse prumo e–disse Adonay eis–me pondo prumo no–meio–de meu–povo Yisrael não– continuarei ainda passar–por para–ele
+-- c7-v9: E–serão–devastados altos–de Yitshaq e–santuários–de Yisrael serão–arruinados e–levantar–me–ei contra– casa–de Yarovam com–espada ¶
+-- c7-v10: E–enviou Amatsyah sacerdote–de Beyt–El a– Yarovam rei–de– Yisrael dizendo conspirou contra–ti Amós no–meio–de casa–de Yisrael não– pode a–terra conter (a) todas– suas–palavras
+-- c7-v11: Pois– assim disse Amós com–espada morrerá Yarovam e–Yisrael certamente–irá–ao–exílio irá–ao–exílio de–sobre sua–terra §
+-- c7-v12: E–disse Amatsyah a– Amós vidente vai foge– para–ti para– terra–de Yehudah e–come– lá pão e–lá profetiza
+-- c7-v13: E–Beyt–El não– continues ainda profetizar pois santuário–de– rei ele e–casa–de reino ele §
+-- c7-v14: E–respondeu Amós e–disse a– Amatsyah não– profeta eu e–não filho–de– profeta eu pois– boiadeiro eu e–cultivador–de sicômoros
+-- c7-v15: E–tomou–me YHWH de–detrás–de o–rebanho e–disse a–mim YHWH vai profetiza a– meu–povo Yisrael
+-- c7-v16: E–agora ouve palavra–de– YHWH tu dizes não profetizes sobre– Yisrael e–não goteje sobre– casa–de Yitshaq
+-- c7-v17: Portanto assim– disse YHWH tua–mulher na–cidade se–prostituirá e–teus–filhos e–tuas–filhas pela–espada cairão e–tua–terra com–cordão será–repartida e–tu sobre– terra impura morrerás e–Yisrael certamente–irá–ao–exílio irá–ao–exílio de–sobre sua–terra §
+-- c8-v1: Assim mostrou–me Adonay YHWH e–eis cesto–de frutos–de–verão
+-- c8-v2: E–disse Que– tu vês Amós e–disse cesto–de frutos–de–verão e–disse YHWH a–mim veio o–fim a– meu–povo Yisrael não– continuarei ainda passar–por para–ele
+-- c8-v3: E–ulularão canções–de templo no–dia o–aquele declaração–de Adonay YHWH muitos o–cadáver em–todo– lugar lançou silêncio ¶
+-- c8-v4: Ouvi– isto os–que–anseiam necessitado e–para–acabar [oprimidos–de–] (humildes–de–) terra
+-- c8-v5: Dizendo quando passará a–lua–nova e–venderemos cereal e–o–sábado e–abriremos– trigo para–diminuir efa e–para–aumentar siclo e–para–falsificar balanças–de engano
+-- c8-v6: Para–comprar por–prata pobres e–necessitado por–causa–de sandálias e–refugo–de trigo venderemos
+-- c8-v7: Jurou YHWH pela–soberba–de Yaaqov se– esquecerei para–sempre todas– suas–obras
+-- c8-v8: Por–causa–de isto não– tremerá a–terra e–lamentará todo– habitante nela e–subirá como–o–Nilo toda–ela e–será–agitada [e–afundará] (e–submergirá) como–Nilo–de Mitsrayim §
+-- c8-v9: E–será no–dia o–aquele declaração–de Adonay YHWH e–farei–pôr o–sol ao–meio–dia e–escurecerei a–terra em–dia–de luz
+-- c8-v10: E–transformarei vossas–festas em–luto e–todas– vossas–canções em–lamentação e–farei–subir sobre– todos– lombos saco e–sobre– toda– cabeça calvice e–fá–la–ei como–luto–de único e–seu–fim como–dia–de amargura
+-- c8-v11: Eis dias vindo declaração–de Adonay YHWH e–enviarei fome na–terra não– fome de–pão e–não– sede de–água pois se– de–ouvir (a) palavras–de YHWH
+-- c8-v12: E–vagarão de–mar até– mar e–de–norte e–até– oriente perambularão para–buscar (a) palavra–de– YHWH e–não acharão
+-- c8-v13: No–dia o–aquele desmaiarão as–virgens as–belas e–os–jovens de–sede
+-- c8-v14: Os–que–juram pela–culpa–de Shomron e–dizem vive teu–deus Dan e–vive caminho–de Beer–Sheva e–cairão e–não– se–levantarão mais §
+-- c9-v1: Vi (a) Adonay postado sobre– o–altar e–disse fere o–capitel e–tremerão os–umbrais e–corta–os na–cabeça–de todos–eles e–sua–posteridade pela–espada matarei não– fugirá deles fugitivo e–não– escapará deles sobrevivente
+-- c9-v2: Se– cavarem no–Sheol de–lá minha–mão os–tomará e–se– subirem os–céus de–lá os–farei–descer
+-- c9-v3: E–se– se–esconderem no–cume–de o–Karmel de–lá os–buscarei e–os–tomarei e–se– se–ocultarem de–diante–de meus–olhos no–fundo–de o–mar de–lá ordenarei (a) a–serpente e–os–morderá
+-- c9-v4: E–se– forem em–cativeiro diante–de seus–inimigos de–lá ordenarei (a) a–espada e–os–matará e–porei meus–olhos sobre–eles para–mal e–não para–bem
+-- c9-v5: E–Adonay YHWH os–exércitos o–que–toca na–terra e–derrete e–lamentam todos– habitantes–de nela e–subirá como–o–Nilo toda–ela e–submergirá como–Nilo–de Mitsrayim
+-- c9-v6: O–que–edifica nos–céus [seus–degraus] (seus–degraus) e–seu–feixe sobre– terra a–fundou o–que–chama para–águas–de– o–mar e–as–derrama sobre– face–de a–terra YHWH seu–nome
+-- c9-v7: Acaso–não como–filhos–de Kushim vós para–mim filhos–de Yisrael declaração–de– YHWH Acaso–não (a) Yisrael fiz–subir de–terra–de Mitsrayim e–Pelishtim de–Kaftor e–Aram de–Qir
+-- c9-v8: Eis olhos–de Adonay YHWH no–reino o–pecador e–destruirei (a)–ele de–sobre face–de a–terra exceto que não destruindo destruirei (a) casa–de Yaaqov declaração–de– YHWH
+-- c9-v9: Pois– eis eu ordenando e–sacudirei entre–todas– as–nações (a) casa–de Yisrael como se–sacode na–peneira e–não– cairá seixo terra
+-- c9-v10: Pela–espada morrerão todos pecadores–de meu–povo os–que–dizem não– se–aproximará e–adiantará por–causa–de–nós o–mal
+-- c9-v11: No–dia o–aquele levantarei (a) tenda–de David a–caída e–tapareı (a) suas–brechas e–suas–ruínas levantarei e–a–construirei como–dias–de eternidade
+-- c9-v12: Para–que possuam (a) remanescente–de Edom e–todas– as–nações que– foi–chamado meu–nome sobre–eles declaração–de– YHWH que–faz isto ¶
+-- c9-v13: Eis dias vindo declaração–de– YHWH e–alcançará arador o–ceifeiro e–pisador–de uvas o–que–puxa–de a–semente e–gotejarão os–montes vinho–doce e–todas– as–colinas se–derreterão
+-- c9-v14: E–restaurarei (a) cativeiro–de meu–povo Yisrael e–construirão cidades desoladas e–habitarão e–plantarão vinhas e–beberão (a) seu–vinho e–farão jardins e–comerão (a) seus–frutos
+-- c9-v15: E–os–plantarei sobre– sua–terra e–não serão–arrancados mais de–sobre sua–terra que dei a–eles disse YHWH teu–Elohim
 
 BEGIN;
 -- 3000100101: דִּבְרֵ֣י (H1697) → "Palavras–de" [opus-4.5-chirho]

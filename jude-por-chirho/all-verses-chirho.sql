@@ -3,33 +3,33 @@
 -- — John 3:16
 
 -- JUDE - POR Combined
--- Generated: 2026-01-27T21:47:24Z
+-- Generated: 2026-01-27T22:21:11Z
 
--- JUDE c1-v1 - POR
--- JUDE c1-v2 - POR
--- JUDE c1-v3 - POR
--- JUDE c1-v4 - POR
--- JUDE c1-v5 - POR
--- JUDE c1-v6 - POR
--- JUDE c1-v7 - POR
--- JUDE c1-v8 - POR
--- JUDE c1-v9 - POR
--- JUDE c1-v10 - POR
--- JUDE c1-v11 - POR
--- JUDE c1-v12 - POR
--- JUDE c1-v13 - POR
--- JUDE c1-v14 - POR
--- JUDE c1-v15 - POR
--- JUDE c1-v16 - POR
--- JUDE c1-v17 - POR
--- JUDE c1-v18 - POR
--- JUDE c1-v19 - POR
--- JUDE c1-v20 - POR
--- JUDE c1-v21 - POR
--- JUDE c1-v22 - POR
--- JUDE c1-v23 - POR
--- JUDE c1-v24 - POR
--- JUDE c1-v25 - POR
+-- c1-v1: Judas de–Jesus Cristo servo irmão e de–Tiago aos em Deus Pai amados e em–Jesus Cristo guardados chamados
+-- c1-v2: misericórdia a–vós e paz e amor sejam–multiplicados
+-- c1-v3: Amados toda diligência fazendo escrever a–vós acerca da comum nossa salvação necessidade tive escrever a–vós exortando batalhar pela uma–vez entregue aos santos fé
+-- c1-v4: introduziram–se pois alguns homens os antigamente anteriormente–escritos para este o juízo ímpios a do Deus nosso graça transformando em libertinagem e o único Soberano e Senhor nosso Jesus Cristo negando
+-- c1-v5: Lembrar porém vos quero sabendo vós uma–vez todas–as–coisas que o Senhor povo de terra do–Egito salvando o segunda os não crentes destruiu
+-- c1-v6: anjos também os não guardando o próprio domínio mas abandonando a própria habitação para juízo do–grande dia em–cadeias eternas sob trevas guardou
+-- c1-v7: como Sodoma e Gomorra e as ao–redor delas cidades da semelhante maneira a–estes prostituindo–se e indo após carne estranha são–apresentadas exemplo de–fogo eterno castigo sofrendo
+-- c1-v8: Semelhantemente todavia também estes sonhadores carne por–um–lado contaminam domínio porém rejeitam glórias e blasfemam
+-- c1-v9: o porém Miguel o arcanjo quando com–o diabo contendendo disputava acerca do de–Moisés corpo não ousou juízo proferir de–blasfêmia mas disse Repreenda te o–Senhor
+-- c1-v10: estes porém quantas–coisas por–um–lado não conhecem blasfemam quantas–coisas porém naturalmente como os irracionais animais entendem nestas coisas corrompem–se
+-- c1-v11: ai deles porque no caminho de Caim andaram e no engano de Balaão por–recompensa derramaram–se e na rebelião de Coré pereceram
+-- c1-v12: Estes são os em as festas–de–amor vossas rochedos–ocultos banqueteando–juntos sem–temor a–si–mesmos apascentando nuvens sem–água por ventos levadas árvores outonais sem–fruto duas–vezes mortas desarraigadas
+-- c1-v13: ondas selvagens do–mar espumando as suas–próprias vergonhas estrelas errantes para–os–quais a escuridão das trevas para sempre está–reservada
+-- c1-v14: Profetizou porém também a–estes sétimo desde Adão Enoque dizendo Eis veio o–Senhor com santas miríades suas
+-- c1-v15: fazer juízo contra todos e convencer todos os ímpios acerca de–todas as obras de–impiedade deles as–quais impiedosamente–fizeram e acerca de–todas as duras–palavras as–quais falaram contra ele pecadores ímpios
+-- c1-v16: Estes são murmuradores queixosos segundo os desejos deles andando e a boca deles fala arrogâncias admirando pessoas de–proveito por–causa
+-- c1-v17: Vós porém amados lembrai–vos das palavras as anteriormente–ditas pelos os apóstolos do Senhor nosso Jesus Cristo
+-- c1-v18: que diziam a–vós que No último do tempo haverá zombadores segundo os próprios desejos andando das impiedades
+-- c1-v19: Estes são os separadores sensuais Espírito não tendo
+-- c1-v20: vós porém amados edificando vos–mesmos na santíssima vossa fé no Espírito Santo orando
+-- c1-v21: vos–mesmos no amor de–Deus guardai aguardando a misericórdia do Senhor nosso Jesus Cristo para vida eterna
+-- c1-v22: e a–uns por–um–lado tende–misericórdia duvidando
+-- c1-v23: a–outros porém salvai do fogo arrebatando a–outros porém tende–misericórdia com temor odiando até a da a carne manchada túnica
+-- c1-v24: Ao porém que–pode guardar vos sem–tropeço e apresentar diante da glória sua imaculados com alegria
+-- c1-v25: ao–único Deus Salvador nosso por Jesus Cristo o Senhor nosso glória majestade poder e autoridade antes de–todo o século e agora e por todos os séculos amém
 
 BEGIN;
 -- 6500100101: Ἰούδας, (G2455) → "Judas" [opus-4.5-chirho]

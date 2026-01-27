@@ -3,55 +3,55 @@
 -- — John 3:16
 
 -- NAHUM - POR Combined
--- Generated: 2026-01-27T21:47:41Z
+-- Generated: 2026-01-27T22:21:39Z
 
--- NAHUM c1-v1 - POR
--- NAHUM c1-v2 - POR
--- NAHUM c1-v3 - POR
--- NAHUM c1-v4 - POR
--- NAHUM c1-v5 - POR
--- NAHUM c1-v6 - POR
--- NAHUM c1-v7 - POR
--- NAHUM c1-v8 - POR
--- NAHUM c1-v9 - POR
--- NAHUM c1-v10 - POR
--- NAHUM c1-v11 - POR
--- NAHUM c1-v12 - POR
--- NAHUM c1-v13 - POR
--- NAHUM c1-v14 - POR
--- NAHUM c1-v15 - POR
--- NAHUM c2-v1 - POR
--- NAHUM c2-v2 - POR
--- NAHUM c2-v3 - POR
--- NAHUM c2-v4 - POR
--- NAHUM c2-v5 - POR
--- NAHUM c2-v6 - POR
--- NAHUM c2-v7 - POR
--- NAHUM c2-v8 - POR
--- NAHUM c2-v9 - POR
--- NAHUM c2-v10 - POR
--- NAHUM c2-v11 - POR
--- NAHUM c2-v12 - POR
--- NAHUM c2-v13 - POR
--- NAHUM c3-v1 - POR
--- NAHUM c3-v2 - POR
--- NAHUM c3-v3 - POR
--- NAHUM c3-v4 - POR
--- NAHUM c3-v5 - POR
--- NAHUM c3-v6 - POR
--- NAHUM c3-v7 - POR
--- NAHUM c3-v8 - POR
--- NAHUM c3-v9 - POR
--- NAHUM c3-v10 - POR
--- NAHUM c3-v11 - POR
--- NAHUM c3-v12 - POR
--- NAHUM c3-v13 - POR
--- NAHUM c3-v14 - POR
--- NAHUM c3-v15 - POR
--- NAHUM c3-v16 - POR
--- NAHUM c3-v17 - POR
--- NAHUM c3-v18 - POR
--- NAHUM c3-v19 - POR
+-- c1-v1: Sentença de–Nineve livro da–visão de–Nachum o–Elqoshita
+-- c1-v2: Deus zeloso e–vingador é–YHWH vingador é–YHWH e–senhor de–fúria vingador é–YHWH contra–seus–adversários e–guarda-rancor ele contra–seus–inimigos
+-- c1-v3: YHWH longo de–narizes [e–grande] (e–grande) de–força e–inocentar não inocentará YHWH em–tempestade e–em–vendaval é–seu–caminho e–nuvem é–pó de–seus–pés
+-- c1-v4: repreendendo ao–mar e–o–secou e–todos– os–rios fez–secar murcha Bashan e–Karmel e–a–flor do–Levanon murcha
+-- c1-v5: montanhas tremeram diante–dele e–os–outeiros derreteram-se e–levantou-se a–terra diante–dele e–o–mundo e–todos– os–que–habitam nela
+-- c1-v6: diante da–sua–indignação quem permanecerá e–quem se–levantará no–ardor da–sua–ira a–sua–fúria derrama-se como–fogo e–as–rochas são–despedaçadas por–ele
+-- c1-v7: bom é–YHWH como–fortaleza no–dia de–angústia e–conhece os–que–se–refugiam nele
+-- c1-v8: e–com–enchente que–passa um–fim fará ao–seu–lugar e–os–seus–inimigos perseguirá– trevas
+-- c1-v9: o–que– planejais contra– YHWH um–fim ele faz não– se–levantará duas–vezes a–angústia
+-- c1-v10: pois até– espinhos emaranhados e–como–sua–bebida embebedados serão–consumidos como–palha seca completamente
+-- c1-v11: de–ti saiu o–que–planeja contra– YHWH mal o–que–aconselha Beliyaal §
+-- c1-v12: assim diz YHWH se– completos e–assim muitos e–assim serão–ceifados e–passará e–te–afligi não te–afligirei mais
+-- c1-v13: e–agora quebrarei o–seu–jugo de–sobre–ti e–as–tuas–correntes romperei
+-- c1-v14: e–ordenou sobre–ti YHWH não– será–semeado do–teu–nome mais da–casa dos–teus–deuses cortarei imagem–esculpida e–imagem–fundida farei teu–sepulcro pois és–vil ¶
+-- c1-v15: eis sobre– as–montanhas os–pés do–que–anuncia proclamando paz celebra ó–Yehudah as–tuas–festas cumpre os–teus–votos pois não continuará mais [a–passar–] (a–passar–) por–ti Beliyaal completamente foi–cortado
+-- c2-v1: subiu um–dispersador contra– a–tua–face guarda a–fortaleza vigia– o–caminho fortalece os–lombos robustece a–força muito
+-- c2-v2: pois restaurará YHWH (a) majestade de–Yaaqov como–a–majestade de–Yisrael pois os–saquearam saqueadores e–os–seus–ramos arruinaram
+-- c2-v3: escudo dos–seus–guerreiros é–vermelho homens–de– valor vestidos–de–escarlate em–fogo–de– aço os–carros no–dia da–sua–preparação e–as–lanças são–brandidas
+-- c2-v4: nas–ruas correm–loucamente os–carros chocan-se nas–praças a–sua–aparência é–como–tochas como–relâmpagos correm
+-- c2-v5: ele–lembrará os–seus–nobres tropeçam [em–seu–andar] (em–seu–andar) apressam-se à–sua–muralha e–é–preparado o–abrigo
+-- c2-v6: portais dos–rios são–abertos e–o–palácio derrete-se
+-- c2-v7: e–está–decretado ela–é–descoberta ela–é–levada e–as–suas–servas gemendo como–voz de–pombas batendo sobre– os–seus–corações
+-- c2-v8: e–Nineve é–como–tanque–de– águas desde–os–dias dela e–eles estão–fugindo parem parem e–não–há quem–se–volte
+-- c2-v9: saqueai prata saqueai ouro e–não–há fim para–a–provisião glória de–todos os–objetos preciosos
+-- c2-v10: vazio e–saqueado e–devastado e–o–coração derrete-se e–tremor nos–joelhos e–dor em–todos– os–lombos e–as–faces de–todos–eles recolheram palidez
+-- c2-v11: onde–está o–covil dos–leões e–o–pasto ele para–os–leonculos onde andava o–leão a–leoa ali o–filhote do–leão e–não–há quem–assuste
+-- c2-v12: o–leão despedaçava bastante–para– os–seus–filhotes e–estrangulava para–as–suas–leoas e–enchia–de– presa as–suas–cavernas e–os–seus–covis de–despojo
+-- c2-v13: eis-me contra–ti declaração–de YHWH dos–Exércitos e–queimarei em–fumaça os–seus–carros e–os–teus–leonculos devorará a–espada e–cortarei da–terra a–tua–presa e–não– se–ouvirá mais voz dos–teus–mensageiros §
+-- c3-v1: ai da–cidade de–sangues toda–ela de–mentira de–despojo cheia não cessa a–presa
+-- c3-v2: som de–chicote e–som de–estrondo de–roda e–cavalo galopando e–carro saltando
+-- c3-v3: cavaleiro avançando e–chama de–espada e–brilho de–lança e–multidão de–mortos e–peso de–cadáveres e–não–há fim para–os–corpos [tropeçam] (e–tropeçam) nos–seus–corpos
+-- c3-v4: por–causa–da–multidão das–prostituições da–prostituta de–boa graça senhora de–feitiçarias a–que–vende nações com–as–suas–prostituições e–famílias com–os–seus–feitiços
+-- c3-v5: eis-me contra–ti declaração–de YHWH dos–Exércitos e–levantarei as–tuas–saias sobre– a–tua–face e–mostrarei às–nações a–tua–nudez e–aos–reinos a–tua–vergonha
+-- c3-v6: e–lançarei sobre–ti imundices e–te–envergonharei e–te–farei como–espetáculo
+-- c3-v7: e–acontecerá todo– que–te–vê fugirá de–ti e–dirá foi–devastada Nineve quem a–lamentará por–ela de–onde buscarei consoladores para–ti
+-- c3-v8: és–tu–melhor do–que–No Amon a–que–habitava entre–os–canais águas ao–redor dela cuja– muralha é–o–mar do–mar é–o–seu–muro
+-- c3-v9: Kush era–a–sua–força e–Mitsrayim e–não–havia fim Put e–Luvim eram em–tua–ajuda
+-- c3-v10: também– ela para–o–exílio foi em–cativeiro também os–seus–pequeninos foram–despedaçados no–cabeça de–todas– as–ruas e–sobre– os–seus–nobres lançaram sortes e–todos– os–seus–grandes foram–acorrentados em–grilhões
+-- c3-v11: também– tu te–embriagaras estarás escondida também– tu buscarás refúgio do–inimigo
+-- c3-v12: todas– as–tuas–fortalezas são–figueiras com– os–primeiros–frutos se– são–sacudidas e–caem sobre– a–boca do–que–come
+-- c3-v13: eis o–teu–povo são–mulheres no–teu–meio aos–teus–inimigos abertamente estão–abertos os–portões da–tua–terra devorou o–fogo as–tuas–trancas
+-- c3-v14: água de–cerco tira– para–ti fortalece as–tuas–fortalezas entra no–barro e–pisa na–argila segura o–molde–de–tijolos
+-- c3-v15: ali te–devorará o–fogo te–cortará a–espada te–devorará como–o–gafanhoto multiplica-te como–o–gafanhoto multiplica-te como–o–gafanhoto
+-- c3-v16: multiplicaste os–teus–comerciantes mais–que–as–estrelas dos–céus o–gafanhoto despoja e–voa
+-- c3-v17: os–teus–guardas são–como–gafanhotos e–os–teus–oficiais como–enxame de–gafanhotos os–que–acampam nos–muros no–dia de–frio o–sol nasce e–foge e–não– é–conhecido o–seu–lugar onde–estão
+-- c3-v18: adormecem os–teus–pastores ó–rei de–Ashur repousam os–teus–nobres dispersou-se o–teu–povo sobre– as–montanhas e–não–há quem–reúna
+-- c3-v19: não–há– cura para–a–tua–ferida grave é–a–tua–chaga todos os–que–ouvem a–tua–fama batem palmas sobre–ti pois sobre– quem não– passou a–tua–maldade continuamente
 
 BEGIN;
 -- 3400100101: מַשָּׂ֖א (H4853b) → "Sentença" [opus-4.5-chirho]

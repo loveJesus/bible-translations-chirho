@@ -3,21 +3,21 @@
 -- — John 3:16
 
 -- 2JOHN - POR Combined
--- Generated: 2026-01-27T21:46:24Z
+-- Generated: 2026-01-27T22:19:26Z
 
--- 2JOHN c1-v1 - POR
--- 2JOHN c1-v2 - POR
--- 2JOHN c1-v3 - POR
--- 2JOHN c1-v4 - POR
--- 2JOHN c1-v5 - POR
--- 2JOHN c1-v6 - POR
--- 2JOHN c1-v7 - POR
--- 2JOHN c1-v8 - POR
--- 2JOHN c1-v9 - POR
--- 2JOHN c1-v10 - POR
--- 2JOHN c1-v11 - POR
--- 2JOHN c1-v12 - POR
--- 2JOHN c1-v13 - POR
+-- c1-v1: O ancião, à–eleita senhora e aos filhos dela, os–quais eu amo em verdade, e não eu somente, mas também todos os que–conhecem a verdade–
+-- c1-v2: por–causa–de a verdade a que–permanece em nós, e conosco de–nós estará para a eternidade:
+-- c1-v3: estará conosco de–nós graça, misericórdia, paz da–parte–de Deus Pai, e da–parte–de Jesus Cristo, o Filho do Pai, em verdade e amor.
+-- c1-v4: Alegrei-me grandemente porque encontrei dentre os filhos teus andando em verdade, conforme mandamento recebemos da–parte–de o Pai.
+-- c1-v5: e agora peço-te, a–ti, senhora, não como mandamento «escrevendo a–ti» novo, mas o–qual tínhamos desde o–princípio, que amemos uns–aos–outros.
+-- c1-v6: e este é o amor, que andemos segundo os mandamentos dele. este o mandamento é conforme, ouvistes desde o–princípio, que nele nele andeis.
+-- c1-v7: Porque muitos enganadores saíram para o mundo, os que–não confessam Jesus Cristo vindo em carne. este é o enganador e o anticristo.
+-- c1-v8: Olhai a–vós–mesmos, para–que não percais as–coisas–que trabalhamos, mas galardão pleno recebais.
+-- c1-v9: Todo o que–vai–além, e não permanece na a doutrina de–o Cristo, a–Deus não tem. O que–permanece na a doutrina, este tanto o Pai quanto o Filho tem.
+-- c1-v10: Se alguém vem a vós, e esta a doutrina não traz, não recebais ele em casa, e alegrar-se a–ele não digais;
+-- c1-v11: o que–diz pois a–ele alegrar-se compartilha nas obras dele as más.
+-- c1-v12: Muitas–coisas tendo a–vós a–escrever, não quis por–meio–de papel e tinta; mas espero chegar a vós, e boca a boca falar, para–que a alegria nossa completa seja.
+-- c1-v13: Saúdam-te a–ti, os filhos da irmã tua a eleita. <Amém>
 
 BEGIN;
 -- 6300100101: Ὁ (G3588) → "O" [opus-4.5-chirho]

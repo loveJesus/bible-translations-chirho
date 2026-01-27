@@ -3,97 +3,97 @@
 -- — John 3:16
 
 -- 1THESSALONIANS - POR Combined
--- Generated: 2026-01-27T21:46:18Z
+-- Generated: 2026-01-27T22:19:17Z
 
--- 1THESSALONIANS c1-v1 - POR
--- 1THESSALONIANS c1-v2 - POR
--- 1THESSALONIANS c1-v3 - POR
--- 1THESSALONIANS c1-v4 - POR
--- 1THESSALONIANS c1-v5 - POR
--- 1THESSALONIANS c1-v6 - POR
--- 1THESSALONIANS c1-v7 - POR
--- 1THESSALONIANS c1-v8 - POR
--- 1THESSALONIANS c1-v9 - POR
--- 1THESSALONIANS c1-v10 - POR
--- 1THESSALONIANS c2-v1 - POR
--- 1THESSALONIANS c2-v2 - POR
--- 1THESSALONIANS c2-v3 - POR
--- 1THESSALONIANS c2-v4 - POR
--- 1THESSALONIANS c2-v5 - POR
--- 1THESSALONIANS c2-v6 - POR
--- 1THESSALONIANS c2-v7 - POR
--- 1THESSALONIANS c2-v8 - POR
--- 1THESSALONIANS c2-v9 - POR
--- 1THESSALONIANS c2-v10 - POR
--- 1THESSALONIANS c2-v11 - POR
--- 1THESSALONIANS c2-v12 - POR
--- 1THESSALONIANS c2-v13 - POR
--- 1THESSALONIANS c2-v14 - POR
--- 1THESSALONIANS c2-v15 - POR
--- 1THESSALONIANS c2-v16 - POR
--- 1THESSALONIANS c2-v17 - POR
--- 1THESSALONIANS c2-v18 - POR
--- 1THESSALONIANS c2-v19 - POR
--- 1THESSALONIANS c2-v20 - POR
--- 1THESSALONIANS c3-v1 - POR
--- 1THESSALONIANS c3-v2 - POR
--- 1THESSALONIANS c3-v3 - POR
--- 1THESSALONIANS c3-v4 - POR
--- 1THESSALONIANS c3-v5 - POR
--- 1THESSALONIANS c3-v6 - POR
--- 1THESSALONIANS c3-v7 - POR
--- 1THESSALONIANS c3-v8 - POR
--- 1THESSALONIANS c3-v9 - POR
--- 1THESSALONIANS c3-v10 - POR
--- 1THESSALONIANS c3-v11 - POR
--- 1THESSALONIANS c3-v12 - POR
--- 1THESSALONIANS c3-v13 - POR
--- 1THESSALONIANS c4-v1 - POR
--- 1THESSALONIANS c4-v2 - POR
--- 1THESSALONIANS c4-v3 - POR
--- 1THESSALONIANS c4-v4 - POR
--- 1THESSALONIANS c4-v5 - POR
--- 1THESSALONIANS c4-v6 - POR
--- 1THESSALONIANS c4-v7 - POR
--- 1THESSALONIANS c4-v8 - POR
--- 1THESSALONIANS c4-v9 - POR
--- 1THESSALONIANS c4-v10 - POR
--- 1THESSALONIANS c4-v11 - POR
--- 1THESSALONIANS c4-v12 - POR
--- 1THESSALONIANS c4-v13 - POR
--- 1THESSALONIANS c4-v14 - POR
--- 1THESSALONIANS c4-v15 - POR
--- 1THESSALONIANS c4-v16 - POR
--- 1THESSALONIANS c4-v17 - POR
--- 1THESSALONIANS c4-v18 - POR
--- 1THESSALONIANS c5-v1 - POR
--- 1THESSALONIANS c5-v2 - POR
--- 1THESSALONIANS c5-v3 - POR
--- 1THESSALONIANS c5-v4 - POR
--- 1THESSALONIANS c5-v5 - POR
--- 1THESSALONIANS c5-v6 - POR
--- 1THESSALONIANS c5-v7 - POR
--- 1THESSALONIANS c5-v8 - POR
--- 1THESSALONIANS c5-v9 - POR
--- 1THESSALONIANS c5-v10 - POR
--- 1THESSALONIANS c5-v11 - POR
--- 1THESSALONIANS c5-v12 - POR
--- 1THESSALONIANS c5-v13 - POR
--- 1THESSALONIANS c5-v14 - POR
--- 1THESSALONIANS c5-v15 - POR
--- 1THESSALONIANS c5-v16 - POR
--- 1THESSALONIANS c5-v17 - POR
--- 1THESSALONIANS c5-v18 - POR
--- 1THESSALONIANS c5-v19 - POR
--- 1THESSALONIANS c5-v20 - POR
--- 1THESSALONIANS c5-v21 - POR
--- 1THESSALONIANS c5-v22 - POR
--- 1THESSALONIANS c5-v23 - POR
--- 1THESSALONIANS c5-v24 - POR
--- 1THESSALONIANS c5-v25 - POR
--- 1THESSALONIANS c5-v26 - POR
--- 1THESSALONIANS c5-v27 - POR
--- 1THESSALONIANS c5-v28 - POR
+-- c1-v1: Paulo e Silvano e Timóteo à igreja dos–tessalonicenses em Deus Pai e Senhor Jesus Cristo graça a–vós e paz de Deus Pai nosso e Senhor Jesus Cristo
+-- c1-v2: damos–graças a–o Deus sempre acerca–de todos vós menção fazendo sobre as orações nossas
+-- c1-v3: incessantemente lembrando de–vós a obra da fé e o trabalho do amor e a perseverança da esperança do Senhor nosso Jesus Cristo diante do Deus e Pai nosso
+-- c1-v4: sabendo irmãos amados por o Deus a eleição vossa
+-- c1-v5: que o evangelho nosso não veio para vós em palavra somente mas também em poder e em Espírito Santo e em plena–certeza muita assim–como sabeis quais nos–tornamos entre vós por–causa–de vós
+-- c1-v6: e vós imitadores nossos vos–tornastes e do Senhor tendo–recebido a palavra em tribulação muita com alegria do–Espírito Santo
+-- c1-v7: de–modo–que tornastes–vos vós exemplo a–todos os crentes na a Macedónia e na a Acaia
+-- c1-v8: de vós pois ressoou a palavra do Senhor não somente na a Macedónia e na a Acaia mas em todo lugar a fé vossa a para o Deus divulgou–se de–modo–que não necessidade termos nós falar algo
+-- c1-v9: eles–mesmos pois acerca–de nós anunciam qual entrada tivemos para vós e como vos–convertestes para o Deus dos os ídolos servir a–Deus vivo e verdadeiro
+-- c1-v10: e aguardar o Filho dele dos os céus a–quem ressuscitou dentre os mortos Jesus o que–nos–livra a–nós da a ira a vindoura
+-- c2-v1: Vós–mesmos pois sabeis irmãos a entrada nossa a para vós que não vã foi
+-- c2-v2: mas tendo–antes–sofrido e tendo–sido–ultrajados assim–como sabeis em Filipos ousamos em o Deus nosso falar a vós o evangelho do Deus em muita luta
+-- c2-v3: a pois exortação nossa não de engano nem de impureza nem em dolo
+-- c2-v4: mas assim–como fomos–aprovados por o Deus ser–confiado o evangelho assim falamos não como a–homens agradando mas a–Deus ao que–prova os corações nossos
+-- c2-v5: nem pois alguma–vez em palavra de–lisonja viemos assim–como sabeis nem com pretexto de–avareza Deus testemunha
+-- c2-v6: nem buscando de homens glória nem de vós nem de outros podendo em peso ser como de–Cristo apóstolos
+-- c2-v7: mas tornamo–nos gentis em meio de–vós como se ama aquece os seus–próprios filhos
+-- c2-v8: assim anelando por–vós nos–agradou compartilhar convosco não somente o evangelho do Deus mas também as próprias vidas porque amados a–nós vos–tornastes
+-- c2-v9: lembrais pois irmãos o trabalho nosso e a fadiga de–noite e de–dia trabalhando para o não sermos–pesados a–algum de–vós pregamos a vós o evangelho do Deus
+-- c2-v10: vós testemunhas e o Deus quão santamente e justamente e irrepreensivelmente para–convosco os crentes fomos
+-- c2-v11: assim–como sabeis como a–um cada–um de–vós como pai filhos próprios
+-- c2-v12: exortando a–vós e consolando e testificando para o andardes vós dignamente do Deus do que–chama a–vós para o próprio reino e glória
+-- c2-v13: E por isso também nós damos–graças a–o Deus incessantemente que tendo–recebido palavra de–ouvir de nós do Deus aceitastes não palavra de–homens mas assim–como verdadeiramente é palavra de–Deus a–qual também opera em vós os crentes
+-- c2-v14: vós pois imitadores vos–tornastes irmãos das igrejas do Deus as que–estão na a Judeia em Cristo Jesus porque as mesmas–coisas sofrestes também vós dos os próprios conterrâneos assim–como também eles dos os judeus
+-- c2-v15: os que–também o Senhor mataram Jesus e os profetas e a–nós perseguiram e a–Deus não agradando e a–todos os–homens contrários
+-- c2-v16: impedindo a–nós às nações falar para–que sejam–salvas para o completarem deles os pecados sempre alcançou porém sobre eles a ira até o–fim
+-- c2-v17: Nós porém irmãos tendo–sido–separados de vós por tempo de–hora em–presença não em–coração mais–abundantemente nos–esforçamos o rosto vosso ver com muito desejo
+-- c2-v18: porque quisemos ir para vós eu de–fato Paulo e uma–vez e duas–vezes e impediu a–nós o Satanás
+-- c2-v19: quem pois nossa esperança ou alegria ou coroa de–glória ou não–é também vós diante do Senhor nosso Jesus na a sua vinda
+-- c2-v20: vós pois sois a glória nossa e a alegria
+-- c3-v1: Por–isso não–mais suportando pareceu–nos–bem ser–deixados em Atenas sós
+-- c3-v2: e enviamos Timóteo o irmão nosso e cooperador do Deus no o evangelho do Cristo para o confirmar a–vós e exortar por a fé vossa
+-- c3-v3: o ninguém ser–perturbado nas as tribulações estas vós–mesmos pois sabeis que para isto estamos–destinados
+-- c3-v4: e pois quando convosco vós estávamos predízíamos a–vós que havíamos ser–atribulados assim–como também aconteceu e sabeis
+-- c3-v5: por isso também–eu não–mais suportando enviei para o conhecer a fé vossa não de–algum–modo tentou a–vós o tentador e em vão fosse o trabalho nosso
+-- c3-v6: Agora porém tendo–vindo Timóteo para nós de vós e tendo–anunciado a–nós a fé e o amor vosso e que tendes lembrança de–nós boa sempre anelando a–nós ver assim–como também nós a–vós
+-- c3-v7: por isso fomos–consolados irmãos acerca–de vós em toda a necessidade e tribulação nossa por–meio–de a vossa fé
+-- c3-v8: porque agora vivemos se vós permaneceis–firmes no Senhor
+-- c3-v9: que pois ação–de–graças podemos a–o Deus retribuir acerca–de vós por toda a alegria com–que nos–alegramos por–causa–de vós diante do Deus nosso
+-- c3-v10: de–noite e de–dia abundantemente rogando para o ver vosso o rosto e completar as deficiências da fé vossa
+-- c3-v11: Ele–mesmo porém o Deus e Pai nosso e o Senhor nosso Jesus dirija o caminho nosso para vós
+-- c3-v12: a–vós porém o Senhor faça–crescer e faça–abundar no amor uns–para os–outros e para todos assim–como também nós para vós
+-- c3-v13: para o confirmar vossos os corações irrepreensíveis em santidade diante do Deus e Pai nosso na a vinda do Senhor nosso Jesus com todos os santos dele amém
+-- c4-v1: Finalmente pois irmãos rogamos a–vós e exortamos no Senhor Jesus que assim–como recebestes de nós o como convém a–vós andar e agradar a–Deus assim–como também andais que abundeis mais
+-- c4-v2: sabeis pois quais mandamentos demos a–vós por–meio–do o Senhor Jesus
+-- c4-v3: Isto pois é vontade do Deus a santificação vossa abster–vos vós da a fornicação
+-- c4-v4: saber cada–um de–vós o próprio vaso possuir em santificação e honra
+-- c4-v5: não em paixão de–concupiscência assim–como também os gentios os que–não conhecem o Deus
+-- c4-v6: o não transgredir e defraudar no o negócio o irmão seu porque vingador o–Senhor acerca–de todas estas–coisas assim–como também predissemos a–vós e testificamos
+-- c4-v7: não pois chamou a–nós o Deus para impureza mas em santificação
+-- c4-v8: portanto o que–rejeita não homem rejeita mas o Deus o também que–dá o Espírito seu o Santo em vós
+-- c4-v9: Acerca porém do amor–fraterno não necessidade tendes escrever–vos a–vós vós–mesmos pois vós ensinados–por–Deus sois para o amar uns–aos–outros
+-- c4-v10: e pois fazeis isso para todos os irmãos os em toda a Macedónia exortamos porém a–vós irmãos abundar mais
+-- c4-v11: e ambicionar viver–quietos e fazer as próprias–coisas e trabalhar com–as próprias mãos vossas assim–como a–vós ordenamos
+-- c4-v12: para–que andeis honestamente para–com os de–fora e de–nenhum necessidade tenhais
+-- c4-v13: Não queremos porém vós ignorar irmãos acerca dos que–dormem para–que não vos–entristeceis assim–como também os demais os que–não têm esperança
+-- c4-v14: se pois cremos que Jesus morreu e ressuscitou assim também o Deus os que–dormiram por–meio–de o Jesus conduzirá junto–com ele
+-- c4-v15: Isto pois a–vós dizemos em palavra do–Senhor que nós os viventes os que–restamos para a vinda do Senhor de–modo–nenhum não precederemos os que–dormiram
+-- c4-v16: porque ele–mesmo o Senhor com brado com voz de–arcanjo e com trombeta de–Deus descerá do céu e os mortos em Cristo ressuscitarão primeiro
+-- c4-v17: depois nós os viventes os que–restamos juntamente com eles seremos–arrebatados em nuvens para encontro do Senhor para os–ares e assim sempre com o–Senhor estaremos
+-- c4-v18: Portanto consolai uns–aos–outros com as palavras estas
+-- c5-v1: Acerca porém dos tempos e das épocas irmãos não necessidade tendes a–vós escrever–se
+-- c5-v2: vós–mesmos pois exatamente sabeis que o–dia do–Senhor como ladrão de noite assim vem
+-- c5-v3: quando disserem Paz e segurança então repentina sobre–eles sobrevém destruição como a dor–de–parto à em ventre que–tem e de–modo–nenhum não escaparão
+-- c5-v4: vós porém irmãos não estais em trevas para–que o dia a–vós como ladrão surpreenda
+-- c5-v5: todos pois vós filhos da–luz sois e filhos do–dia não somos da–noite nem das–trevas
+-- c5-v6: portanto pois não durmamos como os demais mas vigiemos e sejamos–sóbrios
+-- c5-v7: os pois que–dormem de–noite dormem e os que–se–embriagam de–noite se–embriagam
+-- c5-v8: nós porém do–dia sendo sejamos–sóbrios tendo–vestido couraça da–fé e do–amor e capacete esperança da–salvação
+-- c5-v9: porque não designou a–nós o Deus para ira mas para obtenção de–salvação por–meio–do o Senhor nosso Jesus Cristo
+-- c5-v10: do que–morreu por nós para–que quer vigiemos quer durmamos juntamente com ele vivamos
+-- c5-v11: Por–isso consolai uns–aos–outros e edificai um ao outro assim–como também fazeis
+-- c5-v12: Rogamos porém a–vós irmãos reconhecer os que–trabalham entre vós e que–presidem sobre–vós no Senhor e que–vos–admoestam a–vós
+-- c5-v13: e estimá–los a–eles abundantemente em amor por–causa–de a obra deles tende–paz entre vós–mesmos
+-- c5-v14: Exortamos porém a–vós irmãos admoestai os desordenados consolai os desanimados amparai os fracos sede–pacientes para–com todos
+-- c5-v15: vede que–não alguém mal por mal a–alguém retribua mas sempre o bem buscai e uns–para os–outros e para todos
+-- c5-v16: Sempre alegrai–vos
+-- c5-v17: incessantemente orai
+-- c5-v18: em tudo dai–graças isto pois vontade de–Deus em Cristo Jesus para vós
+-- c5-v19: o Espírito não apagueis
+-- c5-v20: profecias não desprezeis
+-- c5-v21: todas–as–coisas porém examinai o bom retende
+-- c5-v22: de toda aparência do–mal abstende–vos
+-- c5-v23: Ele–mesmo porém o Deus da paz vos–santifique a–vós completamente e inteiramente vosso o espírito e a alma e o corpo irrepreensivelmente na a vinda do Senhor nosso Jesus Cristo seja–guardado
+-- c5-v24: fiel o que–chama a–vós o–qual também fará
+-- c5-v25: Irmãos orai também por nós
+-- c5-v26: Saudai os irmãos todos com ósculo santo
+-- c5-v27: Conjuro–vos a–vós pelo Senhor ser–lida a epístola a–todos os irmãos
+-- c5-v28: A graça do Senhor nosso Jesus Cristo convosco vós Amém
 
 BEGIN;
 -- 5200100101: Παῦλος, (G3972) → "Paulo" [opus-4.5-chirho]

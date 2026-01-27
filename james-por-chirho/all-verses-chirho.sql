@@ -3,96 +3,96 @@
 -- — John 3:16
 
 -- JAMES - POR Combined
--- Generated: 2026-01-27T21:47:08Z
+-- Generated: 2026-01-27T22:20:43Z
 
--- JAMES c1-v1 - POR
--- JAMES c1-v2 - POR
--- JAMES c1-v3 - POR
--- JAMES c1-v4 - POR
--- JAMES c1-v5 - POR
--- JAMES c1-v6 - POR
--- JAMES c1-v7 - POR
--- JAMES c1-v8 - POR
--- JAMES c1-v9 - POR
--- JAMES c1-v10 - POR
--- JAMES c1-v11 - POR
--- JAMES c1-v12 - POR
--- JAMES c1-v13 - POR
--- JAMES c1-v14 - POR
--- JAMES c1-v15 - POR
--- JAMES c1-v16 - POR
--- JAMES c1-v17 - POR
--- JAMES c1-v18 - POR
--- JAMES c1-v19 - POR
--- JAMES c1-v20 - POR
--- JAMES c1-v21 - POR
--- JAMES c1-v22 - POR
--- JAMES c1-v23 - POR
--- JAMES c1-v24 - POR
--- JAMES c1-v25 - POR
--- JAMES c1-v26 - POR
--- JAMES c1-v27 - POR
--- JAMES c2-v1 - POR
--- JAMES c2-v2 - POR
--- JAMES c2-v3 - POR
--- JAMES c2-v4 - POR
--- JAMES c2-v5 - POR
--- JAMES c2-v6 - POR
--- JAMES c2-v7 - POR
--- JAMES c2-v8 - POR
--- JAMES c2-v9 - POR
--- JAMES c2-v10 - POR
--- JAMES c2-v11 - POR
--- JAMES c2-v12 - POR
--- JAMES c2-v13 - POR
--- JAMES c2-v14 - POR
--- JAMES c2-v15 - POR
--- JAMES c2-v16 - POR
--- JAMES c2-v17 - POR
--- JAMES c2-v18 - POR
--- JAMES c2-v19 - POR
--- JAMES c2-v20 - POR
--- JAMES c2-v21 - POR
--- JAMES c2-v22 - POR
--- JAMES c2-v23 - POR
--- JAMES c2-v24 - POR
--- JAMES c2-v25 - POR
--- JAMES c2-v26 - POR
--- JAMES c3-v1 - POR
--- JAMES c3-v2 - POR
--- JAMES c3-v3 - POR
--- JAMES c3-v4 - POR
--- JAMES c3-v5 - POR
--- JAMES c3-v6 - POR
--- JAMES c3-v7 - POR
--- JAMES c3-v8 - POR
--- JAMES c3-v9 - POR
--- JAMES c3-v10 - POR
--- JAMES c3-v11 - POR
--- JAMES c3-v12 - POR
--- JAMES c3-v13 - POR
--- JAMES c3-v14 - POR
--- JAMES c3-v15 - POR
--- JAMES c3-v16 - POR
--- JAMES c3-v17 - POR
--- JAMES c3-v18 - POR
--- JAMES c4-v1 - POR
--- JAMES c4-v2 - POR
--- JAMES c4-v3 - POR
--- JAMES c4-v4 - POR
--- JAMES c4-v5 - POR
--- JAMES c4-v6 - POR
--- JAMES c4-v7 - POR
--- JAMES c4-v8 - POR
--- JAMES c4-v9 - POR
--- JAMES c4-v10 - POR
--- JAMES c4-v11 - POR
--- JAMES c4-v12 - POR
--- JAMES c4-v13 - POR
--- JAMES c4-v14 - POR
--- JAMES c4-v15 - POR
--- JAMES c4-v16 - POR
--- JAMES c4-v17 - POR
+-- c1-v1: Tiago de–Deus e do–Senhor Jesus Cristo servo às doze tribos –às na –a Dispersão saudações
+-- c1-v2: Toda alegria considerai irmãos meus quando em–provações cairdes diversas
+-- c1-v3: sabendo que a prova de–vós da fé produz perseverança
+-- c1-v4: –a porém perseverança obra perfeita tenha para–que sejais perfeitos e completos em nada faltando
+-- c1-v5: Se porém alguém de–vós tem–falta de–sabedoria peça de –o que–dá Deus a–todos generosamente e não censurando e ser–lhe–á–dada a–ele
+-- c1-v6: peça porém em fé nada duvidando –o pois que–duvida assemelha–se a–onda do–mar agitada–pelo–vento e impelida
+-- c1-v7: não pois pense –o homem aquele que receberá algo de –o Senhor
+-- c1-v8: homem de–ânimo–dobre inconstante em todos –os caminhos dele
+-- c1-v9: Glorie–se porém –o irmão –o humilde na –a exaltação dele
+-- c1-v10: –o porém rico na –a humilhação dele porque como flor da–erva passará
+-- c1-v11: levantou–se pois –o sol com –o calor–ardente e secou a erva e a flor dela caiu e a beleza do rosto dela pereceu assim também –o rico nos –os caminhos dele murchará
+-- c1-v12: Bem–aventurado o–homem que suporta provação porque aprovado tendo–se–tornado receberá a coroa da vida a–qual prometeu aos que–amam a–ele
+-- c1-v13: Ninguém sendo–tentado diga que Por Deus sou–tentado –o pois Deus não–pode–ser–tentado é pelo–mal tenta porém ele–mesmo a–ninguém
+-- c1-v14: cada–um porém é–tentado pela –a própria concupiscência sendo–arrastado e sendo–seduzido
+-- c1-v15: então a concupiscência tendo–concebido dá–à–luz pecado –o porém pecado tendo–sido–consumado gera morte
+-- c1-v16: Não vos–enganeis irmãos meus amados
+-- c1-v17: toda boa–dádiva boa e todo dom perfeito de–cima é descendo do –o Pai das luzes em–quem –qual não há variação ou de–mudança sombra
+-- c1-v18: tendo–desejado gerou a–nós pela–palavra da–verdade para –o sermos nós primícias certas das dele criaturas
+-- c1-v19: Sabei irmãos meus amados seja porém todo homem pronto para –o ouvir tardio para –o falar tardio para ira
+-- c1-v20: ira pois de–homem justiça de–Deus não produz
+-- c1-v21: por–isso tendo–despojado toda imundícia e abundância de–maldade em mansidão recebei a implantada palavra –a que–pode salvar as almas vossas
+-- c1-v22: tornai–vos porém praticantes da–palavra e não somente–ouvintes somente enganando a–vós–mesmos
+-- c1-v23: porque se alguém ouvinte da–palavra é e não praticante este assemelha–se a–homem que–contempla o rosto do nascimento dele em espelho
+-- c1-v24: contemplou pois a–si–mesmo e foi–embora e imediatamente esqueceu qual era
+-- c1-v25: –o porém tendo–atentado para lei perfeita –a da liberdade e tendo–permanecido não ouvinte de–esquecimento tendo–se–tornado mas praticante de–obra este bem–aventurado no –o fazer dele será
+-- c1-v26: Se alguém julga religioso ser não refreando língua dele mas enganando coração dele deste vã –a religião
+-- c1-v27: religião pura e imaculada diante –o Deus e Pai esta é visitar órfãos e viúvas na –a aflição deles imaculado a–si–mesmo guardar do –o mundo
+-- c2-v1: Irmãos meus não com aceitação–de–pessoas tenhais a fé do Senhor nosso Jesus Cristo –da glória
+-- c2-v2: se pois entrar em assembleia vossa homem com–anel–de–ouro em roupa esplêndida entrar porém também pobre em suja roupa
+-- c2-v3: olhardes porém para –o que–veste a roupa –a esplêndida e disserdes Tu senta–te aqui bem e ao pobre disserdes Tu fica–de–pé ali ou senta–te debaixo –o escabelo meu
+-- c2-v4: não fizestes–diferença entre vós–mesmos e vos–tornastes juízes de–pensamentos maus
+-- c2-v5: Ouvi irmãos meus amados não –o Deus escolheu os pobres para–o mundo ricos em fé e herdeiros do reino que prometeu aos que–amam a–ele
+-- c2-v6: vós porém desonrastes o pobre não –os ricos vos–oprimem de–vós e eles–mesmos vos–arrastam a–vós a tribunais
+-- c2-v7: não eles–mesmos blasfemam o bom nome –o invocado sobre vós
+-- c2-v8: se contudo lei cumpris régia segundo a Escritura Amarás o próximo teu como a–ti–mesmo bem fazeis
+-- c2-v9: se porém fazeis–aceitação–de–pessoas pecado cometeis sendo–convencidos pela –a lei como transgressores
+-- c2-v10: quem–quer–que pois toda a lei guardar tropeçar porém em um tornou–se de–todos culpado
+-- c2-v11: –o pois que–disse Não cometerás–adultério disse também Não matarás se porém não cometes–adultério matas porém tornaste–te transgressor da–lei
+-- c2-v12: assim falai e assim fazei como por lei de–liberdade estando–para ser–julgados
+-- c2-v13: –o pois juízo sem–misericórdia para–o que–não praticou misericórdia triunfa misericórdia sobre–juízo
+-- c2-v14: Que –o proveito irmãos meus se fé diga alguém ter obras porém não tenha não pode a fé salvar a–ele
+-- c2-v15: se irmão ou irmã nus estiverem e sem do diário sustento
+-- c2-v16: disser porém alguém a–eles de vós Ide em paz aquecei–vos e fartai–vos não derdes porém a–eles as necessidades do corpo que –o proveito
+-- c2-v17: assim também a fé se não tiver obras morta é em si–mesma
+-- c2-v18: Mas dirá alguém Tu fé tens e–eu obras tenho mostra–me a–mim a fé tua sem as obras e–eu a–ti mostrarei pelas –as obras minhas a fé
+-- c2-v19: tu crês que um é –o Deus bem fazes também os demônios creem e estremecem
+-- c2-v20: queres porém saber ó homem vão que a fé sem as obras inútil é
+-- c2-v21: Abraão –o pai nosso não por obras foi–justificado tendo–oferecido Isaque o filho dele sobre o altar
+-- c2-v22: vês que a fé cooperou com–as obras dele e pelas –as obras a fé foi–aperfeiçoada
+-- c2-v23: e cumpriu–se a Escritura –a que–diz Creu porém Abraão em–Deus Deus e foi–lhe–imputado a–ele para justiça e amigo de–Deus foi–chamado
+-- c2-v24: vedes que por obras é–justificado homem e não por fé somente
+-- c2-v25: semelhantemente porém também Raabe a prostituta não por obras foi–justificada tendo–recebido os mensageiros e por–outro caminho tendo–os–feito–sair
+-- c2-v26: assim–como pois o corpo sem espírito morto é assim também a fé sem obras morta é
+-- c3-v1: Não muitos mestres vos–torneis irmãos meus sabendo que maior condenação receberemos
+-- c3-v2: em–muitas–coisas pois tropeçamos todos se alguém em palavra não tropeça este perfeito homem capaz de–refrear também todo o corpo
+-- c3-v3: se porém dos cavalos os freios nas –as bocas colocamos para –o obedecerem eles a–nós também todo o corpo deles dirigimos
+-- c3-v4: eis também os navios tão–grandes sendo e por ventos fortes impelidos são–dirigidos por muito–pequeno leme para–onde a vontade do que–dirige quer
+-- c3-v5: assim também a língua pequeno membro é e grandes–coisas se–gloria eis quão–grande fogo quão–grande floresta incendeia
+-- c3-v6: e a língua fogo –o mundo da iniquidade a língua se–constitui entre –os membros nossos –a que–contamina todo o corpo e inflamando o curso da existência e sendo–inflamada pelo –o inferno
+-- c3-v7: toda pois natureza de–feras e e de–aves de–répteis e e de–seres–marinhos se–doma e tem–sido–domada pela natureza –a humana
+-- c3-v8: a porém língua nenhum domar pode dos–homens inquieto mal cheia de–veneno mortífero
+-- c3-v9: com ela abençoamos o Senhor e Pai e com ela amaldiçoamos os homens –os segundo semelhança de–Deus feitos
+-- c3-v10: da –a mesma boca sai bênção e maldição não convem irmãos meus estas–coisas assim serem
+-- c3-v11: porventura a fonte da –a mesma abertura brota o doce e o amargo
+-- c3-v12: não pode irmãos meus figueira azeitonas produzir ou videira figos nem salgada doce produzir água
+-- c3-v13: Quem sábio e entendido entre vós mostre pela –a boa conduta as obras dele em mansidão de–sabedoria
+-- c3-v14: se porém ciúme amargo tendes e ambição–egoísta no –o coração vosso não vos–glorieis e mintais contra –a verdade
+-- c3-v15: não é esta a sabedoria de–cima que–desce mas terrena animal demoníaca
+-- c3-v16: onde pois ciúme e ambição–egoísta ali desordem e toda vil obra
+-- c3-v17: a porém de–cima sabedoria primeiro certamente pura é depois pacífica moderada tratável cheia de–misericórdia e de–frutos bons imparcial sem–hipocrisia
+-- c3-v18: fruto porém da–justiça em paz é–semeado para–os que–fazem paz
+-- c4-v1: De–onde guerras e de–onde lutas entre vós não daqui dos –os prazeres vossos –os que–guerreiam nos –os membros vossos
+-- c4-v2: cobiçais e não tendes matais e tendes–inveja e não podeis obter combateis e guerreais não tendes por –o não pedirdes vós
+-- c4-v3: pedis e não recebeis porque mal pedis para–que nos –os prazeres vossos gasteis
+-- c4-v4: adúlteras não sabeis que a amizade do mundo inimizade de Deus é quem pois portanto quiser amigo ser do mundo inimigo de Deus se–constitui
+-- c4-v5: ou pensais que em–vão a Escritura diz Com ciúme anseia o Espírito que fez–habitar em nós
+-- c4-v6: maior porém dá graça por–isso diz –O Deus aos–soberbos resiste aos–humildes porém dá graça
+-- c4-v7: sujeitai–vos portanto a–Deus Deus resisti porém ao diabo e fugirá de vós
+-- c4-v8: aproximai–vos de–Deus Deus e aproximar–se–á de–vós limpai as–mãos pecadores e purificai os–corações de–ânimo–dobre
+-- c4-v9: afligi–vos e lamentai e chorai o riso vosso em luto seja–convertido e a alegria em tristeza
+-- c4-v10: humilhai–vos diante do–Senhor e exaltará a–vós
+-- c4-v11: Não faleis–mal uns–dos–outros irmãos –o que–fala–mal de–irmão ou que–julga o irmão dele fala–mal da–lei e julga lei se porém lei julgas não és praticante da–lei mas juiz
+-- c4-v12: um é –o legislador e juiz –o que–pode salvar e destruir tu porém quem és –o que–julga o próximo
+-- c4-v13: Vamos agora –os que–dizem Hoje ou amanhã iremos a esta –a cidade e passaremos ali um–ano e negociaremos e teremos–lucro
+-- c4-v14: quais não sabeis –o –do amanhã qual a vida vossa vapor pois sois –o por pouco que–aparece depois também que–desaparece
+-- c4-v15: em–vez–de –o dizerdes vós Se o Senhor quiser tanto viveremos como faremos isto ou aquilo
+-- c4-v16: agora porém vos–gloriais nas –as jactâncias vossas toda glória tal má é
+-- c4-v17: para–quem–sabe portanto bem fazer e não faz pecado para–ele é
 
 BEGIN;
 -- 5900100101: Ἰάκωβος, (G2385) → "Tiago" [opus-4.5-chirho]

@@ -3,421 +3,421 @@
 -- — John 3:16
 
 -- 1CORINTHIANS - POR Combined
--- Generated: 2026-01-27T21:46:09Z
+-- Generated: 2026-01-27T22:19:01Z
 
--- 1CORINTHIANS c1-v1 - POR
--- 1CORINTHIANS c1-v2 - POR
--- 1CORINTHIANS c1-v3 - POR
--- 1CORINTHIANS c1-v4 - POR
--- 1CORINTHIANS c1-v5 - POR
--- 1CORINTHIANS c1-v6 - POR
--- 1CORINTHIANS c1-v7 - POR
--- 1CORINTHIANS c1-v8 - POR
--- 1CORINTHIANS c1-v9 - POR
--- 1CORINTHIANS c1-v10 - POR
--- 1CORINTHIANS c1-v11 - POR
--- 1CORINTHIANS c1-v12 - POR
--- 1CORINTHIANS c1-v13 - POR
--- 1CORINTHIANS c1-v14 - POR
--- 1CORINTHIANS c1-v15 - POR
--- 1CORINTHIANS c1-v16 - POR
--- 1CORINTHIANS c1-v17 - POR
--- 1CORINTHIANS c1-v18 - POR
--- 1CORINTHIANS c1-v19 - POR
--- 1CORINTHIANS c1-v20 - POR
--- 1CORINTHIANS c1-v21 - POR
--- 1CORINTHIANS c1-v22 - POR
--- 1CORINTHIANS c1-v23 - POR
--- 1CORINTHIANS c1-v24 - POR
--- 1CORINTHIANS c1-v25 - POR
--- 1CORINTHIANS c1-v26 - POR
--- 1CORINTHIANS c1-v27 - POR
--- 1CORINTHIANS c1-v28 - POR
--- 1CORINTHIANS c1-v29 - POR
--- 1CORINTHIANS c1-v30 - POR
--- 1CORINTHIANS c1-v31 - POR
--- 1CORINTHIANS c2-v1 - POR
--- 1CORINTHIANS c2-v2 - POR
--- 1CORINTHIANS c2-v3 - POR
--- 1CORINTHIANS c2-v4 - POR
--- 1CORINTHIANS c2-v5 - POR
--- 1CORINTHIANS c2-v6 - POR
--- 1CORINTHIANS c2-v7 - POR
--- 1CORINTHIANS c2-v8 - POR
--- 1CORINTHIANS c2-v9 - POR
--- 1CORINTHIANS c2-v10 - POR
--- 1CORINTHIANS c2-v11 - POR
--- 1CORINTHIANS c2-v12 - POR
--- 1CORINTHIANS c2-v13 - POR
--- 1CORINTHIANS c2-v14 - POR
--- 1CORINTHIANS c2-v15 - POR
--- 1CORINTHIANS c2-v16 - POR
--- 1CORINTHIANS c3-v1 - POR
--- 1CORINTHIANS c3-v2 - POR
--- 1CORINTHIANS c3-v3 - POR
--- 1CORINTHIANS c3-v4 - POR
--- 1CORINTHIANS c3-v5 - POR
--- 1CORINTHIANS c3-v6 - POR
--- 1CORINTHIANS c3-v7 - POR
--- 1CORINTHIANS c3-v8 - POR
--- 1CORINTHIANS c3-v9 - POR
--- 1CORINTHIANS c3-v10 - POR
--- 1CORINTHIANS c3-v11 - POR
--- 1CORINTHIANS c3-v12 - POR
--- 1CORINTHIANS c3-v13 - POR
--- 1CORINTHIANS c3-v14 - POR
--- 1CORINTHIANS c3-v15 - POR
--- 1CORINTHIANS c3-v16 - POR
--- 1CORINTHIANS c3-v17 - POR
--- 1CORINTHIANS c3-v18 - POR
--- 1CORINTHIANS c3-v19 - POR
--- 1CORINTHIANS c3-v20 - POR
--- 1CORINTHIANS c3-v21 - POR
--- 1CORINTHIANS c3-v22 - POR
--- 1CORINTHIANS c3-v23 - POR
--- 1CORINTHIANS c4-v1 - POR
--- 1CORINTHIANS c4-v2 - POR
--- 1CORINTHIANS c4-v3 - POR
--- 1CORINTHIANS c4-v4 - POR
--- 1CORINTHIANS c4-v5 - POR
--- 1CORINTHIANS c4-v6 - POR
--- 1CORINTHIANS c4-v7 - POR
--- 1CORINTHIANS c4-v8 - POR
--- 1CORINTHIANS c4-v9 - POR
--- 1CORINTHIANS c4-v10 - POR
--- 1CORINTHIANS c4-v11 - POR
--- 1CORINTHIANS c4-v12 - POR
--- 1CORINTHIANS c4-v13 - POR
--- 1CORINTHIANS c4-v14 - POR
--- 1CORINTHIANS c4-v15 - POR
--- 1CORINTHIANS c4-v16 - POR
--- 1CORINTHIANS c4-v17 - POR
--- 1CORINTHIANS c4-v18 - POR
--- 1CORINTHIANS c4-v19 - POR
--- 1CORINTHIANS c4-v20 - POR
--- 1CORINTHIANS c4-v21 - POR
--- 1CORINTHIANS c5-v1 - POR
--- 1CORINTHIANS c5-v2 - POR
--- 1CORINTHIANS c5-v3 - POR
--- 1CORINTHIANS c5-v4 - POR
--- 1CORINTHIANS c5-v5 - POR
--- 1CORINTHIANS c5-v6 - POR
--- 1CORINTHIANS c5-v7 - POR
--- 1CORINTHIANS c5-v8 - POR
--- 1CORINTHIANS c5-v9 - POR
--- 1CORINTHIANS c5-v10 - POR
--- 1CORINTHIANS c5-v11 - POR
--- 1CORINTHIANS c5-v12 - POR
--- 1CORINTHIANS c5-v13 - POR
--- 1CORINTHIANS c6-v1 - POR
--- 1CORINTHIANS c6-v2 - POR
--- 1CORINTHIANS c6-v3 - POR
--- 1CORINTHIANS c6-v4 - POR
--- 1CORINTHIANS c6-v5 - POR
--- 1CORINTHIANS c6-v6 - POR
--- 1CORINTHIANS c6-v7 - POR
--- 1CORINTHIANS c6-v8 - POR
--- 1CORINTHIANS c6-v9 - POR
--- 1CORINTHIANS c6-v10 - POR
--- 1CORINTHIANS c6-v11 - POR
--- 1CORINTHIANS c6-v12 - POR
--- 1CORINTHIANS c6-v13 - POR
--- 1CORINTHIANS c6-v14 - POR
--- 1CORINTHIANS c6-v15 - POR
--- 1CORINTHIANS c6-v16 - POR
--- 1CORINTHIANS c6-v17 - POR
--- 1CORINTHIANS c6-v18 - POR
--- 1CORINTHIANS c6-v19 - POR
--- 1CORINTHIANS c6-v20 - POR
--- 1CORINTHIANS c7-v1 - POR
--- 1CORINTHIANS c7-v2 - POR
--- 1CORINTHIANS c7-v3 - POR
--- 1CORINTHIANS c7-v4 - POR
--- 1CORINTHIANS c7-v5 - POR
--- 1CORINTHIANS c7-v6 - POR
--- 1CORINTHIANS c7-v7 - POR
--- 1CORINTHIANS c7-v8 - POR
--- 1CORINTHIANS c7-v9 - POR
--- 1CORINTHIANS c7-v10 - POR
--- 1CORINTHIANS c7-v11 - POR
--- 1CORINTHIANS c7-v12 - POR
--- 1CORINTHIANS c7-v13 - POR
--- 1CORINTHIANS c7-v14 - POR
--- 1CORINTHIANS c7-v15 - POR
--- 1CORINTHIANS c7-v16 - POR
--- 1CORINTHIANS c7-v17 - POR
--- 1CORINTHIANS c7-v18 - POR
--- 1CORINTHIANS c7-v19 - POR
--- 1CORINTHIANS c7-v20 - POR
--- 1CORINTHIANS c7-v21 - POR
--- 1CORINTHIANS c7-v22 - POR
--- 1CORINTHIANS c7-v23 - POR
--- 1CORINTHIANS c7-v24 - POR
--- 1CORINTHIANS c7-v25 - POR
--- 1CORINTHIANS c7-v26 - POR
--- 1CORINTHIANS c7-v27 - POR
--- 1CORINTHIANS c7-v28 - POR
--- 1CORINTHIANS c7-v29 - POR
--- 1CORINTHIANS c7-v30 - POR
--- 1CORINTHIANS c7-v31 - POR
--- 1CORINTHIANS c7-v32 - POR
--- 1CORINTHIANS c7-v33 - POR
--- 1CORINTHIANS c7-v34 - POR
--- 1CORINTHIANS c7-v35 - POR
--- 1CORINTHIANS c7-v36 - POR
--- 1CORINTHIANS c7-v37 - POR
--- 1CORINTHIANS c7-v38 - POR
--- 1CORINTHIANS c7-v39 - POR
--- 1CORINTHIANS c7-v40 - POR
--- 1CORINTHIANS c8-v1 - POR
--- 1CORINTHIANS c8-v2 - POR
--- 1CORINTHIANS c8-v3 - POR
--- 1CORINTHIANS c8-v4 - POR
--- 1CORINTHIANS c8-v5 - POR
--- 1CORINTHIANS c8-v6 - POR
--- 1CORINTHIANS c8-v7 - POR
--- 1CORINTHIANS c8-v8 - POR
--- 1CORINTHIANS c8-v9 - POR
--- 1CORINTHIANS c8-v10 - POR
--- 1CORINTHIANS c8-v11 - POR
--- 1CORINTHIANS c8-v12 - POR
--- 1CORINTHIANS c8-v13 - POR
--- 1CORINTHIANS c9-v1 - POR
--- 1CORINTHIANS c9-v2 - POR
--- 1CORINTHIANS c9-v3 - POR
--- 1CORINTHIANS c9-v4 - POR
--- 1CORINTHIANS c9-v5 - POR
--- 1CORINTHIANS c9-v6 - POR
--- 1CORINTHIANS c9-v7 - POR
--- 1CORINTHIANS c9-v8 - POR
--- 1CORINTHIANS c9-v9 - POR
--- 1CORINTHIANS c9-v10 - POR
--- 1CORINTHIANS c9-v11 - POR
--- 1CORINTHIANS c9-v12 - POR
--- 1CORINTHIANS c9-v13 - POR
--- 1CORINTHIANS c9-v14 - POR
--- 1CORINTHIANS c9-v15 - POR
--- 1CORINTHIANS c9-v16 - POR
--- 1CORINTHIANS c9-v17 - POR
--- 1CORINTHIANS c9-v18 - POR
--- 1CORINTHIANS c9-v19 - POR
--- 1CORINTHIANS c9-v20 - POR
--- 1CORINTHIANS c9-v21 - POR
--- 1CORINTHIANS c9-v22 - POR
--- 1CORINTHIANS c9-v23 - POR
--- 1CORINTHIANS c9-v24 - POR
--- 1CORINTHIANS c9-v25 - POR
--- 1CORINTHIANS c9-v26 - POR
--- 1CORINTHIANS c9-v27 - POR
--- 1CORINTHIANS c10-v1 - POR
--- 1CORINTHIANS c10-v2 - POR
--- 1CORINTHIANS c10-v3 - POR
--- 1CORINTHIANS c10-v4 - POR
--- 1CORINTHIANS c10-v5 - POR
--- 1CORINTHIANS c10-v6 - POR
--- 1CORINTHIANS c10-v7 - POR
--- 1CORINTHIANS c10-v8 - POR
--- 1CORINTHIANS c10-v9 - POR
--- 1CORINTHIANS c10-v10 - POR
--- 1CORINTHIANS c10-v11 - POR
--- 1CORINTHIANS c10-v12 - POR
--- 1CORINTHIANS c10-v13 - POR
--- 1CORINTHIANS c10-v14 - POR
--- 1CORINTHIANS c10-v15 - POR
--- 1CORINTHIANS c10-v16 - POR
--- 1CORINTHIANS c10-v17 - POR
--- 1CORINTHIANS c10-v18 - POR
--- 1CORINTHIANS c10-v19 - POR
--- 1CORINTHIANS c10-v20 - POR
--- 1CORINTHIANS c10-v21 - POR
--- 1CORINTHIANS c10-v22 - POR
--- 1CORINTHIANS c10-v23 - POR
--- 1CORINTHIANS c10-v24 - POR
--- 1CORINTHIANS c10-v25 - POR
--- 1CORINTHIANS c10-v26 - POR
--- 1CORINTHIANS c10-v27 - POR
--- 1CORINTHIANS c10-v28 - POR
--- 1CORINTHIANS c10-v29 - POR
--- 1CORINTHIANS c10-v30 - POR
--- 1CORINTHIANS c10-v31 - POR
--- 1CORINTHIANS c10-v32 - POR
--- 1CORINTHIANS c10-v33 - POR
--- 1CORINTHIANS c11-v1 - POR
--- 1CORINTHIANS c11-v2 - POR
--- 1CORINTHIANS c11-v3 - POR
--- 1CORINTHIANS c11-v4 - POR
--- 1CORINTHIANS c11-v5 - POR
--- 1CORINTHIANS c11-v6 - POR
--- 1CORINTHIANS c11-v7 - POR
--- 1CORINTHIANS c11-v8 - POR
--- 1CORINTHIANS c11-v9 - POR
--- 1CORINTHIANS c11-v10 - POR
--- 1CORINTHIANS c11-v11 - POR
--- 1CORINTHIANS c11-v12 - POR
--- 1CORINTHIANS c11-v13 - POR
--- 1CORINTHIANS c11-v14 - POR
--- 1CORINTHIANS c11-v15 - POR
--- 1CORINTHIANS c11-v16 - POR
--- 1CORINTHIANS c11-v17 - POR
--- 1CORINTHIANS c11-v18 - POR
--- 1CORINTHIANS c11-v19 - POR
--- 1CORINTHIANS c11-v20 - POR
--- 1CORINTHIANS c11-v21 - POR
--- 1CORINTHIANS c11-v22 - POR
--- 1CORINTHIANS c11-v23 - POR
--- 1CORINTHIANS c11-v24 - POR
--- 1CORINTHIANS c11-v25 - POR
--- 1CORINTHIANS c11-v26 - POR
--- 1CORINTHIANS c11-v27 - POR
--- 1CORINTHIANS c11-v28 - POR
--- 1CORINTHIANS c11-v29 - POR
--- 1CORINTHIANS c11-v30 - POR
--- 1CORINTHIANS c11-v31 - POR
--- 1CORINTHIANS c11-v32 - POR
--- 1CORINTHIANS c11-v33 - POR
--- 1CORINTHIANS c11-v34 - POR
--- 1CORINTHIANS c12-v1 - POR
--- 1CORINTHIANS c12-v2 - POR
--- 1CORINTHIANS c12-v3 - POR
--- 1CORINTHIANS c12-v4 - POR
--- 1CORINTHIANS c12-v5 - POR
--- 1CORINTHIANS c12-v6 - POR
--- 1CORINTHIANS c12-v7 - POR
--- 1CORINTHIANS c12-v8 - POR
--- 1CORINTHIANS c12-v9 - POR
--- 1CORINTHIANS c12-v10 - POR
--- 1CORINTHIANS c12-v11 - POR
--- 1CORINTHIANS c12-v12 - POR
--- 1CORINTHIANS c12-v13 - POR
--- 1CORINTHIANS c12-v14 - POR
--- 1CORINTHIANS c12-v15 - POR
--- 1CORINTHIANS c12-v16 - POR
--- 1CORINTHIANS c12-v17 - POR
--- 1CORINTHIANS c12-v18 - POR
--- 1CORINTHIANS c12-v19 - POR
--- 1CORINTHIANS c12-v20 - POR
--- 1CORINTHIANS c12-v21 - POR
--- 1CORINTHIANS c12-v22 - POR
--- 1CORINTHIANS c12-v23 - POR
--- 1CORINTHIANS c12-v24 - POR
--- 1CORINTHIANS c12-v25 - POR
--- 1CORINTHIANS c12-v26 - POR
--- 1CORINTHIANS c12-v27 - POR
--- 1CORINTHIANS c12-v28 - POR
--- 1CORINTHIANS c12-v29 - POR
--- 1CORINTHIANS c12-v30 - POR
--- 1CORINTHIANS c12-v31 - POR
--- 1CORINTHIANS c13-v1 - POR
--- 1CORINTHIANS c13-v2 - POR
--- 1CORINTHIANS c13-v3 - POR
--- 1CORINTHIANS c13-v4 - POR
--- 1CORINTHIANS c13-v5 - POR
--- 1CORINTHIANS c13-v6 - POR
--- 1CORINTHIANS c13-v7 - POR
--- 1CORINTHIANS c13-v8 - POR
--- 1CORINTHIANS c13-v9 - POR
--- 1CORINTHIANS c13-v10 - POR
--- 1CORINTHIANS c13-v11 - POR
--- 1CORINTHIANS c13-v12 - POR
--- 1CORINTHIANS c13-v13 - POR
--- 1CORINTHIANS c14-v1 - POR
--- 1CORINTHIANS c14-v2 - POR
--- 1CORINTHIANS c14-v3 - POR
--- 1CORINTHIANS c14-v4 - POR
--- 1CORINTHIANS c14-v5 - POR
--- 1CORINTHIANS c14-v6 - POR
--- 1CORINTHIANS c14-v7 - POR
--- 1CORINTHIANS c14-v8 - POR
--- 1CORINTHIANS c14-v9 - POR
--- 1CORINTHIANS c14-v10 - POR
--- 1CORINTHIANS c14-v11 - POR
--- 1CORINTHIANS c14-v12 - POR
--- 1CORINTHIANS c14-v13 - POR
--- 1CORINTHIANS c14-v14 - POR
--- 1CORINTHIANS c14-v15 - POR
--- 1CORINTHIANS c14-v16 - POR
--- 1CORINTHIANS c14-v17 - POR
--- 1CORINTHIANS c14-v18 - POR
--- 1CORINTHIANS c14-v19 - POR
--- 1CORINTHIANS c14-v20 - POR
--- 1CORINTHIANS c14-v21 - POR
--- 1CORINTHIANS c14-v22 - POR
--- 1CORINTHIANS c14-v23 - POR
--- 1CORINTHIANS c14-v24 - POR
--- 1CORINTHIANS c14-v25 - POR
--- 1CORINTHIANS c14-v26 - POR
--- 1CORINTHIANS c14-v27 - POR
--- 1CORINTHIANS c14-v28 - POR
--- 1CORINTHIANS c14-v29 - POR
--- 1CORINTHIANS c14-v30 - POR
--- 1CORINTHIANS c14-v31 - POR
--- 1CORINTHIANS c14-v32 - POR
--- 1CORINTHIANS c14-v33 - POR
--- 1CORINTHIANS c14-v34 - POR
--- 1CORINTHIANS c14-v35 - POR
--- 1CORINTHIANS c14-v36 - POR
--- 1CORINTHIANS c14-v37 - POR
--- 1CORINTHIANS c14-v38 - POR
--- 1CORINTHIANS c14-v39 - POR
--- 1CORINTHIANS c14-v40 - POR
--- 1CORINTHIANS c15-v1 - POR
--- 1CORINTHIANS c15-v2 - POR
--- 1CORINTHIANS c15-v3 - POR
--- 1CORINTHIANS c15-v4 - POR
--- 1CORINTHIANS c15-v5 - POR
--- 1CORINTHIANS c15-v6 - POR
--- 1CORINTHIANS c15-v7 - POR
--- 1CORINTHIANS c15-v8 - POR
--- 1CORINTHIANS c15-v9 - POR
--- 1CORINTHIANS c15-v10 - POR
--- 1CORINTHIANS c15-v11 - POR
--- 1CORINTHIANS c15-v12 - POR
--- 1CORINTHIANS c15-v13 - POR
--- 1CORINTHIANS c15-v14 - POR
--- 1CORINTHIANS c15-v15 - POR
--- 1CORINTHIANS c15-v16 - POR
--- 1CORINTHIANS c15-v17 - POR
--- 1CORINTHIANS c15-v18 - POR
--- 1CORINTHIANS c15-v19 - POR
--- 1CORINTHIANS c15-v20 - POR
--- 1CORINTHIANS c15-v21 - POR
--- 1CORINTHIANS c15-v22 - POR
--- 1CORINTHIANS c15-v23 - POR
--- 1CORINTHIANS c15-v24 - POR
--- 1CORINTHIANS c15-v25 - POR
--- 1CORINTHIANS c15-v26 - POR
--- 1CORINTHIANS c15-v27 - POR
--- 1CORINTHIANS c15-v28 - POR
--- 1CORINTHIANS c15-v29 - POR
--- 1CORINTHIANS c15-v30 - POR
--- 1CORINTHIANS c15-v31 - POR
--- 1CORINTHIANS c15-v32 - POR
--- 1CORINTHIANS c15-v33 - POR
--- 1CORINTHIANS c15-v34 - POR
--- 1CORINTHIANS c15-v35 - POR
--- 1CORINTHIANS c15-v36 - POR
--- 1CORINTHIANS c15-v37 - POR
--- 1CORINTHIANS c15-v38 - POR
--- 1CORINTHIANS c15-v39 - POR
--- 1CORINTHIANS c15-v40 - POR
--- 1CORINTHIANS c15-v41 - POR
--- 1CORINTHIANS c15-v42 - POR
--- 1CORINTHIANS c15-v43 - POR
--- 1CORINTHIANS c15-v44 - POR
--- 1CORINTHIANS c15-v45 - POR
--- 1CORINTHIANS c15-v46 - POR
--- 1CORINTHIANS c15-v47 - POR
--- 1CORINTHIANS c15-v48 - POR
--- 1CORINTHIANS c15-v49 - POR
--- 1CORINTHIANS c15-v50 - POR
--- 1CORINTHIANS c15-v51 - POR
--- 1CORINTHIANS c15-v52 - POR
--- 1CORINTHIANS c15-v53 - POR
--- 1CORINTHIANS c15-v54 - POR
--- 1CORINTHIANS c15-v55 - POR
--- 1CORINTHIANS c15-v56 - POR
--- 1CORINTHIANS c15-v57 - POR
--- 1CORINTHIANS c15-v58 - POR
+-- c1-v1: Paulo chamado apóstolo de–Cristo Jesus por vontade de–Deus e Sóstenes o irmão
+-- c1-v2: à igreja do Deus à que–está em Corinto santificados em Cristo Jesus chamados santos com todos os que–invocam o nome do Senhor nosso Jesus Cristo em todo lugar deles e nosso
+-- c1-v3: graça a–vós e paz da–parte–de Deus Pai nosso e Senhor Jesus Cristo
+-- c1-v4: Dou–graças ao Deus meu sempre acerca–de vós por a graça do Deus a dada a–vós em Cristo Jesus
+-- c1-v5: porque em tudo fostes–enriquecidos em ele em toda palavra e todo conhecimento
+-- c1-v6: assim–como o testemunho do Cristo foi–confirmado em vós
+-- c1-v7: de–modo–que vós não fiqueis–aquém em nenhum dom aguardando a revelação do Senhor nosso Jesus Cristo
+-- c1-v8: o–qual também confirmará vós até fim irrepreensíveis no o dia do Senhor nosso Jesus Cristo
+-- c1-v9: fiel o Deus por–meio–de quem fostes–chamados para comunhão do Filho dele Jesus Cristo o Senhor nosso
+-- c1-v10: Exorto porém vós irmãos pelo o nome do Senhor nosso Jesus Cristo que a mesma–coisa faleis todos e não haja entre vós divisões sejais mas unidos na a mesma mente e no o mesmo parecer
+-- c1-v11: foi–declarado pois a–mim acerca–de vós irmãos meus pelos os–de Cloe que contendas entre vós há
+-- c1-v12: digo porém isto que cada–um de–vós diz Eu de–fato sou de–Paulo Eu porém de–Apolo Eu porém de–Cefas Eu porém de–Cristo
+-- c1-v13: está–dividido o Cristo Porventura Paulo foi–crucificado por vós ou no o nome de–Paulo fostes–batizados
+-- c1-v14: dou–graças ao Deus que nenhum de–vós batizei senão a–não–ser Crispo e Gaio
+-- c1-v15: para–que não alguém diga que no o meu nome fostes–batizados
+-- c1-v16: batizei também e a de–Estéfanas casa além–disso não sei se algum outro batizei
+-- c1-v17: não pois enviou–me me Cristo batizar mas evangelizar não em sabedoria de–palavra para–que não seja–esvaziada a cruz do Cristo
+-- c1-v18: A palavra pois a da cruz para–os de–fato que–perecem loucura é para–os porém que–são–salvos nós poder de–Deus é
+-- c1-v19: está–escrito pois Destruirei a sabedoria dos sábios e a inteligência dos inteligentes rejeitarei
+-- c1-v20: Onde sábio Onde escriba Onde questionador deste século deste Porventura–não tornou–louca o Deus a sabedoria do mundo
+-- c1-v21: Porquanto pois na a sabedoria do Deus não conheceu o mundo por–meio–da a sabedoria a Deus agradou a Deus por–meio–da a loucura da pregação salvar os que–creem
+-- c1-v22: porquanto também judeus sinais pedem e gregos sabedoria buscam
+-- c1-v23: nós porém pregamos Cristo crucificado para–judeus de–fato escândalo para–gentios porém loucura
+-- c1-v24: para–eles porém os chamados judeus tanto quanto gregos Cristo de–Deus poder e de–Deus sabedoria
+-- c1-v25: porque o louco do Deus mais–sábio do–que–os homens é e o fraco do Deus mais–forte do–que–os homens
+-- c1-v26: Vede pois a vocação vossa irmãos que não muitos sábios segundo carne não muitos poderosos não muitos nobres
+-- c1-v27: mas as loucas do mundo escolheu o Deus para–que envergonhe os sábios e as fracas do mundo escolheu o Deus para–que envergonhe as fortes
+-- c1-v28: e as ignóbeis do mundo e as desprezadas escolheu o Deus e as não que–são para–que as que–são anule
+-- c1-v29: para–que não glorie–se toda carne diante do Deus
+-- c1-v30: Dele porém vós vós sois em Cristo Jesus o–qual tornou–se sabedoria para–nós da–parte–de Deus justiça também e santificação e redenção
+-- c1-v31: para–que assim–como está–escrito O que–se–gloria no Senhor glorie–se
+-- c2-v1: E–eu tendo–vindo a vós irmãos vim não segundo excelência de–palavra ou de–sabedoria anunciando a–vós o testemunho do Deus
+-- c2-v2: não pois julguei algo saber entre vós senão a–não–ser Jesus Cristo e este crucificado
+-- c2-v3: e–eu em fraqueza e em temor e em tremor muito estive para–convosco vós
+-- c2-v4: e a palavra minha e a pregação minha não em persuasivas de–sabedoria palavras mas em demonstração de–Espírito e de–poder
+-- c2-v5: para–que a fé vossa não esteja na sabedoria de–homens mas no poder de–Deus
+-- c2-v6: Sabedoria porém falamos entre os perfeitos sabedoria porém não deste século deste nem dos governantes deste século deste os–que estão–sendo–anulados
+-- c2-v7: mas falamos de–Deus sabedoria em mistério a oculta a–qual predeterminou o Deus antes dos séculos para glória nossa
+-- c2-v8: a–qual nenhum dos governantes deste século deste conheceu se pois conhecessem não teriam o Senhor da glória crucificado
+-- c2-v9: mas assim–como está–escrito Coisas–que olho não viu e ouvido não ouviu e em coração de–homem não subiram quantas–coisas preparou o Deus para–os que–o–amam ele
+-- c2-v10: a–nós pois revelou o Deus por–meio do Espírito o pois Espírito todas–as–coisas examina até as profundezas do Deus
+-- c2-v11: quem pois conhece dos–homens as–coisas do homem senão a–não–ser o espírito do homem o nele dele assim também as–coisas de Deus ninguém conhece senão a–não–ser o Espírito de Deus
+-- c2-v12: nós porém não o espírito do mundo recebemos mas o espírito o que–é de Deus para–que conheçamos as–coisas por o Deus graciosamente–dadas a–nós
+-- c2-v13: as–quais também falamos não em ensinadas de–humana sabedoria palavras mas em ensinadas de–Espírito a–espirituais espirituais comparando
+-- c2-v14: natural porém homem não recebe as–coisas do Espírito do Deus loucura pois para–ele é e não pode conhecer porque espiritualmente se–discerne
+-- c2-v15: o porém espiritual discerne todas–as coisas ele–mesmo porém por ninguém é–discernido
+-- c2-v16: quem pois conheceu mente do–Senhor que o–instruirá ele nós porém mente de–Cristo temos
+-- c3-v1: E–eu irmãos não pude falar a–vós como a–espirituais mas como a–carnais como a–crianças em Cristo
+-- c3-v2: leite vos dei–a–beber não alimento–sólido ainda–não pois podíeis Mas nem ainda agora podeis
+-- c3-v3: ainda pois carnais sois onde pois entre vós ciúme e contenda porventura–não carnais sois e segundo homem andais
+-- c3-v4: quando pois diz alguém Eu de–fato sou de–Paulo outro porém Eu de–Apolo porventura–não homens sois
+-- c3-v5: que então é Apolo que porém é Paulo servos por–meio–de quem crestes e a–cada–um como o Senhor deu
+-- c3-v6: eu plantei Apolo regou mas o Deus fez–crescer
+-- c3-v7: de–modo–que nem o que–planta é algo nem o que–rega mas o que–faz–crescer Deus
+-- c3-v8: o que–planta porém e o que–rega um são cada–um porém o próprio salário receberá segundo o próprio trabalho
+-- c3-v9: de–Deus pois somos cooperadores de–Deus lavoura de–Deus edifício sois
+-- c3-v10: Segundo a graça do Deus a dada a–mim como sábio arquiteto alicerce lancei outro porém edifica–sobre cada–um porém veja como edifica–sobre
+-- c3-v11: alicerce pois outro ninguém pode pôr além–do o que–está–posto que é Jesus Cristo
+-- c3-v12: se porém alguém edifica–sobre sobre o alicerce ouro prata pedras preciosas madeira feno palha
+-- c3-v13: de–cada–um a obra manifesta se–tornará o pois dia manifestará porque em fogo é–revelada e de–cada–um a obra de–que–espécie é o fogo mesmo provará
+-- c3-v14: se de–alguém a obra permanecer que edificou–sobre salário receberá
+-- c3-v15: se de–alguém a obra for–queimada sofrerá–perda ele–mesmo porém será–salvo assim porém como através–de fogo
+-- c3-v16: Não sabeis que templo de–Deus sois e o Espírito do Deus em vós habita
+-- c3-v17: se alguém o templo de Deus destruir destruirá a–este o Deus o pois templo de Deus santo é os–quais sois vós
+-- c3-v18: Ninguém a–si–mesmo engane se alguém pensa sábio ser entre vós neste o século neste louco torne–se para–que se–torne sábio
+-- c3-v19: a pois sabedoria deste mundo deste loucura para com–o Deus é está–escrito pois O que–apanha os sábios na a astúcia deles
+-- c3-v20: e novamente Senhor conhece os pensamentos dos sábios que são vãos
+-- c3-v21: de–modo–que ninguém glorie–se em homens todas–as–coisas pois vossas são
+-- c3-v22: seja Paulo seja Apolo seja Cefas seja mundo seja vida seja morte seja coisas–presentes seja coisas–futuras todas–as–coisas vossas
+-- c3-v23: vós porém de–Cristo Cristo porém de–Deus
+-- c4-v1: Assim nós considere homem como servos de–Cristo e despenseiros dos–mistérios de–Deus
+-- c4-v2: aqui além–disso requer–se nos os despenseiros que fiel alguém seja–achado
+-- c4-v3: a–mim porém para muito–pequena–coisa é que por vós seja–julgado ou por humano dia mas nem a–mim–mesmo julgo
+-- c4-v4: nada pois comigo–mesmo estou–ciente mas não nisso nisto estou–justificado o porém que–me–julga me Senhor é
+-- c4-v5: de–modo–que não antes–do tempo algo julgueis até que venha o Senhor o–qual também iluminará as ocultas da escuridão e manifestará os propósitos dos corações e então o louvor virá a–cada–um da–parte–de o Deus
+-- c4-v6: Estas–coisas porém irmãos apliquei a mim–mesmo e Apolo por–causa–de vós para–que em nós aprendais o Não além–do que está–escrito para–que não um a–favor–de o um vos–ensoberbeceis contra o outro
+-- c4-v7: quem pois te distingue que porém tens que não recebeste se porém também recebeste por–que te–glorias como não tendo–recebido
+-- c4-v8: já saciados estais já enriquecestes sem nós reinastes e oxalá na–verdade reinásseis para–que também nós convosco reinássemos
+-- c4-v9: penso pois o Deus nós os apóstolos últimos exibiu como condenados–à–morte porque espetáculo nos–tornamos ao mundo e a–anjos e a–homens
+-- c4-v10: nós loucos por–causa–de Cristo vós porém prudentes em Cristo nós fracos vós porém fortes vós honrados nós porém desprezados
+-- c4-v11: até a presente hora tanto temos–fome quanto temos–sede e estamos–nus e somos–esbofeteados e somos–sem–lar
+-- c4-v12: e labutamos trabalhando com–as próprias mãos sendo–injuriados abençoamos sendo–perseguidos suportamos
+-- c4-v13: sendo–difamados exortamos como lixo do mundo nos–tornamos de–todos escória até agora
+-- c4-v14: Não envergonhando vos escrevo estas–coisas mas como filhos meus amados admoestando
+-- c4-v15: se pois dez–mil tutores tiverdes em Cristo porém não muitos pais em pois Cristo Jesus por–meio–do o evangelho eu vos gerei
+-- c4-v16: exorto portanto vos imitadores meus sede
+-- c4-v17: Por–isso mesmo mesmo enviei a–vós Timóteo o–qual é meu filho amado e fiel no Senhor o–qual vos lembrará os caminhos meus os em Cristo Jesus assim–como por–toda–parte em toda igreja ensino
+-- c4-v18: como não estando–eu–para–vir porém eu a vós ensoberbeceram–se alguns
+-- c4-v19: irei porém em–breve a vós se o Senhor quiser e conhecerei não a palavra dos que–estão–ensoberbecidos mas o poder
+-- c4-v20: não pois em palavra o reino do Deus mas em poder
+-- c4-v21: que quereis com vara vá a vós ou em amor espírito e de–mansidão
+-- c5-v1: Geralmente ouve–se entre vós imoralidade e tal imoralidade a–qual nem entre os gentios de–modo–que mulher certa do pai ter
+-- c5-v2: e vós ensoberbecidos estais e porventura–não antes lamentastes para–que seja–tirado do meio de–vós o esta obra esta que–praticou
+-- c5-v3: eu de–fato pois ausente no corpo presente porém no espírito já julguei como presente o assim isto que–praticou
+-- c5-v4: no o nome do Senhor nosso Jesus estando–reunidos vós e o meu espírito com o poder do Senhor nosso Jesus
+-- c5-v5: entregar o tal a Satanás para destruição da carne para–que o espírito seja–salvo no o dia do Senhor
+-- c5-v6: Não boa a jactância vossa não sabeis que pouco fermento toda a massa leveda
+-- c5-v7: limpai o velho fermento para–que sejais nova massa assim–como sois ázimos também pois a páscoa nossa foi–sacrificada Cristo
+-- c5-v8: de–modo–que celebremos não com fermento velho nem com fermento de–malícia e de–maldade mas com ázimos de–sinceridade e de–verdade
+-- c5-v9: Escrevi–vos a–vós na a carta não vos–associardes com–imorais
+-- c5-v10: não completamente com–os imorais deste mundo deste ou com–os avarentos e ladrões ou idólatras pois deveríeis então do o mundo sair
+-- c5-v11: agora porém escrevi–vos a–vós não vos–associardes se alguém irmão chamado for imoral ou avarento ou idólatra ou maldizente ou bêbado ou ladrão com–o tal nem comer
+-- c5-v12: que pois a–mim os de–fora julgar porventura–não os de–dentro vós julgais
+-- c5-v13: os porém de–fora o Deus julga expulsai o maligno de vós mesmos
+-- c6-v1: Ousa alguém de–vós questão tendo contra o outro ir–a–juízo perante os injustos e não perante os santos
+-- c6-v2: ou não sabeis que os santos o mundo julgarão e se por vós é–julgado o mundo indignos sois de–tribunais menores
+-- c6-v3: não sabeis que anjos julgaremos quanto–mais coisas–desta–vida
+-- c6-v4: coisas–desta–vida de–fato portanto tribunais se tiverdes os menosprezados na a igreja a–estes fazeis–sentar
+-- c6-v5: para vergonha vossa digo assim não há entre vós nenhum sábio que poderá julgar entre meio do irmão dele
+-- c6-v6: mas irmão com irmão vai–a–juízo e isto perante incrédulos
+-- c6-v7: já de–fato portanto totalmente derrota para–vós é que demandas tendes entre vós–mesmos por que não antes sofreis–injustiça por que não antes sois–defraudados
+-- c6-v8: mas vós fazeis–injustiça e defraudais e isto irmãos
+-- c6-v9: ou não sabeis que injustos de–Deus reino não herdarão não vos–enganeis nem imorais nem idólatras nem adúlteros nem efeminados nem sodomitas
+-- c6-v10: nem ladrões nem avarentos não bêbados não maldizentes não roubadores reino de–Deus herdarão
+-- c6-v11: e estas–coisas alguns éreis mas vos–lavastes mas fostes–santificados mas fostes–justificados no o nome do Senhor nosso Jesus Cristo e no o Espírito do Deus nosso
+-- c6-v12: Todas–as–coisas me são–lícitas mas nem–todas–as–coisas todas convêm todas–as–coisas me são–lícitas mas não eu serei–dominado por nenhuma
+-- c6-v13: os alimentos para–o estômago e o estômago para–os alimentos o porém Deus tanto a–este quanto a–estes anulará o porém corpo não para–a imoralidade mas para–o Senhor e o Senhor para–o corpo
+-- c6-v14: o porém Deus tanto o Senhor ressuscitou e nós ressuscitará por–meio–do o poder dele
+-- c6-v15: não sabeis que os corpos vossos membros de–Cristo são tomando portanto os membros do Cristo faça de–prostituta membros de–modo–algum aconteceça
+-- c6-v16: ou não sabeis que o que–se–une à prostituta um corpo é Serão pois diz os dois para carne uma
+-- c6-v17: o porém que–se–une ao Senhor um espírito é
+-- c6-v18: fugi da imoralidade todo pecado que se praticar homem fora do corpo é o porém que–pratica–imoralidade contra o próprio corpo peca
+-- c6-v19: ou não sabeis que o corpo vosso templo do em vós Santo Espírito é o–qual tendes da–parte–de Deus e não sois de–vós–mesmos
+-- c6-v20: fostes–comprados pois por–preço glorificai pois a Deus no o corpo vosso e no o espírito vosso os–quais são de Deus
+-- c7-v1: Acerca–de porém das–quais escrevestes: bom ao–homem, de–mulher não tocar;
+-- c7-v2: por–causa–de porém –as imoralidades, cada–um –a sua–própria mulher tenha, e cada–uma –o próprio marido tenha.
+-- c7-v3: À mulher, o marido –a obrigação pague, semelhantemente porém também, a mulher ao marido.
+-- c7-v4: A mulher, do próprio corpo não tem–autoridade, mas o marido; semelhantemente porém, também o marido, do próprio corpo não tem–autoridade, mas a mulher.
+-- c7-v5: Não defraudeis uns–aos–outros, se não–fosse porventura por acordo, por tempo, para–que vos–dediqueis à oração; e de–novo, no –o mesmo, estejais, para–que não vos–tente a–vós –o Satanás, por–causa–de –a incontinência vossa.
+-- c7-v6: Isto porém digo segundo concessão, não segundo mandamento.
+-- c7-v7: Quero porém todos os–homens serem como também eu–mesmo. Mas cada–um próprio tem dom de Deus; –o de–fato assim, –o porém assim.
+-- c7-v8: Digo porém aos não–casados e às viúvas, bom a–eles se permanecerem como também–eu.
+-- c7-v9: Se porém não se–contêm, casem–se; melhor pois é casar, do–que arder.
+-- c7-v10: Aos porém casados ordeno— não eu, mas o Senhor— mulher de marido não separar–se;
+-- c7-v11: se porém também se–separar, permaneça não–casada, ou ao marido reconcilie–se; e marido mulher não deixar.
+-- c7-v12: Aos porém demais digo— eu não o Senhor— se algum irmão mulher tem descrente, e ela consente habitar com ele, não a–deixe ela.
+-- c7-v13: E mulher se alguma tem marido descrente, e este consente habitar com ela, não deixe –o marido.
+-- c7-v14: Foi–santificado pois o marido –o descrente, na –a mulher; e foi–santificada a mulher –a descrente, no –o irmão; pois–de–outro–modo então –os filhos vossos imundos são; agora porém santos são.
+-- c7-v15: Se porém o descrente se–separa, separe–se; não foi–escravizado o irmão ou a irmã em –os tais. Em porém paz chamou vos –o Deus.
+-- c7-v16: Que pois sabes, mulher, se –o marido salvarás? Ou que sabes, marido, se –a mulher salvarás?
+-- c7-v17: Se não a–cada–um, como repartiu o Senhor, cada–um como chamou –o Deus, assim ande; e assim em –as igrejas todas ordeno.
+-- c7-v18: Circuncidado alguém foi–chamado, não faça–se–incircunciso; em incircuncisão foi–chamado alguém, não se–circuncide.
+-- c7-v19: A circuncisão nada é, e a incircuncisão nada é, mas observância de–mandamentos de–Deus.
+-- c7-v20: Cada–um na –a vocação em–que foi–chamado, nesta mesma permaneça.
+-- c7-v21: Escravo foste–chamado, não a–ti importe; mas se também podes livre tornar–te, antes usa.
+-- c7-v22: O pois no Senhor chamado escravo, liberto do–Senhor é; semelhantemente o livre chamado, escravo é de–Cristo.
+-- c7-v23: Por–preço fostes–comprados; não vos–torneis escravos de–homens.
+-- c7-v24: Cada–um em que foi–chamado, irmãos, nisto mesmo permaneça diante–de Deus.
+-- c7-v25: Acerca–de porém –das virgens, mandamento do–Senhor não tenho; opinião porém dou, como tendo–recebido–misericórdia pelo Senhor, fiel ser.
+-- c7-v26: Penso portanto isto bom ser, por–causa–de –a presente necessidade, que bom ao–homem –o assim ser.
+-- c7-v27: Estás–ligado a–mulher? Não busques solução. Estás–livre de mulher? Não busques mulher.
+-- c7-v28: Se porém também casares, não pecaste; e se casar a virgem, não pecou; tribulação porém na carne terão os tais; eu porém de–vós poupo.
+-- c7-v29: Isto porém digo, irmãos: o tempo abreviado é. O restante para–que, também os tendo mulheres, como não tendo sejam;
+-- c7-v30: e os chorando, como não chorando; e os alegrando–se, como não alegrando–se; e os comprando, como não possuindo;
+-- c7-v31: e os usando –o mundo, como não abusando; passa pois –a forma –do mundo deste.
+-- c7-v32: Quero porém vos sem–preocupações ser. O não–casado preocupa–se–com –as –do Senhor, como agrade ao Senhor;
+-- c7-v33: o porém tendo–casado, preocupa–se–com –as –do mundo, como agrade à mulher.
+-- c7-v34: E está–dividido. E a mulher –a não–casada e a virgem, preocupa–se–com –as –do Senhor, para–que seja santa, tanto no corpo como no espírito; a porém tendo–casado, preocupa–se–com –as –do mundo, como agrade ao marido.
+-- c7-v35: Isto porém, para –o vosso mesmo proveito digo: não para–que laço a–vós lance, mas para –o decente, e dedicado ao Senhor sem–distração.
+-- c7-v36: Se porém alguém comportar–se–desonrosamente para–com –a virgem sua pensa, se estiver passada–da–idade, e assim deve acontecer, o–que quer faça; não peca; casem–se.
+-- c7-v37: Quem porém está–firme no –o coração seu firmado, não tendo necessidade, autoridade porém tem sobre –a própria vontade, e isto decidiu, no –o próprio coração, guardar –a sua virgem, bem fará.
+-- c7-v38: De–modo–que também, o dando–em–casamento –a sua virgem, bem faz; e o não dando–em–casamento, melhor fará.
+-- c7-v39: Mulher está–ligada por quanto tempo vive o marido dela; se porém adormecer o marido, livre está a–quem quiser casar–se, somente no Senhor.
+-- c7-v40: Mais–feliz porém é, se assim permanecer, segundo –a minha opinião; penso porém também–eu Espírito de–Deus ter.
+-- c8-v1: Acerca–de porém –das coisas–sacrificadas–a–ídolos, sabemos que, todos conhecimento temos. O conhecimento incha, –o porém amor edifica.
+-- c8-v2: Se alguém pensa ter–conhecido algo, ainda–não conheceu como é–necessário conhecer.
+-- c8-v3: Se porém alguém ama –o Deus, este foi–conhecido por ele.
+-- c8-v4: Acerca–de –o comer portanto –das coisas–sacrificadas–a–ídolos, sabemos que nenhum ídolo no mundo, e que nenhum Deus, se não um.
+-- c8-v5: Porque pois mesmo–se há chamados deuses, quer no céu quer sobre terra, assim–como há deuses muitos, e senhores muitos,
+-- c8-v6: mas para–nós um Deus, o Pai, de quem –as todas–as–coisas, e nós para ele; e um Senhor, Jesus Cristo, por–meio–de quem –as todas–as–coisas, e nós por–meio–de ele.
+-- c8-v7: Mas não em todos –o conhecimento; alguns porém, pelo costume até agora, –do ídolo, como coisa–sacrificada–a–ídolo comem, e –a consciência deles, fraca sendo, é–contaminada.
+-- c8-v8: Alimento porém nos não apresentará –a Deus; nem se não comermos, ficamos–deficientes. Nem se não comermos, temos–abundância;
+-- c8-v9: Vede porém, que de–algum–modo, –a autoridade vossa esta, tropeço se–torne aos fracos.
+-- c8-v10: Se pois, alguém vir a–ti, –o tendo conhecimento, em templo–de–ídolo reclinado, não –a consciência dele fraco sendo, será–edificada, para –o –as coisas–sacrificadas–a–ídolos comer?
+-- c8-v11: Perece pois o fraco, pelo –o teu conhecimento, o irmão por quem Cristo morreu.
+-- c8-v12: Assim porém, pecando contra –os irmãos, e ferindo deles –a consciência fraca, contra Cristo pecais.
+-- c8-v13: Por–isso se alimento escandaliza –o irmão meu, de–modo–algum não comerei carnes para –o sempre, para–que não –o irmão meu escandalize.
+-- c9-v1: Não sou livre? Não sou apóstolo? Não a–Jesus –o Senhor nosso, vi? Não –a obra minha, vós sois, no Senhor.
+-- c9-v2: Se a–outros não sou apóstolo, contudo certamente a–vós sou; –o pois selo meu –do apostolado, vós sois no Senhor.
+-- c9-v3: A minha defesa aos a–mim questionando é esta:
+-- c9-v4: Não não temos autoridade de–comer e beber?
+-- c9-v5: Não não temos autoridade irmã, mulher, levar–conosco, como também os demais apóstolos, e os irmãos –do Senhor, e Cefas?
+-- c9-v6: Ou somente eu e Barnabé, não temos autoridade não trabalhar?
+-- c9-v7: Quem serve–como–soldado com–próprias despesas jamais? Quem planta vinha, e –o fruto dela não come? Ou quem apascenta rebanho, e do –o leite –do rebanho, não come?
+-- c9-v8: Não segundo homem, estas–coisas falo? Ou também –a lei estas–coisas não diz?
+-- c9-v9: Na pois –a de–Moisés lei, está–escrito, Não amordarás boi debulhando. Não dos bois cuida –a Deus?
+-- c9-v10: Ou por–causa–de nós inteiramente diz? Por–causa–de nós pois foi–escrito, que deve, em esperança, o arando arar, e o debulhando, em esperança –do participar.
+-- c9-v11: Se nós a–vós –as espirituais semeamos, grande–coisa se nós, de–vós –as carnais colhermos?
+-- c9-v12: Se outros –da vossa autoridade participam, não mais nós? Mas não usamos –a autoridade esta; mas tudo suportamos, para–que não algum obstáculo demos, ao evangelho –de Cristo.
+-- c9-v13: Não sabeis que os –as coisas–sagradas realizando, –as do –o templo comem; os ao altar servindo, com–o altar participam?
+-- c9-v14: Assim também, o Senhor ordenou aos –o evangelho anunciando, do –o evangelho viver.
+-- c9-v15: Eu porém não usei de–nenhuma destas. Não escrevi porém, estas–coisas para–que assim aconteça em mim; bom pois a–mim antes morrer, do–que –a glória minha, ninguém esvazie.
+-- c9-v16: Se pois evangelizo, não me–é para–mim glória; necessidade pois a–mim imposta–está; ai pois de–mim é, se não evangelizar.
+-- c9-v17: Se pois voluntariamente isto faço, recompensa tenho; se porém involuntariamente, mordomia me–foi–confiada.
+-- c9-v18: Qual portanto minha é –a recompensa? Para–que evangelizando sem–despesa, coloque –o evangelho, para –o não abusar –a autoridade minha, no –o evangelho.
+-- c9-v19: Livre pois sendo de todos, a–todos a–mim–mesmo escravizei, para–que –os mais ganhe.
+-- c9-v20: E tornei–me aos judeus, como judeu, para–que judeus ganhe; aos sob lei, como sob lei, não estando eu–mesmo sob lei, para–que –os sob lei ganhe;
+-- c9-v21: aos sem–lei, como sem–lei, não estando sem–lei de–Deus, mas sob–lei de–Cristo, para–que ganhe –os sem–lei.
+-- c9-v22: Tornei–me aos fracos, fraco, para–que –os fracos ganhe. A–todos todos tornei–me tudo, para–que de–todo–modo, alguns salve.
+-- c9-v23: Tudo porém faço por–causa–de –o evangelho, para–que co–participante dele me–torne.
+-- c9-v24: Não sabeis, que os no estádio correndo, todos de–fato correm, um porém recebe –o prêmio? Assim correi, para–que alcanceis.
+-- c9-v25: Todo porém o competindo, em–tudo é–temperante; aqueles de–fato pois, para–que corruptível coroa recebam, nós porém incorruptível.
+-- c9-v26: Eu portanto assim corro, como não incertamente; assim luto, como não ar batendo.
+-- c9-v27: Mas esmurro meu –o corpo, e subjugo, para–que–não de–algum–modo a–outros tendo–pregado, eu–mesmo reprovado me–torne.
+-- c10-v1: Não quero pois vos ignorar, irmãos, que os pais nossos, todos sob –a nuvem estavam, e todos através–de –o mar passaram,
+-- c10-v2: e todos em –o Moisés foram–batizados, na –a nuvem, e no –o mar,
+-- c10-v3: e todos –o mesmo espiritual alimento comeram,
+-- c10-v4: e todos –a mesma espiritual beberam bebida; bebiam pois de espiritual seguindo rocha, –a rocha porém era –o Cristo.
+-- c10-v5: Mas não na –os maioria deles, se–agradou –o Deus; foram–prostrados pois no –o deserto.
+-- c10-v6: Estas–coisas porém, exemplos nossos tornaram–se, para –o não sermos nós, cobiçadores de–males, como também–aqueles cobiçaram.
+-- c10-v7: Nem idólatras vos–torneis, como alguns deles; assim–como está–escrito, Sentou–se o povo para–comer e beber, e levantaram–se para–folgar.
+-- c10-v8: Nem forniquemos, como alguns deles fornicaram, e caíram em–um dia vinte–e três mil.
+-- c10-v9: Nem tentemos –o Cristo, como alguns deles tentaram, e pelas –as serpentes pereciam.
+-- c10-v10: Nem murmureis, como alguns deles murmuraram, e pereceram pelo –o destruidor.
+-- c10-v11: Estas–coisas porém tipicamente aconteciam àqueles, foi–escrito porém para admoestação nossa, sobre os–quais –os fins –das eras chegaram.
+-- c10-v12: De–modo–que o pensando estar–de–pé, veja, que–não caia.
+-- c10-v13: Tentação vos não apanhou, se não humana; fiel porém –o Deus, que não permitirá vos serdes–tentados acima–de o–que podeis, mas fará, com –a tentação, também –a saída, para–o poderdes suportar.
+-- c10-v14: Por–isso, amados meus, fugi da –a idolatria.
+-- c10-v15: Como a–prudentes falo; julgai vós o–que digo.
+-- c10-v16: O cálice –da bênção, que abençoamos, não comunhão é –do sangue –de Cristo? O pão que partimos, não comunhão –do corpo –de Cristo é?
+-- c10-v17: Porque um pão, um corpo, os muitos somos; –os pois todos, do –o um pão, participamos.
+-- c10-v18: Vede –o Israel segundo carne: não os comendo –os sacrifícios, participantes –do altar são?
+-- c10-v19: Que portanto digo? Que coisa–sacrificada–a–ídolo algo é, ou que ídolo algo é?
+-- c10-v20: Mas que as–coisas–que sacrificam (–as nações) a–demônios, e não a–Deus, sacrificam. Não quero porém, vos participantes –dos demônios tornar–vos.
+-- c10-v21: Não podeis cálice do–Senhor beber, e cálice de–demônios. Não podeis de–mesa do–Senhor participar, e de–mesa de–demônios.
+-- c10-v22: Ou, provocamos–a–ciúmes –o Senhor? Não mais–fortes–do–que–ele dele somos?
+-- c10-v23: Tudo é–lícito, mas não tudo convém; tudo é–lícito, mas não tudo edifica.
+-- c10-v24: Ninguém –o de–si–mesmo busque, mas –o –do outro.
+-- c10-v25: Tudo –o no mercado vendido, comei; nada questionando por–causa–de –a consciência.
+-- c10-v26: Do Senhor pois –a terra, e –a plenitude dela.
+-- c10-v27: Se alguém convida vos dos descrentes, e quereis ir, tudo –o posto–diante de–vós comei, nada questionando por–causa–de –a consciência.
+-- c10-v28: Se porém alguém a–vós disser, Isto coisa–oferecida–em–sacrifício é, não comais, por–causa–de aquele –o informando, e –a consciência; <do pois Senhor –a terra, e –a plenitude dela>.
+-- c10-v29: Consciência porém, digo, não –a de–ti–mesmo, mas –a –do outro; para–que que pois –a liberdade minha é–julgada por outra consciência?
+-- c10-v30: Se eu com–graça participo, por–que sou–blasfemado, por o–qual eu dou–graças?
+-- c10-v31: Quer portanto comais, quer bebais, quer algo façais, tudo para glória de–Deus fazei.
+-- c10-v32: Sem–ofensa tanto a–judeus sede, como a–gregos, e à igreja –de Deus.
+-- c10-v33: Como também–eu em–tudo, a–todos agrado; não buscando –o de–mim–mesmo proveito, mas –o –dos muitos, para–que sejam–salvos.
+-- c11-v1: Imitadores meus sede, como também–eu de–Cristo.
+-- c11-v2: Louvo porém vos, que em–tudo de–mim vos–lembrais; e como entreguei a–vós, –as tradições retéis.
+-- c11-v3: Quero porém vos saber, que de–todo homem –a cabeça, –o Cristo é; cabeça porém de–mulher –o homem; cabeça porém –de Cristo, –o Deus.
+-- c11-v4: Todo homem orando ou profetizando, sobre cabeça tendo, desonra –a cabeça sua.
+-- c11-v5: Toda porém mulher orando ou profetizando, com–descoberta –a cabeça, desonra –a cabeça sua; uma pois é, e –a mesma, com–a rapada.
+-- c11-v6: Se pois não se–cobre mulher, também tosquie–se. Se porém vergonhoso à–mulher –o tosquiar–se ou rapar–se, cubra–se.
+-- c11-v7: Homem de–fato pois não deve cobrir –a cabeça, imagem e glória de–Deus sendo; a mulher porém, glória do–homem é.
+-- c11-v8: Não pois é homem de mulher, mas mulher de homem.
+-- c11-v9: Porque pois não foi–criado homem por–causa–de –a mulher, mas mulher por–causa–de –o homem.
+-- c11-v10: Por–isso isto, deve a mulher autoridade ter sobre –a cabeça, por–causa–de –os anjos.
+-- c11-v11: Contudo, nem mulher sem homem, nem homem sem mulher, no Senhor.
+-- c11-v12: Assim–como pois a mulher, do –o homem; assim também o homem por–meio, –da mulher; –as porém todas–as–coisas, de –o Deus.
+-- c11-v13: Em vós mesmos julgai: próprio é à–mulher descoberta, –a Deus orar?
+-- c11-v14: Nem –a natureza mesma ensina vos, que homem de–fato se deixa–crescer–o–cabelo, desonra a–ele é?
+-- c11-v15: Mulher porém se deixa–crescer–o–cabelo, glória a–ela é; porque –a cabeleira em–lugar–de, véu foi–dada a–ela.
+-- c11-v16: Se porém alguém pensa contencioso ser, nós tal costume não temos, nem –as igrejas –de Deus.
+-- c11-v17: Isto porém ordenando, não louvo, que não para –o melhor, mas para –o pior, vos–reunis.
+-- c11-v18: Primeiro de–fato, pois reunindo–vos vós em igreja, ouço divisões entre vós existirem, e em–parte algo creio.
+-- c11-v19: É–necessário pois também heresias entre vós haver, para–que também os aprovados, manifestos se–tornem entre vós.
+-- c11-v20: Reunindo–vos portanto vós, em –o mesmo, não é do–Senhor ceia comer.
+-- c11-v21: Cada–um pois, –a própria ceia, antecipa no –o comer; e um de–fato tem–fome, outro porém se–embriaga.
+-- c11-v22: Não pois casas não tendes, para –o comer e beber? Ou –a igreja –de Deus desprezais, e envergonhais –os não tendo? Que diga a–vós? Louve vos nisto nisto? Não louvo!
+-- c11-v23: Eu pois recebi do –o Senhor, o–que também entreguei a–vós: que o Senhor Jesus na –a noite em–que era–traído, tomou pão,
+-- c11-v24: e tendo–dado–graças partiu, e disse, Isto meu é –o corpo, –o por vós; isto fazei para –a minha lembrança.
+-- c11-v25: Da–mesma–forma também, –o cálice, depois–de –o cear, dizendo, Este –o cálice –a nova aliança é, no –o meu sangue; isto fazei, tantas–vezes–quantas se beberdes, para –a minha lembrança.
+-- c11-v26: Tantas–vezes–quantas pois, se comerdes –o pão este, e –o cálice beberdes, –a morte –do Senhor anunciais, até–que que venha.
+-- c11-v27: De–modo–que quem porventura comer –o pão, ou beber –o cálice –do Senhor indignamente, culpado será –do corpo, e –do sangue –do Senhor.
+-- c11-v28: Examine–se porém o–homem a–si–mesmo, e assim do –o pão coma, e do –o cálice beba.
+-- c11-v29: O pois comendo e bebendo juízo para–si–mesmo, come e bebe, não discernindo –o corpo.
+-- c11-v30: Por–isso isto, entre vós muitos fracos e doentes, e dormem muitos.
+-- c11-v31: Se porém a–nós–mesmos julgássemos, não porventura seríamos–julgados.
+-- c11-v32: Sendo–julgados porém pelo –o Senhor, somos–disciplinados, para–que não com –o mundo sejamos–condenados.
+-- c11-v33: De–modo–que, irmãos meus, reunindo–vos para –o comer, uns–aos–outros esperai.
+-- c11-v34: Se alguém tem–fome, em casa coma, para–que não para juízo vos–reuníeis; –as porém demais–coisas, quando porventura vier, ordenarei.
+-- c12-v1: Acerca de– das– coisas-espirituais, irmãos, não quero vos ignorar.
+-- c12-v2: Sabeis que quando gentios éreis, para os– ídolos os– mudos, como – éreis-levados, sendo-conduzidos.
+-- c12-v3: Por-isso faço-conhecer a–vós, que ninguém, em Espírito de–Deus falando, diz ANÁTEMA JESUS; e ninguém pode dizer, SENHOR JESUS, se não em Espírito Santo.
+-- c12-v4: Diversidades porém– de–dons há, o– mas– mesmo Espírito;
+-- c12-v5: e diversidades de–ministérios há, e o– mesmo Senhor;
+-- c12-v6: e diversidades de–operações há, (e) o– mas– mesmo Deus, o– que-opera todas– as-coisas, em todos.
+-- c12-v7: A–cada-um porém– é-dada a– manifestação do– Espírito, para o– proveito.
+-- c12-v8: A–um por-um-lado pois, por-meio do– Espírito, é-dada palavra de–sabedoria; a–outro porém, palavra de–conhecimento, segundo o– mesmo Espírito;
+-- c12-v9: a–outro, fé, no– – mesmo Espírito; a–outro porém, dons de–curas, no– – único Espírito;
+-- c12-v10: a–outro porém, operações de–poderes; a–outro porém, profecia; a–outro porém, discernimento de–espíritos; a–outro, variedades de–línguas; a–outro porém, interpretação de–línguas.
+-- c12-v11: Todas porém– estas-coisas opera o– único e – mesmo Espírito, distribuindo em-particular a–cada-um conforme quer.
+-- c12-v12: Assim-como pois o– corpo um é, e membros muitos tem, todos porém– os– membros do– corpo, muitos sendo, um é corpo; assim também o– Cristo.
+-- c12-v13: E pois, em um Espírito, nós todos em um corpo fomos-batizados, quer judeus quer gregos, quer escravos quer livres, e todos um Espírito fomos-dados-a-beber.
+-- c12-v14: E pois, o– corpo não é um membro, mas muitos.
+-- c12-v15: Se disser o– pé, Porque não sou mão, não sou do– – corpo: não por isso, não é do– – corpo.
+-- c12-v16: E se disser a– orelha, Porque não sou olho, não sou do– – corpo: não por isso, não é do– – corpo.
+-- c12-v17: Se todo o– corpo olho, onde a– audição? Se todo audição, onde o– olfato?
+-- c12-v18: Agora porém, – Deus colocou os– membros, um cada-um deles no– – corpo, conforme quis.
+-- c12-v19: Se porém– fossem – todas-as-coisas um membro, onde o– corpo?
+-- c12-v20: Agora porém, muitos por-um-lado membros, um porém– corpo.
+-- c12-v21: Não pode porém– o– olho dizer à– mão, Necessidade de–ti não tenho; ou novamente a– cabeça aos– pés, Necessidade de–vós não tenho.
+-- c12-v22: Mas muito mais, os– que-parecem membros do– corpo mais-fracos ser, necessários são;
+-- c12-v23: e os-que– pensamos menos-honrosos serem do– corpo, a–estes honra maior damos; e as– indecentes de–nós, decência maior têm;
+-- c12-v24: as– porém– decentes de–nós, não necessidade têm. Mas – Deus compôs o– corpo, ao– que-carece, maior dando honra,
+-- c12-v25: para-que não haja divisão no– – corpo, mas o– mesmo por uns-aos-outros cuidem, os– membros.
+-- c12-v26: E quer sofre um membro, sofrem-junto todos os– membros; quer é-glorificado [um] membro, alegram-se-junto todos os– membros.
+-- c12-v27: Vós porém– sois corpo de–Cristo, e membros de parte.
+-- c12-v28: E uns– por-um-lado colocou – Deus na– – igreja: primeiro, apóstolos; segundo, profetas; terceiro, mestres; depois, poderes; depois, dons de–curas; socorros; governos; variedades de–línguas.
+-- c12-v29: Acaso todos apóstolos? Acaso todos profetas? Acaso todos mestres? Acaso todos poderes?
+-- c12-v30: Acaso todos dons têm de–curas? Acaso todos em–línguas falam? Acaso todos interpretam?
+-- c12-v31: Buscai-zelosos porém– os– dons – maiores. E ainda, um– excelente caminho, a–vós mostro.
+-- c13-v1: Se nas– línguas dos– homens falo, e dos– anjos, amor porém– não tenho, tornei-me bronze que-ecoa, ou címbalo que-retine.
+-- c13-v2: E se tenho profecia, e conheço os– mistérios todos, e todo o– conhecimento, e se tenho toda a– fé, de-modo-a montes transportar, amor porém– não tenho, nada sou.
+-- c13-v3: E se distribuo-em-bocaços todos os– bens meus, e se entrego o– corpo meu, para-que seja-queimado, amor porém– não tenho, nada me-aproveita.
+-- c13-v4: O– amor é-longanimidade, é-bondoso; o– amor não tem-ciúmes; o– amor não se-envaidece, não se-ensoberbece,
+-- c13-v5: não age-com-indência; não busca as-coisas– de-si-mesmo, não se-irrita, não leva-em-conta o– mal,
+-- c13-v6: não se-alegra com a– injustiça, alegra-se-junto porém– com-a– verdade;
+-- c13-v7: tudo suporta, tudo crê, tudo espera, tudo persevera.
+-- c13-v8: O– amor nunca cai; quer porém– profecias, serão-abolidas; quer línguas, cessarão; quer conhecimento será-abolido.
+-- c13-v9: De parte pois, conhecemos; e de parte profetizamos;
+-- c13-v10: quando porém– vier o– perfeito, o– de parte será-abolido.
+-- c13-v11: Quando eu-era criança, falava como criança, pensava como criança, raciocinava como criança; quando tornei-me homem, aboli as-coisas– da– criança.
+-- c13-v12: Vemos pois agora, por-meio-de– espelho em enigma; então porém, face a face; agora, conheço de parte; então porém– conhecerei-plenamente, como também fui-plenamente-conhecido.
+-- c13-v13: Agora porém– permanece fé, esperança, amor, – três estas; maior porém– destas o– amor.
+-- c14-v1: Persegui o– amor; buscai-zelosos porém– as-coisas– espirituais, mais porém– para-que profetizeis.
+-- c14-v2: O– pois que-fala em–língua, não a–homens fala, mas a–Deus; ninguém pois ouve; em–espírito porém, fala mistérios.
+-- c14-v3: O– porém– que-profetiza, a–homens fala edificação, e exortação, e consolação.
+-- c14-v4: O– que-fala em–língua, a-si-mesmo edifica; o– porém– que-profetiza, igreja edifica.
+-- c14-v5: Quero porém, todos vós falar em–línguas, mais porém– para-que profetizeis; maior porém– o– que-profetiza, do-que o– que-fala em–línguas, a-não-ser que – interprete, para-que a– igreja edificação receba.
+-- c14-v6: Agora porém– irmãos, se eu-vier a vós em–línguas falando, que vos aproveitarei, se não a–vós falar, ou em revelação, ou em conhecimento, ou em profecia, ou <em> ensino?
+-- c14-v7: Contudo as-coisas– inanimadas som que-dão, quer flauta quer harpa, se distinção aos– sons não derem, como será-conhecido o– que-é-tocado-na-flauta ou o– que-é-tocado-na-harpa?
+-- c14-v8: E pois se incerto som–trombeta – der, quem se-preparará para guerra?
+-- c14-v9: Assim também vós, por-meio-de da– língua se não inteligível palavra derdes, como será-conhecido o– que-é-falado? Sereis pois para ar falando.
+-- c14-v10: Tantas se calha, variedades de–vozes há no– mundo, e nenhuma sem-voz.
+-- c14-v11: Se pois não souber o– poder da– voz, serei para-o– que-fala bárbaro; e o– que-fala, em mim bárbaro.
+-- c14-v12: Assim também vós, visto-que zelosos sois de–espíritos, para a– edificação da– igreja, buscai para-que abundeis.
+-- c14-v13: Por-isso o– que-fala em–língua, ore para-que interprete.
+-- c14-v14: Se pois eu-orar em–língua, o– espírito meu ora, a– porém– mente minha infrutífera é.
+-- c14-v15: Que pois é? Orarei com-o– espírito; orarei porém– também com-a– mente. Cantarei com-o– espírito, cantarei porém– também com-a– mente.
+-- c14-v16: Pois se bençoas [em] espírito, o– que-ocupa o– lugar do– leigo, como dirá o– Amém, sobre a– tua– ação-de-graças, visto-que que dizes não sabe?
+-- c14-v17: Tu por-um-lado pois bem dás-graças, mas o– outro não é-edificado.
+-- c14-v18: Dou-graças a– Deus, de-todos vós mais, em–línguas falo;
+-- c14-v19: mas em igreja, quero cinco palavras com-a– mente minha falar, para-que também outros instrua, do-que dez-mil palavras em língua.
+-- c14-v20: Irmãos, não crianças sejais nos– entendimentos. Mas na– malícia, sede-infantes; nos– porém– entendimentos, maduros sede.
+-- c14-v21: Na– – lei está-escrito, que Em outras-línguas, e em lábios de–outros, falarei ao– povo este, e nem- assim me-ouvirão – diz Senhor.
+-- c14-v22: De-modo-que as– línguas para sinal são, não aos– que-creem, mas aos– incrédulos; a– porém– profecia, não aos– incrédulos, mas aos– que-creem.
+-- c14-v23: Se pois se-reunir a– igreja toda, em o– mesmo-lugar, e todos falarem em–línguas, entrarem porém– leigos ou incrédulos, não dirão que estais-loucos?
+-- c14-v24: Se porém– todos profetizarem, entrar porém– alguém incrédulo ou leigo, é-convencido por todos, é-julgado por todos,
+-- c14-v25: as-coisas– ocultas do– coração dele manifestas tornam-se, e assim caindo sobre face, adorará – a–Deus, anunciando que Verdadeiramente, – Deus entre vós está.
+-- c14-v26: Que pois é, irmãos? Quando vos-reunis, cada-um salmo tem, ensino tem, revelação tem, língua tem, interpretação tem. Todas-as-coisas para edificação façam-se.
+-- c14-v27: Quer em–língua alguém fale, segundo dois ou no– máximo três, e – em-turno, e um interprete.
+-- c14-v28: Se porém– não houver intérprete, cale-se na– igreja; a-si-mesmo porém– fale, e a– Deus.
+-- c14-v29: Profetas porém, dois ou três falem, e os– outros julguem.
+-- c14-v30: Se porém– a–outro for-revelado que-está-sentado, o– primeiro cale-se.
+-- c14-v31: Podeis pois um-por– um todos profetizar, para-que todos aprendam, e todos sejam-exortados.
+-- c14-v32: E espíritos de–profetas, a–profetas estão-sujeitos.
+-- c14-v33: Não pois, é de–desordem – Deus, mas de–paz. Como em todas as– igrejas dos– santos,
+-- c14-v34: as– mulheres nas– – igrejas calem-se. Não pois é-permitido a–elas falar; mas sujeitem-se, como também a– lei diz.
+-- c14-v35: Se porém– algo aprender querem, em casa aos– próprios maridos perguntem; vergonhoso pois é a–mulher falar em igreja.
+-- c14-v36: Ou de vós a– palavra – de–Deus saiu? Ou a vós somente chegou?
+-- c14-v37: Se alguém pensa profeta ser, ou espiritual, reconheça as-coisas-que– escrevo a–vós, que do-Senhor é mandamento.
+-- c14-v38: Se porém– alguém ignora, é-ignorado.
+-- c14-v39: Assim, irmãos meus, buscai-zelosos o– profetizar; e o– falar, não impeçais, em–línguas.
+-- c14-v40: Todas-as-coisas porém– decorosamente e segundo ordem façam-se.
+-- c15-v1: Faço-conhecer porém– a–vós; irmãos, o– evangelho, que evangelizei a–vós; o-qual também recebestes, no– qual também estais-firmes,
+-- c15-v2: por-meio-de– o-qual também sois-salvos, com-que palavra evangelizei a–vós; se retendes, a-não-ser que – em-vão crestes.
+-- c15-v3: Entreguei pois a–vós em primeiras-coisas, o-que também recebi, que Cristo morreu pelos– – pecados nossos, segundo as– Escrituras;
+-- c15-v4: e que foi-sepultado; e que foi-ressuscitado no– dia, – terceiro, segundo as– Escrituras;
+-- c15-v5: e que apareceu a–Cefas, depois aos– doze.
+-- c15-v6: Depois apareceu acima-de quinhentos irmãos de-uma-vez, dos- quais os– mais permanecem até agora, alguns porém– adormeceram.
+-- c15-v7: Depois apareceu a–Tiago; depois aos– apóstolos todos;
+-- c15-v8: por-último porém– de-todos, como ao– aborto, apareceu também-a-mim.
+-- c15-v9: Eu pois sou o– menor dos– apóstolos, que não sou digno de-ser-chamado apóstolo, porque persegui a– igreja – de–Deus.
+-- c15-v10: Pela-graça porém– de–Deus, sou o-que sou, e a– graça dele – para mim, não vã tornou-se, mas mais-abundantemente do-que-eles todos trabalhei, não eu porém, mas a– graça – de–Deus <a> comigo. –
+-- c15-v11: Quer pois eu quer eles, assim pregamos, e assim crestes.
+-- c15-v12: Se porém– Cristo é-pregado, que dentre mortos foi-ressuscitado, como dizem entre vós alguns, que ressurreição de-mortos não há?
+-- c15-v13: Se porém– ressurreição de-mortos não há, nem Cristo foi-ressuscitado;
+-- c15-v14: se porém– Cristo não foi-ressuscitado, vã então [também] a– pregação nossa, vã também a– fé vossa.
+-- c15-v15: Somos-achados porém– também falsas-testemunhas – de–Deus; porque testemunhamos contra – Deus, que ressuscitou a– Cristo, ao-qual não ressuscitou, se-de-fato então mortos não são-ressuscitados.
+-- c15-v16: Se pois mortos não são-ressuscitados, nem Cristo foi-ressuscitado:
+-- c15-v17: se porém– Cristo não foi-ressuscitado, inútil a– fé vossa (é); ainda estais nos– – pecados vossos.
+-- c15-v18: Então também os– que-adormeceram em Cristo pereceram.
+-- c15-v19: Se, nesta– – vida – em Cristo tendo-esperado somos somente, mais-dignos-de-pena do-que-todos homens somos.
+-- c15-v20: Agora porém– Cristo foi-ressuscitado dentre mortos, primícias dos– que-adormeceram.
+-- c15-v21: Visto-que pois por-meio-de– homem morte, também por-meio-de– homem ressurreição de-mortos.
+-- c15-v22: Assim-como pois em – Adão todos morrem, assim também em – Cristo, todos serão-vivificados.
+-- c15-v23: Cada-um porém– na– – própria ordem: primícias Cristo, depois os– – de–Cristo, na– – vinda dele,
+-- c15-v24: depois o– fim, quando entregar o– reino ao– Deus e Pai; quando abolir todo governo, e toda autoridade, e poder.
+-- c15-v25: É-necessário pois ele reinar, até que ponha todos os– inimigos debaixo dos– pés dele.
+-- c15-v26: Último inimigo é-abolida a– morte.
+-- c15-v27: Todas-as-coisas pois sujeitou, debaixo dos– pés dele. Quando porém– disser que todas-as-coisas foram-sujeitas, claro que exceto o– que-sujeitou a–ele – todas-as-coisas.
+-- c15-v28: Quando porém– for-sujeito a–ele – todas-as-coisas, então também ele-mesmo o– Filho, será-sujeito ao– que-sujeitou a–ele – todas-as-coisas, para-que seja – Deus [as] todas-as-coisas em todos.
+-- c15-v29: De-outro-modo que farão, os– que-são-batizados pelos– – mortos? Se de-todo mortos não são-ressuscitados, por-que também são-batizados por eles?
+-- c15-v30: Por-que também, nós corremos-perigo toda hora?
+-- c15-v31: Cada– dia morro, pela– – vossa glória, irmãos que– tenho em Cristo Jesus, o– Senhor nosso.
+-- c15-v32: Se segundo homem, lutei-com-feras em Éfeso, que a–mim o– proveito? Se mortos não são-ressuscitados, comamos e bebamos, amanhã pois morremos.
+-- c15-v33: Não sejais-enganados: corrompem costumes bons, companhias más.
+-- c15-v34: Despertai justamente, e não pequeis; ignorância pois de–Deus, alguns têm; para vergonha a–vós falo.
+-- c15-v35: Mas dirá alguém, Como são-ressuscitados os– mortos? Com-que porém– corpo vêm?
+-- c15-v36: Insensato tu! O-que semeias, não é-vivificado, se não morrer.
+-- c15-v37: E o-que semeias, não o– corpo o– que-há-de-ser semeias, mas nu grão, se calha de–trigo, ou de-algum dos– demais.
+-- c15-v38: – porém– Deus dá a–ele corpo, conforme quis, e a–cada-uma das– sementes, próprio corpo.
+-- c15-v39: Não toda carne – a-mesma carne, mas outra por-um-lado de–homens, outra porém– carne de–animais, outra porém– carne de–aves. Outra porém– de–peixes.
+-- c15-v40: E corpos celestes, e corpos terrestres. Mas diferente por-um-lado a– dos– celestes glória, diferente porém– a– dos– terrestres.
+-- c15-v41: Outra glória de–sol, e outra glória de–lua, e outra glória de–estrelas; estrela pois de–estrela difere em glória.
+-- c15-v42: Assim também a– ressurreição dos– mortos. Semeia-se em corrupção, ressuscita-se em incorrupção.
+-- c15-v43: Semeia-se em desonra, ressuscita-se em glória. Semeia-se em fraqueza, ressuscita-se em poder.
+-- c15-v44: Semeia-se corpo natural, ressuscita-se corpo espiritual. Se há corpo natural, há também espiritual.
+-- c15-v45: Assim também está-escrito, Tornou-se o– primeiro homem Adão em alma vivente; o– último Adão em espírito vivificante.
+-- c15-v46: Mas não primeiro o– espiritual, mas o– natural, depois o– espiritual.
+-- c15-v47: O– primeiro homem da– terra, terreno; o– segundo homem, do– céu.
+-- c15-v48: Qual o– terreno, tais também os– terrenos; e qual o– celestial, tais também os– celestiais.
+-- c15-v49: E como usamos a– imagem do– terreno, usaremos também a– imagem do– celestial.
+-- c15-v50: Isto porém– digo, irmãos, que carne e sangue, reino de–Deus herdar não podem, nem a– corrupção, a– incorrupção herda.
+-- c15-v51: Eis, mistério a–vós digo: Todos não dormiremos, todos porém– seremos-transformados,
+-- c15-v52: em instante, em piscar de–olho, na– – última trombeta; soará pois, e os– mortos serão-ressuscitados incorruptíveis, e nós seremos-transformados.
+-- c15-v53: É-necessário pois – corruptível este, vestir-se incorruptibilidade; e – mortal este, vestir-se imortalidade.
+-- c15-v54: Quando porém– o– corruptível este vestir-se (a) incorruptibilidade, e o– mortal, este vestir-se imortalidade, então cumprir-se-á a– palavra – que-está-escrita: Foi-tragada a– morte em vitória.
+-- c15-v55: Onde de–ti, ó-morte, a– vitória? Onde de–ti, ó-morte, o– aguilhão?
+-- c15-v56: O– porém– aguilhão da– morte o– pecado; o– porém– poder do– pecado, a– lei;
+-- c15-v57: a– porém– Deus graças, ao– que-dá a–nós a– vitória, por-meio-de do– Senhor nosso, Jesus Cristo.
+-- c15-v58: Assim, irmãos meus amados, firmes sede, imovíveis, abundando na– – obra do– Senhor sempre, sabendo que o– trabalho vosso não é vão. no– Senhor.
 
 BEGIN;
 -- 4600100101: Παῦλος, (G3972) → "Paulo" [opus-4.5-chirho]

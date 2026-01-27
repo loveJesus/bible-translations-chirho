@@ -3,311 +3,311 @@
 -- — John 3:16
 
 -- HEBREWS - POR Combined
--- Generated: 2026-01-27T21:47:00Z
+-- Generated: 2026-01-27T22:20:30Z
 
--- HEBREWS c1-v1 - POR
--- HEBREWS c1-v2 - POR
--- HEBREWS c1-v3 - POR
--- HEBREWS c1-v4 - POR
--- HEBREWS c1-v5 - POR
--- HEBREWS c1-v6 - POR
--- HEBREWS c1-v7 - POR
--- HEBREWS c1-v8 - POR
--- HEBREWS c1-v9 - POR
--- HEBREWS c1-v10 - POR
--- HEBREWS c1-v11 - POR
--- HEBREWS c1-v12 - POR
--- HEBREWS c1-v13 - POR
--- HEBREWS c1-v14 - POR
--- HEBREWS c2-v1 - POR
--- HEBREWS c2-v2 - POR
--- HEBREWS c2-v3 - POR
--- HEBREWS c2-v4 - POR
--- HEBREWS c2-v5 - POR
--- HEBREWS c2-v6 - POR
--- HEBREWS c2-v7 - POR
--- HEBREWS c2-v8 - POR
--- HEBREWS c2-v9 - POR
--- HEBREWS c2-v10 - POR
--- HEBREWS c2-v11 - POR
--- HEBREWS c2-v12 - POR
--- HEBREWS c2-v13 - POR
--- HEBREWS c2-v14 - POR
--- HEBREWS c2-v15 - POR
--- HEBREWS c2-v16 - POR
--- HEBREWS c2-v17 - POR
--- HEBREWS c2-v18 - POR
--- HEBREWS c3-v1 - POR
--- HEBREWS c3-v2 - POR
--- HEBREWS c3-v3 - POR
--- HEBREWS c3-v4 - POR
--- HEBREWS c3-v5 - POR
--- HEBREWS c3-v6 - POR
--- HEBREWS c3-v7 - POR
--- HEBREWS c3-v8 - POR
--- HEBREWS c3-v9 - POR
--- HEBREWS c3-v10 - POR
--- HEBREWS c3-v11 - POR
--- HEBREWS c3-v12 - POR
--- HEBREWS c3-v13 - POR
--- HEBREWS c3-v14 - POR
--- HEBREWS c3-v15 - POR
--- HEBREWS c3-v16 - POR
--- HEBREWS c3-v17 - POR
--- HEBREWS c3-v18 - POR
--- HEBREWS c3-v19 - POR
--- HEBREWS c4-v1 - POR
--- HEBREWS c4-v2 - POR
--- HEBREWS c4-v3 - POR
--- HEBREWS c4-v4 - POR
--- HEBREWS c4-v5 - POR
--- HEBREWS c4-v6 - POR
--- HEBREWS c4-v7 - POR
--- HEBREWS c4-v8 - POR
--- HEBREWS c4-v9 - POR
--- HEBREWS c4-v10 - POR
--- HEBREWS c4-v11 - POR
--- HEBREWS c4-v12 - POR
--- HEBREWS c4-v13 - POR
--- HEBREWS c4-v14 - POR
--- HEBREWS c4-v15 - POR
--- HEBREWS c4-v16 - POR
--- HEBREWS c5-v1 - POR
--- HEBREWS c5-v2 - POR
--- HEBREWS c5-v3 - POR
--- HEBREWS c5-v4 - POR
--- HEBREWS c5-v5 - POR
--- HEBREWS c5-v6 - POR
--- HEBREWS c5-v7 - POR
--- HEBREWS c5-v8 - POR
--- HEBREWS c5-v9 - POR
--- HEBREWS c5-v10 - POR
--- HEBREWS c5-v11 - POR
--- HEBREWS c5-v12 - POR
--- HEBREWS c5-v13 - POR
--- HEBREWS c5-v14 - POR
--- HEBREWS c6-v1 - POR
--- HEBREWS c6-v2 - POR
--- HEBREWS c6-v3 - POR
--- HEBREWS c6-v4 - POR
--- HEBREWS c6-v5 - POR
--- HEBREWS c6-v6 - POR
--- HEBREWS c6-v7 - POR
--- HEBREWS c6-v8 - POR
--- HEBREWS c6-v9 - POR
--- HEBREWS c6-v10 - POR
--- HEBREWS c6-v11 - POR
--- HEBREWS c6-v12 - POR
--- HEBREWS c6-v13 - POR
--- HEBREWS c6-v14 - POR
--- HEBREWS c6-v15 - POR
--- HEBREWS c6-v16 - POR
--- HEBREWS c6-v17 - POR
--- HEBREWS c6-v18 - POR
--- HEBREWS c6-v19 - POR
--- HEBREWS c6-v20 - POR
--- HEBREWS c7-v1 - POR
--- HEBREWS c7-v2 - POR
--- HEBREWS c7-v3 - POR
--- HEBREWS c7-v4 - POR
--- HEBREWS c7-v5 - POR
--- HEBREWS c7-v6 - POR
--- HEBREWS c7-v7 - POR
--- HEBREWS c7-v8 - POR
--- HEBREWS c7-v9 - POR
--- HEBREWS c7-v10 - POR
--- HEBREWS c7-v11 - POR
--- HEBREWS c7-v12 - POR
--- HEBREWS c7-v13 - POR
--- HEBREWS c7-v14 - POR
--- HEBREWS c7-v15 - POR
--- HEBREWS c7-v16 - POR
--- HEBREWS c7-v17 - POR
--- HEBREWS c7-v18 - POR
--- HEBREWS c7-v19 - POR
--- HEBREWS c7-v20 - POR
--- HEBREWS c7-v21 - POR
--- HEBREWS c7-v22 - POR
--- HEBREWS c7-v23 - POR
--- HEBREWS c7-v24 - POR
--- HEBREWS c7-v25 - POR
--- HEBREWS c7-v26 - POR
--- HEBREWS c7-v27 - POR
--- HEBREWS c7-v28 - POR
--- HEBREWS c8-v1 - POR
--- HEBREWS c8-v2 - POR
--- HEBREWS c8-v3 - POR
--- HEBREWS c8-v4 - POR
--- HEBREWS c8-v5 - POR
--- HEBREWS c8-v6 - POR
--- HEBREWS c8-v7 - POR
--- HEBREWS c8-v8 - POR
--- HEBREWS c8-v9 - POR
--- HEBREWS c8-v10 - POR
--- HEBREWS c8-v11 - POR
--- HEBREWS c8-v12 - POR
--- HEBREWS c8-v13 - POR
--- HEBREWS c9-v1 - POR
--- HEBREWS c9-v2 - POR
--- HEBREWS c9-v3 - POR
--- HEBREWS c9-v4 - POR
--- HEBREWS c9-v5 - POR
--- HEBREWS c9-v6 - POR
--- HEBREWS c9-v7 - POR
--- HEBREWS c9-v8 - POR
--- HEBREWS c9-v9 - POR
--- HEBREWS c9-v10 - POR
--- HEBREWS c9-v11 - POR
--- HEBREWS c9-v12 - POR
--- HEBREWS c9-v13 - POR
--- HEBREWS c9-v14 - POR
--- HEBREWS c9-v15 - POR
--- HEBREWS c9-v16 - POR
--- HEBREWS c9-v17 - POR
--- HEBREWS c9-v18 - POR
--- HEBREWS c9-v19 - POR
--- HEBREWS c9-v20 - POR
--- HEBREWS c9-v21 - POR
--- HEBREWS c9-v22 - POR
--- HEBREWS c9-v23 - POR
--- HEBREWS c9-v24 - POR
--- HEBREWS c9-v25 - POR
--- HEBREWS c9-v26 - POR
--- HEBREWS c9-v27 - POR
--- HEBREWS c9-v28 - POR
--- HEBREWS c10-v1 - POR
--- HEBREWS c10-v2 - POR
--- HEBREWS c10-v3 - POR
--- HEBREWS c10-v4 - POR
--- HEBREWS c10-v5 - POR
--- HEBREWS c10-v6 - POR
--- HEBREWS c10-v7 - POR
--- HEBREWS c10-v8 - POR
--- HEBREWS c10-v9 - POR
--- HEBREWS c10-v10 - POR
--- HEBREWS c10-v11 - POR
--- HEBREWS c10-v12 - POR
--- HEBREWS c10-v13 - POR
--- HEBREWS c10-v14 - POR
--- HEBREWS c10-v15 - POR
--- HEBREWS c10-v16 - POR
--- HEBREWS c10-v17 - POR
--- HEBREWS c10-v18 - POR
--- HEBREWS c10-v19 - POR
--- HEBREWS c10-v20 - POR
--- HEBREWS c10-v21 - POR
--- HEBREWS c10-v22 - POR
--- HEBREWS c10-v23 - POR
--- HEBREWS c10-v24 - POR
--- HEBREWS c10-v25 - POR
--- HEBREWS c10-v26 - POR
--- HEBREWS c10-v27 - POR
--- HEBREWS c10-v28 - POR
--- HEBREWS c10-v29 - POR
--- HEBREWS c10-v30 - POR
--- HEBREWS c10-v31 - POR
--- HEBREWS c10-v32 - POR
--- HEBREWS c10-v33 - POR
--- HEBREWS c10-v34 - POR
--- HEBREWS c10-v35 - POR
--- HEBREWS c10-v36 - POR
--- HEBREWS c10-v37 - POR
--- HEBREWS c10-v38 - POR
--- HEBREWS c10-v39 - POR
--- HEBREWS c11-v1 - POR
--- HEBREWS c11-v2 - POR
--- HEBREWS c11-v3 - POR
--- HEBREWS c11-v4 - POR
--- HEBREWS c11-v5 - POR
--- HEBREWS c11-v6 - POR
--- HEBREWS c11-v7 - POR
--- HEBREWS c11-v8 - POR
--- HEBREWS c11-v9 - POR
--- HEBREWS c11-v10 - POR
--- HEBREWS c11-v11 - POR
--- HEBREWS c11-v12 - POR
--- HEBREWS c11-v13 - POR
--- HEBREWS c11-v14 - POR
--- HEBREWS c11-v15 - POR
--- HEBREWS c11-v16 - POR
--- HEBREWS c11-v17 - POR
--- HEBREWS c11-v18 - POR
--- HEBREWS c11-v19 - POR
--- HEBREWS c11-v20 - POR
--- HEBREWS c11-v21 - POR
--- HEBREWS c11-v22 - POR
--- HEBREWS c11-v23 - POR
--- HEBREWS c11-v24 - POR
--- HEBREWS c11-v25 - POR
--- HEBREWS c11-v26 - POR
--- HEBREWS c11-v27 - POR
--- HEBREWS c11-v28 - POR
--- HEBREWS c11-v29 - POR
--- HEBREWS c11-v30 - POR
--- HEBREWS c11-v31 - POR
--- HEBREWS c11-v32 - POR
--- HEBREWS c11-v33 - POR
--- HEBREWS c11-v34 - POR
--- HEBREWS c11-v35 - POR
--- HEBREWS c11-v36 - POR
--- HEBREWS c11-v37 - POR
--- HEBREWS c11-v38 - POR
--- HEBREWS c11-v39 - POR
--- HEBREWS c11-v40 - POR
--- HEBREWS c12-v1 - POR
--- HEBREWS c12-v2 - POR
--- HEBREWS c12-v3 - POR
--- HEBREWS c12-v4 - POR
--- HEBREWS c12-v5 - POR
--- HEBREWS c12-v6 - POR
--- HEBREWS c12-v7 - POR
--- HEBREWS c12-v8 - POR
--- HEBREWS c12-v9 - POR
--- HEBREWS c12-v10 - POR
--- HEBREWS c12-v11 - POR
--- HEBREWS c12-v12 - POR
--- HEBREWS c12-v13 - POR
--- HEBREWS c12-v14 - POR
--- HEBREWS c12-v15 - POR
--- HEBREWS c12-v16 - POR
--- HEBREWS c12-v17 - POR
--- HEBREWS c12-v18 - POR
--- HEBREWS c12-v19 - POR
--- HEBREWS c12-v20 - POR
--- HEBREWS c12-v21 - POR
--- HEBREWS c12-v22 - POR
--- HEBREWS c12-v23 - POR
--- HEBREWS c12-v24 - POR
--- HEBREWS c12-v25 - POR
--- HEBREWS c12-v26 - POR
--- HEBREWS c12-v27 - POR
--- HEBREWS c12-v28 - POR
--- HEBREWS c12-v29 - POR
--- HEBREWS c13-v1 - POR
--- HEBREWS c13-v2 - POR
--- HEBREWS c13-v3 - POR
--- HEBREWS c13-v4 - POR
--- HEBREWS c13-v5 - POR
--- HEBREWS c13-v6 - POR
--- HEBREWS c13-v7 - POR
--- HEBREWS c13-v8 - POR
--- HEBREWS c13-v9 - POR
--- HEBREWS c13-v10 - POR
--- HEBREWS c13-v11 - POR
--- HEBREWS c13-v12 - POR
--- HEBREWS c13-v13 - POR
--- HEBREWS c13-v14 - POR
--- HEBREWS c13-v15 - POR
--- HEBREWS c13-v16 - POR
--- HEBREWS c13-v17 - POR
--- HEBREWS c13-v18 - POR
--- HEBREWS c13-v19 - POR
--- HEBREWS c13-v20 - POR
--- HEBREWS c13-v21 - POR
--- HEBREWS c13-v22 - POR
--- HEBREWS c13-v23 - POR
--- HEBREWS c13-v24 - POR
--- HEBREWS c13-v25 - POR
+-- c1-v1: De–muitas–maneiras e de–muitos–modos antigamente o Deus tendo–falado aos pais nos – profetas
+-- c1-v2: em últimos dos dias estes falou a–nós em Filho a–quem constituiu herdeiro de–todas–as–coisas por–meio–de quem também fez os séculos
+-- c1-v3: o–qual sendo resplendor da glória e expressão–exata da substância d'–Ele sustentando e as todas–as–coisas pela palavra do poder por–meio–de si–mesmo purificação dos pecados tendo–feito assentou–se à direita da Majestade nas alturas
+-- c1-v4: tanto superior tendo–se–tornado dos anjos quanto mais–excelente do–que eles herdou nome
+-- c1-v5: A–qual pois disse alguma–vez dos anjos Filho meu és Tu Eu hoje te–gerei te E novamente Eu serei para–Ele como Pai e Ele será para–mim como Filho
+-- c1-v6: Quando porém novamente introduzir o Primogênito no – mundo diz E adorem–no a–Ele todos anjos de–Deus
+-- c1-v7: E quanto–aos – – anjos diz O–que faz os anjos seus espíritos e os ministros seus de–fogo chama
+-- c1-v8: Mas–quanto–ao – – Filho O trono teu ó Deus para o século do século e o cetro da retidão cetro do reino teu
+-- c1-v9: Amaste justiça e odiaste iniquidade por–isso – ungiu–te a–ti o Deus o Deus teu óleo de–alegria acima–de os companheiros teus
+-- c1-v10: E Tu no princípio Senhor a terra fundaste e obras das mãos tuas são os céus
+-- c1-v11: Eles perecerão Tu porém permaneces e todos como veste envelhecerão
+-- c1-v12: e como manto os–enrolarás eles como veste e serão–mudados Tu porém o mesmo és e os anos teus não cessarão
+-- c1-v13: A–qual qual porém dos anjos disse alguma–vez Assenta–te à direita minha até que eu–ponha os inimigos teus estrado dos pés teus
+-- c1-v14: Não todos são ministradores espíritos para serviço enviados por–causa–de os que–estão–para herdar salvação
+-- c2-v1: Por–isso – é–necessário mais–abundantemente atentar nós nas coisas–ouvidas para–que–não alguma–vez nos–desviemos
+-- c2-v2: Se pois a por anjos falada palavra tornou–se firme e toda transgressão e desobediência recebeu justa retribuição
+-- c2-v3: como nós escaparemos de–tão–grande tendo–negligenciado salvação a–qual princípio tendo–recebido ser–anunciada por o Senhor pelos – que–ouviram a nós foi–confirmada
+-- c2-v4: co–testemunhando o Deus por–sinais e e prodígios e variadas maravilhas e do–Espírito Santo distribuições segundo a sua vontade
+-- c2-v5: Não pois a–anjos sujeitou o mundo o vindouro acerca–de o–qual falamos
+-- c2-v6: Testificou porém em–algum–lugar alguém dizendo Que é homem que te–lembras dele ou filho do–homem que o–visitas ele
+-- c2-v7: Fizeste–o–um–pouco–menor ele pouco algo que anjos de–glória e de–honra coroaste ele e constituíste ele sobre as obras das mãos tuas
+-- c2-v8: Todas–as–coisas sujeitaste debaixo dos pés dele No – pois sujeitar a–Ele as todas–as–coisas nada deixou a–Ele não–sujeito Agora porém ainda–não vemos a–Ele as todas–as–coisas sujeitas
+-- c2-v9: Aquele porém um–pouco algo que anjos feito–menor vemos Jesus por–causa–de o sofrimento da morte de–glória e de–honra coroado para–que pela–graça de–Deus em–favor–de todo provasse morte
+-- c2-v10: Convinha pois a–Ele por–causa–de quem as todas–as–coisas e por–meio–de quem as todas–as–coisas muitos filhos à glória tendo–conduzido o autor da salvação deles por sofrimentos aperfeiçoar
+-- c2-v11: Tanto – pois o–que–santifica como os sendo–santificados de um todos por a–qual razão não se–envergonha irmãos eles chamar
+-- c2-v12: dizendo Anunciarei o nome teu aos irmãos meus no meio da–assembleia te–louvarei te
+-- c2-v13: E novamente Eu serei tendo–confiado n' Ele E novamente Eis Eu e os filhos os–quais a–mim deu o Deus
+-- c2-v14: Visto–que portanto os filhos têm–em–comum sangue e carne também Ele–mesmo semelhantemente participou das mesmas para–que por a morte destruísse aquele–que o poder tendo da morte isto é o diabo
+-- c2-v15: e libertasse estes quantos pelo–temor da–morte durante toda a vida sujeitos estavam à–escravidão
+-- c2-v16: Não pois certamente – de–anjos toma mas da–descendência de–Abraão toma
+-- c2-v17: Por–isso devia em tudo aos irmãos ser–semelhante para–que misericordioso se–tornasse e fiel sumo–sacerdote nas–coisas quanto–a o Deus para – fazer–propiciação–pelos os pecados do povo
+-- c2-v18: Naquilo–em que pois sofreu Ele–mesmo tendo–sido–tentado é–capaz aos que–são–tentados socorrer
+-- c3-v1: Por–isso irmãos santos de–vocação celestial participantes considerai o Apóstolo e Sumo–Sacerdote da confissão nossa Jesus
+-- c3-v2: fiel sendo ao–que O–constituiu Ele assim–como também Moisés em toda a casa d'Ele
+-- c3-v3: De–maior pois Este glória do–que Moisés foi–considerado–digno por quanto maior honra tem do–que–a casa o–que a–edificou ela
+-- c3-v4: Toda pois casa é–edificada por alguém Aquele porém todas–as–coisas que–edificou Deus
+-- c3-v5: E Moisés certamente fiel em toda a casa d'Ele como servo para testemunho das–coisas que–seriam–ditas
+-- c3-v6: Cristo porém como Filho sobre a casa d'Ele cuja casa somos nós se a confiança e a exultação da esperança até o–fim firme retivermos
+-- c3-v7: Por–isso assim–como diz o Espírito o Santo Hoje se a voz d'Ele ouvirdes
+-- c3-v8: não endureçais os corações vossos como na – provocação segundo o dia da tentação no – deserto
+-- c3-v9: onde tentaram os pais vossos em provação e viram as obras minhas quarenta anos
+-- c3-v10: Por–isso indignei–me com–a geração essa e disse Sempre erram no coração Eles porém não conheceram os caminhos meus
+-- c3-v11: Assim jurei na – ira minha Se entrarão no – descanso meu
+-- c3-v12: Atentai irmãos para–que–não alguma–vez haja em algum de–vós coração mau de–incredulidade em – apartar–se de Deus vivo
+-- c3-v13: Mas exortai–vos uns–aos–outros cada – dia enquanto – o Hoje se–chama para–que não seja–endurecido alguém de vós pelo–engano do pecado
+-- c3-v14: Participantes pois de Cristo temos–nos–tornado se–de–fato o princípio da confiança até o–fim firme retivermos
+-- c3-v15: enquanto – se–diz Hoje se a voz d'Ele ouvirdes Não endureçais os corações vossos como na – provocação
+-- c3-v16: Quem pois tendo–ouvido provocou Mas não todos os que–saíram do Egito por Moisés
+-- c3-v17: Com–quem porém se–indignou quarenta anos Não com–os que–pecaram cujos os corpos caíram no – deserto
+-- c3-v18: A–quem porém jurou não entrarão no – descanso d'Ele senão – aos que–foram–desobedientes
+-- c3-v19: E vemos que não puderam entrar por–causa–de incredulidade
+-- c4-v1: Temamos portanto para–que–não alguma–vez sendo–deixada promessa de–entrar no – descanso d'Ele pareça alguém de vós ter–falhado
+-- c4-v2: Também pois fomos evangelizados assim–como também–aqueles Mas não aproveitou a palavra do ouvir àqueles não tendo–sido–misturada com–a fé nos que–ouviram
+-- c4-v3: Entramos pois no – descanso os que–cremos assim–como disse Como jurei na – ira minha Se entrarão no – descanso meu embora as obras desde a–fundação do–mundo terem–sido–feitas
+-- c4-v4: Disse pois em–algum–lugar acerca do sétimo assim E descansou o Deus no – dia – sétimo de todas as obras d'Ele
+-- c4-v5: e neste – novamente Se entrarão no – descanso meu
+-- c4-v6: Visto–que portanto resta alguns entrarem nele – e os anteriormente evangelizados não entraram por–causa–de desobediência
+-- c4-v7: novamente certo determina dia Hoje em Davi dizendo depois–de tanto tempo assim–como foi–dito–antes Hoje se a voz d'Ele ouvirdes não endureçais os corações vossos
+-- c4-v8: Se pois a–eles Josué tivesse–dado–descanso não – acerca–de outro falaria depois–de estas–coisas dia
+-- c4-v9: Portanto resta um–repouso–sabático para–o povo de Deus
+-- c4-v10: Aquele pois que–entrou no – descanso d'Ele também ele–mesmo descansou de as obras suas assim–como das – próprias o Deus
+-- c4-v11: Esforcemo–nos portanto para–entrar naquele – – descanso para–que não no – mesmo alguém exemplo caia da desobediência
+-- c4-v12: Viva pois a palavra de Deus e eficaz e mais–cortante do–que toda espada de–dois–gumes e penetrante até divisão de–alma e de–espírito de–juntas e e de–medulas e apta–para–discernir pensamentos e intenções do–coração
+-- c4-v13: E não há criatura oculta diante d'Ele Todas–as–coisas porém nuas e expostas aos olhos d'Aquele a quem a–nós a prestação–de–contas
+-- c4-v14: Tendo portanto sumo–sacerdote grande que–atravessou os céus Jesus o Filho de Deus retenhamos a confissão
+-- c4-v15: Não pois temos sumo–sacerdote não podendo compadecer–se das fraquezas nossas tendo–sido–tentado porém em tudo segundo semelhança sem pecado
+-- c4-v16: Cheguemo–nos portanto com confiança ao trono da graça para–que recebamos misericórdia e graça encontremos para oportuno socorro
+-- c5-v1: Todo pois sumo–sacerdote dentre homens sendo–tomado em–favor–de homens é–constituído nas–coisas referentes–a o Deus para–que ofereça dádivas e e sacrifícios pelos pecados
+-- c5-v2: podendo–ser–moderado sendo–capaz com–os que–ignoram e que–erram visto–que também ele–mesmo está–cercado de–fraqueza
+-- c5-v3: e por–causa–dela – deve assim–como pelo – povo assim também por si–mesmo oferecer pelos pecados
+-- c5-v4: E não a–si–mesmo alguém toma a honra mas sendo–chamado por – Deus assim–como também Arão
+-- c5-v5: Assim também o Cristo não a–Si–mesmo glorificou para–tornar–se sumo–sacerdote mas O–que falou a Ele Filho meu és Tu Eu hoje te–gerei Te
+-- c5-v6: Assim–como também em outro diz Tu sacerdote para o século segundo a ordem de–Melquisedeque
+-- c5-v7: O–qual nos – dias da carne d'Ele orações e e súplicas ao – que–podia salvá–lo Ele da morte com clamor forte e lágrimas tendo–oferecido e tendo–sido–ouvido por–causa–da – piedade
+-- c5-v8: embora sendo Filho aprendeu por aquilo–que padeceu a obediência
+-- c5-v9: e tendo–sido–aperfeiçoado tornou–se para–todos os que–Lhe–obedecem – autor de–salvação eterna
+-- c5-v10: tendo–sido–designado por – Deus sumo–sacerdote segundo a ordem de–Melquisedeque
+-- c5-v11: Acerca de–quem muito para–nós a palavra e difícil–de–explicar para–dizer visto–que lentos vos–tornastes nos ouvidos
+-- c5-v12: Pois – devendo ser mestres pelo – tempo novamente necessidade tendes de–que alguém–vos–ensine a–vós quais os rudimentos do princípio dos oráculos de Deus e vos–tornastes necessidade tendo de–leite e não de–sólido alimento
+-- c5-v13: Todo pois o–que participa de–leite inexperiente da–palavra da–justiça criança pois é
+-- c5-v14: Dos–maduros porém é o sólido alimento dos–que pela – prática os sentidos exercitados têm para discernimento do–bem e e do–mal
+-- c6-v1: Por–isso deixando a do princípio de Cristo palavra para a perfeição avancemos não novamente fundamento lançando de–arrependimento de mortas obras e de–fé em Deus
+-- c6-v2: de–batismos doutrina de–imposição e de–mãos de–ressurreição e de–mortos e de–juízo eterno
+-- c6-v3: E isto faremos se–de–fato permitir o Deus
+-- c6-v4: Impossível pois os uma–vez iluminados que–provaram e do dom – celestial e participantes se–tornaram do–Espírito Santo
+-- c6-v5: e boa que–provaram de–Deus palavra poderes e do–vindouro século
+-- c6-v6: e tendo–caído novamente renovar para arrependimento crucificando–de–novo para–si–mesmos o Filho de Deus e expondo–O–à–vergonha
+-- c6-v7: Terra pois a que–bebe a sobre ela que–vem frequentemente chuva e que–produz vegetação útil para–aqueles por–causa–de quem também é–cultivada recebe bênção de – Deus
+-- c6-v8: mas–se–produz porém espinhos e abrolhos reprovada e de–maldição próxima da–qual o fim para queima
+-- c6-v9: Estamos–persuadidos porém acerca de–vós amados as coisas–melhores e que–acompanham salvação ainda–que – assim falamos
+-- c6-v10: Não pois injusto o Deus para–esquecer–se da obra vossa e do amor que demonstrastes para o nome d'Ele tendo–servido aos santos e servindo
+-- c6-v11: Desejamos porém cada–um de–vós a mesma demonstrar diligência para a plena–certeza da esperança até o–fim
+-- c6-v12: para–que não lentos vos–torneis imitadores porém dos–que por fé e paciência herdam as promessas
+-- c6-v13: A pois Abraão tendo–prometido o Deus visto–que por ninguém tinha maior para–jurar jurou por Si–mesmo
+-- c6-v14: dizendo Certamente – abençoando te–abençoarei te e multiplicando te–multiplicarei te
+-- c6-v15: E assim tendo–esperado–pacientemente alcançou a promessa
+-- c6-v16: Homens pois pelo – maior juram e de–toda a–eles contenda fim para confirmação o juramento
+-- c6-v17: Em que mais–abundantemente querendo o Deus mostrar aos herdeiros da promessa a imutabilidade do conselho d'Ele interpôs juramento
+-- c6-v18: para–que por duas coisas imutáveis em as–quais impossível mentir – Deus forte consolação tenhamos os–que nos–refugiamos para–nos–apegar–à – proposta esperança
+-- c6-v19: a–qual como âncora temos da alma segura e e firme e que–entra no – interior do véu
+-- c6-v20: onde precursor em–favor–de nós entrou Jesus segundo a ordem de–Melquisedeque sumo–sacerdote tendo–se–tornado para o século
+-- c7-v1: Este pois o– Melquisedeque rei de–Salém sacerdote do– Deus – Altíssimo o–que encontrou Abraão voltando de a– derrota dos– reis e abençoou ele
+-- c7-v2: a–quem também dízimo de tudo repartiu Abraão primeiro de–fato sendo–interpretado rei de–justiça depois porém também rei de–Salém o–que é rei de–paz
+-- c7-v3: sem–pai sem–mãe sem–genealogia nem princípio de–dias nem de–vida fim tendo feito–semelhante porém ao– Filho do– Deus permanece sacerdote para o– perpétuo
+-- c7-v4: Considerai porém quão–grande este a–quem até dízimo Abraão deu de os– despojos o– patriarca
+-- c7-v5: E os– de–fato de os– filhos de–Levi o– sacerdócio recebendo mandamento têm de–dizimar o– povo conforme a– lei isto é os– irmãos deles embora tendo–saído de os– lombos de–Abraão
+-- c7-v6: o–que porém não sendo–genealogado de eles dizimou Abraão e o–que tem as– promessas abençoou
+-- c7-v7: Sem porém qualquer contradição o– menor pelo – maior é–abençoado
+-- c7-v8: E aqui de–fato dízimos morrendo homens recebem ali porém sendo–testemunhado que vive
+-- c7-v9: E por–assim dizer para–dizer por–meio–de Abraão também Levi o–que dízimos recebe foi–dizimado
+-- c7-v10: ainda pois em os– lombos do– pai estava quando encontrou ele Melquisedeque
+-- c7-v11: Se de–fato pois perfeição por–meio–de o– levítico sacerdócio fosse o– povo pois sobre ele recebeu–a–lei que ainda necessidade segundo a– ordem de–Melquisedeque outro levantar–se sacerdote e não segundo a– ordem de–Arão ser–chamado
+-- c7-v12: sendo–mudado pois o– sacerdócio de necessidade também de–lei mudança acontece
+-- c7-v13: sobre quem pois é–dito estas–coisas de–tribo outra participou de a–qual ninguém serviu ao– altar
+-- c7-v14: Evidente pois que de Judá surgiu o– Senhor nosso para a–qual tribo acerca–de sacerdotes nada Moisés falou
+-- c7-v15: E mais–abundantemente ainda manifesto é se segundo a– semelhança de–Melquisedeque levanta–se sacerdote outro
+-- c7-v16: que não segundo lei de–mandamento carnal tornou–se mas segundo poder de–vida indissolúvel
+-- c7-v17: É–testemunhado pois que Tu sacerdote para o– sempre segundo a– ordem de–Melquisedeque
+-- c7-v18: anulação de–fato pois acontece do–precedente mandamento por–causa da– sua fraqueza e inutilidade
+-- c7-v19: nada pois aperfeiçoou a– lei introdução porém de–melhor esperança por–meio–da qual aproximamo–nos a– Deus
+-- c7-v20: E na–medida–em–que quanto não sem juramento os– de–fato pois sem juramento são sacerdotes tendo–se–tornado
+-- c7-v21: o– porém com juramento por–meio–de o–que diz para ele Jurou o–Senhor e não se–arrependerá Tu sacerdote para o– sempre
+-- c7-v22: por tanto também de–melhor aliança tornou–se fiador Jesus
+-- c7-v23: E os– de–fato muitos são tendo–se–tornado sacerdotes por–causa da– morte serem–impedidos de–permanecer
+-- c7-v24: ele porém por–causa de–o– permanecer ele para o– sempre intransferível tem o– sacerdócio
+-- c7-v25: Por–isso também salvar para o– completo pode os–que aproximam–se por–meio–de ele a– Deus sempre vivendo para o– interceder por eles
+-- c7-v26: Tal pois a–nós também convinha sumo–sacerdote santo inocente imaculado separado dos– – pecadores e mais–alto do–que–os– céus tendo–se–tornado
+-- c7-v27: que não tem cada dia necessidade como os– sumo–sacerdotes primeiro pelos – próprios pecados sacrifícios oferecer depois pelos– do– povo isto pois fez de–uma–vez–por–todas a–si–mesmo tendo–oferecido
+-- c7-v28: A– lei pois homens constitui sumo–sacerdotes tendo fraqueza a– palavra porém do– juramento – depois da– lei Filho para o– sempre tendo–sido–aperfeiçoado
+-- c8-v1: Ponto–principal porém sobre as–coisas– sendo–ditas tal temos sumo–sacerdote que sentou–se em direita do– trono da– Majestade nos– – céus
+-- c8-v2: dos– santos ministro e do– tabernáculo – verdadeiro o–qual erigiu o– Senhor não homem
+-- c8-v3: Todo pois sumo–sacerdote para o– oferecer dons e também sacrifícios é–constituído por–isso necessário ter algo também este que ofereça
+-- c8-v4: Se de–fato pois estivesse sobre terra nem seria – sacerdote havendo os–que– oferecem segundo a–lei os– dons
+-- c8-v5: os–quais em–figura e sombra servem das–coisas– celestiais conforme foi–divinamente–instruido Moisés estando–a–ponto–de completar o– tabernáculo Vê pois diz farás todas–as–coisas segundo o– modelo – mostrado a–ti no– – monte
+-- c8-v6: Agora porém mais–excelente obteve ministério quanto também de–melhor é aliança mediador a–qual sobre melhores promessas foi–estabelecida
+-- c8-v7: Se pois a– primeira aquela fosse sem–defeito não seria de–segunda buscado lugar
+-- c8-v8: Censurando pois eles diz Eis dias vêm diz Senhor e consumarei com a– casa de–Israel e com a– casa de–Judá aliança nova
+-- c8-v9: Não segundo a– aliança que fiz com–os– pais deles no dia de–ter–eu–tomado minha da– mão deles para–tirar eles de terra do–Egito porque eles não permaneceram em a– aliança minha e–eu descuidei deles diz Senhor
+-- c8-v10: Porque esta é–a– aliança que farei com–a– casa de–Israel depois–de os– dias aqueles diz Senhor dando leis minhas na a– mente deles e sobre corações deles escreverei elas e serei a–eles por Deus e eles serão a–mim por povo
+-- c8-v11: E não de–modo–algum ensinarão cada–um o– concidadão seu e cada–um o– irmão seu dizendo Conhece ao– Senhor porque todos me–conhecerão – desde pequeno até grande deles
+-- c8-v12: Porque misericordioso serei às– injustiças deles e dos– pecados deles não de–modo–algum me–lembrarei mais
+-- c8-v13: No– – dizer Nova tornou–obsoleta a– primeira o–que porém envelhece e torna–se–antiquado perto de–desaparecer
+-- c9-v1: Tinha de–fato pois também a– primeira ordenanças de–culto o– e santuário terreno
+-- c9-v2: Tabernáculo pois foi–preparado o– primeiro no qual o– e candelabro e a– mesa e a– exposição dos– pães o–qual é–chamado Santo
+-- c9-v3: Depois–de porém o– segundo véu tabernáculo o– chamado Santo dos–Santos
+-- c9-v4: de–ouro tendo incensário e a– arca da– aliança coberta–por–toda–parte de–todos–os–lados com–ouro na qual vaso de–ouro tendo o– maná e a– vara de–Arão a–que brotou e as– tábuas da– aliança
+-- c9-v5: Por–cima porém dela querubins de–glória cobrindo–com–sombra o– propiciatório acerca–de os–quais não é agora falar por parte
+-- c9-v6: Estas–coisas porém assim tendo–sido–preparadas na de–fato a– primeira tenda continuamente – entram os– sacerdotes os– serviços realizando
+-- c9-v7: Na porém – segunda uma–vez do– ano somente o– sumo–sacerdote não sem sangue o–qual oferece por si–mesmo e pelas– do– povo ignorâncias
+-- c9-v8: isto indicando o– Espírito – Santo ainda–não ter–sido–manifestado o– dos– santos caminho ainda da– primeira tenda tendo posição
+-- c9-v9: a–qual figura para o– tempo – presente segundo a–qual dons e também sacrifícios são–oferecidos não podendo quanto–à consciência aperfeiçoar o–que– serve
+-- c9-v10: somente sobre comidas e bebidas e diversas abluções ordenanças de–carne até tempo de–reforma impostas
+-- c9-v11: Cristo porém tendo–vindo sumo–sacerdote das– vindas coisas–boas por–meio–de a– maior e mais–perfeita tenda não feita–por–mãos isto é não desta – criação
+-- c9-v12: Nem por sangue de–bodes e bezerros por porém – próprio sangue entrou de–uma–vez–por–todas no – santo eterna redenção tendo–obtido
+-- c9-v13: Se pois o– sangue de–bodes e touros e cinza de–novilha aspergindo os– contaminados santifica para a– da– carne pureza
+-- c9-v14: quanto mais o– sangue do– Cristo que por–meio–de Espírito eterno a–si–mesmo ofereceu sem–mácula a– Deus purificará a– consciência nossa de mortas obras para o– servir a–Deus vivente
+-- c9-v15: E por isto de–aliança nova mediador é para–que de–morte tendo–ocorrido para redenção das– sob a– primeira aliança transgressões a– promessa recebam os– chamados da– eterna herança
+-- c9-v16: Onde pois testamento morte necessidade ser–trazida do–que– testou
+-- c9-v17: Testamento pois sobre mortos firme visto–que não alguma–vez tem–força quando vive o–que– testou
+-- c9-v18: Por–isso nem a– primeira sem sangue foi–inaugurada
+-- c9-v19: Tendo–sido–falado pois todo mandamento segundo a– lei por Moisés a–todo o– povo tendo–tomado o– sangue dos– bezerros e dos– bodes com água e lã escarlate e hissopo ele–mesmo e o– livro e todo o– povo aspergiu
+-- c9-v20: dizendo Este é–o– sangue da– aliança que ordenou para vós – Deus
+-- c9-v21: E o– tabernáculo porém e todos os– utensílios do– ministério com–o– sangue igualmente aspergiu
+-- c9-v22: E quase com sangue todas–as–coisas são–purificadas segundo a– lei e sem derramamento–de–sangue não há perdão
+-- c9-v23: Necessário pois as– de–fato figuras das–coisas– nos– – céus com–estas serem–purificadas elas–mesmas porém as–coisas– celestiais com–melhores sacrifícios do–que estes
+-- c9-v24: Não pois em feito–por–mãos entrou santo Cristo cópias dos– verdadeiros mas no próprio – céu agora para–aparecer à– face do– Deus por nós
+-- c9-v25: Nem para–que muitas–vezes oferecesse a–si–mesmo como o– sumo–sacerdote entra no – santo cada ano com sangue alheio
+-- c9-v26: Pois seria–necessário ele muitas–vezes sofrer desde fundação do–mundo Agora porém uma–vez na consumação dos– séculos para anulação do– pecado por–meio–de – sacrifício seu foi–manifestado
+-- c9-v27: E na–medida–em–que quanto está–reservado aos– homens uma–vez morrer depois–de porém isto juízo
+-- c9-v28: Assim também o– Cristo uma–vez tendo–sido–oferecido para o– de–muitos levar pecados pela– segunda–vez sem pecado aparecerá aos–que– o– aguardam para salvação
+-- c10-v1: Sombra pois tendo a lei das vindouras coisas–boas não a–mesma a imagem das realidades por ano com–os–mesmos mesmos sacrifícios que oferecem para o contínuo nunca pode os que–se–aproximam aperfeiçoar
+-- c10-v2: pois não – teriam–cessado sendo–oferecidos por – nenhuma ter ainda consciência de–pecados os que–servem uma–vez tendo–sido–purificados
+-- c10-v3: mas neles mesmos recordação de–pecados por ano
+-- c10-v4: impossível pois sangue de–touros e de–bodes tirar pecados
+-- c10-v5: Por–isso entrando no o mundo diz Sacrifício e oferta não quiseste corpo porém preparaste para–mim
+-- c10-v6: holocaustos e por pecado não te–agradaste
+-- c10-v7: então disse Eis venho no rolo do–livro está–escrito acerca de–mim para fazer ó Deus a vontade tua
+-- c10-v8: Acima dizendo que Sacrifícios e ofertas e holocaustos e pelo pecado não quiseste nem te–agradaste as–quais segundo a–lei são–oferecidos
+-- c10-v9: então disse Eis venho para fazer a vontade tua Remove o primeiro para–que o segundo estabeleça
+-- c10-v10: Em cuja vontade santificados somos pela – oferta do corpo de–Jesus Cristo de–uma–vez–por–todas
+-- c10-v11: E todo certamente sacerdote está cada dia ministrando e os–mesmos mesmos repetidamente oferecendo sacrifícios os–quais nunca podem remover pecados
+-- c10-v12: Este porém um pelos pecados tendo–oferecido sacrifício para o contínuo assentou–se à direita de Deus
+-- c10-v13: o restante esperando até sejam–postos os inimigos dele escabelo dos pés dele
+-- c10-v14: com–uma pois oferta aperfeiçoou para o contínuo os que–estão–sendo–santificados
+-- c10-v15: Testifica e a–nós também o Espírito o Santo depois pois de–ter dito
+-- c10-v16: Esta é–a aliança que farei com eles depois de–aqueles dias aqueles diz o–Senhor pondo as–minhas–leis minhas em os–corações deles e sobre a mente deles as–escreverei neles
+-- c10-v17: e dos pecados deles e das iniquidades deles não de–modo–algum me–lembrarei mais
+-- c10-v18: Onde porém perdão destas–coisas não–mais oferta pelo pecado
+-- c10-v19: Tendo portanto irmãos ousadia para a entrada do Santo–lugar pelo – sangue de–Jesus
+-- c10-v20: que inaugurou para–nós caminho novo e vivo através do véu isto é da carne dele
+-- c10-v21: e sacerdote grande sobre a casa de Deus
+-- c10-v22: aproximemo–nos com verdadeiro coração em plena–certeza de–fé tendo–sido–aspergidos os corações de consciência má e tendo–sido–lavados o corpo com–água pura
+-- c10-v23: Retenhamos a confissão da esperança firme fiel pois é–o que–prometeu
+-- c10-v24: e consideremo–nos uns–aos–outros para estímulo de–amor e de–boas obras
+-- c10-v25: não abandonando a congregação de–vós–mesmos como costume de–alguns mas exortando–nos e tanto–mais quanto mais vedes aproximar–se o Dia
+-- c10-v26: Voluntariamente pois pecando nós depois de receber o conhecimento da verdade não–mais pelos pecados resta sacrifício
+-- c10-v27: terrível porém certa expectativa de–juízo e de–fogo ardor prestes–a–devorar prestes os adversários
+-- c10-v28: Rejeitando alguém lei de–Moisés sem misericórdia com duas ou três testemunhas morre
+-- c10-v29: quanto pensais pior será–considerado–digno de–castigo o que–ao Filho de Deus pisou e o sangue da aliança profano considerou no qual foi–santificado e ao Espírito da graça ultrajou
+-- c10-v30: Conhecemos pois aquele–que disse Minha é–a–vingança eu retribuirei e novamente Julgará o–Senhor o povo dele
+-- c10-v31: Terrível coisa–é cair nas mãos do–Deus vivo
+-- c10-v32: Lembrai–vos porém dos anteriores dias nos quais tendo–sido–iluminados grande luta suportastes de–sofrimentos
+-- c10-v33: isto por–um–lado com–insultos tanto como com–tribulações sendo–feitos–espetáculo isto por–outro–lado companheiros dos assim que–viviam tendo–vos–tornado
+-- c10-v34: Pois também aos prisioneiros fostes–compassivos e o despojo dos bens vossos com alegria aceitastes sabendo ter vós–mesmos melhor possessão e permanente
+-- c10-v35: Não lanceis–fora portanto a confiança vossa a–qual tem grande recompensa
+-- c10-v36: De–perseverança pois tendes necessidade para–que a vontade de Deus tendo–feito alcanceis a promessa
+-- c10-v37: Ainda pois um–pouco quanto quanto o que–vem virá e não tardará
+-- c10-v38: O porém justo meu por fé viverá e se recuar não se–agrada a alma minha nele dele
+-- c10-v39: Nós porém não somos de–retrocesso para perdição mas de–fé para preservação da–alma
+-- c11-v1: É porém fé de–coisas–esperadas certeza de–realidades prova não vistas
+-- c11-v2: Nela esta pois receberam–testemunho os antigos
+-- c11-v3: Pela–fé entendemos terem–sido–formados os séculos pela–palavra de–Deus de–modo–que o não de coisas–visíveis o que–é–visto se–fez
+-- c11-v4: Pela–fé maior sacrifício Abel do–que Caim ofereceu a Deus por–meio da–qual foi–testemunhado ser justo testemunhando sobre as ofertas dele o Deus e por–meio dela tendo–morrido ainda fala
+-- c11-v5: Pela–fé Enoque foi–trasladado para não ver morte e não era–achado porque o–trasladou ele o Deus antes pois da traslação foi–testemunhado ter–agradado a Deus
+-- c11-v6: Sem porém fé impossível agradar crer pois é–necessário ao–que se–aproxima de Deus que ele–existe e aos–que o–buscam ele galardoador se–torna
+-- c11-v7: Pela–fé divinamente–avisado Noé acerca das ainda–não vistas–coisas com–temor preparou uma–arca para salvação da casa dele por–meio da–qual condenou o mundo e da segundo fé justiça se–tornou herdeiro
+-- c11-v8: Pela–fé sendo–chamado Abraão obedeceu sair para lugar que estava–prestes a–receber como herança e saiu não sabendo para–onde ia
+-- c11-v9: Pela–fé peregrinou na terra da promessa como estrangeira em tendas tendo–habitado com Isaque e Jacó os co–herdeiros da promessa da mesma
+-- c11-v10: esperava pois a os fundamentos tendo cidade da–qual artifíce e construtor é–o Deus
+-- c11-v11: Pela–fé também a–própria Sara estéril poder para concepção de–semente recebeu e além do–tempo da–idade porque fiel considerou ao–que prometeu
+-- c11-v12: por–isso também de um nasceram e este já–amortecido como as estrelas do céu em multidão e como a areia a junto à beira do mar a inumerável
+-- c11-v13: Segundo a–fé morreram estes todos não tendo–alcançado as promessas mas de–longe elas tendo–visto e tendo–saudado e tendo–confessado que estrangeiros e peregrinos são sobre a terra
+-- c11-v14: Os pois tais–coisas que–dizem manifestam que pátria buscam
+-- c11-v15: E se por–um–lado daquela se–lembrassem de onde saíram teriam – oportunidade para–voltar
+-- c11-v16: Agora porém de–melhor desejam isto é celestial por–isso não se–envergonha deles o Deus Deus ser–chamado deles preparou pois para–eles cidade
+-- c11-v17: Pela–fé ofereceu Abraão a Isaque sendo–provado e o unigênito oferecia o as promessas que–recebeu
+-- c11-v18: a quem foi–dito que Em Isaque será–chamada a–ti descendência
+-- c11-v19: considerando que até dentre mortos ressuscitar poderoso é–o Deus donde ele também em figura o–recobrou
+-- c11-v20: Pela–fé também acerca de–coisas–vindouras abençoou Isaque a Jacó e a Esaú
+-- c11-v21: Pela–fé Jacó morrendo cada–um dos filhos de–José abençoou e adorou sobre a extremidade do bordão dele
+-- c11-v22: Pela–fé José ao–morrer acerca do êxodo dos filhos de–Israel fez–menção e acerca dos ossos dele deu–ordens
+-- c11-v23: Pela–fé Moisés tendo–nascido foi–escondido três–meses pelos – pais dele porque viram formoso o menino e não temeram o decreto do rei
+-- c11-v24: Pela–fé Moisés grande tendo–se–tornado recusou ser–chamado filho da–filha de–Faraó
+-- c11-v25: antes escolhendo ser–maltratado–junto com–o povo de Deus do–que temporário ter do–pecado gozo
+-- c11-v26: maior riqueza considerando dos do–Egito tesouros o opróbrio de Cristo olhava pois para a recompensa
+-- c11-v27: Pela–fé deixou o–Egito não temendo a ira do rei o pois invisível como vendo perseverou
+-- c11-v28: Pela–fé celebrou a Páscoa e a aspersão do sangue para–que não o que–destruía os primogênitos tocasse neles
+-- c11-v29: Pela–fé atravessaram o Vermelho Mar como por seca terra da–qual prova tendo–feito os egípcios foram–engolidos
+-- c11-v30: Pela–fé os muros de–Jericó caíram tendo–sido–cercados por sete dias
+-- c11-v31: Pela–fé Raabe a prostituta não pereceu–junto com–os que–desobedeceram tendo–recebido os espiões com paz
+-- c11-v32: E que mais direi faltará me pois narrando o tempo acerca de–Gideão Baraque Sansão Jefté Davi e e Samuel e dos profetas
+-- c11-v33: os–quais por fé subjugaram reinos praticaram justiça alcançaram promessas fecharam bocas de–leões
+-- c11-v34: apagaram poder do–fogo escaparam do–fio da–espada foram–fortalecidos de enfermidade tornaram–se poderosos na guerra exércitos fizeram–fugir estrangeiros
+-- c11-v35: Receberam mulheres por ressurreição os mortos delas outros porém foram–torturados não aceitando a redenção para–que melhor ressurreição alcançassem
+-- c11-v36: outros porém de–escárnios e de–açoites provação tiveram e–ainda porém de–cadeias e de–prisão
+-- c11-v37: foram–apedrejados foram–tentados foram–serrados em morte de–espada morreram andaram em peles–de–ovelha em de–cabra peles necessitados afligidos maltratados
+-- c11-v38: dos–quais não era digno o mundo em desertos errantes e montes e cavernas e nas fendas da terra
+-- c11-v39: E estes todos tendo–obtido–testemunho por – fé não alcançaram a promessa
+-- c11-v40: de Deus para nós algo–melhor algo tendo–provido para–que não sem nós fossem–aperfeiçoados
+-- c12-v1: Portanto também nós tão–grande tendo que–nos–rodeia a–nós nuvem de–testemunhas peso deixando–de–lado todo e o que–facilmente–envolve pecado com perseverança corramos a que–está–diante de–nós carreira
+-- c12-v2: olhando para o da fé autor e consumador Jesus o–qual em–vez do que–lhe–estava–proposta a–ele alegria suportou cruz da–vergonha desprezando à direita e do trono de Deus assentou–se
+-- c12-v3: Considerai pois o–que tal suportou dos – pecadores contra si–mesmo oposição para–que não vos–canseis nas almas vossas desfalecendo
+-- c12-v4: Ainda–não até sangue resististes contra o pecado combatendo
+-- c12-v5: e vos–esquecestes da exortação a–qual convosco como com–filhos fala Filho meu não desprezes a–disciplina do–Senhor nem desmaies por ele sendo–corrigido
+-- c12-v6: a–quem pois ama o–Senhor disciplina açoita porém todo filho que recebe
+-- c12-v7: Para disciplina perseverai como com–filhos convosco trata o Deus qual pois filho a–quem não disciplina o–pai
+-- c12-v8: Se porém sem estais disciplina da–qual participantes se–tornaram todos então ilegítimos e não filhos sois
+-- c12-v9: Além–disso os por–um–lado da carne nossa pais tínhamos como–disciplinadores e os–respeitávamos não muito porém mais nos–submeteremos ao Pai dos espíritos e viveremos
+-- c12-v10: Eles por–um–lado pois por poucos dias segundo o que–lhes–parecia–bem a–eles nos–disciplinavam Ele porém para o que–é–proveitoso para – participarmos da santidade dele
+-- c12-v11: Toda porém disciplina no por–um–lado – presente não parece de–alegria ser mas de–tristeza depois porém fruto pacífico aos por–ela ela tendo–sido–exercitados produz de–justiça
+-- c12-v12: Por–isso as caídas mãos e os paralisados joelhos endireitai
+-- c12-v13: e caminhos retos fazei para–os pés vossos para–que não o manco se–desvie seja–curado porém antes
+-- c12-v14: Paz buscai com todos e a santificação sem–a–qual qual ninguém verá o Senhor
+-- c12-v15: vigiando não alguém faltando da – graça de Deus não alguma raiz de–amargura para–cima brotando cause–problema e por–ela ela sejam–contaminados – muitos
+-- c12-v16: não alguém fornicário ou profano como Esaú que por uma–refeição uma vendeu os direitos–de–primogenitura dele–mesmo
+-- c12-v17: Sabeis pois que também depois querendo herdar a bênção foi–rejeitado de–arrependimento pois lugar não achou embora com lágrimas tendo–buscado ela
+-- c12-v18: Não pois vos–aproximastes de–palpável e ardendo fogo e escuridão e trevas e tempestade
+-- c12-v19: e de–trombeta som e voz de–palavras a–qual os que–ouviram rogaram não lhes–ser–acrescentada a–eles palavra
+-- c12-v20: não suportavam pois o que–era–ordenado Mesmo–que animal toque o monte será–apedrejado
+-- c12-v21: e tão terrível era o que–aparecia Moisés disse Aterrorizado estou e trêmulo
+-- c12-v22: Mas vos–aproximastes de–Sião monte e de–cidade de–Deus vivo Jerusalém celestial e de–miríades de–anjos
+-- c12-v23: assembleia–festiva e de–igreja de–primogênitos inscritos nos céus e de–Juiz Deus de–todos e de–espíritos de–justos aperfeiçoados
+-- c12-v24: e de–aliança nova mediador Jesus e de–sangue de–aspersão melhor que–fala do–que o de–Abel
+-- c12-v25: Vede que–não recuseis ao–que fala Se pois aqueles não escaparam na terra tendo–recusado ao–que advertia muito mais nós os–que do–que dos céus nos–desviamos
+-- c12-v26: cuja a voz a terra abalou então agora porém prometeu dizendo Ainda uma–vez eu abalarei não somente a terra mas também o céu
+-- c12-v27: O porém Ainda uma–vez indica a das coisas–abaladas remoção como tendo–sido–feitas para–que permaneçam as não abaladas
+-- c12-v28: Por–isso reino inabalável recebendo tenhamos gratidão pela qual sirvamos agradavelmente a Deus com reverência e temor
+-- c12-v29: Pois também o nosso–Deus nosso é–fogo consumidor
+-- c13-v1: O amor–fraternal permaneça
+-- c13-v2: Da hospitalidade não vos–esqueçais por–meio desta pois sem–saber alguns hospedaram anjos
+-- c13-v3: Lembrai–vos dos prisioneiros como estando–presos–juntos dos que–são–maltratados como também vós–mesmos estando em corpo
+-- c13-v4: Honrado seja–o casamento em todos e o leito sem–mácula fornicários pois e adúlteros julgará o Deus
+-- c13-v5: Sem–amor–ao–dinheiro seja–o caráter contentando–vos com–as coisas–presentes ele–mesmo pois disse Não de–modo–algum te deixarei nem de–modo–algum de–modo–algum te abandonarei
+-- c13-v6: de–modo–que confiantes nós digamos O–Senhor é–meu ajudador e não temerei que fará a–mim o–homem
+-- c13-v7: Lembrai–vos dos líderes vossos os–quais falaram a–vós a palavra de Deus dos–quais observando o resultado da conduta imitai a fé
+-- c13-v8: Jesus Cristo ontem e hoje o mesmo e para os séculos
+-- c13-v9: Com–doutrinas diversas e estranhas não sejais–levados bom pois com–graça ser–confirmado o coração não com–alimentos nos quais não foram–beneficiados os que–andavam
+-- c13-v10: Temos altar do–qual qual comer não têm autoridade os no tabernáculo que–servem
+-- c13-v11: dos–quais pois é–trazido de–animais o sangue pelo pecado para os santos–lugares por–meio do sumo–sacerdote destes os corpos são–queimados fora do acampamento
+-- c13-v12: por–isso também Jesus para–que santificasse pelo – próprio sangue o povo fora da porta padeceu
+-- c13-v13: Portanto saiamos a ele fora do acampamento o opróbrio dele levando
+-- c13-v14: Não pois temos aqui permanente cidade mas a vindoura buscamos
+-- c13-v15: Por–meio dele portanto ofereçamos sacrifício de–louvor continuamente a – Deus isto é fruto de–lábios que–confessam ao nome dele
+-- c13-v16: Da porém beneficência e comunhão não vos–esqueçais com–tais pois sacrifícios se–agrada o Deus
+-- c13-v17: Obedecei aos líderes vossos e sede–submissos eles–mesmos pois velam por – almas vossas como conta havendo–de–dar para–que com alegria isto façam e não gemendo desvantagoso pois para–vós isto
+-- c13-v18: Orai por nós estamos–persuadidos pois que boa consciência temos em todas–as–coisas bem querendo viver
+-- c13-v19: Mais–abundantemente porém rogo isto fazer para–que mais–depressa seja–restituído a–vós
+-- c13-v20: O porém Deus da paz o–que trouxe–de–volta dentre mortos o pastor das ovelhas o grande pelo sangue de–aliança eterna o Senhor nosso Jesus
+-- c13-v21: vos–aperfeiçoe vós em toda boa–obra para – fazer a vontade dele fazendo em nós o agradável diante dele por–meio de–Jesus Cristo a–quem seja–a glória para os séculos dos séculos Amém
+-- c13-v22: Rogo porém a–vós irmãos suportai a palavra da exortação pois também brevemente com–poucas–palavras vos–escrevi a–vós
+-- c13-v23: Sabei que–o irmão nosso Timóteo foi–solto com quem se mais–depressa vier vos–verei a–vós
+-- c13-v24: Saudai todos os líderes vossos e todos os santos Saúdam a–vós os da – Itália
+-- c13-v25: A graça seja–com todos vós Amém
 
 BEGIN;
 -- 5800100101: Πολυμερῶς (G4181) → "De–muitas–maneiras" [opus-4.5-chirho]

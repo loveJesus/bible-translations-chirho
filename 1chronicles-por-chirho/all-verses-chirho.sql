@@ -3,950 +3,950 @@
 -- — John 3:16
 
 -- 1CHRONICLES - POR Combined
--- Generated: 2026-01-27T21:46:05Z
+-- Generated: 2026-01-27T22:18:54Z
 
--- 1CHRONICLES c1-v1 - POR
--- 1CHRONICLES c1-v2 - POR
--- 1CHRONICLES c1-v3 - POR
--- 1CHRONICLES c1-v4 - POR
--- 1CHRONICLES c1-v5 - POR
--- 1CHRONICLES c1-v6 - POR
--- 1CHRONICLES c1-v7 - POR
--- 1CHRONICLES c1-v8 - POR
--- 1CHRONICLES c1-v9 - POR
--- 1CHRONICLES c1-v10 - POR
--- 1CHRONICLES c1-v11 - POR
--- 1CHRONICLES c1-v12 - POR
--- 1CHRONICLES c1-v13 - POR
--- 1CHRONICLES c1-v14 - POR
--- 1CHRONICLES c1-v15 - POR
--- 1CHRONICLES c1-v16 - POR
--- 1CHRONICLES c1-v17 - POR
--- 1CHRONICLES c1-v18 - POR
--- 1CHRONICLES c1-v19 - POR
--- 1CHRONICLES c1-v20 - POR
--- 1CHRONICLES c1-v21 - POR
--- 1CHRONICLES c1-v22 - POR
--- 1CHRONICLES c1-v23 - POR
--- 1CHRONICLES c1-v24 - POR
--- 1CHRONICLES c1-v25 - POR
--- 1CHRONICLES c1-v26 - POR
--- 1CHRONICLES c1-v27 - POR
--- 1CHRONICLES c1-v28 - POR
--- 1CHRONICLES c1-v29 - POR
--- 1CHRONICLES c1-v30 - POR
--- 1CHRONICLES c1-v31 - POR
--- 1CHRONICLES c1-v32 - POR
--- 1CHRONICLES c1-v33 - POR
--- 1CHRONICLES c1-v34 - POR
--- 1CHRONICLES c1-v35 - POR
--- 1CHRONICLES c1-v36 - POR
--- 1CHRONICLES c1-v37 - POR
--- 1CHRONICLES c1-v38 - POR
--- 1CHRONICLES c1-v39 - POR
--- 1CHRONICLES c1-v40 - POR
--- 1CHRONICLES c1-v41 - POR
--- 1CHRONICLES c1-v42 - POR
--- 1CHRONICLES c1-v43 - POR
--- 1CHRONICLES c1-v44 - POR
--- 1CHRONICLES c1-v45 - POR
--- 1CHRONICLES c1-v46 - POR
--- 1CHRONICLES c1-v47 - POR
--- 1CHRONICLES c1-v48 - POR
--- 1CHRONICLES c1-v49 - POR
--- 1CHRONICLES c1-v50 - POR
--- 1CHRONICLES c1-v51 - POR
--- 1CHRONICLES c1-v52 - POR
--- 1CHRONICLES c1-v53 - POR
--- 1CHRONICLES c1-v54 - POR
--- 1CHRONICLES c2-v1 - POR
--- 1CHRONICLES c2-v2 - POR
--- 1CHRONICLES c2-v3 - POR
--- 1CHRONICLES c2-v4 - POR
--- 1CHRONICLES c2-v5 - POR
--- 1CHRONICLES c2-v6 - POR
--- 1CHRONICLES c2-v7 - POR
--- 1CHRONICLES c2-v8 - POR
--- 1CHRONICLES c2-v9 - POR
--- 1CHRONICLES c2-v10 - POR
--- 1CHRONICLES c2-v11 - POR
--- 1CHRONICLES c2-v12 - POR
--- 1CHRONICLES c2-v13 - POR
--- 1CHRONICLES c2-v14 - POR
--- 1CHRONICLES c2-v15 - POR
--- 1CHRONICLES c2-v16 - POR
--- 1CHRONICLES c2-v17 - POR
--- 1CHRONICLES c2-v18 - POR
--- 1CHRONICLES c2-v19 - POR
--- 1CHRONICLES c2-v20 - POR
--- 1CHRONICLES c2-v21 - POR
--- 1CHRONICLES c2-v22 - POR
--- 1CHRONICLES c2-v23 - POR
--- 1CHRONICLES c2-v24 - POR
--- 1CHRONICLES c2-v25 - POR
--- 1CHRONICLES c2-v26 - POR
--- 1CHRONICLES c2-v27 - POR
--- 1CHRONICLES c2-v28 - POR
--- 1CHRONICLES c2-v29 - POR
--- 1CHRONICLES c2-v30 - POR
--- 1CHRONICLES c2-v31 - POR
--- 1CHRONICLES c2-v32 - POR
--- 1CHRONICLES c2-v33 - POR
--- 1CHRONICLES c2-v34 - POR
--- 1CHRONICLES c2-v35 - POR
--- 1CHRONICLES c2-v36 - POR
--- 1CHRONICLES c2-v37 - POR
--- 1CHRONICLES c2-v38 - POR
--- 1CHRONICLES c2-v39 - POR
--- 1CHRONICLES c2-v40 - POR
--- 1CHRONICLES c2-v41 - POR
--- 1CHRONICLES c2-v42 - POR
--- 1CHRONICLES c2-v43 - POR
--- 1CHRONICLES c2-v44 - POR
--- 1CHRONICLES c2-v45 - POR
--- 1CHRONICLES c2-v46 - POR
--- 1CHRONICLES c2-v47 - POR
--- 1CHRONICLES c2-v48 - POR
--- 1CHRONICLES c2-v49 - POR
--- 1CHRONICLES c2-v50 - POR
--- 1CHRONICLES c2-v51 - POR
--- 1CHRONICLES c2-v52 - POR
--- 1CHRONICLES c2-v53 - POR
--- 1CHRONICLES c2-v54 - POR
--- 1CHRONICLES c2-v55 - POR
--- 1CHRONICLES c3-v1 - POR
--- 1CHRONICLES c3-v2 - POR
--- 1CHRONICLES c3-v3 - POR
--- 1CHRONICLES c3-v4 - POR
--- 1CHRONICLES c3-v5 - POR
--- 1CHRONICLES c3-v6 - POR
--- 1CHRONICLES c3-v7 - POR
--- 1CHRONICLES c3-v8 - POR
--- 1CHRONICLES c3-v9 - POR
--- 1CHRONICLES c3-v10 - POR
--- 1CHRONICLES c3-v11 - POR
--- 1CHRONICLES c3-v12 - POR
--- 1CHRONICLES c3-v13 - POR
--- 1CHRONICLES c3-v14 - POR
--- 1CHRONICLES c3-v15 - POR
--- 1CHRONICLES c3-v16 - POR
--- 1CHRONICLES c3-v17 - POR
--- 1CHRONICLES c3-v18 - POR
--- 1CHRONICLES c3-v19 - POR
--- 1CHRONICLES c3-v20 - POR
--- 1CHRONICLES c3-v21 - POR
--- 1CHRONICLES c3-v22 - POR
--- 1CHRONICLES c3-v23 - POR
--- 1CHRONICLES c3-v24 - POR
--- 1CHRONICLES c4-v1 - POR
--- 1CHRONICLES c4-v2 - POR
--- 1CHRONICLES c4-v3 - POR
--- 1CHRONICLES c4-v4 - POR
--- 1CHRONICLES c4-v5 - POR
--- 1CHRONICLES c4-v6 - POR
--- 1CHRONICLES c4-v7 - POR
--- 1CHRONICLES c4-v8 - POR
--- 1CHRONICLES c4-v9 - POR
--- 1CHRONICLES c4-v10 - POR
--- 1CHRONICLES c4-v11 - POR
--- 1CHRONICLES c4-v12 - POR
--- 1CHRONICLES c4-v13 - POR
--- 1CHRONICLES c4-v14 - POR
--- 1CHRONICLES c4-v15 - POR
--- 1CHRONICLES c4-v16 - POR
--- 1CHRONICLES c4-v17 - POR
--- 1CHRONICLES c4-v18 - POR
--- 1CHRONICLES c4-v19 - POR
--- 1CHRONICLES c4-v20 - POR
--- 1CHRONICLES c4-v21 - POR
--- 1CHRONICLES c4-v22 - POR
--- 1CHRONICLES c4-v23 - POR
--- 1CHRONICLES c4-v24 - POR
--- 1CHRONICLES c4-v25 - POR
--- 1CHRONICLES c4-v26 - POR
--- 1CHRONICLES c4-v27 - POR
--- 1CHRONICLES c4-v28 - POR
--- 1CHRONICLES c4-v29 - POR
--- 1CHRONICLES c4-v30 - POR
--- 1CHRONICLES c4-v31 - POR
--- 1CHRONICLES c4-v32 - POR
--- 1CHRONICLES c4-v33 - POR
--- 1CHRONICLES c4-v34 - POR
--- 1CHRONICLES c4-v35 - POR
--- 1CHRONICLES c4-v36 - POR
--- 1CHRONICLES c4-v37 - POR
--- 1CHRONICLES c4-v38 - POR
--- 1CHRONICLES c4-v39 - POR
--- 1CHRONICLES c4-v40 - POR
--- 1CHRONICLES c4-v41 - POR
--- 1CHRONICLES c4-v42 - POR
--- 1CHRONICLES c4-v43 - POR
--- 1CHRONICLES c5-v1 - POR
--- 1CHRONICLES c5-v2 - POR
--- 1CHRONICLES c5-v3 - POR
--- 1CHRONICLES c5-v4 - POR
--- 1CHRONICLES c5-v5 - POR
--- 1CHRONICLES c5-v6 - POR
--- 1CHRONICLES c5-v7 - POR
--- 1CHRONICLES c5-v8 - POR
--- 1CHRONICLES c5-v9 - POR
--- 1CHRONICLES c5-v10 - POR
--- 1CHRONICLES c5-v11 - POR
--- 1CHRONICLES c5-v12 - POR
--- 1CHRONICLES c5-v13 - POR
--- 1CHRONICLES c5-v14 - POR
--- 1CHRONICLES c5-v15 - POR
--- 1CHRONICLES c5-v16 - POR
--- 1CHRONICLES c5-v17 - POR
--- 1CHRONICLES c5-v18 - POR
--- 1CHRONICLES c5-v19 - POR
--- 1CHRONICLES c5-v20 - POR
--- 1CHRONICLES c5-v21 - POR
--- 1CHRONICLES c5-v22 - POR
--- 1CHRONICLES c5-v23 - POR
--- 1CHRONICLES c5-v24 - POR
--- 1CHRONICLES c5-v25 - POR
--- 1CHRONICLES c5-v26 - POR
--- 1CHRONICLES c6-v1 - POR
--- 1CHRONICLES c6-v2 - POR
--- 1CHRONICLES c6-v3 - POR
--- 1CHRONICLES c6-v4 - POR
--- 1CHRONICLES c6-v5 - POR
--- 1CHRONICLES c6-v6 - POR
--- 1CHRONICLES c6-v7 - POR
--- 1CHRONICLES c6-v8 - POR
--- 1CHRONICLES c6-v9 - POR
--- 1CHRONICLES c6-v10 - POR
--- 1CHRONICLES c6-v11 - POR
--- 1CHRONICLES c6-v12 - POR
--- 1CHRONICLES c6-v13 - POR
--- 1CHRONICLES c6-v14 - POR
--- 1CHRONICLES c6-v15 - POR
--- 1CHRONICLES c6-v16 - POR
--- 1CHRONICLES c6-v17 - POR
--- 1CHRONICLES c6-v18 - POR
--- 1CHRONICLES c6-v19 - POR
--- 1CHRONICLES c6-v20 - POR
--- 1CHRONICLES c6-v21 - POR
--- 1CHRONICLES c6-v22 - POR
--- 1CHRONICLES c6-v23 - POR
--- 1CHRONICLES c6-v24 - POR
--- 1CHRONICLES c6-v25 - POR
--- 1CHRONICLES c6-v26 - POR
--- 1CHRONICLES c6-v27 - POR
--- 1CHRONICLES c6-v28 - POR
--- 1CHRONICLES c6-v29 - POR
--- 1CHRONICLES c6-v30 - POR
--- 1CHRONICLES c6-v31 - POR
--- 1CHRONICLES c6-v32 - POR
--- 1CHRONICLES c6-v33 - POR
--- 1CHRONICLES c6-v34 - POR
--- 1CHRONICLES c6-v35 - POR
--- 1CHRONICLES c6-v36 - POR
--- 1CHRONICLES c6-v37 - POR
--- 1CHRONICLES c6-v38 - POR
--- 1CHRONICLES c6-v39 - POR
--- 1CHRONICLES c6-v40 - POR
--- 1CHRONICLES c6-v41 - POR
--- 1CHRONICLES c6-v42 - POR
--- 1CHRONICLES c6-v43 - POR
--- 1CHRONICLES c6-v44 - POR
--- 1CHRONICLES c6-v45 - POR
--- 1CHRONICLES c6-v46 - POR
--- 1CHRONICLES c6-v47 - POR
--- 1CHRONICLES c6-v48 - POR
--- 1CHRONICLES c6-v49 - POR
--- 1CHRONICLES c6-v50 - POR
--- 1CHRONICLES c6-v51 - POR
--- 1CHRONICLES c6-v52 - POR
--- 1CHRONICLES c6-v53 - POR
--- 1CHRONICLES c6-v54 - POR
--- 1CHRONICLES c6-v55 - POR
--- 1CHRONICLES c6-v56 - POR
--- 1CHRONICLES c6-v57 - POR
--- 1CHRONICLES c6-v58 - POR
--- 1CHRONICLES c6-v59 - POR
--- 1CHRONICLES c6-v60 - POR
--- 1CHRONICLES c6-v61 - POR
--- 1CHRONICLES c6-v62 - POR
--- 1CHRONICLES c6-v63 - POR
--- 1CHRONICLES c6-v64 - POR
--- 1CHRONICLES c6-v65 - POR
--- 1CHRONICLES c6-v66 - POR
--- 1CHRONICLES c6-v67 - POR
--- 1CHRONICLES c6-v68 - POR
--- 1CHRONICLES c6-v69 - POR
--- 1CHRONICLES c6-v70 - POR
--- 1CHRONICLES c6-v71 - POR
--- 1CHRONICLES c6-v72 - POR
--- 1CHRONICLES c6-v73 - POR
--- 1CHRONICLES c6-v74 - POR
--- 1CHRONICLES c6-v75 - POR
--- 1CHRONICLES c6-v76 - POR
--- 1CHRONICLES c6-v77 - POR
--- 1CHRONICLES c6-v78 - POR
--- 1CHRONICLES c6-v79 - POR
--- 1CHRONICLES c6-v80 - POR
--- 1CHRONICLES c6-v81 - POR
--- 1CHRONICLES c7-v1 - POR
--- 1CHRONICLES c7-v2 - POR
--- 1CHRONICLES c7-v3 - POR
--- 1CHRONICLES c7-v4 - POR
--- 1CHRONICLES c7-v5 - POR
--- 1CHRONICLES c7-v6 - POR
--- 1CHRONICLES c7-v7 - POR
--- 1CHRONICLES c7-v8 - POR
--- 1CHRONICLES c7-v9 - POR
--- 1CHRONICLES c7-v10 - POR
--- 1CHRONICLES c7-v11 - POR
--- 1CHRONICLES c7-v12 - POR
--- 1CHRONICLES c7-v13 - POR
--- 1CHRONICLES c7-v14 - POR
--- 1CHRONICLES c7-v15 - POR
--- 1CHRONICLES c7-v16 - POR
--- 1CHRONICLES c7-v17 - POR
--- 1CHRONICLES c7-v18 - POR
--- 1CHRONICLES c7-v19 - POR
--- 1CHRONICLES c7-v20 - POR
--- 1CHRONICLES c7-v21 - POR
--- 1CHRONICLES c7-v22 - POR
--- 1CHRONICLES c7-v23 - POR
--- 1CHRONICLES c7-v24 - POR
--- 1CHRONICLES c7-v25 - POR
--- 1CHRONICLES c7-v26 - POR
--- 1CHRONICLES c7-v27 - POR
--- 1CHRONICLES c7-v28 - POR
--- 1CHRONICLES c7-v29 - POR
--- 1CHRONICLES c7-v30 - POR
--- 1CHRONICLES c7-v31 - POR
--- 1CHRONICLES c7-v32 - POR
--- 1CHRONICLES c7-v33 - POR
--- 1CHRONICLES c7-v34 - POR
--- 1CHRONICLES c7-v35 - POR
--- 1CHRONICLES c7-v36 - POR
--- 1CHRONICLES c7-v37 - POR
--- 1CHRONICLES c7-v38 - POR
--- 1CHRONICLES c7-v39 - POR
--- 1CHRONICLES c7-v40 - POR
--- 1CHRONICLES c8-v1 - POR
--- 1CHRONICLES c8-v2 - POR
--- 1CHRONICLES c8-v3 - POR
--- 1CHRONICLES c8-v4 - POR
--- 1CHRONICLES c8-v5 - POR
--- 1CHRONICLES c8-v6 - POR
--- 1CHRONICLES c8-v7 - POR
--- 1CHRONICLES c8-v8 - POR
--- 1CHRONICLES c8-v9 - POR
--- 1CHRONICLES c8-v10 - POR
--- 1CHRONICLES c8-v11 - POR
--- 1CHRONICLES c8-v12 - POR
--- 1CHRONICLES c8-v13 - POR
--- 1CHRONICLES c8-v14 - POR
--- 1CHRONICLES c8-v15 - POR
--- 1CHRONICLES c8-v16 - POR
--- 1CHRONICLES c8-v17 - POR
--- 1CHRONICLES c8-v18 - POR
--- 1CHRONICLES c8-v19 - POR
--- 1CHRONICLES c8-v20 - POR
--- 1CHRONICLES c8-v21 - POR
--- 1CHRONICLES c8-v22 - POR
--- 1CHRONICLES c8-v23 - POR
--- 1CHRONICLES c8-v24 - POR
--- 1CHRONICLES c8-v25 - POR
--- 1CHRONICLES c8-v26 - POR
--- 1CHRONICLES c8-v27 - POR
--- 1CHRONICLES c8-v28 - POR
--- 1CHRONICLES c8-v29 - POR
--- 1CHRONICLES c8-v30 - POR
--- 1CHRONICLES c8-v31 - POR
--- 1CHRONICLES c8-v32 - POR
--- 1CHRONICLES c8-v33 - POR
--- 1CHRONICLES c8-v34 - POR
--- 1CHRONICLES c8-v35 - POR
--- 1CHRONICLES c8-v36 - POR
--- 1CHRONICLES c8-v37 - POR
--- 1CHRONICLES c8-v38 - POR
--- 1CHRONICLES c8-v39 - POR
--- 1CHRONICLES c8-v40 - POR
--- 1CHRONICLES c9-v1 - POR
--- 1CHRONICLES c9-v2 - POR
--- 1CHRONICLES c9-v3 - POR
--- 1CHRONICLES c9-v4 - POR
--- 1CHRONICLES c9-v5 - POR
--- 1CHRONICLES c9-v6 - POR
--- 1CHRONICLES c9-v7 - POR
--- 1CHRONICLES c9-v8 - POR
--- 1CHRONICLES c9-v9 - POR
--- 1CHRONICLES c9-v10 - POR
--- 1CHRONICLES c9-v11 - POR
--- 1CHRONICLES c9-v12 - POR
--- 1CHRONICLES c9-v13 - POR
--- 1CHRONICLES c9-v14 - POR
--- 1CHRONICLES c9-v15 - POR
--- 1CHRONICLES c9-v16 - POR
--- 1CHRONICLES c9-v17 - POR
--- 1CHRONICLES c9-v18 - POR
--- 1CHRONICLES c9-v19 - POR
--- 1CHRONICLES c9-v20 - POR
--- 1CHRONICLES c9-v21 - POR
--- 1CHRONICLES c9-v22 - POR
--- 1CHRONICLES c9-v23 - POR
--- 1CHRONICLES c9-v24 - POR
--- 1CHRONICLES c9-v25 - POR
--- 1CHRONICLES c9-v26 - POR
--- 1CHRONICLES c9-v27 - POR
--- 1CHRONICLES c9-v28 - POR
--- 1CHRONICLES c9-v29 - POR
--- 1CHRONICLES c9-v30 - POR
--- 1CHRONICLES c9-v31 - POR
--- 1CHRONICLES c9-v32 - POR
--- 1CHRONICLES c9-v33 - POR
--- 1CHRONICLES c9-v34 - POR
--- 1CHRONICLES c9-v35 - POR
--- 1CHRONICLES c9-v36 - POR
--- 1CHRONICLES c9-v37 - POR
--- 1CHRONICLES c9-v38 - POR
--- 1CHRONICLES c9-v39 - POR
--- 1CHRONICLES c9-v40 - POR
--- 1CHRONICLES c9-v41 - POR
--- 1CHRONICLES c9-v42 - POR
--- 1CHRONICLES c9-v43 - POR
--- 1CHRONICLES c9-v44 - POR
--- 1CHRONICLES c10-v1 - POR
--- 1CHRONICLES c10-v2 - POR
--- 1CHRONICLES c10-v3 - POR
--- 1CHRONICLES c10-v4 - POR
--- 1CHRONICLES c10-v5 - POR
--- 1CHRONICLES c10-v6 - POR
--- 1CHRONICLES c10-v7 - POR
--- 1CHRONICLES c10-v8 - POR
--- 1CHRONICLES c10-v9 - POR
--- 1CHRONICLES c10-v10 - POR
--- 1CHRONICLES c10-v11 - POR
--- 1CHRONICLES c10-v12 - POR
--- 1CHRONICLES c10-v13 - POR
--- 1CHRONICLES c10-v14 - POR
--- 1CHRONICLES c11-v1 - POR
--- 1CHRONICLES c11-v2 - POR
--- 1CHRONICLES c11-v3 - POR
--- 1CHRONICLES c11-v4 - POR
--- 1CHRONICLES c11-v5 - POR
--- 1CHRONICLES c11-v6 - POR
--- 1CHRONICLES c11-v7 - POR
--- 1CHRONICLES c11-v8 - POR
--- 1CHRONICLES c11-v9 - POR
--- 1CHRONICLES c11-v10 - POR
--- 1CHRONICLES c11-v11 - POR
--- 1CHRONICLES c11-v12 - POR
--- 1CHRONICLES c11-v13 - POR
--- 1CHRONICLES c11-v14 - POR
--- 1CHRONICLES c11-v15 - POR
--- 1CHRONICLES c11-v16 - POR
--- 1CHRONICLES c11-v17 - POR
--- 1CHRONICLES c11-v18 - POR
--- 1CHRONICLES c11-v19 - POR
--- 1CHRONICLES c11-v20 - POR
--- 1CHRONICLES c11-v21 - POR
--- 1CHRONICLES c11-v22 - POR
--- 1CHRONICLES c11-v23 - POR
--- 1CHRONICLES c11-v24 - POR
--- 1CHRONICLES c11-v25 - POR
--- 1CHRONICLES c11-v26 - POR
--- 1CHRONICLES c11-v27 - POR
--- 1CHRONICLES c11-v28 - POR
--- 1CHRONICLES c11-v29 - POR
--- 1CHRONICLES c11-v30 - POR
--- 1CHRONICLES c11-v31 - POR
--- 1CHRONICLES c11-v32 - POR
--- 1CHRONICLES c11-v33 - POR
--- 1CHRONICLES c11-v34 - POR
--- 1CHRONICLES c11-v35 - POR
--- 1CHRONICLES c11-v36 - POR
--- 1CHRONICLES c11-v37 - POR
--- 1CHRONICLES c11-v38 - POR
--- 1CHRONICLES c11-v39 - POR
--- 1CHRONICLES c11-v40 - POR
--- 1CHRONICLES c11-v41 - POR
--- 1CHRONICLES c11-v42 - POR
--- 1CHRONICLES c11-v43 - POR
--- 1CHRONICLES c11-v44 - POR
--- 1CHRONICLES c11-v45 - POR
--- 1CHRONICLES c11-v46 - POR
--- 1CHRONICLES c11-v47 - POR
--- 1CHRONICLES c12-v1 - POR
--- 1CHRONICLES c12-v2 - POR
--- 1CHRONICLES c12-v3 - POR
--- 1CHRONICLES c12-v4 - POR
--- 1CHRONICLES c12-v5 - POR
--- 1CHRONICLES c12-v6 - POR
--- 1CHRONICLES c12-v7 - POR
--- 1CHRONICLES c12-v8 - POR
--- 1CHRONICLES c12-v9 - POR
--- 1CHRONICLES c12-v10 - POR
--- 1CHRONICLES c12-v11 - POR
--- 1CHRONICLES c12-v12 - POR
--- 1CHRONICLES c12-v13 - POR
--- 1CHRONICLES c12-v14 - POR
--- 1CHRONICLES c12-v15 - POR
--- 1CHRONICLES c12-v16 - POR
--- 1CHRONICLES c12-v17 - POR
--- 1CHRONICLES c12-v18 - POR
--- 1CHRONICLES c12-v19 - POR
--- 1CHRONICLES c12-v20 - POR
--- 1CHRONICLES c12-v21 - POR
--- 1CHRONICLES c12-v22 - POR
--- 1CHRONICLES c12-v23 - POR
--- 1CHRONICLES c12-v24 - POR
--- 1CHRONICLES c12-v25 - POR
--- 1CHRONICLES c12-v26 - POR
--- 1CHRONICLES c12-v27 - POR
--- 1CHRONICLES c12-v28 - POR
--- 1CHRONICLES c12-v29 - POR
--- 1CHRONICLES c12-v30 - POR
--- 1CHRONICLES c12-v31 - POR
--- 1CHRONICLES c12-v32 - POR
--- 1CHRONICLES c12-v33 - POR
--- 1CHRONICLES c12-v34 - POR
--- 1CHRONICLES c12-v35 - POR
--- 1CHRONICLES c12-v36 - POR
--- 1CHRONICLES c12-v37 - POR
--- 1CHRONICLES c12-v38 - POR
--- 1CHRONICLES c12-v39 - POR
--- 1CHRONICLES c12-v40 - POR
--- 1CHRONICLES c13-v1 - POR
--- 1CHRONICLES c13-v2 - POR
--- 1CHRONICLES c13-v3 - POR
--- 1CHRONICLES c13-v4 - POR
--- 1CHRONICLES c13-v5 - POR
--- 1CHRONICLES c13-v6 - POR
--- 1CHRONICLES c13-v7 - POR
--- 1CHRONICLES c13-v8 - POR
--- 1CHRONICLES c13-v9 - POR
--- 1CHRONICLES c13-v10 - POR
--- 1CHRONICLES c13-v11 - POR
--- 1CHRONICLES c13-v12 - POR
--- 1CHRONICLES c13-v13 - POR
--- 1CHRONICLES c13-v14 - POR
--- 1CHRONICLES c14-v1 - POR
--- 1CHRONICLES c14-v2 - POR
--- 1CHRONICLES c14-v3 - POR
--- 1CHRONICLES c14-v4 - POR
--- 1CHRONICLES c14-v5 - POR
--- 1CHRONICLES c14-v6 - POR
--- 1CHRONICLES c14-v7 - POR
--- 1CHRONICLES c14-v8 - POR
--- 1CHRONICLES c14-v9 - POR
--- 1CHRONICLES c14-v10 - POR
--- 1CHRONICLES c14-v11 - POR
--- 1CHRONICLES c14-v12 - POR
--- 1CHRONICLES c14-v13 - POR
--- 1CHRONICLES c14-v14 - POR
--- 1CHRONICLES c14-v15 - POR
--- 1CHRONICLES c14-v16 - POR
--- 1CHRONICLES c14-v17 - POR
--- 1CHRONICLES c15-v1 - POR
--- 1CHRONICLES c15-v2 - POR
--- 1CHRONICLES c15-v3 - POR
--- 1CHRONICLES c15-v4 - POR
--- 1CHRONICLES c15-v5 - POR
--- 1CHRONICLES c15-v6 - POR
--- 1CHRONICLES c15-v7 - POR
--- 1CHRONICLES c15-v8 - POR
--- 1CHRONICLES c15-v9 - POR
--- 1CHRONICLES c15-v10 - POR
--- 1CHRONICLES c15-v11 - POR
--- 1CHRONICLES c15-v12 - POR
--- 1CHRONICLES c15-v13 - POR
--- 1CHRONICLES c15-v14 - POR
--- 1CHRONICLES c15-v15 - POR
--- 1CHRONICLES c15-v16 - POR
--- 1CHRONICLES c15-v17 - POR
--- 1CHRONICLES c15-v18 - POR
--- 1CHRONICLES c15-v19 - POR
--- 1CHRONICLES c15-v20 - POR
--- 1CHRONICLES c15-v21 - POR
--- 1CHRONICLES c15-v22 - POR
--- 1CHRONICLES c15-v23 - POR
--- 1CHRONICLES c15-v24 - POR
--- 1CHRONICLES c15-v25 - POR
--- 1CHRONICLES c15-v26 - POR
--- 1CHRONICLES c15-v27 - POR
--- 1CHRONICLES c15-v28 - POR
--- 1CHRONICLES c15-v29 - POR
--- 1CHRONICLES c16-v1 - POR
--- 1CHRONICLES c16-v2 - POR
--- 1CHRONICLES c16-v3 - POR
--- 1CHRONICLES c16-v4 - POR
--- 1CHRONICLES c16-v5 - POR
--- 1CHRONICLES c16-v6 - POR
--- 1CHRONICLES c16-v7 - POR
--- 1CHRONICLES c16-v8 - POR
--- 1CHRONICLES c16-v9 - POR
--- 1CHRONICLES c16-v10 - POR
--- 1CHRONICLES c16-v11 - POR
--- 1CHRONICLES c16-v12 - POR
--- 1CHRONICLES c16-v13 - POR
--- 1CHRONICLES c16-v14 - POR
--- 1CHRONICLES c16-v15 - POR
--- 1CHRONICLES c16-v16 - POR
--- 1CHRONICLES c16-v17 - POR
--- 1CHRONICLES c16-v18 - POR
--- 1CHRONICLES c16-v19 - POR
--- 1CHRONICLES c16-v20 - POR
--- 1CHRONICLES c16-v21 - POR
--- 1CHRONICLES c16-v22 - POR
--- 1CHRONICLES c16-v23 - POR
--- 1CHRONICLES c16-v24 - POR
--- 1CHRONICLES c16-v25 - POR
--- 1CHRONICLES c16-v26 - POR
--- 1CHRONICLES c16-v27 - POR
--- 1CHRONICLES c16-v28 - POR
--- 1CHRONICLES c16-v29 - POR
--- 1CHRONICLES c16-v30 - POR
--- 1CHRONICLES c16-v31 - POR
--- 1CHRONICLES c16-v32 - POR
--- 1CHRONICLES c16-v33 - POR
--- 1CHRONICLES c16-v34 - POR
--- 1CHRONICLES c16-v35 - POR
--- 1CHRONICLES c16-v36 - POR
--- 1CHRONICLES c16-v37 - POR
--- 1CHRONICLES c16-v38 - POR
--- 1CHRONICLES c16-v39 - POR
--- 1CHRONICLES c16-v40 - POR
--- 1CHRONICLES c16-v41 - POR
--- 1CHRONICLES c16-v42 - POR
--- 1CHRONICLES c16-v43 - POR
--- 1CHRONICLES c17-v1 - POR
--- 1CHRONICLES c17-v2 - POR
--- 1CHRONICLES c17-v3 - POR
--- 1CHRONICLES c17-v4 - POR
--- 1CHRONICLES c17-v5 - POR
--- 1CHRONICLES c17-v6 - POR
--- 1CHRONICLES c17-v7 - POR
--- 1CHRONICLES c17-v8 - POR
--- 1CHRONICLES c17-v9 - POR
--- 1CHRONICLES c17-v10 - POR
--- 1CHRONICLES c17-v11 - POR
--- 1CHRONICLES c17-v12 - POR
--- 1CHRONICLES c17-v13 - POR
--- 1CHRONICLES c17-v14 - POR
--- 1CHRONICLES c17-v15 - POR
--- 1CHRONICLES c17-v16 - POR
--- 1CHRONICLES c17-v17 - POR
--- 1CHRONICLES c17-v18 - POR
--- 1CHRONICLES c17-v19 - POR
--- 1CHRONICLES c17-v20 - POR
--- 1CHRONICLES c17-v21 - POR
--- 1CHRONICLES c17-v22 - POR
--- 1CHRONICLES c17-v23 - POR
--- 1CHRONICLES c17-v24 - POR
--- 1CHRONICLES c17-v25 - POR
--- 1CHRONICLES c17-v26 - POR
--- 1CHRONICLES c17-v27 - POR
--- 1CHRONICLES c18-v1 - POR
--- 1CHRONICLES c18-v2 - POR
--- 1CHRONICLES c18-v3 - POR
--- 1CHRONICLES c18-v4 - POR
--- 1CHRONICLES c18-v5 - POR
--- 1CHRONICLES c18-v6 - POR
--- 1CHRONICLES c18-v7 - POR
--- 1CHRONICLES c18-v8 - POR
--- 1CHRONICLES c18-v9 - POR
--- 1CHRONICLES c18-v10 - POR
--- 1CHRONICLES c18-v11 - POR
--- 1CHRONICLES c18-v12 - POR
--- 1CHRONICLES c18-v13 - POR
--- 1CHRONICLES c18-v14 - POR
--- 1CHRONICLES c18-v15 - POR
--- 1CHRONICLES c18-v16 - POR
--- 1CHRONICLES c18-v17 - POR
--- 1CHRONICLES c19-v1 - POR
--- 1CHRONICLES c19-v2 - POR
--- 1CHRONICLES c19-v3 - POR
--- 1CHRONICLES c19-v4 - POR
--- 1CHRONICLES c19-v5 - POR
--- 1CHRONICLES c19-v6 - POR
--- 1CHRONICLES c19-v7 - POR
--- 1CHRONICLES c19-v8 - POR
--- 1CHRONICLES c19-v9 - POR
--- 1CHRONICLES c19-v10 - POR
--- 1CHRONICLES c19-v11 - POR
--- 1CHRONICLES c19-v12 - POR
--- 1CHRONICLES c19-v13 - POR
--- 1CHRONICLES c19-v14 - POR
--- 1CHRONICLES c19-v15 - POR
--- 1CHRONICLES c19-v16 - POR
--- 1CHRONICLES c19-v17 - POR
--- 1CHRONICLES c19-v18 - POR
--- 1CHRONICLES c19-v19 - POR
--- 1CHRONICLES c20-v1 - POR
--- 1CHRONICLES c20-v2 - POR
--- 1CHRONICLES c20-v3 - POR
--- 1CHRONICLES c20-v4 - POR
--- 1CHRONICLES c20-v5 - POR
--- 1CHRONICLES c20-v6 - POR
--- 1CHRONICLES c20-v7 - POR
--- 1CHRONICLES c20-v8 - POR
--- 1CHRONICLES c21-v1 - POR
--- 1CHRONICLES c21-v2 - POR
--- 1CHRONICLES c21-v3 - POR
--- 1CHRONICLES c21-v4 - POR
--- 1CHRONICLES c21-v5 - POR
--- 1CHRONICLES c21-v6 - POR
--- 1CHRONICLES c21-v7 - POR
--- 1CHRONICLES c21-v8 - POR
--- 1CHRONICLES c21-v9 - POR
--- 1CHRONICLES c21-v10 - POR
--- 1CHRONICLES c21-v11 - POR
--- 1CHRONICLES c21-v12 - POR
--- 1CHRONICLES c21-v13 - POR
--- 1CHRONICLES c21-v14 - POR
--- 1CHRONICLES c21-v15 - POR
--- 1CHRONICLES c21-v16 - POR
--- 1CHRONICLES c21-v17 - POR
--- 1CHRONICLES c21-v18 - POR
--- 1CHRONICLES c21-v19 - POR
--- 1CHRONICLES c21-v20 - POR
--- 1CHRONICLES c21-v21 - POR
--- 1CHRONICLES c21-v22 - POR
--- 1CHRONICLES c21-v23 - POR
--- 1CHRONICLES c21-v24 - POR
--- 1CHRONICLES c21-v25 - POR
--- 1CHRONICLES c21-v26 - POR
--- 1CHRONICLES c21-v27 - POR
--- 1CHRONICLES c21-v28 - POR
--- 1CHRONICLES c21-v29 - POR
--- 1CHRONICLES c21-v30 - POR
--- 1CHRONICLES c22-v1 - POR
--- 1CHRONICLES c22-v2 - POR
--- 1CHRONICLES c22-v3 - POR
--- 1CHRONICLES c22-v4 - POR
--- 1CHRONICLES c22-v5 - POR
--- 1CHRONICLES c22-v6 - POR
--- 1CHRONICLES c22-v7 - POR
--- 1CHRONICLES c22-v8 - POR
--- 1CHRONICLES c22-v9 - POR
--- 1CHRONICLES c22-v10 - POR
--- 1CHRONICLES c22-v11 - POR
--- 1CHRONICLES c22-v12 - POR
--- 1CHRONICLES c22-v13 - POR
--- 1CHRONICLES c22-v14 - POR
--- 1CHRONICLES c22-v15 - POR
--- 1CHRONICLES c22-v16 - POR
--- 1CHRONICLES c22-v17 - POR
--- 1CHRONICLES c22-v18 - POR
--- 1CHRONICLES c22-v19 - POR
--- 1CHRONICLES c23-v1 - POR
--- 1CHRONICLES c23-v2 - POR
--- 1CHRONICLES c23-v3 - POR
--- 1CHRONICLES c23-v4 - POR
--- 1CHRONICLES c23-v5 - POR
--- 1CHRONICLES c23-v6 - POR
--- 1CHRONICLES c23-v7 - POR
--- 1CHRONICLES c23-v8 - POR
--- 1CHRONICLES c23-v9 - POR
--- 1CHRONICLES c23-v10 - POR
--- 1CHRONICLES c23-v11 - POR
--- 1CHRONICLES c23-v12 - POR
--- 1CHRONICLES c23-v13 - POR
--- 1CHRONICLES c23-v14 - POR
--- 1CHRONICLES c23-v15 - POR
--- 1CHRONICLES c23-v16 - POR
--- 1CHRONICLES c23-v17 - POR
--- 1CHRONICLES c23-v18 - POR
--- 1CHRONICLES c23-v19 - POR
--- 1CHRONICLES c23-v20 - POR
--- 1CHRONICLES c23-v21 - POR
--- 1CHRONICLES c23-v22 - POR
--- 1CHRONICLES c23-v23 - POR
--- 1CHRONICLES c23-v24 - POR
--- 1CHRONICLES c23-v25 - POR
--- 1CHRONICLES c23-v26 - POR
--- 1CHRONICLES c23-v27 - POR
--- 1CHRONICLES c23-v28 - POR
--- 1CHRONICLES c23-v29 - POR
--- 1CHRONICLES c23-v30 - POR
--- 1CHRONICLES c23-v31 - POR
--- 1CHRONICLES c23-v32 - POR
--- 1CHRONICLES c24-v1 - POR
--- 1CHRONICLES c24-v2 - POR
--- 1CHRONICLES c24-v3 - POR
--- 1CHRONICLES c24-v4 - POR
--- 1CHRONICLES c24-v5 - POR
--- 1CHRONICLES c24-v6 - POR
--- 1CHRONICLES c24-v7 - POR
--- 1CHRONICLES c24-v8 - POR
--- 1CHRONICLES c24-v9 - POR
--- 1CHRONICLES c24-v10 - POR
--- 1CHRONICLES c24-v11 - POR
--- 1CHRONICLES c24-v12 - POR
--- 1CHRONICLES c24-v13 - POR
--- 1CHRONICLES c24-v14 - POR
--- 1CHRONICLES c24-v15 - POR
--- 1CHRONICLES c24-v16 - POR
--- 1CHRONICLES c24-v17 - POR
--- 1CHRONICLES c24-v18 - POR
--- 1CHRONICLES c24-v19 - POR
--- 1CHRONICLES c24-v20 - POR
--- 1CHRONICLES c24-v21 - POR
--- 1CHRONICLES c24-v22 - POR
--- 1CHRONICLES c24-v23 - POR
--- 1CHRONICLES c24-v24 - POR
--- 1CHRONICLES c24-v25 - POR
--- 1CHRONICLES c24-v26 - POR
--- 1CHRONICLES c24-v27 - POR
--- 1CHRONICLES c24-v28 - POR
--- 1CHRONICLES c24-v29 - POR
--- 1CHRONICLES c24-v30 - POR
--- 1CHRONICLES c24-v31 - POR
--- 1CHRONICLES c25-v1 - POR
--- 1CHRONICLES c25-v2 - POR
--- 1CHRONICLES c25-v3 - POR
--- 1CHRONICLES c25-v4 - POR
--- 1CHRONICLES c25-v5 - POR
--- 1CHRONICLES c25-v6 - POR
--- 1CHRONICLES c25-v7 - POR
--- 1CHRONICLES c25-v8 - POR
--- 1CHRONICLES c25-v9 - POR
--- 1CHRONICLES c25-v10 - POR
--- 1CHRONICLES c25-v11 - POR
--- 1CHRONICLES c25-v12 - POR
--- 1CHRONICLES c25-v13 - POR
--- 1CHRONICLES c25-v14 - POR
--- 1CHRONICLES c25-v15 - POR
--- 1CHRONICLES c25-v16 - POR
--- 1CHRONICLES c25-v17 - POR
--- 1CHRONICLES c25-v18 - POR
--- 1CHRONICLES c25-v19 - POR
--- 1CHRONICLES c25-v20 - POR
--- 1CHRONICLES c25-v21 - POR
--- 1CHRONICLES c25-v22 - POR
--- 1CHRONICLES c25-v23 - POR
--- 1CHRONICLES c25-v24 - POR
--- 1CHRONICLES c25-v25 - POR
--- 1CHRONICLES c25-v26 - POR
--- 1CHRONICLES c25-v27 - POR
--- 1CHRONICLES c25-v28 - POR
--- 1CHRONICLES c25-v29 - POR
--- 1CHRONICLES c25-v30 - POR
--- 1CHRONICLES c25-v31 - POR
--- 1CHRONICLES c26-v1 - POR
--- 1CHRONICLES c26-v2 - POR
--- 1CHRONICLES c26-v3 - POR
--- 1CHRONICLES c26-v4 - POR
--- 1CHRONICLES c26-v5 - POR
--- 1CHRONICLES c26-v6 - POR
--- 1CHRONICLES c26-v7 - POR
--- 1CHRONICLES c26-v8 - POR
--- 1CHRONICLES c26-v9 - POR
--- 1CHRONICLES c26-v10 - POR
--- 1CHRONICLES c26-v11 - POR
--- 1CHRONICLES c26-v12 - POR
--- 1CHRONICLES c26-v13 - POR
--- 1CHRONICLES c26-v14 - POR
--- 1CHRONICLES c26-v15 - POR
--- 1CHRONICLES c26-v16 - POR
--- 1CHRONICLES c26-v17 - POR
--- 1CHRONICLES c26-v18 - POR
--- 1CHRONICLES c26-v19 - POR
--- 1CHRONICLES c26-v20 - POR
--- 1CHRONICLES c26-v21 - POR
--- 1CHRONICLES c26-v22 - POR
--- 1CHRONICLES c26-v23 - POR
--- 1CHRONICLES c26-v24 - POR
--- 1CHRONICLES c26-v25 - POR
--- 1CHRONICLES c26-v26 - POR
--- 1CHRONICLES c26-v27 - POR
--- 1CHRONICLES c26-v28 - POR
--- 1CHRONICLES c26-v29 - POR
--- 1CHRONICLES c26-v30 - POR
--- 1CHRONICLES c26-v31 - POR
--- 1CHRONICLES c26-v32 - POR
--- 1CHRONICLES c27-v1 - POR
--- 1CHRONICLES c27-v2 - POR
--- 1CHRONICLES c27-v3 - POR
--- 1CHRONICLES c27-v4 - POR
--- 1CHRONICLES c27-v5 - POR
--- 1CHRONICLES c27-v6 - POR
--- 1CHRONICLES c27-v7 - POR
--- 1CHRONICLES c27-v8 - POR
--- 1CHRONICLES c27-v9 - POR
--- 1CHRONICLES c27-v10 - POR
--- 1CHRONICLES c27-v11 - POR
--- 1CHRONICLES c27-v12 - POR
--- 1CHRONICLES c27-v13 - POR
--- 1CHRONICLES c27-v14 - POR
--- 1CHRONICLES c27-v15 - POR
--- 1CHRONICLES c27-v16 - POR
--- 1CHRONICLES c27-v17 - POR
--- 1CHRONICLES c27-v18 - POR
--- 1CHRONICLES c27-v19 - POR
--- 1CHRONICLES c27-v20 - POR
--- 1CHRONICLES c27-v21 - POR
--- 1CHRONICLES c27-v22 - POR
--- 1CHRONICLES c27-v23 - POR
--- 1CHRONICLES c27-v24 - POR
--- 1CHRONICLES c27-v25 - POR
--- 1CHRONICLES c27-v26 - POR
--- 1CHRONICLES c27-v27 - POR
--- 1CHRONICLES c27-v28 - POR
--- 1CHRONICLES c27-v29 - POR
--- 1CHRONICLES c27-v30 - POR
--- 1CHRONICLES c27-v31 - POR
--- 1CHRONICLES c27-v32 - POR
--- 1CHRONICLES c27-v33 - POR
--- 1CHRONICLES c27-v34 - POR
--- 1CHRONICLES c28-v1 - POR
--- 1CHRONICLES c28-v2 - POR
--- 1CHRONICLES c28-v3 - POR
--- 1CHRONICLES c28-v4 - POR
--- 1CHRONICLES c28-v5 - POR
--- 1CHRONICLES c28-v6 - POR
--- 1CHRONICLES c28-v7 - POR
--- 1CHRONICLES c28-v8 - POR
--- 1CHRONICLES c28-v9 - POR
--- 1CHRONICLES c28-v10 - POR
--- 1CHRONICLES c28-v11 - POR
--- 1CHRONICLES c28-v12 - POR
--- 1CHRONICLES c28-v13 - POR
--- 1CHRONICLES c28-v14 - POR
--- 1CHRONICLES c28-v15 - POR
--- 1CHRONICLES c28-v16 - POR
--- 1CHRONICLES c28-v17 - POR
--- 1CHRONICLES c28-v18 - POR
--- 1CHRONICLES c28-v19 - POR
--- 1CHRONICLES c28-v20 - POR
--- 1CHRONICLES c28-v21 - POR
--- 1CHRONICLES c29-v1 - POR
--- 1CHRONICLES c29-v2 - POR
--- 1CHRONICLES c29-v3 - POR
--- 1CHRONICLES c29-v4 - POR
--- 1CHRONICLES c29-v5 - POR
--- 1CHRONICLES c29-v6 - POR
--- 1CHRONICLES c29-v7 - POR
--- 1CHRONICLES c29-v8 - POR
--- 1CHRONICLES c29-v9 - POR
--- 1CHRONICLES c29-v10 - POR
--- 1CHRONICLES c29-v11 - POR
--- 1CHRONICLES c29-v12 - POR
--- 1CHRONICLES c29-v13 - POR
--- 1CHRONICLES c29-v14 - POR
--- 1CHRONICLES c29-v15 - POR
--- 1CHRONICLES c29-v16 - POR
--- 1CHRONICLES c29-v17 - POR
--- 1CHRONICLES c29-v18 - POR
--- 1CHRONICLES c29-v19 - POR
--- 1CHRONICLES c29-v20 - POR
--- 1CHRONICLES c29-v21 - POR
--- 1CHRONICLES c29-v22 - POR
--- 1CHRONICLES c29-v23 - POR
--- 1CHRONICLES c29-v24 - POR
--- 1CHRONICLES c29-v25 - POR
--- 1CHRONICLES c29-v26 - POR
--- 1CHRONICLES c29-v27 - POR
--- 1CHRONICLES c29-v28 - POR
--- 1CHRONICLES c29-v29 - POR
--- 1CHRONICLES c29-v30 - POR
+-- c1-v1: Adam Shet Enosh
+-- c1-v2: Qeinan Mahalal'el Yered
+-- c1-v3: Chanokh Metushelach Lemekh
+-- c1-v4: Noach Shem Cham e–Yafet §
+-- c1-v5: Filhos–de Yefet Gomer e–Magog e–Maday e–Yavan e–Tuval e–Meshekh e–Tiras §
+-- c1-v6: E–filhos–de Gomer Ashkenaz e–Difat e–Togarmah
+-- c1-v7: E–filhos–de Yavan Elishah e–Tarshishah Kittim e–Rodanim §
+-- c1-v8: Filhos–de Cham Kush e–Mitsrayim Put e–Kena'an
+-- c1-v9: E–filhos–de Kush Seva e–Chavilah e–Savta e–Ra'ma e–Savtekha E–filhos–de Ra'ma Sheva e–Dedan §
+-- c1-v10: E–Kush gerou (a) Nimrod ele começou a–ser valente na–terra §
+-- c1-v11: E–Mitsrayim gerou (a) [Ludim] (Ludim) e–(a) 'Anamim e–(a) Lehavim e–(a) Naftuchim
+-- c1-v12: E–(a) Patrusim e–(a) Kasluchim que saíram de–lá Filisteus e–(a) Kaftorim §
+-- c1-v13: E–Kena'an gerou (a) Tsidon primogênito–seu e–(a) Chet
+-- c1-v14: e–(a) o–Yevusi e–(a) o–Emori e–(a) o–Girgashi
+-- c1-v15: e–(a) o–Chivi e–(a) o–'Arqi e–(a) o–Sini
+-- c1-v16: e–(a) o–Arvadi e–(a) o–Tsemari e–(a) o–Chamati §
+-- c1-v17: Filhos–de Shem 'Eilam e–Ashur e–Arpakhshad e–Lud e–Aram e–'Uts e–Chul e–Geter e–Meshekh §
+-- c1-v18: E–Arpakhshad gerou (a) Shelach e–Shelach gerou (a) 'Ever
+-- c1-v19: E–para–'Ever nasceu dois filhos nome do–um Peleg porque em–dias–seus foi–dividida a–terra e–nome de–irmão–seu Yoqtan
+-- c1-v20: E–Yoqtan gerou (a) Almodad e–(a) Shelef e–(a) Chatsarmavet e–(a) Yerach
+-- c1-v21: e–(a) Hadoram e–(a) Uzal e–(a) Diqlah
+-- c1-v22: e–(a) 'Eival e–(a) Avima'el e–(a) Sheva
+-- c1-v23: e–(a) Ofir e–(a) Chavilah e–(a) Yovav todos estes filhos–de Yoqtan §
+-- c1-v24: Shem Arpakhshad Shelach
+-- c1-v25: 'Ever Peleg Re'u
+-- c1-v26: Serug Nachor Terach
+-- c1-v27: Avram ele–é Avraham §
+-- c1-v28: Filhos–de Avraham Yitschaq e–Yishma'el §
+-- c1-v29: Estas gerações–deles Primogênito de–Yishma'el Nevayot e–Qedar e–Adbe'el e–Mivsam
+-- c1-v30: Mishma e–Dumah Masa Chadad e–Teima
+-- c1-v31: Yetur Nafish e–Qedmah estes eles filhos–de Yishma'el §
+-- c1-v32: E–filhos–de Qeturah concubina–de Avraham ela–gerou (a) Zimran e–Yoqshan e–Medan e–Midyan e–Yishbaq e–Shuach E–filhos–de Yoqshan Sheva e–Dedan §
+-- c1-v33: E–filhos–de Midyan 'Eifah e–'Efer e–Chanokh e–Avida e–Elda'ah todos estes filhos–de Qeturah §
+-- c1-v34: E–gerou Avraham (a) Yitschaq § Filhos–de Yitschaq 'Esav e–Yisra'el §
+-- c1-v35: Filhos–de 'Esav Elifaz Re'u'el e–Ye'ush e–Ya'lam e–Qorach §
+-- c1-v36: Filhos–de Elifaz Teiman e–Omar Tsefi e–Ga'tam Qenaz e–Timna e–'Amaleq §
+-- c1-v37: Filhos–de Re'u'el Nachat Zerach Shamah e–Mizah §
+-- c1-v38: E–filhos–de Se'ir Lotan e–Shoval e–Tsiv'on e–'Anah e–Dishon e–Etser e–Dishan
+-- c1-v39: E–filhos–de Lotan Chori e–Homam E–irmã–de Lotan Timna §
+-- c1-v40: Filhos–de Shoval 'Alyan e–Manachat e–'Eival Shefi e–Onam § E–filhos–de Tsiv'on Ayah e–'Anah
+-- c1-v41: Filhos–de 'Anah Dishon § E–filhos–de Dishon Chamran e–Eshban e–Yitran e–Keran §
+-- c1-v42: Filhos–de Etser Bilhan e–Za'avan Ya'aqan Filhos–de Dishan 'Uts e–Aran ¶
+-- c1-v43: E–estes os–reis que reinaram em–terra–de Edom antes–de reinar rei para–filhos–de Yisra'el Bela filho–de Be'or e–nome–de cidade–sua Dinhavah
+-- c1-v44: E–morreu Bela e–reinou em–lugar–seu Yovav filho–de Zerach de–Botsrah
+-- c1-v45: E–morreu Yovav e–reinou em–lugar–seu Chusham da–terra–de o–Teimani
+-- c1-v46: E–morreu Chusham e–reinou em–lugar–seu Hadad filho–de Bedad o–que–feriu (a) Midyan no–campo–de Moav e–nome–de cidade–sua ['Ayot] ('Avit)
+-- c1-v47: E–morreu Hadad e–reinou em–lugar–seu Samlah de–Masreqah
+-- c1-v48: E–morreu Samlah e–reinou em–lugar–seu Sha'ul de–Rechovot o–rio
+-- c1-v49: E–morreu Sha'ul e–reinou em–lugar–seu Ba'al–Chanan filho–de 'Akhbor
+-- c1-v50: E–morreu Ba'al–Chanan e–reinou em–lugar–seu Hadad e–nome–de cidade–sua Pa'i e–nome–de esposa–sua Meheitav'el filha–de Matred filha–de Mei–Zahav
+-- c1-v51: E–morreu Hadad § E–foram chefes–de Edom chefe Timna chefe ['Alyah] ('Alvah) chefe Yetet
+-- c1-v52: chefe Oholivamah chefe Elah chefe Pinon
+-- c1-v53: chefe Qenaz chefe Teiman chefe Mivtsar
+-- c1-v54: chefe Magdi'el chefe 'Iram estes chefes–de Edom ¶
+-- c2-v1: Estes filhos–de Yisra'el Re'uven Shim'on Levi e–Yehudah Yissakhar e–Zevulun
+-- c2-v2: Dan Yosef e–Vinyamin Naftali Gad e–Asher §
+-- c2-v3: Filhos–de Yehudah 'Er e–Onan e–Shelah três nasceram para–ele de–filha–de Shu'a a–Kena'anit E–foi 'Er primogênito–de Yehudah mau aos–olhos–de YHWH e–matou–o §
+-- c2-v4: E–Tamar nora–sua gerou para–ele (a) Perets e–(a) Zerach todos filhos–de Yehudah cinco §
+-- c2-v5: Filhos–de Perets Chetsron e–Chamul §
+-- c2-v6: E–filhos–de Zerach Zimri e–Eitan e–Heiman e–Khalkol e–Dara todos–eles cinco §
+-- c2-v7: E–filhos–de Karmi 'Akhar perturbador–de Yisra'el que transgrediu no–anátema §
+-- c2-v8: E–filhos–de Eitan 'Azaryah
+-- c2-v9: E–filhos–de Chetsron que nasceu para–ele (a) Yerachme'el e–(a) Ram e–(a) Keluvay
+-- c2-v10: E–Ram gerou (a) 'Amminadav e–'Amminadav gerou (a) Nachshon príncipe–de filhos–de Yehudah
+-- c2-v11: E–Nachshon gerou (a) Salma e–Salma gerou (a) Bo'az
+-- c2-v12: E–Bo'az gerou (a) 'Oved e–'Oved gerou (a) Yishai
+-- c2-v13: E–Yishai gerou (a) primogênito–seu (a) Eli'av e–Avinadav o–segundo e–Shim'a o–terceiro
+-- c2-v14: Netan'el o–quarto Raday o–quinto
+-- c2-v15: Otsem o–sexto David o–sétimo
+-- c2-v16: [e–irmãs–deles] (e–irmãs–deles) Tseruyah e–Avigayil E–filhos–de Tseruyah Avshai e–Yo'av e–'Asa'el três
+-- c2-v17: E–Avigayil gerou (a) 'Amasa e–pai–de 'Amasa Yeter o–Yishme'eli
+-- c2-v18: E–Kalev filho–de Chetsron gerou (a) 'Azuvah mulher e–(a) Yeri'ot e–estes filhos–dela Yesher e–Shovav e–Ardon
+-- c2-v19: E–morreu 'Azuvah e–tomou para–si Kalev (a) Efrat e–ela–gerou para–ele (a) Chur
+-- c2-v20: E–Chur gerou (a) Uri e–Uri gerou (a) Betsal'el §
+-- c2-v21: E–depois entrou Chetsron a filha–de Makhir pai–de Gil'ad e–ele tomou–a e–ele filho–de sessenta anos e–ela–gerou para–ele (a) Seguv
+-- c2-v22: E–Seguv gerou (a) Ya'ir e–tinha para–ele vinte e–três cidades na–terra–de o–Gil'ad
+-- c2-v23: E–tomou Geshur e–Aram (a) vilas–de Ya'ir deles (a) Qenat e–(a) aldeias–dela sessenta cidades todos estes filhos–de Makhir pai–de Gil'ad
+-- c2-v24: E–depois–de morte–de Chetsron em–Kalev–Efratah e–esposa–de Chetsron Aviyah e–ela–gerou para–ele (a) Ashchur pai–de Teqo'a
+-- c2-v25: E–foram filhos–de Yerachme'el primogênito–de Chetsron o–primogênito Ram e–Bunah e–Oren e–Otsem Achiyah
+-- c2-v26: E–foi mulher outra para–Yerachme'el e–nome–dela 'Atarah ela mãe–de Onam §
+-- c2-v27: E–foram filhos–de Ram primogênito–de Yerachme'el Ma'ats e–Yamin e–'Eqer
+-- c2-v28: E–foram filhos–de Onam Shamay e–Yada e–filhos–de Shamay Nadav e–Avishur
+-- c2-v29: E–nome–de esposa–de Avishur Avihayil e–ela–gerou para–ele (a) Achban e–(a) Molid
+-- c2-v30: E–filhos–de Nadav Seled e–Apayim e–morreu Seled sem filhos §
+-- c2-v31: E–filhos–de Apayim Yish'i e–filhos–de Yish'i Sheshan e–filhos–de Sheshan Achlay
+-- c2-v32: E–filhos–de Yada irmão–de Shamay Yeter e–Yonatan e–morreu Yeter sem filhos §
+-- c2-v33: E–filhos–de Yonatan Pelet e–Zaza estes foram filhos–de Yerachme'el
+-- c2-v34: E–não tinha para–Sheshan filhos mas sim filhas e–para–Sheshan servo egípcio e–nome–seu Yarcha
+-- c2-v35: E–deu Sheshan (a) filha–sua para–Yarcha servo–seu por–mulher e–ela–gerou para–ele (a) 'Atay
+-- c2-v36: E–'Atay gerou (a) Natan e–Natan gerou (a) Zavad
+-- c2-v37: E–Zavad gerou (a) Eflal e–Eflal gerou (a) 'Oved
+-- c2-v38: E–'Oved gerou (a) Yehu e–Yehu gerou (a) 'Azaryah
+-- c2-v39: E–'Azaryah gerou (a) Chalets e–Chelets gerou (a) El'asah
+-- c2-v40: E–El'asah gerou (a) Sismay e–Sismay gerou (a) Shalum
+-- c2-v41: E–Shalum gerou (a) Yeqamyah e–Yeqamyah gerou (a) Elishama
+-- c2-v42: E–filhos–de Kalev irmão–de Yerachme'el Meisha primogênito–seu ele pai–de Zif e–filhos–de Mareshah pai–de Chevron
+-- c2-v43: E–filhos–de Chevron Qorach e–Tapuach e–Reqem e–Shama
+-- c2-v44: E–Shema gerou (a) Racham pai–de Yorqe'am e–Reqem gerou (a) Shamay
+-- c2-v45: E–filho–de Shamay Ma'on e–Ma'on pai–de Beit–Tsur
+-- c2-v46: E–'Eifah concubina–de Kalev gerou (a) Charan e–(a) Motsa e–(a) Gazez e–Charan gerou (a) Gazez §
+-- c2-v47: E–filhos–de Yahdai Regem e–Yotam e–Geshan e–Pelet e–'Eifah e–Sha'af
+-- c2-v48: Concubina–de Kalev Ma'akhah gerou Shever e–(a) Tirchanah
+-- c2-v49: E–ela–gerou Sha'af pai–de Madmanah (a) Sheva pai–de Makhbenah e–pai–de Giv'a E–filha–de Kalev 'Akhsah §
+-- c2-v50: Estes foram filhos–de Kalev filho–de Chur primogênito–de Efratah Shoval pai–de Qiryat Ye'arim
+-- c2-v51: Salma pai–de Beit–Lechem Charef pai–de Beit–Gader
+-- c2-v52: E–foram filhos para–Shoval pai–de Qiryat Ye'arim o–Haroeh metade–de o–Menuchot
+-- c2-v53: E–famílias–de Qiryat Ye'arim o–Yitri e–o–Puti e–o–Shumati e–o–Mishra'i destes saíram o–Tsor'ati e–o–Eshta'uli §
+-- c2-v54: Filhos–de Salma Beit–Lechem e–Netofati 'Atrot Beit–Yo'av e–metade–de o–Manachti o–Tsor'i
+-- c2-v55: E–famílias–de escribas [habitantes–de] (habitantes–de) Ya'bets Tir'atim Shim'atim Sukhatim eles os–Qinim os–que–vieram de–Chamat pai–de Beit Rekhav §
+-- c3-v1: E–estes foram filhos–de David que nasceram para–ele em–Chevron o–primogênito Amnon de–Achino'am a–Yizre'elit segundo Dani'el de–Avigayil a–Karmelit
+-- c3-v2: O–terceiro de–Avshalom filho–de Ma'akhah filha–de Talmay rei–de Geshur o–quarto Adoniyah filho–de Chagit
+-- c3-v3: O–quinto Shefatyah de–Avital o–sexto Yitre'am de–'Eglah esposa–sua
+-- c3-v4: Seis nasceram para–ele em–Chevron e–reinou lá sete anos e–seis meses e–trinta e–três anos reinou em–Yerushalayim §
+-- c3-v5: E–estes nasceram para–ele em–Yerushalayim Shim'a e–Shovav e–Natan e–Shelomoh quatro de–Bat–Shu'a filha–de 'Ammi'el
+-- c3-v6: E–Yivchar e–Elishama e–Elifalet
+-- c3-v7: E–Nogah e–Nefeg e–Yafi'a
+-- c3-v8: E–Elishama e–Elyada e–Elifelet nove
+-- c3-v9: Todos filhos–de David além–de filhos–de concubinas e–Tamar irmã–deles ¶
+-- c3-v10: E–filho–de Shelomoh Rechav'am Aviyah filho–seu Asa filho–seu Yehoshafat filho–seu
+-- c3-v11: Yoram filho–seu Achazyahu filho–seu Yo'ash filho–seu
+-- c3-v12: Amatsyahu filho–seu 'Azaryah filho–seu Yotam filho–seu
+-- c3-v13: Achaz filho–seu Chizqiyahu filho–seu Menasheh filho–seu
+-- c3-v14: Amon filho–seu Yoshiyahu filho–seu
+-- c3-v15: E–filhos–de Yoshiyahu o–primogênito Yochanan o–segundo Yehoyaqim o–terceiro Tsidqiyahu o–quarto Shalum
+-- c3-v16: E–filhos–de Yehoyaqim Yekhonyah filho–seu Tsidqiyah filho–seu
+-- c3-v17: E–filhos–de Yekhonyah Asir She'alti'el filho–seu
+-- c3-v18: E–Malkiram e–Pedayah e–Shen'atsar Yeqamyah Hoshama e–Nedavyah
+-- c3-v19: E–filhos–de Pedayah Zerubbavel e–Shim'i e–filho–de Zerubbavel Meshulam e–Chananyah e–Shelomit irmã–deles
+-- c3-v20: E–Chashuvah e–Ohel e–Berekhyah e–Chasadyah Yushav Chesed cinco
+-- c3-v21: E–filho–de Chananyah Pelatyah e–Yesha'yah filhos–de Refayah filhos–de Arnan filhos–de 'Ovadyah filhos–de Shekhanyah §
+-- c3-v22: E–filhos–de Shekhanyah Shema'yah e–filhos–de Shema'yah Chatush e–Yig'al e–Variach e–Ne'aryah e–Shafat seis
+-- c3-v23: E–filho–de Ne'aryah Elyo'einay e–Chizqiyah e–'Azriqam três
+-- c3-v24: E–filhos–de Elyo'einay [Hodayahu] (Hodavyahu) e–Elyashiv e–Pelayah e–'Aquv e–Yochanan e–Delayah e–'Anani sete §
+-- c4-v1: Filhos–de Yehudah Perets Chetsron e–Karmi e–Chur e–Shoval
+-- c4-v2: E–Re'ayah filho–de Shoval gerou (a) Yachat e–Yachat gerou (a) Achumay e–(a) Lahad estas famílias–de o–Tsor'ati §
+-- c4-v3: E–estes pai–de 'Eitam Yizre'el e–Yishma e–Yidbash e–nome–de irmã–deles Hatslelponi
+-- c4-v4: E–Penu'el pai–de Gedor e–'Ezer pai–de Chushah estes filhos–de Chur primogênito–de Efratah pai–de Beit–Lechem
+-- c4-v5: E–para–Ashchur pai–de Teqo'a havia duas mulheres Chel'ah e–Na'arah
+-- c4-v6: E–gerou para–ele Na'arah (a) Achuzam e–(a) Chefer e–(a) Teimeni e–(a) o–Achashtari estes filhos–de Na'arah
+-- c4-v7: E–filhos–de Chel'ah Tseret [Yitschar] (e–Tsochar) e–Etnan
+-- c4-v8: E–Qots gerou (a) 'Anuv e–(a) Hatsobevah e–famílias–de Acharche'el filho–de Harum
+-- c4-v9: E–foi Ya'bets honrado mais–que–irmãos–seus e–mãe–sua chamou nome–seu Ya'bets dizendo porque dei–à–luz com–dor
+-- c4-v10: E–clamou Ya'bets ao–Deus–de Yisra'el dizendo se abençoando me–abençoares e–alargares (a) território–meu e–for mão–tua comigo e–fizeres do–mal para–não me–entristecer E–trouxe Deus (a) que pediu
+-- c4-v11: E–Keluv irmão–de Shuchah gerou (a) Mechir ele pai–de Eshton
+-- c4-v12: E–Eshton gerou (a) Beit–Rafa e–(a) Pase'ach e–(a) Techinah pai–de 'Ir–Nachash estes homens–de Rekhah §
+-- c4-v13: E–filhos–de Qenaz 'Otni'el e–Serayah e–filhos–de 'Otni'el Chatat
+-- c4-v14: E–Me'onotay gerou (a) 'Ofrah e–Serayah gerou (a) Yo'av pai–de Gei Charashim porque artesãos eram ¶
+-- c4-v15: E–filhos–de Kalev filho–de Yefuneh 'Iru Elah e–Na'am e–filhos–de Elah e–Qenaz
+-- c4-v16: E–filhos–de Yehalel'el Zif e–Zifah Tiryah e–Asar'el
+-- c4-v17: E–filho–de 'Ezrah Yeter e–Mered e–'Efer e–Yalon e–ela–concebeu (a) Miryam e–(a) Shamay e–(a) Yishbach pai–de Eshtemo'a
+-- c4-v18: E–esposa–sua a–Yehudiyah gerou (a) Yered pai–de Gedor e–(a) Chever pai–de Sokho e–(a) Yequti'el pai–de Zano'ach e–estes filhos–de Bityah filha–de Far'oh que tomou Mered §
+-- c4-v19: E–filhos–de esposa–de Hodiyah irmã–de Nacham pai–de Qe'ilah o–Garmi e–Eshtemo'a o–Ma'akhati
+-- c4-v20: E–filhos–de Shimon Amnon e–Rinah Ben–Chanan [e–Tolon] (e–Tilon) e–filhos–de Yish'i Zochet e–Ben–Zochet
+-- c4-v21: Filhos–de Shelah filho–de Yehudah 'Er pai–de Lekhah e–La'dah pai–de Mareshah e–famílias–de Beit 'Avodat o–linho de–Beit Ashbea
+-- c4-v22: E–Yoqim e–homens–de Kozeva e–Yo'ash e–Saraf que dominaram sobre–Moav e–Yashuvi–Lechem e–as–palavras antigas
+-- c4-v23: Eles os–oleiros e–habitantes–de Neta'im e–Gederah com o–rei em–trabalho–seu habitaram lá §
+-- c4-v24: Filhos–de Shim'on Nemu'el e–Yamin Yariv Zerach Sha'ul
+-- c4-v25: Shalum filho–seu Mivsam filho–seu Mishma filho–seu
+-- c4-v26: E–filhos–de Mishma Chamu'el filho–seu Zakur filho–seu Shim'i filho–seu
+-- c4-v27: E–para–Shim'i filhos dezesseis  e–filhas seis e–para–irmãos–seus não filhos muitos e–toda família–deles não multiplicou até filhos–de Yehudah §
+-- c4-v28: E–habitaram em–Be'er–Sheva e–Moladah e–Chatsar–Shu'al
+-- c4-v29: E–em–Bilhah e–em–'Etsem e–em–Tolad
+-- c4-v30: E–em–Betu'el e–em–Chormah e–em–Tsiqlag
+-- c4-v31: E–em–Beit–Markavot e–em–Chatsar–Susim e–em–Beit–Bir'i e–em–Sha'arayim estas cidades–deles até reinar David
+-- c4-v32: E–aldeias–deles 'Eitam e–'Ayin Rimon e–Token e–'Ashan cidades cinco
+-- c4-v33: E–todas aldeias–deles que ao–redor–de as–cidades estas até Ba'al esta moradas–deles e–genealogia–deles para–eles
+-- c4-v34: E–Meshovav e–Yamlekh e–Yoshah filho–de Amatsyah
+-- c4-v35: E–Yo'el e–Yehu filho–de Yoshivyah filho–de Serayah filho–de 'Asi'el
+-- c4-v36: E–Elyo'einay e–Ya'aqovah e–Yeshochayah e–'Asayah e–'Adi'el e–Yesimi'el e–Venayah
+-- c4-v37: E–Ziza filho–de Shif'i filho–de Alon filho–de Yedayah filho–de Shimri filho–de Shema'yah
+-- c4-v38: Estes os–que–vieram por–nomes príncipes em–famílias–deles e–casa–de pais–deles aumentaram em–multidão
+-- c4-v39: E–foram para–entrada–de Gedor até para–oriente–de o–vale para–buscar pastagem para–ovelhas–deles
+-- c4-v40: E–encontraram pastagem gorda e–boa e–a–terra espaçosa–de mãos e–tranquila e–serena porque de Cham os–habitantes lá antes
+-- c4-v41: E–vieram estes os–escritos por–nomes nos–dias–de Chizqiyahu rei–de Yehudah e–feriram (a) tendas–deles e–(a) [os–Me'inim] (os–Me'unim) que foram–encontrados lá e–destruíram–os até o–dia este e–habitaram em–lugar–deles porque pastagem para–ovelhas–deles lá
+-- c4-v42: E–deles de filhos–de Shim'on foram para–monte–de Se'ir homens quinhentos  e–Pelatyah e–Ne'aryah e–Refayah e–'Uzi'el filhos–de Yish'i à–frente–deles
+-- c4-v43: E–feriram (a) resto–de os–fugitivos de–'Amaleq e–habitaram lá até o–dia este
+-- c5-v1: E–filhos-de Reuven primogênito-de Yisrael pois ele o–primogênito e–ao–profanar-ele leito-de pai-seu foi-dada primogenitura-sua a–filhos-de Yosef filho-de Yisrael e–não para–ser-registrado como–a–primogenitura
+-- c5-v2: Pois Yehudah prevaleceu entre–irmãos-seus e–para–líder de–ele e–a–primogenitura para–Yosef §
+-- c5-v3: Filhos-de Reuven primogênito-de Yisrael Chanokh e–Pallu Chetsron e–Karmi
+-- c5-v4: Filhos-de Yoel Shemayah filho-seu Gog filho-seu Shimei filho-seu
+-- c5-v5: Mikhah filho-seu Reayah filho-seu Baal filho-seu
+-- c5-v6: Beerah filho-seu que exilou Tilgat Pilneser rei-de Ashur ele príncipe dos–reuvenitas
+-- c5-v7: E–irmãos-seus por–famílias-suas ao–serem-registrados por–gerações-suas o–cabeça Yeiel e–Zekharyahu
+-- c5-v8: E–Bela filho-de Azaz filho-de Shema filho-de Yoel ele habitava em–Aroer e–até Nevo e–Baal-Meon
+-- c5-v9: E–para–o–oriente habitou até entrada-de deserto desde o–rio Perat pois gado-deles multiplicou-se em–terra-de Gilead
+-- c5-v10: E–em–dias-de Shaul fizeram guerra com os–hagritas e–caíram em–mão-deles e–habitaram em–tendas-deles sobre toda face-de oriente de–Gilead ¶
+-- c5-v11: E–filhos-de Gad defronte-deles habitaram em–terra-de o–Bashan até Salkhah
+-- c5-v12: Yoel o–cabeça e–Shafam o–segundo e–Yaanai e–Shafat em–Bashan
+-- c5-v13: E–irmãos-deles por–casa-de pais-deles Mikhael e–Meshulam e–Sheva e–Yorai e–Yaakan e–Zia e–Ever sete §
+-- c5-v14: Estes filhos-de Avichayil filho-de Churi filho-de Yaroach filho-de Gilead filho-de Mikhael filho-de Yeshishai filho-de Yachdo filho-de Buz
+-- c5-v15: Achi filho-de Avdiel filho-de Guni cabeça de–casa-de pais-deles
+-- c5-v16: E–habitaram em–Gilead em–Bashan e–em–aldeias-dela e–em–todos campos-de Sharon sobre limites-deles
+-- c5-v17: Todos-eles foram-registrados em–dias-de Yotam rei-de Yehudah e–em–dias-de Yarovam rei-de Yisrael ¶
+-- c5-v18: Filhos-de Reuven e–gaditas e–metade-de tribo-de Menasheh de filhos-de valor homens portadores-de escudo e–espada e–armadores-de arco e–treinados-de guerra quarenta e–quatro mil e–sete centos e–sessenta que-saem exército
+-- c5-v19: E–fizeram guerra com os–hagritas e–Yetur e–Nafish e–Nodav
+-- c5-v20: E–foram-ajudados contra-eles e–foram-entregues em–mão-deles os–hagritas e–tudo que–com-eles pois a–Elohim clamaram na–guerra e–foi-ouvido para-eles pois confiaram n–Ele
+-- c5-v21: E–capturaram gado-deles camelos-deles cinquenta mil e–ovelhas duzentos e–cinquenta mil e–jumentos dois-mil e–alma-de homem cem mil
+-- c5-v22: Pois mortos muitos caíram pois de–o–Elohim a–guerra e–habitaram no-lugar-deles até o–exílio ¶
+-- c5-v23: E–filhos-de metade-de tribo-de Menasheh habitaram na–terra de–Bashan até Baal-Chermon e–Senir e–monte Chermon eles multiplicaram-se
+-- c5-v24: E–estes cabeças-de casa-de pais-deles e–Efer e–Yishi e–Eliel e–Azriel e–Yirmeyah e–Hodavyah e–Yachdiel homens valorosos-de força homens-de nomes cabeças de–casa-de pais-deles
+-- c5-v25: E–foram-infiéis ao–Elohim-de pais-deles e–prostituíram-se após elohim-de povos-de a–terra que destruiu Elohim de–diante-deles
+-- c5-v26: E–despertou Elohim-de Yisrael (a) espírito-de Pul rei-de Ashur e–(a) espírito-de Tilgat Pilneser rei-de Ashur e–exilou-os aos–reuvenitas e–aos–gaditas e–à–metade-de tribo-de Menasheh e–trouxe-os Chalach e–Chavor e–Hara e–rio-de Gozan até o–dia o–este ¶
+-- c6-v1: Filhos-de Levi Gershon Qehat e–Merari
+-- c6-v2: E–filhos-de Qehat Amram Yitshar e–Chevron e–Uziel §
+-- c6-v3: E–filhos-de Amram Aharon e–Mosheh e–Miryam § E–filhos-de Aharon Nadav e–Avihu Elazar e–Itamar §
+-- c6-v4: Elazar gerou (a) Pinchas Pinchas gerou (a) Avishua
+-- c6-v5: E–Avishua gerou (a) Buqi e–Buqi gerou (a) Uzi
+-- c6-v6: E–Uzi gerou (a) Zerachyah e–Zerachyah gerou (a) Merayot
+-- c6-v7: Merayot gerou (a) Amaryah e–Amaryah gerou (a) Achituv
+-- c6-v8: E–Achituv gerou (a) Tsadoq e–Tsadoq gerou (a) Achimaats
+-- c6-v9: E–Achimaats gerou (a) Azaryah e–Azaryah gerou (a) Yochanan
+-- c6-v10: E–Yochanan gerou (a) Azaryah ele que serviu-como-sacerdote na–casa que construiu Shelomoh em–Yerushalayim
+-- c6-v11: E–gerou Azaryah (a) Amaryah e–Amaryah gerou (a) Achituv
+-- c6-v12: E–Achituv gerou (a) Tsadoq e–Tsadoq gerou (a) Shalum
+-- c6-v13: E–Shalum gerou (a) Chilqiyah e–Chilqiyah gerou (a) Azaryah
+-- c6-v14: E–Azaryah gerou (a) Serayah e–Serayah gerou (a) Yehotsadaq
+-- c6-v15: E–Yehotsadaq foi quando–exilou YHWH (a) Yehudah e–Yerushalayim pela–mão-de Nevukhadnetsar §
+-- c6-v16: Filhos-de Levi Gershom Qehat e–Merari
+-- c6-v17: E–estes nomes-de filhos-de Gershom Livni e–Shimei
+-- c6-v18: E–filhos-de Qehat Amram e–Yitshar e–Chevron e–Uziel
+-- c6-v19: Filhos-de Merari Machli e–Mushi E–estas famílias-de o–levita por–pais-deles
+-- c6-v20: De–Gershom Livni filho-seu Yachat filho-seu Zimah filho-seu
+-- c6-v21: Yoach filho-seu Ido filho-seu Zerach filho-seu Yeatrai filho-seu
+-- c6-v22: Filhos-de Qehat Aminadav filho-seu Qorach filho-seu Asir filho-seu
+-- c6-v23: Elqanah filho-seu e–Evyasaf filho-seu e–Asir filho-seu
+-- c6-v24: Tachat filho-seu Uriel filho-seu Uziyah filho-seu e–Shaul filho-seu
+-- c6-v25: E–filhos-de Elqanah Amasai e–Achimot
+-- c6-v26: Elqanah [filho-seu] (filhos-de) Elqanah Tsofai filho-seu e–Nachat filho-seu
+-- c6-v27: Eliav filho-seu Yerocham filho-seu Elqanah filho-seu
+-- c6-v28: E–filhos-de Shemuel o–primogênito Vashni e–Aviyah §
+-- c6-v29: Filhos-de Merari Machli Livni filho-seu Shimei filho-seu Uzah filho-seu
+-- c6-v30: Shimea filho-seu Chagiyah filho-seu Asayah filho-seu ¶
+-- c6-v31: E–estes que estabeleceu David sobre mãos-de cântico casa-de YHWH desde–repouso-de a–arca
+-- c6-v32: E–estavam ministrando diante-de tabernáculo-de tenda-de reunião com–o–cântico até construir Shelomoh (a) casa-de YHWH em–Yerushalayim e–permaneciam conforme–ordenança-sua sobre serviço-seu
+-- c6-v33: E–estes os–que-permaneciam e–filhos-deles de–filhos-de o–qehatita Heman o–cantor filho-de Yoel filho-de Shemuel
+-- c6-v34: filho-de Elqanah filho-de Yerocham filho-de Eliel filho-de Toach
+-- c6-v35: filho-de [Tsif] (Tsuf) filho-de Elqanah filho-de Machat filho-de Amasai
+-- c6-v36: filho-de Elqanah filho-de Yoel filho-de Azaryah filho-de Tsefanyah
+-- c6-v37: filho-de Tachat filho-de Asir filho-de Evyasaf filho-de Qorach
+-- c6-v38: filho-de Yitshar filho-de Qehat filho-de Levi filho-de Yisrael
+-- c6-v39: E–irmão-seu Asaf o–que-permanecia sobre direita-sua Asaf filho-de Berekhyahu filho-de Shimea
+-- c6-v40: filho-de Mikhael filho-de Baaseyah filho-de Malkiyah
+-- c6-v41: filho-de Etni filho-de Zerach filho-de Adayah
+-- c6-v42: filho-de Etan filho-de Zimah filho-de Shimei
+-- c6-v43: filho-de Yachat filho-de Gershom filho-de Levi §
+-- c6-v44: E–filhos-de Merari irmãos-deles sobre a–esquerda Etan filho-de Qishi filho-de Avdi filho-de Malukh
+-- c6-v45: filho-de Chashavyah filho-de Amatsyah filho-de Chilqiyah
+-- c6-v46: filho-de Amtsi filho-de Bani filho-de Shamer
+-- c6-v47: filho-de Machli filho-de Mushi filho-de Merari filho-de Levi §
+-- c6-v48: E–irmãos-deles os–levitas dados para–todo serviço-de tabernáculo-de casa-de o–Elohim
+-- c6-v49: E–Aharon e–filhos-seus queimando sobre altar-de o–holocausto e–sobre altar-de o–incenso para–todo trabalho-de santidade-de as–santidades e–para–expiar sobre Yisrael conforme–tudo que ordenou Mosheh servo-de o–Elohim ¶
+-- c6-v50: E–estes filhos-de Aharon Elazar filho-seu Pinchas filho-seu Avishua filho-seu
+-- c6-v51: Buqi filho-seu Uzi filho-seu Zerachyah filho-seu
+-- c6-v52: Merayot filho-seu Amaryah filho-seu Achituv filho-seu
+-- c6-v53: Tsadoq filho-seu Achimaats filho-seu §
+-- c6-v54: E–estas habitações-suas por–acampamentos-seus em–território-seu para–filhos-de Aharon por–família-de o–qehatita pois para-eles foi a–sorte
+-- c6-v55: E–deram a-eles (a) Chevron em–terra-de Yehudah e–(a) campos-dela ao-redor-dela
+-- c6-v56: E–(a) campo-de a–cidade e–(a) aldeias-dela deram a–Kalev filho-de Yefuneh §
+-- c6-v57: E–a–filhos-de Aharon deram (a) cidades-de o–refúgio (a) Chevron e–(a) Livnah e–(a) campos-dela e–(a) Yatir e–(a) Eshtemoa e–(a) campos-dela
+-- c6-v58: E–(a) Chilez e–(a) campos-dela (a) Devir e–(a) campos-dela
+-- c6-v59: E–(a) Ashan e–(a) campos-dela e–(a) Beit-Shemesh e–(a) campos-dela §
+-- c6-v60: E–de–tribo-de Binyamin (a) Geva e–(a) campos-dela e–(a) Alemet e–(a) campos-dela e–(a) Anatot e–(a) campos-dela todas cidades-deles treze  cidades em–famílias-deles §
+-- c6-v61: E–a–filhos-de Qehat os–restantes de–família-de a–tribo de–metade-de tribo-de metade-de Menasheh por–sorte cidades dez §
+-- c6-v62: E–a–filhos-de Gershom por–famílias-suas de–tribo-de Yissakhar e–de–tribo-de Asher e–de–tribo-de Naftali e–de–tribo-de Menasheh em–Bashan cidades treze  §
+-- c6-v63: A–filhos-de Merari por–famílias-suas de–tribo-de Reuven e–de–tribo-de Gad e–de–tribo-de Zevulun por–sorte cidades doze 
+-- c6-v64: E–deram filhos-de Yisrael aos–levitas (a) as–cidades e–(a) campos-delas
+-- c6-v65: E–deram por–sorte de–tribo-de filhos-de Yehudah e–de–tribo-de filhos-de Shimon e–de–tribo-de filhos-de Binyamin (a) as–cidades as–estas que chamaram (a)-elas por–nomes §
+-- c6-v66: E–de–famílias-de filhos-de Qehat e–foram cidades-de território-seu de–tribo-de Efrayim
+-- c6-v67: E–deram a-eles (a) cidades-de o–refúgio (a) Shekhem e–(a) campos-dela em–monte-de Efrayim e–(a) Gezer e–(a) campos-dela
+-- c6-v68: E–(a) Yoqmeam e–(a) campos-dela e–(a) Beit-Choron e–(a) campos-dela
+-- c6-v69: E–(a) Ayalon e–(a) campos-dela e–(a) Gat-Rimon e–(a) campos-dela ¶
+-- c6-v70: E–de–metade-de tribo-de Menasheh (a) Aner e–(a) campos-dela e–(a) Bileam e–(a) campos-dela para–família-de filhos-de Qehat os–restantes ¶
+-- c6-v71: A–filhos-de Gershom de–família-de metade-de tribo-de Menasheh (a) Golan em–Bashan e–(a) campos-dela e–(a) Ashtarot e–(a) campos-dela §
+-- c6-v72: E–de–tribo-de Yissakhar (a) Qedesh e–(a) campos-dela (a) Daverat e–(a) campos-dela
+-- c6-v73: E–(a) Ramot e–(a) campos-dela e–(a) Anem e–(a) campos-dela §
+-- c6-v74: E–de–tribo-de Asher (a) Mashal e–(a) campos-dela e–(a) Avdon e–(a) campos-dela
+-- c6-v75: E–(a) Chuqoq e–(a) campos-dela e–(a) Rechov e–(a) campos-dela
+-- c6-v76: E–de–tribo-de Naftali (a) Qedesh em–Galil e–(a) campos-dela e–(a) Chamon e–(a) campos-dela e–(a) Qiryatayim e–(a) campos-dela §
+-- c6-v77: A–filhos-de Merari os–restantes de–tribo-de Zevulun (a) Rimono e–(a) campos-dela (a) Tavor e–(a) campos-dela
+-- c6-v78: E–de–além-de Yarden Yerichó para–oriente-de o–Yarden de–tribo-de Reuven (a) Betser no–deserto e–(a) campos-dela e–(a) Yahtsah e–(a) campos-dela
+-- c6-v79: E–(a) Qedemot e–(a) campos-dela e–(a) Mefaat e–(a) campos-dela
+-- c6-v80: E–de–tribo-de Gad (a) Ramot em–Gilead e–(a) campos-dela e–(a) Machanayim e–(a) campos-dela
+-- c6-v81: E–(a) Cheshbon e–(a) campos-dela e–(a) Yazer e–(a) campos-dela §
+-- c7-v1: E–a–filhos-de Yissakhar Tola e–Puah [Yashiv] (Yashuv) e–Shimron quatro §
+-- c7-v2: E–filhos-de Tola Uzi e–Refayah e–Yeriel e–Yachmai e–Yivsam e–Shemuel cabeças de–casa-de pais-deles de–Tola valorosos-de força por–gerações-suas número-deles em–dias-de David vinte e–dois mil e–seis centos §
+-- c7-v3: E–filhos-de Uzi Yizrachyah e–filhos-de Yizrachyah Mikhael e–Ovadyah e–Yoel Yishiyah cinco cabeças todos-eles
+-- c7-v4: E–sobre-eles por–gerações-suas por–casa-de pais-deles tropas-de exército-de guerra trinta e–seis mil pois multiplicaram mulheres e–filhos
+-- c7-v5: E–irmãos-deles de–todas famílias-de Yissakhar valorosos-de forças oitenta e–sete mil registrados-deles de–todos ¶
+-- c7-v6: Binyamin Bela e–Bekher e–Yediael três
+-- c7-v7: E–filhos-de Bela Etsbon e–Uzi e–Uziel e–Yerimot e–Iri cinco cabeças-de casa-de pais valorosos-de forças e–registrados-deles vinte e–dois mil e–trinta e–quatro §
+-- c7-v8: E–filhos-de Bekher Zemirah e–Yoash e–Eliezer e–Elyoenai e–Omri e–Yeremot e–Aviyah e–Anatot e–Alamet todos estes filhos-de Bekher
+-- c7-v9: E–registrados-deles por–gerações-suas cabeças-de casa-de pais-deles valorosos-de força vinte mil e–duzentos §
+-- c7-v10: E–filhos-de Yediael Bilhan e–filhos-de Bilhan [Yaish] (Yeush) e–Binyamin e–Ehud e–Kenaanah e–Zetan e–Tarshish e–Achishachar
+-- c7-v11: Todos estes filhos-de Yediael por–cabeças-de os–pais valorosos-de forças dezessete  mil e–duzentos que-saem exército para–a–guerra
+-- c7-v12: E–Shupim e–Chupim filhos-de Ir Chushim filhos-de Acher
+-- c7-v13: Filhos-de Naftali Yachtsiel e–Guni e–Yetser e–Shalum filhos-de Bilhah ¶
+-- c7-v14: Filhos-de Menasheh Asriel que deu-à-luz concubina-sua a–arameia deu-à-luz (a) Makhir pai-de Gilead
+-- c7-v15: E–Makhir tomou mulher para–Chupim e–para–Shupim e–nome-de irmã-sua Maakhah e–nome-de o–segundo Tselofchad e–foram de–Tselofchad filhas
+-- c7-v16: E–deu-à-luz Maakhah mulher-de Makhir filho e–chamou nome-seu Peresh e–nome-de irmão-seu Sheresh e–filhos-seus Ulam e–Reqem
+-- c7-v17: E–filhos-de Ulam Bedan Estes filhos-de Gilead filho-de Makhir filho-de Menasheh
+-- c7-v18: E–irmã-sua a–Molekhet deu-à-luz (a) Ishhod e–(a) Aviezer e–(a) Machlah
+-- c7-v19: E–foram filhos-de Shemida Achyan e–Shekhem e–Liqchi e–Aniam ¶
+-- c7-v20: E–filhos-de Efrayim Shutelach e–Bered filho-seu e–Tachat filho-seu e–Eladah filho-seu e–Tachat filho-seu
+-- c7-v21: E–Zavad filho-seu e–Shutelach filho-seu e–Ezer e–Elad e–mataram-os homens-de Gat os–nascidos na–terra pois desceram para–tomar (a) gado-deles
+-- c7-v22: E–lamentou Efrayim pai-deles dias muitos e–vieram irmãos-seus para–consolá-lo
+-- c7-v23: E–veio a mulher-sua e–concebeu e–deu-à-luz filho e–chamou (a) nome-seu Beriah pois em–mal estava em–casa-sua
+-- c7-v24: E–filha-sua Sheerah e–construiu (a) Beit-Choron a–inferior e–(a) a–superior e–(a) Uzen Sheerah
+-- c7-v25: E–Refach filho-seu e–Reshef e–Telach filho-seu e–Tachan filho-seu
+-- c7-v26: Ladan filho-seu Amihud filho-seu Elishama filho-seu
+-- c7-v27: Non filho-seu Yehoshua filho-seu
+-- c7-v28: E–propriedade-deles e–habitações-deles Beit-El e–aldeias-dela e–para–o–oriente Naaran e–para–o–ocidente Gezer e–aldeias-dela e–Shekhem e–aldeias-dela até Ayah e–aldeias-dela
+-- c7-v29: E–sobre mãos-de filhos-de Menasheh Beit-Shean e–aldeias-dela Taanakh e–aldeias-dela Megido e–aldeias-dela Dor e–aldeias-dela Nestas habitaram filhos-de Yosef filho-de Yisrael ¶
+-- c7-v30: Filhos-de Asher Yimnah e–Yishvah e–Yishvi e–Beriah e–Serach irmã-deles
+-- c7-v31: E–filhos-de Beriah Chever e–Malkiel ele pai-de [Birzot] (Birzayit)
+-- c7-v32: E–Chever gerou (a) Yaflet e–(a) Shomer e–(a) Chotam e–(a) Shua irmã-deles
+-- c7-v33: E–filhos-de Yaflet Pasakh e–Bimhal e–Ashvat estes filhos-de Yaflet
+-- c7-v34: E–filhos-de Shemer Achi [e–Rohgah] (e–Rahgah) [Yechbah] (e–Chubah) e–Aram
+-- c7-v35: E–filho-de Helem irmão-seu Tsofach e–Yimna e–Shelesh e–Amal
+-- c7-v36: Filhos-de Tsofach Suach e–Charnefer e–Shual e–Beri e–Yimrah
+-- c7-v37: Betser e–Hod e–Shama e–Shilshah e–Yitran e–Beera
+-- c7-v38: E–filhos-de Yeter Yefuneh e–Pispah e–Ara
+-- c7-v39: E–filhos-de Ula Arach e–Chaniel e–Ritsya
+-- c7-v40: Todos estes filhos-de Asher cabeças-de casa-de os–pais escolhidos valorosos-de forças cabeças-de os–príncipes e–registrados-deles no–exército para–a–guerra número-deles homens vinte e–seis mil §
+-- c8-v1: E–Binyamin gerou (a) Bela seu–primogênito Ashbel o–segundo e–Achrach o–terceiro
+-- c8-v2: Nochah o–quarto e–Rafa o–quinto §
+-- c8-v3: E–foram filhos de–Bela Adar e–Gera e–Avihud
+-- c8-v4: e–Avishua e–Naaman e–Achochah
+-- c8-v5: e–Gera e–Shefufan e–Churam
+-- c8-v6: E–estes filhos-de Echud estes eles cabeças-de pais para–os–habitantes-de Gueva e–exilaram–eles para Manachat
+-- c8-v7: e–Naaman e–Achiyah e–Gera ele exilou–eles e–gerou (a) Uzza e–(a) Achichud
+-- c8-v8: E–Shacharayim gerou no–campo-de Moav depois-de mandar–embora ↳–eles Chushim e–(a) Baara suas–esposas
+-- c8-v9: E–gerou de Chodesh sua–esposa (a) Yovav e–(a) Tsivya e–(a) Mesha e–(a) Malcam
+-- c8-v10: e–(a) Yeuts e–(a) Socheyah e–(a) Mirmah estes seus–filhos cabeças-de pais
+-- c8-v11: E–de–Chushim gerou (a) Avituv e–(a) Elpaal
+-- c8-v12: E–filhos-de Elpaal Ever e–Misham e–Shemed ele construiu (a) Ono e–(a) Lod e–suas–filhas
+-- c8-v13: E–Beriah e–Shema eles cabeças-de os–pais para–os–habitantes-de Ayalon eles fizeram–fugir (a) os–habitantes-de Gat
+-- c8-v14: e–Achyo Shashak e–Yeremot
+-- c8-v15: E–Zevadyah e–Arad e–Eder
+-- c8-v16: E–Michael e–Yishpah e–Yocha filhos-de Beriah
+-- c8-v17: E–Zevadyah e–Meshulam e–Chizki e–Chever
+-- c8-v18: e–Yishmeray e–Yizliyah e–Yovav filhos-de Elpaal
+-- c8-v19: e–Yakim e–Zichri e–Zavdi
+-- c8-v20: e–Elienay e–Tsiletay e–Eliel
+-- c8-v21: e–Adayah e–Berayah e–Shimrat filhos-de Shimi
+-- c8-v22: e–Yishpan e–Ever e–Eliel
+-- c8-v23: e–Avdon e–Zichri e–Chanan
+-- c8-v24: e–Chananyah e–Elam e–Antotiyah
+-- c8-v25: e–Yifdeyah [e–Peniel] (e–Penuel) filhos-de Shashak
+-- c8-v26: e–Shamshray e–Shecharyah e–Atalyah
+-- c8-v27: e–Yaareshyah e–Eliyah e–Zichri filhos-de Yerocham
+-- c8-v28: Estes cabeças-de pais para–suas–gerações chefes estes habitaram em–Yerushalayim §
+-- c8-v29: E–em–Givon habitou pai-de Givon e–nome-de sua–esposa Maachah
+-- c8-v30: E–seu–filho o–primogênito Avdon e–Tsur e–Kish e–Baal e–Nadav
+-- c8-v31: e–Gedor e–Achyo e–Zecher
+-- c8-v32: E–Miklot gerou (a) Shimah e–também eles diante-de seus–irmãos habitaram em–Yerushalayim com seus–irmãos §
+-- c8-v33: E–Ner gerou (a) Kish e–Kish gerou (a) Shaul e–Shaul gerou (a) Yehonatan e–(a) Malchi–Shua e–(a) Avinadav e–(a) Eshbaal
+-- c8-v34: E–filho-de Yehonatan Meriv–Baal e–Meriv–Baal gerou (a) Michah §
+-- c8-v35: E–filhos-de Michah Piton e–Melech e–Taarea e–Achaz
+-- c8-v36: E–Achaz gerou (a) Yehoadah e–Yehoadah gerou (a) Alemet e–(a) Azmavet e–(a) Zimri e–Zimri gerou (a) Motsa
+-- c8-v37: E–Motsa gerou (a) Binah Rafah seu–filho Elasah seu–filho Atsel seu–filho
+-- c8-v38: E–para–Atsel seis filhos e–estes seus–nomes Azrikam Bochru e–Yishmael e–Shearyah e–Ovadyah e–Chanan todos estes filhos-de Atsel
+-- c8-v39: E–filhos-de Eshek seu–irmão Ulam seu–primogênito Yeush o–segundo e–Elifelet o–terceiro
+-- c8-v40: E–foram filhos-de Ulam homens valentes-de força armadores-de arco e–multiplicadores-de filhos e–filhos-de filhos cem e–cinquenta todos estes de–filhos-de Binyamin ¶
+-- c9-v1: E–todo Yisrael foi–registrado e–eis–eles escritos sobre o–livro-de os–reis-de Yisrael e–Yehudah foi–exilado para–Bavel por–sua–infidelidade §
+-- c9-v2: E–os–habitantes os–primeiros que em–sua–propriedade em–suas–cidades Yisrael os–sacerdotes os–levitas e–os–netineus
+-- c9-v3: E–em–Yerushalayim habitaram de os–filhos-de Yehudah e–de os–filhos-de Binyamin e–de os–filhos-de Efrayim e–Menasheh
+-- c9-v4: Utay filho-de Amihud filho-de Omri filho-de Imri filho-de [Binyamin] (Bani) (de) os–filhos-de Perets filho-de Yehudah
+-- c9-v5: E–de os–shilonitas Asayah o–primogênito e–seus–filhos
+-- c9-v6: E–de os–filhos-de Zerach Yeuel e–seus–irmãos seis centos e–noventa
+-- c9-v7: E–de os–filhos-de Binyamin Salu filho-de Meshulam filho-de Hodavyah filho-de ha–Senuah
+-- c9-v8: E–Yivneyah filho-de Yerocham e–Elah filho-de Uzzi filho-de Michri e–Meshulam filho-de Shefatyah filho-de Reuel filho-de Yivniyah
+-- c9-v9: e–seus–irmãos para–suas–gerações nove centos e–cinquenta e–seis todos estes homens cabeças-de pais para–casa-de seus–pais §
+-- c9-v10: E–de os–sacerdotes Yedayah e–Yehoyariv e–Yachin
+-- c9-v11: e–Azaryah filho-de Chilkiyah filho-de Meshulam filho-de Tsadok filho-de Merayot filho-de Achituv príncipe-de casa-de o–Deus §
+-- c9-v12: e–Adayah filho-de Yerocham filho-de Pashchur filho-de Malkiyah e–Maasay filho-de Adiel filho-de Yachzerah filho-de Meshulam filho-de Meshilemit filho-de Imer
+-- c9-v13: e–seus–irmãos cabeças para–casa-de seus–pais mil e–sete centos e–sessenta valentes-de força obra-de serviço-de casa-de o–Deus
+-- c9-v14: E–de os–levitas Shemayah filho-de Chashuv filho-de Azrikam filho-de Chashavyah de os–filhos-de Merari
+-- c9-v15: E–Bakvakkar Cheresh e–Galal e–Matanyah filho-de Micha filho-de Zichri filho-de Asaf
+-- c9-v16: e–Ovadyah filho-de Shemayah filho-de Galal filho-de Yedutun e–Berechyah filho-de Asa filho-de Elkanah o–habitante nas–aldeias-de os–netofatitas
+-- c9-v17: E–os–porteiros Shalum e–Akuv e–Talmon e–Achiman e–seu–irmão Shalum o–chefe
+-- c9-v18: E–até aqui no–portão-de o–rei para–leste eles os–porteiros para–os–acampamentos-de os–filhos-de Levi
+-- c9-v19: E–Shalum filho-de Kore filho-de Evyasaf filho-de Korach e–seus–irmãos para–casa-de seu–pai os–coraitas sobre a–obra-de o–serviço guardas-de as–soleiras da–tenda e–seus–pais sobre o–acampamento-de YHWH guardas-de a–entrada
+-- c9-v20: E–Pinchas filho-de Elazar príncipe era sobre–eles antes YHWH com–ele
+-- c9-v21: Zecharyah filho-de Meshelemyah porteiro-de entrada-de da–tenda-de encontro
+-- c9-v22: Todos–eles os–escolhidos para–porteiros nas–soleiras duzentos e–dois dez eles em–suas–aldeias seu–registro eles estabeleceu David e–Shmuel o–vidente em–sua–fidelidade
+-- c9-v23: E–eles e–seus–filhos sobre os–portões para–casa-de YHWH para–casa-de a–tenda para–guardas
+-- c9-v24: Para–quatro ventos eram os–porteiros leste oeste norte e–sul
+-- c9-v25: E–seus–irmãos em–suas–aldeias para–vir para–sete-de os–dias de–tempo para tempo com estes
+-- c9-v26: Pois em–fidelidade eles quatro-de valentes-de os–porteiros eles os–levitas e–estavam sobre as–câmaras e–sobre os–tesouros-de casa-de o–Deus
+-- c9-v27: E–ao-redor-de casa-de o–Deus passavam-a-noite pois sobre–eles guarda e–eles sobre a–chave e–para–a-manhã para–a-manhã
+-- c9-v28: E–dentre–eles sobre os–utensílios-de o–serviço pois por–número traziam–eles e–por–número tiravam–eles
+-- c9-v29: E–dentre–eles designados sobre os–utensílios e–sobre todos os–utensílios-de o–santuário e–sobre a–farinha-fina e–o–vinho e–o–óleo e–o–incenso e–as–especiarias
+-- c9-v30: E–de os–filhos-de os–sacerdotes preparadores-de a–mistura para–as-especiarias
+-- c9-v31: E–Matityah de os–levitas ele o–primogênito de–Shalum o–coraita em–fidelidade sobre a–obra-de as–frigideiras
+-- c9-v32: E–de os–filhos-de os–coatitas de seus–irmãos sobre o–pão-de a–disposição para–preparar sábado sábado §
+-- c9-v33: E–estes os–cantores cabeças-de pais para–os-levitas nas–câmaras [isentos] (isentos) pois dia e–noite sobre–eles na–obra
+-- c9-v34: Estes cabeças-de os–pais para–os-levitas para–suas–gerações chefes estes habitaram em–Yerushalayim ¶
+-- c9-v35: E–em–Givon habitou pai-de Givon [Yeuel] (Yeiel) e–nome-de sua–esposa Maachah
+-- c9-v36: E–seu–filho o–primogênito Avdon e–Tsur e–Kish e–Baal e–Ner e–Nadav
+-- c9-v37: e–Gedor e–Achyo e–Zecharyah e–Miklot
+-- c9-v38: E–Miklot gerou (a) Shimam e–também eles diante-de seus–irmãos habitaram em–Yerushalayim com seus–irmãos §
+-- c9-v39: E–Ner gerou (a) Kish e–Kish gerou (a) Shaul e–Shaul gerou (a) Yehonatan e–(a) Malchi–Shua e–(a) Avinadav e–(a) Eshbaal
+-- c9-v40: E–filho-de Yehonatan Meriv–Baal e–Meri–Baal gerou (a) Michah
+-- c9-v41: E–filhos-de Michah Piton e–Melech e–Tachrea
+-- c9-v42: E–Achaz gerou (a) Yarah e–Yarah gerou (a) Alemet e–(a) Azmavet e–(a) Zimri e–Zimri gerou (a) Motsa
+-- c9-v43: E–Motsa gerou (a) Binah e–Refayah seu–filho Elasah seu–filho Atsel seu–filho
+-- c9-v44: E–para–Atsel seis filhos e–estes seus–nomes Azrikam Bochru e–Yishmael e–Shearyah e–Ovadyah e–Chanan estes filhos-de Atsel ¶
+-- c10-v1: E–os-filisteus lutaram contra–Yisrael e–fugiu homem-de Yisrael de–diante-de os–filisteus e–caíram traspassados no–monte-de Gilboa
+-- c10-v2: E–perseguiram os–filisteus atrás-de Shaul e–atrás-de seus–filhos e–feriram os–filisteus (a) Yonatan e–(a) Avinadav e–(a) Malchi–Shua filhos-de Shaul
+-- c10-v3: E–pesou a–batalha sobre Shaul e–encontraram–o os–arqueiros com–o-arco e–tremeu por-causa-de os–atiradores
+-- c10-v4: E–disse Shaul a o–carregador-de suas–armas desembainha tua–espada e–atravessa–me com–ela para-que-não venham os–incircuncisos estes e–zombe-de mim e–não quis o–carregador-de suas–armas pois temia muito § E–tomou Shaul (a) a–espada e–caiu sobre–ela
+-- c10-v5: E–viu o–carregador-de suas–armas que morreu Shaul e–caiu também ele sobre a–espada e–morreu §
+-- c10-v6: E–morreu Shaul e–três-de seus–filhos e–toda sua–casa juntos morreram
+-- c10-v7: E–viram todo homem-de Yisrael que no–vale que fugiram e–que morreram Shaul e–seus–filhos e–abandonaram suas–cidades e–fugiram e–vieram os–filisteus e–habitaram nelas §
+-- c10-v8: E–foi no–dia-seguinte e–vieram os–filisteus para–despojar (a) os–mortos e–encontraram (a) Shaul e–(a) seus–filhos caídos no–monte-de Gilboa
+-- c10-v9: E–despojaram–o e–levaram (a) sua–cabeça e–(a) suas–armas e–enviaram na–terra-de os–filisteus ao-redor para–anunciar (a) seus–ídolos e–(a) o–povo
+-- c10-v10: E–colocaram (a) suas–armas casa-de seus–deuses e–(a) seu–crânio pregaram casa-de Dagon §
+-- c10-v11: E–ouviram todos-de Yavesh Gilad ↳ todo que fizeram os–filisteus a–Shaul
+-- c10-v12: E–levantaram-se todo homem-de valor e–levaram (a) o–corpo-de Shaul e–↳ os–corpos-de seus–filhos e–trouxeram–os Yavesh e–sepultaram (a) seus–ossos debaixo-de o–carvalho em–Yavesh e–jejuaram sete-de dias
+-- c10-v13: E–morreu Shaul por–sua–infidelidade que cometeu contra–YHWH sobre a–palavra-de YHWH que não guardou e–também para–consultar medíium para–buscar
+-- c10-v14: E–não buscou a–YHWH e–matou–o e–transferiu (a) o–reino para–David filho-de Yishai ¶
+-- c11-v1: E–reuniram-se todo Yisrael a David Chevron dizendo eis teu–osso e–tua–carne nós
+-- c11-v2: Também ontem também anteontem também quando–era Shaul rei tu o–que-fazia-sair e–o-que-fazia-entrar (a) Yisrael e–disse YHWH teu–Deus a–ti tu pastorearás (a) meu–povo (a) Yisrael e–tu serás príncipe sobre meu–povo Yisrael
+-- c11-v3: E–vieram todos os–anciãos-de Yisrael a o–rei Chevron e–cortou para–eles David pacto em–Chevron diante-de YHWH e–ungiram (a) David para–rei sobre Yisrael segundo–a-palavra-de YHWH por–mão-de Shmuel §
+-- c11-v4: E–foi David e–todo Yisrael Yerushalayim ela Yevus e–ali o–jebuseu os–habitantes-de a–terra
+-- c11-v5: E–disseram os–habitantes-de Yevus a–David não entrarás aqui e–capturou David (a) a–fortaleza-de Tsiyon ela cidade-de David
+-- c11-v6: E–disse David todo o–que-ferir jebuseu primeiro será para–cabeça e–para–comandante e–subiu primeiro Yoav filho-de Tseruyah e–foi para–cabeça
+-- c11-v7: E–habitou David na–fortaleza por–isso assim chamaram ↳–ela cidade-de David
+-- c11-v8: E–edificou a–cidade ao-redor de o–Milo e–até o–derredor e–Yoav restaurou (a) o–resto-de a–cidade
+-- c11-v9: E–ia David indo e–crescendo e–YHWH-de exércitos com–ele ¶
+-- c11-v10: E–estes cabeças-de os–valentes que de–David os–que-se-fortaleciam com–ele em–seu–reino com todo Yisrael para–fazê-lo-rei segundo–a-palavra-de YHWH sobre Yisrael §
+-- c11-v11: E–este o–número-de os–valentes que de–David Yashoveam filho-de Chachmoni cabeça-de [os-trinta] (os-capitães) ele brandiu (a) sua–lança contra três centos mortos de–uma-vez uma
+-- c11-v12: E–depois–dele Elazar filho-de Dodo o–achochita ele entre–os-três os–valentes
+-- c11-v13: Ele estava com David em–Pas–Damim e–os-filisteus reuniram-se ali para–a-batalha e–era pedaço-de o–campo cheio-de cevada e–o-povo fugiu de–diante-de os–filisteus
+-- c11-v14: E–posicionaram-se no–meio-de o–pedaço e–salvaram–o e–feriram (a) os–filisteus e–salvou YHWH salvação grande
+-- c11-v15: E–desceram três de os–trinta cabeça sobre a–rocha a David a a–caverna-de Adulam e–o-acampamento-de os–filisteus acampado no–vale-de Refaim
+-- c11-v16: E–David então na–fortaleza e–guarnição-de os–filisteus então em–Beit–Lechem
+-- c11-v17: [e–desejou] (e–desejou) David e–disse quem me–dará-de-beber água do–poço-de Beit–Lechem que no–portão
+-- c11-v18: E–romperam os–três no–acampamento-de os–filisteus e–tiraram água do–poço-de Beit–Lechem que no–portão e–carregaram e–trouxeram a David e–não quis David bebê-la e–derramou–a ↳–ela para–YHWH
+-- c11-v19: E–disse longe-de mim de–meu–Deus de–fazer isto ?–o-sangue-de os–homens estes beberei com–suas–vidas pois com–suas–vidas trouxeram–a e–não quis bebê-la estas-coisas fizeram os-três-de os–valentes
+-- c11-v20: E–Avishai irmão-de Yoav ele era cabeça-de os–três e–ele brandiu (a) sua–lança contra três centos mortos [e–não] (e–dele) nome entre–os-três
+-- c11-v21: De os–três entre–os-dois honrado e–foi para–eles para–comandante e–até os–três não chegou §
+-- c11-v22: Benayahu filho-de Yehoyada filho-de homem-de valor grande-de feitos de Kavtseel ele feriu ↳ dois leões-de Moav e–ele desceu e–feriu (a) o–leão no–meio-de a–cisterna no–dia-de a–neve
+-- c11-v23: E–ele feriu (a) o–homem o–egípcio homem-de medida cinco em–côvados e–em–mão-de o–egípcio lança como–trave-de tecelões e–desceu a–ele com–o-bordão e–arrancou (a) a–lança da–mão-de o–egípcio e–matou–o com–sua–lança
+-- c11-v24: Estas-coisas fez Benayahu filho-de Yehoyada e–dele nome entre–os-três os–valentes
+-- c11-v25: De os–trinta eis–ele honrado ele e–até os–três não chegou e–colocou–o David sobre sua–guarda §
+-- c11-v26: E–os-valentes-de os–exércitos Asah–El irmão-de Yoav Elchanan filho-de Dodo de–Beit–Lechem §
+-- c11-v27: Shamot o–harorita Chelets o–pelonita §
+-- c11-v28: Ira filho-de Ikesh o–tecoita Aviezer o–anatotita §
+-- c11-v29: Sibekai o–hushatita Ilay o–achochita §
+-- c11-v30: Mahray o–netofatita Cheled filho-de Baanah o–netofatita §
+-- c11-v31: Itay filho-de Rivay de–Guiva-de os–filhos-de Binyamin § Benayah o–piratonita
+-- c11-v32: Churay dos–vales-de Gaash § Aviel o–arvadita §
+-- c11-v33: Azmavet o–baharumita Elyachba o–shaalbonita §
+-- c11-v34: os–filhos-de Hashem o–gizonita Yonatan filho-de Shageh o–hararita §
+-- c11-v35: Achiam filho-de Sachar o–hararita Elifal filho-de Ur §
+-- c11-v36: Chefer o–mequeratita Achiyah o–pelonita §
+-- c11-v37: Chetsro o–carmelita Naaray filho-de Ezbay §
+-- c11-v38: Yoel irmão-de Natan Mivchar filho-de ha–Geri §
+-- c11-v39: Tselek o–amonita Nachray o–beerotita carregador-de armas-de Yoav filho-de Tseruyah §
+-- c11-v40: Ira o–jatrita Garev o–jatrita §
+-- c11-v41: Uriyah o–hitita Zavad filho-de Achlay §
+-- c11-v42: Adina filho-de Shiza o–rubenita cabeça dos–rubenitas e–sobre–ele trinta §
+-- c11-v43: Chanan filho-de Maachah e–Yoshafat o–mitnita §
+-- c11-v44: Uziyah o–ashteratita Shama [e–Yeuel] (e–Yeiel) § filhos-de Chotam o–aroerita §
+-- c11-v45: Yediael filho-de Shimri e–Yocha seu–irmão o–titsita §
+-- c11-v46: Eliel o–macavita e–Yerivay e–Yoshavyah filhos-de Elnaam e–Yitmah o–moabita
+-- c11-v47: Eliel e–Oved e–Yaasiel o–metsobita ¶
+-- c12-v1: E–estes os–que-vieram a David a–Tsiqlag ainda impedido de–face-de Shaul filho-de Qish e–eles entre–os–guerreiros ajudadores-de a–guerra
+-- c12-v2: armados-de arco usando-mão-direita e–usando-mão-esquerda com–as–pedras e–com–as–flechas com–o–arco de–irmãos-de Shaul de–Binyamin
+-- c12-v3: O–cabeça Achiezer e–Yoash filhos-de o–Shemaah o–givatita [e–Yezuel] (e–Yeziel) e–Pelet filhos-de Azmavet e–Berakhah e–Yehu o–anatotita
+-- c12-v4: E–Yishmayah o–givonita guerreiro entre–os–trinta e–sobre os–trinta
+-- c12-v5: E–Yirmeyah e–Yachaziel e–Yochanan e–Yozavad o–gederatita
+-- c12-v6: Eluzai e–Yerimot e–Bealyah e–Shemaryahu e–Shefatyahu [o–charifi] (o–charufi)
+-- c12-v7: Elqanah e–Yishiyahu e–Azarel e–Yoezer e–Yashoveam os–corachitas
+-- c12-v8: E–Yoelah e–Zevadyah filhos-de Yerocham de o–Gedor
+-- c12-v9: E–de o–gadita separaram-se a David para–a–fortaleza deserto guerreiros-de o–valor homens-de exército para–a–guerra ordenadores-de escudo-grande e–lança e–faces-de leão faces-deles e–como–gazelas sobre as–montanhas para–apressar §
+-- c12-v10: Ezer o–cabeça Ovadyah o–segundo Eliav o–terceiro
+-- c12-v11: Mishmanah o–quarto Yirmeyah o–quinto
+-- c12-v12: Atai o–sexto Eliel o–sétimo
+-- c12-v13: Yochanan o–oitavo Elzavad o–nono
+-- c12-v14: Yirmeyahu o–décimo § Makhbanai onze 
+-- c12-v15: Estes de–filhos-de Gad cabeças-de o–exército um para–cem o–pequeno e–o–grande para–mil
+-- c12-v16: Estes eles que atravessaram (a) o–Yarden no–mês o–primeiro e–ele transbordando sobre todas [margens-suas] (margens-suas) e–afugentaram (a) todos os–vales para–o–oriente e–para–o–ocidente §
+-- c12-v17: E–vieram de filhos-de Binyamin e–Yehudah até a–fortaleza para–David
+-- c12-v18: E–saiu David diante-deles e–respondeu e–disse a-eles Se para–paz viestes a–mim para–ajudar-me será para–mim sobre-vós coração para–unir e–se para–trair-me aos–inimigos-meus sem violência em–palmas-minhas veja Elohim-de pais-nossos e–repreenda §
+-- c12-v19: E–espírito revestiu (a) Amasai cabeça-de [os–trinta] (os–oficiais) Para–ti David e–contigo filho-de Yishai Paz paz para–ti e–paz para–ajudador-teu pois ajuda-te Elohim-teu E–recebeu-os David e–deu-os entre–cabeças-de a–tropa ¶
+-- c12-v20: E–de–Menasheh caíram sobre David quando–veio-ele com filisteus contra Shaul para–a–guerra e–não ajudaram-os pois em–conselho despediram-o líderes-de filisteus dizendo Pelas–cabeças-nossas cairá a senhor-seu Shaul
+-- c12-v21: Quando–ir-ele a Tsiqlag caíram sobre-ele de–Menasheh Adnach e–Yozavad e–Yediael e–Mikhael e–Yozavad e–Elihu e–Tsiletai cabeças-de os–milhares que de–Menasheh
+-- c12-v22: E–eles ajudaram com David contra a–tropa pois guerreiros-de valor todos-eles e–foram comandantes no–exército
+-- c12-v23: Pois por–tempo dia em–dia vinham sobre David para–ajudá-lo até acampamento grande como–acampamento-de Elohim ¶
+-- c12-v24: E–estes números-de cabeças-de o–equipado para–o–exército vieram a David Chevron para–fazer-voltar reinado-de Shaul para-ele conforme–boca-de YHWH §
+-- c12-v25: Filhos-de Yehudah portadores-de escudo-grande e–lança seis milhares e–oito centos equipados-de exército §
+-- c12-v26: De filhos-de Shimon guerreiros-de valor para–o–exército sete milhares e–cem §
+-- c12-v27: De filhos-de o–levita quatro milhares e–seis centos §
+-- c12-v28: E–Yehoyada o–líder de–Aharon e–com-ele três milhares e–sete centos §
+-- c12-v29: E–Tsadoq jovem guerreiro-de valor e–casa-de pai-seu comandantes vinte e–dois §
+-- c12-v30: E–de filhos-de Binyamin irmãos-de Shaul três milhares e–até então maioria-deles guardando guarda-de casa-de Shaul §
+-- c12-v31: E–de filhos-de Efrayim vinte mil e–oito centos guerreiros-de valor homens-de nomes de–casa-de pais-deles §
+-- c12-v32: E–de–metade-de tribo-de Menasheh dezoito  mil que foram-nomeados por–nomes para–vir para–fazer-reinar (a) David §
+-- c12-v33: E–de–filhos-de Yissakhar conhecedores-de entendimento para–os–tempos para–saber o-que fazerá Yisrael cabeças-deles duzentos e–todos irmãos-deles sobre boca-deles §
+-- c12-v34: De–Zevulun que-saem-de exército ordenadores-de guerra com–todo instrumento-de guerra cinquenta mil e–para–ordenar sem coração e–coração §
+-- c12-v35: E–de–Naftali comandantes mil e–com-eles com–escudo-grande e–lança trinta e–sete mil §
+-- c12-v36: E–de o–danita ordenadores-de guerra vinte e–oito mil e–seis centos §
+-- c12-v37: E–de–Asher que-saem-de exército para–ordenar guerra quarenta mil §
+-- c12-v38: E–de–além-de o–Yarden de o–reuvenita e–o–gadita e–metade-de tribo-de Menasheh com–todo instrumento-de exército-de guerra cento e–vinte mil
+-- c12-v39: Todos estes homens-de guerra ordenadores-de formação com–coração inteiro vieram Chevron para–fazer-reinar (a) David sobre todo Yisrael e–também todo restante-de Yisrael coração um para–fazer-reinar (a) David
+-- c12-v40: E–estiveram lá com David dias três comendo e–bebendo pois prepararam para-eles irmãos-deles E–também os–próximos deles até Yissakhar e–Zevulun e–Naftali traziam pão em–jumentos e–em–camelos e–em–mulas e–em–gado alimento farinha bolos-de-figos e–passas e–vinho e–óleo e–gado e–ovelhas em–abundância pois alegria em–Yisrael ¶
+-- c13-v1: E–consultou David com comandantes-de os–milhares e–os–centos com–todo líder
+-- c13-v2: E–disse David a–toda assembléia-de Yisrael Se sobre-vós bom e–de YHWH Elohim-nosso espalhemos enviemos sobre irmãos-nossos os–restantes em–todas terras-de Yisrael e–com-eles os–sacerdotes e–os–levitas em–cidades-de campos-deles e–se-juntem a–nós
+-- c13-v3: E–façamos-voltar (a) arca-de Elohim-nosso a–nós pois não buscamo-la em–dias-de Shaul
+-- c13-v4: E–disseram toda a–assembléia para–fazer assim pois reta a–palavra aos–olhos-de todo o–povo
+-- c13-v5: E–reuniu David (a) todo Yisrael desde Shichor-de Mitsrayim e–até entrada-de Chamat para–trazer (a) arca-de o–Elohim de–Qiryat-Yearim
+-- c13-v6: E–subiu David e–todo Yisrael Baalatah a Qiryat Yearim que de–Yehudah para–fazer-subir de–lá (a) arca-de o–Elohim YHWH que-habita os–querubins que foi-invocado nome
+-- c13-v7: E–fizeram-montar (a) arca-de o–Elohim sobre carroça nova de–casa-de Avinadav e–Uza e–Achyo conduzindo a–carroça
+-- c13-v8: E–David e–todo Yisrael celebrando diante-de o–Elohim com–toda força e–com–cânticos e–com–harpas e–com–liras e–com–tamborins e–com–címbalos e–com–trombetas
+-- c13-v9: E–vieram até eira-de Qidon e–estendeu Uza (a) mão-sua para–segurar (a) a–arca pois tropeou o–gado
+-- c13-v10: E–acendeu-se ira-de YHWH contra–Uza e–feriu-o por que estendeu mão-sua sobre a–arca e–morreu lá diante-de Elohim
+-- c13-v11: E–irou-se David pois rompeu YHWH rompimento em–Uza e–chamou ao–lugar o–aquele Perets Uza até o–dia o–este
+-- c13-v12: E–temeu David (a) o–Elohim no–dia o–aquele dizendo Como trarei a–mim (a) arca-de o–Elohim
+-- c13-v13: E–não moveu David (a) a–arca para-ele a cidade-de David e–desviou-a a casa-de Oved-Edom o–gatita
+-- c13-v14: E–permaneceu arca-de o–Elohim com casa-de Oved-Edom em–casa-sua três meses e–abençoou YHWH (a) casa-de Oved-Edom e–(a) tudo que para-ele ¶
+-- c14-v1: E–enviou [Chiram] (Churam) rei-de Tsor mensageiros a David e–madeiras-de cedros e–artesãos-de parede e–artesãos-de madeiras para–construir para-ele casa
+-- c14-v2: E–soube David que estabeleceu-o YHWH para–rei sobre Yisrael pois foi-exaltado para–cima reinado-seu por–causa-de povo-seu Yisrael ¶
+-- c14-v3: E–tomou David mais mulheres em–Yerushalayim e–gerou David mais filhos e–filhas
+-- c14-v4: E–estes nomes-de os–nascidos que foram para-ele em–Yerushalayim Shamua e–Shovav Natan e–Shelomoh
+-- c14-v5: E–Yivchar e–Elishua e–Elpalet
+-- c14-v6: E–Nogah e–Nefeg e–Yafia
+-- c14-v7: E–Elishama e–Beelyada e–Elifalet
+-- c14-v8: E–ouviram filisteus que foi-ungido David para–rei sobre todo Yisrael e–subiram todos filisteus para–buscar (a) David e–ouviu David e–saiu diante-deles
+-- c14-v9: E–filisteus vieram e–espalharam-se no–vale-de Refaim
+-- c14-v10: E–consultou David em–Elohim dizendo Subirei contra [filisteus] (filisteus) e–dar-me-ás-os em–mão-minha E–disse a-ele YHWH Sobe e–dá-los-ei em–mão-tua
+-- c14-v11: E–subiram a–Baal-Peratsim e–feriu-os lá David e–disse David Rompeu o–Elohim (a) inimigos-meus pela–mão-minha como–rompimento-de águas Por isso chamaram nome-de o–lugar o–aquele Baal-Peratsim
+-- c14-v12: E–abandonaram lá (a) deuses-deles e–disse David e–foram-queimados no–fogo ¶
+-- c14-v13: E–acrescentaram novamente filisteus e–espalharam-se no–vale
+-- c14-v14: E–consultou novamente David em–Elohim e–disse a-ele o–Elohim Não subirás atrás-deles Rodeia de–sobre-eles e–virás a-eles de–em-frente-de os–balsemeiros
+-- c14-v15: E–será quando–ouvires (a) som-de a–marcha nos–topos-de os–balsemeiros então sairás na–guerra pois saiu o–Elohim diante-de-ti para–ferir (a) acampamento-de filisteus
+-- c14-v16: E–fez David como ordenou-lhe o–Elohim e–feriram (a) acampamento-de filisteus de–Givon e–até Gazerah
+-- c14-v17: E–saiu nome-de David em–todas as–terras e–YHWH deu (a) pavor-seu sobre todas as–nações
+-- c15-v1: E–fez para–si casas na–cidade–de David e–preparou lugar para–a–arca–de o–Elohim e–estendeu para–ela tenda
+-- c15-v2: Então disse David Não para–carregar (a) arca–de o–Elohim senão se–não os–levitas porque neles escolheu YHWH para–carregar (a) arca–de YHWH e–para–servi-lo até eternidade §
+-- c15-v3: E–reuniu David (a) todo Israel a Yerushalayim para–fazer-subir (a) arca–de YHWH a seu–lugar que preparou para–ela
+-- c15-v4: E–juntou David (a) filhos–de Aharon e–(a) os–levitas
+-- c15-v5: Dos–filhos–de Qehat Uriel o–chefe e–seus–irmãos cento e–vinte §
+-- c15-v6: Dos–filhos–de Merari Asayah o–chefe e–seus–irmãos duzentos e–vinte §
+-- c15-v7: Dos–filhos–de Gershom Yoel o–chefe e–seus–irmãos cento e–trinta §
+-- c15-v8: Dos–filhos–de Elitsafan Shemayah o–chefe e–seus–irmãos duzentos §
+-- c15-v9: Dos–filhos–de Hevron Eliel o–chefe e–seus–irmãos oitenta §
+-- c15-v10: Dos–filhos–de Uziel Aminadav o–chefe e–seus–irmãos cento e–dois dez §
+-- c15-v11: E–chamou David a–Tsadoq e–a–Evyatar os–sacerdotes e–aos–levitas a–Uriel Asayah e–Yoel Shemayah e–Eliel e–Aminadav
+-- c15-v12: E–disse a–eles Vós cabeças–de os–pais aos–levitas santificai-vos vós e–vossos–irmãos e–fazei-subir (a) arca–de YHWH Elohim–de Israel a o–que–preparei para–ela
+-- c15-v13: Porque na–primeira–vez não vós irrompeu YHWH nosso–Elohim contra–nós porque não o–buscamos conforme–a–ordenança
+-- c15-v14: E–santificaram-se os–sacerdotes e–os–levitas para–fazer-subir (a) arca–de YHWH Elohim–de Israel
+-- c15-v15: E–carregaram filhos–de os–levitas (a) arca–de o–Elohim como ordenou Mosheh conforme–palavra–de YHWH sobre–seus–ombros com–as–varas sobre–eles ¶
+-- c15-v16: E–disse David aos–chefes–de os–levitas para–colocar (a) seus–irmãos os–cantores com–instrumentos–de cântico alaúdes e–harpas e–címbalos fazendo-soar para–levantar com–voz para–alegria ¶
+-- c15-v17: E–colocaram os–levitas (a) Heman filho–de Yoel e–de seus–irmãos Asaf filho–de Berekhyahu § e–de filhos–de Merari seus–irmãos Etan filho–de Qushayahu
+-- c15-v18: E–com–eles seus–irmãos os–segundos Zekharyahu Ben e–Yaaziel e–Shemiramot e–Yehiel e–Uni Eliav e–Benayahu e–Maaseyahu e–Matityahu e–Eliflehu e–Miqneyahu e–Oved–Edom e–Yeiel os–porteiros
+-- c15-v19: E–os–cantores Heman Asaf e–Etan com–címbalos–de bronze para–fazer-soar
+-- c15-v20: E–Zekharyah e–Aziel e–Shemiramot e–Yehiel e–Uni e–Eliav e–Maaseyahu e–Benayahu com–alaúdes sobre alamot
+-- c15-v21: E–Matityahu e–Eliflehu e–Miqneyahu e–Oved–Edom e–Yeiel e–Azazyahu com–harpas sobre a–oitava para–dirigir
+-- c15-v22: E–Kenanyahu chefe–de os–levitas no–transporte instruía no–transporte porque entendido ele
+-- c15-v23: E–Berekhyah e–Elqanah porteiros para–a–arca
+-- c15-v24: E–Shevanyahu e–Yoshafat e–Netanel e–Amasai e–Zekharyahu e–Benayahu e–Eliezer os–sacerdotes [tocando-trombetas] tocando-trombetas com–as–trombetas diante–de arca–de o–Elohim e–Oved–Edom e–Yehiyah porteiros para–a–arca
+-- c15-v25: E–foi David e–anciãos–de Israel e–chefes–de os–milhares os–que–iam para–fazer-subir (a) arca–de aliança–de YHWH de casa–de Oved–Edom com–alegria §
+-- c15-v26: E–foi quando–ajudou o–Elohim (a) os–levitas carregadores–de arca–de aliança–de YHWH e–sacrificaram sete touros e–sete carneiros
+-- c15-v27: E–David vestido com–manto–de linho-fino e–todo os–levitas os–que–carregavam (a) a–arca e–os–cantores e–Kenanyah o–chefe do–transporte dos–cantores e–sobre David éfode–de linho
+-- c15-v28: E–todo Israel fazendo-subir (a) arca–de aliança–de YHWH com–aclamação e–com–som–de shofar e–com–trombetas e–com–címbalos fazendo-soar com–alaúdes e–harpas
+-- c15-v29: E–foi arca–de aliança–de YHWH veio até cidade–de David e–Mikhal filha–de Shaul olhou pela a–janela e–viu (a) o–rei David dançando e–festejando e–desprezou a–ele em–seu–coração ¶
+-- c16-v1: E–trouxeram (a) arca–de o–Elohim e–colocaram ela no–meio–de a–tenda que estendeu para–ela David e–ofereceram holocaustos e–ofertas-de-paz diante–de o–Elohim
+-- c16-v2: E–terminou David de–fazer-subir o–holocausto e–as–ofertas-de-paz e–abençoou (a) o–povo em–nome–de YHWH
+-- c16-v3: E–repartiu a–todo homem–de Israel desde–homem e–até mulher a–cada–homem um–pão–de pão e–uma–porção e–um–bolo-de-passas
+-- c16-v4: E–colocou diante–de arca–de YHWH de os–levitas ministrando e–para–lembrar e–para–dar-graças e–para–louvar a–YHWH Elohim–de Israel ¶
+-- c16-v5: Asaf o–primeiro e–seu–segundo Zekharyah Yeiel e–Shemiramot e–Yehiel e–Matityah e–Eliav e–Benayahu e–Oved–Edom e–Yeiel com–instrumentos–de alaúdes e–com–harpas e–Asaf com–os–címbalos fazendo-soar
+-- c16-v6: E–Benayahu e–Yahaziel os–sacerdotes com–as–trombetas continuamente diante–de arca–de aliança–de o–Elohim
+-- c16-v7: No–dia esse então deu David primeiro para–dar-graças a–YHWH por–mão–de Asaf e–seus–irmãos ¶
+-- c16-v8: Dai-graças a–YHWH invocai em–seu–nome fazei-saber entre–os–povos suas–obras
+-- c16-v9: Cantai a–ele salmodiai a–ele meditai em–todas suas–maravilhas
+-- c16-v10: Gloriai-vos em–nome–de sua–santidade alegre-se coração–de buscadores–de YHWH
+-- c16-v11: Buscai YHWH e–sua–força buscai sua–face continuamente
+-- c16-v12: Lembrai-vos–de suas–maravilhas que fez seus–prodígios e–juízos–de sua–boca
+-- c16-v13: Semente–de Israel seu–servo filhos–de Yaaqov seus–escolhidos
+-- c16-v14: Ele YHWH nosso–Elohim em–toda a–terra seus–juízos
+-- c16-v15: Lembrai-vos para–sempre–de sua–aliança palavra ordenou para–mil gerações
+-- c16-v16: Que cortou com Avraham e–seu–juramento a–Yitshaq
+-- c16-v17: E–confirmou-a a–Yaaqov por–estatuto a–Israel aliança–de eternidade
+-- c16-v18: Dizendo a–ti darei terra–de Kenaan cordão–de vossa–herança
+-- c16-v19: Quando–éreis homens–de número poucos e–estrangeiros nela
+-- c16-v20: E–andavam de–nação a nação e–de–reino a povo outro
+-- c16-v21: Não permitiu a–homem para–oprimi-los e–repreendeu por–eles reis
+-- c16-v22: Não toqueis em–meus–ungidos e–a–meus–profetas não façais–mal ¶
+-- c16-v23: Cantai a–YHWH toda a–terra anunciai de–dia a dia sua–salvação
+-- c16-v24: Narrai entre–as–nações (a) sua–glória em–todos os–povos suas–maravilhas
+-- c16-v25: Porque grande YHWH e–digno-de-louvor muito e–temível ele sobre todos deuses
+-- c16-v26: Porque todos deuses–de os–povos ídolos e–YHWH céus fez
+-- c16-v27: Esplendor e–majestade diante–dele força e–alegria em–seu–lugar
+-- c16-v28: Dai a–YHWH famílias–de povos dai a–YHWH glória e–força
+-- c16-v29: Dai a–YHWH glória–de seu–nome levai oferta e–vinde diante–dele prostrai-vos a–YHWH em–esplendor–de santidade
+-- c16-v30: Tremei de–diante–dele toda a–terra também será–firmado mundo não será–abalado
+-- c16-v31: Alegrem-se os–céus e–exulte a–terra e–digam entre–as–nações YHWH reina
+-- c16-v32: Troveje o–mar e–sua–plenitude exulte o–campo e–tudo que nele
+-- c16-v33: Então cantem-de-alegria árvores–de a–floresta de–diante–de YHWH porque vem para–julgar (a) a–terra
+-- c16-v34: Dai-graças a–YHWH porque bom porque para–sempre sua–misericórdia
+-- c16-v35: E–dizei salva-nos Elohim–de nossa–salvação e–ajunta-nos e–livra-nos de as–nações para–dar-graças a–nome–de tua–santidade para–gloriar-se em–teu–louvor
+-- c16-v36: Bendito YHWH Elohim–de Israel de a–eternidade e–até a–eternidade e–disse todo o–povo Amém e–louvai a–YHWH ¶
+-- c16-v37: E–deixou ali diante–de arca–de aliança–de YHWH a–Asaf e–a–seus–irmãos para–ministrar diante–de a–arca continuamente conforme–a–coisa–de dia em–seu–dia
+-- c16-v38: E–Oved–Edom e–seus–irmãos sessenta e–oito e–Oved–Edom filho–de Yedutun e–Hosah como–porteiros
+-- c16-v39: E–(a) Tsadoq o–sacerdote e–seus–irmãos os–sacerdotes diante–de tabernáculo–de YHWH no–alto que em–Givon
+-- c16-v40: Para–fazer-subir holocaustos a–YHWH sobre altar–de o–holocausto continuamente pela–manhã e–à–tarde e–para–todo o–escrito na–Torh–de YHWH que ordenou sobre Israel
+-- c16-v41: E–com–eles Heman e–Yedutun e–resto–de os–escolhidos que foram-designados por–nomes para–dar-graças a–YHWH porque para–sempre sua–misericórdia
+-- c16-v42: E–com–eles Heman e–Yedutun trombetas e–címbalos para–fazer-soar e–instrumentos–de cântico–de o–Elohim e–filhos–de Yedutun para–a–porta
+-- c16-v43: E–foram todo o–povo homem para–sua–casa e–voltou David para–abençoar (a) sua–casa ¶
+-- c17-v1: E–foi quando assentou David em–sua–casa e–disse David a Natan o–profeta Eis eu habito em–casa–de os–cedros e–arca–de aliança–de YHWH debaixo–de cortinas
+-- c17-v2: E–disse Natan a David Tudo que em–teu–coração faze porque o–Elohim contigo §
+-- c17-v3: E–foi na–noite essa e–foi palavra–de Elohim a Natan dizendo
+-- c17-v4: Vai e–diz a David meu–servo Assim disse YHWH Não tu construirás para–mim a–casa para–habitar
+-- c17-v5: Porque não habitei em–casa desde o–dia que fiz-subir (a) Israel até o–dia este e–fui de–tenda a tenda e–de–tabernáculo
+-- c17-v6: Em–todo que andei em–todo Israel acaso–palavra falei a um–de juízes–de Israel que ordenei para–apascentar (a) meu–povo dizendo Por–que não edificastes para–mim casa–de cedros
+-- c17-v7: E–agora assim dirás a–meu–servo a–David § Assim disse YHWH–de exércitos Eu tomei-te de a–pastagem de de–trás–de o–rebanho para–ser líder sobre meu–povo Israel
+-- c17-v8: E–fui contigo em–tudo que andaste e–exterminei (a) todos teus–inimigos de–diante–de–ti e–fiz para–ti nome como–nome–de os–grandes que na–terra
+-- c17-v9: E–colocarei lugar para–meu–povo Israel e–plantarei-o e–habitará debaixo–dele e–não tremerá mais e–não continuarão filhos–de iniquidade a–consumi-lo como no–princípio
+-- c17-v10: E–desde–os–dias que ordenei juízes sobre meu–povo Israel e–subjuguei (a) todos teus–inimigos e–declarei a–ti e–casa edificará para–ti YHWH
+-- c17-v11: E–será quando completarem teus–dias para–ir com teus–pais e–levantarei (a) tua–semente após–ti que será de–teus–filhos e–estabelecerei (a) seu–reino
+-- c17-v12: Ele edificará para–mim casa e–firmarei (a) seu–trono até eternidade
+-- c17-v13: Eu serei a–ele por–pai e–ele será a–mim por–filho e–minha–misericórdia não retirarei de–com–ele como retirei do–que foi antes–de–ti
+-- c17-v14: E–colocarei-o em–minha–casa e–em–meu–reino até a–eternidade e–seu–trono será firme até eternidade
+-- c17-v15: Conforme–todas as–palavras estas e–conforme–toda a–visão esta assim falou Natan a David ¶
+-- c17-v16: E–veio o–rei David e–assentou diante–de YHWH e–disse Quem sou–eu YHWH Elohim e–quem minha–casa que trouxeste-me até aqui
+-- c17-v17: E–foi–pequeno isto em–teus–olhos Elohim e–falaste sobre casa–de teu–servo para–longe e–viste-me como–forma–de o–homem a–elevação YHWH Elohim
+-- c17-v18: Que pode-acrescentar mais David a–ti para–honra–de (a) teu–servo e–tu (a) teu–servo conheces
+-- c17-v19: YHWH por–causa–de teu–servo e–conforme–teu–coração fizeste (a) toda a–grandeza esta para–fazer-saber (a) todas as–grandezas
+-- c17-v20: YHWH não–há como–tu e–não–há Elohim além–de–ti em–tudo que ouvimos com–nossos–ouvidos
+-- c17-v21: E–quem como–teu–povo Israel nação uma na–terra que foi o–Elohim para–resgatar para–si povo para–colocar para–ti nome grandezas e–coisas-terríveis para–expulsar de–diante–de teu–povo que resgataste do–Egito nações
+-- c17-v22: E–deste (a) teu–povo Israel a–ti por–povo até eternidade e–tu YHWH foste para–eles por–Elohim
+-- c17-v23: E–agora YHWH a–palavra que falaste sobre teu–servo e–sobre sua–casa seja–confirmada até eternidade e–faze como falaste
+-- c17-v24: E–seja-confirmado e–seja-engrandecido teu–nome até eternidade dizendo YHWH–de exércitos Elohim–de Israel Elohim para–Israel e–casa–de David teu–servo firme diante–de–ti
+-- c17-v25: Porque tu meu–Elohim revelaste (a) ouvido–de teu–servo para–edificar para–ele casa por isso achou teu–servo para–orar diante–de–ti
+-- c17-v26: E–agora YHWH tu ele o–Elohim e–falaste sobre teu–servo o–bem este
+-- c17-v27: E–agora quiseste abençoar (a) casa–de teu–servo para–ser para–sempre diante–de–ti porque tu YHWH abençoaste e–bendita para–sempre ¶
+-- c18-v1: E–foi depois–de assim e–feriu David (a) os–filisteus e–subjugou-os e–tomou (a) Gat e–suas–filhas da–mão–de os–filisteus
+-- c18-v2: E–feriu (a) Moav e–foram Moav servos de–David trazendo tributo
+-- c18-v3: E–feriu David (a) Hadadezer rei–de Tsovah Hamat quando–foi para–estabelecer sua–mão no–rio Eufrates
+-- c18-v4: E–capturou David dele mil carros e–sete–de milhares cavaleiros e–vinte mil homens–de pé e–aleijou David (a) todos os–carros e–deixou deles cem carros
+-- c18-v5: E–veio Aram–de Damasco para–ajudar a–Hadadezer rei–de Tsovah e–feriu David em–Aram vinte e–dois mil homens
+-- c18-v6: E–colocou David em–Aram–de Damasco e–foi Aram a–David servos trazendo tributo e–salvou YHWH a–David em–tudo que foi
+-- c18-v7: E–tomou David (a) escudos–de o–ouro que estavam sobre servos–de Hadadezer e–trouxe-os Yerushalayim
+-- c18-v8: E–de–Tivhat e–de–Kun cidades–de Hadadezer tomou David bronze muito muito com–ele fez Shelomoh (a) mar–de o–bronze e–(a) as–colunas e–(a) utensílios–de o–bronze ¶
+-- c18-v9: E–ouviu Tou rei–de Hamat que feriu David (a) todo exército–de Hadadezer rei–de Tsovah
+-- c18-v10: E–enviou (a) Hadoram seu–filho a o–rei David [para-perguntar] para–perguntar a–ele de–paz e–para–benze-lo porque que lutou contra–Hadadezer e–feriu-o porque homem–de guerras–de Tou era Hadadezer e–todos utensílios–de ouro e–prata e–bronze
+-- c18-v11: Também eles consagrou o–rei David a–YHWH com a–prata e–o–ouro que trouxe de–todas as–nações de–Edom e–de–Moav e–de–filhos–de Amon e–de–filisteus e–de–Amaleq
+-- c18-v12: E–Avishai filho–de Tseruyah feriu (a) Edom no–vale–de o–sal dezoito dez mil
+-- c18-v13: E–colocou em–Edom guarnio̧es e–foram todos Edom servos de–David e–salvou YHWH (a) David em–tudo que foi
+-- c18-v14: E–reinou David sobre todo Israel e–foi fazendo justiça e–retidão a–todo seu–povo
+-- c18-v15: E–Yoav filho–de Tseruyah sobre o–exército e–Yehoshafat filho–de Ahilud cronista
+-- c18-v16: E–Tsadoq filho–de Ahituv e–Avimelekh filho–de Evyatar sacerdotes e–Shavsha escriba
+-- c18-v17: E–Benayahu filho–de Yehoyada sobre os–queretitas e–os–peletitas e–filhos–de David os–principais para–mão–de o–rei ¶
+-- c19-v1: E–foi depois–de assim e–morreu Nachash rei–de filhos–de Ammon e–reinou seu–filho em–seu–lugar
+-- c19-v2: E–disse David farei bondade com Chanun filho–de Nachash porque fez seu–pai comigo bondade e–enviou David mensageiros para–consolá-lo sobre seu–pai e–vieram servos–de David a terra–de filhos–de Ammon a Chanun para–consolá-lo
+-- c19-v3: E–disseram príncipes–de filhos–de Ammon a–Chanun Acaso–honrando David (a) teu–pai em–teus–olhos que enviou a–ti consoladores Não–é a–fim–de investigar e–derrubar e–espiar a–terra vieram seus–servos a–ti ¶
+-- c19-v4: E–tomou Chanun (a) servos–de David e–raspou-os e–cortou (a) suas–vestes pela–metade até as–nádegas e–enviou-os
+-- c19-v5: E–foram e–contaram a–David sobre os–homens e–enviou ao–encontro–deles porque estavam os–homens envergonhados muito e–disse o–rei ficai em–Jericó até que cresça vossa–barba e–voltareis
+-- c19-v6: E–viram filhos–de Ammon que se–tornaram–fétidos com David e–enviou Chanun e–filhos–de Ammon mil talentos–de prata para–alugar para–si de Aram–Naharaim e–de Aram Maacá e–Tsová carros e–cavaleiros
+-- c19-v7: E–alugaram para–si trinta e–dois mil carros e–(a) rei–de Maacá e–(a) seu–povo e–vieram e–acamparam diante–de Medvá e–filhos–de Ammon se–reuniram de–suas–cidades e–vieram para–a–guerra ¶
+-- c19-v8: E–ouviu David e–enviou (a) Yoav e–(a) todo exército–de os–guerreiros
+-- c19-v9: E–saíram filhos–de Ammon e–dispuseram-se para–guerra entrada–de a–cidade e–os–reis que vieram sozinhos no–campo
+-- c19-v10: E–viu Yoav que estava face–de a–batalha contra–ele face e–atrás e–escolheu de–todo jovem em–Israel e–dispôs-se ao–encontro–de Aram
+-- c19-v11: E–(a) resto–de o–povo deu na–mão–de Avshai seu–irmão e–dispuseram-se ao–encontro–de filhos–de Ammon
+-- c19-v12: E–disse Se for–forte mais–que–eu Aram e–serás para–mim para–salvação § e–se filhos–de Ammon forem–fortes mais–que–ti e–salvar-te-ei
+-- c19-v13: Sê–forte e–fortaleçamo-nos por nosso–povo e–por cidades–de nosso–Deus e–YHVH o–bom em–seus–olhos fará
+-- c19-v14: E–aproximou-se Yoav e–o–povo que com–ele diante–de Aram para–a–batalha e–fugiram de–diante–dele
+-- c19-v15: E–filhos–de Ammon viram que fugiu Aram e–fugiram também eles de–diante–de Avshai seu–irmão e–entraram na–cidade e–veio Yoav Jerusalém ¶
+-- c19-v16: E–viu Aram que foram–derrotados diante–de Israel e–enviaram mensageiros e–tiraram (a) Aram que do–outro–lado–de o–rio e–Shofach comandante–de exército–de Hadadezer diante–deles
+-- c19-v17: E–foi–dito a–David e–reuniu (a) todo Israel e–atravessou o–Jordão e–veio a–eles e–dispôs-se a–eles e–dispôs David ao–encontro–de Aram guerra e–lutaram com–ele
+-- c19-v18: E–fugiu Aram de–diante–de Israel e–matou David de–Aram sete mil carros e–quarenta mil homens de–pé e–(a) Shofach comandante–de o–exército matou
+-- c19-v19: E–viram servos–de Hadadezer que foram–derrotados diante–de Israel e–fizeram–paz com David e–serviram-no e–não quis Aram salvar (a) filhos–de Ammon mais ¶
+-- c20-v1: E–foi no–tempo–de retorno–de o–ano no–tempo–de saída–de os–reis e–conduziu Yoav (a) força–de o–exército e–devastou (a) terra–de filhos–de Ammon e–veio e–sitiou (a) Rabá e–David permanecia em–Jerusalém e–feriu Yoav (a) Rabá e–destruiu-a
+-- c20-v2: E–tomou David (a) coroa–de seu–rei de–sobre sua–cabeça e–achou-a peso–de talento–de ouro e–nela pedra preciosa e–foi sobre cabeça–de David e–despojo–de a–cidade tirou muito muito
+-- c20-v3: E–(a) o–povo que nela tirou e–serrou com–a–serra e–com–trilhos–de o–ferro e–com–machados e–assim fazia David a–todas cidades–de filhos–de Ammon e–voltou David e–todo o–povo Jerusalém ¶
+-- c20-v4: E–foi depois–disso e–levantou-se guerra em–Gezer com os–filisteus então feriu Sibecai o–chushatita (a) Sipai dos–descendentes–de os–refaítas e–foram–subjugados
+-- c20-v5: E–houve ainda guerra com os–filisteus e–feriu Elchanan filho–de [Yaur] (Yair) (a) Lachmi irmão–de Goliat o–gatita e–madeira–de sua–lança como–vara–de tecelões
+-- c20-v6: E–houve ainda guerra em–Gat e–havia homem de–medida e–seus–dedos seis e–seis vinte e–quatro e–também ele nasceu para–o–refaíta
+-- c20-v7: E–afrontou (a) Israel e–feriu-o Yehonatan filho–de Shima irmão–de David
+-- c20-v8: Estes nasceram para–o–refaíta em–Gat e–caíram pela–mão–de David e–pela–mão–de seus–servos ¶
+-- c21-v1: E–levantou-se Satan contra Israel e–incitou (a) David para–contar (a) Israel
+-- c21-v2: E–disse David a Yoav e–a príncipes–de o–povo ide contai (a) Israel de–Beer-Sheva e–até Dan e–trazei a–mim e–saberei (a) seu–número
+-- c21-v3: E–disse Yoav acrescente YHVH sobre seu–povo como–eles cem vezes não meu–senhor o–rei todos–eles de–meu–senhor para–servos por–que busca isto meu–senhor por–que será para–culpa para–Israel
+-- c21-v4: E–palavra–de o–rei prevaleceu sobre Yoav e–saiu Yoav e–andou em–todo Israel e–veio Jerusalém
+-- c21-v5: E–deu Yoav (a) número–de contagem–de o–povo a David e–foi todo Israel mil milhares e–cem mil homens desembainhando espada e–Judá quatro centenas e–setenta mil homens desembainhando espada
+-- c21-v6: E–Levi e–Benjamin não contou entre–eles porque era–abominável palavra–de o–rei (a) Yoav
+-- c21-v7: E–foi–mau aos–olhos–de o–Deus sobre a–coisa esta e–feriu (a) Israel ¶
+-- c21-v8: E–disse David a o–Deus pequei muito que fiz (a) a–coisa esta e–agora faze–passar por–favor (a) iniquidade–de teu–servo porque agi–tolamente muito ¶
+-- c21-v9: E–falou YHVH a Gad vidente–de David dizendo
+-- c21-v10: vai e–falarás a David dizendo assim disse YHVH três eu ofereço sobre–ti escolhe para–ti uma delas e–farei para–ti
+-- c21-v11: E–veio Gad a David e–disse a–ele assim disse YHVH aceita para–ti
+-- c21-v12: Se três anos fome e–se três meses sendo–varrido de–diante–de teus–adverssários e–espada–de teus–inimigos alcançando e–se três dias espada–de YHVH e–peste na–terra e–anjo–de YHVH destruindo em–todo território–de Israel e–agora vê que respondo (a) meu–enviador palavra ¶
+-- c21-v13: E–disse David a Gad angústia para–mim muito caierei por–favor na–mão–de YHVH porque muitas suas–misericórdias muito e–na–mão–de homem não cairei
+-- c21-v14: E–deu YHVH peste em–Israel e–caíram de–Israel setenta mil homens
+-- c21-v15: E–enviou o–Deus anjo a–Jerusalém para–destruí-la e–quando–destruía viu YHVH e–arrependeu-se sobre o–mal e–disse ao–anjo o–destruidor basta agora solta tua–mão e–anjo–de YHVH estava junto–de eira–de Ornan o–jebuseu §
+-- c21-v16: E–levantou David (a) seus–olhos e–viu (a) anjo–de YHVH de–pé entre a–terra e–entre os–céus e–sua–espada desembainhada em–sua–mão estendida sobre Jerusalém e–caiu David e–os–anciãos cobertos com–sacos sobre seus–rostos
+-- c21-v17: E–disse David a o–Deus não eu disse para–contar no–povo e–eu ele que pequei e–fazendo-mal fiz–mal e–estas as–ovelhas que fizeram YHVH meu–Deus seja por–favor tua–mão em–mim e–na–casa–de meu–pai e–em–teu–povo não para–praga §
+-- c21-v18: E–anjo–de YHVH disse a Gad dizendo a–David que suba David para–levantar altar para–YHVH na–eira–de Ornan o–jebuseu
+-- c21-v19: E–subiu David pela–palavra–de Gad que falou em–nome–de YHVH
+-- c21-v20: E–voltou-se Ornan e–viu (a) o–anjo e–quatro seus–filhos com–ele escondendo-se e–Ornan debulhava trigo
+-- c21-v21: E–veio David até Ornan e–olhou Ornan e–viu (a) David e–saiu de a–eira e–prostrou-se a–David rosto à–terra
+-- c21-v22: E–disse David a Ornan dá a–mim lugar–de a–eira e–edificarei nele altar para–YHVH por–prata completa dá-o a–mim e–será–detida a–praga de–sobre o–povo
+-- c21-v23: E–disse Ornan a David toma para–ti e–faça meu–senhor o–rei o–bom em–seus–olhos vê dou os–bois para–holocaustos e–os–trilhos para–lenha e–o–trigo para–oferta-de-cereal tudo dou
+-- c21-v24: E–disse o–rei David a–Ornan não porque comprando comprarei por–prata completa porque não tomarei o–que é–teu para–YHVH e–oferecer holocausto de–graça
+-- c21-v25: E–deu David a–Ornan pelo–lugar siclos–de ouro peso–de seis centos
+-- c21-v26: E–edificou ali David altar para–YHVH e–ofereceu holocaustos e–ofertas–pacíficas e–clamou a YHVH e–respondeu-lhe com–fogo de os–céus sobre altar–de o–holocausto ¶
+-- c21-v27: E–disse YHVH ao–anjo e–devolveu sua–espada a sua–bainha
+-- c21-v28: Naquele–tempo aquele quando–viu David que respondeu-lhe YHVH na–eira–de Ornan o–jebuseu e–sacrificou ali
+-- c21-v29: E–tabernáculo–de YHVH que fez Moisés no–deserto e–altar–de o–holocausto naquele–tempo aquele no–alto em–Gibeão
+-- c21-v30: E–não podia David ir diante–dele para–buscar Deus porque estava–aterrorizado de–diante–de espada–de anjo–de YHVH §
+-- c22-v1: E–disse David esta ela casa–de YHWH o–Deus e–este altar para–holocausto para–Israel §
+-- c22-v2: E–disse David para–reunir (a) os–estrangeiros que em–terra–de Israel e–designou cortadores para–cortar pedras–de cantaria para–construir casa–de o–Deus
+-- c22-v3: E–ferro em–abundância para–os–pregos para–portas–de os–portões e–para–as–braçadeiras preparou David e–bronze em–abundância não–há peso
+-- c22-v4: e–madeiras–de cedros sem número pois trouxeram os–sidônios e–os–tírios madeiras–de cedros em–abundância para–David ¶
+-- c22-v5: E–disse David Shelomoh meu–filho jovem e–tenro e–a–casa para–construir para–YHWH para–engrandecer acima para–nome e–para–glória para–todas as–terras prepararei por–favor para–ele e–preparou David em–abundância antes–de sua–morte
+-- c22-v6: E–chamou a–Shelomoh seu–filho e–ordenou–lhe para–construir casa para–YHWH Deus–de Israel §
+-- c22-v7: E–disse David a–Shelomoh [seu–filho] (meu–filho) eu estava com meu–coração para–construir casa para–nome–de YHWH meu–Deus
+-- c22-v8: E–foi sobre–mim palavra–de YHWH dizendo sangue em–abundância derramaste e–guerras grandes fizeste não construirás casa para–meu–nome pois sangues muitos derramaste à–terra diante–de–mim
+-- c22-v9: Eis filho nascido para–ti ele será homem–de descanso e–darei–descanso a–ele de–todos seus–inimigos ao–redor pois Shelomoh será seu–nome e–paz e–tranquilidade darei sobre Israel em–seus–dias
+-- c22-v10: Ele construirá casa para–meu–nome e–ele será para–mim por–filho e–eu para–ele por–pai e–estabelecerei trono–de seu–reino sobre Israel até eternidade
+-- c22-v11: Agora meu–filho seja YHWH contigo e–prosperarás e–construirás casa–de YHWH teu–Deus conforme falou sobre–ti
+-- c22-v12: Somente dê a–ti YHWH sabedoria e–entendimento e–te–ordene sobre Israel e–para–guardar (a) lei–de YHWH teu–Deus
+-- c22-v13: Então prosperarás se guardares para–fazer (a) os–estatutos e–(a) os–juízos que ordenou YHWH (a) Mosheh sobre Israel sê–forte e–corajoso não temas e–não desanimes
+-- c22-v14: E–eis em–minha–aflição preparei para–casa–de YHWH ouro talentos cem mil e–prata mil milhares–de talentos e–para–o–bronze e–para–o–ferro não–há peso pois em–abundância foi e–madeiras e–pedras preparei e–sobre–eles acrescentarás
+-- c22-v15: E–contigo em–abundância fazedores–de trabalho cortadores e–artesãos–de pedra e–madeira e–todo sábio em–todo trabalho
+-- c22-v16: Para–o–ouro para–a–prata e–para–o–bronze e–para–o–ferro não–há número Levanta–te e–faze e–seja YHWH contigo
+-- c22-v17: E–ordenou David a–todos príncipes–de Israel para–ajudar a–Shelomoh seu–filho
+-- c22-v18: Não–está YHWH vosso–Deus convosco e–deu–descanso a–vós ao–redor pois deu em–minha–mão (a) habitantes–de a–terra e–foi–subjugada a–terra diante–de YHWH e–diante–de seu–povo
+-- c22-v19: Agora dai vosso–coração e–vossa–alma para–buscar a–YHWH vosso–Deus e–levantai–vos e–construí (a) santuário–de YHWH o–Deus para–trazer (a) arca–de aliança–de YHWH e–utensílios–de santidade–de o–Deus para–a–casa a–construída para–nome–de YHWH ¶
+-- c23-v1: E–David velho e–satisfeito–de dias e–fez–reinar (a) Shelomoh seu–filho sobre Israel
+-- c23-v2: E–reuniu (a) todos príncipes–de Israel e–os–sacerdotes e–os–levitas
+-- c23-v3: E–foram–contados os–levitas de–filho–de trinta ano e–acima e–foi seu–número por–suas–cabeças por–homens trinta e–oito mil
+-- c23-v4: Destes para–supervisionar sobre obra–de casa–de YHWH vinte e–quatro mil e–oficiais e–juízes seis mil
+-- c23-v5: e–quatro mil porteiros e–quatro mil louvadores a–YHWH com–os–instrumentos que fiz para–louvar
+-- c23-v6: E–dividiu–os David divisões § para–filhos–de Levi para–Gershon Qehat e–Merari §
+-- c23-v7: Para–o–gershonita La‘dan e–Shim‘i §
+-- c23-v8: Filhos–de La‘dan o–chefe Yehi'el e–Zetam e–Yo'el três §
+-- c23-v9: Filhos–de Shim‘i [Shelomot] (Shelomit) e–Hazi'el e–Haran três estes chefes–de os–pais para–La‘dan §
+-- c23-v10: E–filhos–de Shim‘i Yahat Zina e–Ye‘ush e–Beri‘ah estes filhos–de Shim‘i quatro
+-- c23-v11: E–foi Yahat o–chefe e–Zizah o–segundo e–Ye‘ush e–Beri‘ah não multiplicaram filhos e–foram por–casa–de pai por–registro uma §
+-- c23-v12: Filhos–de Qehat ‘Amram Yitshar Hevron e–‘Uzzi'el quatro §
+-- c23-v13: Filhos–de ‘Amram Aharon e–Mosheh e–foi–separado Aharon para–consagrá–lo santidade–de santidades ele e–seus–filhos até eternidade para–queimar–incenso diante–de YHWH para–servi–lo e–para–abençoar em–seu–nome até eternidade
+-- c23-v14: E–Mosheh homem–de o–Deus seus–filhos foram–chamados sobre tribo–de o–levita
+-- c23-v15: Filhos–de Mosheh Gershom e–Eli‘ezer
+-- c23-v16: Filhos–de Gershom Shevu'el o–chefe
+-- c23-v17: E–foram filhos–de Eli‘ezer Rehavyah o–chefe e–não havia para–Eli‘ezer filhos outros e–filhos–de Rehavyah multiplicaram–se acima
+-- c23-v18: Filhos–de Yitshar Shelomit o–chefe §
+-- c23-v19: Filhos–de Hevron Yeriyyahu o–chefe Amaryah o–segundo Yahazi'el o–terceiro e–Yeqam‘am o–quarto
+-- c23-v20: Filhos–de ‘Uzzi'el Mikhah o–chefe e–Yishshiyyah o–segundo §
+-- c23-v21: Filhos–de Merari Mahli e–Mushi filhos–de Mahli El‘azar e–Qish
+-- c23-v22: E–morreu El‘azar e–não havia para–ele filhos senão somente filhas e–tomaram–nas filhos–de Qish seus–irmãos
+-- c23-v23: Filhos–de Mushi Mahli e–‘Eder e–Yeremot três
+-- c23-v24: Estes filhos–de Levi por–casa–de seus–pais chefes–de os–pais por–seus–registros em–número–de nomes por–suas–cabeças fazedor–de o–trabalho para–serviço–de casa–de YHWH de–filho–de vinte ano e–acima
+-- c23-v25: Pois disse David deu–descanso YHWH Deus–de Israel a–seu–povo e–habita em–Yerushalayim até eternidade
+-- c23-v26: E–também para–os–levitas não–há para–carregar (a) o–tabernáculo e–(a) todos seus–utensílios para–seu–serviço
+-- c23-v27: Pois pelas–palavras–de David as–últimas elas número–de filhos–de Levi de–filho–de vinte ano e–acima
+-- c23-v28: Pois sua–posição ao–lado–de filhos–de Aharon para–serviço–de casa–de YHWH sobre os–pátios e–sobre as–câmaras e–sobre purificação–de para–toda santidade e–obra–de serviço–de casa–de o–Deus
+-- c23-v29: E–para–pão–de a–disposição e–para–farinha–de oferta–de–cereais e–para–bolos–de os–ázimos e–para–a–frigideira e–para–o–misturado e–para–toda medida e–capacidade
+-- c23-v30: E–para–estar na–manhã na–manhã para–agradecer e–para–louvar a–YHWH e–assim para–a–tarde
+-- c23-v31: E–para–toda a–oferta–de holocaustos a–YHWH para–os–sábados para–os–meses e–para–as–festas em–número conforme–o–regulamento sobre–eles continuamente diante–de YHWH
+-- c23-v32: E–guardarão (a) guarda–de tenda–de encontro e–(a) guarda–de o–santo e–guarda–de filhos–de Aharon seus–irmãos para–serviço–de casa–de YHWH ¶
+-- c24-v1: E–para–filhos–de Aharon suas–divisões filhos–de Aharon Nadav e–Avihu El‘azar e–Itamar
+-- c24-v2: E–morreu Nadav e–Avihu diante–de seu–pai e–filhos não havia para–eles e–serviram–como–sacerdotes El‘azar e–Itamar
+-- c24-v3: E–dividiu–os David e–Tsadoq de filhos–de El‘azar e–Ahimeleq de filhos–de Itamar para–seu–registro em–seu–serviço
+-- c24-v4: E–foram–encontrados filhos–de El‘azar muitos para–chefes–de os–homens de filhos–de Itamar e–dividiram–nos para–filhos–de El‘azar chefes por–casa–de pais dezesseis  e–para–filhos–de Itamar por–casa–de seus–pais oito
+-- c24-v5: E–dividiram–nos por–sortes estes com estes pois eram príncipes–de santidade e–príncipes–de o–Deus de–filhos–de El‘azar e–entre–filhos–de Itamar §
+-- c24-v6: E–escreveu–os Shema‘yah filho–de Netan'el o–escriba de o–levita diante–de o–rei e–os–príncipes e–Tsadoq o–sacerdote e–Ahimeleq filho–de Evyatar e–chefes–de os–pais para–os–sacerdotes e–para–os–levitas casa–de pai uma tomada para–El‘azar e–tomada tomada para–Itamar ¶
+-- c24-v7: E–saiu o–sorte a–primeira para–Yehoyariv para–Yeda‘yah a–segunda
+-- c24-v8: para–Harim a–terceira para–Se‘orim a–quarta
+-- c24-v9: para–Malkiyyah a–quinta para–Miyyamin a–sexta
+-- c24-v10: para–Haqqots a–sétima para–Aviyyah a–oitava
+-- c24-v11: para–Yeshua‘ a–nona para–Sheqanyahu a–décima
+-- c24-v12: para–Elyashiv décima primeira para–Yaqim duas décima
+-- c24-v13: para–Huppah três décima para–Yeshev'av quatro décima
+-- c24-v14: para–Bilgah cinco décima para–Immer seis décima
+-- c24-v15: para–Hezir sete décima para–Happitsets oito décima
+-- c24-v16: para–Petahyah nove décima para–Yehezqe'l a–vigésima
+-- c24-v17: para–Yakhin uma e–vinte para–Gamul duas e–vinte
+-- c24-v18: para–Delayahu três e–vinte para–Ma‘azyahu quatro e–vinte ¶
+-- c24-v19: Estes seus–registros para–seu–serviço para–entrar em–casa–de YHWH conforme–seu–regulamento por–mão–de Aharon seu–pai conforme ordenou–lhe YHWH Deus–de Israel ¶
+-- c24-v20: E–para–filhos–de Levi os–restantes para–filhos–de ‘Amram Shuva'el para–filhos–de Shuva'el Yehdeyahu
+-- c24-v21: para–Rehavyahu para–filhos–de Rehavyahu o–chefe Yishshiyyah
+-- c24-v22: para–o–yitsharita Shelomot para–filhos–de Shelomot Yahat
+-- c24-v23: E–filhos Yeriyyahu Amaryahu o–segundo Yahazi'el o–terceiro Yeqam‘am o–quarto
+-- c24-v24: Filhos–de ‘Uzzi'el Mikhah para–filhos–de Mikhah [Shamur] (Shamir)
+-- c24-v25: Irmão–de Mikhah Yishshiyyah para–filhos–de Yishshiyyah Zekharyahu
+-- c24-v26: Filhos–de Merari Mahli e–Mushi filhos–de Ya‘aziyyahu seu–filho
+-- c24-v27: Filhos–de Merari para–Ya‘aziyyahu seu–filho e–Shoham e–Zakkur e–‘Ivri
+-- c24-v28: Para–Mahli El‘azar e–não havia para–ele filhos
+-- c24-v29: Para–Qish filhos–de Qish Yerahme'el
+-- c24-v30: E–filhos–de Mushi Mahli e–‘Eder e–Yerimot estes filhos–de os–levitas por–casa–de seus–pais
+-- c24-v31: E–lançaram também eles sortes defronte–de seus–irmãos filhos–de Aharon diante–de David o–rei e–Tsadoq e–Ahimeleq e–chefes–de os–pais para–os–sacerdotes e–para–os–levitas pais–de o–chefe defronte–de seu–irmão o–menor §
+-- c25-v1: E–separou David e–príncipes–de o–exército para–o–serviço para–filhos–de Asaf e–Heman e–Yedutun [os–profetas] (os–profetizantes) com–harpas com–alaúdes e–com–címbalos e–foi seu–número homens–de trabalho para–seu–serviço
+-- c25-v2: Para–filhos–de Asaf Zakkur e–Yosef e–Netanyah e–Asar'elah filhos–de Asaf sobre mão–de Asaf o–profetizante sobre mãos–de o–rei
+-- c25-v3: Para–Yedutun filhos–de Yedutun Gedalyahu e–Tseri e–Yesha‘yahu Hashavyahu e–Mattityahu seis sobre mãos–de seu–pai Yedutun com–a–harpa o–profetizante sobre agradecer e–louvar a–YHWH §
+-- c25-v4: Para–Heman filhos–de Heman Buqqiyyahu Mattanyahu ‘Uzzi'el Shevu'el e–Yerimot Hananyah Hanani Eli'atah Giddalti e–Romamti–‘Ezer Yoshbeqashah Malloti Hotir Mahazi'ot
+-- c25-v5: Todos estes filhos para–Heman vidente–de o–rei em–palavras–de o–Deus para–exaltar chifre e–deu o–Deus para–Heman filhos quatorze  e–filhas três
+-- c25-v6: Todos estes sobre mãos–de seu–pai no–cântico casa–de YHWH com–címbalos alaúdes e–harpas para–serviço–de casa–de o–Deus sobre mãos–de o–rei § Asaf e–Yedutun e–Heman
+-- c25-v7: E–foi seu–número com seus–irmãos instruídos–em cântico para–YHWH todo o–entendido duzentos oitenta e–oito
+-- c25-v8: E–lançaram sortes guarda igualmente como–o–pequeno como–o–grande entendido com aprendiz ¶
+-- c25-v9: E–saiu a–sorte a–primeira para–Asaf para–Yosef Gedalyahu o–segundo ele e–seus–irmãos e–seus–filhos doze 
+-- c25-v10: O–terceiro Zakkur seus–filhos e–seus–irmãos doze 
+-- c25-v11: O–quarto para–Yitsri seus–filhos e–seus–irmãos doze 
+-- c25-v12: O–quinto Netanyahu seus–filhos e–seus–irmãos doze 
+-- c25-v13: O–sexto Buqqiyyahu seus–filhos e–seus–irmãos doze 
+-- c25-v14: O–sétimo Yesar'elah seus–filhos e–seus–irmãos doze 
+-- c25-v15: O–oitavo Yesha‘yahu seus–filhos e–seus–irmãos doze 
+-- c25-v16: O–nono Mattanyahu seus–filhos e–seus–irmãos doze 
+-- c25-v17: O–décimo Shim‘i seus–filhos e–seus–irmãos doze 
+-- c25-v18: Décimo primeiro ‘Azar'el seus–filhos e–seus–irmãos doze 
+-- c25-v19: O–dois décimo para–Hashavyah seus–filhos e–seus–irmãos doze 
+-- c25-v20: Para–três décimo Shuva'el seus–filhos e–seus–irmãos doze 
+-- c25-v21: Para–quatro décimo Mattityahu seus–filhos e–seus–irmãos doze 
+-- c25-v22: Para–cinco décimo para–Yeremot seus–filhos e–seus–irmãos doze 
+-- c25-v23: Para–seis décimo para–Hananyahu seus–filhos e–seus–irmãos doze 
+-- c25-v24: Para–sete décimo para–Yoshbeqashah seus–filhos e–seus–irmãos doze 
+-- c25-v25: Para–oito décimo para–Hanani seus–filhos e–seus–irmãos doze 
+-- c25-v26: Para–nove décimo para–Malloti seus–filhos e–seus–irmãos doze 
+-- c25-v27: Para–vinte para–Eliyyatah seus–filhos e–seus–irmãos doze 
+-- c25-v28: Para–um e–vinte para–Hotir seus–filhos e–seus–irmãos doze 
+-- c25-v29: Para–dois e–vinte para–Giddalti seus–filhos e–seus–irmãos doze 
+-- c25-v30: Para–três e–vinte para–Mahazi'ot seus–filhos e–seus–irmãos doze 
+-- c25-v31: Para–quatro e–vinte para–Romamti–‘Ezer seus–filhos e–seus–irmãos doze  ¶
+-- c26-v1: Para–divisões–de para–os–porteiros para–os–qorahitas Meshelemyahu filho–de Qore de filhos–de Asaf
+-- c26-v2: E–para–Meshelemyahu filhos Zekharyahu o–primogênito Yedi‘a'el o–segundo Zevadyahu o–terceiro Yatni'el o–quarto
+-- c26-v3: ‘Elam o–quinto Yehohanan o–sexto Elyeho‘enay o–sétimo
+-- c26-v4: E–para–‘Oved–'Edom filhos Shema‘yah o–primogênito Yehozavad o–segundo Yo'ah o–terceiro e–Sakhar o–quarto e–Netan'el o–quinto
+-- c26-v5: ‘Ammi'el o–sexto Yissakhar o–sétimo Pe‘ulletay o–oitavo pois abençoou–o Deus ¶
+-- c26-v6: E–para–Shema‘yah seu–filho nasceram filhos os–dominadores em–casa–de seu–pai pois guerreiros–de valor eles
+-- c26-v7: Filhos–de Shema‘yah ‘Otni e–Refa'el e–‘Oved Elzavad seus–irmãos filhos–de valor Elihu e–Semakhyahu
+-- c26-v8: Todos estes de–filhos–de ‘Oved–'Edom eles e–seus–filhos e–seus–irmãos homem–de valor com–a–força para–o–serviço sessenta e–dois para–‘Oved–'Edom
+-- c26-v9: E–para–Meshelemyahu filhos e–irmãos filhos–de valor dezoito  §
+-- c26-v10: E–para–Hosah de filhos–de Merari filhos Shimri o–chefe pois não era primogênito e–designou–o seu–pai por–chefe
+-- c26-v11: Hilqiyyahu o–segundo Tevalyahu o–terceiro Zekharyahu o–quarto todos filhos e–irmãos para–Hosah treze 
+-- c26-v12: Para–estes divisões–de os–porteiros para–chefes–de os–homens guardas igualmente seus–irmãos para–servir em–casa–de YHWH
+-- c26-v13: E–lançaram sortes como–o–pequeno como–o–grande por–casa–de seus–pais por–portão e–portão ¶
+-- c26-v14: E–caiu a–sorte para–o–oriente para–Shelemyah e–Zekharyahu seu–filho conselheiro em–sabedoria lançaram sortes e–saiu sua–sorte para–o–norte §
+-- c26-v15: Para–‘Oved–'Edom para–o–sul e–para–seus–filhos casa–de os–armazens
+-- c26-v16: Para–Shuppim e–para–Hosah para–o–ocidente com portão–de Shalekhet na–estrada a–que–sobe guarda defronte guarda
+-- c26-v17: Para–o–oriente os–levitas seis para–o–norte por–dia quatro para–o–sul por–dia quatro e–para–os–armazéns dois dois
+-- c26-v18: Para–o–Parbar para–o–ocidente quatro para–a–estrada dois para–o–Parbar
+-- c26-v19: Estas divisões–de os–porteiros para–filhos–de o–qorahita e–para–filhos–de Merari
+-- c26-v20: E–os–levitas Ahiyyah sobre tesouros–de casa–de o–Deus e–para–tesouros–de as–coisas–santas
+-- c26-v21: Filhos–de La‘dan filhos–de o–gershonita para–La‘dan chefes–de os–pais para–La‘dan o–gershonita Yehi'eli
+-- c26-v22: Filhos–de Yehi'eli Zetam e–Yo'el seu–irmão sobre tesouros–de casa–de YHWH
+-- c26-v23: Para–o–‘amramita para–o–yitsharita para–o–hevronita para–o–‘uzzi'elita
+-- c26-v24: E–Shevu'el filho–de Gershom filho–de Mosheh líder sobre os–tesouros
+-- c26-v25: E–seus–irmãos para–Eli‘ezer Rehavyahu seu–filho e–Yesha‘yahu seu–filho e–Yoram seu–filho e–Zikhri seu–filho [e–Shelomot] (e–Shelomit) seu–filho
+-- c26-v26: Ele Shelomot e–seus–irmãos sobre todos tesouros–de as–coisas–santas que consagrou David o–rei e–chefes–de os–pais para–príncipes–de os–milhares e–os–centos e–príncipes–de o–exército
+-- c26-v27: De as–guerras e–de o–despojo consagraram para–fortalecer para–casa–de YHWH
+-- c26-v28: E–todo o–que–consagrou Shemu'el o–vidente e–Sha'ul filho–de Qish e–Avner filho–de Ner e–Yo'av filho–de Tseruyah todo o–consagrante sobre mão–de Shelomit e–seus–irmãos ¶
+-- c26-v29: Para–o–yitsharita Kenanyahu e–seus–filhos para–o–trabalho o–exterior sobre Israel por–oficiais e–por–juízes
+-- c26-v30: Para–o–hevronita Hashavyahu e–seus–irmãos filhos–de valor mil e–sete centos sobre supervisão–de Israel do–outro–lado–de o–Jordão para–o–ocidente para–toda obra–de YHWH e–para–serviço–de o–rei
+-- c26-v31: Para–o–hevronita Yeriyyah o–chefe para–o–hevronita para–suas–gerações para–pais no–ano–de o–quarenta para–reinado–de David foram–buscados e–foram–encontrados entre–eles guerreiros–de valor em–Ya‘zer–de Gil‘ad
+-- c26-v32: E–seus–irmãos filhos–de valor dois–mil e–sete centos chefes–de os–pais e–designou–os David o–rei sobre o–reubenita e–o–gadita e–metade–de tribo–de o–manassita para–todo assunto–de o–Deus e–assunto–de o–rei ¶
+-- c27-v1: E–filhos–de Israel pelo–seu–número chefes–de os–pais e–príncipes–de os–milhares e–os–centos e–seus–oficiais os–que–serviam (a) o–rei para–cada assunto–de as–divisões a–que–entrava e–a–que–saía mês por–mês para–todos meses–de o–ano a–divisão a–uma vinte e–quatro mil §
+-- c27-v2: Sobre a–divisão a–primeira para–o–mês o–primeiro Yashoveam filho–de Zavdiel e–sobre sua–divisão vinte e–quatro mil
+-- c27-v3: De filhos–de Perets o–chefe de–todos príncipes–de os–exércitos para–o–mês o–primeiro
+-- c27-v4: E–sobre divisão–de o–mês o–segundo Dodai o–aoita e–sua–divisão e–Miclot o–líder e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v5: Príncipe–de o–exército o–terceiro para–o–mês o–terceiro Benayahu filho–de Yehoyada o–sacerdote chefe e–sobre sua–divisão vinte e–quatro mil
+-- c27-v6: Ele Benayahu guerreiro–de os–trinta e–sobre os–trinta e–sua–divisão Amizavad seu–filho §
+-- c27-v7: O–quarto para–o–mês o–quarto Asael irmão–de Yoav e–Zevadyah seu–filho depois–dele e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v8: O–quinto para–o–mês o–quinto o–príncipe Shamhut o–izraita e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v9: O–sexto para–o–mês o–sexto Ira filho–de Iquesh o–tecoita e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v10: O–sétimo para–o–mês o–sétimo Chelets o–pelonita de filhos–de Efraim e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v11: O–oitavo para–o–mês o–oitavo Sibecai o–chushatita para–o–zeraita e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v12: O–nono para–o–mês o–nono Aviezer o–anatotita [para-benjaminita] (para–o–filho) (de–Jemini) e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v13: O–décimo para–o–mês o–décimo Mahrai o–netofatita para–o–zeraita e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v14: Décimo primeiro para–décimo primeiro o–mês Benayah o–piratonita de filhos–de Efraim e–sobre sua–divisão vinte e–quatro mil §
+-- c27-v15: Décimo segundo para–décimo segundo o–mês Cheldai o–netofatita para–Otniel e–sobre sua–divisão vinte e–quatro mil ¶
+-- c27-v16: E–sobre tribos–de Israel para–o–rubenita líder Eliezer filho–de Zicri § para–o–simeonita Shefatyahu filho–de Maacá §
+-- c27-v17: Para–Levi Chashavyah filho–de Kemuel para–Arão Tsadoc §
+-- c27-v18: Para–Judá Eliahu dos–irmãos–de David para–Issacar Omri filho–de Micael §
+-- c27-v19: Para–Zebulom Yishmayahu filho–de Ovadyahu para–Naftali Yerimot filho–de Azriel §
+-- c27-v20: Para–filhos–de Efraim Hoshea filho–de Azazyahu para–meia tribo–de Manassés Yoel filho–de Pedayahu §
+-- c27-v21: Para–meia de–Manassés Gileade Ido filho–de Zecaryahu § para–Benjamin Yaasiel filho–de Avner §
+-- c27-v22: Para–Dan Azarel filho–de Yerocham estes príncipes–de tribos–de Israel
+-- c27-v23: E–não levantou David seu–número dos–de–idade–de vinte anos e–para–baixo porque disse YHVH multiplicar (a) Israel como–estrelas–de os–céus
+-- c27-v24: Yoav filho–de Tseruyá começou a–contar e–não terminou e–houve por–isso ira sobre Israel e–não subiu o–número no–número–de crônicas–de os–dias para–o–rei David §
+-- c27-v25: E–sobre tesouros–de o–rei Azmavet filho–de Adiel § e–sobre os–tesouros no–campo nas–cidades e–nas–aldeias e–nas–torres Yehonatan filho–de Uziyáhu §
+-- c27-v26: E–sobre fazedores–de trabalho–de o–campo para–serviço–de a–terra Ezri filho–de Keluv
+-- c27-v27: E–sobre as–vinhas Shimi o–ramatita e–sobre o–que–nas–vinhas para–tesouros–de o–vinho Zavdi o–shefamita §
+-- c27-v28: E–sobre as–oliveiras e–os–sicômoros que na–planície Baal-Chanan o–gederita § e–sobre tesouros–de o–azeite Yoash §
+-- c27-v29: E–sobre os–bois os–que–pastavam em–Sharão [Shetrai] (Shirtai) o–sharonita e–sobre os–bois nos–vales Shafat filho–de Adlai §
+-- c27-v30: E–sobre os–camelos Ovil o–ismaelita e–sobre as–jumentas Yechdeyahu o–meronotita §
+-- c27-v31: E–sobre as–ovelhas Yaziz o–hagrita todos estes príncipes–de os–bens que para–o–rei David
+-- c27-v32: E–Yehonatan tio–de David conselheiro homem–de entendimento e–escriba ele e–Yechiel filho–de Cacmoni com filhos–de o–rei
+-- c27-v33: E–Achitofel conselheiro do–rei § e–Chushai o–arquita amigo–de o–rei
+-- c27-v34: E–depois–de Achitofel Yehoyada filho–de Benayahu e–Evyatar e–comandante–de exército–de o–rei Yoav ¶
+-- c28-v1: E–reuniu David (a) todos príncipes–de Israel príncipes–de as–tribos e–príncipes–de as–divisões os–que–serviam (a) o–rei e–príncipes–de os–milhares e–príncipes–de os–centos e–príncipes–de todos bens–e gado para–o–rei e–para–seus–filhos com os–oficiais e–os–guerreiros e–para–todo guerreiro–de valor a Jerusalém
+-- c28-v2: E–levantou-se David o–rei sobre seus–pés e–disse ouvi-me meus–irmãos e–meu–povo eu com meu–coração de–construir casa–de descanso para–arca–de aliança–de YHVH e–para–estrado–de pés–de nosso–Deus e–preparei para–construir
+-- c28-v3: E–o–Deus disse a–mim não construirás casa para–meu–nome porque homem–de guerras tu e–sangues derramaste
+-- c28-v4: E–escolheu YHVH Deus–de Israel em–mim de–toda casa–de meu–pai para–ser para–rei sobre Israel para–sempre porque em–Judá escolheu para–líder e–na–casa–de Judá casa–de meu–pai e–entre–filhos–de meu–pai em–mim agradou-se para–reinar sobre todo Israel
+-- c28-v5: E–de–todos meus–filhos porque muitos filhos deu a–mim YHVH e–escolheu em–Shlomo meu–filho para–sentar sobre trono–de reino–de YHVH sobre Israel
+-- c28-v6: E–disse a–mim Shlomo teu–filho ele construirá minha–casa e–meus–átrios porque escolhi nele para–mim para–filho e–eu serei a–ele para–pai
+-- c28-v7: E–estabelecerei (a) seu–reino até para–sempre se for–forte para–fazer meus–mandamentos e–meus–juízos como–o–dia este
+-- c28-v8: E–agora aos–olhos–de todo Israel assembleia–de YHVH e–nos–ouvidos–de nosso–Deus guardai e–buscai todos mandamentos–de YHVH vosso–Deus a–fim–de–que possuais (a) a–terra a–boa e–deixareis–como–herança a–vossos–filhos depois–de–vós até para–sempre ¶
+-- c28-v9: E–tu Shlomo meu–filho conhece (a) Deus–de teu–pai e–serve-o com–coração inteiro e–com–alma desejosa porque todo corações busca YHVH e–todo formação–de pensamentos entende se buscá-lo será–achado por–ti e–se abandoná-lo te–rejeitará para–sempre
+-- c28-v10: Vê agora que YHVH escolheu em–ti para–construir casa para–o–santuário sê–forte e–faze ¶
+-- c28-v11: E–deu David a–Shlomo seu–filho (a) planta–de o–pórtico e–(a) suas–casas e–seus–tesouros e–seus–cômodos–superiores e–seus–quartos os–interiores e–casa–de o–propiciatório
+-- c28-v12: E–planta–de tudo que estava no–espírito com–ele para–átrios–de casa–de YHVH e–para–todas as–câmaras ao–redor para–tesouros–de casa–de o–Deus e–para–tesouros–de as–coisas–sagradas
+-- c28-v13: E–para–divisões–de os–sacerdotes e–os–levitas e–para–todo trabalho–de serviço–de casa–de YHVH e–para–todos utensílios–de serviço–de casa–de YHVH
+-- c28-v14: Para–o–ouro pelo–peso para–o–ouro para–todos utensílios–de serviço e–serviço para–todos utensílios–de a–prata pelo–peso para–todos utensílios–de serviço e–serviço
+-- c28-v15: E–peso para–candelabros–de o–ouro e–suas–lâmpadas ouro pelo–peso–de candelabro e–candelabro e–suas–lâmpadas e–para–candelabros–de a–prata pelo–peso para–candelabro e–suas–lâmpadas conforme–o–serviço–de candelabro e–candelabro
+-- c28-v16: E–(a) o–ouro peso para–mesas–de a–disposição para–mesa e–mesa e–prata para–mesas–de a–prata
+-- c28-v17: E–os–garfos e–as–bacias e–as–taças ouro puro e–para–taças–de o–ouro pelo–peso para–taça e–taça e–para–taças–de a–prata pelo–peso para–taça e–taça
+-- c28-v18: E–para–altar–de o–incenso ouro refinado pelo–peso e–para–planta–de o–carro os–querubins ouro estendendo e–cobrindo sobre arca–de aliança–de YHVH
+-- c28-v19: Tudo em–escrito de–mão–de YHVH sobre–mim fez–entender todos trabalhos–de a–planta ¶
+-- c28-v20: E–disse David a–Shlomo seu–filho sê–forte e–firme e–faze não temas e–não desanimes porque YHVH Deus meu–Deus contigo não te–largará e–não te–abandonará até terminar todo trabalho–de serviço–de casa–de YHVH
+-- c28-v21: E–eis divisões–de os–sacerdotes e–os–levitas para–todo serviço–de casa–de o–Deus e–contigo em–todo trabalho para–todo voluntário com–sabedoria para–todo serviço e–os–príncipes e–todo o–povo para–todas tuas–palavras ¶
+-- c29-v1: E–disse David o–rei a–toda a–assembleia Shlomo meu–filho um escolheu nele Deus jovem e–tenro e–o–trabalho grande porque não para–homem o–palácio porque para–YHVH Deus
+-- c29-v2: E–com–toda minha–força preparei para–casa–de meu–Deus o–ouro para–o–ouro e–a–prata para–a–prata e–o–bronze para–o–bronze o–ferro para–o–ferro e–as–madeiras para–as–madeiras pedras–de ônix e–engastes pedras–de antimonio e–bordado e–toda pedra preciosa e–pedras–de mármore em–abundância
+-- c29-v3: E–ainda no–meu–prazer na–casa–de meu–Deus há para–mim tesouro–particular ouro e–prata dou para–casa–de meu–Deus para–cima de–tudo que–preparei para–casa–de o–Santo
+-- c29-v4: Três mil talentos–de ouro de–ouro–de Ofir e–sete mil talentos–de prata refinada para–revestir paredes–de as–casas
+-- c29-v5: Para–o–ouro para–o–ouro e–para–a–prata para–a–prata e–para–todo trabalho pela–mão–de artesaos e–quem se–oferece–voluntariamente para–encher sua–mão hoje para–YHVH
+-- c29-v6: E–ofereceram–voluntariamente príncipes–de os–pais e–príncipes–de tribos–de Israel e–príncipes–de os–milhares e–os–centos e–para–príncipes–de trabalho–de o–rei
+-- c29-v7: E–deram para–serviço–de casa–de o–Deus ouro talentos cinco mil e–dariques dez–mil e–prata talentos dez mil e–bronze dezoito–mil e–oito mil talentos e–ferro cem mil talentos
+-- c29-v8: E–o–que–achava-se com–ele pedras deram para–tesouro–de casa–de YHVH sobre mão–de Yechiel o–gershonita
+-- c29-v9: E–regozijou-se o–povo sobre seu–oferecer–voluntariamente porque com–coração inteiro ofereceram–voluntariamente para–YHVH e–também David o–rei regozijou-se alegria grande ¶
+-- c29-v10: E–abençoou David (a) YHVH aos–olhos–de toda a–assembleia e–disse David bendito tu YHVH Deus–de Israel nosso–pai desde–sempre e–até sempre
+-- c29-v11: Tua YHVH a–grandeza e–o–poder e–a–glória e–a–vitória e–a–majestade porque tudo nos–céus e–na–terra teu YHVH o–reino e–o–que–se–exalta sobre–tudo como–cabeça
+-- c29-v12: E–a–riqueza e–a–honra de–diante–de–ti e–tu governas em–tudo e–em–tua–mão força e–poder e–em–tua–mão engrandecer e–fortalecer a–tudo
+-- c29-v13: E–agora nosso–Deus agradecemos nós a–ti e–louvamos a–nome–de tua–glória
+-- c29-v14: E–porém quem eu e–quem meu–povo que retemos força para–oferecer–voluntariamente assim porque de–ti tudo e–de–tua–mão demos a–ti
+-- c29-v15: Porque estrangeiros nós diante–de–ti e–peregrinos como–todos nossos–pais como–sombra nossos–dias sobre a–terra e–não–há esperança
+-- c29-v16: YHVH nosso–Deus toda esta–abundância esta que preparamos para–construir para–ti casa para–nome–de tua–santidade de–tua–mão [ela] (ele) e–teu tudo
+-- c29-v17: E–sei meu–Deus que tu provas coração e–retidões te–agradam eu na–retidão–de meu–coração ofereci–voluntariamente todas estas e–agora teu–povo os–que–se–encontram aqui vi com–alegria para–oferecer–voluntariamente a–ti
+-- c29-v18: YHVH Deus–de Abraão Isaac e–Israel nossos–pais guarda isto para–sempre para–formação–de pensamentos–de coração–de teu–povo e–prepara seu–coração a–ti
+-- c29-v19: E–a–Shlomo meu–filho dá coração inteiro para–guardar teus–mandamentos teus–testemunhos e–teus–estatutos e–para–fazer tudo e–para–construir o–palácio que preparei ¶
+-- c29-v20: E–disse David a–toda a–assembleia abençoai por–favor (a) YHVH vosso–Deus e–abençoou toda a–assembleia a–YHVH Deus–de seus–pais e–inclinaram-se e–prostraram-se a–YHVH e–ao–rei
+-- c29-v21: E–sacrificaram a–YHVH sacrifícios e–ofereceram holocaustos a–YHVH no–dia–seguinte do–dia aquele touros mil carneiros mil cordeiros mil e–suas–libações e–sacrifícios em–abundância para–todo Israel
+-- c29-v22: E–comeram e–beberam diante–de YHVH no–dia aquele com–alegria grande e–fizeram–rei segunda–vez a–Shlomo filho–de David e–ungiram para–YHVH para–líder e–a–Tsadoc para–sacerdote
+-- c29-v23: E–sentou-se Shlomo sobre trono–de YHVH como–rei em–lugar–de David seu–pai e–prosperou e–ouviram a–ele todo Israel
+-- c29-v24: E–todos os–príncipes e–os–guerreiros e–também todos filhos–de o–rei David deram mão sob Shlomo o–rei
+-- c29-v25: E–engrandeceu YHVH (a) Shlomo para–cima aos–olhos–de todo Israel e–deu sobre–ele esplendor–de reino que não houve sobre todo rei antes–dele sobre Israel ¶
+-- c29-v26: E–David filho–de Yishai reinou sobre todo Israel
+-- c29-v27: E–os–dias que reinou sobre Israel quarenta anos em–Hevrom reinou sete anos e–em–Jerusalém reinou trinta e–três
+-- c29-v28: E–morreu em–velhice boa cheio–de dias riqueza e–honra e–reinou Shlomo seu–filho em–seu–lugar
+-- c29-v29: E–atos–de David o–rei os–primeiros e–os–últimos eis–que escritos sobre atos–de Shemuel o–vidente e–sobre atos–de Natan o–profeta e–sobre atos–de Gad o–vidente
+-- c29-v30: Com todo seu–reino e–seu–poder e–os–tempos que passaram sobre–ele e–sobre Israel e–sobre todos reinos–de as–terras ¶
 
 BEGIN;
 -- 1300100101: אָדָ֥ם (H0121) → "Adam" [opus-4.5-chirho]

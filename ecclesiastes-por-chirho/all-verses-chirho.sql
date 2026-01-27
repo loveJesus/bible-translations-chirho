@@ -3,230 +3,230 @@
 -- — John 3:16
 
 -- ECCLESIASTES - POR Combined
--- Generated: 2026-01-27T21:46:40Z
+-- Generated: 2026-01-27T22:19:54Z
 
--- ECCLESIASTES c1-v1 - POR
--- ECCLESIASTES c1-v2 - POR
--- ECCLESIASTES c1-v3 - POR
--- ECCLESIASTES c1-v4 - POR
--- ECCLESIASTES c1-v5 - POR
--- ECCLESIASTES c1-v6 - POR
--- ECCLESIASTES c1-v7 - POR
--- ECCLESIASTES c1-v8 - POR
--- ECCLESIASTES c1-v9 - POR
--- ECCLESIASTES c1-v10 - POR
--- ECCLESIASTES c1-v11 - POR
--- ECCLESIASTES c1-v12 - POR
--- ECCLESIASTES c1-v13 - POR
--- ECCLESIASTES c1-v14 - POR
--- ECCLESIASTES c1-v15 - POR
--- ECCLESIASTES c1-v16 - POR
--- ECCLESIASTES c1-v17 - POR
--- ECCLESIASTES c1-v18 - POR
--- ECCLESIASTES c2-v1 - POR
--- ECCLESIASTES c2-v2 - POR
--- ECCLESIASTES c2-v3 - POR
--- ECCLESIASTES c2-v4 - POR
--- ECCLESIASTES c2-v5 - POR
--- ECCLESIASTES c2-v6 - POR
--- ECCLESIASTES c2-v7 - POR
--- ECCLESIASTES c2-v8 - POR
--- ECCLESIASTES c2-v9 - POR
--- ECCLESIASTES c2-v10 - POR
--- ECCLESIASTES c2-v11 - POR
--- ECCLESIASTES c2-v12 - POR
--- ECCLESIASTES c2-v13 - POR
--- ECCLESIASTES c2-v14 - POR
--- ECCLESIASTES c2-v15 - POR
--- ECCLESIASTES c2-v16 - POR
--- ECCLESIASTES c2-v17 - POR
--- ECCLESIASTES c2-v18 - POR
--- ECCLESIASTES c2-v19 - POR
--- ECCLESIASTES c2-v20 - POR
--- ECCLESIASTES c2-v21 - POR
--- ECCLESIASTES c2-v22 - POR
--- ECCLESIASTES c2-v23 - POR
--- ECCLESIASTES c2-v24 - POR
--- ECCLESIASTES c2-v25 - POR
--- ECCLESIASTES c2-v26 - POR
--- ECCLESIASTES c3-v1 - POR
--- ECCLESIASTES c3-v2 - POR
--- ECCLESIASTES c3-v3 - POR
--- ECCLESIASTES c3-v4 - POR
--- ECCLESIASTES c3-v5 - POR
--- ECCLESIASTES c3-v6 - POR
--- ECCLESIASTES c3-v7 - POR
--- ECCLESIASTES c3-v8 - POR
--- ECCLESIASTES c3-v9 - POR
--- ECCLESIASTES c3-v10 - POR
--- ECCLESIASTES c3-v11 - POR
--- ECCLESIASTES c3-v12 - POR
--- ECCLESIASTES c3-v13 - POR
--- ECCLESIASTES c3-v14 - POR
--- ECCLESIASTES c3-v15 - POR
--- ECCLESIASTES c3-v16 - POR
--- ECCLESIASTES c3-v17 - POR
--- ECCLESIASTES c3-v18 - POR
--- ECCLESIASTES c3-v19 - POR
--- ECCLESIASTES c3-v20 - POR
--- ECCLESIASTES c3-v21 - POR
--- ECCLESIASTES c3-v22 - POR
--- ECCLESIASTES c4-v1 - POR
--- ECCLESIASTES c4-v2 - POR
--- ECCLESIASTES c4-v3 - POR
--- ECCLESIASTES c4-v4 - POR
--- ECCLESIASTES c4-v5 - POR
--- ECCLESIASTES c4-v6 - POR
--- ECCLESIASTES c4-v7 - POR
--- ECCLESIASTES c4-v8 - POR
--- ECCLESIASTES c4-v9 - POR
--- ECCLESIASTES c4-v10 - POR
--- ECCLESIASTES c4-v11 - POR
--- ECCLESIASTES c4-v12 - POR
--- ECCLESIASTES c4-v13 - POR
--- ECCLESIASTES c4-v14 - POR
--- ECCLESIASTES c4-v15 - POR
--- ECCLESIASTES c4-v16 - POR
--- ECCLESIASTES c5-v1 - POR
--- ECCLESIASTES c5-v2 - POR
--- ECCLESIASTES c5-v3 - POR
--- ECCLESIASTES c5-v4 - POR
--- ECCLESIASTES c5-v5 - POR
--- ECCLESIASTES c5-v6 - POR
--- ECCLESIASTES c5-v7 - POR
--- ECCLESIASTES c5-v8 - POR
--- ECCLESIASTES c5-v9 - POR
--- ECCLESIASTES c5-v10 - POR
--- ECCLESIASTES c5-v11 - POR
--- ECCLESIASTES c5-v12 - POR
--- ECCLESIASTES c5-v13 - POR
--- ECCLESIASTES c5-v14 - POR
--- ECCLESIASTES c5-v15 - POR
--- ECCLESIASTES c5-v16 - POR
--- ECCLESIASTES c5-v17 - POR
--- ECCLESIASTES c5-v18 - POR
--- ECCLESIASTES c5-v19 - POR
--- ECCLESIASTES c5-v20 - POR
--- ECCLESIASTES c6-v1 - POR
--- ECCLESIASTES c6-v2 - POR
--- ECCLESIASTES c6-v3 - POR
--- ECCLESIASTES c6-v4 - POR
--- ECCLESIASTES c6-v5 - POR
--- ECCLESIASTES c6-v6 - POR
--- ECCLESIASTES c6-v7 - POR
--- ECCLESIASTES c6-v8 - POR
--- ECCLESIASTES c6-v9 - POR
--- ECCLESIASTES c6-v10 - POR
--- ECCLESIASTES c6-v11 - POR
--- ECCLESIASTES c6-v12 - POR
--- ECCLESIASTES c7-v1 - POR
--- ECCLESIASTES c7-v2 - POR
--- ECCLESIASTES c7-v3 - POR
--- ECCLESIASTES c7-v4 - POR
--- ECCLESIASTES c7-v5 - POR
--- ECCLESIASTES c7-v6 - POR
--- ECCLESIASTES c7-v7 - POR
--- ECCLESIASTES c7-v8 - POR
--- ECCLESIASTES c7-v9 - POR
--- ECCLESIASTES c7-v10 - POR
--- ECCLESIASTES c7-v11 - POR
--- ECCLESIASTES c7-v12 - POR
--- ECCLESIASTES c7-v13 - POR
--- ECCLESIASTES c7-v14 - POR
--- ECCLESIASTES c7-v15 - POR
--- ECCLESIASTES c7-v16 - POR
--- ECCLESIASTES c7-v17 - POR
--- ECCLESIASTES c7-v18 - POR
--- ECCLESIASTES c7-v19 - POR
--- ECCLESIASTES c7-v20 - POR
--- ECCLESIASTES c7-v21 - POR
--- ECCLESIASTES c7-v22 - POR
--- ECCLESIASTES c7-v23 - POR
--- ECCLESIASTES c7-v24 - POR
--- ECCLESIASTES c7-v25 - POR
--- ECCLESIASTES c7-v26 - POR
--- ECCLESIASTES c7-v27 - POR
--- ECCLESIASTES c7-v28 - POR
--- ECCLESIASTES c7-v29 - POR
--- ECCLESIASTES c8-v1 - POR
--- ECCLESIASTES c8-v2 - POR
--- ECCLESIASTES c8-v3 - POR
--- ECCLESIASTES c8-v4 - POR
--- ECCLESIASTES c8-v5 - POR
--- ECCLESIASTES c8-v6 - POR
--- ECCLESIASTES c8-v7 - POR
--- ECCLESIASTES c8-v8 - POR
--- ECCLESIASTES c8-v9 - POR
--- ECCLESIASTES c8-v10 - POR
--- ECCLESIASTES c8-v11 - POR
--- ECCLESIASTES c8-v12 - POR
--- ECCLESIASTES c8-v13 - POR
--- ECCLESIASTES c8-v14 - POR
--- ECCLESIASTES c8-v15 - POR
--- ECCLESIASTES c8-v16 - POR
--- ECCLESIASTES c8-v17 - POR
--- ECCLESIASTES c9-v1 - POR
--- ECCLESIASTES c9-v2 - POR
--- ECCLESIASTES c9-v3 - POR
--- ECCLESIASTES c9-v4 - POR
--- ECCLESIASTES c9-v5 - POR
--- ECCLESIASTES c9-v6 - POR
--- ECCLESIASTES c9-v7 - POR
--- ECCLESIASTES c9-v8 - POR
--- ECCLESIASTES c9-v9 - POR
--- ECCLESIASTES c9-v10 - POR
--- ECCLESIASTES c9-v11 - POR
--- ECCLESIASTES c9-v12 - POR
--- ECCLESIASTES c9-v13 - POR
--- ECCLESIASTES c9-v14 - POR
--- ECCLESIASTES c9-v15 - POR
--- ECCLESIASTES c9-v16 - POR
--- ECCLESIASTES c9-v17 - POR
--- ECCLESIASTES c9-v18 - POR
--- ECCLESIASTES c10-v1 - POR
--- ECCLESIASTES c10-v2 - POR
--- ECCLESIASTES c10-v3 - POR
--- ECCLESIASTES c10-v4 - POR
--- ECCLESIASTES c10-v5 - POR
--- ECCLESIASTES c10-v6 - POR
--- ECCLESIASTES c10-v7 - POR
--- ECCLESIASTES c10-v8 - POR
--- ECCLESIASTES c10-v9 - POR
--- ECCLESIASTES c10-v10 - POR
--- ECCLESIASTES c10-v11 - POR
--- ECCLESIASTES c10-v12 - POR
--- ECCLESIASTES c10-v13 - POR
--- ECCLESIASTES c10-v14 - POR
--- ECCLESIASTES c10-v15 - POR
--- ECCLESIASTES c10-v16 - POR
--- ECCLESIASTES c10-v17 - POR
--- ECCLESIASTES c10-v18 - POR
--- ECCLESIASTES c10-v19 - POR
--- ECCLESIASTES c10-v20 - POR
--- ECCLESIASTES c11-v1 - POR
--- ECCLESIASTES c11-v2 - POR
--- ECCLESIASTES c11-v3 - POR
--- ECCLESIASTES c11-v4 - POR
--- ECCLESIASTES c11-v5 - POR
--- ECCLESIASTES c11-v6 - POR
--- ECCLESIASTES c11-v7 - POR
--- ECCLESIASTES c11-v8 - POR
--- ECCLESIASTES c11-v9 - POR
--- ECCLESIASTES c11-v10 - POR
--- ECCLESIASTES c12-v1 - POR
--- ECCLESIASTES c12-v2 - POR
--- ECCLESIASTES c12-v3 - POR
--- ECCLESIASTES c12-v4 - POR
--- ECCLESIASTES c12-v5 - POR
--- ECCLESIASTES c12-v6 - POR
--- ECCLESIASTES c12-v7 - POR
--- ECCLESIASTES c12-v8 - POR
--- ECCLESIASTES c12-v9 - POR
--- ECCLESIASTES c12-v10 - POR
--- ECCLESIASTES c12-v11 - POR
--- ECCLESIASTES c12-v12 - POR
--- ECCLESIASTES c12-v13 - POR
--- ECCLESIASTES c12-v14 - POR
+-- c1-v1: Palavras–de Qohelet filho–de David rei em–Yerushalaim
+-- c1-v2: Vaidade de–vaidades disse Qohelet vaidade de–vaidades o–tudo é–vaidade
+-- c1-v3: O–que proveito para–o–homem em–todo trabalho–seu que–ele–trabalha debaixo–de o–sol
+-- c1-v4: Geração vai e–geração vem e–a–terra para–sempre permanece
+-- c1-v5: E–nasce o–sol e–se–põe o–sol e–para lugar–seu anelando nascendo ele ali
+-- c1-v6: Indo para o–sul e–girando para o–norte girando girando vai o–vento e–sobre circuitos–seus retorna o–vento
+-- c1-v7: Todos os–ribeiros vão para o–mar e–o–mar não–está cheio para o–lugar que–os–ribeiros vão ali eles retornam para–ir
+-- c1-v8: Todas as–coisas são–fatigantes não pode o–homem falar não se–farta o–olho de–ver e–não se–enche o–ouvido de–ouvir
+-- c1-v9: O–que foi isso será e–o–que foi–feito isso se–fará e–não–há nada novo debaixo–de o–sol
+-- c1-v10: Há coisa que–dirá vê isso é–novo é já foi para–os–séculos que foi antes–de–nós
+-- c1-v11: Não–há lembrança para–os–primeiros e–também para–os–últimos que–serão não haverá para–eles lembrança com os–que–serão depois ¶
+-- c1-v12: Eu Qohelet fui rei sobre Yisrael em–Yerushalaim
+-- c1-v13: E–pus (a) coração–meu para–buscar e–para–investigar com–sabedoria sobre tudo que é–feito debaixo–de os–céus isso é–ocupação má deu Elohim aos–filhos–de o–homem para–se–ocupar com–ela
+-- c1-v14: Vi (a) todas as–obras que–foram–feitas debaixo–de o–sol e–eis o–tudo é–vaidade e–aflição–de espírito
+-- c1-v15: O–torto não pode ser–endireitado e–a–falta não pode ser–contada
+-- c1-v16: Falei eu com coração–meu dizendo eu eis engrandeci e–acrescentei sabedoria sobre todos que foram antes–de–mim sobre Yerushalaim e–coração–meu viu muito sabedoria e–conhecimento
+-- c1-v17: E–pus coração–meu para–conhecer sabedoria e–conhecer loucura e–insensatez soube que–também isso é aflição–de espírito
+-- c1-v18: Porque em–muita sabedoria muito desgosto e–quem–acrescenta conhecimento acrescenta dor
+-- c2-v1: Disse eu em–coração–meu vem por–favor te–provarei com–alegria e–vê em–bem e–eis também isso é–vaidade
+-- c2-v2: Ao–riso disse é–louco e–à–alegria o–que isso faz
+-- c2-v3: Busquei em–coração–meu para–atrair com–o–vinho (a) carne–minha e–coração–meu guiando com–sabedoria e–para–agarrar em–insensatez até que eu–visse qual isso é–bom para–os–filhos–de o–homem que eles–façam debaixo–de os–céus o–número–de os–dias–de vidas–deles
+-- c2-v4: Engrandeci obras–minhas construí para–mim casas plantei para–mim vinhas
+-- c2-v5: Fiz para–mim jardins e–pomares e–plantei neles árvore–de todo fruto
+-- c2-v6: Fiz para–mim tanques–de águas para–regar deles o–bosque brotando árvores
+-- c2-v7: Adquiri servos e–servas e–filhos–de casa havia para–mim também gado vacas e–ovelhas muito havia para–mim mais–que–todos os–que–foram antes–de–mim em–Yerushalaim
+-- c2-v8: Ajuntei para–mim também prata e–ouro e–tesouro–de reis e–as–províncias fiz para–mim cantores e–cantoras e–delícias–de os–filhos–de o–homem mulher e–mulheres
+-- c2-v9: E–engrandeci–me e–acrescentei mais–que–todos os–que–foram antes–de–mim em–Yerushalaim também sabedoria–minha permaneceu para–mim
+-- c2-v10: E–tudo que pediram olhos–meus não retive deles não neguei (a) coração–meu de–toda alegria porque coração–meu alegrava–se de–todo trabalho–meu e–isso era porção–minha de–todo trabalho–meu
+-- c2-v11: E–voltei–me eu em–todas obras–minhas que–fizeram mãos–minhas e–no–trabalho que–trabalhei para–fazer e–eis o–tudo é–vaidade e–aflição–de espírito e–não–há proveito debaixo–de o–sol
+-- c2-v12: E–voltei–me eu para–ver sabedoria e–loucura e–insensatez porque o–que é–o–homem que–virá depois–de o–rei (a) que já fizeram
+-- c2-v13: E–vi eu que–há proveito para–a–sabedoria mais–que a–insensatez como–vantagem a–luz mais–que a–escuridão
+-- c2-v14: O–sábio olhos–seus na–cabeça–sua e–o–tolo na–escuridão anda e–soube também eu que–destino um acontece (a) todos–eles
+-- c2-v15: E–disse eu em–coração–meu como–destino–de o–tolo também eu me–acontecerá e–por–que me–tornei–sábio eu então mais e–falei em–coração–meu que–também isso é–vaidade
+-- c2-v16: Porque não–há lembrança para–o–sábio com o–tolo para–sempre pois–já os–dias vindouros o–tudo é–esquecido e–como morre o–sábio com o–tolo
+-- c2-v17: E–odiei (a) a–vida porque é–má sobre–mim a–obra que–é–feita debaixo–de o–sol porque o–tudo é–vaidade e–aflição–de espírito
+-- c2-v18: E–odiei eu (a) todo trabalho–meu que–eu trabalho debaixo–de o–sol que–deixarei para–o–homem que–será depois–de–mim
+-- c2-v19: E–quem sabe o–sábio será ou tolo e–governará em–todo trabalho–meu que–trabalhei e–que–tornei–sábio debaixo–de o–sol também isso é–vaidade
+-- c2-v20: E–voltei eu para–desesperar (a) coração–meu sobre todo o–trabalho que–trabalhei debaixo–de o–sol
+-- c2-v21: Porque há homem que–trabalho–seu é–com–sabedoria e–com–conhecimento e–com–habilidade e–a–homem que–não trabalhou nele dará porção–sua também isso é–vaidade e–mal grande
+-- c2-v22: Porque o–que há para–o–homem em–todo trabalho–seu e–na–aflição–de coração–seu que–ele trabalha debaixo–de o–sol
+-- c2-v23: Porque todos dias–seus são–dores e–desgosto ocupação–sua também na–noite não descansa coração–seu também isso é–vaidade é
+-- c2-v24: Não–há bem para–o–homem que–coma e–beba e–faça–ver (a) alma–sua bem em–trabalho–seu também isso vi eu que da–mão–de o–Elohim é
+-- c2-v25: Porque quem comerá e–quem terá–prazer afora de–mim
+-- c2-v26: Porque ao–homem que–é–bom diante–dele dá sabedoria e–conhecimento e–alegria e–ao–pecador dá ocupação para–ajuntar e–para–recolher para–dar ao–bom diante–de o–Elohim também isso é–vaidade e–aflição–de espírito
+-- c3-v1: Para–tudo há–tempo e–momento para–todo assunto debaixo–de os–céus §
+-- c3-v2: Tempo para–nascer e–tempo para–morrer tempo para–plantar e–tempo para–arrancar o–plantado
+-- c3-v3: Tempo para–matar e–tempo para–curar tempo para–derrubar e–tempo para–edificar
+-- c3-v4: Tempo para–chorar e–tempo para–rir tempo para–prantear e–tempo para–dançar
+-- c3-v5: Tempo para–lançar pedras e–tempo para–recolher pedras tempo para–abraçar e–tempo para–afastar–se de–abraçar
+-- c3-v6: Tempo para–buscar e–tempo para–perder tempo para–guardar e–tempo para–lançar–fora
+-- c3-v7: Tempo para–rasgar e–tempo para–coser tempo para–calar e–tempo para–falar
+-- c3-v8: Tempo para–amar e–tempo para–odiar tempo–de guerra e–tempo–de paz §
+-- c3-v9: O–que é–proveito para–o–que–faz naquilo–que ele trabalha
+-- c3-v10: Vi (a) a–ocupação que deu Elohim aos–filhos–de o–homem para–se–ocupar com–ela
+-- c3-v11: (a) o–tudo fez formoso em–tempo–seu também (a) a–eternidade pôs no–coração–deles sem–que que não descubra o–homem (a) a–obra que fez o–Elohim desde–o–princípio e–até o–fim
+-- c3-v12: Soube que não–há bem neles senão se alegrar–se e–fazer bem na–vida–sua
+-- c3-v13: E–também todo o–homem que–coma e–beba e–veja bem em–todo trabalho–seu é–dom–de Elohim é
+-- c3-v14: Soube que tudo que fará o–Elohim isso será para–sempre sobre–ele não–há para–acrescentar e–dele não–há para–diminuir e–o–Elohim fez para–que–temam de–diante–dele
+-- c3-v15: O–que foi já é e–o–que há–de–ser já foi e–o–Elohim busca (a) o–perseguido
+-- c3-v16: E–ainda vi debaixo–de o–sol lugar–de o–juízo ali a–maldade e–lugar–de a–justiça ali a–maldade
+-- c3-v17: Disse eu em–coração–meu (a) o–justo e–(a) o–ímpio julgará o–Elohim porque tempo para–todo assunto e–sobre toda a–obra ali
+-- c3-v18: Disse eu em–coração–meu sobre o–assunto–de os–filhos–de o–homem para–prová–los o–Elohim e–para–ver que–eles é–animal eles para–si
+-- c3-v19: Porque destino–de os–filhos–de o–homem e–destino–de o–animal e–destino um para–eles como–morte–de este assim é–morte–de este e–espírito um para–todos e–vantagem–de o–homem sobre o–animal não–há porque o–tudo é–vaidade
+-- c3-v20: O–tudo vai para lugar um o–tudo foi do pó e–o–tudo retorna para o–pó
+-- c3-v21: Quem sabe o–espírito–de os–filhos–de o–homem aquele–que–sobe ela para–cima e–espírito–de o–animal aquele–que–desce ela para–baixo para–a–terra
+-- c3-v22: E–vi que não–há bem senão–que se–alegre o–homem nas–obras–suas porque ela é–porção–sua porque quem o–trará para–ver em–o–que será depois–dele
+-- c4-v1: E–voltei eu e–vi (a) todas as–opressões que são–feitas debaixo–de o–sol e–eis lágrimas–de os–oprimidos e–não–há para–eles consolador e–da–mão–de opressores–seus força e–não–há para–eles consolador
+-- c4-v2: E–louvei eu (a) os–mortos que–já morreram mais–que os–vivos que eles ainda–estão–vivos até–agora
+-- c4-v3: E–melhor que–os–dois (a) aquele–que ainda não existiu que não viu (a) a–obra má que é–feita debaixo–de o–sol
+-- c4-v4: E–vi eu (a) todo trabalho e–(a) toda habilidade–de a–obra que ela é–inveja–de homem de–próximo–seu também isso é–vaidade e–aflição–de espírito
+-- c4-v5: O–tolo cruza (a) mãos–suas e–come (a) carne–sua
+-- c4-v6: Melhor é–palma–cheia–de mão de–descanso que–duas–mãos–cheias–de punhos de–trabalho e–aflição–de espírito
+-- c4-v7: E–voltei eu e–vi vaidade debaixo–de o–sol
+-- c4-v8: Há um e–não–há segundo também filho ou–irmão não–há para–ele e–não–há fim para–todo trabalho–seu também [olhos–seus] (olho–seu) não se–farta de–riqueza e–para–quem eu trabalho e–privo (a) alma–minha de–bem também isso é–vaidade e–ocupação má é
+-- c4-v9: Melhores os–dois que o–um que há para–eles recompensa boa no–trabalho–deles
+-- c4-v10: Porque se caírem o–um levantará (a) companheiro–seu mas–ai do–um que–cair e–não–há segundo para–levantá–lo
+-- c4-v11: Também se deitarem dois e–há–calor para–eles mas–para–o–um como se–aquecerá
+-- c4-v12: E–se prevalecer o–um os–dois resistirão contra–ele e–o–cordão de–três–fios não rapidamente se–rompe
+-- c4-v13: Melhor é–menino pobre e–sábio que–rei velho e–tolo que não sabe ser–advertido mais
+-- c4-v14: Porque de–casa–de os–prisioneiros saiu para–reinar porque também no–reino–seu nasceu pobre
+-- c4-v15: Vi (a) todos os–vivos os–que–andam debaixo–de o–sol com o–menino o–segundo que ficará–em–pé em–lugar–dele
+-- c4-v16: Não–há fim para–todo o–povo para–todos que foram antes–deles também os–últimos não se–alegrarão nele porque também isso é–vaidade e–aflição–de espírito
+-- c5-v1: Guarda [pés–teus] (pé–teu) quando fores a casa–de o–Elohim e–aproxima–te para–ouvir mais–que–dar os–tolos sacrifício porque não sabem fazer mal
+-- c5-v2: Não te–apresses com boca–tua e–coração–teu não se–apresse para–proferir palavra diante–de o–Elohim porque o–Elohim nos–céus e–tu sobre a–terra portanto por–isso sejam palavras–tuas poucas
+-- c5-v3: Porque vem o–sonho em–muita ocupação e–voz–de tolo em–muitas palavras
+-- c5-v4: Quando fizeres–voto de–voto a–Elohim não demores para–cumpri–lo porque não–há prazer nos–tolos (a) o–que votares cumpre
+-- c5-v5: Melhor que não votes do–que–votares e–não cumpras
+-- c5-v6: Não deixes (a) boca–tua fazer–pecar (a) carne–tua e–não digas diante–de o–anjo que é–erro é por–que se–irará o–Elohim sobre voz–tua e–destruirá (a) obra–de mãos–tuas
+-- c5-v7: Porque em–muitos sonhos e–vaidades e–palavras muitas antes (a) o–Elohim teme
+-- c5-v8: Se opressão–de pobre e–roubo–de juízo e–justiça vires na–província não te–admires sobre o–assunto porque alto de–sobre alto guarda e–altos sobre–eles
+-- c5-v9: E–vantagem–de terra em–tudo [ela] (ele) rei para–campo é–servido
+-- c5-v10: Quem–ama prata não se–farta–de prata e–quem ama em–abundância não há–renda também isso é–vaidade
+-- c5-v11: Ao–multiplicar–se o–bem multiplicam–se os–que–comem–dele e–o–que é–vantagem para–donos–seus senão se [ver] (ver) olhos–seus
+-- c5-v12: Doce é–sono–de o–trabalhador se pouco ou–se muito come e–a–saciedade do–rico não–o deixa ele dormir
+-- c5-v13: Há mal doentio vi debaixo–de o–sol riqueza guardada para–dono–seu para–mal–seu
+-- c5-v14: E–perece a–riqueza aquela em–ocupação má e–gera filho e–não–há em–mão–sua nada
+-- c5-v15: Como saiu do–ventre–de mãe–sua nu retornará para–ir como–veio e–nada não levará em–trabalho–seu que–levará em–mão–sua
+-- c5-v16: E–também isso é–mal doentio toda correspondência–de que–veio assim irá e–o–que é–proveito para–ele que–trabalha para–o–vento
+-- c5-v17: Também todos dias–seus na–escuridão come e–desgosto muito e–doença–sua e–ira
+-- c5-v18: Eis o–que vi eu é–bom o–que é–formoso comer e–beber e–ver bem em–todo trabalho–seu que–trabalha debaixo–de o–sol o–número–de dias–de [vida–sua] (vida–sua) que deu a–ele o–Elohim porque ela é–porção–sua
+-- c5-v19: Também todo o–homem que deu a–ele o–Elohim riqueza e–bens e–o–capacitou para–comer dele e–levar (a) porção–sua e–alegrar–se em–trabalho–seu isso é–dom–de Elohim é
+-- c5-v20: Porque não muito lembrará (a) os–dias–de vida–sua porque o–Elohim responde com–alegria–de coração–seu
+-- c6-v1: Há mal que vi debaixo–de o–sol e–grande ele sobre o–homem
+-- c6-v2: Homem que dá a–ele o–Elohim riqueza e–bens e–honra e–não–está faltando para–alma–sua de–tudo o–que deseja e–não o–capacita o–Elohim para–comer dele porque homem estrangeiro o–comerá isso é–vaidade e–doença má é
+-- c6-v3: Se gerar homem cem e–anos muitos viver e–muito forem os–dias–de anos–seus e–alma–sua não se–farta de o–bem e–também sepultura não houve para–ele digo melhor que–ele o–aborto
+-- c6-v4: Porque em–vaidade veio e–na–escuridão vai e–na–escuridão nome–seu é–coberto
+-- c6-v5: Também sol não viu e–não conheceu descanso para–este mais–que–este
+-- c6-v6: E–se vivesse mil anos duas–vezes e–bem não viu não para lugar um o–tudo vai
+-- c6-v7: Todo trabalho–de o–homem é–para–boca–sua e–também a–alma não se–enche
+-- c6-v8: Porque o–que é–mais para–o–sábio que o–tolo o–que para–o–pobre que–sabe andar diante–de os–vivos
+-- c6-v9: Melhor é–vista–de olhos que–vagar–de alma também isso é–vaidade e–aflição–de espírito
+-- c6-v10: O–que foi já foi–chamado nome–seu e–conhecido o–que ele é–homem e–não pode contender com [aquele–que–é–forte] (aquele–que–é–forte) que–ele
+-- c6-v11: Porque há palavras muitas que–multiplicam vaidade o–que é–mais para–o–homem
+-- c6-v12: Porque quem sabe o–que é–bom para–o–homem na–vida o–número–de dias–de vida–de vaidade–sua e–os–faz como–sombra porque quem contará ao–homem o–que será depois–dele debaixo–de o–sol
+-- c7-v1: Melhor é–nome que–óleo bom e–dia–de a–morte que–dia–de nascimento–seu
+-- c7-v2: Melhor ir a casa–de luto que–ir a casa–de banquete porque ele é–fim–de todo o–homem e–o–vivo ponha em coração–seu
+-- c7-v3: Melhor é–desgosto que–riso porque na–tristeza–de face melhora o–coração
+-- c7-v4: Coração–de sábios em–casa–de luto e–coração–de tolos em–casa–de alegria
+-- c7-v5: Melhor ouvir repreensão–de sábio que–homem ouvindo canção–de tolos
+-- c7-v6: Porque como–som–de os–espinhos debaixo–de a–panela assim é–riso–de o–tolo e–também isso é–vaidade
+-- c7-v7: Porque a–opressão enlouquece o–sábio e–destrói (a) coração o–presente
+-- c7-v8: Melhor é–fim–de coisa que–princípio–seu melhor é–paciência–de espírito que–altivez–de espírito
+-- c7-v9: Não te–apresses em–espírito–teu para–irar–te porque ira no–seio–de tolos descansa
+-- c7-v10: Não digas o–que foi que–os–dias primeiros foram melhores que–estes porque não de–sabedoria perguntaste sobre isso
+-- c7-v11: Boa é–sabedoria com herança e–vantagem para–os–que–veem o–sol
+-- c7-v12: Porque na–sombra–de a–sabedoria é–na–sombra–de a–prata e–vantagem–de conhecimento a–sabedoria dá–vida a–donos–seus
+-- c7-v13: Vê (a) obra–de o–Elohim porque quem pode endireitar (a) o–que entortou
+-- c7-v14: Em–dia–de bem está em–bem e–em–dia–de mal vê também (a) este correspondência–de este fez o–Elohim sobre o–assunto–de que–não descubra o–homem depois–dele nada
+-- c7-v15: (a) o–tudo vi nos–dias–de vaidade–minha há justo perecendo em–justiça–sua e–há ímpio prolongando em–maldade–sua
+-- c7-v16: Não sejas justo demais e–não te–faças–sábio demais por–que te–destruirás
+-- c7-v17: Não sejas–ímpio demais e–não sejas tolo por–que morrerás sem tempo–teu
+-- c7-v18: Bom que agarres em–este e–também de–este não largues (a) mão–tua porque quem–teme Elohim sairá (a) todos–eles
+-- c7-v19: A–sabedoria fortalece ao–sábio mais–que–dez governadores que estavam na–cidade
+-- c7-v20: Porque homem não–há justo na–terra que faça bem e–não peque
+-- c7-v21: Também a–todas as–palavras que falam não dês coração–teu para–que não ouças (a) servo–teu te–amaldiçoando
+-- c7-v22: Porque também vezes muitas sabe coração–teu que também [tu] (tu) amaldiçoaste outros
+-- c7-v23: Tudo isso provei com–sabedoria disse serei–sábio e–ela estava–longe de–mim
+-- c7-v24: Longe o–que foi e–profundo profundo quem o–achará
+-- c7-v25: Voltei eu e–coração–meu para–conhecer e–investigar e–buscar sabedoria e–razão e–para–conhecer maldade é–tolice e–a–insensatez é–loucura
+-- c7-v26: E–acho eu mais–amarga que–a–morte (a) a–mulher que ela é–redes e–laços coração–seu é–cadeias mãos–suas bom diante–de o–Elohim escapará dela e–pecador será–preso nela
+-- c7-v27: Vê isso achei disse Qohelet uma a–uma para–achar razão
+-- c7-v28: Que ainda buscou alma–minha e–não achei homem um de–mil achei e–mulher em–todos estes não achei
+-- c7-v29: Somente vê isso achei que fez o–Elohim (a) o–homem reto e–eles buscaram invenções muitas
+-- c8-v1: Quem é–como–o–sábio e–quem sabe interpretação–de coisa sabedoria–de homem ilumina face–sua e–força–de face–sua é–mudada
+-- c8-v2: Eu boca–de rei guarda e–sobre assunto–de juramento–de Elohim
+-- c8-v3: Não te–apresses de–diante–dele vá não te–detenhas em–coisa má porque tudo que desejar fará
+-- c8-v4: Porque palavra–de rei é–autoridade e–quem dirá a–ele o–que fazes
+-- c8-v5: Quem–guarda mandamento não conhecerá coisa má e–tempo e–juízo conhece coração–de sábio
+-- c8-v6: Porque para–todo assunto há tempo e–juízo porque mal–de o–homem é–grande sobre–ele
+-- c8-v7: Porque não–está sabendo o–que será porque quando for quem contará a–ele
+-- c8-v8: Não–há homem que–governa sobre–o–espírito para–reter (a) o–espírito e–não–há domínio em–dia–de a–morte e–não–há dispensa na–guerra e–não livrará maldade (a) donos–seus
+-- c8-v9: (a) todo isso vi e–pondo (a) coração–meu a–toda obra que é–feita debaixo–de o–sol tempo que governou o–homem sobre–homem para–mal dele
+-- c8-v10: E–assim vi ímpios sepultados e–vieram e–de–lugar–de santidade andaram e–foram–esquecidos na–cidade que assim fizeram também isso é–vaidade
+-- c8-v11: Que não–há executada sentença de–obra a–má rapidamente portanto por–isso está–cheio coração–de os–filhos–de o–homem neles para–fazer mal
+-- c8-v12: Que pecador fazendo mal cem e–prolongando a–ele porque também sei eu que será bem para–os–que–temem o–Elohim que temem de–diante–dele
+-- c8-v13: E–bem não haverá para–o–ímpio e–não prolongará dias como–sombra porque não–está temendo de–diante–de Elohim
+-- c8-v14: Há vaidade que é–feita sobre a–terra que há justos que lhes–chega a–eles conforme–obra–de os–ímpios e–há ímpios que–lhes–chega a–eles conforme–obra–de os–justos disse que–também isso é–vaidade
+-- c8-v15: E–louvei eu (a) a–alegria que não–há bem para–o–homem debaixo–de o–sol senão se comer e–beber e–alegrar–se e–ele o–acompanhará em–trabalho–seu dias–de vida–sua que deu a–ele o–Elohim debaixo–de o–sol
+-- c8-v16: Quando pus (a) coração–meu para–conhecer sabedoria e–para–ver (a) a–ocupação que é–feita sobre a–terra porque também no–dia e–na–noite sono em–olhos–seus não–está vendo
+-- c8-v17: E–vi (a) toda obra–de o–Elohim que não pode o–homem descobrir (a) a–obra que é–feita debaixo–de o–sol por–causa–de que trabalhe o–homem para–buscar e–não achará e–também se disser o–sábio para–conhecer não poderá achar
+-- c9-v1: Porque (a) todo isso pus em coração–meu e–para–examinar (a) tudo isso que os–justos e–os–sábios e–obras–deles na–mão–de o–Elohim também amor também ódio não–está sabendo o–homem o–tudo diante–deles
+-- c9-v2: O–tudo como para–o–tudo destino um para–o–justo e–para–o–ímpio para–o–bom e–para–o–puro e–para–o–impuro e–para–o–que–sacrifica e–para–o–que não–está sacrificando como–o–bom assim–o–pecador o–que–jura como–o–que juramento teme
+-- c9-v3: Isso é–mal em–tudo que é–feito debaixo–de o–sol que destino um para–o–tudo e–também coração–de os–filhos–de o–homem está–cheio–de mal e–loucura no–coração–deles em–vidas–deles e–depois–dele para os–mortos
+-- c9-v4: Porque quem que [será–escolhido] (será–unido) a todos os–vivos há confiança porque para–cão vivo ele é–melhor que o–leão o–morto
+-- c9-v5: Porque os–vivos sabem que–morrerão e–os–mortos não–estão sabendo nada e–não–há mais para–eles recompensa porque foi–esquecida memória–deles
+-- c9-v6: Também amor–deles também ódio–deles também inveja–deles já pereceu e–parte não–há para–eles mais para–sempre em–tudo que é–feito debaixo–de o–sol
+-- c9-v7: Vai come com–alegria pão–teu e–bebe com–coração bom vinho–teu porque já aprovou o–Elohim (a) obras–tuas
+-- c9-v8: Em–todo tempo sejam vestes–tuas brancas e–óleo sobre cabeça–tua não falte
+-- c9-v9: Vê vida com mulher que amaste todos dias–de vida–de vaidade–tua que deu a–ti debaixo–de o–sol todos dias–de vaidade–tua porque ela é–porção–tua na–vida e–em–trabalho–teu que tu trabalhas debaixo–de o–sol
+-- c9-v10: Tudo que achar mão–tua para–fazer com–força–tua faze porque não–há obra e–cálculo e–conhecimento e–sabedoria no–Sheol para–onde tu vais para–lá §
+-- c9-v11: Voltei e–vi debaixo–de o–sol que não para–os–ligeiros a–corrida e–não para–os–fortes a–guerra e–também não para–os–sábios pão e–também não para–os–entendidos riqueza e–também não para–os–conhecedores favor porque tempo e–acaso acontece (a) todos–eles
+-- c9-v12: Porque também não sabe o–homem (a) tempo–seu como–os–peixes que–são–apanhados em–rede má e–como–os–pássaros os–apanhados no–laço como–eles são–enlaçados os–filhos–de o–homem para–tempo–de mal quando–cai sobre–eles de–repente
+-- c9-v13: Também isso vi é–sabedoria debaixo–de o–sol e–grande ela para–mim
+-- c9-v14: Cidade pequena e–homens nela poucos e–veio a–ela rei grande e–cercou (a)–ela e–construiu sobre–ela baluartes grandes
+-- c9-v15: E–achou–se nela homem pobre sábio e–livrou ele (a) a–cidade com–sabedoria–sua e–homem não lembrou (a) o–homem o–pobre aquele
+-- c9-v16: E–disse eu melhor é–sabedoria que–força e–sabedoria–de o–pobre é–desprezada e–palavras–suas não–são ouvidas
+-- c9-v17: Palavras–de sábios em–quietude são–ouvidas mais–que–grito–de governador entre–tolos
+-- c9-v18: Melhor é–sabedoria que–armas–de guerra e–pecador um destruía bem muito
+-- c10-v1: Moscas–de morte fazem–feder fazem–borbulhar óleo–de perfumista é–precioso mais–que–sabedoria mais–que–honra insensatez pouca
+-- c10-v2: Coração–de sábio à–direita–sua e–coração–de tolo à–esquerda–sua
+-- c10-v3: E–também no–caminho [quando–o–tolo] (quando–o–tolo) anda coração–seu falta e–diz a–todos tolo é
+-- c10-v4: Se espírito–de o–governante subir sobre–ti lugar–teu não largues porque cura acalma pecados grandes
+-- c10-v5: Há mal vi debaixo–de o–sol como–erro que–sai de–diante–de o–governante
+-- c10-v6: Foi–colocado o–tolo nas–alturas muitas e–ricos na–baixeza sentam
+-- c10-v7: Vi servos sobre cavalos e–príncipes andando como–servos sobre a–terra
+-- c10-v8: Quem–cava cova nela cairá e–quem–rompe muro o–morderá serpente
+-- c10-v9: Quem–move pedras será–ferido com–elas quem–racha madeiras correrá–perigo com–elas
+-- c10-v10: Se estiver–cego o–ferro e–ele não é–fio amolou e–forças forçará e–vantagem–de fazer–prosperar é–sabedoria
+-- c10-v11: Se morder a–serpente sem encantamento e–não–há proveito para–senhor–de a–língua
+-- c10-v12: Palavras–de boca–de sábio são–graça e–lábios–de tolo o–engole
+-- c10-v13: Início–de palavras–de boca–sua é–insensatez e–fim–de boca–sua é–loucura má
+-- c10-v14: E–o–tolo multiplica palavras não sabe o–homem o–que será e–o–que será depois–dele quem contará a–ele
+-- c10-v15: Trabalho–de os–tolos o–cansa porque não sabe ir para a–cidade
+-- c10-v16: Ai–de ti terra que–rei–teu é–menino e–príncipes–teus de–manhã comem
+-- c10-v17: Feliz–de ti terra que–rei–teu é–filho–de nobres e–príncipes–teus a–tempo comem com–força e–não
+-- c10-v18: Por–preguiça–dupla afunda o–teto e–por–baixeza–de mãos goteja a–casa
+-- c10-v19: Para–riso fazem pão e–vinho alegra a–vida e–a–prata responde (a) o–tudo
+-- c10-v20: Também em–pensamento–teu rei não amaldiçoes e–em–quartos–de dormir–teu não amaldiçoes rico porque ave–de os–céus levará (a) a–voz e–senhor–de [as–asas] (asas) contará coisa
+-- c11-v1: Lança pão–teu sobre face–de as–águas porque em–muitos os–dias o–acharás
+-- c11-v2: Dá parte para–sete e–também para–oito porque não sabes o–que haverá–de mal sobre a–terra
+-- c11-v3: Se se–encherem as–nuvens de–chuva sobre a–terra derramarão e–se cair árvore para–o–sul e–se para–o–norte lugar que–cair a–árvore ali estará
+-- c11-v4: Quem–observa vento não semeará e–quem–olha as–nuvens não colherá
+-- c11-v5: Como não–estás sabendo qual é–caminho–de o–espírito como–os–ossos em–ventre–de a–grávida assim não saberás (a) obra–de o–Elohim que fará (a) o–tudo
+-- c11-v6: De–manhã semeia (a) semente–tua e–à–tarde não largues mão–tua porque não–estás sabendo qual isso prosperará se–este ou este e–se ambos igualmente bons
+-- c11-v7: E–doce é–a–luz e–bom para–os–olhos ver (a) o–sol
+-- c11-v8: Porque se anos muitos viver o–homem em–todos–eles alegre–se e–lembre–se (a) os–dias–de a–escuridão porque muitos serão tudo que–vier é–vaidade
+-- c11-v9: Alegra–te jovem em–juventude–tua e–faça–te–bem coração–teu nos–dias–de mocidade–tua e–anda nos–caminhos–de coração–teu e–na–vista–de olhos–teus e–sabe que sobre tudo isso te–trará o–Elohim a–juízo
+-- c11-v10: E–remove desgosto de–coração–teu e–passa mal de–carne–tua porque a–juventude e–a–aurora é–vaidade
+-- c12-v1: E–lembra–te (a) Criador–teu nos–dias–de mocidade–tua até que não venham dias–de a–calamidade e–cheguem anos que dirás não–há para–mim neles prazer
+-- c12-v2: Até que não se–escureça o–sol e–a–luz e–a–lua e–as–estrelas e–retornem as–nuvens depois–de a–chuva
+-- c12-v3: No–dia que–tremem guardas–de a–casa e–se–encurvam homens–de a–força e–param as–moedoras porque diminuem e–se–escurecem as–que–veem pelas–janelas
+-- c12-v4: E–se–fecham portas na–rua ao–baixar som–de a–moenda e–levanta–se a–voz–de o–pássaro e–se–abaixam todas filhas–de o–canto
+-- c12-v5: Também de–altura temem e–terrores no–caminho e–floresce a–amendoeira e–se–arrasta o–gafanhoto e–falha a–alcaparra porque vai o–homem para casa–de eternidade–sua e–cercam na–rua os–pranteadores
+-- c12-v6: Até que não [se–afaste] (se–quebre) cordão–de a–prata e–se–esmague taça–de o–ouro e–se–quebre cântaro sobre a–fonte e–se–despedaçe a–roda sobre a–cisterna
+-- c12-v7: E–retorne o–pó para a–terra como–era e–o–espírito retorne para o–Elohim que o–deu
+-- c12-v8: Vaidade de–vaidades disse o–Qohelet o–tudo é–vaidade
+-- c12-v9: E–além–de que–foi Qohelet sábio ainda ensinou conhecimento (a) o–povo e–ponderou e–investigou compôs provérbios muitos
+-- c12-v10: Buscou Qohelet achar palavras–de prazer e–é–escrito retidão palavras–de verdade
+-- c12-v11: Palavras–de sábios é–como–aguilhões e–como–pregos plantados é–senhores–de coleções dados de–pastor um
+-- c12-v12: E–além–de eles filho–meu sé–advertido fazer livros muitos não–há fim e–estudo muito é–fadiga–de carne
+-- c12-v13: Fim–de coisa o–todo é–ouvido (a) o–Elohim teme e–(a) mandamentos–seus guarda porque isso é–todo o–homem
+-- c12-v14: Porque (a) toda obra o–Elohim trará a–juízo sobre toda coisa–oculta se boa e–se má
 
 BEGIN;
 -- 2100100101: דִּבְרֵי֙ (H1697) → "Palavras–de" [opus-4.5-chirho]

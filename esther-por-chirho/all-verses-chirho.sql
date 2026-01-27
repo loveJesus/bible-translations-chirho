@@ -3,175 +3,175 @@
 -- — John 3:16
 
 -- ESTHER - POR Combined
--- Generated: 2026-01-27T21:46:41Z
+-- Generated: 2026-01-27T22:19:57Z
 
--- ESTHER c1-v1 - POR
--- ESTHER c1-v2 - POR
--- ESTHER c1-v3 - POR
--- ESTHER c1-v4 - POR
--- ESTHER c1-v5 - POR
--- ESTHER c1-v6 - POR
--- ESTHER c1-v7 - POR
--- ESTHER c1-v8 - POR
--- ESTHER c1-v9 - POR
--- ESTHER c1-v10 - POR
--- ESTHER c1-v11 - POR
--- ESTHER c1-v12 - POR
--- ESTHER c1-v13 - POR
--- ESTHER c1-v14 - POR
--- ESTHER c1-v15 - POR
--- ESTHER c1-v16 - POR
--- ESTHER c1-v17 - POR
--- ESTHER c1-v18 - POR
--- ESTHER c1-v19 - POR
--- ESTHER c1-v20 - POR
--- ESTHER c1-v21 - POR
--- ESTHER c1-v22 - POR
--- ESTHER c2-v1 - POR
--- ESTHER c2-v2 - POR
--- ESTHER c2-v3 - POR
--- ESTHER c2-v4 - POR
--- ESTHER c2-v5 - POR
--- ESTHER c2-v6 - POR
--- ESTHER c2-v7 - POR
--- ESTHER c2-v8 - POR
--- ESTHER c2-v9 - POR
--- ESTHER c2-v10 - POR
--- ESTHER c2-v11 - POR
--- ESTHER c2-v12 - POR
--- ESTHER c2-v13 - POR
--- ESTHER c2-v14 - POR
--- ESTHER c2-v15 - POR
--- ESTHER c2-v16 - POR
--- ESTHER c2-v17 - POR
--- ESTHER c2-v18 - POR
--- ESTHER c2-v19 - POR
--- ESTHER c2-v20 - POR
--- ESTHER c2-v21 - POR
--- ESTHER c2-v22 - POR
--- ESTHER c2-v23 - POR
--- ESTHER c3-v1 - POR
--- ESTHER c3-v2 - POR
--- ESTHER c3-v3 - POR
--- ESTHER c3-v4 - POR
--- ESTHER c3-v5 - POR
--- ESTHER c3-v6 - POR
--- ESTHER c3-v7 - POR
--- ESTHER c3-v8 - POR
--- ESTHER c3-v9 - POR
--- ESTHER c3-v10 - POR
--- ESTHER c3-v11 - POR
--- ESTHER c3-v12 - POR
--- ESTHER c3-v13 - POR
--- ESTHER c3-v14 - POR
--- ESTHER c3-v15 - POR
--- ESTHER c4-v1 - POR
--- ESTHER c4-v2 - POR
--- ESTHER c4-v3 - POR
--- ESTHER c4-v4 - POR
--- ESTHER c4-v5 - POR
--- ESTHER c4-v6 - POR
--- ESTHER c4-v7 - POR
--- ESTHER c4-v8 - POR
--- ESTHER c4-v9 - POR
--- ESTHER c4-v10 - POR
--- ESTHER c4-v11 - POR
--- ESTHER c4-v12 - POR
--- ESTHER c4-v13 - POR
--- ESTHER c4-v14 - POR
--- ESTHER c4-v15 - POR
--- ESTHER c4-v16 - POR
--- ESTHER c4-v17 - POR
--- ESTHER c5-v1 - POR
--- ESTHER c5-v2 - POR
--- ESTHER c5-v3 - POR
--- ESTHER c5-v4 - POR
--- ESTHER c5-v5 - POR
--- ESTHER c5-v6 - POR
--- ESTHER c5-v7 - POR
--- ESTHER c5-v8 - POR
--- ESTHER c5-v9 - POR
--- ESTHER c5-v10 - POR
--- ESTHER c5-v11 - POR
--- ESTHER c5-v12 - POR
--- ESTHER c5-v13 - POR
--- ESTHER c5-v14 - POR
--- ESTHER c6-v1 - POR
--- ESTHER c6-v2 - POR
--- ESTHER c6-v3 - POR
--- ESTHER c6-v4 - POR
--- ESTHER c6-v5 - POR
--- ESTHER c6-v6 - POR
--- ESTHER c6-v7 - POR
--- ESTHER c6-v8 - POR
--- ESTHER c6-v9 - POR
--- ESTHER c6-v10 - POR
--- ESTHER c6-v11 - POR
--- ESTHER c6-v12 - POR
--- ESTHER c6-v13 - POR
--- ESTHER c6-v14 - POR
--- ESTHER c7-v1 - POR
--- ESTHER c7-v2 - POR
--- ESTHER c7-v3 - POR
--- ESTHER c7-v4 - POR
--- ESTHER c7-v5 - POR
--- ESTHER c7-v6 - POR
--- ESTHER c7-v7 - POR
--- ESTHER c7-v8 - POR
--- ESTHER c7-v9 - POR
--- ESTHER c7-v10 - POR
--- ESTHER c8-v1 - POR
--- ESTHER c8-v2 - POR
--- ESTHER c8-v3 - POR
--- ESTHER c8-v4 - POR
--- ESTHER c8-v5 - POR
--- ESTHER c8-v6 - POR
--- ESTHER c8-v7 - POR
--- ESTHER c8-v8 - POR
--- ESTHER c8-v9 - POR
--- ESTHER c8-v10 - POR
--- ESTHER c8-v11 - POR
--- ESTHER c8-v12 - POR
--- ESTHER c8-v13 - POR
--- ESTHER c8-v14 - POR
--- ESTHER c8-v15 - POR
--- ESTHER c8-v16 - POR
--- ESTHER c8-v17 - POR
--- ESTHER c9-v1 - POR
--- ESTHER c9-v2 - POR
--- ESTHER c9-v3 - POR
--- ESTHER c9-v4 - POR
--- ESTHER c9-v5 - POR
--- ESTHER c9-v6 - POR
--- ESTHER c9-v7 - POR
--- ESTHER c9-v8 - POR
--- ESTHER c9-v9 - POR
--- ESTHER c9-v10 - POR
--- ESTHER c9-v11 - POR
--- ESTHER c9-v12 - POR
--- ESTHER c9-v13 - POR
--- ESTHER c9-v14 - POR
--- ESTHER c9-v15 - POR
--- ESTHER c9-v16 - POR
--- ESTHER c9-v17 - POR
--- ESTHER c9-v18 - POR
--- ESTHER c9-v19 - POR
--- ESTHER c9-v20 - POR
--- ESTHER c9-v21 - POR
--- ESTHER c9-v22 - POR
--- ESTHER c9-v23 - POR
--- ESTHER c9-v24 - POR
--- ESTHER c9-v25 - POR
--- ESTHER c9-v26 - POR
--- ESTHER c9-v27 - POR
--- ESTHER c9-v28 - POR
--- ESTHER c9-v29 - POR
--- ESTHER c9-v30 - POR
--- ESTHER c9-v31 - POR
--- ESTHER c9-v32 - POR
--- ESTHER c10-v1 - POR
--- ESTHER c10-v2 - POR
--- ESTHER c10-v3 - POR
+-- c1-v1: E–foi nos–dias–de Achashverosh ele Achashverosh o–que–reinava desde–Hodu e–até– Kush sete e–vinte e–cem províncias
+-- c1-v2: Nos–dias aqueles quando–sentava o–rei Achashverosh sobre trono–de reinado–seu que em–Shushan a–cidadela
+-- c1-v3: No–ano–de três de–reinar–seu fez banquete para–todos– príncipes–seus e–servos–seus exército–de Paras e–Maday os–nobres e–príncipes–de as–províncias diante–dele
+-- c1-v4: Ao–mostrar–ele (a) riqueza–de glória–de reinado–seu e–(a)– honra–de esplendor–de grandeza–sua dias muitos oitenta e–cem dia
+-- c1-v5: E–ao–completar– os–dias estes fez o–rei para–todo– o–povo os–que–se–encontravam em–Shushan a–cidadela desde–grande e–até– pequeno banquete sete–de dias no–pátio–de jardim–de pavilhão–de o–rei
+-- c1-v6: branco linho–fino e–azul presos com–cordas–de– linho e–púrpura sobre– cilindros–de prata e–colunas–de mármore leitos–de ouro e–prata sobre pavimento–de pórfiro– e–mármore e–madrepérola e–pedra–escura
+-- c1-v7: E–o–servir–bebida em–vasos–de ouro e–vasos de–vasos diferentes e–vinho–de reino muito conforme–mão–de o–rei
+-- c1-v8: E–o–beber conforme–a–lei sem forçar pois– assim estabeleceu o–rei sobre todo– chefe–de casa–sua para–fazer conforme–vontade–de cada–homem– e–homem
+-- c1-v9: Também Vashti a–rainha fez banquete–de mulheres casa–de o–reino que de–o–rei Achashverosh §
+-- c1-v10: No–dia o–sétimo quando–bom coração–de– o–rei com–o–vinho disse a–Mehuman Bizta Charvona Bigta e–Avagta Zetar e–Karkas sete–de os–eunucos os–que–serviam (a)– face–de o–rei Achashverosh
+-- c1-v11: para–trazer (a)– Vashti a–rainha diante–de o–rei com–coroa–de reino para–mostrar aos–povos e–aos–príncipes (a)– beleza–dela pois– boa–de aparência ela
+-- c1-v12: E–recusou a–rainha Vashti vir pela–palavra–de o–rei que pela–mão–de os–eunucos e–irou–se o–rei muito e–ira–sua ardia nele
+-- c1-v13: E–disse o–rei aos–sábios conhecedores–de os–tempos pois– assim palavra–de o–rei diante–de todos– conhecedores–de lei e–juízo
+-- c1-v14: E–o–próximo a–ele Karshena Shetar Admata Tarshish Meres Marsena Memukan sete–de príncipes–de Paras e–Maday viam face–de o–rei os–que–sentavam primeiro no–reino
+-- c1-v15: Conforme–a–lei que– fazer à–rainha Vashti sobre que não– fez (a)– mandamento–de o–rei Achashverosh pela–mão–de os–eunucos §
+-- c1-v16: E–disse [Momkan] Memukan diante–de o–rei e–os–príncipes Não contra– o–rei somente transgrediu Vashti a–rainha mas contra– todos– os–príncipes e–contra– todos– os–povos que em–todas– províncias–de o–rei Achashverosh
+-- c1-v17: Pois– sairá palavra–de– a–rainha sobre– todas– as–mulheres para–desprezar maridos–seus aos–olhos–delas ao–dizerem O–rei Achashverosh disse para–trazer (a)– Vashti a–rainha diante–dele e–não– veio
+-- c1-v18: E–hoje este dirão princesas–de Paras– e–Maday que ouviram (a)– palavra–de a–rainha a–todos príncipes–de o–rei e–suficiente desprezo e–ira
+-- c1-v19: Se– sobre– o–rei bom saia palavra–de– reino de–diante–dele e–seja–escrito nas–leis–de Paras– e–Maday e–não passará que não– virá Vashti diante–de o–rei Achashverosh e–reino–dela dará o–rei a–companheira–dela a–melhor do–que–ela
+-- c1-v20: E–será–ouvido decreto–de o–rei que– fará em–todo– reino–seu pois grande ele e–todas– as–mulheres darão honra a–maridos–seus desde–grande e–até– pequeno
+-- c1-v21: E–foi–bom a–palavra aos–olhos–de o–rei e–os–príncipes e–fez o–rei conforme–palavra–de Memukan
+-- c1-v22: E–enviou cartas a– todas– províncias–de o–rei a– província e–província conforme–escrita–dela e–a– povo e–povo conforme–língua–sua para–ser todo– homem governando em–casa–sua e–falando conforme–língua–de povo–seu ¶
+-- c2-v1: Depois–de as–coisas estas quando–acalmou ira–de o–rei Achashverosh lembrou (a)– Vashti e–(a) que– fez e–(a) que– foi–decretado sobre–ela
+-- c2-v2: E–disseram servos–de– o–rei seus–servos Busquem para–o–rei jovens virgens boas–de aparência
+-- c2-v3: E–designe o–rei oficiais em–todas– províncias–de reino–seu e–ajuntem (a)– toda– jovem– virgem boa–de aparência a– Shushan a–cidadela a– casa–de as–mulheres a– mão–de Hegay eunuco–de o–rei guardião–de as–mulheres e–dar cosméticos–delas
+-- c2-v4: E–a–jovem que for–boa aos–olhos–de o–rei reinará no–lugar–de Vashti E–foi–boa a–palavra aos–olhos–de o–rei e–fez assim §
+-- c2-v5: Homem judeu havia em–Shushan a–cidadela e–nome–seu Mordekay filho–de Yair filho–de– Shim’i filho–de– Kish homem benjamita
+-- c2-v6: Que foi–exilado de–Yerushalayim com– o–exílio que foi–exilado com Yekhonyah rei–de– Yehudah que exilou Nevukadnetstsar rei–de Bavel
+-- c2-v7: E–foi criando (a)– Hadassah ela Ester filha–de– tio–seu pois não–havia para–ela pai e–mãe e–a–jovem bela–de– forma e–boa–de aparência e–na–morte–de pai–dela e–mãe–dela tomou–a Mordekay para–si como–filha
+-- c2-v8: E–foi quando–foi–ouvida palavra–de– o–rei e–lei–sua e–quando–foram–reunidas jovens muitas a– Shushan a–cidadela a– mão–de Hegay e–foi–tomada Ester a– casa–de o–rei a– mão–de Hegay guardião–de as–mulheres
+-- c2-v9: E–foi–boa a–jovem aos–olhos–dele e–alcançou favor diante–dele e–apressou (a)– cosméticos–dela e–(a)– porções–dela para–dar a–ela e–(a) sete–de as–jovens as–designadas para–dar– a–ela de–casa–de o–rei e–mudou–a e–(a)– jovens–dela para–o–melhor–de casa–de as–mulheres
+-- c2-v10: Não– declarou Ester (a)– povo–dela e–(a)– parentela–dela pois Mordekay ordenou sobre–ela que não– declarasse
+-- c2-v11: E–em–todo– dia e–dia Mordekay andava diante–de pátio–de casa–de– as–mulheres para–saber (a)– paz–de Ester e–que– seria–feito com–ela
+-- c2-v12: E–ao–chegar vez–de jovem e–jovem para–vir a– o–rei Achashverosh ao–fim–de ser para–ela conforme–lei–de as–mulheres doze de mês pois assim se–completavam dias–de purificações–delas seis meses com–óleo–de mirra e–seis meses com–perfumes e–com–cosméticos–de as–mulheres
+-- c2-v13: E–nisso a–jovem vinha a– o–rei (a) tudo– que dissesse era–dado a–ela para–vir com–ela de–casa–de as–mulheres até– casa–de o–rei
+-- c2-v14: À–tarde ela vinha e–pela–manhã ela voltava a– casa–de as–mulheres segunda a– mão–de Sha’ashgaz eunuco–de o–rei guardião–de as–concubinas Não– viria mais a– o–rei a–não–ser–que– se– deleitasse nela o–rei e–fosse–chamada pelo–nome
+-- c2-v15: E–ao–chegar vez–de– Ester filha–de– Avichayil tio–de Mordekay que tomou– para–si como–filha para–vir a– o–rei não pediu coisa a–não–ser– se– (a)– que dissesse Hegay eunuco–de– o–rei guardião–de as–mulheres e–estava Ester alcançando favor aos–olhos–de todo– que–via–ela
+-- c2-v16: E–foi–tomada Ester a– o–rei Achashverosh a– casa–de reino–seu no–mês o–décimo ele– mês–de Tevet no–ano–de– sete de–reinado–seu
+-- c2-v17: E–amou o–rei (a)– Ester mais–que–todas– as–mulheres e–alcançou– favor e–bondade diante–dele mais–que–todas– as–virgens e–pôs coroa–de– reino na–cabeça–dela e–fez–reinar–ela no–lugar–de Vashti
+-- c2-v18: E–fez o–rei banquete grande para–todos– príncipes–seus e–servos–seus (a) banquete–de Ester e–descanso às–províncias fez e–deu presentes conforme–mão–de o–rei
+-- c2-v19: E–ao–reunirem–se virgens segunda–vez e–Mordekay sentava no–portão–de– o–rei
+-- c2-v20: Não Ester declarava parentela–dela e–(a)– povo–dela como ordenou sobre–ela Mordekay e–(a)– mandamento–de Mordekay Ester fazia como esteve em–tutela com–ele §
+-- c2-v21: Nos–dias aqueles e–Mordekay sentava no–portão–de– o–rei irou–se Bigtan e–Teresh dois–de– eunucos–de o–rei dos–guardas–de a–porta e–procuraram estender mão contra–o–rei Achashverosh
+-- c2-v22: E–foi–conhecido o–assunto a–Mordekay e–declarou a–Ester a–rainha e–disse Ester ao–rei em–nome–de Mordekay
+-- c2-v23: E–foi–investigado o–assunto e–foi–achado e–foram–pendurados dois–deles sobre– madeiro e–foi–escrito no–livro–de crônicas–de os–dias diante–de o–rei ¶
+-- c3-v1: Depois–de as–coisas estas engrandeceu o–rei Achashverosh (a)– Haman filho–de– Hamedata o–agagita e–exaltou–o e–pôs (a)– assento–seu acima–de todos– os–príncipes que com–ele
+-- c3-v2: E–todos– servos–de o–rei que– no–portão–de o–rei ajoelhavam e–prostravam–se a–Haman pois– assim ordenou– para–ele o–rei e–Mordekay não ajoelhava e–não prostrava–se
+-- c3-v3: E–disseram servos–de o–rei que– no–portão–de o–rei a–Mordekay Por–que tu transgrides (a) mandamento–de o–rei
+-- c3-v4: E–foi [quando–falaram] quando–falaram a–ele dia e–dia e–não ouviu a–eles e–declararam a–Haman para–ver se–permaneceriam palavras–de Mordekay pois– declarou a–eles que– ele judeu
+-- c3-v5: E–viu Haman que– não Mordekay ajoelhando e–prostrando–se a–ele e–encheu–se Haman de–furo
+-- c3-v6: E–desprezou aos–olhos–dele estender mão contra–Mordekay somente pois– declararam a–ele (a)– povo–de Mordekay e–procurou Haman destruir (a)– todos– os–judeus que em–todo– reino–de Achashverosh povo–de Mordekay
+-- c3-v7: No–mês o–primeiro ele– mês–de Nissan no–ano–de doze de de–o–rei Achashverosh lançou pur ele a–sorte diante–de Haman de–dia a–dia e–de–mês a–mês doze– de ele– mês–de Adar §
+-- c3-v8: E–disse Haman ao–rei Achashverosh Há povo– um espalhado e–disperso entre os–povos em–todas províncias–de reino–teu e–leis–deles diferentes de–todo– povo e–(a)– leis–de o–rei não fazem e–para–o–rei não–é– apropriado deixá–los
+-- c3-v9: Se– sobre– o–rei bom seja–escrito para–destruí–los e–dez milhares–de talentos–de– prata pesarei sobre– mãos–de fazedores–de o–trabalho para–trazer a– tesouros–de o–rei
+-- c3-v10: E–tirou o–rei (a)– anel–seu de–sobre mão–sua e–deu–o a–Haman filho–de– Hamedata o–agagita adversário–de os–judeus
+-- c3-v11: E–disse o–rei a–Haman A–prata dada a–ti e–o–povo para–fazer com–ele como–bom aos–olhos–teus
+-- c3-v12: E–foram–chamados escribas–de o–rei no–mês o–primeiro no–treze de dia dele e–foi–escrito conforme–tudo– que– ordenou Haman aos sátrapas–de– o–rei e–aos– governadores que sobre– província e–província e–aos– príncipes–de povo e–povo província e–província conforme–escrita–dela e–povo e–povo conforme–língua–sua em–nome–de o–rei Achashverosh foi–escrito e–selado com–anel–de o–rei
+-- c3-v13: E–enviadas cartas pela–mão–de os–correios a– todas– províncias–de o–rei para–destruir para–matar e–para–aniquilar (a)– todos– os–judeus de–jovem e–até– velho crianças e–mulheres em–dia um no–treze de do–mês doze– de ele– mês–de Adar e–despólio–deles para–saquear
+-- c3-v14: Cópia–de a–escrita para–ser–dada lei em–toda– província e–província revelada a–todos– os–povos para–estarem prontos para–o–dia este
+-- c3-v15: Os–correios saíram apressados pela–palavra–de o–rei e–a–lei foi–dada em–Shushan a–cidadela e–o–rei e–Haman sentaram para–beber e–a–cidade–de Shushan estava–confusa ¶
+-- c4-v1: E–Mordekay soube (a)– tudo– que foi–feito e–rasgou Mordekay (a)– vestes–suas e–vestiu saco e–cinza e–saiu no–meio–de a–cidade e–clamou clamor grande e–amargo
+-- c4-v2: E–veio até diante–de portão–de– o–rei pois não entrar a– portão–de o–rei em–veste–de saco
+-- c4-v3: E–em–toda– província e–província lugar que palavra–de– o–rei e–lei–sua chegava luto grande para–os–judeus e–jejum e–choro e–lamentação saco e–cinza era–estendido para–os–muitos
+-- c4-v4: E–vieram servas–de Ester e–eunucos–dela e–declararam a–ela e–tremeu–muito a–rainha muito e–enviou vestes para–vestir (a)– Mordekay e–para–remover saco–seu de–sobre–ele e–não aceitou
+-- c4-v5: E–chamou Ester a–Hatakh dos–eunucos–de o–rei que designou diante–dela e–ordenou–lhe sobre– Mordekay para–saber que– isto e–sobre– que– isto
+-- c4-v6: E–saiu Hatakh a– Mordekay a– praça–de a–cidade que diante–de portão–de– o–rei
+-- c4-v7: E–declarou– a–ele Mordekay (a) tudo– que aconteceu–lhe e–(a) relato–de a–prata que disse Haman pesar sobre– tesouros–de o–rei [pelos–judeus] pelos–judeus para–destruí–los
+-- c4-v8: E–(a)– cópia–de escrita–de– a–lei que– foi–dada em–Shushan para–destruí–los deu a–ele para–mostrar (a)– Ester e–para–declarar a–ela e–para–ordenar sobre–ela ir a– o–rei para–suplicar– a–ele e–para–pedir de–diante–dele sobre– povo–dela
+-- c4-v9: E–veio Hatakh e–declarou a–Ester (a) palavras–de Mordekay
+-- c4-v10: E–disse Ester a–Hatakh e–ordenou–lhe a– Mordekay
+-- c4-v11: Todos– servos–de o–rei e–povo–de– províncias–de o–rei sabem que todo– homem e–mulher que vier– a– o–rei a– o–pátio o–interior que não– for–chamado uma lei–sua para–morrer exceto a–quem estender– a–ele o–rei (a)– cetro–de o–ouro e–viverá e–eu não fui–chamada para–ir a– o–rei isto trinta dia
+-- c4-v12: E–declararam a–Mordekay (a) palavras–de Ester ¶
+-- c4-v13: E–disse Mordekay para–responder a– Ester Não– imagines em–alma–tua escapar casa–de– o–rei de–todos– os–judeus
+-- c4-v14: Pois se– calar calares no–tempo este alívio e–livramento levantar–se–á para–os–judeus de–lugar outro e–tu e–casa–de– pai–teu perecereis e–quem sabe se– para–tempo como–este chegaste ao–reino
+-- c4-v15: E–disse Ester para–responder a– Mordekay
+-- c4-v16: Vai reúne (a)– todos– os–judeus os–que–se–encontram em–Shushan e–jejuai sobre–mim e–não– comais e–não– bebais três–de dias noite e–dia também– eu e–servas–minhas jejuaremos assim e–assim irei a– o–rei que não– conforme–a–lei e–como perecer perecerei
+-- c4-v17: E–passou Mordekay e–fez conforme–tudo que– ordenou sobre–ele Ester §
+-- c5-v1: E–foi no–dia o–terceiro e–vestiu Ester realeza e–ficou–de–pé no–pátio–de casa–de o–rei a–interior em–frente–de casa–de o–rei e–o–rei sentado sobre trono–de reinado–seu em–casa–de a–realeza em–frente–de entrada–de a–casa
+-- c5-v2: E–foi quando–viu o–rei (a) Ester a–rainha de–pé no–pátio ela–achou graça aos–olhos–dele e–estendeu o–rei a–Ester (a) cetro–de o–ouro que na–mão–dele e–aproximou–se Ester e–tocou na–ponta–de o–cetro §
+-- c5-v3: E–disse a–ela o–rei o–que para–ti Ester a–rainha e–o–que pedido–teu até metade–de a–realeza e–será–dado a–ti
+-- c5-v4: E–disse Ester se sobre o–rei bom venha o–rei e–Haman o–dia ao o–banquete que preparei para–ele
+-- c5-v5: E–disse o–rei apressai (a) Haman para–fazer (a) palavra–de Ester e–veio o–rei e–Haman ao o–banquete que fez Ester
+-- c5-v6: E–disse o–rei a–Ester no–banquete–de o–vinho qual pedido–teu e–será–dado a–ti e–qual solicitação–tua até metade–de a–realeza e–será–feita
+-- c5-v7: E–respondeu Ester e–disse pedido–meu e–solicitação–minha
+-- c5-v8: se achei graça aos–olhos–de o–rei e–se sobre o–rei bom dar (a) pedido–meu e–fazer (a) solicitação–minha venha o–rei e–Haman ao o–banquete que prepararei para–eles e–amanhã farei conforme–palavra–de o–rei
+-- c5-v9: E–saiu Haman no–dia aquele alegre e–bom coração e–quando–viu Haman (a) Mordecai no–portão–de o–rei e–não levantou e–não tremeu dele e–encheu–se Haman contra Mordecai ira
+-- c5-v10: E–conteve–se Haman e–veio para casa–sua e–enviou e–trouxe (a) amigos–seus e–(a) Zeres mulher–sua
+-- c5-v11: E–contou a–eles Haman (a) glória–de riqueza–sua e–abundância–de filhos–seus e–(a) tudo–de que engrandeceu–o o–rei e–(a) que exaltou–o sobre os–príncipes e–servos–de o–rei
+-- c5-v12: E–disse Haman também não fez–entrar Ester a–rainha com o–rei ao o–banquete que ela–fez senão a mim e–também para–amanhã eu convidado a–ela com o–rei
+-- c5-v13: E–tudo–de isto nada–é igual para–mim em–todo tempo que eu vejo (a) Mordecai o–judeu sentado no–portão–de o–rei
+-- c5-v14: E–disse a–ele Zeres mulher–sua e–todos amigos–seus façam madeiro alto cinquenta côvados e–na–manhã diz ao–rei e–enforquem (a) Mordecai nele e–entra com o–rei ao o–banquete alegre e–foi–bom a–palavra diante–de Haman e–fez o–madeiro ¶
+-- c6-v1: Na–noite aquela fugiu sono–de o–rei e–disse para–trazer (a) livro–de as–memórias crônicas–de os–dias e–foram lidos diante–de o–rei
+-- c6-v2: E–foi–encontrado escrito que informou Mordecai sobre Bigtana e–Teres dois–de eunucos–de o–rei de–guardas–de a–soleira que buscaram para–lançar mão no–rei Achashverosh
+-- c6-v3: E–disse o–rei o–que foi–feito honra e–grandeza a–Mordecai por isto e–disseram jovens–de o–rei servos–seus não foi–feita com–ele coisa
+-- c6-v4: E–disse o–rei quem no–pátio e–Haman veio ao–pátio–de casa–de o–rei a–exterior para–dizer ao–rei para–enforcar (a) Mordecai sobre o–madeiro que preparou para–ele
+-- c6-v5: E–disseram jovens–de o–rei a–ele eis Haman de–pé no–pátio e–disse o–rei entre
+-- c6-v6: E–entrou Haman e–disse a–ele o–rei o–que fazer ao–homem que o–rei deseja em–honra–dele e–disse Haman no–coração–seu a–quem desejará o–rei fazer honra mais do–que–a–mim
+-- c6-v7: E–disse Haman ao o–rei homem que o–rei deseja em–honra–dele
+-- c6-v8: tragam veste–de realeza que vestiu nela o–rei e–cavalo que cavalgou sobre–ele o–rei e–que foi–posta coroa–de realeza na–cabeça–dele
+-- c6-v9: e–seja–dado a–veste e–o–cavalo sobre mão–de homem dos–príncipes–de o–rei os–nobres e–vistam (a) o–homem que o–rei deseja em–honra–dele e–façam–cavalgar–o sobre o–cavalo na–praça–de a–cidade e–proclamem diante–dele assim será–feito ao–homem que o–rei deseja em–honra–dele
+-- c6-v10: E–disse o–rei a–Haman apressa toma (a) a–veste e–(a) o–cavalo conforme falaste e–faz assim a–Mordecai o–judeu o–que–senta no–portão–de o–rei não deixes–cair palavra de–tudo que falaste
+-- c6-v11: E–tomou Haman (a) a–veste e–(a) o–cavalo e–vestiu (a) Mordecai e–fez–cavalgar–o na–praça–de a–cidade e–proclamou diante–dele assim será–feito ao–homem que o–rei deseja em–honra–dele
+-- c6-v12: E–voltou Mordecai para portão–de o–rei e–Haman foi–empurrado para casa–sua enlutado e–coberta cabeça
+-- c6-v13: E–contou Haman a–Zeres mulher–sua e–a–todos amigos–seus (a) tudo–de que aconteceu–lhe e–disseram a–ele sábios–seus e–Zeres mulher–sua se da–semente–de os–judeus Mordecai que começaste a–cair diante–dele não poderás a–ele pois cair cairás diante–dele
+-- c6-v14: ainda–eles falando com–ele e–eunucos–de o–rei chegaram e–apressaram a–trazer (a) Haman ao o–banquete que fez Ester
+-- c7-v1: E–veio o–rei e–Haman para–beber com Ester a–rainha
+-- c7-v2: E–disse o–rei a–Ester também no–dia o–segundo no–banquete–de o–vinho qual pedido–teu Ester a–rainha e–será–dado a–ti e–qual solicitação–tua até metade–de a–realeza e–será–feita
+-- c7-v3: E–respondeu Ester a–rainha e–disse se achei graça aos–olhos–teus o–rei e–se sobre o–rei bom seja–dada a–mim alma–minha no–pedido–meu e–povo–meu na–solicitação–minha
+-- c7-v4: pois fomos–vendidos eu e–povo–meu para–destruir para–matar e–para–aniquilar e–se para–escravos e–para–escravas fôssemos–vendidos eu–teria–calado pois não–é o–adversario igual ao–dano–de o–rei §
+-- c7-v5: E–disse o–rei Achashverosh e–disse a–Ester a–rainha quem é–ele este e–onde este é–ele que encheu–o coração–seu para–fazer assim
+-- c7-v6: E–disse Ester homem adversario e–inimigo Haman o–mau este e–Haman aterrorizado de–diante–de o–rei e–a–rainha
+-- c7-v7: E–o–rei levantou na–ira–sua do–banquete–de o–vinho para jardim–de o–pavilhão e–Haman ficou–de–pé para–pedir por alma–sua de–Ester a–rainha pois viu que foi–determinado a–ele o–mal de–com o–rei
+-- c7-v8: E–o–rei voltou do–jardim–de o–pavilhão para casa–de banquete–de o–vinho e–Haman caindo sobre o–divã que Ester nela e–disse o–rei também para–dominar (a) a–rainha comigo na–casa a–palavra saiu da–boca–de o–rei e–face–de Haman foi–coberta §
+-- c7-v9: E–disse Harvona um–de dos os–eunucos diante–de o–rei também eis o–madeiro que fez Haman para–Mordecai que falou bem sobre o–rei de–pé na–casa–de Haman alto cinquenta côvados e–disse o–rei enforquem–o nele
+-- c7-v10: E–enforcaram (a) Haman sobre o–madeiro que preparou para–Mordecai e–ira–de o–rei acalmou ¶
+-- c8-v1: No–dia aquele deu o–rei Achashverosh a–Ester a–rainha (a) casa–de Haman adversario–de [os–judeus] os–judeus e–Mordecai veio diante–de o–rei pois contou Ester o–que ele–é para–ela
+-- c8-v2: E–removeu o–rei (a) anel–seu que transferiu de–Haman e–deu–o a–Mordecai e–pôs Ester (a) Mordecai sobre casa–de Haman ¶
+-- c8-v3: E–continuou Ester e–falou diante–de o–rei e–caiu diante–de pés–dele e–chorou e–suplicou a–ele para–remover (a) maldade–de Haman o–agagueu e–(a) plano–seu que tramou contra os–judeus
+-- c8-v4: E–estendeu o–rei a–Ester (a) cetro–de o–ouro e–levantou–se Ester e–ficou–de–pé diante–de o–rei
+-- c8-v5: E–disse se sobre o–rei bom e–se achei graça diante–dele e–reto a–coisa diante–de o–rei e–boa eu aos–olhos–dele seja–escrito para–revogar (a) as–cartas plano–de Haman filho–de Hamedatha o–agagueu que escreveu para–destruir (a) os–judeus que em–todas províncias–de o–rei
+-- c8-v6: pois como poderei e–verei no–mal que alcançará (a) povo–meu e–como poderei e–verei na–destruição–de família–minha §
+-- c8-v7: E–disse o–rei Achashverosh a–Ester a–rainha e–a–Mordecai o–judeu eis casa–de Haman dei a–Ester e–a–ele enforcaram sobre o–madeiro por que estendeu mão–sua [nos–judeus] nos–judeus
+-- c8-v8: E–vós escrevei sobre os–judeus como–o–bom aos–olhos–vossos em–nome–de o–rei e–selai com–anel–de o–rei pois escrito que foi–escrito em–nome–de o–rei e–selado com–anel–de o–rei não–é para–revogar
+-- c8-v9: E–foram–convocados escribas–de o–rei no–tempo aquele no–mês o–terceiro ele–é mês–de Sivan em–vinte e–três nele e–foi–escrito conforme–tudo–de que ordenou Mordecai aos os–judeus e–aos os–sátrapas e–os–governadores e–príncipes–de as–províncias que da–Índia e–até Cuxe sete e–vinte e–cem província província e–província conforme–escrita–sua e–povo e–povo conforme–língua–sua e–aos os–judeus conforme–escrita–sua e–conforme–língua–sua
+-- c8-v10: E–escreveu em–nome–de o–rei Achashverosh e–selou com–anel–de o–rei e–enviou cartas por–mão–de os–correios nos–cavalos cavalgadores–de a–corsa os–cavalos–velozes filhos–de as–éguas
+-- c8-v11: que deu o–rei aos–judeus que em–toda cidade e–cidade para–reunir–se e–para–ficar–de–pé por alma–sua para–destruir e–para–matar e–para–aniquilar (a) todo exército–de povo e–província os–adversarios deles crianças e–mulheres e–despojo–deles para–saquear
+-- c8-v12: Em–dia um em–todas províncias–de o–rei Achashverosh em–treze dez para–mês–de doze dez ele–é mês–de Adar
+-- c8-v13: Cópia–de o–escrito para–ser–dada decreto em–toda província e–província revelado a–todos os–povos e–para–estarem [os–judeus] os–judeus [prontos] prontos para–o–dia este para–vingar–se de–inimigos–seus
+-- c8-v14: Os–correios cavalgadores–de a–corsa os–cavalos–velozes saíram apressados e–urgidos pela–palavra–de o–rei e–o–decreto foi–dado em–Susa a–cidadela ¶
+-- c8-v15: E–Mordecai saiu de–diante–de o–rei em–veste–de realeza azul e–branco e–coroa–de ouro grande e–manto–de linho e–púrpura e–a–cidade–de Susa gritou–de–alegria e–alegrou–se
+-- c8-v16: Para–os–judeus houve luz e–alegria e–regozijo e–honra
+-- c8-v17: E–em–toda província e–província e–em–toda cidade e–cidade lugar que palavra–de o–rei e–decreto–seu chegava alegria e–regozijo para–os–judeus banquete e–dia bom e–muitos–de dos–povos–de a–terra faziam–se–judeus pois caiu temor–de os–judeus sobre–eles
+-- c9-v1: E–em–doze dez mês ele–é mês–de Adar em–treze dez dia nele que chegou palavra–de o–rei e–decreto–seu para–ser–feito no–dia que esperaram inimigos–de os–judeus para–dominar neles e–foi–invertido ele que dominariam os–judeus eles nos–que–os–odiavam
+-- c9-v2: Reuniram–se os–judeus nas–cidades–suas em–todas províncias–de o–rei Achashverosh para–lançar mão nos–que–buscavam mal–seu e–homem não ficou–de–pé diante–deles pois caiu temor–deles sobre todos os–povos
+-- c9-v3: E–todos príncipes–de as–províncias e–os–sátrapas e–os–governadores e–fazedores–de o–trabalho que do–rei exaltando (a) os–judeus pois caiu temor–de Mordecai sobre–eles
+-- c9-v4: pois grande Mordecai na–casa–de o–rei e–fama–sua ia por–todas as–províncias pois o–homem Mordecai ia e–grande ¶
+-- c9-v5: E–feriram os–judeus em–todos inimigos–seus golpe–de espada e–matánça e–destruição e–fizeram nos–que–os–odiavam conforme–desejo–seu
+-- c9-v6: E–em–Susa a–cidadela mataram os–judeus e–destruíram cinco centenas–de homem
+-- c9-v7: e–(a) Parshandatha e–(a) Dalfon e–(a) Aspatha
+-- c9-v8: e–(a) Poratha e–(a) Adalya e–(a) Aridatha
+-- c9-v9: e–(a) Parmashta e–(a) Arisai e–(a) Aridai e–(a) Vaizatha
+-- c9-v10: dez–de filhos–de Haman filho–de Hamedatha adversario–de os–judeus mataram e–no–despojo não lançaram (a) mão–sua
+-- c9-v11: No–dia aquele veio número–de os–mortos em–Susa a–cidadela diante–de o–rei §
+-- c9-v12: E–disse o–rei a–Ester a–rainha em–Susa a–cidadela mataram os–judeus e–destruíram cinco centenas–de homem e–(a) dez–de filhos–de Haman no–resto–de províncias–de o–rei o–que fizeram e–o–que pedido–teu e–será–dado a–ti e–o–que solicitação–tua ainda e–será–feita
+-- c9-v13: E–disse Ester se sobre o–rei bom seja–dado também amanhã aos–judeus que em–Susa para–fazer conforme–decreto–de o–dia e–(a) dez–de filhos–de Haman enforquem sobre o–madeiro
+-- c9-v14: E–disse o–rei para–ser–feito assim e–foi–dado decreto em–Susa e–(a) dez–de filhos–de Haman enforcaram
+-- c9-v15: E–reuniram–se [os–judeus] os–judeus que em–Susa também em–dia–de quatorze dez para–mês–de Adar e–mataram em–Susa três centenas–de homem e–no–despojo não lançaram (a) mão–sua
+-- c9-v16: E–resto–de os–judeus que nas–províncias–de o–rei reuniram–se e–ficaram–de–pé por alma–sua e–descansando de–inimigos–seus e–matando nos–que–os–odiavam cinco e–setenta mil e–no–despojo não lançaram (a) mão–sua
+-- c9-v17: em–dia–de treze dez para–mês–de Adar e–descansando em–quatorze dez nele e–fazendo ele dia–de banquete e–alegria
+-- c9-v18: [e–os–judeus] e–os–judeus que em–Susa reuniram–se em–treze dez nele e–em–quatorze dez nele e–descansando em–quinze dez nele e–fazendo ele dia–de banquete e–alegria
+-- c9-v19: por isto os–judeus [os–das–aldeias] os–das–aldeias os–que–habitam nas–cidades–de as–aldeias fazendo (a) dia–de quatorze dez para–mês–de Adar alegria e–banquete e–dia bom e–envio–de porções homem ao–próximo–seu ¶
+-- c9-v20: E–escreveu Mordecai (a) as–palavras estas e–enviou cartas a todos os–judeus que em–todas províncias–de o–rei Achashverosh os–próximos e–os–distantes
+-- c9-v21: para–confirmar sobre–eles para–estarem fazendo (a) dia–de quatorze dez para–mês–de Adar e–(a) dia–de quinze dez nele em–todo ano e–ano
+-- c9-v22: como–os–dias que descansaram neles os–judeus de–inimigos–seus e–o–mês que foi–transformado para–eles de–tristéza para–alegria e–de–luto para–dia bom para–fazer eles dias–de banquete e–alegria e–envio–de porções homem ao–próximo–seu e–presentes aos–pobres
+-- c9-v23: E–aceitaram os–judeus (a) que começaram a–fazer e–(a) que escreveu Mordecai a–eles
+-- c9-v24: pois Haman filho–de Hamedatha o–agagueu adversario–de todos os–judeus tramou contra os–judeus para–destruí–los e–lançou Pur ele–é a–sorte para–destruí–los e–para–aniquilá–los
+-- c9-v25: e–quando–veio–ela diante–de o–rei disse com a–carta volte plano–seu o–mau que tramou contra os–judeus sobre cabeça–sua e–enforcaram ele e–(a) filhos–seus sobre o–madeiro
+-- c9-v26: por isto chamaram aos–dias estes Purim sobre nome–de o–Pur por isto por todas palavras–de a–carta esta e–o–que viram sobre assim e–o–que chegou a–eles
+-- c9-v27: confirmaram [e–aceitou] e–aceitaram os–judeus sobre–eles e–sobre semente–sua e–sobre todos os–que–se–juntam a–eles e–não passarão para–estarem fazendo (a) dois–de os–dias estes conforme–escrita–sua e–conforme–tempo–seu em–todo ano e–ano
+-- c9-v28: E–os–dias estes lembrados e–feitos em–toda geração e–geração família e–família província e–província e–cidade e–cidade e–dias–de o–Purim estes não passarão do–meio–de os–judeus e–memória–sua não cessará de–semente–sua §
+-- c9-v29: E–escreveu Ester a–rainha filha–de Avihail e–Mordecai o–judeu (a) toda autoridade para–confirmar (a) carta–de o–Purim esta a–segunda
+-- c9-v30: E–enviou cartas a todos os–judeus a sete e–vinte e–cem província reinado–de Achashverosh palavras–de paz e–verdade
+-- c9-v31: para–confirmar (a) dias–de o–Purim estes nos–tempos–seus conforme confirmou sobre–eles Mordecai o–judeu e–Ester a–rainha e–conforme confirmaram sobre alma–sua e–sobre semente–sua assuntos–de os–jejuns e–clamor–seu
+-- c9-v32: E–palavra–de Ester confirmou assuntos–de o–Purim estes e–foi–escrito no–livro ¶
+-- c10-v1: E–pôs o–rei [Achashverosh] Achashverosh tributo sobre a–terra e–ilhas–de o–mar
+-- c10-v2: E–todo feito–de poder–seu e–valentia–sua e–declaração–de grandeza–de Mordecai que engrandeceu–o o–rei não eles escritos sobre livro–de crônicas–de os–dias dos–reis–de Média e–Pérsia
+-- c10-v3: pois Mordecai o–judeu segundo do–rei Achashverosh e–grande para–os–judeus e–aceito para–multidão–de irmãos–seus buscando bem para–povo–seu e–falando paz para–toda semente–sua
 
 BEGIN;
 -- 1700100101: וַיְהִ֖י (H1961) → "E–foi" [opus-4.5-chirho]

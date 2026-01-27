@@ -3,61 +3,61 @@
 -- — John 3:16
 
 -- ZEPHANIAH - POR Combined
--- Generated: 2026-01-27T21:48:09Z
+-- Generated: 2026-01-27T22:22:26Z
 
--- ZEPHANIAH c1-v1 - POR
--- ZEPHANIAH c1-v2 - POR
--- ZEPHANIAH c1-v3 - POR
--- ZEPHANIAH c1-v4 - POR
--- ZEPHANIAH c1-v5 - POR
--- ZEPHANIAH c1-v6 - POR
--- ZEPHANIAH c1-v7 - POR
--- ZEPHANIAH c1-v8 - POR
--- ZEPHANIAH c1-v9 - POR
--- ZEPHANIAH c1-v10 - POR
--- ZEPHANIAH c1-v11 - POR
--- ZEPHANIAH c1-v12 - POR
--- ZEPHANIAH c1-v13 - POR
--- ZEPHANIAH c1-v14 - POR
--- ZEPHANIAH c1-v15 - POR
--- ZEPHANIAH c1-v16 - POR
--- ZEPHANIAH c1-v17 - POR
--- ZEPHANIAH c1-v18 - POR
--- ZEPHANIAH c2-v1 - POR
--- ZEPHANIAH c2-v2 - POR
--- ZEPHANIAH c2-v3 - POR
--- ZEPHANIAH c2-v4 - POR
--- ZEPHANIAH c2-v5 - POR
--- ZEPHANIAH c2-v6 - POR
--- ZEPHANIAH c2-v7 - POR
--- ZEPHANIAH c2-v8 - POR
--- ZEPHANIAH c2-v9 - POR
--- ZEPHANIAH c2-v10 - POR
--- ZEPHANIAH c2-v11 - POR
--- ZEPHANIAH c2-v12 - POR
--- ZEPHANIAH c2-v13 - POR
--- ZEPHANIAH c2-v14 - POR
--- ZEPHANIAH c2-v15 - POR
--- ZEPHANIAH c3-v1 - POR
--- ZEPHANIAH c3-v2 - POR
--- ZEPHANIAH c3-v3 - POR
--- ZEPHANIAH c3-v4 - POR
--- ZEPHANIAH c3-v5 - POR
--- ZEPHANIAH c3-v6 - POR
--- ZEPHANIAH c3-v7 - POR
--- ZEPHANIAH c3-v8 - POR
--- ZEPHANIAH c3-v9 - POR
--- ZEPHANIAH c3-v10 - POR
--- ZEPHANIAH c3-v11 - POR
--- ZEPHANIAH c3-v12 - POR
--- ZEPHANIAH c3-v13 - POR
--- ZEPHANIAH c3-v14 - POR
--- ZEPHANIAH c3-v15 - POR
--- ZEPHANIAH c3-v16 - POR
--- ZEPHANIAH c3-v17 - POR
--- ZEPHANIAH c3-v18 - POR
--- ZEPHANIAH c3-v19 - POR
--- ZEPHANIAH c3-v20 - POR
+-- c1-v1: Palavra–de YHWH que foi a Tsefanyah filho–de Kushi filho–de Gedalyah filho–de Amaryah filho–de Hizqiyyah nos–dias–de Yoshiyyahu filho–de Amon rei–de Yehudah
+-- c1-v2: Recolhendo recolherei tudo de–sobre face–de a–terra declaração–de YHWH
+-- c1-v3: Recolherei homem e–animal recolherei ave–de os–céus e–peixes–de o–mar e–os–tropeços (a) os–ímpios e–cortarei (a) o–homem de–sobre face–de a–terra declaração–de YHWH
+-- c1-v4: E–estenderei minha–mão sobre Yehudah e–sobre todos habitantes–de Yerushalayim e–cortarei de o–lugar o–este (a) resto–de o–Baal (a) nome–de os–sacerdotes–idólatras com os–sacerdotes
+-- c1-v5: e–(a) os–que–prostram sobre os–telhados ao–exército–de os–céus e–(a) os–que–prostram os–que–juram a–YHWH e–os–que–juram por–Milkom
+-- c1-v6: e–(a) os–que–recuam de–após YHWH e–que não buscaram (a) YHWH e–não inquiriram–o
+-- c1-v7: Silêncio diante–de Senhor YHWH pois perto dia–de YHWH pois preparou YHWH sacrifício santificou seus–convidados
+-- c1-v8: E–será no–dia–de sacrifício–de YHWH e–visitarei sobre os–príncipes e–sobre filhos–de o–rei e–sobre todos os–que–vestem vestimenta estrangeira
+-- c1-v9: E–visitarei sobre todos os–que–saltam sobre a–soleira no–dia aquele os–que–enchem casa–de seus–senhores violência e–engano §
+-- c1-v10: E–será no–dia aquele declaração–de YHWH voz–de clamor de–Portão–de os–Peixes e–lamento de o–Segundo e–quebra grande das–colinas
+-- c1-v11: Lamentai habitantes–de o–Maktesh pois foi–destruído todo povo–de Kenaan foram–cortados todos carregados–de prata
+-- c1-v12: E–será no–tempo aquele esquadrinharei (a) Yerushalayim com–as–lâmpadas e–visitarei sobre os–homens os–que–solidificam sobre suas–borras os–que–dizem em–seu–coração não faz–bem YHWH e–não faz–mal
+-- c1-v13: E–será sua–riqueza para–saque e–suas–casas para–desolação e–construirão casas e–não habitarão e–plantarão vinhas e–não beberão (a) seu–vinho
+-- c1-v14: Perto dia–de YHWH o–grande perto e–apressando muito voz–de dia–de YHWH amargo gritando ali guerreiro
+-- c1-v15: Dia–de ira o–dia aquele dia–de angústia e–aflição dia–de devastação e–destruição dia–de trevas e–escuridão dia–de nuvem e–negrume
+-- c1-v16: dia–de shofar e–alarme sobre as–cidades as–fortificadas e–sobre as–torres as–altas
+-- c1-v17: E–angustiarei ao–homem e–andarão como–cegos pois contra–YHWH pecaram e–será–derramado seu–sangue como–pó e–suas–entranhas como–esterco
+-- c1-v18: Também sua–prata também seu–ouro não poderá livrá–los no–dia–de ira–de YHWH e–no–fogo–de seu–zelo será–consumida toda a–terra pois fim certamente apressado fará (a) todos habitantes–de a–terra §
+-- c2-v1: Ajuntai–vos e–ajuntai a–nação não envergonhada
+-- c2-v2: Antes–de nascer decreto como–palha passa dia antes–de não vir sobre–vós ardor–de ira–de YHWH antes–de não vir sobre–vós dia–de ira–de YHWH
+-- c2-v3: Buscai (a) YHWH todos mansos–de a–terra que seu–juízo praticaram buscai justiça buscai humildade talvez sejais–escondidos no–dia–de ira–de YHWH
+-- c2-v4: Pois Azah abandonada será e–Ashqelon para–desolação Ashdod ao–meio–dia a–expulsarão e–Eqron será–arrancada §
+-- c2-v5: Ai habitantes–de região–de o–mar nação–de Keretim Palavra–de YHWH sobre–vós Kenaan terra–de Pelishtim e–destruirei–te de–sem habitante
+-- c2-v6: E–será região–de o–mar pastos–de poços–de pastores e–currais–de ovelhas
+-- c2-v7: E–será região para–remanescente–de casa–de Yehudah sobre–eles apascentarão nas–casas–de Ashqelon ao–entardecer se–deitarão pois visitá–los–á YHWH seu–Deus e–restaurará [seu–cativeiro] (seu–cativeiro)
+-- c2-v8: Ouvi reproches–de Moav e–blasfêmias–de filhos–de Ammon que afrontaram (a) meu–povo e–engrandeceram–se sobre seu–território
+-- c2-v9: Portanto vivo eu declaração–de YHWH Tsevaot Deus–de Yisrael pois Moav como–Sedom será e–filhos–de Ammon como–Amorah posse–de urtigas e–cova–de sal e–desolação até eternidade remanescente–de meu–povo os–saquearão e–resto–de [minha–nação] (minha–nação) os–herdarão
+-- c2-v10: Isto para–eles em–lugar–de sua–soberba pois afrontaram e–engrandeceram–se sobre povo–de YHWH Tsevaot
+-- c2-v11: Terrível YHWH sobre–eles pois emagreceu (a) todos deuses–de a–terra e–prostrar–se–ão a–ele homem de–seu–lugar todas ilhas–de as–nações
+-- c2-v12: Também vós Kushim traspassados–de minha–espada eles
+-- c2-v13: E–estenderá sua–mão sobre norte e–destruirá (a) Ashur e–fará (a) Nineveh para–desolação sequidão como–o–deserto
+-- c2-v14: E–deitar–se–ão no–meio–dela rebanhos toda criatura–de nação também pelicão também ouriço em–seus–capitéis pernoitarão voz cantará na–janela ruína na–soleira pois cedro foi–desnudado
+-- c2-v15: Esta a–cidade a–exultante a–que–habita em–segurança a–que–diz em–seu–coração eu e–não–há–outro mais como tornou–se para–ruína repouso para–animal todo que–passa por–ela assoviará acenará sua–mão §
+-- c3-v1: Ai rebelde e–contaminada a–cidade a–opressora
+-- c3-v2: Não ouviu à–voz não recebeu correção em–YHWH não confiou a seu–Deus não se–aproximou
+-- c3-v3: Seus–príncipes no–meio–dela leões rugindo seus–juízes lobos–de tarde não roem para–a–manhã
+-- c3-v4: Seus–profetas precipitados homens–de traições seus–sacerdotes profanaram santo violentaram lei
+-- c3-v5: YHWH justo no–meio–dela não faz injustiça pela–manhã pela–manhã seu–juízo dá à–luz não falha e–não conhece injusto vergonha
+-- c3-v6: Cortei nações foram–desolados seus–cantos arruinei suas–ruas de–sem que–passa foram–destruídas suas–cidades de–sem homem de–sem habitante
+-- c3-v7: Disse certamente temerás–me a–mim receberás correção e–não será–cortada sua–morada tudo que visitei sobre–ela verdadeiramente madrugaram corromperam todas suas–obras
+-- c3-v8: Portanto esperai por–mim declaração–de YHWH para–dia–de levantar–me para–presa pois meu–juízo é–ajuntar nações para–reunir reinos para–derramar sobre–eles minha–indignação todo ardor–de minha–ira pois no–fogo–de meu–zelo será–consumida toda a–terra
+-- c3-v9: Pois então converterei a povos lábio puro para–invocar todos–eles em–nome–de YHWH para–servi–lo ombro um
+-- c3-v10: De–além de–rios–de Kush meus–suplicantes filha–de meus–dispersos trarão minha–oferta
+-- c3-v11: No–dia aquele não terás–vergonha de–todas tuas–obras que transgrediste contra–mim pois então removerei do–meio–de–ti exultantes–de tua–soberba e–não continuarás a–ser–altiva mais em–monte–de minha–santidade
+-- c3-v12: E–deixarei–ficar no–meio–de–ti povo pobre e–necessitado e–refugiar–se–ão em–nome–de YHWH
+-- c3-v13: Remanescente–de Yisrael não farão injustiça e–não falarão mentira e–não será–achada em–sua–boca língua–de engano pois eles apascentarão e–deitar–se–ão e–não–há quem–amedronte §
+-- c3-v14: Canta filha–de Tsiyon gritai Yisrael alegra–te e–exulta com–todo coração filha–de Yerushalayim
+-- c3-v15: Removeu YHWH teus–juízos virou teu–inimigo Rei–de Yisrael YHWH no–meio–de–ti não temerás mal mais
+-- c3-v16: No–dia aquele será–dito a–Yerushalayim não temas Tsiyon não afrouxem tuas–mãos
+-- c3-v17: YHWH teu–Deus no–meio–de–ti guerreiro que–salva regozijar–se–á sobre–ti com–alegria ficará–em–silêncio em–seu–amor exultará sobre–ti com–cântico
+-- c3-v18: Os–que–entristecem pela–festa ajuntei de–ti estavam carga sobre–ela reproche
+-- c3-v19: Eis–me tratando (a) todos teus–opressores no–tempo aquele e–salvarei (a) a–que–manqueja e–a–dispersa ajuntarei e–fá–los–ei para–louvor e–para–nome em–toda a–terra de–sua–vergonha
+-- c3-v20: No–tempo aquele trarei vós e–no–tempo–de ajuntar vós pois darei vós para–nome e–para–louvor entre–todos povos–de a–terra quando–restaurar (a) vossos–cativos diante–de–vossos–olhos diz YHWH
 
 BEGIN;
 -- 3600100101: דְּבַר־ (H1697) → "Palavra–de" [opus-4.5-chirho]

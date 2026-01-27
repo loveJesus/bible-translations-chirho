@@ -3,265 +3,265 @@
 -- — John 3:16
 
 -- 2CORINTHIANS - POR Combined
--- Generated: 2026-01-27T21:46:23Z
+-- Generated: 2026-01-27T22:19:24Z
 
--- 2CORINTHIANS c1-v1 - POR
--- 2CORINTHIANS c1-v2 - POR
--- 2CORINTHIANS c1-v3 - POR
--- 2CORINTHIANS c1-v4 - POR
--- 2CORINTHIANS c1-v5 - POR
--- 2CORINTHIANS c1-v6 - POR
--- 2CORINTHIANS c1-v7 - POR
--- 2CORINTHIANS c1-v8 - POR
--- 2CORINTHIANS c1-v9 - POR
--- 2CORINTHIANS c1-v10 - POR
--- 2CORINTHIANS c1-v11 - POR
--- 2CORINTHIANS c1-v12 - POR
--- 2CORINTHIANS c1-v13 - POR
--- 2CORINTHIANS c1-v14 - POR
--- 2CORINTHIANS c1-v15 - POR
--- 2CORINTHIANS c1-v16 - POR
--- 2CORINTHIANS c1-v17 - POR
--- 2CORINTHIANS c1-v18 - POR
--- 2CORINTHIANS c1-v19 - POR
--- 2CORINTHIANS c1-v20 - POR
--- 2CORINTHIANS c1-v21 - POR
--- 2CORINTHIANS c1-v22 - POR
--- 2CORINTHIANS c1-v23 - POR
--- 2CORINTHIANS c1-v24 - POR
--- 2CORINTHIANS c2-v1 - POR
--- 2CORINTHIANS c2-v2 - POR
--- 2CORINTHIANS c2-v3 - POR
--- 2CORINTHIANS c2-v4 - POR
--- 2CORINTHIANS c2-v5 - POR
--- 2CORINTHIANS c2-v6 - POR
--- 2CORINTHIANS c2-v7 - POR
--- 2CORINTHIANS c2-v8 - POR
--- 2CORINTHIANS c2-v9 - POR
--- 2CORINTHIANS c2-v10 - POR
--- 2CORINTHIANS c2-v11 - POR
--- 2CORINTHIANS c2-v12 - POR
--- 2CORINTHIANS c2-v13 - POR
--- 2CORINTHIANS c2-v14 - POR
--- 2CORINTHIANS c2-v15 - POR
--- 2CORINTHIANS c2-v16 - POR
--- 2CORINTHIANS c2-v17 - POR
--- 2CORINTHIANS c3-v1 - POR
--- 2CORINTHIANS c3-v2 - POR
--- 2CORINTHIANS c3-v3 - POR
--- 2CORINTHIANS c3-v4 - POR
--- 2CORINTHIANS c3-v5 - POR
--- 2CORINTHIANS c3-v6 - POR
--- 2CORINTHIANS c3-v7 - POR
--- 2CORINTHIANS c3-v8 - POR
--- 2CORINTHIANS c3-v9 - POR
--- 2CORINTHIANS c3-v10 - POR
--- 2CORINTHIANS c3-v11 - POR
--- 2CORINTHIANS c3-v12 - POR
--- 2CORINTHIANS c3-v13 - POR
--- 2CORINTHIANS c3-v14 - POR
--- 2CORINTHIANS c3-v15 - POR
--- 2CORINTHIANS c3-v16 - POR
--- 2CORINTHIANS c3-v17 - POR
--- 2CORINTHIANS c3-v18 - POR
--- 2CORINTHIANS c4-v1 - POR
--- 2CORINTHIANS c4-v2 - POR
--- 2CORINTHIANS c4-v3 - POR
--- 2CORINTHIANS c4-v4 - POR
--- 2CORINTHIANS c4-v5 - POR
--- 2CORINTHIANS c4-v6 - POR
--- 2CORINTHIANS c4-v7 - POR
--- 2CORINTHIANS c4-v8 - POR
--- 2CORINTHIANS c4-v9 - POR
--- 2CORINTHIANS c4-v10 - POR
--- 2CORINTHIANS c4-v11 - POR
--- 2CORINTHIANS c4-v12 - POR
--- 2CORINTHIANS c4-v13 - POR
--- 2CORINTHIANS c4-v14 - POR
--- 2CORINTHIANS c4-v15 - POR
--- 2CORINTHIANS c4-v16 - POR
--- 2CORINTHIANS c4-v17 - POR
--- 2CORINTHIANS c4-v18 - POR
--- 2CORINTHIANS c5-v1 - POR
--- 2CORINTHIANS c5-v2 - POR
--- 2CORINTHIANS c5-v3 - POR
--- 2CORINTHIANS c5-v4 - POR
--- 2CORINTHIANS c5-v5 - POR
--- 2CORINTHIANS c5-v6 - POR
--- 2CORINTHIANS c5-v7 - POR
--- 2CORINTHIANS c5-v8 - POR
--- 2CORINTHIANS c5-v9 - POR
--- 2CORINTHIANS c5-v10 - POR
--- 2CORINTHIANS c5-v11 - POR
--- 2CORINTHIANS c5-v12 - POR
--- 2CORINTHIANS c5-v13 - POR
--- 2CORINTHIANS c5-v14 - POR
--- 2CORINTHIANS c5-v15 - POR
--- 2CORINTHIANS c5-v16 - POR
--- 2CORINTHIANS c5-v17 - POR
--- 2CORINTHIANS c5-v18 - POR
--- 2CORINTHIANS c5-v19 - POR
--- 2CORINTHIANS c5-v20 - POR
--- 2CORINTHIANS c5-v21 - POR
--- 2CORINTHIANS c6-v1 - POR
--- 2CORINTHIANS c6-v2 - POR
--- 2CORINTHIANS c6-v3 - POR
--- 2CORINTHIANS c6-v4 - POR
--- 2CORINTHIANS c6-v5 - POR
--- 2CORINTHIANS c6-v6 - POR
--- 2CORINTHIANS c6-v7 - POR
--- 2CORINTHIANS c6-v8 - POR
--- 2CORINTHIANS c6-v9 - POR
--- 2CORINTHIANS c6-v10 - POR
--- 2CORINTHIANS c6-v11 - POR
--- 2CORINTHIANS c6-v12 - POR
--- 2CORINTHIANS c6-v13 - POR
--- 2CORINTHIANS c6-v14 - POR
--- 2CORINTHIANS c6-v15 - POR
--- 2CORINTHIANS c6-v16 - POR
--- 2CORINTHIANS c6-v17 - POR
--- 2CORINTHIANS c6-v18 - POR
--- 2CORINTHIANS c7-v1 - POR
--- 2CORINTHIANS c7-v2 - POR
--- 2CORINTHIANS c7-v3 - POR
--- 2CORINTHIANS c7-v4 - POR
--- 2CORINTHIANS c7-v5 - POR
--- 2CORINTHIANS c7-v6 - POR
--- 2CORINTHIANS c7-v7 - POR
--- 2CORINTHIANS c7-v8 - POR
--- 2CORINTHIANS c7-v9 - POR
--- 2CORINTHIANS c7-v10 - POR
--- 2CORINTHIANS c7-v11 - POR
--- 2CORINTHIANS c7-v12 - POR
--- 2CORINTHIANS c7-v13 - POR
--- 2CORINTHIANS c7-v14 - POR
--- 2CORINTHIANS c7-v15 - POR
--- 2CORINTHIANS c7-v16 - POR
--- 2CORINTHIANS c8-v1 - POR
--- 2CORINTHIANS c8-v2 - POR
--- 2CORINTHIANS c8-v3 - POR
--- 2CORINTHIANS c8-v4 - POR
--- 2CORINTHIANS c8-v5 - POR
--- 2CORINTHIANS c8-v6 - POR
--- 2CORINTHIANS c8-v7 - POR
--- 2CORINTHIANS c8-v8 - POR
--- 2CORINTHIANS c8-v9 - POR
--- 2CORINTHIANS c8-v10 - POR
--- 2CORINTHIANS c8-v11 - POR
--- 2CORINTHIANS c8-v12 - POR
--- 2CORINTHIANS c8-v13 - POR
--- 2CORINTHIANS c8-v14 - POR
--- 2CORINTHIANS c8-v15 - POR
--- 2CORINTHIANS c8-v16 - POR
--- 2CORINTHIANS c8-v17 - POR
--- 2CORINTHIANS c8-v18 - POR
--- 2CORINTHIANS c8-v19 - POR
--- 2CORINTHIANS c8-v20 - POR
--- 2CORINTHIANS c8-v21 - POR
--- 2CORINTHIANS c8-v22 - POR
--- 2CORINTHIANS c8-v23 - POR
--- 2CORINTHIANS c8-v24 - POR
--- 2CORINTHIANS c9-v1 - POR
--- 2CORINTHIANS c9-v2 - POR
--- 2CORINTHIANS c9-v3 - POR
--- 2CORINTHIANS c9-v4 - POR
--- 2CORINTHIANS c9-v5 - POR
--- 2CORINTHIANS c9-v6 - POR
--- 2CORINTHIANS c9-v7 - POR
--- 2CORINTHIANS c9-v8 - POR
--- 2CORINTHIANS c9-v9 - POR
--- 2CORINTHIANS c9-v10 - POR
--- 2CORINTHIANS c9-v11 - POR
--- 2CORINTHIANS c9-v12 - POR
--- 2CORINTHIANS c9-v13 - POR
--- 2CORINTHIANS c9-v14 - POR
--- 2CORINTHIANS c9-v15 - POR
--- 2CORINTHIANS c10-v1 - POR
--- 2CORINTHIANS c10-v2 - POR
--- 2CORINTHIANS c10-v3 - POR
--- 2CORINTHIANS c10-v4 - POR
--- 2CORINTHIANS c10-v5 - POR
--- 2CORINTHIANS c10-v6 - POR
--- 2CORINTHIANS c10-v7 - POR
--- 2CORINTHIANS c10-v8 - POR
--- 2CORINTHIANS c10-v9 - POR
--- 2CORINTHIANS c10-v10 - POR
--- 2CORINTHIANS c10-v11 - POR
--- 2CORINTHIANS c10-v12 - POR
--- 2CORINTHIANS c10-v13 - POR
--- 2CORINTHIANS c10-v14 - POR
--- 2CORINTHIANS c10-v15 - POR
--- 2CORINTHIANS c10-v16 - POR
--- 2CORINTHIANS c10-v17 - POR
--- 2CORINTHIANS c10-v18 - POR
--- 2CORINTHIANS c11-v1 - POR
--- 2CORINTHIANS c11-v2 - POR
--- 2CORINTHIANS c11-v3 - POR
--- 2CORINTHIANS c11-v4 - POR
--- 2CORINTHIANS c11-v5 - POR
--- 2CORINTHIANS c11-v6 - POR
--- 2CORINTHIANS c11-v7 - POR
--- 2CORINTHIANS c11-v8 - POR
--- 2CORINTHIANS c11-v9 - POR
--- 2CORINTHIANS c11-v10 - POR
--- 2CORINTHIANS c11-v11 - POR
--- 2CORINTHIANS c11-v12 - POR
--- 2CORINTHIANS c11-v13 - POR
--- 2CORINTHIANS c11-v14 - POR
--- 2CORINTHIANS c11-v15 - POR
--- 2CORINTHIANS c11-v16 - POR
--- 2CORINTHIANS c11-v17 - POR
--- 2CORINTHIANS c11-v18 - POR
--- 2CORINTHIANS c11-v19 - POR
--- 2CORINTHIANS c11-v20 - POR
--- 2CORINTHIANS c11-v21 - POR
--- 2CORINTHIANS c11-v22 - POR
--- 2CORINTHIANS c11-v23 - POR
--- 2CORINTHIANS c11-v24 - POR
--- 2CORINTHIANS c11-v25 - POR
--- 2CORINTHIANS c11-v26 - POR
--- 2CORINTHIANS c11-v27 - POR
--- 2CORINTHIANS c11-v28 - POR
--- 2CORINTHIANS c11-v29 - POR
--- 2CORINTHIANS c11-v30 - POR
--- 2CORINTHIANS c11-v31 - POR
--- 2CORINTHIANS c11-v32 - POR
--- 2CORINTHIANS c11-v33 - POR
--- 2CORINTHIANS c12-v1 - POR
--- 2CORINTHIANS c12-v2 - POR
--- 2CORINTHIANS c12-v3 - POR
--- 2CORINTHIANS c12-v4 - POR
--- 2CORINTHIANS c12-v5 - POR
--- 2CORINTHIANS c12-v6 - POR
--- 2CORINTHIANS c12-v7 - POR
--- 2CORINTHIANS c12-v8 - POR
--- 2CORINTHIANS c12-v9 - POR
--- 2CORINTHIANS c12-v10 - POR
--- 2CORINTHIANS c12-v11 - POR
--- 2CORINTHIANS c12-v12 - POR
--- 2CORINTHIANS c12-v13 - POR
--- 2CORINTHIANS c12-v14 - POR
--- 2CORINTHIANS c12-v15 - POR
--- 2CORINTHIANS c12-v16 - POR
--- 2CORINTHIANS c12-v17 - POR
--- 2CORINTHIANS c12-v18 - POR
--- 2CORINTHIANS c12-v19 - POR
--- 2CORINTHIANS c12-v20 - POR
--- 2CORINTHIANS c12-v21 - POR
--- 2CORINTHIANS c13-v1 - POR
--- 2CORINTHIANS c13-v2 - POR
--- 2CORINTHIANS c13-v3 - POR
--- 2CORINTHIANS c13-v4 - POR
--- 2CORINTHIANS c13-v5 - POR
--- 2CORINTHIANS c13-v6 - POR
--- 2CORINTHIANS c13-v7 - POR
--- 2CORINTHIANS c13-v8 - POR
--- 2CORINTHIANS c13-v9 - POR
--- 2CORINTHIANS c13-v10 - POR
--- 2CORINTHIANS c13-v11 - POR
--- 2CORINTHIANS c13-v12 - POR
--- 2CORINTHIANS c13-v13 - POR
--- 2CORINTHIANS c13-v14 - POR
+-- c1-v1: Paulo apóstolo de–Cristo Jesus por vontade de–Deus e Timóteo o irmão à igreja do Deus a que–está em Corinto com os santos todos os que–estão em toda a Acaia
+-- c1-v2: graça a–vós e paz da–parte–de Deus Pai nosso e Senhor Jesus Cristo
+-- c1-v3: Bendito o Deus e Pai do Senhor nosso Jesus Cristo o Pai das misericórdias e Deus de–toda consolação
+-- c1-v4: o que–consola nos em toda a aflição nossa para o poder nós consolar os em toda aflição por–meio–de a consolação que somos–consolados nós–mesmos por o Deus
+-- c1-v5: porque assim–como abundam os sofrimentos do Cristo em nós assim por–meio–de o Cristo abunda também a consolação nossa
+-- c1-v6: quer porém somos–afligidos por a vossa consolação e salvação quer somos–consolados por a vossa consolação a que–opera em perseverança dos mesmos sofrimentos que também nós sofremos
+-- c1-v7: e a esperança nossa firme por vós sabendo que assim–como participantes sois dos sofrimentos assim também da consolação
+-- c1-v8: Não pois queremos vós ignorar irmãos acerca–de a aflição nossa a que–aconteceu na a Ásia que sobre medida além–de força fomos–sobrecarregados de–modo–que desesperar nós até do viver
+-- c1-v9: mas nós–mesmos em nós–mesmos a sentença da morte tivemos para–que não confiando estejamos em nós–mesmos mas em o Deus o que–ressuscita os mortos
+-- c1-v10: que de tão–grande morte livrou nos e livrará em quem temos–esperado que também ainda livrará
+-- c1-v11: cooperando também vós por nós na súplica para–que de muitas pessoas o para nós dom por–meio–de muitos seja–agradecido por nós
+-- c1-v12: A pois glorificação nossa esta é o testemunho da consciência nossa que em santidade e sinceridade de Deus e não em sabedoria carnal mas em graça de–Deus nos–conduzimos no o mundo mais–abundantemente porém para–convosco vós
+-- c1-v13: não pois outras–coisas escrevemos a–vós senão que o–que ledes ou também reconheceis espero porém que até o–fim reconhecereis
+-- c1-v14: assim–como também reconhecestes nos em parte que motivo–de–glória vosso somos assim–como também vós nosso no o dia do Senhor nosso Jesus
+-- c1-v15: E nesta a confiança eu–queria primeiro a vós vir para–que segunda graça tenhais
+-- c1-v16: e por vós passar para Macedônia e de–novo de Macedônia vir a vós e por vós ser–encaminhado para a Judeia
+-- c1-v17: isto portanto querendo porventura então a leviandade usei ou o–que delibero segundo carne delibero para–que haja em mim o Sim sim e o Não não
+-- c1-v18: fiel porém é–o Deus que a palavra nossa a para vós não é Sim e Não
+-- c1-v19: o de Deus pois Filho Cristo Jesus o entre vós por nós pregado por mim e Silvano e Timóteo não foi Sim e Não mas Sim nele tem–sido feito
+-- c1-v20: quantas pois promessas de–Deus nele há–o o Sim por–isso também por ele o Amém a Deus para glória por nós
+-- c1-v21: o porém que–confirma nos convosco vós em Cristo e que–ungiu nos é–Deus
+-- c1-v22: o que–também selou nos e deu o penhor do Espírito nos os corações nossos
+-- c1-v23: Eu porém testemunha a Deus invoco sobre a minha alma que poupando vós não–mais vim a Corinto
+-- c1-v24: não que dominamos vossa a fé mas cooperadores somos da alegria vossa pois–na pois fé estais–firmes
+-- c2-v1: decidi pois comigo-mesmo isto o não de-novo em tristeza a vós vir
+-- c2-v2: se pois eu entristeço vós e quem é-o que-alegra me se não o que-está-entristecido por mim
+-- c2-v3: e escrevi isto mesmo para-que não tendo-vindo tristeza tivesse da-parte-de aqueles-de-quem era-necessário me alegrar tendo-confiança em todos vós que a minha alegria de-todos vós é
+-- c2-v4: de pois muita aflição e angústia de-coração escrevi a-vós por-meio-de muitas lágrimas não para-que fiqueis-tristes mas o amor para-que conheçais que tenho mais-abundantemente para vós
+-- c2-v5: Se porém alguém entristeceu não a-mim entristeceu mas em parte para-que não sobrecarregue todos vós
+-- c2-v6: suficiente ao tal a repreenção esta a pela dos muitos
+-- c2-v7: de-modo-que pelo-contrário antes vós perdoar e consolar não de-algum-modo pela excessiva tristeza seja-devorado o tal
+-- c2-v8: por-isso exorto vós confirmar para ele amor
+-- c2-v9: para isto pois também escrevi para-que conhecesse a prova vossa se em tudo obedientes sois
+-- c2-v10: a-quem porém algo perdoais eu-também e pois eu o-que tenho-perdoado se algo tenho-perdoado por vós na presença de-Cristo
+-- c2-v11: para-que não sejamos-levados-vantagem por o Satanás não pois dele os desígnios ignoramos
+-- c2-v12: Tendo-vindo porém a a Trôade para o evangelho de Cristo e porta a-mim tendo-sido-aberta no Senhor
+-- c2-v13: não tive descanso no espírito meu pelo não encontrar eu Tito o irmão meu mas tendo-me-despedido deles parti para Macedônia
+-- c2-v14: A porém Deus graças o sempre que-nos-conduz-em-triunfo nos em o Cristo e o perfume do conhecimento dele manifestando por nós em todo lugar
+-- c2-v15: porque de-Cristo fragrância somos para Deus entre os que-são-salvos e entre os que-perecem
+-- c2-v16: para-uns por-um-lado cheiro de morte para morte para-outros porém cheiro de vida para vida e para estas-coisas quem capaz
+-- c2-v17: não pois somos como os muitos que-mercadejam a palavra de Deus mas como de sinceridade mas como de Deus diante-de Deus em Cristo falamos
+-- c3-v1: Começamos de-novo a-nós-mesmos recomendar ou não necessitamos como alguns de-recomendação cartas para vós ou de vós
+-- c3-v2: a carta nossa vós sois escrita nos os corações nossos conhecida e lida por todos homens
+-- c3-v3: sendo-manifestados que sois carta de-Cristo ministrada por nós escrita não com-tinta mas com-Espírito de-Deus vivo não em tábuas de-pedra mas em tábuas de-corações de-carne
+-- c3-v4: Confiança porém tal temos por-meio-de o Cristo para o Deus
+-- c3-v5: não que de nós-mesmos capazes somos considerar algo como de nós-mesmos mas a capacidade nossa de o Deus
+-- c3-v6: que também capacitou nos ministros de-nova aliança não de-letra mas de-espírito a pois letra mata o porém espírito vivifica
+-- c3-v7: Se porém o ministério da morte em letras gravado em-pedras veio-a-ser em glória de-modo-que não poder fixar-os-olhos os filhos de-Israel no o rosto de-Moisés por-causa-de a glória do rosto dele a que-estava-desvanecendo
+-- c3-v8: como não antes o ministério do espírito será em glória
+-- c3-v9: se pois o ministério da condenação glória muito mais abunda o ministério da justiça em-glória
+-- c3-v10: e pois não foi-glorificado o que-foi-glorificado neste isto o respeito por-causa-de a superabundante glória
+-- c3-v11: se pois o que-estava-desvanecendo por-meio-de glória muito mais o que-permanece em glória
+-- c3-v12: Tendo portanto tal esperança muita ousadia usamos
+-- c3-v13: e não assim-como Moisés punha véu sobre o rosto dele para o não fixar-os-olhos os filhos de-Israel no o fim do que-estava-desvanecendo
+-- c3-v14: mas foram-endurecidos os entendimentos deles até pois o de-hoje dia o mesmo véu sobre a leitura da velha aliança permanece não sendo-removido porque em Cristo desvanece
+-- c3-v15: mas até hoje quando porventura é-lido Moisés véu sobre o coração deles jaz
+-- c3-v16: quando porém se se-converter ao Senhor é-removido o véu
+-- c3-v17: o porém Senhor o Espírito é onde porém o Espírito do-Senhor liberdade
+-- c3-v18: nós porém todos com-descoberto rosto a glória do-Senhor contemplando-como-em-espelho na mesma imagem somos-transformados de glória em glória assim-como pelo Senhor Espírito
+-- c4-v1: Por isso tendo o ministério este assim-como recebemos-misericórdia não desanimamos
+-- c4-v2: mas renúciamos as ocultas-coisas da vergonha não andando em astúcia nem adulterando a palavra de Deus mas pela manifestação da verdade recomendando a-nós-mesmos a toda consciência de-homens diante de Deus
+-- c4-v3: se porém também está encoberto o evangelho nosso entre os que-perecem está encoberto
+-- c4-v4: nos quais o deus deste século este cegou os entendimentos dos incrédulos para o não resplandecer a iluminação do evangelho da glória de Cristo que é imagem de Deus
+-- c4-v5: não pois a-nós-mesmos pregamos mas Cristo Jesus Senhor a-nós-mesmos porém servos vossos por-causa-de Jesus
+-- c4-v6: porque o Deus o que-disse de trevas luz resplandecerá que resplandeceu nos os corações nossos para iluminação do conhecimento da glória de Deus no rosto de-Jesus Cristo
+-- c4-v7: Temos porém o tesouro este em de-barro vasos para-que a excelência do poder seja de Deus e não de nós
+-- c4-v8: em tudo sendo-atribulados mas não sendo-angustiados perplexos mas não desesperados
+-- c4-v9: perseguidos mas não desamparados abatidos mas não destruídos
+-- c4-v10: sempre a mortificação de Jesus no o corpo levando para-que também a vida de Jesus no o corpo nosso seja-manifestada
+-- c4-v11: sempre pois nós os que-vivemos à morte somos-entregues por-causa-de Jesus para-que também a vida de Jesus seja-manifestada na a mortal carne nossa
+-- c4-v12: de-modo-que a morte em nós opera a porém vida em vós
+-- c4-v13: tendo porém o mesmo espírito da fé segundo o que-está-escrito cri por-isso falei também nós cremos por-isso também falamos
+-- c4-v14: sabendo que o que-ressuscitou o Senhor Jesus também a-nós com Jesus ressuscitará e apresentará com vós
+-- c4-v15: as pois todas-coisas por vós para-que a graça tendo-aumentado por-meio-de os muitos a ação-de-graças faça-abundar para a glória de Deus
+-- c4-v16: Por-isso não desanimamos mas ainda-que também o exterior nosso homem se-corrompa contudo o interior nosso é-renovado dia após dia
+-- c4-v17: a pois momentânea leve da aflição nossa muito acima-de-toda-medida em toda-medida eterno peso de-glória produz para-nós
+-- c4-v18: não fitando nós as coisas-visíveis mas as não coisas-visíveis as pois coisas-visíveis são-temporárias as porém não coisas-visíveis eternas
+-- c5-v1: sabemos pois que se a terrena nossa habitação da tenda for-desfeita edifício de Deus temos casa não-feita-por-mãos eterna nos os céus
+-- c5-v2: e pois nesta isto gememos a habitação nossa a do céu revestir desejando-ardentemente
+-- c5-v3: se certamente também tendo-sido-vestidos não nus seremos-encontrados
+-- c5-v4: e pois os que-estão na a tenda gememos sendo-sobrecarregados sobre o-qual não queremos despir mas revestir para-que seja-absorvido o mortal pela a vida
+-- c5-v5: o porém que-nos-preparou nos para isto mesmo Deus o que-deu a-nós o penhor do Espírito
+-- c5-v6: Tendo-ânimo portanto sempre e sabendo que estando-presentes no o corpo estamos-ausentes do o Senhor
+-- c5-v7: por fé pois andamos não por vista
+-- c5-v8: temos-ânimo porém e preferimos antes estar-ausentes do o corpo e estar-presentes com o Senhor
+-- c5-v9: por-isso também esforçamo-nos quer presentes quer ausentes agradáveis a-ele ser
+-- c5-v10: os pois todos nós ser-manifestados é-necessário diante do tribunal de Cristo para-que receba cada-um as-coisas feitas-por-meio-de o corpo segundo o-que praticou quer bem quer mal
+-- c5-v11: Sabendo portanto o temor do Senhor homens persuadimos a-Deus porém temos-sido-manifestos espero porém também nas as consciências vossas ter-sido-manifestos
+-- c5-v12: não de-novo a-nós-mesmos recomendamos a-vós mas ocasião dando a-vós de-glorificação em-favor-de nós para-que tenhais para-com os na aparência que-se-gloriam e não no coração
+-- c5-v13: quer pois enlouquecemos para-Deus quer somos-sóbrios para-vós
+-- c5-v14: o pois amor de Cristo constrange nos tendo-julgado isto que um por todos morreu logo os todos morreram
+-- c5-v15: e por todos morreu para-que os que-vivem não-mais para-si-mesmos vivam mas para-aquele-que por eles morreu e ressuscitou
+-- c5-v16: De-modo-que nós de o agora a-ninguém conhecemos segundo carne ainda-que também conhecemos segundo carne Cristo contudo agora não-mais conhecemos
+-- c5-v17: de-modo-que se alguém em Cristo nova criação as antigas-coisas passaram eis tornaram-se novas
+-- c5-v18: as porém todas-coisas de o Deus o que-reconciliou nos consigo-mesmo por Cristo e que-deu a-nós o ministério da reconciliação
+-- c5-v19: como-que que Deus estava em Cristo mundo reconciliando consigo-mesmo não imputando a-eles as transgressões deles e tendo-posto em nós a palavra da reconciliação
+-- c5-v20: Em-favor-de Cristo portanto somos-embaixadores como de Deus exortando por nós rogamos em-favor-de Cristo reconciliai-vos com Deus
+-- c5-v21: aquele-que não conheceu pecado em-favor-de nós pecado fez para-que nós tornássemos justiça de-Deus nele ele
+-- c6-v1: Cooperando porém também exortamos não em vão a graça de Deus receber vós
+-- c6-v2: diz pois em-tempo aceitável ouvi te e em dia de-salvação socorri te eis agora tempo bem-aceitável eis agora dia de-salvação
+-- c6-v3: nenhuma em nada dando ofensa para-que não seja-censurado o ministério
+-- c6-v4: mas em tudo recomendando a-nós-mesmos como de-Deus ministros em perseverança muita em aflições em necessidades em angústias
+-- c6-v5: em açoites em prisões em tumultos em trabalhos em vigílias em jejuns
+-- c6-v6: em pureza em conhecimento em longanimidade em benignidade em Espírito Santo em amor não-fingido
+-- c6-v7: em palavra de-verdade em poder de-Deus pelas as armas da justiça as da-direita e da-esquerda
+-- c6-v8: por glória e desonra por má-fama e boa-fama como enganadores e verdadeiros
+-- c6-v9: como desconhecidos e bem-conhecidos como morrendo e eis vivemos como sendo-castigados e não sendo-mortos
+-- c6-v10: como entristecidos sempre porém nos-alegrando como pobres a-muitos porém enriquecendo como nada tendo e tudo possuindo
+-- c6-v11: A boca nossa está-aberta para vós coríntios o coração nosso está-alargado
+-- c6-v12: não estais-constrangidos em nós estais-constrangidos porém nas as entranhas vossas
+-- c6-v13: a porém mesma recompensa como a-filhos falo alargai-vos também vós
+-- c6-v14: Não vos-torneis em-jugo-desigual com-incrédulos que pois participação tem-justiça com iniquidade ou que comunhão tem-luz com trevas
+-- c6-v15: que porém harmonia tem-Cristo com Belial ou que parte tem-o-fiel com o-incrédulo
+-- c6-v16: que porém acordo tem-o-templo de-Deus com ídolos nós pois templo de-Deus somos vivo assim-como disse o Deus que habitarei neles eles e andarei-entre-eles e serei deles Deus e eles serão meu povo
+-- c6-v17: por-isso saí do meio deles e apartai-vos diz o-Senhor e em-imundo não toqueis e-eu vos-receberei vós
+-- c6-v18: e serei a-vós por Pai e vós sereis a-mim por filhos e filhas diz o-Senhor Todo-Poderoso
+-- c7-v1: estas pois tendo as promessas amados purifiquemo-nos nós–mesmos de toda contaminação da–carne e do–espírito aperfeiçoando santidade em temor de–Deus
+-- c7-v2: Dai-nos–lugar nos ninguém prejudicamos ninguém corrompemos ninguém exploramos
+-- c7-v3: para condenação não digo já–disse pois que em os corações nossos estais para o juntamente–morrer e juntamente–viver
+-- c7-v4: grande a–mim ousadia para–convosco vós grande a–mim glória por vós estou–cheio da consolação transbordo de alegria em toda a tribulação nossa
+-- c7-v5: E pois tendo–chegado nós à Macedônia nenhum teve descanso a carne nossa mas em tudo atribulados por–fora lutas por–dentro temores
+-- c7-v6: mas o–que consola os humildes consolou nos o Deus na a vinda de–Tito
+-- c7-v7: não somente porém na a vinda dele mas também na a consolação com–que foi–consolado por vós anunciando-nos nos o vosso ardente–desejo o vosso pranto o vosso zelo por mim de–modo–que me mais alegrei
+-- c7-v8: porque se também entristeci vos na a carta não me–arrependo se também me–arrependia vejo pois que a carta aquela se também por uma–hora entristeceu vos
+-- c7-v9: agora alegro-me não porque fostes–entristecidos mas porque fostes–entristecidos para arrependimento fostes–entristecidos pois segundo Deus para–que em nada tivésseis–dano por nós
+-- c7-v10: a pois segundo Deus tristeza arrependimento para salvação sem–arrependimento produz a porém do mundo tristeza morte opera
+-- c7-v11: eis pois isto–mesmo isto o segundo Deus ser–entristecidos quanta produziu em–vós diligência mas defesa mas indignação mas temor mas ardente–desejo mas zelo mas vingança em tudo demonstrastes vós–mesmos puros ser no assunto
+-- c7-v12: portanto se também escrevi vos não por–causa do que–ofendeu mas nem por–causa do que–foi–ofendido mas por–causa de ser–manifestado o zelo vosso o por nós diante–de vós perante o Deus
+-- c7-v13: por isto fomos–consolados Sobre porém a consolação nossa muito–mais ainda nos–alegramos com a alegria de–Tito porque foi–refrigerado o espírito dele por todos vós
+-- c7-v14: porque se em–algo a–ele por vós me–gloriei não fui–envergonhado mas assim–como todas–as–coisas em verdade falamos vos assim também a glória nossa a a Tito verdade se–tornou
+-- c7-v15: e as entranhas dele muito–mais para vós estão lembrando-se da de–todos vós obediência como com temor e tremor recebestes ele
+-- c7-v16: alegro-me porque em tudo confio em vós
+-- c8-v1: Fazemos–conhecer porém vos irmãos a graça de Deus a dada nas as igrejas da Macedônia
+-- c8-v2: que em muita provação de–tribulação a abundância da alegria deles e a profunda de–profundidade pobreza deles transbordou para a riqueza da generosidade deles
+-- c8-v3: porque segundo o–poder testemunho e além do–poder voluntários
+-- c8-v4: com muita exortação rogando nos a graça e a comunhão do ministério o para os santos
+-- c8-v5: e não como esperávamos mas si–mesmos deram primeiro ao Senhor e a–nós pela vontade de–Deus
+-- c8-v6: para o exortar nós Tito para–que assim–como começou–antes assim também complete entre vós também a graça esta
+-- c8-v7: mas assim–como em tudo abundais em–fé e em–palavra e em–conhecimento e em–toda diligência e no de nós em vós amor para–que também nesta esta a graça abundeis
+-- c8-v8: Não por mandamento digo mas por–meio–de a de–outros diligência e a do vosso amor sinceridade provando
+-- c8-v9: conheceis pois a graça do Senhor nosso Jesus Cristo que por vós se–fez–pobre rico sendo para–que vós pela daquele pobreza enriqueçais
+-- c8-v10: e parecer nisto isto dou isto pois a–vós convem os–quais não somente o fazer mas também o querer começastes–antes desde o–ano–passado
+-- c8-v11: agora porém também o fazer completai para–que assim–como a prontidão do querer assim também o completar daquilo–que o tendes
+-- c8-v12: se pois a prontidão está–presente conforme o–que tiver aceitável não conforme o–que não–tem
+-- c8-v13: não pois para–que a–outros alívio a–vós tribulação mas por igualdade
+-- c8-v14: no o presente tempo a vossa abundância para a deles necessidade para–que também a deles abundância seja para a vossa necessidade para–que haja igualdade
+-- c8-v15: como está–escrito O–que o muito não teve–de–mais e o–que o pouco não teve–de–menos
+-- c8-v16: Graças porém a Deus ao–que dá o mesmo zelo por vós no o coração de–Tito
+-- c8-v17: porque a de–fato exortação aceitou mais–zeloso porém sendo voluntário partiu para vós
+-- c8-v18: enviamos–juntamente porém com ele o irmão cujo o louvor no o evangelho por todas as igrejas
+-- c8-v19: não somente porém mas também escolhido pelas as igrejas companheiro–de–viagem nosso com a graça esta a administrada por nós para a dele do Senhor glória e prontidão nossa
+-- c8-v20: evitando isto que–não alguém nos culpe nesta a generosidade esta a administrada por nós
+-- c8-v21: providenciamos pois o–bem não somente perante o–Senhor mas também perante os–homens
+-- c8-v22: enviamos–juntamente porém com–eles o irmão nosso o–qual provamos em muitas–coisas muitas–vezes diligente sendo agora porém muito mais–diligente pela–confiança grande a para vós
+-- c8-v23: quer acerca–de Tito companheiro meu e para vós cooperador quer irmãos nossos enviados das–igrejas glória de–Cristo
+-- c8-v24: a pois prova do amor vosso e da–nossa glória por vós para eles demonstrando diante–da face das igrejas
+-- c9-v1: Acerca de–fato pois do ministério o para os santos supérfluo a–mim é o escrever vos
+-- c9-v2: conheço pois a prontidão vossa da–qual por vós me–glorio aos–macedônios que Acaia está–preparada desde o–ano–passado e o vosso zelo estimulou os muitos
+-- c9-v3: enviei porém os irmãos para–que não a glória nossa a por vós seja–vazia neste o aspecto este para–que assim–como dizia preparados estejais
+-- c9-v4: que–não de–algum–modo se vierem comigo comigo macedônios e encontrarem vos despreparados sejamos–envergonhados nós para–que–não não digamos vós nesta a confiança esta
+-- c9-v5: necessário pois julguei exortar os irmãos para–que fossem–antes a vós e preparassem–de–antemão a antes–prometida bênção vossa esta pronta estar assim como bênção e não como avarez
+-- c9-v6: Isto porém o–que semeia escassamente escassamente também ceifará e o–que semeia em bênçãos em bênçãos também ceifará
+-- c9-v7: cada–um conforme propôs no coração não por tristeza ou por necessidade alegre pois doador ama o Deus
+-- c9-v8: é–poderoso porém o Deus toda graça fazer–abundar para vós para–que em tudo sempre toda suficiência tendo abundeis para toda obra boa
+-- c9-v9: como está–escrito Espalhou deu aos pobres a justiça dele permanece para a eternidade
+-- c9-v10: o–que porém supre semente ao que–semeia e pão para alimento suprirá e multiplicará a semente vossa e aumentará os frutos da justiça vossa
+-- c9-v11: em tudo enriquecidos para toda generosidade a–qual opera por nós ação–de–graças a Deus
+-- c9-v12: porque o ministério deste serviço este não somente está suprindo as necessidades dos santos mas também transbordando por muitas ações–de–graças a Deus
+-- c9-v13: por a prova deste ministério este glorificando a Deus pela a submissão da confissão vossa ao o evangelho de Cristo e generosidade da comunhão para eles e para todos
+-- c9-v14: e deles súplica por vós anelando vos pela a superabundante graça de Deus sobre vós
+-- c9-v15: Graças a Deus pelo o indescritível dele dom
+-- c10-v1: Eu–mesmo porém eu Paulo exorto vos pela a mansidão e benignidade de Cristo eu–que segundo a–face de–fato humilde entre vós estando–ausente porém sou–ousado para convosco
+-- c10-v2: peço porém o não estando–presente ter–ousadia com–a confiança com–que penso ousar contra alguns os que–pensam nós como segundo a–carne andando
+-- c10-v3: Na carne pois andando não segundo a–carne militamos
+-- c10-v4: as pois armas da militância nossa não carnais mas poderosas em Deus para destruição de–fortalezas
+-- c10-v5: argumentos destruindo e toda altivez que–se–levanta contra o conhecimento de Deus e levando–cativo todo pensamento à a obediência de Cristo
+-- c10-v6: e em prontidão tendo vingar toda desobediência quando for–cumprida vossa a obediência
+-- c10-v7: As–coisas segundo a–aparência olhais se alguém confia em–si–mesmo de–Cristo ser isto considere outra–vez sobre si–mesmo que assim–como ele de–Cristo assim também nós
+-- c10-v8: se ainda pois mais–abundantemente algo me–gloriar acerca da autoridade nossa a–qual deu o Senhor para edificação e não para destruição vossa não serei–envergonhado
+-- c10-v9: para–que não pareça como se quisesse–aterrorizar vos pelas as cartas
+-- c10-v10: porque As cartas de–fato dizem pesadas e fortes a porém presença do corpo fraca e a palavra desprezível
+-- c10-v11: isto considere o tal que quais somos na palavra por cartas estando–ausentes tais também estando–presentes na obra
+-- c10-v12: Não pois ousamos classificar-nos ou comparar-nos nós–mesmos a–alguns dos si–mesmos que–recomendam mas eles entre si–mesmos si–mesmos medindo e comparando si–mesmos consigo–mesmos não entendem
+-- c10-v13: nós porém não nas as coisas–sem–medida nos–gloriaremos mas segundo a medida da regra a–qual repartiu nos o Deus como–medida alcançar até também vós
+-- c10-v14: não pois como não alcançando a vós estendemo-nos–além nós–mesmos até pois também vós chegamos no o evangelho de Cristo
+-- c10-v15: não nas as coisas–sem–medida gloriando-nos em alheios trabalhos esperança porém tendo crescendo a fé vossa entre vós ser–engrandecidos segundo a regra nossa em abundância
+-- c10-v16: para as regiões–além de–vós evangelizar não em alheia regra nas as coisas–prontas gloriar-nos
+-- c10-v17: O–que porém se–gloria no Senhor glorie-se
+-- c10-v18: não pois o–que a–si–mesmo recomenda esse é aprovado mas a–quem o Senhor recomenda
+-- c11-v1: Oxalá suportásseis de–mim um–pouco algo de–loucura mas também suportai-me me
+-- c11-v2: zelo pois vos de–Deus com–zelo desposei pois vos a–um marido virgem pura para–apresentar a Cristo
+-- c11-v3: temo porém que–não de–algum–modo assim–como a serpente enganou Eva com a astúcia dela sejam–corrompidos os pensamentos vossos da a simplicidade e a pureza a para o Cristo
+-- c11-v4: se de–fato pois o–que vem outro Jesus prega o–qual não pregamos ou espírito diferente recebeis o–qual não recebestes ou evangelho diferente o–qual não aceitastes bem tolerais
+-- c11-v5: penso pois em–nada ter–sido–inferior aos supérsumos apóstolos
+-- c11-v6: se porém também leigo na palavra mas não no conhecimento mas em tudo manifestando em todas–as–coisas a vós
+-- c11-v7: Ou pecado cometi a–mim–mesmo humilhando para–que vós fosseis–exaltados porque de–graça o de Deus evangelho evangelizei vos
+-- c11-v8: outras igrejas despojei recebendo salário para o vosso ministério
+-- c11-v9: e estando–presente convosco vós e tendo–necessidade não fui–pesado a–ninguém a pois necessidade minha supriram os irmãos vindos da Macedônia e em tudo sem–peso a–mim–mesmo a–vós guardei e guardarei
+-- c11-v10: há verdade de–Cristo em mim que a glória esta não será–detida em mim nas as regiões da Acaia
+-- c11-v11: por quê porque não amo vos o Deus sabe
+-- c11-v12: O–que porém faço também farei para–que corte a ocasião dos que–querem ocasião para–que naquilo em–que se–gloriam sejam–achados assim–como também nós
+-- c11-v13: os pois tais falsos–apóstolos obreiros fraudulentos transfigurando-se em apóstolos de–Cristo
+-- c11-v14: e não é–admiração o–próprio pois o Satanás se–transfigura em anjo de–luz
+-- c11-v15: não é–grande–coisa pois se também os ministros dele se–transfiguram como ministros de–justiça dos–quais o fim será segundo as obras deles
+-- c11-v16: Outra–vez digo que–não alguém me pense louco ser se porém não ao–menos como louco recebei-me me para–que eu–também um–pouco algo me–glorie
+-- c11-v17: o–que falo não segundo o–Senhor falo mas como em loucura nesta esta a confiança do gloriar
+-- c11-v18: já–que muitos se–gloriam segundo a carne eu–também me–gloriarei
+-- c11-v19: de–boa–vontade pois suportais os loucos sensatos sendo
+-- c11-v20: suportais pois se alguém vos escraviza se alguém devora se alguém toma se alguém se–exalta se alguém na face vos fere
+-- c11-v21: por desonra digo como que nós fomos–fracos em que porém porventura alguém ousa em loucura digo ouso eu–também
+-- c11-v22: Hebreus são eu–também Israelitas são eu–também semente de–Abraão são eu–também
+-- c11-v23: ministros de–Cristo são enlouquecendo falo muito–mais eu em trabalhos muito–mais em prisões muito–mais em açoites excessivamente em mortes muitas–vezes
+-- c11-v24: dos judeus cinco–vezes quarenta menos uma recebi
+-- c11-v25: três–vezes fui–açoitado–com–varas uma–vez fui–apedrejado três–vezes naufragei uma–noite–e–dia no o abismo passei
+-- c11-v26: em–jornadas muitas–vezes em–perigos de–rios em–perigos de–ladrões em–perigos da nação em–perigos dos gentios em–perigos na cidade em–perigos no deserto em–perigos no mar em–perigos entre falsos–irmãos
+-- c11-v27: em–trabalho e fadiga em vigílias muitas–vezes em fome e sede em jejuns muitas–vezes em frio e nudez
+-- c11-v28: além das externas a pressão sobre–mim a cada dia a preocupação de–todas as igrejas
+-- c11-v29: quem enfraquece e não enfraqueço quem é–escandalizado e não eu ardo
+-- c11-v30: se gloriar-me é–preciso nas–coisas da fraqueza minha me–gloriarei
+-- c11-v31: O Deus e Pai do Senhor Jesus sabe o–que é bendito para os séculos que não minto
+-- c11-v32: em Damasco o governador de–Aretas o rei guardava a cidade dos–damascenos para–prender-me me
+-- c11-v33: e por uma–janela em um–cesto fui–descido pelo o muro e escapei das mãos dele
+-- c12-v1: Gloriar-me é–preciso não conveniente de–fato irei porém às visões e revelações do–Senhor
+-- c12-v2: conheço um–homem em Cristo há anos catorze quer no corpo não sei quer fora do corpo não sei o Deus sabe arrebatado o tal até o–terceiro céu
+-- c12-v3: e conheço o tal homem quer no corpo quer fora do corpo não sei o Deus sabe
+-- c12-v4: que foi–arrebatado ao o Paraíso e ouviu inefáveis palavras as–quais não é–permitido ao–homem falar
+-- c12-v5: acerca do tal me–gloriarei acerca porém de–mim–mesmo não me–gloriarei se não nas as fraquezas
+-- c12-v6: se pois quiser gloriar-me não serei louco verdade pois direi abstenho-me porém que–não alguém a–meu mim estime além do–que vê em–mim ou ouve algo de mim
+-- c12-v7: e pela excelência das revelações por–isso para–que não me–exaltasse foi–dado me um–espinho na carne um–mensageiro de–Satanás para me esbofetear para–que não me–exalte
+-- c12-v8: acerca disto três–vezes ao Senhor roguei para–que se–afastasse de mim
+-- c12-v9: e disse-me me basta-te te a graça minha a pois força na fraqueza é–aperfeiçoada De–muito–boa–vontade pois antes me–gloriarei nas as fraquezas minhas para–que habite sobre mim a força de Cristo
+-- c12-v10: por–isso me–comprazo em fraquezas em injúrias em necessidades em perseguições e angústias por Cristo quando pois sou–fraco então forte sou
+-- c12-v11: Tornei-me louco vós me constrangestes eu pois devia por vós ser–recomendado em–nada pois fui–inferior aos supérsumos apóstolos se bem–que nada sou
+-- c12-v12: os de–fato sinais do apóstolo foram–realizados entre vós com toda paciência por–sinais e e prodígios e milagres
+-- c12-v13: que pois é em–que fostes–inferiores às as demais igrejas se não que eu–mesmo eu não fui–pesado a–vós perdoai-me me esta injustiça esta
+-- c12-v14: Eis terceira–vez esta prontamente tenho ir a vós e não serei–pesado não pois busco as–coisas vossas mas vós não pois devem os filhos aos pais entesourar mas os pais aos filhos
+-- c12-v15: eu porém de–muito–boa–vontade gastarei e serei–gasto pelas as almas vossas se mais–abundantemente vos amando menos sou–amado
+-- c12-v16: Seja porém eu não sobrecarreguei vos mas sendo astuto por–dolo vos tomei
+-- c12-v17: porventura alguém dos–que enviei a vós por ele explorei vos
+-- c12-v18: roguei a–Tito e enviei–juntamente o irmão porventura explorou vos Tito não no mesmo Espírito andamos não nas mesmas pegadas
+-- c12-v19: Há–muito pensais que a–vós nos–defendemos diante–de Deus em Cristo falamos as–coisas porém todas amados para a vossa edificação
+-- c12-v20: temo pois que–não de–algum–modo vindo não como quero encontre vos e–eu seja–achado por–vós qual não quereis que–não de–algum–modo contenda ciúme iras facções maledicencias murmurações soberba desordens
+-- c12-v21: que–não outra–vez tendo–vindo eu humilhe me o Deus meu entre vós e lamente muitos dos que–antes–pecaram e não se–arrependeram da a impureza e fornicação e lasciva que praticaram
+-- c13-v1: Terceira–vez esta venho a vós pela boca de–duas testemunhas e três será–confirmada toda palavra
+-- c13-v2: já–disse e digo–antes como estando–presente a segunda–vez e estando–ausente agora aos que–antes–pecaram e a–todos os–demais todos que se vier outra a vez não pouparei
+-- c13-v3: já–que prova buscais do em mim que–fala Cristo o–qual para convosco não é–fraco mas é–poderoso entre vós
+-- c13-v4: e pois foi–crucificado por fraqueza mas vive pelo poder de–Deus e pois nós somos–fracos nele dele mas viveremos com ele pelo poder de–Deus para convosco
+-- c13-v5: A–vós–mesmos examinai se estais na a fé a–vós–mesmos provai ou não reconheceis a–vós–mesmos que Jesus Cristo em vós se a–não–ser–que reprovados sois
+-- c13-v6: espero porém que conhecereis que nós não somos reprovados
+-- c13-v7: oramos porém a o Deus não fazerdes vós mal nenhum não para–que nós aprovados apareçamos mas para–que vós o bem façais nós porém como reprovados sejamos
+-- c13-v8: não pois podemos algo contra a verdade mas pela a verdade
+-- c13-v9: alegramo-nos pois quando nós somos–fracos vós porém fortes sois isto também oramos o vosso aperfeiçoamento
+-- c13-v10: Por isto estas–coisas estando–ausente escrevo para–que estando–presente não severamente use segundo a autoridade a–qual o Senhor deu-me me para edificação e não para destruição
+-- c13-v11: Finalmente irmãos alegrai-vos sede–perfeitos consolai-vos a mesma–coisa pensai tende–paz e o Deus do amor e da–paz estará convosco vós
+-- c13-v12: Saudai uns–aos–outros com santo ósculo
+-- c13-v13: Sadam-vos vos os santos todos
+-- c13-v14: A graça do Senhor Jesus Cristo e o amor de Deus e a comunhão do Santo Espírito com todos vós Amém
 
 BEGIN;
 -- 4700100101: Παῦλος, (G3972) → "Paulo" [opus-4.5-chirho]

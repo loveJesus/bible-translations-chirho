@@ -3,365 +3,365 @@
 -- — John 3:16
 
 -- DANIEL - POR Combined
--- Generated: 2026-01-27T21:46:34Z
+-- Generated: 2026-01-27T22:19:44Z
 
--- DANIEL c1-v1 - POR
--- DANIEL c1-v2 - POR
--- DANIEL c1-v3 - POR
--- DANIEL c1-v4 - POR
--- DANIEL c1-v5 - POR
--- DANIEL c1-v6 - POR
--- DANIEL c1-v7 - POR
--- DANIEL c1-v8 - POR
--- DANIEL c1-v9 - POR
--- DANIEL c1-v10 - POR
--- DANIEL c1-v11 - POR
--- DANIEL c1-v12 - POR
--- DANIEL c1-v13 - POR
--- DANIEL c1-v14 - POR
--- DANIEL c1-v15 - POR
--- DANIEL c1-v16 - POR
--- DANIEL c1-v17 - POR
--- DANIEL c1-v18 - POR
--- DANIEL c1-v19 - POR
--- DANIEL c1-v20 - POR
--- DANIEL c1-v21 - POR
--- DANIEL c2-v1 - POR
--- DANIEL c2-v2 - POR
--- DANIEL c2-v3 - POR
--- DANIEL c2-v4 - POR
--- DANIEL c2-v5 - POR
--- DANIEL c2-v6 - POR
--- DANIEL c2-v7 - POR
--- DANIEL c2-v8 - POR
--- DANIEL c2-v9 - POR
--- DANIEL c2-v10 - POR
--- DANIEL c2-v11 - POR
--- DANIEL c2-v12 - POR
--- DANIEL c2-v13 - POR
--- DANIEL c2-v14 - POR
--- DANIEL c2-v15 - POR
--- DANIEL c2-v16 - POR
--- DANIEL c2-v17 - POR
--- DANIEL c2-v18 - POR
--- DANIEL c2-v19 - POR
--- DANIEL c2-v20 - POR
--- DANIEL c2-v21 - POR
--- DANIEL c2-v22 - POR
--- DANIEL c2-v23 - POR
--- DANIEL c2-v24 - POR
--- DANIEL c2-v25 - POR
--- DANIEL c2-v26 - POR
--- DANIEL c2-v27 - POR
--- DANIEL c2-v28 - POR
--- DANIEL c2-v29 - POR
--- DANIEL c2-v30 - POR
--- DANIEL c2-v31 - POR
--- DANIEL c2-v32 - POR
--- DANIEL c2-v33 - POR
--- DANIEL c2-v34 - POR
--- DANIEL c2-v35 - POR
--- DANIEL c2-v36 - POR
--- DANIEL c2-v37 - POR
--- DANIEL c2-v38 - POR
--- DANIEL c2-v39 - POR
--- DANIEL c2-v40 - POR
--- DANIEL c2-v41 - POR
--- DANIEL c2-v42 - POR
--- DANIEL c2-v43 - POR
--- DANIEL c2-v44 - POR
--- DANIEL c2-v45 - POR
--- DANIEL c2-v46 - POR
--- DANIEL c2-v47 - POR
--- DANIEL c2-v48 - POR
--- DANIEL c2-v49 - POR
--- DANIEL c3-v1 - POR
--- DANIEL c3-v2 - POR
--- DANIEL c3-v3 - POR
--- DANIEL c3-v4 - POR
--- DANIEL c3-v5 - POR
--- DANIEL c3-v6 - POR
--- DANIEL c3-v7 - POR
--- DANIEL c3-v8 - POR
--- DANIEL c3-v9 - POR
--- DANIEL c3-v10 - POR
--- DANIEL c3-v11 - POR
--- DANIEL c3-v12 - POR
--- DANIEL c3-v13 - POR
--- DANIEL c3-v14 - POR
--- DANIEL c3-v15 - POR
--- DANIEL c3-v16 - POR
--- DANIEL c3-v17 - POR
--- DANIEL c3-v18 - POR
--- DANIEL c3-v19 - POR
--- DANIEL c3-v20 - POR
--- DANIEL c3-v21 - POR
--- DANIEL c3-v22 - POR
--- DANIEL c3-v23 - POR
--- DANIEL c3-v24 - POR
--- DANIEL c3-v25 - POR
--- DANIEL c3-v26 - POR
--- DANIEL c3-v27 - POR
--- DANIEL c3-v28 - POR
--- DANIEL c3-v29 - POR
--- DANIEL c3-v30 - POR
--- DANIEL c4-v1 - POR
--- DANIEL c4-v2 - POR
--- DANIEL c4-v3 - POR
--- DANIEL c4-v4 - POR
--- DANIEL c4-v5 - POR
--- DANIEL c4-v6 - POR
--- DANIEL c4-v7 - POR
--- DANIEL c4-v8 - POR
--- DANIEL c4-v9 - POR
--- DANIEL c4-v10 - POR
--- DANIEL c4-v11 - POR
--- DANIEL c4-v12 - POR
--- DANIEL c4-v13 - POR
--- DANIEL c4-v14 - POR
--- DANIEL c4-v15 - POR
--- DANIEL c4-v16 - POR
--- DANIEL c4-v17 - POR
--- DANIEL c4-v18 - POR
--- DANIEL c4-v19 - POR
--- DANIEL c4-v20 - POR
--- DANIEL c4-v21 - POR
--- DANIEL c4-v22 - POR
--- DANIEL c4-v23 - POR
--- DANIEL c4-v24 - POR
--- DANIEL c4-v25 - POR
--- DANIEL c4-v26 - POR
--- DANIEL c4-v27 - POR
--- DANIEL c4-v28 - POR
--- DANIEL c4-v29 - POR
--- DANIEL c4-v30 - POR
--- DANIEL c4-v31 - POR
--- DANIEL c4-v32 - POR
--- DANIEL c4-v33 - POR
--- DANIEL c4-v34 - POR
--- DANIEL c4-v35 - POR
--- DANIEL c4-v36 - POR
--- DANIEL c4-v37 - POR
--- DANIEL c5-v1 - POR
--- DANIEL c5-v2 - POR
--- DANIEL c5-v3 - POR
--- DANIEL c5-v4 - POR
--- DANIEL c5-v5 - POR
--- DANIEL c5-v6 - POR
--- DANIEL c5-v7 - POR
--- DANIEL c5-v8 - POR
--- DANIEL c5-v9 - POR
--- DANIEL c5-v10 - POR
--- DANIEL c5-v11 - POR
--- DANIEL c5-v12 - POR
--- DANIEL c5-v13 - POR
--- DANIEL c5-v14 - POR
--- DANIEL c5-v15 - POR
--- DANIEL c5-v16 - POR
--- DANIEL c5-v17 - POR
--- DANIEL c5-v18 - POR
--- DANIEL c5-v19 - POR
--- DANIEL c5-v20 - POR
--- DANIEL c5-v21 - POR
--- DANIEL c5-v22 - POR
--- DANIEL c5-v23 - POR
--- DANIEL c5-v24 - POR
--- DANIEL c5-v25 - POR
--- DANIEL c5-v26 - POR
--- DANIEL c5-v27 - POR
--- DANIEL c5-v28 - POR
--- DANIEL c5-v29 - POR
--- DANIEL c5-v30 - POR
--- DANIEL c5-v31 - POR
--- DANIEL c6-v1 - POR
--- DANIEL c6-v2 - POR
--- DANIEL c6-v3 - POR
--- DANIEL c6-v4 - POR
--- DANIEL c6-v5 - POR
--- DANIEL c6-v6 - POR
--- DANIEL c6-v7 - POR
--- DANIEL c6-v8 - POR
--- DANIEL c6-v9 - POR
--- DANIEL c6-v10 - POR
--- DANIEL c6-v11 - POR
--- DANIEL c6-v12 - POR
--- DANIEL c6-v13 - POR
--- DANIEL c6-v14 - POR
--- DANIEL c6-v15 - POR
--- DANIEL c6-v16 - POR
--- DANIEL c6-v17 - POR
--- DANIEL c6-v18 - POR
--- DANIEL c6-v19 - POR
--- DANIEL c6-v20 - POR
--- DANIEL c6-v21 - POR
--- DANIEL c6-v22 - POR
--- DANIEL c6-v23 - POR
--- DANIEL c6-v24 - POR
--- DANIEL c6-v25 - POR
--- DANIEL c6-v26 - POR
--- DANIEL c6-v27 - POR
--- DANIEL c6-v28 - POR
--- DANIEL c7-v1 - POR
--- DANIEL c7-v2 - POR
--- DANIEL c7-v3 - POR
--- DANIEL c7-v4 - POR
--- DANIEL c7-v5 - POR
--- DANIEL c7-v6 - POR
--- DANIEL c7-v7 - POR
--- DANIEL c7-v8 - POR
--- DANIEL c7-v9 - POR
--- DANIEL c7-v10 - POR
--- DANIEL c7-v11 - POR
--- DANIEL c7-v12 - POR
--- DANIEL c7-v13 - POR
--- DANIEL c7-v14 - POR
--- DANIEL c7-v15 - POR
--- DANIEL c7-v16 - POR
--- DANIEL c7-v17 - POR
--- DANIEL c7-v18 - POR
--- DANIEL c7-v19 - POR
--- DANIEL c7-v20 - POR
--- DANIEL c7-v21 - POR
--- DANIEL c7-v22 - POR
--- DANIEL c7-v23 - POR
--- DANIEL c7-v24 - POR
--- DANIEL c7-v25 - POR
--- DANIEL c7-v26 - POR
--- DANIEL c7-v27 - POR
--- DANIEL c7-v28 - POR
--- DANIEL c8-v1 - POR
--- DANIEL c8-v2 - POR
--- DANIEL c8-v3 - POR
--- DANIEL c8-v4 - POR
--- DANIEL c8-v5 - POR
--- DANIEL c8-v6 - POR
--- DANIEL c8-v7 - POR
--- DANIEL c8-v8 - POR
--- DANIEL c8-v9 - POR
--- DANIEL c8-v10 - POR
--- DANIEL c8-v11 - POR
--- DANIEL c8-v12 - POR
--- DANIEL c8-v13 - POR
--- DANIEL c8-v14 - POR
--- DANIEL c8-v15 - POR
--- DANIEL c8-v16 - POR
--- DANIEL c8-v17 - POR
--- DANIEL c8-v18 - POR
--- DANIEL c8-v19 - POR
--- DANIEL c8-v20 - POR
--- DANIEL c8-v21 - POR
--- DANIEL c8-v22 - POR
--- DANIEL c8-v23 - POR
--- DANIEL c8-v24 - POR
--- DANIEL c8-v25 - POR
--- DANIEL c8-v26 - POR
--- DANIEL c8-v27 - POR
--- DANIEL c9-v1 - POR
--- DANIEL c9-v2 - POR
--- DANIEL c9-v3 - POR
--- DANIEL c9-v4 - POR
--- DANIEL c9-v5 - POR
--- DANIEL c9-v6 - POR
--- DANIEL c9-v7 - POR
--- DANIEL c9-v8 - POR
--- DANIEL c9-v9 - POR
--- DANIEL c9-v10 - POR
--- DANIEL c9-v11 - POR
--- DANIEL c9-v12 - POR
--- DANIEL c9-v13 - POR
--- DANIEL c9-v14 - POR
--- DANIEL c9-v15 - POR
--- DANIEL c9-v16 - POR
--- DANIEL c9-v17 - POR
--- DANIEL c9-v18 - POR
--- DANIEL c9-v19 - POR
--- DANIEL c9-v20 - POR
--- DANIEL c9-v21 - POR
--- DANIEL c9-v22 - POR
--- DANIEL c9-v23 - POR
--- DANIEL c9-v24 - POR
--- DANIEL c9-v25 - POR
--- DANIEL c9-v26 - POR
--- DANIEL c9-v27 - POR
--- DANIEL c10-v1 - POR
--- DANIEL c10-v2 - POR
--- DANIEL c10-v3 - POR
--- DANIEL c10-v4 - POR
--- DANIEL c10-v5 - POR
--- DANIEL c10-v6 - POR
--- DANIEL c10-v7 - POR
--- DANIEL c10-v8 - POR
--- DANIEL c10-v9 - POR
--- DANIEL c10-v10 - POR
--- DANIEL c10-v11 - POR
--- DANIEL c10-v12 - POR
--- DANIEL c10-v13 - POR
--- DANIEL c10-v14 - POR
--- DANIEL c10-v15 - POR
--- DANIEL c10-v16 - POR
--- DANIEL c10-v17 - POR
--- DANIEL c10-v18 - POR
--- DANIEL c10-v19 - POR
--- DANIEL c10-v20 - POR
--- DANIEL c10-v21 - POR
--- DANIEL c11-v1 - POR
--- DANIEL c11-v2 - POR
--- DANIEL c11-v3 - POR
--- DANIEL c11-v4 - POR
--- DANIEL c11-v5 - POR
--- DANIEL c11-v6 - POR
--- DANIEL c11-v7 - POR
--- DANIEL c11-v8 - POR
--- DANIEL c11-v9 - POR
--- DANIEL c11-v10 - POR
--- DANIEL c11-v11 - POR
--- DANIEL c11-v12 - POR
--- DANIEL c11-v13 - POR
--- DANIEL c11-v14 - POR
--- DANIEL c11-v15 - POR
--- DANIEL c11-v16 - POR
--- DANIEL c11-v17 - POR
--- DANIEL c11-v18 - POR
--- DANIEL c11-v19 - POR
--- DANIEL c11-v20 - POR
--- DANIEL c11-v21 - POR
--- DANIEL c11-v22 - POR
--- DANIEL c11-v23 - POR
--- DANIEL c11-v24 - POR
--- DANIEL c11-v25 - POR
--- DANIEL c11-v26 - POR
--- DANIEL c11-v27 - POR
--- DANIEL c11-v28 - POR
--- DANIEL c11-v29 - POR
--- DANIEL c11-v30 - POR
--- DANIEL c11-v31 - POR
--- DANIEL c11-v32 - POR
--- DANIEL c11-v33 - POR
--- DANIEL c11-v34 - POR
--- DANIEL c11-v35 - POR
--- DANIEL c11-v36 - POR
--- DANIEL c11-v37 - POR
--- DANIEL c11-v38 - POR
--- DANIEL c11-v39 - POR
--- DANIEL c11-v40 - POR
--- DANIEL c11-v41 - POR
--- DANIEL c11-v42 - POR
--- DANIEL c11-v43 - POR
--- DANIEL c11-v44 - POR
--- DANIEL c11-v45 - POR
--- DANIEL c12-v1 - POR
--- DANIEL c12-v2 - POR
--- DANIEL c12-v3 - POR
--- DANIEL c12-v4 - POR
--- DANIEL c12-v5 - POR
--- DANIEL c12-v6 - POR
--- DANIEL c12-v7 - POR
--- DANIEL c12-v8 - POR
--- DANIEL c12-v9 - POR
--- DANIEL c12-v10 - POR
--- DANIEL c12-v11 - POR
--- DANIEL c12-v12 - POR
--- DANIEL c12-v13 - POR
+-- c1-v1: No–ano três de–reinado–de Yehoyaqim rei–de Yehudah veio Nevukhadnetstsar rei–de Bavel Yerushalayim e–sitiou contra–ela
+-- c1-v2: E–deu Adonay em–mão–sua (a) Yehoyaqim rei–de Yehudah e–parte–de utensílios–de casa–de o–Elohim e–trouxe–eles terra–de Shin'ar casa–de deus–seu e–(a) os–utensílios trouxe casa–de tesouro–de deus–seu
+-- c1-v3: E–disse o–rei a–Ashpenaz chefe–de eunucos–seus para–trazer de–filhos–de Yisrael e–de–semente–de a–realeza e–de os–nobres
+-- c1-v4: jovens que não–há neles todo [defeito] defeito e–bons–de aparência e–entendidos em–toda sabedoria e–conhecedores–de conhecimento e–compreendedores–de ciência e–que força neles para–estar no–palácio–de o–rei e–para–ensinar–eles escrito e–língua–de caldeus
+-- c1-v5: E–designou para–eles o–rei porção–de dia em–dia–seu da–iguaria–de o–rei e–do–vinho–de bebida–sua e–para–criar–eles anos três e–no–fim–deles estarão diante–de o–rei
+-- c1-v6: E–era entre–eles de–filhos–de Yehudah Daniyel Chananyah Mishael e–Azaryah
+-- c1-v7: E–colocou para–eles chefe–de os–eunucos nomes e–colocou para–Daniyel Belteshatstsar e–para–Chananyah Shadrakh e–para–Mishael Meshakh e–para–Azaryah Aved Nego
+-- c1-v8: E–colocou Daniyel sobre coração–seu que não se–contaminaria com–iguaria–de o–rei e–com–vinho–de bebida–sua e–pediu de–chefe–de os–eunucos que não se–contaminasse
+-- c1-v9: E–deu o–Elohim (a) Daniyel para–graça e–para–compaixão diante–de chefe–de os–eunucos
+-- c1-v10: E–disse chefe–de os–eunucos a–Daniyel temo eu (a) senhor–meu o–rei que designou (a) comida–vossa e–(a) bebida–vossa que por–que verá (a) faces–vossas abatidas mais–que os–jovens que como–idade–vossa e–tornareis–culpada (a) cabeça–minha para–o–rei
+-- c1-v11: E–disse Daniyel ao o–mordomo que designou chefe–de os–eunucos sobre Daniyel Chananyah Mishael e–Azaryah
+-- c1-v12: prova por–favor (a) servos–teus dias dez e–que–deem a–nós de os–legumes e–comeremos e–água e–beberemos
+-- c1-v13: E–sejam–vistas diante–de–ti aparências–nossas e–aparência–de os–jovens os–que–comem (a) iguaria–de o–rei e–conforme vires faze com servos–teus
+-- c1-v14: E–ouviu a–eles na–palavra esta e–provou–os dias dez
+-- c1-v15: E–no–fim–de dias dez apareceu aparência–deles boa e–gordos–de carne mais–que todos os–jovens os–que–comem (a) iguaria–de o–rei
+-- c1-v16: E–era o–mordomo levantando (a) iguaria–deles e–vinho–de bebida–deles e–dando a–eles legumes
+-- c1-v17: E–os–jovens estes quatro–deles deu a–eles o–Elohim ciência e–entendimento em–todo escrito e–sabedoria e–Daniyel entendia em–toda visão e–sonhos
+-- c1-v18: E–no–fim–de os–dias que disse o–rei para–trazer–eles e–trouxe–eles chefe–de os–eunucos diante–de Nevukhadnetstsar
+-- c1-v19: E–falou com–eles o–rei e–não foi–achado de–todos–eles como–Daniyel Chananyah Mishael e–Azaryah e–estavam diante–de o–rei
+-- c1-v20: E–toda palavra–de sabedoria–de entendimento que buscou deles o–rei e–achou–os dez mãos sobre todos os–magos os–encantadores que em–todo reino–seu
+-- c1-v21: E–era Daniyel até ano–de um de–Koresh o–rei ¶
+-- c2-v1: E–no–ano dois de–reinado–de Nevukhadnetstsar sonhou Nevukhadnetstsar sonhos e–agitou–se espírito–seu e–sono–seu foi sobre–ele
+-- c2-v2: E–disse o–rei para–chamar aos–magos e–aos–encantadores e–aos–feitiçeiros e–aos–caldeus para–declarar ao–rei sonhos–seus e–vieram e–estavam diante–de o–rei
+-- c2-v3: E–disse a–eles o–rei sonho sonhei e–agitou–se espírito–meu para–saber (a) o–sonho
+-- c2-v4: E–falaram os–caldeus ao–rei aramaico ó–rei para–sempre vive dize o–sonho [aos–servos–teus] ao–servo–teu e–interpretação mostraremos
+-- c2-v5: respondeu o–rei e–disse [aos–caldeus] aos–caldeus a–palavra de–mim saiu se não fizerdes–saber–me o–sonho e–interpretação–sua em–pedaços sereis–feitos e–casas–vossas montões–de–lixo serão–feitas
+-- c2-v6: E–se o–sonho e–interpretação–sua declarardes presentes e–recompensas e–honra grande recebereis de diante–de–mim portanto o–sonho e–interpretação–sua declarai–me
+-- c2-v7: responderam segunda–vez e–disseram o–rei o–sonho diga a–servos–seus e–interpretação–sua declararemos
+-- c2-v8: respondeu o–rei e–disse de certeza sei eu que tempo vós comprais todo por–causa–de que vistes que saiu de–mim a–palavra
+-- c2-v9: que se o–sonho não fizerdes–saber–me uma ela sentença–vossa e–palavra mentirosa e–corrompida [preparastes] preparastes para–dizer diante–de–mim até que o–tempo mude portanto o–sonho dizei a–mim e–saberei que interpretação–sua declarareis–me
+-- c2-v10: responderam [caldeus] os–caldeus diante–de o–rei e–disseram não há homem sobre a–terra que palavra–de o–rei possa declarar todo por–causa–de que todo rei grande e–soberano palavra como–esta não pediu a–todo mago ou–encantador ou–caldeu
+-- c2-v11: E–a–palavra que o–rei pede difícil e–outro não há que possa–declará–la diante–de o–rei a–não–ser deuses que morada–deles com carne não é
+-- c2-v12: Todo por–causa–de isto o–rei em–ira e–furor grande e–disse para–destruir a–todos sábios–de Bavel
+-- c2-v13: E–o–decreto saiu e–os–sábios sendo–mortos e–buscaram Daniyel e–companheiros–seus para–serem–mortos ¶
+-- c2-v14: Então Daniyel respondeu conselho e–prudência a–Aryokh chefe–de guardas–de que–de o–rei que saiu para–matar aos–sábios–de Bavel
+-- c2-v15: respondeu e–disse a–Aryokh comandante–de que–de o–rei sobre que o–decreto é–apressado de diante–de o–rei então a–palavra fez–saber Aryokh a–Daniyel
+-- c2-v16: E–Daniyel entrou e–pediu de o–rei que tempo fosse–dado a–ele e–interpretação para–declarar ao–rei ¶
+-- c2-v17: Então Daniyel para–casa–sua foi e–a–Chananyah Mishael e–Azaryah companheiros–seus a–palavra fez–saber
+-- c2-v18: E–misericórdias para–buscar de diante–de Elah–de os–céus sobre mistério este para–que não perecessem Daniyel e–companheiros–seus com restante–de sábios–de Bavel
+-- c2-v19: Então a–Daniyel em–visão–de que–de noite o–mistério foi–revelado então Daniyel bendisse a–Elah–de os–céus
+-- c2-v20: respondeu Daniyel e–disse seja nome–de que–de Eloah bendito de eternidade e–até eternidade porque sabedoria e–poder que–de dele são
+-- c2-v21: E–ele muda tempos e–estações remove reis e–estabelece reis dá sabedoria aos–sábios e–conhecimento aos–que–conhecem entendimento
+-- c2-v22: ele revela coisas–profundas e–escondidas conhece o–que na–escuridão [e–luz] e–luz com–ele habita
+-- c2-v23: A–ti ó–Elah–de pais–meus agradecendo e–louvando eu porque sabedoria e–poder deste a–mim e–agora fizeste–saber–me que pedimos de–ti que palavra–de o–rei fizeste–saber–nos
+-- c2-v24: Todo por–causa–de isto Daniyel entrou sobre Aryokh que nomeou o–rei para–destruir aos–sábios–de Bavel foi e–assim disse a–ele aos–sábios–de Bavel não destruas leva–me diante–de o–rei e–interpretação ao–rei declararei §
+-- c2-v25: Então Aryokh com–pressa levou a–Daniyel diante–de o–rei e–assim disse a–ele que achei homem de filhos–de exílio–de que–de Yehud que interpretação ao–rei fará–saber
+-- c2-v26: respondeu o–rei e–disse a–Daniyel que nome–seu Belteshatstsar [és–tu–capaz] és–tu–capaz capaz de–fazer–saber–me o–sonho que vi e–interpretação–sua
+-- c2-v27: respondeu Daniyel diante–de o–rei e–disse o–mistério que o–rei pede não sábios encantadores magos adivinhos podem declarar ao–rei
+-- c2-v28: Porém há Elah nos–céus revelador–de mistérios e–fez–saber ao–rei Nevukhadnetstsar o–que que será no–fim–de os–dias sonho–teu e–visões–de cabeça–tua sobre cama–tua este é ¶
+-- c2-v29: Tu ó–rei pensamentos–teus sobre cama–tua subiram o–que que será depois–de isto e–o–revelador–de mistérios fez–saber–te o–que que será
+-- c2-v30: E–eu não por–sabedoria que há em–mim mais–que todos os–viventes o–mistério este foi–revelado a–mim mas por causa–de que interpretação ao–rei farão–saber e–pensamentos–de coração–teu conhecerás
+-- c2-v31: Tu ó–rei vendo estavas e–eis estátua uma grande estátua esta enorme e–esplendor–seu extraordinário estava diante–de–ti e–aparência–sua terrível
+-- c2-v32: Esta estátua cabeça–sua de ouro fino peito–seu e–braços–seus de prata ventre–seu e–coxas–suas de bronze
+-- c2-v33: pernas–suas de ferro pés–seus [parte–deles] parte–deles de ferro [e–parte–deles] e–parte–deles de barro
+-- c2-v34: Vendo estavas até que foi–cortada pedra que não por–mãos e–feriu a–estátua sobre pés–seus de ferro e–barro e–esmagou eles
+-- c2-v35: Então foram–esmagados juntos ferro barro bronze prata e–ouro e–tornaram–se como–palha de eiras–de verão e–levou eles o–vento e–todo lugar não foi–achado para–eles e–a–pedra que feriu a–estátua tornou–se monte grande e–encheu toda a–terra
+-- c2-v36: Este é–o–sonho e–interpretação–sua diremos diante–de o–rei
+-- c2-v37: Tu ó–rei rei–de reis porque Elah–de os–céus o–reino força e–poder e–honra deu a–ti
+-- c2-v38: E–em–todo que [habitam] habitam filhos–de homens animal–de campo e–ave–de céus deu em–mão–tua e–fez–dominar–te sobre–todos–eles tu és a–cabeça de ouro
+-- c2-v39: E–depois–de–ti levantar–se–á reino outro inferior de–ti e–reino [terceiro] terceiro outro de bronze que dominará em–toda a–terra
+-- c2-v40: E–o–reino [quarto] quarto será forte como–ferro todo por–causa–de que ferro esmaga e–quebra tudo e–como–ferro que despedaça todos estes esmagará e–despedaçará
+-- c2-v41: E–que viste os–pés e–os–dedos [parte–deles] parte–deles barro–de que–de oleiro [e–parte–deles] e–parte–deles ferro reino dividido será e–de firmeza–de que–de ferro haverá nele todo por–causa–de que viste ferro misturado com–barro–de lama
+-- c2-v42: E–dedos–de os–pés [parte–deles] parte–deles ferro [e–parte–deles] e–parte–deles barro de parte–de o–reino será forte e–dele será quebrado
+-- c2-v43: [que] E–que viste ferro misturado com–barro–de lama misturando–se estarão em–semente–de homens e–não estarão aderindo este com este assim–como que ferro não se–mistura com barro
+-- c2-v44: E–nos–dias–de que–de reis estes levantará Elah–de os–céus reino que para–sempre não será–destruído e–o–reino a–povo outro não será–deixado esmagará e–destruirá todos estes reinos e–ele permanecerá para–sempre
+-- c2-v45: Todo por–causa–de que viste que do–monte foi–cortada pedra que não por–mãos e–esmagou ferro bronze barro prata e–ouro Elah grande fez–saber ao–rei o–que que será depois–de isto e–certo é–o–sonho e–fiel interpretação–sua ¶
+-- c2-v46: Então o–rei Nevukhadnetstsar caiu sobre face–sua e–a–Daniyel prostrou–se e–oferta e–aroma–agradavel disse para–derramar a–ele
+-- c2-v47: respondeu o–rei a–Daniyel e–disse de verdade que Eloah–vosso ele é–Elah–de deuses e–senhor–de reis e–revelador–de mistérios porque pudeste revelar mistério este
+-- c2-v48: Então o–rei a–Daniyel engrandeceu e–presentes grandes muitos deu a–ele e–fez–dominar–o sobre toda província–de Bavel e–chefe–de prefeitos sobre todos sábios–de Bavel
+-- c2-v49: E–Daniyel pediu de o–rei e–nomeou sobre obra–de que–de província–de Bavel a–Shadrakh Meshakh e–Aved–Nego e–Daniyel no–portão–de o–rei ¶
+-- c3-v1: Nevukhadnetstsar o–rei fez estátua de ouro altura–sua côvados sessenta largura–sua côvados seis levantou–a no–vale–de Dura na–província–de Bavel
+-- c3-v2: E–Nevukhadnetstsar o–rei enviou para–reunir os–sátrapas prefeitos e–governadores conselheiros tesoureiros juízes magistrados e–todos autoridades–de as–províncias para–vir para–dedicação–de estátua que levantou Nevukhadnetstsar o–rei
+-- c3-v3: Então reunindo–se os–sátrapas prefeitos e–governadores conselheiros tesoureiros juízes magistrados e–todos autoridades–de as–províncias para–dedicação–de estátua que levantou Nevukhadnetstsar o–rei [e–estando] e–estavam diante–de estátua que levantou Nevukhadnetstsar
+-- c3-v4: E–o–arauto proclamava com–força a–vós é–ordenado ó–povos nações e–línguas
+-- c3-v5: No–tempo que ouvirdes som–de trombeta flauta [cítara] cítara harpa saltério gaita–de–foles e–todo tipo–de música caireis e–prostrar–vos–eis a–estátua–de ouro que levantou Nevukhadnetstsar o–rei
+-- c3-v6: E–quem que não cair e–se–prostrar naquela hora será–lançado para–dentro–de fornalha–de fogo ardente
+-- c3-v7: Todo por–causa–de isto naquela hora quando ouvindo todos os–povos som–de trombeta flauta [cítara] cítara harpa saltério e–todo tipo–de música caíram todos os–povos nações e–línguas prostrando–se a–estátua–de ouro que levantou Nevukhadnetstsar o–rei
+-- c3-v8: Todo por–causa–de isto naquela hora aproximaram–se homens caldeus e–devoraram acusações–deles de judeus
+-- c3-v9: responderam e–disseram a–Nevukhadnetstsar o–rei ó–rei para–sempre vive
+-- c3-v10: [tu] tu ó–rei puseste decreto que todo homem que ouvir som–de trombeta flauta [cítara] cítara harpa saltério [e–gaita–de–foles] e–gaita–de–foles e–todo tipo–de música cairá e–se–prostrará a–estátua–de ouro
+-- c3-v11: E–quem que não cair e–se–prostrar será–lançado para–dentro–de fornalha–de fogo ardente
+-- c3-v12: Há homens judeus que nomeaste eles sobre obra–de província–de Bavel Shadrakh Meshakh e–Aved–Nego homens estes não deram [a–ti] a–ti ó–rei atenção [aos–deuses–teus] aos–deuses–teus não servem e–a–estátua–de ouro que levantaste não se–prostram §
+-- c3-v13: Então Nevukhadnetstsar em–ira e–furor disse para–trazer a–Shadrakh Meshakh e–Aved–Nego então homens estes foram–trazidos diante–de o–rei
+-- c3-v14: respondeu Nevukhadnetstsar e–disse a–eles é–verdade Shadrakh Meshakh e–Aved–Nego aos–deuses–meus não estais–vós servindo e–a–estátua–de ouro que levantei não vos–prostrais
+-- c3-v15: Agora se estais–vós prontos que no–tempo que ouvirdes som–de trombeta flauta [cítara] cítara harpa saltério e–gaita–de–foles e–todo tipo–de música caireis e–vos–prostrareis a–estátua que fiz e–se não vos–prostrardes naquela hora sereis–lançados para–dentro–de fornalha–de fogo ardente e–quem é Elah que vos–livrará de mãos–minhas
+-- c3-v16: responderam Shadrakh Meshakh e–Aved–Nego e–disseram ao–rei Nevukhadnetstsar não precisamos nós sobre isto palavra responder–te
+-- c3-v17: Se há Eloah–nosso que nós servimos pode livrar–nos de fornalha–de fogo ardente e–de mão–tua ó–rei ele–livrará
+-- c3-v18: E–se não seja–sabido que–seja a–ti ó–rei que aos–deuses–teus não [estamos–nós] estamos–nós servindo e–a–estátua–de ouro que levantaste não nos–prostraremos §
+-- c3-v19: Então Nevukhadnetstsar encheu–se de–furor e–expressão–de face–sua [mudou] mudou contra Shadrakh Meshakh e–Aved–Nego respondeu e–disse para–aquecer a–fornalha um sete–vezes sobre que era–visto para–aquecer–a
+-- c3-v20: E–a–homens poderosos–de força que em–exército–seu disse para–amarrar a–Shadrakh Meshakh e–Aved–Nego para–lançar na–fornalha–de fogo ardente
+-- c3-v21: Então homens estes foram–amarrados em–calças–deles [túnicas–deles] túnicas–deles e–chapéus–deles e–vestes–deles e–foram–lançados para–dentro–de fornalha–de fogo ardente
+-- c3-v22: Todo por–causa–de isto de que palavra–de o–rei era–apressada e–a–fornalha aquecida excessivamente homens estes que fizeram–subir a–Shadrakh Meshakh e–Aved–Nego matou eles chama–de que–de fogo
+-- c3-v23: E–homens estes três–deles Shadrakh Meshakh e–Aved–Nego caíram para–dentro–de fornalha–de fogo ardente amarrados ¶
+-- c3-v24: Então Nevukhadnetstsar o–rei espantou–se e–levantou–se com–pressa respondeu e–disse aos–conselheiros–seus não homens três lançamos para–dentro–de o–fogo amarrados responderam e–disseram ao–rei é–verdade ó–rei
+-- c3-v25: respondeu e–disse eis eu vendo homens quatro soltos andando em–meio–de o–fogo e–dano não há neles e–aparência–de que–de [quarto] o–quarto semelhante a–filho–de deuses §
+-- c3-v26: Então aproximou–se Nevukhadnetstsar a–porta–de fornalha–de fogo ardente respondeu e–disse Shadrakh Meshakh e–Aved–Nego servos–de que–de o–Eloah [Altíssimo] Altíssimo saí e–vinde então saíram Shadrakh Meshakh e–Aved–Nego de meio–de o–fogo
+-- c3-v27: E–reunindo–se os–sátrapas prefeitos e–governadores e–conselheiros–de o–rei vendo aos–homens estes que não teve–poder o–fogo sobre–corpos–deles e–cabelo–de cabeças–deles não foi–chamuscado e–calças–deles não mudaram e–cheiro–de fogo não passou neles
+-- c3-v28: respondeu Nevukhadnetstsar e–disse bendito Eloah–deles de Shadrakh Meshakh e–Aved–Nego que enviou anjo–seu e–livrou a–servos–seus que confiaram nele e–palavra–de o–rei mudaram e–deram [corpos–deles] corpos–deles para–que não servissem e–não se–prostrassem a–todo deus exceto a–Eloah–deles
+-- c3-v29: E–de–mim posto é–decreto que todo povo nação e–língua que disser [palavra–má] palavra–má contra Eloah–deles de Shadrakh Meshakh e–Aved–Nego em–pedaços será–feito e–casa–sua montão–de–lixo será–feita todo por–causa–de que não há deus outro que possa livrar assim
+-- c3-v30: Então o–rei fez–prosperar a–Shadrakh Meshakh e–Aved–Nego na–província–de Bavel ¶
+-- c4-v1: Nevukhadnetstsar o–rei a–todos– os–povos as–nações e–as–línguas que– [habitam] (habitam) em–toda– a–terra vossa–paz aumente
+-- c4-v2: Os–sinais e–os–prodígios que fez comigo o–Deus [altíssimo] (altíssimo) pareceu–bem diante–de–mim declarar
+-- c4-v3: Seus–sinais quão grandes e–seus–prodígios quão poderosos seu–reino é–um–reino–de eternidade e–seu–domínio com– geração e–geração
+-- c4-v4: Eu Nevukhadnetstsar tranquilo estava em–minha–casa e–próspero em–meu–palácio
+-- c4-v5: Um–sonho vi e–me–atemorizou e–pensamentos sobre– minha–cama e–visões–de minha–cabeça me–perturbaram
+-- c4-v6: E–de–mim foi–dado um–decreto para–trazer diante–de–mim a–todos os–sábios–de Bavel que– a–interpretação–de o–sonho me–fizessem–conhecer
+-- c4-v7: Então [entraram] (entraram) os–magos os–encantadores [caldeus] (os–caldeus) e–os–astrólogos e–o–sonho disse eu diante–deles e–sua–interpretação não– fazendo–conhecer a–mim
+-- c4-v8: E–até finalmente diante– de–mim Daniyel cujo– nome é–Belteshatstsar segundo–o–nome–de meu–deus e–em–quem o–espírito–de deuses santos está–nele e–o–sonho diante–dele declarei
+-- c4-v9: Belteshatstsar chefe–dos magos porque eu sei que o–espírito–de deuses santos está–em–ti e–todo– mistério não– é–difícil para–ti as–visões–de meu–sonho que– vi e–sua–interpretação dize
+-- c4-v10: E–as–visões–de minha–cabeça sobre– minha–cama vendo estava e–eis uma–árvore no–meio–de a–terra e–sua–altura era–grande
+-- c4-v11: Cresceu a–árvore e–se–fortaleceu e–sua–altura alcançava aos–céus e–sua–aparência até–o–fim–de toda– a–terra
+-- c4-v12: Sua–folhagem era–bela e–seu–fruto era–abundante e–alimento para–todos– estava–nela debaixo–dela se–abrigava o–animal–do campo e–em–seus–ramos [habitavam] (habitavam) as–aves–dos céus e–dela se–alimentava toda– carne
+-- c4-v13: Vendo estava nas–visões–de minha–cabeça sobre– minha–cama e–eis um–vigilante e–santo do– céu desceu
+-- c4-v14: Clamou com–força e–assim disse Cortai a–árvore e–cortai seus–ramos arrancai sua–folhagem e–esparzai seu–fruto fujam os–animais de– debaixo–dela e–as–aves de– seus–ramos
+-- c4-v15: Porém o–toco–de suas–raízes na–terra deixai e–com–uma–cinta–de de– ferro e–bronze na–relva do campo e–com–o–orvalho–dos céus seja–molhado e–com– os–animais sua–porção na–erva–de a–terra
+-- c4-v16: Seu–coração de– [homem] (homem) seja–mudado e–coração–de animal seja–dado a–ele e–sete tempos passem sobre–ele
+-- c4-v17: Por–decreto–de vigilantes é–a–sentença e–por–palavra–de santos é–o–pedido até– o–propósito que conheçam os–viventes que– domina [o–altíssimo] (o–Altíssimo) no–reino–dos [homens] (homens) e–a–quem– que quiser o–dará e–o–mais–humilde–dos homens levantará [sobre–ele] (sobre–ele)
+-- c4-v18: Este sonho vi eu o–rei Nevukhadnetstsar [e–tu] (e–tu) Belteshatstsar a–interpretação dize todo– porque que todos– os–sábios–de meu–reino não– podem a–interpretação me–fazer–conhecer [e–tu] (e–tu) és–capaz porque o–espírito–de deuses santos está–em–ti
+-- c4-v19: Então Daniyel cujo– nome é–Belteshatstsar ficou–atônito por–uma–hora uma e–seus–pensamentos o–perturbaram Respondeu o–rei e–disse Belteshatstsar o–sonho e–sua–interpretação não– te–perturbe Respondeu Belteshatstsar e–disse [meu–senhor] (meu–senhor) o–sonho [para–teus–inimigos] (para–teus–inimigos) e–sua–interpretação [para–teus–adversários] (para–teus–adversários)
+-- c4-v20: A–árvore que viste que cresceu e–se–fortaleceu e–sua–altura alcançava aos–céus e–sua–aparência a–toda– a–terra
+-- c4-v21: E–sua–folhagem era–bela e–seu–fruto era–abundante e–alimento para–todos– estava–nela debaixo–dela habitava o–animal–do campo e–em–seus–ramos moravam as–aves–dos céus
+-- c4-v22: [tu–] (tu–) és ó–rei que cresceste e–te–fortaleceste e–tua–grandeza cresceu e–alcançou aos–céus e–teu–domínio até–o–fim–de a–terra
+-- c4-v23: E–que viu o–rei um–vigilante e–santo descendo do– céu e–dizendo Cortai a–árvore e–destruí–a porém o–toco–de suas–raízes na–terra deixai e–com–uma–cinta–de de– ferro e–bronze na–relva do campo e–com–o–orvalho–dos céus seja–molhado e–com– os–animais–do campo sua–porção até que– sete tempos passem sobre–ele
+-- c4-v24: Esta é–a–interpretação ó–rei e–o–decreto–do [altíssimo] (Altíssimo) é que alcançou sobre– [meu–senhor] (meu–senhor) o–rei
+-- c4-v25: E–a–ti expulsarão dentre– os–homens e–com– os–animais–do campo será tua–morada e–erva como–os–bois a–ti farão–comer e–com–o–orvalho–dos céus a–ti molharão e–sete tempos passarão sobre–ti até que– saibas que– domina o–Altíssimo no–reino–dos homens e–a–quem– que quiser o–dará
+-- c4-v26: E–que disseram para–deixar o–toco–de suas–raízes da árvore teu–reino para–ti permanecerá de– que souberes que dominam os–céus
+-- c4-v27: Portanto ó–rei meu–conselho te–agrade [sobre–ti] (sobre–ti) [e–teus–pecados] (e–teus–pecados) com–justiça redime e–tuas–iniquidades com–misericórdia–para os–pobres talvez haja prolongamento de–tua–tranquilidade
+-- c4-v28: Tudo alcançou sobre– Nevukhadnetstsar o–rei ¶
+-- c4-v29: Ao–fim–de meses doze– doze sobre– o–palácio–do reino de Bavel caminhando estava
+-- c4-v30: Respondeu o–rei e–disse Não–é esta– ela Bavel a–grande que– eu a–edifiquei para–casa–de reino pela–força–de meu–poder e–para–a–honra–de minha–majestade
+-- c4-v31: Ainda a–palavra na–boca–do rei uma–voz do– céu caiu A–ti dizem Nevukhadnetstsar ó–rei o–reino passou de–ti
+-- c4-v32: E–dentre– os–homens a–ti expulsam e–com– os–animais–do campo será–tua–morada erva como–os–bois a–ti farão–comer e–sete tempos passarão [sobre–ti] (sobre–ti) até que– saibas que– domina o–Altíssimo no–reino–dos homens e–a–quem– que quiser o–dará
+-- c4-v33: Naquela– hora a–palavra se–cumpriu sobre– Nevukhadnetstsar e–dentre– os–homens foi–expulso e–erva como–os–bois comia e–com–o–orvalho–dos céus seu–corpo foi–molhado até que seu–cabelo como–águias cresceu e–suas–unhas como–de–aves
+-- c4-v34: E–ao–fim–de os–dias eu Nevukhadnetstsar meus–olhos aos–céus levantei e–meu–entendimento a–mim voltou [e–ao–altíssimo] (e–ao–Altíssimo) bendisse e–ao–que–vive eternamente louvei e–glorifiquei porque seu–domínio é–domínio–de eternidade e–seu–reino com– geração e–geração
+-- c4-v35: E–todos– [os–habitantes–de] (os–habitantes–de) a–terra como–nada são–considerados e–segundo–sua–vontade age no–exército–dos céus [e–habitantes–de] (e–habitantes–de) a–terra e–não há–quem que– detenha sua–mão e–diga a–ele Que fizeste
+-- c4-v36: Naquele– tempo meu–entendimento voltou a–mim e–para–a–honra–de meu–reino minha–majestade e–meu–esplendor voltaram a–mim e–a–mim meus–conselheiros e–meus–nobres buscaram e–sobre– meu–reino fui–estabelecido e–grandeza extraordinária foi–acrescentada a–mim
+-- c4-v37: Agora eu Nevukhadnetstsar louvo e–exalto e–glorifico ao–Rei–dos céus porque todas– suas–obras são–verdade e–seus–caminhos são–justiça e–aos–que andam em–soberba pode humilhar ¶
+-- c5-v1: Belshatstsar o–rei fez um–banquete grande para–seus–nobres mil e–diante–de os–mil vinho bebia
+-- c5-v2: Belshatstsar ordenou pelo–sabor–do vinho trazer os–vasos–de ouro e–prata que tirou Nevukhadnetstsar seu–pai do– templo que em–Yerushalem e–bebessem neles o–rei e–seus–nobres suas–esposas e–suas–concubinas
+-- c5-v3: Então trouxeram os–vasos–de ouro que foram–tirados do– templo da– casa–de Deus que em–Yerushalem e–beberam neles o–rei e–seus–nobres suas–esposas e–suas–concubinas
+-- c5-v4: Beberam vinho e–louvaram aos–deuses–de ouro e–prata bronze ferro madeira e–pedra
+-- c5-v5: Naquela– hora [saíram] (saíram) dedos de mão–de homem e–escreviam diante–do candelabro sobre– o–reboco da– parede–do palácio do rei e–o–rei via a–palma–da mão que escrevia
+-- c5-v6: Então o–rei seu–semblante se–mudou e–seus–pensamentos o–perturbaram e–as–juntas–de seus–quadris se–soltaram e–seus–joelhos um contra–o–outro batiam
+-- c5-v7: Clamou o–rei com–força para–trazer os–encantadores [caldeus] (os–caldeus) e–os–astrólogos Respondeu o–rei e–disse aos–sábios–de Bavel Que todo– homem que– ler esta–escrita esta e–sua–interpretação me–declarar púrpura vestirá [e–o–colar] (e–o–colar) de– ouro sobre– seu–pescoço e–o–terceiro no–reino governará §
+-- c5-v8: Então [entraram] (entraram) todos os–sábios–do rei e–não– podiam a–escrita ler [e–a–interpretação] (e–sua–interpretação) fazer–conhecer ao–rei
+-- c5-v9: Então o–rei Belshatstsar muito se–perturbou e–seu–semblante se–mudou sobre–ele e–seus–nobres estavam–perplexos
+-- c5-v10: A–rainha por–causa–de as–palavras–do rei e–de–seus–nobres à–casa–do banquete [entrou] (entrou) Respondeu a–rainha e–disse Ó–rei para–sempre vive Não– te–perturbem teus–pensamentos e–teu–semblante não– se–mude
+-- c5-v11: Há um–homem em–teu–reino em–quem o–espírito–de deuses santos está–nele e–nos–dias–de teu–pai iluminação e–entendimento e–sabedoria como–a–sabedoria–de deuses foi–encontrada nele e–o–rei Nevukhadnetstsar teu–pai chefe–dos magos encantadores caldeus astrólogos o–constituiu teu–pai o–rei
+-- c5-v12: Todo– porque que um–espírito extraordinário e–conhecimento e–entendimento interpretando sonhos e–declarando enigmas e–desatando nós foi–encontrada nele em–Daniyel a–quem– o–rei pôs– o–nome Belteshatstsar agora Daniyel seja–chamado e–a–interpretação declarará ¶
+-- c5-v13: Então Daniyel foi–trazido diante–de o–rei Respondeu o–rei e–disse a–Daniyel [tu–] (tu–) és Daniyel que– de– os–filhos–do exílio de Yehud que trouxe o–rei meu–pai de– Yehud
+-- c5-v14: E–ouvi [sobre–ti] (sobre–ti) que o–espírito–de deuses está–em–ti e–iluminação e–entendimento e–sabedoria extraordinária foi–encontrada em–ti
+-- c5-v15: E–agora foram–trazidos diante–de–mim os–sábios os–encantadores que– esta–escrita esta lessem e–sua–interpretação me–fazer–conhecer e–não– podiam a–interpretação–da palavra declarar
+-- c5-v16: E–eu ouvi [sobre–ti] (sobre–ti) que– [podes] (podes) interpretações interpretar e–nós desatar agora se [puderes] (puderes) a–escrita ler e–sua–interpretação me–fazer–conhecer púrpura vestirás [e–o–colar] (e–o–colar) de– ouro sobre– teu–pescoço e–o–terceiro no–reino governarás ¶
+-- c5-v17: Então respondeu Daniyel e–disse diante–de o–rei Teus–presentes para–ti sejam e–tuas–recompensas a–outro dá porém a–escrita lerei ao–rei e–a–interpretação lhe–farei–conhecer
+-- c5-v18: [tu] (tu) ó–rei o–Deus [altíssimo] (Altíssimo) o–reino e–a–grandeza e–a–honra e–a–majestade deu a–Nevukhadnetstsar teu–pai
+-- c5-v19: E–por–causa–de a–grandeza que deu– a–ele todos os–povos as–nações e–as–línguas estavam [tremendo] (tremendo) e–temendo de– diante–dele a–quem– queria querer estava matando e–a–quem– queria querer estava ferindo e–a–quem– queria querer estava exaltando e–a–quem– queria querer estava humilhando
+-- c5-v20: E–quando se–exaltou seu–coração e–seu–espírito se–endureceu para–agir–arrogantemente foi–deposto do– trono–de seu–reino e–sua–honra tiraram dele
+-- c5-v21: E–dentre– os–filhos–dos homens foi–expulso e–seu–coração com– os–animais [igualaram] (igualaram) e–com– os–jumentos–selvagens sua–morada erva como–os–bois lhe–faziam–comer e–com–o–orvalho–dos céus seu–corpo foi–molhado até que– soube que– domina o–Deus [altíssimo] (Altíssimo) no–reino–dos homens e–a–quem– que quiser levantará [sobre–ele] (sobre–ele)
+-- c5-v22: [e–tu] (e–tu) seu–filho Belshatstsar não humilhaste teu–coração todo– apesar–de que todo– isto sabias
+-- c5-v23: E–contra o–Senhor–dos céus te–exaltaste e–os–vasos da– sua–casa trouxeram [diante–de–ti] (diante–de–ti) [e–tu] (e–tu) [e–teus–nobres] (e–teus–nobres) tuas–esposas e–tuas–concubinas vinho bebendo neles e–aos–deuses–de prata– e–ouro bronze ferro madeira e–pedra que não– veem e–não– ouvem e–não sabem louvaste e–ao–Deus em–cuja– mão–está–teu–fôlego em–sua–mão e–todos– teus–caminhos a–ele não honraste
+-- c5-v24: Então da– presença–dele foi–enviada a–palma–da da– mão e–esta–escrita esta foi–escrita
+-- c5-v25: E–esta–é a–escrita que foi–escrita MENE MENE TEKEL UFARSIN
+-- c5-v26: Esta é–a–interpretação–da palavra MENE contou– Deus teu–reino e–o–completou
+-- c5-v27: TEKEL foste–pesado na–balança e–foste–achado deficiente
+-- c5-v28: PERES foi–dividido teu–reino e–foi–dado aos–medos e–persas
+-- c5-v29: Então ordenou Belshatstsar e–vestiram a–Daniyel de–púrpura [e–o–colar] (e–o–colar) de– ouro sobre– seu–pescoço e–proclamaram sobre–ele que– seria governador terceiro no–reino
+-- c5-v30: Naquela noite foi–morto Belshatstsar o–rei [caldeu] (o–caldeu) ¶
+-- c5-v31: E–Daryavesh o–medo recebeu o–reino como–filho–de anos sessenta e–dois
+-- c6-v1: Pareceu–bem diante–de Daryavesh e–estabeleceu sobre– o–reino sátrapas cento e–vinte que estivessem em–todo– o–reino
+-- c6-v2: E–acima–de eles presidentes três dos–quais Daniyel era–um– deles para–que– estivessem os–sátrapas estes dando a–eles contas e–o–rei não– sofresse dano
+-- c6-v3: Então Daniyel este estava se–distinguindo sobre– os–presidentes e–os–sátrapas todo– porque que um–espírito extraordinário estava–nele e–o–rei pensava em–estabelecê–lo sobre– todo– o–reino
+-- c6-v4: Então os–presidentes e–os–sátrapas estavam buscando pretexto para–encontrar contra–Daniyel da–parte–do reino e–todo– pretexto e–corrupção não– podiam encontrar todo– porque que– fiel era–ele e–todo– erro e–corrupção não foi–encontrada nele
+-- c6-v5: Então aqueles–homens estes disseram Que não encontraremos contra–Daniyel este nenhum– pretexto a–não–ser encontrarmos contra–ele na–lei–de seu–Deus §
+-- c6-v6: Então os–presidentes e–os–sátrapas estes foram–em–tumulto ao– rei e–assim disseram a–ele Daryavesh ó–rei para–sempre vive
+-- c6-v7: Deliberaram todos os–presidentes–do reino os–prefeitos e–os–sátrapas os–conselheiros e–os–governadores para–estabelecer um–estatuto do–rei e–para–fortalecer um–decreto que todo– aquele–que– fizer uma–petição a– qualquer– deus ou–homem até– dias trinta a–não–ser de–ti ó–rei será–lançado na–cova–dos leões
+-- c6-v8: Agora ó–rei estabelece o–decreto e–assina o–escrito que não possa–ser–mudado segundo–a–lei–de Media e–Persia que– não pode–ser–revogada
+-- c6-v9: Por– causa–de isto o–rei Daryavesh assinou o–escrito e–o–decreto
+-- c6-v10: E–Daniyel quando soube que– estava–assinado o–escrito subiu para–sua–casa e–as–janelas abertas para–ele em–seu–quarto–superior em–direção a–Yerushalem e–vezes três por–dia ele se–ajoelhava sobre– seus–joelhos e–orando e–dando–graças diante–de seu–Deus todo– conforme que– tinha feito desde– antes–de isto §
+-- c6-v11: Então aqueles–homens estes foram–em–tumulto e–encontraram a–Daniyel pedindo e–suplicando diante–de seu–Deus
+-- c6-v12: Então aproximaram–se e–disseram diante–de o–rei sobre– o–decreto–do rei Não um–decreto assinaste que todo– homem que– fizesse–petição a– qualquer– deus ou–homem até– dias trinta a–não–ser de–ti ó–rei seria–lançado na–cova–dos leões Respondeu o–rei e–disse Verdadeira é–a–palavra segundo–a–lei–de Media e–Persia que– não pode–ser–revogada
+-- c6-v13: Então responderam e–disseram diante–de o–rei que Daniyel que é–dos– filhos–do exílio de Yehud não– fez [sobre–ti] (sobre–ti) ó–rei caso e–sobre– o–decreto que assinaste e–vezes três por–dia faz sua–petição
+-- c6-v14: Então o–rei quando a–palavra ouviu muito se–entristeceu por–ele e–sobre Daniyel pôs seu–coração para–livrá–lo e–até o–pôr–do sol estava se–esforçando para–salvá–lo
+-- c6-v15: Então aqueles–homens estes foram–em–tumulto ao– rei e–disseram ao–rei Sabe ó–rei que– é–lei dos–medos e–persas que– todo– decreto ou–estatuto que– o–rei estabelecer não pode–ser–mudado
+-- c6-v16: Então o–rei ordenou e–trouxeram a–Daniyel e–lançaram na–cova dos leões Respondeu o–rei e–disse a–Daniyel Teu–Deus a–quem [tu] (tu) serves– a–ele continuamente ele te–livrará
+-- c6-v17: E–foi–trazida uma–pedra uma e–foi–posta sobre– a–boca–da cova e–selou–a o–rei com–seu–anel e–com–o–anel–de seus–nobres para–que não– fosse–mudado propósito quanto–a–Daniyel
+-- c6-v18: Então foi o–rei para–seu–palácio e–passou–a–noite em–jejum e–diversões não– foram–trazidas diante–dele e–seu–sono fugiu dele
+-- c6-v19: Então o–rei de–madrugada se–levantou na–aurora e–com–pressa à–cova dos– leões foi
+-- c6-v20: E–ao–aproximar–se da–cova a–Daniyel com–voz triste clamou Respondeu o–rei e–disse a–Daniyel Daniyel servo–do Deus vivo Teu–Deus a–quem [tu] (tu) serves– a–ele continuamente pôde te–livrar dos– leões
+-- c6-v21: Então Daniyel com– o–rei falou Ó–rei para–sempre vive
+-- c6-v22: Meu–Deus enviou seu–anjo e–fechou a–boca–dos leões e–não me–feriram todo– porque que diante–dele inocência foi–encontrada em–mim e–também [diante–de–ti] (diante–de–ti) ó–rei ofensa não cometi
+-- c6-v23: Então o–rei muito se–alegrou por–ele e–a–Daniyel ordenou para–tirar da– cova e–foi–tirado Daniyel da– cova e–nenhum– ferimento não– foi–encontrado nele porque confiou em–seu–Deus
+-- c6-v24: E–ordenou o–rei e–trouxeram aqueles–homens estes que– acusaram maliciosamente (a) Daniyel e–na–cova–dos leões lançaram eles seus–filhos e–suas–esposas e–não– chegaram ao–fundo–da cova até que– se–apossaram deles os–leões e–todos– seus–ossos esmagaram
+-- c6-v25: Então Daryavesh o–rei escreveu a–todos– os–povos as–nações e–as–línguas que– [habitam] (habitam) em–toda– a–terra Vossa–paz aumente
+-- c6-v26: De– diante–de–mim é–dado decreto que em–todo– domínio–de meu–reino estejam [tremendo] (tremendo) e–temendo de– diante–do Deus–de de– Daniyel porque– ele é–o–Deus vivo e–permanente para–sempre e–seu–reino que– não será–destruído e–seu–domínio até– o–fim
+-- c6-v27: Libertando e–salvando e–fazendo sinais e–prodígios nos–céus e–na–terra que livrou a–Daniyel da– mão–dos leões
+-- c6-v28: E–Daniyel este prosperou no–reinado–de Daryavesh e–no–reinado–de Koresh [o–persa] (o–persa) ¶
+-- c7-v1: No–ano primeiro de–Belshatstsar rei–de Bavel Daniyel um–sonho viu e–visões–de sua–cabeça sobre– sua–cama então o–sonho escreveu o–resumo–das palavras relatou
+-- c7-v2: Respondeu Daniyel e–disse Vendo estava em–minha–visão durante– a–noite e–eis os–quatro ventos–dos céus agitando o–mar grande
+-- c7-v3: E–quatro animais grandes subindo do– mar diferentes este do– outro
+-- c7-v4: O–primeiro como–um–leão e–asas de– águia tinha–ele Vendo estava até que– foram–arrancadas suas–asas e–foi–levantado da– terra e–sobre– pés como–homem foi–colocado e–coração–de homem foi–dado a–ele
+-- c7-v5: E–eis animal outro o–segundo semelhante a–um–urso e–de–um–lado– um foi–levantado e–três costelas em–sua–boca entre [seus–dentes] (seus–dentes) e–assim disseram a–ele Levanta–te devora carne muita
+-- c7-v6: Depois–de isto vendo estava e–eis outro como–um–leopardo e–a–ele asas quatro de– ave sobre– [suas–costas] (suas–costas) e–quatro cabeças ao–animal e–domínio foi–dado a–ele
+-- c7-v7: Depois–de isto vendo estava nas–visões–de noite e–eis um–animal [quarto] (quarto) terrível e–espantoso e–forte extremamente e–dentes de– ferro tinha–ele grandes devorando e–esmiguçando e–o–resto [com–seus–pés] (com–seus–pés) pisoteava e–ele era–diferente de– todos– os–animais que antes–dele e–dez–chifres dez tinha–ele
+-- c7-v8: Observando estava os–chifres e–eis um–chifre outro pequeno subiu [entre–eles] (entre–eles) e–três dos– chifres primeiros [foram–arrancados] (foram–arrancados) de– [diante–dele] (diante–dele) e–eis olhos como–olhos–de homem no–chifre– este e–uma–boca falando grandiosidades
+-- c7-v9: Vendo estava até que tronos foram–colocados e–o–Anciano–de Dias se–assentou sua–veste como–neve branca e–o–cabelo–de sua–cabeça como–lã pura seu–trono chamas–de de– fogo suas–rodas fogo ardente
+-- c7-v10: Um–rio de– fogo fluindo e–saindo de– diante–dele mil [milhares] (milhares) o–serviam e–miríade–de [miríades] (miríades) diante–dele estavam O–juízo se–assentou e–os–livros foram–abertos
+-- c7-v11: Vendo estava então por–causa–do som–das palavras grandiosas que o–chifre falava vendo estava até que foi–morto o–animal e–foi–destruído seu–corpo e–foi–entregue para–queimar–no fogo
+-- c7-v12: E–o–restante–dos animais tiraram seu–domínio e–prolongação de–vida foi–dada a–eles até– tempo e–época
+-- c7-v13: Vendo estava nas–visões–de noite e–eis com– as–nuvens–dos céus como–um–filho–de homem vindo estava e–até– o–Anciano–de Dias chegou e–diante–dele o–fizeram–aproximar
+-- c7-v14: E–a–ele foi–dado domínio e–honra e–reino e–todos os–povos as–nações e–as–línguas a–ele servirão Seu–domínio é–domínio–de eternidade que– não passará e–seu–reino que– não será–destruído ¶
+-- c7-v15: Foi–angustiado meu–espírito eu Daniyel no–meio–do corpo e–as–visões–de minha–cabeça me–perturbaram
+-- c7-v16: Aproximei–me de– um dos– que–estavam–de–pé e–a–verdade pedi– dele sobre– todo– isto e–disse– a–mim e–a–interpretação–das palavras me–fez–conhecer
+-- c7-v17: Estes animais grandes que são quatro quatro reis se–levantarão da– terra
+-- c7-v18: E–receberão o–reino os–santos–do Altíssimo e–possuirão o–reino até– a–eternidade e–até eternidade das–eternidades
+-- c7-v19: Então quis saber–a–verdade sobre– o–animal quarto que– era diferente de– [todos–eles] (todos–eles) terrível extremamente [seus–dentes] (seus–dentes) de– ferro e–suas–garras de– bronze devorando esmiguçando e–o–resto com–seus–pés pisoteava
+-- c7-v20: E–sobre– os–chifres dez que em–sua–cabeça e–o–outro que subiu [e–caíram] (e–caíram) de– [diante–dele] (diante–dele) três e–o–chifre aquele e–olhos tinha–ele e–uma–boca falando grandiosidades e–sua–aparência era–maior do–que– suas–companheiras
+-- c7-v21: Vendo estava e–o–chifre aquele fazendo guerra contra– os–santos e–prevalecia contra–eles
+-- c7-v22: Até que– veio o–Anciano–de Dias e–juízo foi–dado aos–santos–do Altíssimo e–o–tempo chegou e–o–reino possuíram os–santos
+-- c7-v23: Assim disse O–animal quarto um–reino [quarto] (quarto) será na–terra que será–diferente de– todos– os–reinos e–devorará toda– a–terra e–a–pisará e–a–esmiguçará
+-- c7-v24: E–os–chifres dez deste–reino reino dez reis se–levantarão e–outro se–levantará depois–deles e–ele será–diferente dos– primeiros e–três reis abaterá
+-- c7-v25: E–palavras contra [o–altíssimo] (o–Altíssimo) falará e–aos–santos–do Altíssimo afligirá e–tentará mudar tempos e–lei e–serão–entregues em–sua–mão até– um–tempo e–tempos e–metade–de um–tempo
+-- c7-v26: E–o–juízo se–assentará e–seu–domínio tirarão para–destruir e–para–fazer–perecer até– o–fim
+-- c7-v27: E–o–reino e–o–domínio e–a–grandeza–dos de reinos debaixo–de todo– o–céu serão–dados ao–povo–dos santos–do Altíssimo seu–reino é–reino–de eternidade e–todos os–domínios a–ele servirão e–obedeceão
+-- c7-v28: Até– aqui é–o–fim da– palavra Eu Daniyel muito meus–pensamentos me–perturbaram e–meu–semblante se–mudou sobre–mim e–a–palavra em–meu–coração guardei ¶
+-- c8-v1: No–ano terceiro do–reinado–de Belshatstsar o–rei uma–visão apareceu a–mim eu Daniyel depois–da que–apareceu a–mim no–princípio
+-- c8-v2: E–vi na–visão e–aconteceu quando–eu–vi e–eu em–Shushan a–cidadela que em–Elam a–província e–vi na–visão e–eu estava junto–ao– rio Ulay
+-- c8-v3: E–levantei meus–olhos e–vi e–eis um–carneiro um de–pé diante–do rio e–a–ele chifres e–os–chifres altos e–um mais–alto do–que– o–outro e–o–mais–alto subindo por–último
+-- c8-v4: Vi (a) o–carneiro marrar para–o–oeste e–para–o–norte e–para–o–sul e–nenhum– animal não– poderia–resistir diante–dele e–não–havia quem–livrasse de–sua–mão e–fez segundo–sua–vontade e–engrandeceu–se
+-- c8-v5: E–eu estava considerando e–eis um–bode– das–cabras vindo do– oeste sobre– a–face–de toda– a–terra e–não tocando na–terra e–o–bode um–chifre notável entre seus–olhos
+-- c8-v6: E–veio até– o–carneiro dono–de os–chifres que vi de–pé diante–do rio e–correu contra–ele no–furor–de sua–força
+-- c8-v7: E–vi–o chegando perto–do carneiro e–enfureceu–se contra–ele e–feriu (a) o–carneiro e–quebrou (a) os–dois seus–chifres e–não– havia força no–carneiro para–resistir diante–dele e–lançou–o por–terra e–pisoteou–o e–não– havia quem–livrasse o–carneiro de–sua–mão
+-- c8-v8: E–o–bode–de as–cabras engrandeceu–se até– muito e–quando–estava–forte quebrou–se o–chifre grande e–subiram notáveis quatro em–seu–lugar para–os–quatro ventos–dos céus
+-- c8-v9: E–de– um deles saiu um–chifre– um pequeno e–cresceu– excedentemente para– o–sul e–para– o–oriente e–para– a–Terra–Gloriosa
+-- c8-v10: E–cresceu até– o–exército–dos céus e–lançou por–terra parte–do– exército e–das– estrelas e–pisoteou–as
+-- c8-v11: E–até o–Príncipe–do exército se–engrandeceu e–dele [foi–tirado] (foi–tirado) o–contínuo e–foi–derrubado o–lugar–de seu–santuário
+-- c8-v12: E–um–exército foi–dado contra– o–contínuo por–transgressão e–lançou a–verdade por–terra e–fez e–prosperou
+-- c8-v13: E–ouvi um– santo falando e–disse um santo ao–Palmoni que–falava Até– quando será–a–visão do–contínuo e–a–transgressão devastadora permitindo e–o–santuário e–o–exército ser–pisoteado
+-- c8-v14: E–disse a–mim Até tarde manhã dois–mil e–trezentos trezentos e–será–purificado o–santuário
+-- c8-v15: E–aconteceu quando–eu–vi eu Daniyel (a) a–visão e–busquei entendimento e–eis de–pé diante–de–mim com–aparência–de– homem
+-- c8-v16: E–ouvi uma–voz–de homem entre Ulay e–clamou e–disse Gavriyel faze–entender a–este (a) a–visão
+-- c8-v17: E–veio perto–de onde–eu–estava e–quando–veio me–aterrorizei e–caí sobre– meu–rosto e–disse a–mim Entende filho–de homem porque para–o–tempo–do fim é–a–visão
+-- c8-v18: E–enquanto–ele–falava comigo caí–em–sono–profundo sobre– meu–rosto por–terra e–tocou– em–mim e–me–fez–ficar–de–pé sobre– meu–lugar
+-- c8-v19: E–disse Eis–me te–fazendo–saber (a) o–que– acontecerá no–fim–da indi­não porque para–o–tempo–determinado–do fim
+-- c8-v20: O–carneiro que– viste dono–de os–chifres é–os–reis–de Media e–Persia
+-- c8-v21: E–o–bode peludo é–o–rei–de Yavan e–o–chifre grande que entre– seus–olhos ele é–o–rei primeiro
+-- c8-v22: E–o–que–foi–quebrado e–levantaram–se quatro em–seu–lugar quatro reinos da–nação se–levantarão e–não com–seu–poder
+-- c8-v23: E–no–fim–do reinado–deles quando–completarem os–transgressores se–levantará um–rei feroz–de rosto e–entendendo enigmas
+-- c8-v24: E–fortalecerá seu–poder e–não por–seu–próprio–poder e–maravilhosamente destruirá e–prosperará e–fará e–destruirá os–poderosos e–o–povo– santo
+-- c8-v25: E–pela– sua–astúcia e–fará–prosperar o–engano em–sua–mão e–em–seu–coração se–engrandecerá e–em–paz destruirá muitos e–contra– o–Príncipe–dos príncipes se–levantará e–sem mão será–quebrado
+-- c8-v26: E–a–visão–da tarde e–da–manhã que foi–dita é–verdade ela e–tu sela a–visão porque para–dias muitos
+-- c8-v27: E–eu Daniyel desfaleci e–estive–doente dias e–levantei–me e–fiz (a) o–trabalho–do rei e–estava–espantado com– a–visão e–não–havia quem–entendesse ¶
+-- c9-v1: No–ano primeiro de–Daryavesh filho–de Achashverosh da–semente–de Media que reinou sobre o–reino–de os–caldeus
+-- c9-v2: No–ano primeiro do–seu–reinado eu Daniyel entendi pelos–livros o–número–de os–anos que veio a–palavra–de YHVH a– Yirmeyahu o–profeta para–cumprir as–devastações–de Yerushalem setenta anos
+-- c9-v3: E–voltei (a) meu–rosto para– o–Senhor o–Deus para–buscar oração e–súplicas com–jejum e–saco e–cinzas
+-- c9-v4: E–orei a–YHVH meu–Deus e–confessei e–disse Oh Senhor o–Deus grande e–terrível que–guarda a–aliança e–a–misericórdia para–os–que–te–amam e–para–os–que–guardam teus–mandamentos
+-- c9-v5: Pecamos e–cometemos–iniquidade [e–procedemos–perversamente] (e–procedemos–perversamente) e–nos–rebelamos e–desviando–nos de–teus–mandamentos e–de–teus–juízos
+-- c9-v6: E–não ouvimos a– teus–servos os–profetas que falaram em–teu–nome a– nossos–reis nossos–príncipes e–nossos–pais e–a todo– o–povo–de a–terra
+-- c9-v7: A–ti ó–Senhor é–a–justiça e–a–nós a–vergonha–do rosto como–o–dia este aos–homens–de Yehudah e–aos–habitantes–de Yerushalem e–a–todo– Yisrael os–que–estão–perto e–os–que–estão–longe em–todas– as–terras para–onde os–expulsaste lá por–sua–infidelidade que foram–infiéis– contra–ti
+-- c9-v8: YHVH a–nós é–a–vergonha–do rosto aos–nossos–reis aos–nossos–príncipes e–aos–nossos–pais que pecamos contra–ti
+-- c9-v9: Ao–Senhor nosso–Deus as–misericórdias e–os–perdões porque nos–rebelamos contra–ele
+-- c9-v10: E–não ouvimos a–voz–de YHVH nosso–Deus para–andar em–suas–leis que pôs diante–de–nós pela–mão–de seus–servos os–profetas
+-- c9-v11: E–todo– Yisrael transgrediu (a) tua–lei e–desviando–se para–não ouvir tua–voz e–se–derramou sobre–nós a–maldição e–o–juramento que está–escrito na–lei–de Mosheh servo–de o–Deus porque pecamos contra–ele
+-- c9-v12: E–confirmou (a) [suas–palavras] (sua–palavra) que– falou contra–nós e–contra nossos–juízes que nos–julgaram para–trazer sobre–nós mal grande que não– foi–feito debaixo–de todo– o–céu como foi–feito em–Yerushalem
+-- c9-v13: Como está–escrito na–lei–de Mosheh (a) todo– este–mal este veio sobre–nós e–não– imploramos (a) face–de YHVH nosso–Deus para–nos–converter de–nossas–iniquidades e–para–dar–atenção à–tua–verdade
+-- c9-v14: E–vigiou YHVH sobre– o–mal e–o–trouxe sobre–nós porque– justo é–YHVH nosso–Deus em– todas– suas–obras que fez e–não ouvimos sua–voz
+-- c9-v15: E–agora ó–Senhor nosso–Deus que tiraste (a) teu–povo da–terra–de Mitsrayim com–mão forte e–fizeste– para–ti um–nome como–o–dia este pecamos procedemos–perversamente
+-- c9-v16: Ó–Senhor segundo–todas– tuas–justiças volte–se– por–favor tua–ira e–teu–furor de–tua–cidade Yerushalem o–monte–de tua–santidade porque por–nossos–pecados e–pelas–iniquidades–de nossos–pais Yerushalem e–teu–povo para–opróbrio a–todos– os–nossos–vizinhos
+-- c9-v17: E–agora ouve nosso–Deus (a) a–oração–de teu–servo e–(a) suas–súplicas e–faze–resplandecer teu–rosto sobre– teu–santuário desolado por–amor–de o–Senhor
+-- c9-v18: Inclina meu–Deus teu–ouvido e–ouve [abre] (abre) teus–olhos e–vê nossas–desolações e–a–cidade sobre–a–qual– é–chamado teu–nome sobre–ela porque não por– nossas–justiças nós lançamos nossas–súplicas diante–de–ti mas por– tuas–misericórdias as–muitas
+-- c9-v19: Ó–Senhor ouve ó–Senhor perdoa ó–Senhor atende e–age não– tardes por–amor–de–ti–mesmo meu–Deus porque– teu–nome é–chamado sobre– tua–cidade e–sobre– teu–povo
+-- c9-v20: E–ainda eu falando e–orando e–confessando meu–pecado e–o–pecado–de meu–povo Yisrael e–lançando minha–súplica diante–de YHVH meu–Deus sobre o–monte–de santidade–de meu–Deus
+-- c9-v21: E–ainda eu falando na–oração e–o–homem Gavriyel que vi na–visão no–princípio voando rapidamente tocando em–mim ao–tempo–da oferta–de tarde
+-- c9-v22: E–fez–me–entender e–falou comigo e–disse Daniyel agora saí para–te–fazer–entender entendimento
+-- c9-v23: No–princípio–de tuas–súplicas saiu a–palavra e–eu vim para–declarar porque muito–amado és–tu e–entende a–palavra e–considera a–visão
+-- c9-v24: Semanas setenta estão–determinadas sobre– teu–povo e–sobre– a–cidade–de tua–santidade para–fazer–cessar a–transgressão [e–para–selar] (e–para–dar–fim) [aos–pecados] (ao–pecado) e–para–expiar a–iniquidade e–para–trazer justiça eterna e–para–selar visão e–profeta e–para–ungir o–Santo–dos Santos
+-- c9-v25: E–sabe e–entende desde– a–saída–da palavra para–restaurar e–para–edificar Yerushalem até– o–Messias o–Príncipe semanas sete e–semanas sessenta e–duas será–restaurada e–será–edificada praça e–fosso e–em–tempos–de angustia
+-- c9-v26: E–depois–das semanas sessenta e–duas será–cortado o–Messias e–nada terá e–a–cidade e–o–santuário destruirá o–povo–de um–príncipe que–virá e–seu–fim com–inundação e–até o–fim guerra está–determinada desolações
+-- c9-v27: E–ele–fará–firme uma–aliança com–muitos por–uma–semana uma e–na–metade–da semana fará–cessar o–sacrifício e–a–oferta–de–cereais e–sobre a–asa–de abominações virá–o–assolador e–até– a–consumação e–o–que–está–determinado será–derramado sobre– o–assolador ¶
+-- c10-v1: No–ano terceiro de–Koresh rei–de Paras uma–palavra foi–revelada a–Daniyel cujo– foi–chamado seu–nome Belteshatstsar e–verdadeira é–a–palavra e–de–grande conflito e–entendeu (a) a–palavra e–entendimento teve na–visão
+-- c10-v2: Naqueles–dias esses eu Daniyel estava pranteando três semanas de–dias
+-- c10-v3: Pão desejável não comi e–carne e–vinho não– entraram em– minha–boca e–ungir–me não– me–ungi até– completarem–se as–três semanas de–dias ¶
+-- c10-v4: E–no–dia vinte e–quatro do–mês primeiro e–eu estava junto–à margem–do rio grande que–é Chiddeqel
+-- c10-v5: E–levantei (a) meus–olhos e–vi e–eis um–homem– um vestido de–linho e–seus–lombos cingidos com–ouro–de Ufaz
+-- c10-v6: E–seu–corpo como–berílio e–seu–rosto como–aparência–de relâmpago e–seus–olhos como–tochas–de fogo e–seus–braços e–seus–pés como–aparência–de bronze polido e–o–som–de suas–palavras como–o–som–de uma–multidão
+-- c10-v7: E–vi eu Daniyel sozinho (a) a–visão e–os–homens que estavam comigo não viram (a) a–visão mas um–grande–tremor grande caiu sobre–eles e–fugiram para–se–esconder
+-- c10-v8: E–eu fiquei sozinho e–vi (a) esta–visão grande esta e–não ficou– em–mim força e–meu–vigor se–transformou sobre–mim em–destruição e–não retive força
+-- c10-v9: E–ouvi (a) o–som–de suas–palavras e–quando–ouvi (a) o–som–de suas–palavras e–eu estava em–sono–profundo sobre– meu–rosto e–meu–rosto por–terra
+-- c10-v10: E–eis– uma–mão tocou em–mim e–me–fez–estremecer sobre– meus–joelhos e–palmas–de minhas–mãos
+-- c10-v11: E–disse a–mim Daniyel homem– muito–amado entende as–palavras que eu falo a–ti e–fica–de–pé no– teu–lugar porque agora fui–enviado a–ti e–quando–ele–falou comigo (a) esta–palavra esta fiquei–de–pé tremendo
+-- c10-v12: E–disse a–mim Não– temas Daniyel porque desde– o–dia primeiro em–que puseste (a) teu–coração para–entender e–para–te–humilhar diante–de teu–Deus foram–ouvidas tuas–palavras e–eu– vim por–tuas–palavras
+-- c10-v13: E–o–príncipe–do reino–de Paras de–pé contra–mim vinte e–um dias e–eis Mikhael um dos–príncipes primeiros veio para–me–ajudar e–eu fiquei lá junto–aos reis–de Paras
+-- c10-v14: E–vim para–te–fazer–entender (a) o–que– acontecerá ao–teu–povo no–fim–dos dias porque– ainda é–visão para–os–dias
+-- c10-v15: E–enquanto–ele–falava comigo estas–palavras estas pus meu–rosto por–terra e–emudeci
+-- c10-v16: E–eis um–semelhante–aos filhos–de homem tocando em– meus–lábios e–abri– minha–boca e–falei e–disse ao– que–estava–de–pé diante–de–mim Meu–senhor na–visão voltaram–se minhas–dores sobre–mim e–não retive força
+-- c10-v17: E–como pode o–servo–de meu–senhor este falar com– meu–senhor este e–quanto–a–mim desde–agora não– permanece– em–mim força e–fôlego não ficou– em–mim
+-- c10-v18: E–novamente tocou– em–mim um–semelhante–a homem e–me–fortaleceu
+-- c10-v19: E–disse Não– temas homem– muito–amado paz a–ti sê–forte e–sê–forte e–quando–ele–falou comigo me–fortaleci e–disse Fale meu–senhor porque me–fortaleceste
+-- c10-v20: E–disse Sabes por–que– vim a–ti E–agora voltarei para–lutar com– o–príncipe–de Paras e–eu saindo e–eis o–príncipe–de Yavan virá
+-- c10-v21: Contudo te–declararei a–ti (a) o–que–está–inscrito na–escrita–da verdade e–não–há nenhum que–se–fortalece comigo contra– estes a–não–ser– senão– Mikhael vosso–príncipe ¶
+-- c11-v1: E–eu no–ano primeiro de–Daryavesh o–medo meu–estar–de–pé para–fortalecer e–para–fortaleza a–ele
+-- c11-v2: E–agora a–verdade te–declararei a–ti Eis– ainda três reis se–levantarão para–Paras e–o–quarto enriquecerá de–riqueza– grande mais–do–que–todos e–quando–se–fortalecer com–sua–riqueza despertará a–todos contra o–reino–de Yavan
+-- c11-v3: E–levantar–se–á um–rei poderoso e–dominará domínio grande e–fará segundo–sua–vontade
+-- c11-v4: E–quando–se–levantar será–quebrado seu–reino e–será–dividido para–os–quatro ventos–dos céus e–não para–sua–posteridade e–não como–seu–domínio que dominou porque será–arrancado seu–reino e–para–outros além–de– estes
+-- c11-v5: E–se–fortalecerá o–rei–do sul e–de– seus–príncipes e–se–fortalecerá sobre–ele e–dominará domínio grande é–seu–domínio
+-- c11-v6: E–ao–fim–de anos se–aliarão e–a–filha–do rei–do sul virá ao– rei–do norte para–fazer acordo e–não– reterá força–do braço e–não permanecerá e–seu–braço e–será–entregue ela e–os–que–a–trouxeram e–o–que–a–gerou e–o–que–a–fortaleceu nos–tempos
+-- c11-v7: E–levantar–se–á de–um–ramo–de suas–raízes em–seu–lugar e–virá ao– exército e–entrará na–fortaleza–do rei–do norte e–agirá contra–eles e–prevalecerá
+-- c11-v8: E–também seus–deuses com– suas–imagens–fundidas com– os–objetos–de seu–desejo de–prata e–de–ouro em–cativeiro levará para–Mitsrayim e–ele anos permanecerá longe–do–rei–do norte
+-- c11-v9: E–entrará no–reino–do rei–do sul e–voltará para– sua–terra
+-- c11-v10: [e–seu–filho] (e–seus–filhos) entrarão–em–guerra e–reunirão uma–multidão–de exércitos muitos e–virá certamente e–inundará e–passará e–voltará [e–entrarão–em–guerra] (e–entrará–em–guerra) até– [sua–fortaleza] (sua–fortaleza)
+-- c11-v11: E–se–enfurecerá o–rei–do sul e–sairá e–pelejará com–ele com– o–rei–do norte e–este–levantará uma–multidão grande e–será–entregue a–multidão em–sua–mão
+-- c11-v12: E–quando–for–levada a–multidão [se–exaltará] (exaltar–se–á) seu–coração e–derrubará dezenas–de–milhares e–não se–fortalecerá
+-- c11-v13: E–voltará o–rei–do norte e–levantará uma–multidão maior do–que– a–primeira e–ao–fim–de os–tempos anos virá certamente com–um–exército grande e–com–muitas–provisões muitas
+-- c11-v14: E–naqueles–tempos esses muitos se–levantarão contra– o–rei–do sul e–os–filhos–dos violentos–de teu–povo se–exaltarão para–estabelecer a–visão e–tropecarão
+-- c11-v15: E–virá o–rei–do norte e–levantará uma–muralha e–tomará a–cidade fortificada e–as–forças–do sul não resistirão e–seu–povo escolhido e–não–haverá força para–resistir
+-- c11-v16: E–fará o–que–vem contra–ele segundo–sua–vontade e–não–haverá quem–resista diante–dele e–se–estabelecerá na–terra– Gloriosa e–destruição em–sua–mão
+-- c11-v17: E–voltará seu–rosto para–vir com–a–força–de todo– seu–reino e–os–retos com–ele e–fará e–a–filha–das mulheres dará– a–ele para–destruí–la e–não permanecerá e–não– dele será
+-- c11-v18: [e–voltará] (e–voltará) seu–rosto para–as–ilhas e–tomará muitas e–fará–cessar um–comandante seu–opróbrio para–ele sem seu–opróbrio fará–voltar sobre–ele
+-- c11-v19: E–voltará seu–rosto para–as–fortalezas–de sua–terra e–tropecará e–cairá e–não será–encontrado
+-- c11-v20: E–levantar–se–á em– seu–lugar um–que–faz–passar um–exator na–glória–do reino e–em–dias poucos será–quebrado e–não em–ira e–não em–guerra
+-- c11-v21: E–levantar–se–á em– seu–lugar um–desprezível e–não– deram a–ele a–honra–do reino e–virá em–tranquilidade e–tomará o–reino com–intrigas
+-- c11-v22: E–as–forças–da inundação serão–inundadas de–diante–dele e–serão–quebradas e–também o–príncipe–da aliança
+-- c11-v23: E–desde– a–aliança com–ele agirá com–engano e–subirá e–se–fortalecerá com–pouca– gente
+-- c11-v24: Em–tranquilidade e–nas–partes–mais–ricas–da província virá e–fará o–que não– fizeram seus–pais e–os–pais–de seus–pais despojo e–saque e–riquezas para–eles espalhará e–contra as–fortalezas planejará seus–planos e–até– o–tempo
+-- c11-v25: E–despertará sua–força e–seu–coração contra– o–rei–do sul com–um–exército grande e–o–rei–do sul entrará–em–guerra para–a–guerra com–um–exército– grande e–forte até– muito e–não resistirá porque– planejarão contra–ele planos
+-- c11-v26: E–os–que–comem o–pão–de sua–mesa o–quebrarão e–seu–exército será–inundado e–cairão mortos muitos
+-- c11-v27: E–ambos os–reis seus–corações para–o–mal e–à mesa uma mentira falarão e–não prosperará porque– ainda é–o–fim para–o–tempo–determinado
+-- c11-v28: E–voltará para–sua–terra com–riquezas grandes e–seu–coração contra– a–aliança santa e–agirá e–voltará para–sua–terra
+-- c11-v29: No–tempo–determinado voltará e–virá ao–sul e–não– será como–a–primeira–vez e–como–a–última
+-- c11-v30: E–virão contra–ele navios–de Kittim e–se–abaterá e–voltará e–terá–indi­não contra– a–aliança– santa e–agirá e–voltará e–dará–atenção aos– que–abandonam a–aliança santa
+-- c11-v31: E–braços dele se–levantarão e–profanarão o–santuário a–fortaleza e–tirarão o–contínuo e–colocarão a–abominação desoladora
+-- c11-v32: E–aos–que–violam a–aliança corromperá com–lisonjas e–o–povo que–conhece seu–Deus se–fortalecerá e–agirá
+-- c11-v33: E–os–sábios–do povo instruirão a–muitos e–cairão pela–espada e–pela–chama pelo–cativeiro e–pelo–saque por–dias
+-- c11-v34: E–quando–caírem serão–ajudados com–ajuda pequena e–se–unirão a–eles muitos com–intrigas
+-- c11-v35: E–de– os–sábios cairão para–purificá–los entre–eles e–para–refinrar e–para–embranquecer até– o–tempo–do fim porque– ainda é–para–o–tempo–determinado
+-- c11-v36: E–fará segundo–sua–vontade o–rei e–se–exaltará e–se–engrandecerá sobre– todo– deus e–contra o–Deus–dos deuses falará coisas–maravilhosas e–prosperará até– completar–se–a indi­não porque o–que–está–determinado será–feito
+-- c11-v37: E–aos– deuses–de seus–pais não terá–consideração e–ao– desejo–das mulheres e–a– nenhum– deus não terá–consideração porque sobre– todos se–engrandecerá
+-- c11-v38: E–ao–deus–das fortalezas em– seu–lugar honrará e–a–um–deus que não– conheceram seus–pais honrará com–ouro e–com–prata e–com–pedras preciosas e–com–coisas–desejáveis
+-- c11-v39: E–agirá contra–as–fortalezas fortes com– um–deus estrangeiro a–quem [reconhecerá] (reconhecerá) aumentará honra e–os–fará–dominar sobre–muitos e–a–terra dividirá por–preço
+-- c11-v40: E–no–tempo–do fim investirá–contra–ele com–ele o–rei–do sul e–se–enfurecerá contra–ele o–rei–do norte com–carros e–com–cavaleiros e–com–navios muitos e–entrará nas–terras e–inundará e–passará
+-- c11-v41: E–entrará na–terra Gloriosa e–muitos cairão e–estes escaparão de–sua–mão Edom e–Moav e–os–principais–dos filhos–de Ammon
+-- c11-v42: E–estenderá sua–mão nas–terras e–a–terra–de Mitsrayim não será para–escape
+-- c11-v43: E–dominará sobre–os–tesouros–de ouro e–de–prata e–sobre–todas as–coisas–desejáveis–de Mitsrayim e–os–líbios e–os–etíopes em–seus–passos
+-- c11-v44: E–notícias o–perturbarão do–oriente e–do–norte e–sairá com–furor grande para–destruir e–para–exterminar muitos
+-- c11-v45: E–plantará as–tendas–de seu–palácio entre os–mares e–o–monte– Glorioso– santo e–chegará ao– seu–fim e–não–haverá quem–o–ajude a–ele
+-- c12-v1: E–no–tempo aquele levantar-se-á Mikael o–príncipe o–grande o–que-está-de-pé sobre– filhos-de teu–povo e–haverá tempo-de angústia que não– houve desde–haver nação até o–tempo aquele e–no–tempo aquele será-salvo teu–povo todo– o–que-for-achado escrito no–livro
+-- c12-v2: E–muitos dos–que-dormem-em terra-de– pó despertarão estes para–vida-de eternidade e–estes para–vergonhas para–horror-de eternidade §
+-- c12-v3: E–os–prudentes resplandecerão como–esplendor-de o–firmamento e–os–que-justificam os–muitos como–as–estrelas para–eternidade e–sempre ¶
+-- c12-v4: E–tu Daniyel fecha as–palavras e–sela o–livro até– tempo-de fim correrão muitos e–aumentará o–conhecimento
+-- c12-v5: E–vi eu Daniyel e–eis dois outros de-pé um aqui na–margem-de o–rio e–um aqui na–margem-de o–rio
+-- c12-v6: E–disse ao–homem vestido-de linho que de–acima-de às–águas-de o–rio até– quando fim-de as–maravilhas
+-- c12-v7: E–ouvi (a)– o–homem vestido-de linho que de–acima-de às–águas-de o–rio e–levantou sua–direita e–sua–esquerda para– os–céus e–jurou pelo–que-vive-de a–eternidade que para–tempo-designado tempos-designados e–metade e–ao-completar despedaçar mão-de– povo-de– santidade completar-se-ão todas– estas
+-- c12-v8: E–eu ouvi e–não entendi e–disse meu–senhor que fim-de estas ¶
+-- c12-v9: E–disse vai Daniyel pois– fechadas e–seladas as–palavras até– tempo-de fim
+-- c12-v10: Serão-purificados e–serão-embranquecidos e–serão-refinados muitos e–agirão-impiamente ímpios e–não entenderão todos– ímpios e–os–prudentes entenderão
+-- c12-v11: E–desde–tempo-de ser-removido o–contínuo e–para-colocar abominação-de desolação dias mil duzentos e–noventa
+-- c12-v12: Bem-aventurado o–que-espera e–alcança a–dias mil três centenas trinta e–cinco
+-- c12-v13: E–tu vai para–o–fim e–descansarás e–te-levantarás para–tua–sorte para–fim-de os–dias
 
 BEGIN;
 -- 2700100101: בִּשְׁנַ֣ת (H8141) → "No–ano" [opus-4.5-chirho]

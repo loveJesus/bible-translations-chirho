@@ -3,818 +3,818 @@
 -- — John 3:16
 
 -- 1SAMUEL - POR Combined
--- Generated: 2026-01-27T21:46:15Z
+-- Generated: 2026-01-27T22:19:11Z
 
--- 1SAMUEL c1-v1 - POR
--- 1SAMUEL c1-v2 - POR
--- 1SAMUEL c1-v3 - POR
--- 1SAMUEL c1-v4 - POR
--- 1SAMUEL c1-v5 - POR
--- 1SAMUEL c1-v6 - POR
--- 1SAMUEL c1-v7 - POR
--- 1SAMUEL c1-v8 - POR
--- 1SAMUEL c1-v9 - POR
--- 1SAMUEL c1-v10 - POR
--- 1SAMUEL c1-v11 - POR
--- 1SAMUEL c1-v12 - POR
--- 1SAMUEL c1-v13 - POR
--- 1SAMUEL c1-v14 - POR
--- 1SAMUEL c1-v15 - POR
--- 1SAMUEL c1-v16 - POR
--- 1SAMUEL c1-v17 - POR
--- 1SAMUEL c1-v18 - POR
--- 1SAMUEL c1-v19 - POR
--- 1SAMUEL c1-v20 - POR
--- 1SAMUEL c1-v21 - POR
--- 1SAMUEL c1-v22 - POR
--- 1SAMUEL c1-v23 - POR
--- 1SAMUEL c1-v24 - POR
--- 1SAMUEL c1-v25 - POR
--- 1SAMUEL c1-v26 - POR
--- 1SAMUEL c1-v27 - POR
--- 1SAMUEL c1-v28 - POR
--- 1SAMUEL c2-v1 - POR
--- 1SAMUEL c2-v2 - POR
--- 1SAMUEL c2-v3 - POR
--- 1SAMUEL c2-v4 - POR
--- 1SAMUEL c2-v5 - POR
--- 1SAMUEL c2-v6 - POR
--- 1SAMUEL c2-v7 - POR
--- 1SAMUEL c2-v8 - POR
--- 1SAMUEL c2-v9 - POR
--- 1SAMUEL c2-v10 - POR
--- 1SAMUEL c2-v11 - POR
--- 1SAMUEL c2-v12 - POR
--- 1SAMUEL c2-v13 - POR
--- 1SAMUEL c2-v14 - POR
--- 1SAMUEL c2-v15 - POR
--- 1SAMUEL c2-v16 - POR
--- 1SAMUEL c2-v17 - POR
--- 1SAMUEL c2-v18 - POR
--- 1SAMUEL c2-v19 - POR
--- 1SAMUEL c2-v20 - POR
--- 1SAMUEL c2-v21 - POR
--- 1SAMUEL c2-v22 - POR
--- 1SAMUEL c2-v23 - POR
--- 1SAMUEL c2-v24 - POR
--- 1SAMUEL c2-v25 - POR
--- 1SAMUEL c2-v26 - POR
--- 1SAMUEL c2-v27 - POR
--- 1SAMUEL c2-v28 - POR
--- 1SAMUEL c2-v29 - POR
--- 1SAMUEL c2-v30 - POR
--- 1SAMUEL c2-v31 - POR
--- 1SAMUEL c2-v32 - POR
--- 1SAMUEL c2-v33 - POR
--- 1SAMUEL c2-v34 - POR
--- 1SAMUEL c2-v35 - POR
--- 1SAMUEL c2-v36 - POR
--- 1SAMUEL c3-v1 - POR
--- 1SAMUEL c3-v2 - POR
--- 1SAMUEL c3-v3 - POR
--- 1SAMUEL c3-v4 - POR
--- 1SAMUEL c3-v5 - POR
--- 1SAMUEL c3-v6 - POR
--- 1SAMUEL c3-v7 - POR
--- 1SAMUEL c3-v8 - POR
--- 1SAMUEL c3-v9 - POR
--- 1SAMUEL c3-v10 - POR
--- 1SAMUEL c3-v11 - POR
--- 1SAMUEL c3-v12 - POR
--- 1SAMUEL c3-v13 - POR
--- 1SAMUEL c3-v14 - POR
--- 1SAMUEL c3-v15 - POR
--- 1SAMUEL c3-v16 - POR
--- 1SAMUEL c3-v17 - POR
--- 1SAMUEL c3-v18 - POR
--- 1SAMUEL c3-v19 - POR
--- 1SAMUEL c3-v20 - POR
--- 1SAMUEL c3-v21 - POR
--- 1SAMUEL c4-v1 - POR
--- 1SAMUEL c4-v2 - POR
--- 1SAMUEL c4-v3 - POR
--- 1SAMUEL c4-v4 - POR
--- 1SAMUEL c4-v5 - POR
--- 1SAMUEL c4-v6 - POR
--- 1SAMUEL c4-v7 - POR
--- 1SAMUEL c4-v8 - POR
--- 1SAMUEL c4-v9 - POR
--- 1SAMUEL c4-v10 - POR
--- 1SAMUEL c4-v11 - POR
--- 1SAMUEL c4-v12 - POR
--- 1SAMUEL c4-v13 - POR
--- 1SAMUEL c4-v14 - POR
--- 1SAMUEL c4-v15 - POR
--- 1SAMUEL c4-v16 - POR
--- 1SAMUEL c4-v17 - POR
--- 1SAMUEL c4-v18 - POR
--- 1SAMUEL c4-v19 - POR
--- 1SAMUEL c4-v20 - POR
--- 1SAMUEL c4-v21 - POR
--- 1SAMUEL c4-v22 - POR
--- 1SAMUEL c5-v1 - POR
--- 1SAMUEL c5-v2 - POR
--- 1SAMUEL c5-v3 - POR
--- 1SAMUEL c5-v4 - POR
--- 1SAMUEL c5-v5 - POR
--- 1SAMUEL c5-v6 - POR
--- 1SAMUEL c5-v7 - POR
--- 1SAMUEL c5-v8 - POR
--- 1SAMUEL c5-v9 - POR
--- 1SAMUEL c5-v10 - POR
--- 1SAMUEL c5-v11 - POR
--- 1SAMUEL c5-v12 - POR
--- 1SAMUEL c6-v1 - POR
--- 1SAMUEL c6-v2 - POR
--- 1SAMUEL c6-v3 - POR
--- 1SAMUEL c6-v4 - POR
--- 1SAMUEL c6-v5 - POR
--- 1SAMUEL c6-v6 - POR
--- 1SAMUEL c6-v7 - POR
--- 1SAMUEL c6-v8 - POR
--- 1SAMUEL c6-v9 - POR
--- 1SAMUEL c6-v10 - POR
--- 1SAMUEL c6-v11 - POR
--- 1SAMUEL c6-v12 - POR
--- 1SAMUEL c6-v13 - POR
--- 1SAMUEL c6-v14 - POR
--- 1SAMUEL c6-v15 - POR
--- 1SAMUEL c6-v16 - POR
--- 1SAMUEL c6-v17 - POR
--- 1SAMUEL c6-v18 - POR
--- 1SAMUEL c6-v19 - POR
--- 1SAMUEL c6-v20 - POR
--- 1SAMUEL c6-v21 - POR
--- 1SAMUEL c7-v1 - POR
--- 1SAMUEL c7-v2 - POR
--- 1SAMUEL c7-v3 - POR
--- 1SAMUEL c7-v4 - POR
--- 1SAMUEL c7-v5 - POR
--- 1SAMUEL c7-v6 - POR
--- 1SAMUEL c7-v7 - POR
--- 1SAMUEL c7-v8 - POR
--- 1SAMUEL c7-v9 - POR
--- 1SAMUEL c7-v10 - POR
--- 1SAMUEL c7-v11 - POR
--- 1SAMUEL c7-v12 - POR
--- 1SAMUEL c7-v13 - POR
--- 1SAMUEL c7-v14 - POR
--- 1SAMUEL c7-v15 - POR
--- 1SAMUEL c7-v16 - POR
--- 1SAMUEL c7-v17 - POR
--- 1SAMUEL c8-v1 - POR
--- 1SAMUEL c8-v2 - POR
--- 1SAMUEL c8-v3 - POR
--- 1SAMUEL c8-v4 - POR
--- 1SAMUEL c8-v5 - POR
--- 1SAMUEL c8-v6 - POR
--- 1SAMUEL c8-v7 - POR
--- 1SAMUEL c8-v8 - POR
--- 1SAMUEL c8-v9 - POR
--- 1SAMUEL c8-v10 - POR
--- 1SAMUEL c8-v11 - POR
--- 1SAMUEL c8-v12 - POR
--- 1SAMUEL c8-v13 - POR
--- 1SAMUEL c8-v14 - POR
--- 1SAMUEL c8-v15 - POR
--- 1SAMUEL c8-v16 - POR
--- 1SAMUEL c8-v17 - POR
--- 1SAMUEL c8-v18 - POR
--- 1SAMUEL c8-v19 - POR
--- 1SAMUEL c8-v20 - POR
--- 1SAMUEL c8-v21 - POR
--- 1SAMUEL c8-v22 - POR
--- 1SAMUEL c9-v1 - POR
--- 1SAMUEL c9-v2 - POR
--- 1SAMUEL c9-v3 - POR
--- 1SAMUEL c9-v4 - POR
--- 1SAMUEL c9-v5 - POR
--- 1SAMUEL c9-v6 - POR
--- 1SAMUEL c9-v7 - POR
--- 1SAMUEL c9-v8 - POR
--- 1SAMUEL c9-v9 - POR
--- 1SAMUEL c9-v10 - POR
--- 1SAMUEL c9-v11 - POR
--- 1SAMUEL c9-v12 - POR
--- 1SAMUEL c9-v13 - POR
--- 1SAMUEL c9-v14 - POR
--- 1SAMUEL c9-v15 - POR
--- 1SAMUEL c9-v16 - POR
--- 1SAMUEL c9-v17 - POR
--- 1SAMUEL c9-v18 - POR
--- 1SAMUEL c9-v19 - POR
--- 1SAMUEL c9-v20 - POR
--- 1SAMUEL c9-v21 - POR
--- 1SAMUEL c9-v22 - POR
--- 1SAMUEL c9-v23 - POR
--- 1SAMUEL c9-v24 - POR
--- 1SAMUEL c9-v25 - POR
--- 1SAMUEL c9-v26 - POR
--- 1SAMUEL c9-v27 - POR
--- 1SAMUEL c10-v1 - POR
--- 1SAMUEL c10-v2 - POR
--- 1SAMUEL c10-v3 - POR
--- 1SAMUEL c10-v4 - POR
--- 1SAMUEL c10-v5 - POR
--- 1SAMUEL c10-v6 - POR
--- 1SAMUEL c10-v7 - POR
--- 1SAMUEL c10-v8 - POR
--- 1SAMUEL c10-v9 - POR
--- 1SAMUEL c10-v10 - POR
--- 1SAMUEL c10-v11 - POR
--- 1SAMUEL c10-v12 - POR
--- 1SAMUEL c10-v13 - POR
--- 1SAMUEL c10-v14 - POR
--- 1SAMUEL c10-v15 - POR
--- 1SAMUEL c10-v16 - POR
--- 1SAMUEL c10-v17 - POR
--- 1SAMUEL c10-v18 - POR
--- 1SAMUEL c10-v19 - POR
--- 1SAMUEL c10-v20 - POR
--- 1SAMUEL c10-v21 - POR
--- 1SAMUEL c10-v22 - POR
--- 1SAMUEL c10-v23 - POR
--- 1SAMUEL c10-v24 - POR
--- 1SAMUEL c10-v25 - POR
--- 1SAMUEL c10-v26 - POR
--- 1SAMUEL c10-v27 - POR
--- 1SAMUEL c11-v1 - POR
--- 1SAMUEL c11-v2 - POR
--- 1SAMUEL c11-v3 - POR
--- 1SAMUEL c11-v4 - POR
--- 1SAMUEL c11-v5 - POR
--- 1SAMUEL c11-v6 - POR
--- 1SAMUEL c11-v7 - POR
--- 1SAMUEL c11-v8 - POR
--- 1SAMUEL c11-v9 - POR
--- 1SAMUEL c11-v10 - POR
--- 1SAMUEL c11-v11 - POR
--- 1SAMUEL c11-v12 - POR
--- 1SAMUEL c11-v13 - POR
--- 1SAMUEL c11-v14 - POR
--- 1SAMUEL c11-v15 - POR
--- 1SAMUEL c12-v1 - POR
--- 1SAMUEL c12-v2 - POR
--- 1SAMUEL c12-v3 - POR
--- 1SAMUEL c12-v4 - POR
--- 1SAMUEL c12-v5 - POR
--- 1SAMUEL c12-v6 - POR
--- 1SAMUEL c12-v7 - POR
--- 1SAMUEL c12-v8 - POR
--- 1SAMUEL c12-v9 - POR
--- 1SAMUEL c12-v10 - POR
--- 1SAMUEL c12-v11 - POR
--- 1SAMUEL c12-v12 - POR
--- 1SAMUEL c12-v13 - POR
--- 1SAMUEL c12-v14 - POR
--- 1SAMUEL c12-v15 - POR
--- 1SAMUEL c12-v16 - POR
--- 1SAMUEL c12-v17 - POR
--- 1SAMUEL c12-v18 - POR
--- 1SAMUEL c12-v19 - POR
--- 1SAMUEL c12-v20 - POR
--- 1SAMUEL c12-v21 - POR
--- 1SAMUEL c12-v22 - POR
--- 1SAMUEL c12-v23 - POR
--- 1SAMUEL c12-v24 - POR
--- 1SAMUEL c12-v25 - POR
--- 1SAMUEL c13-v1 - POR
--- 1SAMUEL c13-v2 - POR
--- 1SAMUEL c13-v3 - POR
--- 1SAMUEL c13-v4 - POR
--- 1SAMUEL c13-v5 - POR
--- 1SAMUEL c13-v6 - POR
--- 1SAMUEL c13-v7 - POR
--- 1SAMUEL c13-v8 - POR
--- 1SAMUEL c13-v9 - POR
--- 1SAMUEL c13-v10 - POR
--- 1SAMUEL c13-v11 - POR
--- 1SAMUEL c13-v12 - POR
--- 1SAMUEL c13-v13 - POR
--- 1SAMUEL c13-v14 - POR
--- 1SAMUEL c13-v15 - POR
--- 1SAMUEL c13-v16 - POR
--- 1SAMUEL c13-v17 - POR
--- 1SAMUEL c13-v18 - POR
--- 1SAMUEL c13-v19 - POR
--- 1SAMUEL c13-v20 - POR
--- 1SAMUEL c13-v21 - POR
--- 1SAMUEL c13-v22 - POR
--- 1SAMUEL c13-v23 - POR
--- 1SAMUEL c14-v1 - POR
--- 1SAMUEL c14-v2 - POR
--- 1SAMUEL c14-v3 - POR
--- 1SAMUEL c14-v4 - POR
--- 1SAMUEL c14-v5 - POR
--- 1SAMUEL c14-v6 - POR
--- 1SAMUEL c14-v7 - POR
--- 1SAMUEL c14-v8 - POR
--- 1SAMUEL c14-v9 - POR
--- 1SAMUEL c14-v10 - POR
--- 1SAMUEL c14-v11 - POR
--- 1SAMUEL c14-v12 - POR
--- 1SAMUEL c14-v13 - POR
--- 1SAMUEL c14-v14 - POR
--- 1SAMUEL c14-v15 - POR
--- 1SAMUEL c14-v16 - POR
--- 1SAMUEL c14-v17 - POR
--- 1SAMUEL c14-v18 - POR
--- 1SAMUEL c14-v19 - POR
--- 1SAMUEL c14-v20 - POR
--- 1SAMUEL c14-v21 - POR
--- 1SAMUEL c14-v22 - POR
--- 1SAMUEL c14-v23 - POR
--- 1SAMUEL c14-v24 - POR
--- 1SAMUEL c14-v25 - POR
--- 1SAMUEL c14-v26 - POR
--- 1SAMUEL c14-v27 - POR
--- 1SAMUEL c14-v28 - POR
--- 1SAMUEL c14-v29 - POR
--- 1SAMUEL c14-v30 - POR
--- 1SAMUEL c14-v31 - POR
--- 1SAMUEL c14-v32 - POR
--- 1SAMUEL c14-v33 - POR
--- 1SAMUEL c14-v34 - POR
--- 1SAMUEL c14-v35 - POR
--- 1SAMUEL c14-v36 - POR
--- 1SAMUEL c14-v37 - POR
--- 1SAMUEL c14-v38 - POR
--- 1SAMUEL c14-v39 - POR
--- 1SAMUEL c14-v40 - POR
--- 1SAMUEL c14-v41 - POR
--- 1SAMUEL c14-v42 - POR
--- 1SAMUEL c14-v43 - POR
--- 1SAMUEL c14-v44 - POR
--- 1SAMUEL c14-v45 - POR
--- 1SAMUEL c14-v46 - POR
--- 1SAMUEL c14-v47 - POR
--- 1SAMUEL c14-v48 - POR
--- 1SAMUEL c14-v49 - POR
--- 1SAMUEL c14-v50 - POR
--- 1SAMUEL c14-v51 - POR
--- 1SAMUEL c14-v52 - POR
--- 1SAMUEL c15-v1 - POR
--- 1SAMUEL c15-v2 - POR
--- 1SAMUEL c15-v3 - POR
--- 1SAMUEL c15-v4 - POR
--- 1SAMUEL c15-v5 - POR
--- 1SAMUEL c15-v6 - POR
--- 1SAMUEL c15-v7 - POR
--- 1SAMUEL c15-v8 - POR
--- 1SAMUEL c15-v9 - POR
--- 1SAMUEL c15-v10 - POR
--- 1SAMUEL c15-v11 - POR
--- 1SAMUEL c15-v12 - POR
--- 1SAMUEL c15-v13 - POR
--- 1SAMUEL c15-v14 - POR
--- 1SAMUEL c15-v15 - POR
--- 1SAMUEL c15-v16 - POR
--- 1SAMUEL c15-v17 - POR
--- 1SAMUEL c15-v18 - POR
--- 1SAMUEL c15-v19 - POR
--- 1SAMUEL c15-v20 - POR
--- 1SAMUEL c15-v21 - POR
--- 1SAMUEL c15-v22 - POR
--- 1SAMUEL c15-v23 - POR
--- 1SAMUEL c15-v24 - POR
--- 1SAMUEL c15-v25 - POR
--- 1SAMUEL c15-v26 - POR
--- 1SAMUEL c15-v27 - POR
--- 1SAMUEL c15-v28 - POR
--- 1SAMUEL c15-v29 - POR
--- 1SAMUEL c15-v30 - POR
--- 1SAMUEL c15-v31 - POR
--- 1SAMUEL c15-v32 - POR
--- 1SAMUEL c15-v33 - POR
--- 1SAMUEL c15-v34 - POR
--- 1SAMUEL c15-v35 - POR
--- 1SAMUEL c16-v1 - POR
--- 1SAMUEL c16-v2 - POR
--- 1SAMUEL c16-v3 - POR
--- 1SAMUEL c16-v4 - POR
--- 1SAMUEL c16-v5 - POR
--- 1SAMUEL c16-v6 - POR
--- 1SAMUEL c16-v7 - POR
--- 1SAMUEL c16-v8 - POR
--- 1SAMUEL c16-v9 - POR
--- 1SAMUEL c16-v10 - POR
--- 1SAMUEL c16-v11 - POR
--- 1SAMUEL c16-v12 - POR
--- 1SAMUEL c16-v13 - POR
--- 1SAMUEL c16-v14 - POR
--- 1SAMUEL c16-v15 - POR
--- 1SAMUEL c16-v16 - POR
--- 1SAMUEL c16-v17 - POR
--- 1SAMUEL c16-v18 - POR
--- 1SAMUEL c16-v19 - POR
--- 1SAMUEL c16-v20 - POR
--- 1SAMUEL c16-v21 - POR
--- 1SAMUEL c16-v22 - POR
--- 1SAMUEL c16-v23 - POR
--- 1SAMUEL c17-v1 - POR
--- 1SAMUEL c17-v2 - POR
--- 1SAMUEL c17-v3 - POR
--- 1SAMUEL c17-v4 - POR
--- 1SAMUEL c17-v5 - POR
--- 1SAMUEL c17-v6 - POR
--- 1SAMUEL c17-v7 - POR
--- 1SAMUEL c17-v8 - POR
--- 1SAMUEL c17-v9 - POR
--- 1SAMUEL c17-v10 - POR
--- 1SAMUEL c17-v11 - POR
--- 1SAMUEL c17-v12 - POR
--- 1SAMUEL c17-v13 - POR
--- 1SAMUEL c17-v14 - POR
--- 1SAMUEL c17-v15 - POR
--- 1SAMUEL c17-v16 - POR
--- 1SAMUEL c17-v17 - POR
--- 1SAMUEL c17-v18 - POR
--- 1SAMUEL c17-v19 - POR
--- 1SAMUEL c17-v20 - POR
--- 1SAMUEL c17-v21 - POR
--- 1SAMUEL c17-v22 - POR
--- 1SAMUEL c17-v23 - POR
--- 1SAMUEL c17-v24 - POR
--- 1SAMUEL c17-v25 - POR
--- 1SAMUEL c17-v26 - POR
--- 1SAMUEL c17-v27 - POR
--- 1SAMUEL c17-v28 - POR
--- 1SAMUEL c17-v29 - POR
--- 1SAMUEL c17-v30 - POR
--- 1SAMUEL c17-v31 - POR
--- 1SAMUEL c17-v32 - POR
--- 1SAMUEL c17-v33 - POR
--- 1SAMUEL c17-v34 - POR
--- 1SAMUEL c17-v35 - POR
--- 1SAMUEL c17-v36 - POR
--- 1SAMUEL c17-v37 - POR
--- 1SAMUEL c17-v38 - POR
--- 1SAMUEL c17-v39 - POR
--- 1SAMUEL c17-v40 - POR
--- 1SAMUEL c17-v41 - POR
--- 1SAMUEL c17-v42 - POR
--- 1SAMUEL c17-v43 - POR
--- 1SAMUEL c17-v44 - POR
--- 1SAMUEL c17-v45 - POR
--- 1SAMUEL c17-v46 - POR
--- 1SAMUEL c17-v47 - POR
--- 1SAMUEL c17-v48 - POR
--- 1SAMUEL c17-v49 - POR
--- 1SAMUEL c17-v50 - POR
--- 1SAMUEL c17-v51 - POR
--- 1SAMUEL c17-v52 - POR
--- 1SAMUEL c17-v53 - POR
--- 1SAMUEL c17-v54 - POR
--- 1SAMUEL c17-v55 - POR
--- 1SAMUEL c17-v56 - POR
--- 1SAMUEL c17-v57 - POR
--- 1SAMUEL c17-v58 - POR
--- 1SAMUEL c18-v1 - POR
--- 1SAMUEL c18-v2 - POR
--- 1SAMUEL c18-v3 - POR
--- 1SAMUEL c18-v4 - POR
--- 1SAMUEL c18-v5 - POR
--- 1SAMUEL c18-v6 - POR
--- 1SAMUEL c18-v7 - POR
--- 1SAMUEL c18-v8 - POR
--- 1SAMUEL c18-v9 - POR
--- 1SAMUEL c18-v10 - POR
--- 1SAMUEL c18-v11 - POR
--- 1SAMUEL c18-v12 - POR
--- 1SAMUEL c18-v13 - POR
--- 1SAMUEL c18-v14 - POR
--- 1SAMUEL c18-v15 - POR
--- 1SAMUEL c18-v16 - POR
--- 1SAMUEL c18-v17 - POR
--- 1SAMUEL c18-v18 - POR
--- 1SAMUEL c18-v19 - POR
--- 1SAMUEL c18-v20 - POR
--- 1SAMUEL c18-v21 - POR
--- 1SAMUEL c18-v22 - POR
--- 1SAMUEL c18-v23 - POR
--- 1SAMUEL c18-v24 - POR
--- 1SAMUEL c18-v25 - POR
--- 1SAMUEL c18-v26 - POR
--- 1SAMUEL c18-v27 - POR
--- 1SAMUEL c18-v28 - POR
--- 1SAMUEL c18-v29 - POR
--- 1SAMUEL c18-v30 - POR
--- 1SAMUEL c19-v1 - POR
--- 1SAMUEL c19-v2 - POR
--- 1SAMUEL c19-v3 - POR
--- 1SAMUEL c19-v4 - POR
--- 1SAMUEL c19-v5 - POR
--- 1SAMUEL c19-v6 - POR
--- 1SAMUEL c19-v7 - POR
--- 1SAMUEL c19-v8 - POR
--- 1SAMUEL c19-v9 - POR
--- 1SAMUEL c19-v10 - POR
--- 1SAMUEL c19-v11 - POR
--- 1SAMUEL c19-v12 - POR
--- 1SAMUEL c19-v13 - POR
--- 1SAMUEL c19-v14 - POR
--- 1SAMUEL c19-v15 - POR
--- 1SAMUEL c19-v16 - POR
--- 1SAMUEL c19-v17 - POR
--- 1SAMUEL c19-v18 - POR
--- 1SAMUEL c19-v19 - POR
--- 1SAMUEL c19-v20 - POR
--- 1SAMUEL c19-v21 - POR
--- 1SAMUEL c19-v22 - POR
--- 1SAMUEL c19-v23 - POR
--- 1SAMUEL c19-v24 - POR
--- 1SAMUEL c20-v1 - POR
--- 1SAMUEL c20-v2 - POR
--- 1SAMUEL c20-v3 - POR
--- 1SAMUEL c20-v4 - POR
--- 1SAMUEL c20-v5 - POR
--- 1SAMUEL c20-v6 - POR
--- 1SAMUEL c20-v7 - POR
--- 1SAMUEL c20-v8 - POR
--- 1SAMUEL c20-v9 - POR
--- 1SAMUEL c20-v10 - POR
--- 1SAMUEL c20-v11 - POR
--- 1SAMUEL c20-v12 - POR
--- 1SAMUEL c20-v13 - POR
--- 1SAMUEL c20-v14 - POR
--- 1SAMUEL c20-v15 - POR
--- 1SAMUEL c20-v16 - POR
--- 1SAMUEL c20-v17 - POR
--- 1SAMUEL c20-v18 - POR
--- 1SAMUEL c20-v19 - POR
--- 1SAMUEL c20-v20 - POR
--- 1SAMUEL c20-v21 - POR
--- 1SAMUEL c20-v22 - POR
--- 1SAMUEL c20-v23 - POR
--- 1SAMUEL c20-v24 - POR
--- 1SAMUEL c20-v25 - POR
--- 1SAMUEL c20-v26 - POR
--- 1SAMUEL c20-v27 - POR
--- 1SAMUEL c20-v28 - POR
--- 1SAMUEL c20-v29 - POR
--- 1SAMUEL c20-v30 - POR
--- 1SAMUEL c20-v31 - POR
--- 1SAMUEL c20-v32 - POR
--- 1SAMUEL c20-v33 - POR
--- 1SAMUEL c20-v34 - POR
--- 1SAMUEL c20-v35 - POR
--- 1SAMUEL c20-v36 - POR
--- 1SAMUEL c20-v37 - POR
--- 1SAMUEL c20-v38 - POR
--- 1SAMUEL c20-v39 - POR
--- 1SAMUEL c20-v40 - POR
--- 1SAMUEL c20-v41 - POR
--- 1SAMUEL c20-v42 - POR
--- 1SAMUEL c21-v1 - POR
--- 1SAMUEL c21-v2 - POR
--- 1SAMUEL c21-v3 - POR
--- 1SAMUEL c21-v4 - POR
--- 1SAMUEL c21-v5 - POR
--- 1SAMUEL c21-v6 - POR
--- 1SAMUEL c21-v7 - POR
--- 1SAMUEL c21-v8 - POR
--- 1SAMUEL c21-v9 - POR
--- 1SAMUEL c21-v10 - POR
--- 1SAMUEL c21-v11 - POR
--- 1SAMUEL c21-v12 - POR
--- 1SAMUEL c21-v13 - POR
--- 1SAMUEL c21-v14 - POR
--- 1SAMUEL c21-v15 - POR
--- 1SAMUEL c22-v1 - POR
--- 1SAMUEL c22-v2 - POR
--- 1SAMUEL c22-v3 - POR
--- 1SAMUEL c22-v4 - POR
--- 1SAMUEL c22-v5 - POR
--- 1SAMUEL c22-v6 - POR
--- 1SAMUEL c22-v7 - POR
--- 1SAMUEL c22-v8 - POR
--- 1SAMUEL c22-v9 - POR
--- 1SAMUEL c22-v10 - POR
--- 1SAMUEL c22-v11 - POR
--- 1SAMUEL c22-v12 - POR
--- 1SAMUEL c22-v13 - POR
--- 1SAMUEL c22-v14 - POR
--- 1SAMUEL c22-v15 - POR
--- 1SAMUEL c22-v16 - POR
--- 1SAMUEL c22-v17 - POR
--- 1SAMUEL c22-v18 - POR
--- 1SAMUEL c22-v19 - POR
--- 1SAMUEL c22-v20 - POR
--- 1SAMUEL c22-v21 - POR
--- 1SAMUEL c22-v22 - POR
--- 1SAMUEL c22-v23 - POR
--- 1SAMUEL c23-v1 - POR
--- 1SAMUEL c23-v2 - POR
--- 1SAMUEL c23-v3 - POR
--- 1SAMUEL c23-v4 - POR
--- 1SAMUEL c23-v5 - POR
--- 1SAMUEL c23-v6 - POR
--- 1SAMUEL c23-v7 - POR
--- 1SAMUEL c23-v8 - POR
--- 1SAMUEL c23-v9 - POR
--- 1SAMUEL c23-v10 - POR
--- 1SAMUEL c23-v11 - POR
--- 1SAMUEL c23-v12 - POR
--- 1SAMUEL c23-v13 - POR
--- 1SAMUEL c23-v14 - POR
--- 1SAMUEL c23-v15 - POR
--- 1SAMUEL c23-v16 - POR
--- 1SAMUEL c23-v17 - POR
--- 1SAMUEL c23-v18 - POR
--- 1SAMUEL c23-v19 - POR
--- 1SAMUEL c23-v20 - POR
--- 1SAMUEL c23-v21 - POR
--- 1SAMUEL c23-v22 - POR
--- 1SAMUEL c23-v23 - POR
--- 1SAMUEL c23-v24 - POR
--- 1SAMUEL c23-v25 - POR
--- 1SAMUEL c23-v26 - POR
--- 1SAMUEL c23-v27 - POR
--- 1SAMUEL c23-v28 - POR
--- 1SAMUEL c23-v29 - POR
--- 1SAMUEL c24-v1 - POR
--- 1SAMUEL c24-v2 - POR
--- 1SAMUEL c24-v3 - POR
--- 1SAMUEL c24-v4 - POR
--- 1SAMUEL c24-v5 - POR
--- 1SAMUEL c24-v6 - POR
--- 1SAMUEL c24-v7 - POR
--- 1SAMUEL c24-v8 - POR
--- 1SAMUEL c24-v9 - POR
--- 1SAMUEL c24-v10 - POR
--- 1SAMUEL c24-v11 - POR
--- 1SAMUEL c24-v12 - POR
--- 1SAMUEL c24-v13 - POR
--- 1SAMUEL c24-v14 - POR
--- 1SAMUEL c24-v15 - POR
--- 1SAMUEL c24-v16 - POR
--- 1SAMUEL c24-v17 - POR
--- 1SAMUEL c24-v18 - POR
--- 1SAMUEL c24-v19 - POR
--- 1SAMUEL c24-v20 - POR
--- 1SAMUEL c24-v21 - POR
--- 1SAMUEL c24-v22 - POR
--- 1SAMUEL c25-v1 - POR
--- 1SAMUEL c25-v2 - POR
--- 1SAMUEL c25-v3 - POR
--- 1SAMUEL c25-v4 - POR
--- 1SAMUEL c25-v5 - POR
--- 1SAMUEL c25-v6 - POR
--- 1SAMUEL c25-v7 - POR
--- 1SAMUEL c25-v8 - POR
--- 1SAMUEL c25-v9 - POR
--- 1SAMUEL c25-v10 - POR
--- 1SAMUEL c25-v11 - POR
--- 1SAMUEL c25-v12 - POR
--- 1SAMUEL c25-v13 - POR
--- 1SAMUEL c25-v14 - POR
--- 1SAMUEL c25-v15 - POR
--- 1SAMUEL c25-v16 - POR
--- 1SAMUEL c25-v17 - POR
--- 1SAMUEL c25-v18 - POR
--- 1SAMUEL c25-v19 - POR
--- 1SAMUEL c25-v20 - POR
--- 1SAMUEL c25-v21 - POR
--- 1SAMUEL c25-v22 - POR
--- 1SAMUEL c25-v23 - POR
--- 1SAMUEL c25-v24 - POR
--- 1SAMUEL c25-v25 - POR
--- 1SAMUEL c25-v26 - POR
--- 1SAMUEL c25-v27 - POR
--- 1SAMUEL c25-v28 - POR
--- 1SAMUEL c25-v29 - POR
--- 1SAMUEL c25-v30 - POR
--- 1SAMUEL c25-v31 - POR
--- 1SAMUEL c25-v32 - POR
--- 1SAMUEL c25-v33 - POR
--- 1SAMUEL c25-v34 - POR
--- 1SAMUEL c25-v35 - POR
--- 1SAMUEL c25-v36 - POR
--- 1SAMUEL c25-v37 - POR
--- 1SAMUEL c25-v38 - POR
--- 1SAMUEL c25-v39 - POR
--- 1SAMUEL c25-v40 - POR
--- 1SAMUEL c25-v41 - POR
--- 1SAMUEL c25-v42 - POR
--- 1SAMUEL c25-v43 - POR
--- 1SAMUEL c25-v44 - POR
--- 1SAMUEL c26-v1 - POR
--- 1SAMUEL c26-v2 - POR
--- 1SAMUEL c26-v3 - POR
--- 1SAMUEL c26-v4 - POR
--- 1SAMUEL c26-v5 - POR
--- 1SAMUEL c26-v6 - POR
--- 1SAMUEL c26-v7 - POR
--- 1SAMUEL c26-v8 - POR
--- 1SAMUEL c26-v9 - POR
--- 1SAMUEL c26-v10 - POR
--- 1SAMUEL c26-v11 - POR
--- 1SAMUEL c26-v12 - POR
--- 1SAMUEL c26-v13 - POR
--- 1SAMUEL c26-v14 - POR
--- 1SAMUEL c26-v15 - POR
--- 1SAMUEL c26-v16 - POR
--- 1SAMUEL c26-v17 - POR
--- 1SAMUEL c26-v18 - POR
--- 1SAMUEL c26-v19 - POR
--- 1SAMUEL c26-v20 - POR
--- 1SAMUEL c26-v21 - POR
--- 1SAMUEL c26-v22 - POR
--- 1SAMUEL c26-v23 - POR
--- 1SAMUEL c26-v24 - POR
--- 1SAMUEL c26-v25 - POR
--- 1SAMUEL c27-v1 - POR
--- 1SAMUEL c27-v2 - POR
--- 1SAMUEL c27-v3 - POR
--- 1SAMUEL c27-v4 - POR
--- 1SAMUEL c27-v5 - POR
--- 1SAMUEL c27-v6 - POR
--- 1SAMUEL c27-v7 - POR
--- 1SAMUEL c27-v8 - POR
--- 1SAMUEL c27-v9 - POR
--- 1SAMUEL c27-v10 - POR
--- 1SAMUEL c27-v11 - POR
--- 1SAMUEL c27-v12 - POR
--- 1SAMUEL c28-v1 - POR
--- 1SAMUEL c28-v2 - POR
--- 1SAMUEL c28-v3 - POR
--- 1SAMUEL c28-v4 - POR
--- 1SAMUEL c28-v5 - POR
--- 1SAMUEL c28-v6 - POR
--- 1SAMUEL c28-v7 - POR
--- 1SAMUEL c28-v8 - POR
--- 1SAMUEL c28-v9 - POR
--- 1SAMUEL c28-v10 - POR
--- 1SAMUEL c28-v11 - POR
--- 1SAMUEL c28-v12 - POR
--- 1SAMUEL c28-v13 - POR
--- 1SAMUEL c28-v14 - POR
--- 1SAMUEL c28-v15 - POR
--- 1SAMUEL c28-v16 - POR
--- 1SAMUEL c28-v17 - POR
--- 1SAMUEL c28-v18 - POR
--- 1SAMUEL c28-v19 - POR
--- 1SAMUEL c28-v20 - POR
--- 1SAMUEL c28-v21 - POR
--- 1SAMUEL c28-v22 - POR
--- 1SAMUEL c28-v23 - POR
--- 1SAMUEL c28-v24 - POR
--- 1SAMUEL c28-v25 - POR
--- 1SAMUEL c29-v1 - POR
--- 1SAMUEL c29-v2 - POR
--- 1SAMUEL c29-v3 - POR
--- 1SAMUEL c29-v4 - POR
--- 1SAMUEL c29-v5 - POR
--- 1SAMUEL c29-v6 - POR
--- 1SAMUEL c29-v7 - POR
--- 1SAMUEL c29-v8 - POR
--- 1SAMUEL c29-v9 - POR
--- 1SAMUEL c29-v10 - POR
--- 1SAMUEL c29-v11 - POR
--- 1SAMUEL c30-v1 - POR
--- 1SAMUEL c30-v2 - POR
--- 1SAMUEL c30-v3 - POR
--- 1SAMUEL c30-v4 - POR
--- 1SAMUEL c30-v5 - POR
--- 1SAMUEL c30-v6 - POR
--- 1SAMUEL c30-v7 - POR
--- 1SAMUEL c30-v8 - POR
--- 1SAMUEL c30-v9 - POR
--- 1SAMUEL c30-v10 - POR
--- 1SAMUEL c30-v11 - POR
--- 1SAMUEL c30-v12 - POR
--- 1SAMUEL c30-v13 - POR
--- 1SAMUEL c30-v14 - POR
--- 1SAMUEL c30-v15 - POR
--- 1SAMUEL c30-v16 - POR
--- 1SAMUEL c30-v17 - POR
--- 1SAMUEL c30-v18 - POR
--- 1SAMUEL c30-v19 - POR
--- 1SAMUEL c30-v20 - POR
--- 1SAMUEL c30-v21 - POR
--- 1SAMUEL c30-v22 - POR
--- 1SAMUEL c30-v23 - POR
--- 1SAMUEL c30-v24 - POR
--- 1SAMUEL c30-v25 - POR
--- 1SAMUEL c30-v26 - POR
--- 1SAMUEL c30-v27 - POR
--- 1SAMUEL c30-v28 - POR
--- 1SAMUEL c30-v29 - POR
--- 1SAMUEL c30-v30 - POR
--- 1SAMUEL c30-v31 - POR
--- 1SAMUEL c31-v1 - POR
--- 1SAMUEL c31-v2 - POR
--- 1SAMUEL c31-v3 - POR
--- 1SAMUEL c31-v4 - POR
--- 1SAMUEL c31-v5 - POR
--- 1SAMUEL c31-v6 - POR
--- 1SAMUEL c31-v7 - POR
--- 1SAMUEL c31-v8 - POR
--- 1SAMUEL c31-v9 - POR
--- 1SAMUEL c31-v10 - POR
--- 1SAMUEL c31-v11 - POR
--- 1SAMUEL c31-v12 - POR
--- 1SAMUEL c31-v13 - POR
+-- c1-v1: § E–foi homem um de– ha–Ramatayim Tsofim da–montanha-de 'Efrayim e–nome-dele 'Elqanah filho-de– Yerocham filho-de– 'Elihu filho-de– Tochu filho-de– Tsuf 'Efrati
+-- c1-v2: ¶ E–para-ele duas esposas nome-de uma Channah e–nome-de a–segunda Peninnah e–foi para–Peninnah filhos e–para–Channah não-havia filhos
+-- c1-v3: ¶ E–subiu o–homem esse de–cidade-dele de–dias a–dias para–adorar e–para–sacrificar a–YHWH Tseva'ot em–Shiloh e–ali dois filhos-de– 'Eli Chofni e–Pinechas sacerdotes a–YHWH
+-- c1-v4: ¶ E–foi o–dia e–sacrificou 'Elqanah e–deu a–Peninnah esposa-dele e–a–todos– filhos-dela e–filhas-dela porções
+-- c1-v5: ¶ E–a–Channah dava porção uma dupla porque (a) Channah amava e–YHWH fechou ventre-dela
+-- c1-v6: ¶ E–provocava-a rival-dela também– provocação por-causa-de fazê-la-trovear porque– fechou YHWH ao-redor-de ventre-dela
+-- c1-v7: ¶ E–assim fazia ano em–ano sempre-que subida-dela em–casa-de YHWH assim provocava-a e–chorava e–não comia
+-- c1-v8: ¶ E–disse a–ela 'Elqanah marido-dela Channah por-que choras e–por-que não comes e–por-que está-mal coração-teu acaso-não eu bom para–ti mais-que–dez filhos
+-- c1-v9: ¶ E–levantou-se Channah depois-de comer em–Shiloh e–depois-de beber e–'Eli o–sacerdote sentado sobre– a–cadeira sobre– umbral-de templo-de YHWH
+-- c1-v10: ¶ E–ela amarga-de alma e–orou a– YHWH e–chorar chorou
+-- c1-v11: ¶ E–fez-voto voto e–disse YHWH Tseva'ot se– olhar olhares em–aflição-de serva-tua e–lembrares-de-mim e–não– esqueceres (a) serva-tua e–deres à–serva-tua semente-de homens e–darei-o a–YHWH todos– dias-de vida-dele e–navalha não– subirá sobre– cabeça-dele
+-- c1-v12: ¶ E–foi que multiplicou para–orar diante-de YHWH e–'Eli observava (a) boca-dela
+-- c1-v13: ¶ E–Channah ela falava em– coração-dela somente lábios-dela moviam-se e–voz-dela não era-ouvida e–considerou-a 'Eli como–embriagada
+-- c1-v14: ¶ E–disse a–ela 'Eli até– quando te-embrigarás afasta (a) vinho-teu de–sobre–ti
+-- c1-v15: ¶ E–respondeu Channah e–disse não senhor-meu mulher dura-de– espírito eu e–vinho e–bebida-forte não bebi e–derramei (a) alma-minha diante-de YHWH
+-- c1-v16: não– ponhas (a) serva-tua diante-de filha-de– Beliya'al porque– da–abundância-de minha-conversa e–minha-aflição falei até– aqui
+-- c1-v17: ¶ E–respondeu 'Eli e–disse vai em–paz e–Deus-de Yisra'el dê (a) pedido-teu que pediste de–com–ele
+-- c1-v18: ¶ E–disse ache serva-tua graça em–olhos-teus e–foi a–mulher ao–caminho-dela e–comeu e–face-dela não– eram– para-ela mais
+-- c1-v19: ¶ E–levantaram-cedo pela–manhã e–adoraram diante-de YHWH e–voltaram e–vieram a– casa-deles ha–Ramatah e–conheceu 'Elqanah (a) Channah esposa-dele e–lembrou-dela YHWH
+-- c1-v20: § E–foi ao–completar-de os–dias e–concebeu Channah e–deu-à-luz filho e–chamou (a) nome-dele Shemu'el porque de–YHWH pedi-o
+-- c1-v21: ¶ E–subiu o–homem 'Elqanah e–toda– casa-dele para–sacrificar a–YHWH (a) sacrifício-de os–dias e–(a) voto-dele
+-- c1-v22: ¶ E–Channah não subiu porque– disse ao–marido-dela até ser-desmamado o–menino e–trá-lo-ei e–será-visto (a) face-de YHWH e–habitará ali até– eternidade
+-- c1-v23: ¶ E–disse a–ela 'Elqanah marido-dela faze o–bom em–olhos-teus fica até– desmamares-tu ele somente confirme YHWH (a) palavra-dele e–ficou a–mulher e–amamentou (a) filho-dela até– desmamar-ela ele
+-- c1-v24: ¶ E–fê-lo-subir com-ela quando desmamou-o com–novilhos três e–'efah uma farinha e–odre-de vinho e–trouxe-o casa-de– YHWH Shiloh e–o–menino menino
+-- c1-v25: ¶ E–abateram (a) o–novilho e–trouxeram (a) o–menino a– 'Eli
+-- c1-v26: ¶ E–disse por-favor senhor-meu vive alma-tua senhor-meu eu a–mulher que–estava-de-pé contigo nisto para–orar a– YHWH
+-- c1-v27: por– o–menino este orei e–deu YHWH a–mim (a) pedido-meu que pedi de–com–ele
+-- c1-v28: e–também eu emprestei-o a–YHWH todos– os–dias que ele-for ele pedido a–YHWH e–adorou ali a–YHWH ¶
+-- c2-v1: § E–orou Channah e–disse exultou coração-meu em–YHWH elevou-se chifre-meu em–YHWH alargou-se boca-minha sobre– inimigos-meus porque alegrei-me em–salvação-tua
+-- c2-v2: ¶ Não-há– santo como–YHWH porque não-há exceto-ti e–não-há rocha como–Deus-nosso
+-- c2-v3: ¶ Não– multipliqueis faleis altiva altiva saia arrogância da–boca-vossa porque Deus-de conhecimentos YHWH [e-não] (e–a-ele) são-pesadas ações
+-- c2-v4: ¶ Arco-de poderosos quebrados e–tropeçantes cingiram-se força
+-- c2-v5: ¶ Fartos com–o–pão alugaram-se e–famintos cessaram até– estéril deu-à-luz sete e–de-muitos filhos enfraqueceu
+-- c2-v6: ¶ YHWH mata e–vivifica faz-descer She'ol e–faz-subir
+-- c2-v7: ¶ YHWH empobrece e–enriquece humilha também– exalta
+-- c2-v8: ¶ Levanta do–pó pobre do–monturo ergue necessitado para–fazer-sentar com– nobres e–trono-de glória fá-los-herdar porque de–YHWH colunas-de terra e–pôs sobre-eles mundo
+-- c2-v9: ¶ Pés-de [santo-dele] (santos-dele) guarda e–ímpios em–trevas serão-silenciados porque– não em–força prevalecerá– homem
+-- c2-v10: ¶ YHWH serão-despedaçados [contendores-dele] (contendores-dele) [sobre-ele] (sobre-ele) nos–céus trovejará YHWH julgará confins-de– terra e–dará– força ao–rei-dele e–exaltará chifre-de ungido-dele ¶
+-- c2-v11: ¶ E–foi 'Elqanah ha–Ramatah a– casa-dele e–o–menino era ministro (a) YHWH (a) face-de 'Eli o–sacerdote
+-- c2-v12: § E–filhos-de 'Eli filhos-de Beliya'al não conheciam (a) YHWH
+-- c2-v13: ¶ E–costume-de os–sacerdotes com– o–povo todo– homem sacrificante sacrifício e–vinha servo-de o–sacerdote quando–cozinhar a–carne e–o–garfo três– os–dentes em–mão-dele
+-- c2-v14: ¶ E–golpeava na–bacia ou na–caldeira ou na–panela ou na–olla tudo que subia o–garfo tomava o–sacerdote nele assim faziam a–todo– Yisra'el os–que-vinham ali em–Shiloh
+-- c2-v15: ¶ Também antes-de queimarem (a) a–gordura e–vinha servo-de o–sacerdote e–dizia ao–homem o–que-sacrifica dá carne para–assar para–o–sacerdote e–não– tomará de–ti carne cozida senão se– crua
+-- c2-v16: ¶ E–dizia a–ele o–homem queimar queimarão como–o–dia a–gordura e–toma– para–ti conforme desejar alma-tua e–dizia [a-ele] (não) senão agora darás e–se– não tomarei à–força
+-- c2-v17: ¶ E–foi pecado-de os–jovens grande muito (a) face-de YHWH porque desprezaram os–homens (a) oferta-de YHWH
+-- c2-v18: § E–Shemu'el ministrava (a) face-de YHWH menino cingido 'efod-de linho
+-- c2-v19: ¶ E–manto pequeno fazia– para–ele mãe-dele e–fazia-subir para–ele de–dias a–dias quando–subida-dela com– marido-dela para–sacrificar (a) sacrifício-de os–dias
+-- c2-v20: ¶ E–abençoou 'Eli (a) 'Elqanah e–(a) esposa-dele e–disse ponha YHWH para–ti semente de– a–mulher esta em-lugar-de o–pedido que pediu a–YHWH e–foram ao–lugar-dele
+-- c2-v21: ¶ Porque– visitou YHWH (a) Channah e–concebeu e–deu-à-luz três– filhos e–duas filhas e–cresceu o–menino Shemu'el com– YHWH ¶
+-- c2-v22: § E–'Eli velho muito e–ouviu (a) todo– que faziam filhos-dele a–todo– Yisra'el e–(a) que– deitavam-se com– as–mulheres as–servindo porta-de tenda-de encontro
+-- c2-v23: ¶ E–disse a–eles por-que fazeis como–as–palavras estas que eu ouvindo (a) palavras-vossas más de–com todo– o–povo este
+-- c2-v24: ¶ Não filhos-meus porque não– boa a–notícia que eu ouvindo fazendo-transgredir povo-de– YHWH
+-- c2-v25: ¶ Se– pecar homem contra–homem e–julgá-lo-á Deus e–se contra–YHWH pecar– homem quem orará– por–ele e–não ouviram à–voz-de pai-deles porque– quis YHWH matá-los
+-- c2-v26: § E–o–menino Shemu'el andando e–crescendo e–bom também com– YHWH e–também com– homens ¶
+-- c2-v27: § E–veio homem-de– Deus a– 'Eli e–disse a–ele assim disse YHWH acaso–revelando revelei-me a– casa-de pai-teu quando–estarem-eles em–Mitsrayim para–casa-de Par'oh
+-- c2-v28: ¶ E–escolhi ele de–todos– tribos-de Yisra'el para–mim como–sacerdote para–subir sobre– altar-meu para–queimar incenso para–vestir 'efod diante-de-mim e–dei à–casa-de pai-teu (a) todas– ofertas-de-fogo-de filhos-de Yisra'el
+-- c2-v29: ¶ Por-que coiceareis em–sacrifício-meu e–em–oferta-minha que ordenei morada e–honras (a) filhos-teus mais-que-mim para–engordarem-vós das–primícias-de toda– oferta-de Yisra'el para–povo-meu
+-- c2-v30: ¶ Por-isso declaração-de– YHWH Deus-de Yisra'el dizendo disse casa-tua e–casa-de pai-teu andarão diante-de-mim até– eternidade e–agora declaração-de– YHWH longe-de-mim para-mim porque– os-que-me-honram honrarei e–desprezadores-meus serão-desprezados
+-- c2-v31: ¶ Eis dias vindo e–cortarei (a) braço-teu e–(a) braço-de casa-de pai-teu de–haver velho em–casa-tua
+-- c2-v32: ¶ E–verás adversário morada em–tudo que– fizer-bem (a) Yisra'el e–não– haverá velho em–casa-tua todos– os–dias
+-- c2-v33: ¶ E–homem não– cortarei para–ti de–com altar-meu para–consumir (a) olhos-teus e–para–entristecer (a) alma-tua e–toda– multidão-de casa-tua morrerão homens
+-- c2-v34: ¶ E–isto– para–ti o–sinal que virá a– dois filhos-teus a– Chofni e–Pinechas em–dia um morrerão ambos-eles
+-- c2-v35: ¶ E–levantarei para–mim sacerdote fiel conforme em–coração-meu e–em–alma-minha fará e–construirei para–ele casa fiel e–andará diante-de– ungido-meu todos– os–dias
+-- c2-v36: ¶ E–será todo– o–restante em–casa-tua virá para–prostrar-se a–ele por–moeda-de prata e–pedaço-de– pão e–dirá junta-me por-favor a– uma-de os–sacerdócios para–comer pedaço-de– pão ¶
+-- c3-v1: § E–o–menino Shemu'el ministrava (a) YHWH diante-de 'Eli e–palavra-de– YHWH era preciosa nos–dias aqueles não-havia visão frequente ¶
+-- c3-v2: ¶ E–foi no–dia aquele e–'Eli deitado em–lugar-dele [e-olho-dele] (e–olhos-dele) começaram a–escurecer não podia ver
+-- c3-v3: ¶ E–lâmpada-de Deus antes-de apagar-se e–Shemu'el deitado no–templo-de YHWH onde– ali arca-de Deus ¶
+-- c3-v4: ¶ E–chamou YHWH a– Shemu'el e–disse eis-me-aqui
+-- c3-v5: ¶ E–correu a– 'Eli e–disse eis-me-aqui porque– chamaste a–mim e–disse não– chamei volta deita e–foi e–deitou ¶
+-- c3-v6: ¶ E–continuou YHWH chamar novamente Shemu'el e–levantou-se Shemu'el e–foi a– 'Eli e–disse eis-me-aqui porque chamaste a–mim e–disse não– chamei filho-meu volta deita
+-- c3-v7: ¶ E–Shemu'el ainda-não conhecia (a) YHWH e–ainda-não revelada a–ele palavra-de– YHWH
+-- c3-v8: ¶ E–continuou YHWH chamar– Shemu'el na–terceira e–levantou-se e–foi a– 'Eli e–disse eis-me-aqui porque chamaste a–mim e–entendeu 'Eli que YHWH chamando ao–menino
+-- c3-v9: ¶ E–disse 'Eli a–Shemu'el vai deita e–será se– chamar a–ti e–dirás fala YHWH porque ouvindo servo-teu e–foi Shemu'el e–deitou em–lugar-dele
+-- c3-v10: § E–veio YHWH e–postou-se e–chamou como–vez-em– em–vez Shemu'el Shemu'el e–disse Shemu'el fala porque ouvindo servo-teu ¶
+-- c3-v11: ¶ E–disse YHWH a– Shemu'el eis eu fazendo coisa em–Yisra'el que todo– ouvinte-dele tinirão duas orelhas-dele
+-- c3-v12: ¶ No–dia aquele cumprirei contra– 'Eli (a) todo– que falei contra– casa-dele começando e–terminando
+-- c3-v13: ¶ E–anunciei a–ele que– julgando eu (a) casa-dele até– eternidade pela–iniquidade que– sabia que– amaldiçoando para–eles filhos-dele e–não repreendeu neles
+-- c3-v14: ¶ E–por-isso jurei à–casa-de 'Eli se– for-expiada iniquidade-de casa-de– 'Eli por–sacrifício e–por–oferta até– eternidade
+-- c3-v15: § E–deitou Shemu'el até– a–manhã e–abriu (a) portas-de casa-de– YHWH e–Shemu'el temia de–anunciar (a) a–visão a– 'Eli
+-- c3-v16: ¶ E–chamou 'Eli (a) Shemu'el e–disse Shemu'el filho-meu e–disse eis-me-aqui
+-- c3-v17: ¶ E–disse que a–palavra que falou a–ti não– por-favor escondas de–mim assim faça– a–ti Deus e–assim acrescente se– esconderes de–mim palavra de–toda– a–palavra que– falou a–ti
+-- c3-v18: ¶ E–anunciou– a–ele Shemu'el (a) todas– as–palavras e–não escondeu dele e–disse YHWH ele o–bom em–olhos-dele fará ¶
+-- c3-v19: § E–cresceu Shemu'el e–YHWH era com-ele e–não– deixou-cair de–todas– palavras-dele terra
+-- c3-v20: ¶ E–soube todo– Yisra'el de–Dan e–até– Be'er-Sheva que fiel Shemu'el como–profeta de–YHWH
+-- c3-v21: ¶ E–continuou YHWH a–aparecer em–Shiloh porque– revelou-se YHWH a– Shemu'el em–Shiloh pela–palavra-de YHWH ¶
+-- c4-v1: § E–foi palavra-de– Shemu'el a–todo– Yisra'el e–saiu Yisra'el ao–encontro-de Pelishtim para–a–guerra e–acamparam sobre– 'Even-ha-'Ezer e–Pelishtim acamparam em–'Afeq
+-- c4-v2: ¶ E–alinharam Pelishtim ao–encontro-de Yisra'el e–estendeu-se a–guerra e–foi-derrotado Yisra'el diante-de Pelishtim e–mataram na–batalha no–campo cerca-de–quatro milhares-de homem
+-- c4-v3: ¶ E–veio o–povo a– o–acampamento e–disseram anciãos-de Yisra'el por-que derrotou-nos YHWH hoje diante-de Pelishtim tomemos a–nós de–Shiloh (a) arca-de aliança-de YHWH e–venha em–meio-de-nós e–salve-nos da–palma-de inimigos-nossos
+-- c4-v4: ¶ E–enviou o–povo Shiloh e–levantaram de–lá (a) arca-de aliança-de– YHWH Tseva'ot assentado os–querubins e–ali dois filhos-de– 'Eli com– arca-de aliança-de o–Deus Chofni e–Pinechas
+-- c4-v5: ¶ E–foi quando–entrar arca-de aliança-de– YHWH a– o–acampamento e–gritaram todo– Yisra'el grito grande e–ecoou a–terra
+-- c4-v6: ¶ E–ouviram Pelishtim (a) som-de o–grito e–disseram que som-de o–grito o–grande este no–acampamento-de os–Hebreus e–souberam que arca-de YHWH veio a– o–acampamento
+-- c4-v7: ¶ E–temeram os–Pelishtim porque disseram veio Deus a– o–acampamento e–disseram ai de–nós porque não houve como–isto ontem anteontem
+-- c4-v8: ¶ Ai de–nós quem livrar-nos-á da–mão-de o–Deus o–poderoso este este ele o–Deus o–que-feriu (a) Mitsrayim com–toda– praga no–deserto
+-- c4-v9: ¶ Fortalecei-vos e–sede como–homens Pelishtim para-que-não sirvais aos–Hebreus como serviram a–vós e–sereis como–homens e–lutareis
+-- c4-v10: ¶ E–lutaram Pelishtim e–foi-derrotado Yisra'el e–fugiram homem para–tendas-dele e–foi a–derrota grande muito e–caiu de–Yisra'el trinta milhar a–pé
+-- c4-v11: ¶ E–arca-de Deus foi-tomada e–dois filhos-de– 'Eli morreram Chofni e–Pinechas
+-- c4-v12: § E–correu homem-de– Binyamin da–batalha e–veio Shiloh no–dia aquele e–vestes-dele rasgadas e–terra sobre– cabeça-dele
+-- c4-v13: ¶ E–veio e–eis 'Eli sentado sobre– a–cadeira [lado] (lado-de) caminho vigiando porque– estava coração-dele tremendo por arca-de o–Deus e–o–homem veio para–anunciar na–cidade e–clamou toda– a–cidade
+-- c4-v14: ¶ E–ouviu 'Eli (a) som-de o–clamor e–disse que som-de o–tumulto este e–o–homem apressou e–veio e–anunciou a–'Eli
+-- c4-v15: ¶ E–'Eli filho-de– noventa e–oito ano e–olhos-dele fixos e–não podia ver
+-- c4-v16: ¶ E–disse o–homem a– 'Eli eu o–que-vem de– a–batalha e–eu de– a–batalha fugi hoje e–disse que– foi a–palavra filho-meu
+-- c4-v17: ¶ E–respondeu o–mensageiro e–disse fugiu Yisra'el diante-de Pelishtim e–também derrota grande houve no–povo e–também– dois filhos-teus morreram Chofni e–Pinechas e–arca-de o–Deus foi-tomada ¶
+-- c4-v18: ¶ E–foi quando–mencionar-ele (a) arca-de o–Deus e–caiu de–sobre– a–cadeira para-trás ao-lado-de lado-de o–portão e–quebrou-se pescoço-dele e–morreu porque– velho o–homem e–pesado e–ele julgou (a) Yisra'el quarenta ano
+-- c4-v19: § E–nora-dele esposa-de– Pinechas grávida para–dar-à-luz e–ouviu (a) a–notícia sobre– ser-tomada arca-de o–Deus e–morrer sogro-dela e–marido-dela e–ajoelhou e–deu-à-luz porque– viraram-se sobre-ela dores-dela
+-- c4-v20: ¶ E–no–tempo-de morrer-ela e–falaram as–postadas sobre-ela não– temas porque filho deste-à-luz e–não respondeu e–não– pôs coração-dela
+-- c4-v21: ¶ E–chamou ao–menino 'I-Khavod dizendo exilou-se glória de–Yisra'el sobre– ser-tomada arca-de o–Deus e–sobre– sogro-dela e–marido-dela
+-- c4-v22: ¶ E–disse exilou-se glória de–Yisra'el porque foi-tomada arca-de o–Deus ¶
+-- c5-v1: § E–Pelishtim tomaram (a) arca-de o–Deus e–trouxeram-a de–'Even-ha-'Ezer 'Ashdodah
+-- c5-v2: ¶ E–tomaram Pelishtim (a) arca-de o–Deus e–trouxeram ela casa-de Dagon e–colocaram ela ao-lado-de Dagon
+-- c5-v3: ¶ E–levantaram-cedo 'Ashdoditas no–dia-seguinte e–eis Dagon caído sobre-face-dele terra diante-de arca-de YHWH e–tomaram (a) Dagon e–devolveram ele ao–lugar-dele
+-- c5-v4: ¶ E–levantaram-cedo pela–manhã no–dia-seguinte e–eis Dagon caído sobre-face-dele terra diante-de arca-de YHWH e–cabeça-de Dagon e–duas palmas-de mãos-dele cortadas ao– o–umbral somente Dagon restou sobre-ele
+-- c5-v5: ¶ Por-isso– assim não– pisam sacerdotes-de Dagon e–todos– os–que-entram casa-de– Dagon sobre– umbral-de Dagon em–'Ashdod até o–dia este ¶
+-- c5-v6: § E–pesou mão-de– YHWH sobre– os–'Ashdoditas e–devastou-os e–feriu eles [com-tumores] (com–hemorróidas) (a) 'Ashdod e–(a) territórios-dela
+-- c5-v7: ¶ E–viram homens-de– 'Ashdod que– assim e–disseram não– habitará arca-de Deus-de Yisra'el conosco porque– foi-dura mão-dele sobre-nós e–sobre Dagon deus-nosso
+-- c5-v8: ¶ E–enviaram e–reuniram (a) todos– príncipes-de Pelishtim a–eles e–disseram que– faremos à–arca-de Deus-de Yisra'el e–disseram Gat circule arca-de Deus-de Yisra'el e–fizeram-circular (a) arca-de Deus-de Yisra'el ¶
+-- c5-v9: ¶ E–foi depois-de fazerem-circular ela e–foi mão-de– YHWH na–cidade confusão grande muito e–feriu (a) homens-de a–cidade de–pequeno e–até– grande e–irromperam para–eles [tumores] (hemorróidas)
+-- c5-v10: ¶ E–enviaram (a) arca-de o–Deus 'Eqron e–foi quando–entrar arca-de o–Deus 'Eqron e–clamaram os–'Eqronitas dizendo fizeram-circular a–mim (a) arca-de Deus-de Yisra'el para–matar-me e–(a) povo-meu
+-- c5-v11: ¶ E–enviaram e–reuniram (a) todos– príncipes-de Pelishtim e–disseram enviai (a) arca-de Deus-de Yisra'el e–volte ao–lugar-dela e–não– mate a–mim e–(a) povo-meu porque– houve confusão-de– morte em–toda– a–cidade pesou muito mão-de o–Deus ali
+-- c5-v12: ¶ E–os–homens que não– morreram foram-feridos [com-tumores] (com–hemorróidas) e–subiu clamor-de a–cidade os–céus
+-- c6-v1: § E–foi arca-de– YHWH no–campo-de Pelishtim sete meses
+-- c6-v2: ¶ E–chamaram Pelishtim aos–sacerdotes e–aos–adivinhos dizendo que– faremos à–arca-de YHWH fazei-nos-saber com–que enviaremos-a ao–lugar-dela
+-- c6-v3: ¶ E–disseram se– enviardes (a) arca-de Deus-de Yisra'el não– enviareis ela vazia senão– devolvendo devolvereis a–ele oferta-pela-culpa então sereis-curados e–será-conhecido por–vós por-que não– apartou-se mão-dele de–vós
+-- c6-v4: ¶ E–disseram que a–oferta-pela-culpa que devolveremos a–ele e–disseram número-de príncipes-de Pelishtim cinco [tumores] (hemorróidas-de) ouro e–cinco ratos-de ouro porque– praga uma a–todos-eles e–aos–príncipes-vossos
+-- c6-v5: ¶ E–fareis imagens-de [tumores-vossos] (hemorróidas-vossas) e–imagens-de ratos-vossos os–que-destroem (a) a–terra e–dareis ao–Deus-de Yisra'el glória talvez alivie (a) mão-dele de–sobre–vós e–de-sobre deuses-vossos e–de-sobre terra-vossa
+-- c6-v6: ¶ E–por-que endurecereis (a) coração-vosso como endureceram Mitsrayim e–Par'oh (a) coração-deles acaso-não como zombou deles e–enviaram-os e–foram
+-- c6-v7: ¶ E–agora tomai e–fazei carroça nova uma e–duas vacas que-amamentam que não– subiu sobre-elas jugo e–atareis (a) as–vacas na–carroça e–fareis-voltar filhotes-delas de–atrás-delas para–casa
+-- c6-v8: ¶ E–tomareis (a) arca-de YHWH e–poreis ela sobre– a–carroça e–(a) objetos-de o–ouro que devolvestes a–ele oferta-pela-culpa poreis na–caixa ao–lado-dela e–enviareis ela e–irá
+-- c6-v9: ¶ E–vereis se– caminho-de território-dela subir Beit-Shemesh ele fez a–nós (a) o–mal o–grande este e–se– não e–saberemos que não mão-dele tocou em–nós acaso ele foi para–nós
+-- c6-v10: § E–fizeram os–homens assim e–tomaram duas vacas que-amamentam e–ataram-as na–carroça e–(a) filhotes-delas prenderam em–casa
+-- c6-v11: ¶ E–puseram (a) arca-de YHWH sobre– a–carroça e–(a) a–caixa e–(a) ratos-de o–ouro e–(a) imagens-de hemorróidas-deles
+-- c6-v12: ¶ E–seguiram-direto as–vacas no–caminho sobre– caminho-de Beit-Shemesh em–estrada uma andaram andando e–mugindo e–não– desviaram direita e–esquerda e–príncipes-de Pelishtim andando atrás-delas até– fronteira-de Beit-Shemesh
+-- c6-v13: ¶ E–Beit-Shemesh ceifando ceifa-de– trigos no–vale e–levantaram (a) olhos-deles e–viram (a) a–arca e–alegraram-se em-ver
+-- c6-v14: ¶ E–a–carroça veio a– campo-de Yehoshua Beit-ha-Shimshi e–parou ali e–ali pedra grande e–cortaram (a) madeiras-de a–carroça e–(a) as–vacas ofereceram holocausto a–YHWH ¶
+-- c6-v15: ¶ E–os–Levitas fizeram-descer (a) arca-de YHWH e–(a) a–caixa que– com-ela que– nela objetos-de– ouro e–puseram sobre– a–pedra a–grande e–homens-de Beit-Shemesh ofereceram holocaustos e–sacrificaram sacrifícios no–dia aquele a–YHWH
+-- c6-v16: ¶ E–cinco príncipes-de– Pelishtim viram e–voltaram 'Eqron no–dia aquele ¶
+-- c6-v17: ¶ E–estas hemorróidas-de o–ouro que devolveram Pelishtim oferta-pela-culpa a–YHWH para–'Ashdod uma para–'Azzah uma para–'Ashqelon uma para–Gat uma para–'Eqron uma ¶
+-- c6-v18: ¶ E–ratos-de o–ouro número-de todas– cidades-de Pelishtim dos–cinco os–príncipes de–cidade-de fortaleza e–até aldeia-de o–aberto e–até 'Avel a–grande que colocaram sobre-ela (a) arca-de YHWH até o–dia este no–campo-de Yehoshua Beit-ha-Shimshi
+-- c6-v19: § E–feriu entre–homens-de Beit-Shemesh porque olharam na–arca-de YHWH e–feriu no–povo setenta homem cinquenta milhar homem e–lamentou o–povo porque– feriu YHWH no–povo derrota grande
+-- c6-v20: ¶ E–disseram homens-de Beit-Shemesh quem poderá estar-de-pé diante-de YHWH o–Deus o–Santo este e–a– quem subirá de–sobre–nós ¶
+-- c6-v21: ¶ E–enviaram mensageiros a– habitantes-de Qiryat-Ye'arim dizendo devolveram Pelishtim (a) arca-de YHWH descei fazei-subir ela a–vós
+-- c7-v1: E–vieram homens–de Qiryat-Ye'arim e–fizeram-subir (a) arca–de YHWH e–trouxeram ela para casa–de 'Avinadav na–colina e–(a) 'El'azar filho-dele consagraram para–guardar (a) arca–de YHWH ¶
+-- c7-v2: E–foi desde–o-dia habitar a–arca em–Qiryat-Ye'arim e–multiplicaram-se os–dias e–foram vinte anos e–lamentou toda casa–de Yisra'el após YHWH §
+-- c7-v3: E–disse Shemu'el a toda casa–de Yisra'el dizendo se com–todo coração-vosso vós retornantes a YHWH removei (a) deuses–de o–estrangeiro de–meio-vosso e–as–'Ashtarot e–preparai coração-vosso a YHWH e–servi-o somente-ele e–livrará vós de–mão–de Pelishtim
+-- c7-v4: E–removeram filhos–de Yisra'el (a) os–Be'alim e–(a) as–'Ashtarot e–serviram (a) YHWH somente-ele ¶
+-- c7-v5: E–disse Shemu'el congregai (a) todo Yisra'el a–Mitspah e–orarei por-vós a YHWH
+-- c7-v6: E–congregaram-se a–Mitspah e–tiraram água e–derramaram diante–de YHWH e–jejuaram no–dia aquele e–disseram ali pecamos contra–YHWH e–julgou Shemu'el (a) filhos–de Yisra'el em–Mitspah
+-- c7-v7: E–ouviram Pelishtim que congregaram-se filhos–de Yisra'el a–Mitspah e–subiram príncipes–de Pelishtim contra Yisra'el e–ouviram filhos–de Yisra'el e–temeram de–diante–de Pelishtim
+-- c7-v8: E–disseram filhos–de Yisra'el a Shemu'el não fiques-quieto de–nós de–clamar a YHWH 'Elohim-nosso e–salvará-nos de–mão–de Pelishtim
+-- c7-v9: E–tomou Shemu'el cordeiro mamante um [K] e–ofereceu-o holocausto inteiro a–YHWH e–clamou Shemu'el a YHWH por Yisra'el e–respondeu-o YHWH
+-- c7-v10: E–foi Shemu'el oferecendo o–holocausto e–Pelishtim aproximaram-se para–a-batalha contra–Yisra'el e–trovejou YHWH com–voz grande no–dia aquele sobre Pelishtim e–confundiu-os e–foram-derrotados diante–de Yisra'el
+-- c7-v11: E–saíram homens–de Yisra'el de Mitspah e–perseguiram (a) Pelishtim e–feriram-os até abaixo–de Beit-Kar
+-- c7-v12: E–tomou Shemu'el pedra uma e–colocou entre Mitspah e–entre Shen e–chamou (a) nome-dela 'Even-ha'Ezer e–disse até aqui ajudou-nos YHWH
+-- c7-v13: E–foram-humilhados os–Pelishtim e–não continuaram mais a–vir na–fronteira–de Yisra'el e–foi mão–de YHWH contra–os-Pelishtim todos dias–de Shemu'el
+-- c7-v14: E–retornaram as–cidades que tomaram Pelishtim de Yisra'el a–Yisra'el de–'Eqron e–até Gat e–(a) território-delas livrou Yisra'el de–mão–de Pelishtim e–houve paz entre Yisra'el e–entre o–'Emori
+-- c7-v15: E–julgou Shemu'el (a) Yisra'el todos dias–de vida-dele
+-- c7-v16: E–ia de–ano em–ano em–ano e–rodeava Beit-'El e–Gilgal e–Mitspah e–julgava (a) Yisra'el (a) todos os–lugares estes
+-- c7-v17: E–retorno-dele a–Ramah pois ali casa-dele e–ali julgava (a) Yisra'el e–edificou ali altar a–YHWH ¶
+-- c8-v1: E–foi quando envelheceu Shemu'el e–pôs (a) filhos-dele juízes para–Yisra'el
+-- c8-v2: E–foi nome–de filho-dele o–primogênito Yo'el e–nome–de segundo-dele 'Aviyyah juízes em–Be'er-Sheva'
+-- c8-v3: E–não andaram filhos-dele [K] nos–caminhos-dele e–inclinaram-se após o–lucro e–tomaram suborno e–perverteram justiça ¶
+-- c8-v4: E–congregaram-se todos anciãos–de Yisra'el e–vieram a Shemu'el a–Ramah
+-- c8-v5: E–disseram a–ele eis tu envelheceste e–filhos-teus não andaram nos–caminhos-teus agora põe para–nós rei para–julgar-nos como–todas as–nações
+-- c8-v6: E–foi-mal a–palavra nos–olhos–de Shemu'el quando disseram dá para–nós rei para–julgar-nos e–orou Shemu'el a YHWH ¶
+-- c8-v7: E–disse YHWH a Shemu'el ouve na–voz–de o–povo para–tudo que dirão a–ti pois não a–ti rejeitaram pois a–mim rejeitaram de–reinar sobre–eles
+-- c8-v8: Como–todas as–obras que fizeram desde–o-dia subir-eu eles do–Mitsrayim e–até o–dia este e–abandonaram-me e–serviram 'elohim outros assim eles fazendo também a–ti
+-- c8-v9: E–agora ouve na–voz-deles porém que advertir advertirás a–eles e–declararás a–eles direito–de o–rei que reinará sobre–eles §
+-- c8-v10: E–disse Shemu'el (a) todas palavras–de YHWH a o–povo os–pedintes de–ele rei §
+-- c8-v11: E–disse este será direito–de o–rei que reinará sobre–vós (a) filhos-vossos tomará e–porá para–ele em–carros-dele e–em–cavaleiros-dele e–correrão diante–de carro-dele
+-- c8-v12: E–para–pôr para–ele chefes–de milhares e–chefes–de cinquentenas e–para–arar aradura-dele e–para–ceifar ceifa-dele e–para–fazer instrumentos–de guerra-dele e–instrumentos–de carro-dele
+-- c8-v13: E–(a) filhas-vossas tomará para–perfumistas e–para–cozinheiras e–para–padeiras
+-- c8-v14: E–(a) campos-vossos e–(a) vinhas-vossas e–olivais-vossos os–bons tomará e–dará a–servos-dele
+-- c8-v15: E–sementes-vossas e–vinhas-vossas dizimará e–dará a–oficiais-dele e–a–servos-dele
+-- c8-v16: E–(a) servos-vossos e–(a) servas-vossas e–(a) jovens-vossos os–bons e–(a) jumentos-vossos tomará e–fará para–trabalho-dele
+-- c8-v17: Rebanhos-vossos dizimará e–vós sereis para–ele por–servos
+-- c8-v18: E–clamareis no–dia aquele de–diante–de rei-vosso que escolhestes para–vós e–não responderá YHWH vós no–dia aquele
+-- c8-v19: E–recusaram o–povo a–ouvir na–voz–de Shemu'el e–disseram não pois sim rei haverá sobre–nós
+-- c8-v20: E–seremos também nós como–todas as–nações e–julgará-nos rei-nosso e–sairá diante-de-nós e–combaterá (a) batalhas-nossas
+-- c8-v21: E–ouviu Shemu'el (a) todas palavras–de o–povo e–falou-as nos–ouvidos–de YHWH ¶
+-- c8-v22: E–disse YHWH a Shemu'el ouve na–voz-deles e–farás-reinar para–eles rei e–disse Shemu'el a homens–de Yisra'el ide homem para–cidade-dele ¶
+-- c9-v1: E–havia homem [K] de–Binyamin e–nome-dele Qish filho–de 'Avi'el filho–de Tseror filho–de Bekhorat filho–de 'Afiyach filho–de homem Yemini poderoso–de valor
+-- c9-v2: E–para-ele havia filho e–nome-dele Sha'ul escolhido e–bom e–não-havia homem de–filhos–de Yisra'el bom dele de–ombro-dele e–para-cima alto de–todo o–povo
+-- c9-v3: E–perderam-se as–jumentas de–Qish pai–de Sha'ul e–disse Qish a Sha'ul filho-dele toma por-favor contigo (a) um dos–servos e–levanta-te vai busca (a) as–jumentas
+-- c9-v4: E–passou pelo–monte–de 'Efrayim e–passou pela–terra–de Shalishah e–não encontraram e–passaram pela–terra–de Sha'alim e–nada e–passou pela–terra–de Yemini e–não encontraram
+-- c9-v5: Eles vieram na–terra–de Tsuf e–Sha'ul disse ao–servo-dele que com–ele vem e–voltemos para–que-não deixe pai-meu de as–jumentas e–preocupe-se por–nós
+-- c9-v6: E–disse a–ele eis por-favor homem–de 'Elohim na–cidade esta e–o-homem honrado tudo que fala vir vem agora vamos lá talvez declarará a–nós (a) caminho-nosso que fomos sobre–ele
+-- c9-v7: E–disse Sha'ul ao–servo-dele e–eis iremos e–que traremos ao–homem pois o–pão acabou dos–vasos-nossos e–presente não-há para–trazer ao–homem–de ha'Elohim que conosco
+-- c9-v8: E–continuou o–servo a–responder (a) Sha'ul e–disse eis encontra-se em–mão-minha quarto–de siclo–de prata e–darei ao–homem–de ha'Elohim e–declarará a–nós (a) caminho-nosso
+-- c9-v9: Antigamente em–Yisra'el assim dizia o–homem ao–ir-ele a–consultar 'Elohim vinde e–vamos até o–vidente pois ao–profeta hoje chamava-se antigamente o–vidente
+-- c9-v10: E–disse Sha'ul ao–servo-dele boa palavra-tua vem vamos e–foram a a–cidade que ali homem–de ha'Elohim
+-- c9-v11: Eles subindo na–subida–de a–cidade e–eles encontraram moças saindo a–tirar água e–disseram a–elas há neste o–vidente
+-- c9-v12: E–responderam eles e–disseram há eis diante-de-ti apressa-te agora pois hoje veio à–cidade pois sacrifício hoje ao–povo no–alto
+-- c9-v13: Ao–entrar-vós a–cidade assim encontrareis ele antes–de subir-ele ao–alto a–comer pois não comerá o–povo até vir-dele pois ele abençoa o–sacrifício depois–de assim comerão os–convidados e–agora subi pois ele como–hoje encontrareis ele
+-- c9-v14: E–subiram a–cidade eles vindo em–meio–de a–cidade e–eis Shemu'el saindo ao–encontro-deles para–subir o–alto §
+-- c9-v15: E–YHWH revelou (a) ouvido–de Shemu'el dia um antes–de vir Sha'ul dizendo
+-- c9-v16: Como–este–tempo amanhã enviarei a–ti homem da–terra–de Binyamin e–ungirás-o para–príncipe sobre povo-meu Yisra'el e–salvará (a) povo-meu de–mão–de Pelishtim pois vi (a) povo-meu pois veio clamor-dele a–mim
+-- c9-v17: E–Shemu'el viu (a) Sha'ul e–YHWH respondeu-o eis o–homem que disse-eu a–ti este governará em–povo-meu
+-- c9-v18: E–aproximou-se Sha'ul (a) Shemu'el em–meio–de o–portão e–disse declara por-favor a–mim onde este casa–de o–vidente
+-- c9-v19: E–respondeu Shemu'el (a) Sha'ul e–disse eu o–vidente sobe diante-de-mim o–alto e–comereis comigo hoje e–enviarei-te pela–manhã e–tudo que em–coração-teu declararei a–ti
+-- c9-v20: E–quanto-às-jumentas as–perdidas para–ti hoje três os–dias não ponhas (a) coração-teu a–elas pois foram-encontradas e–para–quem todo desejo–de Yisra'el acaso–não para–ti e–para–toda casa–de pai-teu §
+-- c9-v21: E–respondeu Sha'ul e–disse acaso–não Ben-Yemini eu das–menores–de tribos–de Yisra'el e–família-minha a–menor de–todas famílias–de tribos–de Binyamin e–por-que falaste a–mim como–a-palavra esta §
+-- c9-v22: E–tomou Shemu'el (a) Sha'ul e–(a) servo-dele e–trouxe-os à–câmara e–deu a–eles lugar na–cabeça–de os–convidados e–eles como–trinta homens
+-- c9-v23: E–disse Shemu'el ao–cozinheiro dá (a) a–porção que dei a–ti que disse-eu a–ti põe ela contigo
+-- c9-v24: E–levantou o–cozinheiro (a) a–coxa e–o-que-sobre-ela e–colocou diante–de Sha'ul e–disse eis o–reservado põe diante-de-ti come pois para–o-tempo guardado para–ti dizendo o–povo convidei e–comeu Sha'ul com Shemu'el no–dia aquele
+-- c9-v25: E–desceram do–alto a–cidade e–falou com Sha'ul sobre o–terraço
+-- c9-v26: E–levantaram-cedo e–foi ao–subir–de a–aurora e–chamou Shemu'el a Sha'ul [K] ao–terraço dizendo levanta-te e–enviarei-te e–levantou-se Sha'ul e–saíram dois-deles ele e–Shemu'el para–fora
+-- c9-v27: Eles descendo na–extremidade–de a–cidade e–Shemu'el disse a Sha'ul dize ao–servo e–passe diante-de-nós e–passou e–tu fica como–hoje e–farei-ouvir-te (a) palavra–de 'Elohim ¶
+-- c10-v1: E–tomou Shemu'el (a) frasco–de o–óleo e–derramou sobre cabeça-dele e–beijou-o e–disse acaso–não que ungiu-te YHWH sobre herança-dele para–príncipe
+-- c10-v2: Ao–ir-tu hoje de–comigo e–encontrarás dois homens junto–a sepultura–de Rachel na–fronteira–de Binyamin em–Tseltsach e–dirão a–ti foram-encontradas as–jumentas que foste a–buscar e–eis deixou pai-teu (a) assuntos–de as–jumentas e–preocupou-se por–vós dizendo que farei para–filho-meu
+-- c10-v3: E–passando dali e–adiante e–virás até carvalho–de Tavor e–encontrar-te-ão ali três homens subindo a ha'Elohim Beit-'El um carregando três cabritos e–um carregando três tortas–de pão e–um carregando odre–de vinho
+-- c10-v4: E–perguntarão a–ti para–paz e–darão a–ti dois pães e–tomarás de–mão-deles
+-- c10-v5: Depois–de assim virás Giv'at ha'Elohim que ali guarnições–de Pelishtim e–será ao–entrar-tu ali a–cidade e–encontrarás grupo–de profetas descendo do–alto e–diante-deles alaude e–tamboril e–flauta e–harpa e–eles profetizando
+-- c10-v6: E–virá sobre–ti espírito–de YHWH e–profetizarás com–eles e–serás-transformado em–homem outro
+-- c10-v7: E–será quando [K] vierem os–sinais estes a–ti faze para–ti que encontrar mão-tua pois ha'Elohim contigo
+-- c10-v8: E–descerás diante-de-mim Gilgal e–eis eu descendo a–ti para–oferecer holocaustos para–sacrificar sacrifícios–de paz sete dias esperarás até vir-meu a–ti e–farei-saber a–ti (a) que farás
+-- c10-v9: E–foi ao–virar-ele ombro-dele para–ir de–com Shemu'el e–transformou para–ele 'Elohim coração outro e–vieram todos os–sinais estes no–dia aquele §
+-- c10-v10: E–vieram ali a–Giv'ah e–eis grupo–de profetas ao–encontro-dele e–veio sobre–ele espírito–de 'Elohim e–profetizou entre–eles
+-- c10-v11: E–foi todo conhecedor-dele de–ontem antes e–viram e–eis com profetas profetizando e–disse o–povo homem a próximo-dele que isto aconteceu a–filho–de Qish também Sha'ul entre–os-profetas
+-- c10-v12: E–respondeu homem dali e–disse e–quem pai-deles por assim foi por–provérbio também Sha'ul entre–os-profetas
+-- c10-v13: E–terminou de–profetizar e–veio o–alto
+-- c10-v14: E–disse tio–de Sha'ul a–ele e–ao servo-dele para–onde fostes e–disse para–buscar (a) as–jumentas e–vimos que nada e–viemos a Shemu'el
+-- c10-v15: E–disse tio–de Sha'ul declara por-favor a–mim que disse a–vós Shemu'el
+-- c10-v16: E–disse Sha'ul a tio-dele declarar declarou a–nós que foram-encontradas as–jumentas e–(a) assunto–de o–reinado não declarou a–ele que disse Shemu'el ¶
+-- c10-v17: E–convocou Shemu'el (a) o–povo a YHWH Mitspah
+-- c10-v18: E–disse a filhos–de Yisra'el ¶ assim disse YHWH 'Elohei Yisra'el eu fiz-subir (a) Yisra'el do–Mitsrayim e–livrei vós de–mão–de Mitsrayim e–de–mão–de todos os–reinos os–opressores vós
+-- c10-v19: E–vós hoje rejeitastes (a) 'Elohim-vosso que ele salvando vós de–todos males-vossos e–angustias-vossas e–dissestes a–ele não–pois rei porás sobre–nós e–agora apresentai-vos diante–de YHWH por–tribos-vossas e–por–milhares-vossos
+-- c10-v20: E–aproximou Shemu'el (a) todas tribos–de Yisra'el e–foi-tomada tribo–de Binyamin
+-- c10-v21: E–aproximou (a) tribo–de Binyamin [K] por–famílias-dele e–foi-tomada família–de Matri e–foi-tomado Sha'ul filho–de Qish e–buscaram-o e–não foi-encontrado
+-- c10-v22: E–perguntaram ainda a–YHWH veio ainda para–cá homem § e–disse YHWH eis ele escondido entre os–utensílios
+-- c10-v23: E–correram e–tomaram-o dali e–postou-se em–meio–de o–povo e–foi-alto de–todo o–povo de–ombro-dele e–para-cima
+-- c10-v24: E–disse Shemu'el a todo o–povo vedes que escolheu nele YHWH que não-há como–ele em–todo o–povo e–gritaram todo o–povo e–disseram viva o–rei ¶
+-- c10-v25: E–falou Shemu'el a o–povo (a) direito–de o–reinado e–escreveu no–livro e–colocou diante–de YHWH e–enviou Shemu'el (a) todo o–povo homem para–casa-dele
+-- c10-v26: E–também Sha'ul foi para–casa-dele Giv'ah e–foram com–ele o–exército que tocou 'Elohim em–coração-deles
+-- c10-v27: E–filhos–de Beliyya'al disseram como salvará-nos este e–desprezaram-o e–não trouxeram a–ele presente e–foi como–mudo ¶
+-- c11-v1: E–subiu Nachash o–'Ammoni e–acampou contra Yavesh Gil'ad e–disseram todos homens–de Yavesh a Nachash corta para–nós pacto e–serviremos-te
+-- c11-v2: E–disse a–eles Nachash o–'Ammoni nisto cortarei para–vós em–furar para–vós todo olho–de direita e–porei-a vergonha sobre todo Yisra'el
+-- c11-v3: E–disseram a–ele anciãos–de Yavesh dá-nos para–nós sete dias e–enviaremos mensageiros em–toda fronteira–de Yisra'el e–se não-há salvador nós e–sairemos a–ti
+-- c11-v4: E–vieram os–mensageiros Giv'at Sha'ul e–falaram as–palavras nos–ouvidos–de o–povo e–levantaram todo o–povo (a) voz-deles e–choraram
+-- c11-v5: E–eis Sha'ul vindo atrás–de o–gado de o–campo e–disse Sha'ul que ao–povo que choram e–contaram a–ele (a) palavras–de homens–de Yavesh
+-- c11-v6: E–veio espírito–de 'Elohim sobre Sha'ul [K] ao–ouvir-ele (a) as–palavras estas e–acendeu-se ira-dele muito
+-- c11-v7: E–tomou junta–de bois e–cortou-os e–enviou por–toda fronteira–de Yisra'el por–mão–de os–mensageiros dizendo quem não sainte atrás–de Sha'ul e–atrás–de Shemu'el assim será-feito ao–gado-dele e–caiu temor–de YHWH sobre o–povo e–saíram como–homem um
+-- c11-v8: E–contou-os em–Bezeq e–foram filhos–de Yisra'el trezentos de–milhares mil e–homem–de Yehudah trinta mil
+-- c11-v9: E–disseram aos–mensageiros os–vindos assim direis aos–homens–de Yavesh Gil'ad amanhã haverá para–vós salvação [K] ao–aquecer–de o–sol e–vieram os–mensageiros e–declararam aos–homens–de Yavesh e–alegraram-se
+-- c11-v10: E–disseram homens–de Yavesh amanhã sairemos a–vós e–fareis a–nós como–todo o–bom em–olhos-vossos §
+-- c11-v11: E–foi no–dia-seguinte e–pôs Sha'ul (a) o–povo três cabeças e–vieram em–meio–de o–acampamento na–vigília–de a–manhã e–feriram (a) 'Ammon até calor–de o–dia e–foi os–restantes e–dispersaram-se e–não restaram entre–eles dois juntos
+-- c11-v12: E–disse o–povo a Shemu'el quem o–dizente Sha'ul reinará sobre–nós dai os–homens e–mataremos-os
+-- c11-v13: E–disse Sha'ul não será-morto homem no–dia este pois hoje fez YHWH salvação em–Yisra'el §
+-- c11-v14: E–disse Shemu'el a o–povo vinde e–vamos Gilgal e–renovemos ali o–reinado
+-- c11-v15: E–foram todo o–povo Gilgal e–fizeram-reinar ali (a) Sha'ul diante–de YHWH em–Gilgal e–sacrificaram ali sacrifícios–de paz diante–de YHWH e–alegrou-se ali Sha'ul e–todos homens–de Yisra'el até muito ¶
+-- c12-v1: E–disse Shemu'el a todo Yisra'el eis ouvi na–voz-vossa para–tudo que dissestes a–mim e–fiz-reinar sobre–vós rei
+-- c12-v2: E–agora eis o–rei andando diante-de-vós e–eu envelheci e–encaneci e–filhos-meus eis-eles convosco e–eu andei diante-de-vós desde–juventude-minha até o–dia este
+-- c12-v3: Eis-me respondei contra–mim perante YHWH e–perante ungido-dele (a) boi–de quem tomei e–jumento–de quem tomei e–(a) quem oprimi (a) quem esmaguei e–de–mão–de quem tomei suborno e–esconderei olhos-meus nele e–devolverei a–vós
+-- c12-v4: E–disseram não oprimiste-nos e–não esmagaste-nos e–não tomaste de–mão–de homem coisa-alguma
+-- c12-v5: E–disse a–eles testemunha YHWH em–vós e–testemunha ungido-dele o–dia este que não encontrastes em–mão-minha coisa-alguma e–disse testemunha ¶
+-- c12-v6: E–disse Shemu'el a o–povo YHWH que fez (a) Mosheh e–(a) 'Aharon e–que fez-subir (a) pais-vossos da–terra–de Mitsrayim
+-- c12-v7: E–agora apresentai-vos e–julgarei-me convosco diante–de YHWH (a) todas justiças–de YHWH que fez convosco e–com pais-vossos
+-- c12-v8: Quando veio Ya'aqov Mitsrayim e–clamaram pais-vossos a YHWH e–enviou YHWH (a) Mosheh e–(a) 'Aharon e–tiraram (a) pais-vossos do–Mitsrayim e–fizeram-habitar-os no–lugar este
+-- c12-v9: E–esqueceram (a) YHWH 'Elohim-deles e–vendeu eles na–mão–de Sisera chefe–de exército–de Chatsor e–na–mão–de Pelishtim e–na–mão–de rei–de Mo'av e–lutaram contra–eles
+-- c12-v10: E–clamaram a YHWH [K] e–disseram pecamos pois abandonamos (a) YHWH e–servimos (a) os–Be'alim e–(a) as–'Ashtarot e–agora livra-nos de–mão–de inimigos-nossos e–serviremos-te
+-- c12-v11: E–enviou YHWH (a) Yerubbaal e–(a) Bedan e–(a) Yiftach e–(a) Shemu'el e–livrou vós de–mão–de inimigos-vossos ao–redor e–habitastes em–segurança
+-- c12-v12: E–vistes que Nachash rei–de filhos–de 'Ammon veio sobre–vós e–dissestes a–mim não pois rei reinará sobre–nós e–YHWH 'Elohim-vosso rei-vosso
+-- c12-v13: E–agora eis o–rei que escolhestes que pedistes e–eis deu YHWH sobre–vós rei
+-- c12-v14: Se temerdes (a) YHWH e–servirdes ele e–ouvirdes na–voz-dele e–não rebelardes (a) boca–de YHWH e–sereis também vós e–também o–rei que reinou sobre–vós atrás–de YHWH 'Elohim-vosso
+-- c12-v15: E–se não ouvirdes na–voz–de YHWH e–rebelardes (a) boca–de YHWH e–será mão–de YHWH em–vós e–em–pais-vossos
+-- c12-v16: Também agora apresentai-vos e–vede (a) a–coisa grande esta que YHWH fazendo a–olhos-vossos
+-- c12-v17: Acaso–não ceifa–de trigos hoje invocarei a YHWH e–dará trovões e–chuva e–sabei e–vede que mal-vosso grande que fizestes nos–olhos–de YHWH para–pedir para–vós rei §
+-- c12-v18: E–invocou Shemu'el a YHWH e–deu YHWH trovões e–chuva no–dia aquele e–temeu todo o–povo muito (a) YHWH e–(a) Shemu'el
+-- c12-v19: E–disseram todo o–povo a Shemu'el ora por servos-teus a YHWH 'Elohim-teu e–não morramos pois acrescentamos sobre todos pecados-nossos mal para–pedir para–nós rei §
+-- c12-v20: E–disse Shemu'el a o–povo não temais vós fizestes (a) todo o–mal este porém não desvieis de–atrás–de YHWH e–servireis (a) YHWH com–todo coração-vosso
+-- c12-v21: E–não desvieis pois atrás–de o–vazio que não aproveitam e–não livram pois vazio eles
+-- c12-v22: Pois não abandonará YHWH (a) povo-dele por–causa–de nome-dele o–grande pois agradou YHWH a–fazer vós para–ele por–povo
+-- c12-v23: Também eu longe–de de–mim de–pecar contra–YHWH de–cessar de–orar por–vós e–ensinarei vós no–caminho o–bom e–o-reto
+-- c12-v24: Somente temei (a) YHWH e–servireis ele em–verdade com–todo coração-vosso pois vede (a) que engrandeceu convosco
+-- c12-v25: E–se mal fizerdes-mal também vós também rei-vosso sereis-varridos ¶
+-- c13-v1: filho–de ano Sha'ul em–seu–reinar e–dois anos reinou sobre– Yisra'el
+-- c13-v2: E–escolheu– para–si Sha'ul três mil de–Yisra'el e–estavam com– Sha'ul dois–mil em–Mikmas e–na–montanha–de Beit–El e–mil estavam com– Yonatan em–Giv'at Binyamin e–o–resto do–povo enviou homem para–suas–tendas
+-- c13-v3: E–feriu Yonatan (a) guarnição–de Pelishtim que em–Geva e–ouviram Pelishtim e–Sha'ul tocou na–shofar em–toda–a– terra dizendo ouçam os–Ivrim
+-- c13-v4: E–todo– Yisra'el ouviu dizendo feriu Sha'ul (a)– guarnição–de Pelishtim e–também– fez–se–feder Yisra'el entre–os–Pelishtim e–foi–convocado o–povo após Sha'ul ao–Gilgal
+-- c13-v5: E–Pelishtim reuniram–se para–lutar com– Yisra'el trinta mil carros e–seis mil cavaleiros e–povo como–a–areia que sobre–a– beira–de– o–mar em–multidão e–subiram e–acamparam em–Mikmas ao–leste–de Beit–Aven
+-- c13-v6: E–homem–de Yisra'el viram que angústia– para–ele que apertado–estava o–povo e–escondeu–se o–povo nas–cavernas e–nos–espinheiros e–nas–rochas e–nas–fortalezas e–nos–poços
+-- c13-v7: E–Ivrim cruzaram (a)– o–Yarden terra–de Gad e–Gil'ad e–Sha'ul ainda no–Gilgal e–todo–o– povo tremeu após–ele
+-- c13-v8: [esperou] (e–esperou) sete dias para–o–tempo–marcado que Shemu'el e–não– veio Shemu'el ao–Gilgal e–dispersou–se o–povo de–sobre–ele
+-- c13-v9: E–disse Sha'ul trazei a–mim o–holocausto e–as–ofertas–de–paz e–ofereceu o–holocausto
+-- c13-v10: E–foi ao–terminar–ele de–oferecer o–holocausto e–eis Shemu'el vindo e–saiu Sha'ul ao–encontro–dele para–abençoá–lo
+-- c13-v11: E–disse Shemu'el que fizeste e–disse Sha'ul porque– vi que– dispersou–se o–povo de–sobre–mim e–tu não– vieste para–o–tempo–marcado dos–dias e–Pelishtim reunindo–se Mikmas
+-- c13-v12: E–disse agora descerão Pelishtim a–mim ao–Gilgal e–a–face–de YHWH não busquei e–contive–me e–ofereci o–holocausto §
+-- c13-v13: E–disse Shemu'el a– Sha'ul agiste–loucamente não guardaste (a)– mandamento–de YHWH teu–Deus que ordenou–te pois agora estabeleceria YHWH (a)– teu–reino sobre– Yisra'el para– sempre
+-- c13-v14: E–agora teu–reino não– subsistirá buscou YHWH para–si homem conforme–seu–coração e–ordenou–lhe YHWH para–líder sobre– seu–povo pois não guardaste (a) que– ordenou–te YHWH ¶
+-- c13-v15: E–levantou–se Shemu'el e–subiu de– o–Gilgal Giv'at Binyamin e–contou Sha'ul (a)– o–povo os–que–se–achavam com–ele cerca–de–seis centenas–de homem
+-- c13-v16: E–Sha'ul e–Yonatan seu–filho e–o–povo o–que–se–achava com–eles estavam–habitando em–Geva–de Binyamin e–Pelishtim acamparam em–Mikmas
+-- c13-v17: E–saiu o–destruidor do–acampamento–de Pelishtim três divisões a–divisão uma virava para– caminho–de Ofra para– terra–de Shu'al
+-- c13-v18: E–a–divisão uma virava caminho–de Beit–Choron e–a–divisão uma virava caminho–de a–fronteira que–se–eleva sobre– vale–de os–Tzevo'im o–deserto §
+-- c13-v19: E–ferreiro não se–achava em–toda terra–de Yisra'el pois– [disse] (disseram) Pelishtim para–que–não façam os–Ivrim espada ou lança
+-- c13-v20: E–desciam todo– Yisra'el aos–Pelishtim para–afiar homem (a)– sua–relha e–(a)– sua–enxada e–(a)– seu–machado e–(a) sua–foice
+-- c13-v21: E–era o–preço pim para–as–relhas e–para–as–enxadas e–para–três garfo e–para–os–machados e–para–fixar a–aguilhada
+-- c13-v22: E–foi no–dia–de batalha e–não se–achava espada e–lança na–mão–de todo–o– povo que com– Sha'ul e–com– Yonatan e–achava–se para–Sha'ul e–para–Yonatan seu–filho
+-- c13-v23: E–saiu posto–avançado–de Pelishtim para– passagem–de Mikmas §
+-- c14-v1: E–foi o–dia e–disse Yonatan filho–de Sha'ul a– o–rapaz portador–de suas–armas vem e–passemos a– posto–de Pelishtim que do–outro–lado aquele e–a–seu–pai não contou
+-- c14-v2: E–Sha'ul estava–sentado na–extremidade–de a–colina debaixo–de a–romãzeira que em–Migron e–o–povo que com–ele cerca–de–seis centenas–de homem
+-- c14-v3: E–Achiya filho–de Achituv irmão–de Ikhavod filho–de Pinchas filho–de Eli sacerdote–de YHWH em–Shiloh portador–de éfode e–o–povo não sabia que foi Yonatan
+-- c14-v4: E–entre as–passagens que procurava Yonatan para–passar sobre– posto–de Pelishtim dente–de– a–rocha de–um–lado deste e–dente–de– a–rocha do–lado deste e–nome–de o–um Botzetz e–nome–de o–um Seneh
+-- c14-v5: O–dente o–um penhasco do–norte em–frente–de Mikmas e–o–um do–sul em–frente–de Geva §
+-- c14-v6: E–disse Yehonatan a– o–rapaz portador–de suas–armas vem e–passemos a– posto–de os–incircuncisos estes talvez faça YHWH para–nós pois não–há para–YHWH impedimento para–salvar por–muitos ou por–poucos
+-- c14-v7: E–disse a–ele portador–de suas–armas faze todo– que em–teu–coração inclina–te para–ti eis–me–aqui contigo conforme–teu–coração §
+-- c14-v8: E–disse Yehonatan eis nós passando a– os–homens e–revelaremo–nos a–eles
+-- c14-v9: Se– assim disserem a–nós parai até– chegarmos–nós a–vós e–ficaremos em–nosso–lugar e–não subiremos a–eles
+-- c14-v10: E–se– assim disserem subi sobre–nós e–subiremos pois– entregou–os YHWH em–nossa–mão e–este– para–nós o–sinal
+-- c14-v11: E–revelaram–se os–dois–deles a– posto–de Pelishtim e–disseram Pelishtim eis Ivrim saindo de– os–buracos que esconderam–se– lá
+-- c14-v12: E–responderam homens–de o–posto (a)– Yonatan e–(a)– portador–de suas–armas e–disseram subi a–nós e–faremos–saber a–vós coisa ¶ E–disse Yonatan a– portador–de suas–armas sobe após–mim pois– entregou–os YHWH na–mão–de Yisra'el
+-- c14-v13: E–subiu Yonatan sobre– suas–mãos e–sobre– seus–pés e–portador–de suas–armas após–ele e–caíram diante–de Yonatan e–portador–de suas–armas matando após–ele
+-- c14-v14: E–foi a–matança a–primeira que matou Yonatan e–portador–de suas–armas cerca–de–vinte homem como–em–metade–de sulco junta–de campo
+-- c14-v15: E–foi tremor no–acampamento no–campo e–em–todo–o– povo o–posto e–o–destruidor tremeram também– eles e–tremeu a–terra e–foi para–tremor–de Deus
+-- c14-v16: E–viram as–sentinelas de–Sha'ul em–Giv'at Binyamin e–eis a–multidão derretendo–se e–ia e–vinha ¶
+-- c14-v17: E–disse Sha'ul ao–povo que com–ele contai– agora e–vede quem foi de–conosco e–contaram e–eis não–está Yonatan e–portador–de suas–armas
+-- c14-v18: E–disse Sha'ul a–Achiya traze arca–de o–Deus pois– estava arca–de o–Deus no–dia aquele e–filhos–de Yisra'el
+-- c14-v19: E–foi enquanto falava Sha'ul a– o–sacerdote e–o–tumulto que no–acampamento–de Pelishtim e–ia indo e–aumentando ¶ E–disse Sha'ul a– o–sacerdote recolhe tua–mão
+-- c14-v20: E–reuniu–se Sha'ul e–todo–o– povo que com–ele e–vieram até– a–batalha e–eis estava espada–de homem contra–seu–companheiro confusão grande muito
+-- c14-v21: E–os–Ivrim estavam para–os–Pelishtim como–ontem anteriormente que subiram com–eles ao–acampamento ao–redor e–também– eles para–ser com– Yisra'el que com– Sha'ul e–Yonatan
+-- c14-v22: E–todo homem–de Yisra'el os–que–se–escondiam na–montanha–de– Efrayim ouviram que– fugiram Pelishtim e–perseguiram também– eles após–eles na–batalha
+-- c14-v23: E–salvou YHWH no–dia aquele (a)– Yisra'el e–a–batalha passou (a)– Beit–Aven
+-- c14-v24: E–homem–de– Yisra'el apertado–estava no–dia aquele e–adjurou Sha'ul (a)– o–povo dizendo maldito o–homem que– coma pão até– a–tarde e–vingarei–me de–meus–inimigos e–não provou todo–o– povo pão §
+-- c14-v25: E–toda–a– terra entraram no–bosque e–havia mel sobre– face–de o–campo
+-- c14-v26: E–veio o–povo a– o–bosque e–eis fluindo mel e–não–havia– quem–alcançasse sua–mão a– sua–boca pois– temia o–povo (a)– o–juramento
+-- c14-v27: E–Yonatan não– ouvira quando–jurou seu–pai (a)– o–povo e–estendeu (a)– ponta–de o–bastão que em–sua–mão e–mergulhou ela no–favo–de o–mel e–voltou sua–mão a– sua–boca [iluminaram–se] (e–iluminaram–se) seus–olhos
+-- c14-v28: E–respondeu homem do–povo e–disse jurar fez–jurar teu–pai (a)– o–povo dizendo maldito o–homem que– coma pão hoje e–esmoreceu o–povo
+-- c14-v29: E–disse Yonatan perturbou meu–pai (a)– a–terra vede– agora que– iluminaram–se meus–olhos porque provei pouco mel este
+-- c14-v30: Quanto–mais se de–fato comer tivesse–comido hoje o–povo do–despojo–de seus–inimigos que achou pois agora não– teria–sido–maior a–matança entre–os–Pelishtim
+-- c14-v31: E–feriram no–dia aquele aos–Pelishtim desde–Mikmas Ayalon e–esmoreceu o–povo muito
+-- c14-v32: [e–lançou–se] (e–lançou–se) o–povo sobre– [despojo] (o–despojo) e–tomaram ovelhas e–gado e–filhos–de gado e–degolaram– na–terra e–comeu o–povo sobre– o–sangue
+-- c14-v33: E–anunciaram a–Sha'ul dizendo eis o–povo pecando contra–YHWH comendo sobre– o–sangue e–disse traístes rolai– a–mim hoje pedra grande
+-- c14-v34: E–disse Sha'ul espalhai–vos entre–o–povo e–dizei a–eles trazei a–mim homem seu–boi e–homem sua–ovelha e–degolai neste e–comei e–não– pequeis contra–YHWH comendo para– o–sangue e–trouxeram todo–o– povo homem seu–boi em–sua–mão a–noite e–degolaram– lá
+-- c14-v35: E–construiu Sha'ul altar para–YHWH este começou a–construir altar para–YHWH ¶
+-- c14-v36: E–disse Sha'ul desçamos após Pelishtim à–noite e–saqueemos entre–eles até– luz–de a–manhã e–não– deixemos entre–eles homem e–disseram todo–o– bom em–teus–olhos faze § E–disse o–sacerdote cheguemos aqui a– o–Deus
+-- c14-v37: E–perguntou Sha'ul a–Deus descerei após Pelishtim entregarás–os na–mão–de Yisra'el e–não respondeu–lhe no–dia aquele
+-- c14-v38: E–disse Sha'ul chegai aqui todos–os chefes–de o–povo e–sabei e–vede em–que foi o–pecado este hoje
+-- c14-v39: Pois vivo– YHWH o–que–salva (a)– Yisra'el que mesmo–se– estiver em–Yonatan meu–filho que morrer morrerá e–não–houve quem–respondesse–lhe de–todo–o– povo
+-- c14-v40: E–disse a– todo– Yisra'el vós sereis para–um–lado um e–eu e–Yonatan meu–filho seremos para–um–lado um e–disse o–povo a– Sha'ul o–bom em–teus–olhos faze §
+-- c14-v41: E–disse Sha'ul a– YHWH Deus–de Yisra'el dá perfeito e–foi–tomado Yonatan e–Sha'ul e–o–povo saiu
+-- c14-v42: E–disse Sha'ul lançai entre–mim e–entre Yonatan meu–filho e–foi–tomado Yonatan
+-- c14-v43: E–disse Sha'ul a– Yonatan conta a–mim que fizeste e–contou– a–ele Yonatan e–disse provar provei com–a–ponta–de o–bastão que– em–minha–mão pouco mel eis–me–aqui morrerei
+-- c14-v44: E–disse Sha'ul assim– faça Deus e–assim acrescente que– morrer morrerás Yonatan
+-- c14-v45: E–disse o–povo a– Sha'ul acaso–Yonatan morrerá que fez a–salvação a–grande esta em–Yisra'el longe–disso vivo– YHWH se– cair de–cabelo–de sua–cabeça por–terra pois– com– Deus agiu o–dia este e–resgatou o–povo (a)– Yonatan e–não– morreu §
+-- c14-v46: E–subiu Sha'ul de–após Pelishtim e–Pelishtim foram para–seu–lugar
+-- c14-v47: E–Sha'ul tomou a–realeza sobre– Yisra'el e–lutou ao–redor contra–todos–os– seus–inimigos contra–Mo'av e–contra–filhos–de– Amon e–contra–Edom e–contra–reis–de Tzova e–contra–os–Pelishtim e–contra–todo– que– se–voltasse vencia
+-- c14-v48: E–fez valentia e–feriu (a)– Amaleq e–livrou (a)– Yisra'el da–mão–de seu–saqueador §
+-- c14-v49: E–eram filhos–de Sha'ul Yonatan e–Yishvi e–Malki–Shu'a e–nome–de duas suas–filhas nome–de a–primogênita Merav e–nome–de a–menor Mikhal
+-- c14-v50: E–nome–de esposa–de Sha'ul Achino'am filha–de Achima'atz e–nome–de chefe–de– seu–exército Aviner filho–de Ner tio–de Sha'ul
+-- c14-v51: E–Qish pai–de– Sha'ul e–Ner pai–de– Avner filho–de Avi'el §
+-- c14-v52: E–foi a–guerra forte contra– Pelishtim todos–os dias–de Sha'ul e–via Sha'ul todo– homem valente e–todo– filho–de valor e–ajuntava–o a–si §
+-- c15-v1: E–disse Shemu'el a– Sha'ul (a)–mim enviou YHWH para–ungir–te para–rei sobre– seu–povo sobre– Yisra'el e–agora ouve para–a–voz–de palavras–de YHWH §
+-- c15-v2: Assim disse YHWH Tzeva'ot lembrei (a) o–que– fez Amaleq a–Yisra'el que– pôs para–ele no–caminho em–sua–subida do–Egito
+-- c15-v3: Agora vai e–ferirás (a)– Amaleq e–destruirás (a)– todo– que– a–ele e–não pouparás sobre–ele e–matarás desde–homem até– mulher desde–criança e–até– lactente desde–boi e–até– ovelha desde–camelo e–até– jumento §
+-- c15-v4: E–convocou Sha'ul (a)– o–povo e–contou–os em–Tela'im duzentos mil a–pé e–dez mil (a)– homem–de Yehuda
+-- c15-v5: E–veio Sha'ul até– cidade–de Amaleq e–emboscou no–vale
+-- c15-v6: E–disse Sha'ul ao– o–Qenita ide parti descei do–meio–de Amaleqita para–que–não– eu–destrua–te com–ele e–tu fizeste bondade com– todos–os– filhos–de Yisra'el em–sua–subida do–Egito e–partiu Qenita do–meio–de Amaleq
+-- c15-v7: E–feriu Sha'ul (a)– Amaleq desde–Chavila até–chegares–a Shur que sobre– face–de Egito
+-- c15-v8: E–capturou (a)– Agag rei–de– Amaleq vivo e–(a)– todo–o– povo destruiu ao–fio–de– espada
+-- c15-v9: E–poupou Sha'ul e–o–povo sobre– Agag e–sobre– o–melhor–de o–rebanho e–o–gado e–os–engordados e–sobre– os–cordeiros e–sobre– todo–o– bom e–não quiseram destruí–los e–toda–a– obra desprezível e–fraca ela destruíram ¶
+-- c15-v10: E–foi palavra–de– YHWH a– Shemu'el dizendo
+-- c15-v11: Arrependi–me que– fiz–reinar (a)– Sha'ul para–rei que– voltou de–após–mim e–(a)– minhas–palavras não cumpriu e–acendeu–se a–Shemu'el e–clamou a– YHWH toda–a– noite
+-- c15-v12: E–madrugou Shemu'el para–encontrar Sha'ul pela–manhã e–foi–contado a–Shemu'el dizendo veio– Sha'ul ao–Karmel e–eis erguendo para–si monumento e–virou e–passou e–desceu ao–Gilgal
+-- c15-v13: E–veio Shemu'el a– Sha'ul e–disse a–ele Sha'ul bendito tu para–YHWH cumpri (a)– palavra–de YHWH
+-- c15-v14: E–disse Shemu'el e–que voz–de– o–rebanho este em–meus–ouvidos e–voz–de o–gado que eu ouvindo
+-- c15-v15: E–disse Sha'ul do–Amaleqita trouxeram–os que poupou o–povo sobre– o–melhor–de o–rebanho e–o–gado para– sacrificar para–YHWH teu–Deus e–(a)– o–restante destruímos §
+-- c15-v16: E–disse Shemu'el a– Sha'ul para e–contarei a–ti (a) que falou YHWH a–mim esta–noite [e–disseram] (e–disse) a–ele fala §
+-- c15-v17: E–disse Shemu'el acaso–não se– pequeno tu em–teus–olhos cabeça–de tribos–de Yisra'el tu e–ungiu–te YHWH para–rei sobre– Yisra'el
+-- c15-v18: E–enviou–te YHWH em–caminho e–disse vai e–destruirás (a)– os–pecadores (a)– Amaleq e–lutarás nele até acabar–tu eles
+-- c15-v19: E–por–que não– ouviste na–voz–de YHWH e–lançaste–te sobre– o–despojo e–fizeste o–mal nos–olhos–de YHWH §
+-- c15-v20: E–disse Sha'ul a– Shemu'el que ouvi na–voz–de YHWH e–fui no–caminho que– enviou–me YHWH e–trouxe (a)– Agag rei–de Amaleq e–(a)– Amaleq destruí
+-- c15-v21: E–tomou o–povo do–despojo ovelhas e–gado primícias–de o–anátema para–sacrificar para–YHWH teu–Deus no–Gilgal
+-- c15-v22: E–disse Shemu'el tem–prazer YHWH em–holocaustos e–sacrifícios como–ouvir na–voz–de YHWH eis ouvir do–que–sacrifício bom atender do–que–gordura–de carneiros
+-- c15-v23: Pois pecado–de– adivinhação rebelião e–iniquidade–de e–terafim presunção porque rejeitaste (a)– palavra–de YHWH e–rejeitou–te de–rei §
+-- c15-v24: E–disse Sha'ul a– Shemu'el pequei que– transgredi (a)– boca–de– YHWH e–(a)– tuas–palavras porque temi (a)– o–povo e–ouvi em–sua–voz
+-- c15-v25: E–agora perdoa agora (a)– meu–pecado e–volta comigo e–adorarei a–YHWH
+-- c15-v26: E–disse Shemu'el a– Sha'ul não voltarei contigo porque rejeitaste (a)– palavra–de YHWH e–rejeitou–te YHWH de–ser rei sobre– Yisra'el §
+-- c15-v27: E–virou Shemu'el para–ir e–agarrou na–orla–de– seu–manto e–rasgou
+-- c15-v28: E–disse a–ele Shemu'el rasgou YHWH (a)– reino–de Yisra'el de–sobre–ti hoje e–deu–o a–teu–próximo o–melhor do–que–tu
+-- c15-v29: E–também Eternidade–de Yisra'el não mentirá e–não se–arrependerá porque não homem ele para–arrepender–se
+-- c15-v30: E–disse pequei agora honra–me agora diante–de anciãos–de– meu–povo e–diante–de Yisra'el e–volta comigo e–adorarei a–YHWH teu–Deus
+-- c15-v31: E–voltou Shemu'el após Sha'ul e–adorou Sha'ul a–YHWH §
+-- c15-v32: E–disse Shemu'el trazei a–mim (a)– Agag rei–de Amaleq e–andou a–ele Agag alegremente e–disse Agag certamente partiu amargura–de– a–morte §
+-- c15-v33: E–disse Shemu'el como desfilhou mulheres tua–espada assim– será–desfilhada de–mulheres tua–mãe e–despedaçou Shemu'el (a)– Agag diante–de YHWH no–Gilgal §
+-- c15-v34: E–foi Shemu'el a–Ramata e–Sha'ul subiu para– sua–casa Giv'at Sha'ul
+-- c15-v35: E–não– continuou Shemu'el a–ver (a)– Sha'ul até– dia–de sua–morte porque– lamentava Shemu'el a– Sha'ul e–YHWH arrependeu–se que– fez–reinar (a)– Sha'ul sobre– Yisra'el ¶
+-- c16-v1: E–disse YHWH a– Shemu'el até– quando tu lamentando a– Sha'ul e–eu rejeitei–o de–reinar sobre– Yisra'el enche teu–chifre azeite e–vai enviarei–te a– Yishai de–Beit–Lechem porque– vi entre–seus–filhos para–mim rei
+-- c16-v2: E–disse Shemu'el como irei e–ouva Sha'ul e–matar–me–á § E–disse YHWH novilha–de gado tomarás em–tua–mão e–dirás para–sacrificar a–YHWH vim
+-- c16-v3: E–chamarás a–Yishai ao–sacrifício e–eu farei–saber–te (a) que– farás e–ungirás para–mim (a) que– disser a–ti
+-- c16-v4: E–fez Shemu'el (a) que falou YHWH e–veio Beit–Lechem e–tremeram anciãos–de a–cidade ao–encontro–dele e–disse paz tua–vinda
+-- c16-v5: E–disse paz para–sacrificar a–YHWH vim santificai–vos e–vinde comigo ao–sacrifício e–santificou (a)– Yishai e–(a)– seus–filhos e–chamou a–eles ao–sacrifício
+-- c16-v6: E–foi ao–virem–eles e–viu (a)– Eli'av e–disse certamente diante–de YHWH seu–ungido
+-- c16-v7: E–disse YHWH a– Shemu'el não– olhes a– sua–aparência e–a– altura–de sua–estatura porque rejeitei–o pois não o–que vê o–homem porque o–homem vê para–os–olhos e–YHWH vê para–o–coração
+-- c16-v8: E–chamou Yishai a– Avinadav e–fê–lo–passar diante–de Shemu'el e–disse também– neste não– escolheu YHWH
+-- c16-v9: E–fez–passar Yishai Shama e–disse também– neste não– escolheu YHWH
+-- c16-v10: E–fez–passar Yishai sete–de seus–filhos diante–de Shemu'el e–disse Shemu'el a– Yishai não– escolheu YHWH nestes
+-- c16-v11: E–disse Shemu'el a– Yishai acabaram os–rapazes e–disse ainda resta o–menor e–eis apascentando no–rebanho e–disse Shemu'el a– Yishai envia e–traze–o pois não– sentaremos até– vir–ele aqui
+-- c16-v12: E–enviou e–trouxe–o e–ele ruivo com– belos olhos e–boa aparência ¶ E–disse YHWH levanta unge–o porque– este ele
+-- c16-v13: E–tomou Shemu'el (a)– chifre–de o–azeite e–ungiu ele no–meio–de seus–irmãos e–precipitou–se Espírito–de– YHWH sobre– David daquele–dia aquele e–para–cima e–levantou–se Shemu'el e–foi a–Ramata §
+-- c16-v14: E–Espírito–de YHWH partiu de–com Sha'ul e–aterrorizava–o espírito– mau de–com YHWH
+-- c16-v15: E–disseram servos–de– Sha'ul a–ele eis– agora espírito–de– Deus mau aterrorizando–te
+-- c16-v16: Diga– agora nosso–senhor teus–servos diante–de–ti busquem homem conhecedor–de tocar na–harpa e–será quando–estiver sobre–ti espírito–de– Deus mau e–tocará com–sua–mão e–bem para–ti ¶
+-- c16-v17: E–disse Sha'ul a– seus–servos vede– agora para–mim homem bom–de tocar e–trazei–o a–mim
+-- c16-v18: E–respondeu um dos–rapazes e–disse eis vi filho de–Yishai de–Beit–Lechem conhecedor–de tocar e–valente de–valor e–homem–de guerra e–prudente–de palavra e–homem–de forma e–YHWH com–ele
+-- c16-v19: E–enviou Sha'ul mensageiros a– Yishai e–disse envia a–mim (a)– David teu–filho que no–rebanho
+-- c16-v20: E–tomou Yishai jumento–de pão e–odre–de vinho e–cabrito–de cabras um e–enviou pela–mão–de– David seu–filho a– Sha'ul
+-- c16-v21: E–veio David a– Sha'ul e–ficou–de–pé diante–dele e–amou–o muito e–foi– para–ele portador–de armas
+-- c16-v22: E–enviou Sha'ul a– Yishai dizendo fique– agora David diante–de–mim porque– achou graça em–meus–olhos
+-- c16-v23: E–era quando–estava Espírito–de– Deus sobre– Sha'ul e–tomava David (a)– a–harpa e–tocava com–sua–mão e–aliviava a–Sha'ul e–bem para–ele e–partia de–sobre–ele espírito o–mau ¶
+-- c17-v1: E–reuniram Pelishtim (a)– seus–acampamentos para–a–batalha e–reuniram–se Sokho que de–Yehuda e–acamparam entre– Sokho e–entre– Azeqa em–Efes–Damim
+-- c17-v2: E–Sha'ul e–homem–de– Yisra'el reuniram–se e–acamparam no–vale–de a–Ela e–formaram batalha para–encontrar Pelishtim
+-- c17-v3: E–Pelishtim de–pé sobre– a–montanha deste–lado e–Yisra'el de–pé sobre– a–montanha deste–lado e–o–vale entre–eles
+-- c17-v4: E–saiu homem–de– o–meio dos–acampamentos–de Pelishtim Golyat seu–nome de–Gat sua–altura seis cúvados e–um–palmo
+-- c17-v5: E–capacete–de bronze sobre– sua–cabeça e–cota–de–malha–de escamas ele vestido e–peso–de a–cota–de–malha cinco– mil siclos bronze
+-- c17-v6: E–caneleira–de bronze sobre– suas–pernas e–dardo–de bronze entre seus–ombros
+-- c17-v7: [e–haste] (e–haste–de) sua–lança como–eixo–de tecelões e–ponta–de sua–lança seis– centenas–de siclos ferro e–portador–de o–escudo andando diante–dele
+-- c17-v8: E–ficou–de–pé e–clamou a– fileiras–de Yisra'el e–disse a–eles por–que saís para–formar batalha acaso–não eu o–Pelishti e–vós servos de–Sha'ul escolhei– para–vós homem e–desça a–mim
+-- c17-v9: Se– puder lutar comigo e–ferir–me e–seremos para–vós para–servos e–se– eu puder– a–ele e–feri–lo e–sereis para–nós para–servos e–servireis a–nós
+-- c17-v10: E–disse o–Pelishti eu afrontei (a)– fileiras–de Yisra'el o–dia este dai– a–mim homem e–lutemos juntos
+-- c17-v11: E–ouviu Sha'ul e–todo– Yisra'el (a)– palavras–de o–Pelishti estas e–assustaram–se e–temeram muito ¶
+-- c17-v12: E–David filho–de homem Efratita este de–Beit–Lechem Yehuda e–seu–nome Yishai e–a–ele oito filhos e–o–homem nos–dias–de Sha'ul velho vindo entre–os–homens
+-- c17-v13: E–foram três filhos–de– Yishai os–maiores foram após– Sha'ul para–a–batalha e–nome–de três–de seus–filhos que foram na–batalha Eli'av o–primogênito e–seu–segundo Avinadav e–o–terceiro Shama
+-- c17-v14: E–David ele o–menor e–os–três maiores foram após Sha'ul §
+-- c17-v15: E–David indo e–voltando de–sobre Sha'ul para–apascentar (a)– rebanho–de seu–pai Beit–Lechem
+-- c17-v16: E–aproximava–se o–Pelishti de–manhã e–de–tarde e–apresentava–se quarenta dia ¶
+-- c17-v17: E–disse Yishai a–David seu–filho toma– agora para–teus–irmãos efa–de o–grão–torrado este e–dez pães estes e–corre ao–acampamento a–teus–irmãos
+-- c17-v18: E–(a) dez fatias–de o–leite estas levarás ao–chefe–de– o–mil e–(a)– teus–irmãos visitarás para–paz e–(a)– sua–garantia tomarás
+-- c17-v19: E–Sha'ul e–eles e–todo– homem–de Yisra'el no–vale–de a–Ela lutando com– Pelishtim
+-- c17-v20: E–madrugou David de–manhã e–deixou (a)– o–rebanho sobre– guarda e–carregou e–foi como ordenou–lhe Yishai e–veio ao–círculo e–o–exército que–saía para– a–batalha e–gritaram para–a–batalha
+-- c17-v21: E–formou–se Yisra'el e–Pelishtim batalha para–encontrar batalha
+-- c17-v22: E–deixou David (a)– os–objetos de–sobre–ele sobre– mão–de guarda–de os–objetos e–correu a–batalha e–veio e–perguntou a–seus–irmãos para–paz
+-- c17-v23: E–ele falando com–eles e–eis homem–de o–meio subindo Golyat o–Pelishti seu–nome de–Gat [das–cavernas] (das–fileiras–de) Pelishtim e–falou conforme–as–palavras estas e–ouviu David
+-- c17-v24: E–todo homem–de Yisra'el ao–ver–eles (a)– o–homem e–fugiram de–sua–face e–temeram muito
+-- c17-v25: E–disse homem–de Yisra'el vistes o–homem o–que–sobe este que para–afrontar (a)– Yisra'el sobe e–será o–homem que– feri–lo enriquecerá–o o–rei riqueza grande e–(a)– sua–filha dará– a–ele e–(a) casa–de seu–pai fará livre em–Yisra'el
+-- c17-v26: E–disse David aos– homens que–estavam–de–pé com–ele dizendo que– se–fará ao–homem que ferir (a)– o–Pelishti aquele e–tirar afronta de–sobre Yisra'el porque quem o–Pelishti o–incircunciso este que afrontou fileiras–de Deus vivo
+-- c17-v27: E–disse a–ele o–povo conforme–a–palavra esta dizendo assim se–fará ao–homem que feri–lo
+-- c17-v28: E–ouviu Eli'av seu–irmão o–maior ao–falar–ele aos– homens e–acendeu–se– ira–de Eli'av contra–David e–disse por–que– este desceste e–sobre– quem deixaste as–poucas ovelhas aquelas no–deserto eu conheço (a)– tua–presunção e–(a) maldade–de teu–coração que para– ver a–batalha desceste
+-- c17-v29: E–disse David que fiz agora acaso–não uma–palavra é
+-- c17-v30: E–virou de–junto–dele para– em–frente–de outro e–disse conforme–a–palavra esta e–responderam–lhe o–povo palavra conforme–a–palavra a–primeira
+-- c17-v31: E–foram–ouvidas as–palavras que falou David e–contaram diante–de– Sha'ul e–trouxe–o
+-- c17-v32: E–disse David a– Sha'ul não– caia coração–de– homem sobre–ele teu–servo irá e–lutará com– o–Pelishti este
+-- c17-v33: E–disse Sha'ul a– David não poderás ir a– o–Pelishti este para–lutar com–ele porque– rapaz tu e–ele homem–de guerra desde–sua–mocidade §
+-- c17-v34: E–disse David a– Sha'ul pastor era teu–servo para–seu–pai no–rebanho e–veio o–leão e–(a)– o–urso e–levava ovelha do–rebanho
+-- c17-v35: E–saí após–ele e–feri–o e–livrei de–sua–boca e–levantou–se contra–mim e–agarrei por–sua–barba e–feri–o e–matei–o
+-- c17-v36: Tanto (a)– o–leão quanto– o–urso feriu teu–servo e–será o–Pelishti o–incircunciso este como–um deles porque afrontou fileiras–de Deus vivo §
+-- c17-v37: E–disse David YHWH que livrou–me da–mão–de o–leão e–da–mão–de o–urso ele livrar–me–á da–mão–de o–Pelishti este § E–disse Sha'ul a– David vai e–YHWH será contigo
+-- c17-v38: E–vestiu Sha'ul (a)– David suas–vestes e–pôs capacete–de bronze sobre– sua–cabeça e–vestiu ele cota–de–malha
+-- c17-v39: E–cingiu David (a)– sua–espada de–sobre suas–vestes e–tentou andar porque não– experimentara e–disse David a– Sha'ul não posso andar nestes porque não experimentei e–tirou–os David de–sobre–ele
+-- c17-v40: E–tomou seu–cajádo em–sua–mão e–escolheu– para–si cinco seixos–de– pedras de– o–riacho e–pôs eles no–recipiente–de os–pastores que– para–ele e–no–alforje e–sua–funda em–sua–mão e–aproximou–se ao– o–Pelishti
+-- c17-v41: E–foi o–Pelishti andando e–aproximando–se a– David e–o–homem portador–de o–escudo diante–dele
+-- c17-v42: E–olhou o–Pelishti e–viu (a)– David e–desprezou–o porque– era rapaz e–ruivo com– bela aparência
+-- c17-v43: E–disse o–Pelishti a– David acaso–cão eu que– tu vens– a–mim com–os–paus e–amaldiçoou o–Pelishti (a)– David por–seus–deuses
+-- c17-v44: E–disse o–Pelishti a– David vem a–mim e–darei (a)– tua–carne para–ave–de os–céus e–para–animal–de o–campo §
+-- c17-v45: E–disse David a– o–Pelishti tu vens a–mim com–espada e–com–lança e–com–dardo e–eu venho– a–ti em–Nome–de YHWH Tzeva'ot Deus–de fileiras–de Yisra'el que afrontaste
+-- c17-v46: O–dia este entregar–te–á YHWH em–minha–mão e–ferirei–te e–tirarei (a)– tua–cabeça de–sobre–ti e–darei cadáver–de acampamento–de Pelishtim o–dia este para–ave–de os–céus e–para–animal–de a–terra e–saberá toda–a– terra que há Deus para–Yisra'el
+-- c17-v47: E–saberá toda–a– assembleia esta que– não com–espada e–com–lança salva YHWH porque de–YHWH a–batalha e–entregará a–vós em–nossa–mão
+-- c17-v48: E–foi quando– levantou–se o–Pelishti e–foi e–aproximou–se para–encontrar David e–apressou–se David e–correu a–batalha para–encontrar o–Pelishti
+-- c17-v49: E–estendeu David (a)– sua–mão para– o–recipiente e–tomou de–lá pedra e–atirou e–feriu (a)– o–Pelishti na– sua–testa e–afundou a–pedra em–sua–testa e–caiu sobre– sua–face por–terra
+-- c17-v50: E–prevaleceu David sobre– o–Pelishti com–a–funda e–com–a–pedra e–feriu (a)– o–Pelishti e–matou–o e–espada não–havia na–mão–de– David
+-- c17-v51: E–correu David e–ficou–de–pé sobre– o–Pelishti e–tomou (a)– sua–espada e–tirou–a de–sua–bainha e–matou–o e–cortou– com–ela (a)– sua–cabeça e–viram os–Pelishtim que– morreu seu–valente e–fugiram
+-- c17-v52: E–levantaram–se homens–de Yisra'el e–Yehuda e–gritaram e–perseguiram (a)– os–Pelishtim até– chegares–a vale e–até portas–de Eqron e–caíram feridos–de Pelishtim no–caminho–de Sha'arayim e–até– Gat e–até– Eqron
+-- c17-v53: E–voltaram filhos–de Yisra'el de–perseguir após Pelishtim e–saquearam (a)– seus–acampamentos
+-- c17-v54: E–tomou David (a)– cabeça–de o–Pelishti e–trouxe–a Yerushalayim e–(a)– suas–armas pôs em–sua–tenda §
+-- c17-v55: E–ao–ver Sha'ul (a)– David saindo para–encontrar o–Pelishti disse a– Avner chefe–de o–exército filho–de quem– este o–rapaz Avner e–disse Avner viva– tua–alma o–rei se– sei
+-- c17-v56: E–disse o–rei pergunta tu filho–de quem– este o–jovem §
+-- c17-v57: E–ao–voltar David de–ferir (a)– o–Pelishti e–tomou ele Avner e–trouxe–o diante–de Sha'ul e–cabeça–de o–Pelishti em–sua–mão
+-- c17-v58: E–disse a–ele Sha'ul filho–de quem tu o–rapaz e–disse David filho–de teu–servo Yishai de–Beit–Lechem
+-- c18-v1: E–foi ao–terminar–ele de–falar a– Sha'ul e–alma–de Yehonatan ligou–se com–alma–de David [e–amou–o] (e–amou–o) Yehonatan como–sua–alma
+-- c18-v2: E–tomou–o Sha'ul no–dia aquele e–não deixou–o voltar casa–de seu–pai
+-- c18-v3: E–cortou Yehonatan e–David aliança por–seu–amor a–ele como–sua–alma
+-- c18-v4: E–despiu Yehonatan (a)– o–manto que sobre–ele e–deu–o a–David e–suas–vestes e–até– sua–espada e–até– seu–arco e–até– seu–cinto
+-- c18-v5: E–saiu David em–tudo que enviasse–o Sha'ul agia–sabiamente e–pô–lo Sha'ul sobre homens–de a–guerra e–era–bom nos–olhos–de todo–o– povo e–também nos–olhos–de servos–de Sha'ul ¶
+-- c18-v6: E–foi ao–virem–eles ao–voltar David de–ferir (a)– o–Pelishti e–saíram as–mulheres de–todas–as– cidades–de Yisra'el [para–ver] (para–cantar) e–as–danças para–encontrar Sha'ul o–rei com–tamborins com–alegria e–com–instrumentos
+-- c18-v7: E–respondiam as–mulheres as–que–festejavam e–diziam feriu Sha'ul [nos–seus–mil] (nos–seus–milhares) e–David nas–suas–dezenas–de–milhares
+-- c18-v8: E–acendeu–se a–Sha'ul muito e–foi–mal em–seus–olhos a–palavra esta e–disse deram a–David dezenas–de–milhares e–a–mim deram os–milhares e–ainda para–ele só a–realeza
+-- c18-v9: E–estava Sha'ul [olhando] (olhando–de–soslaio) (a)– David daquele–dia aquele e–para–diante §
+-- c18-v10: E–foi no–dia–seguinte e–precipitou–se espírito–de Deus mau sobre– Sha'ul e–profetizou no–meio–de– a–casa e–David tocando com–sua–mão como–no–dia cada–dia e–a–lança na–mão–de– Sha'ul
+-- c18-v11: E–arremessou Sha'ul (a)– a–lança e–disse ferirei em–David e–na–parede e–desviou David de–sua–face duas–vezes
+-- c18-v12: E–temeu Sha'ul de–diante–de David porque– estava YHWH com–ele e–de–com Sha'ul partira
+-- c18-v13: E–afastou–o Sha'ul de–com–ele e–pô–lo para–si chefe–de– mil e–saía e–vinha diante–de o–povo ¶
+-- c18-v14: E–estava David em–todos–os– seus–caminhos agindo–sabiamente e–YHWH com–ele
+-- c18-v15: E–viu Sha'ul que– ele agia–sabiamente muito e–temia de–sua–face
+-- c18-v16: E–todo– Yisra'el e–Yehuda amava (a)– David porque– ele saindo e–vindo diante–deles ¶
+-- c18-v17: E–disse Sha'ul a– David eis minha–filha a–maior Merav ela darei– a–ti por–esposa somente sê– para–mim para–filho–de– valor e–luta guerras–de YHWH e–Sha'ul disse não– seja minha–mão nele e–seja– nele mão–de– Pelishtim §
+-- c18-v18: E–disse David a– Sha'ul quem eu e–quem minha–vida família–de meu–pai em–Yisra'el que– seja genro do–rei
+-- c18-v19: E–foi no–tempo–de dar (a)– Merav filha–de– Sha'ul a–David e–ela foi–dada a–Adri'el o–Mecholatita por–esposa
+-- c18-v20: E–amou Mikhal filha–de– Sha'ul (a)– David e–contaram a–Sha'ul e–foi–reto a–palavra em–seus–olhos
+-- c18-v21: E–disse Sha'ul darei–a a–ele e–será– para–ele para–laço e–será– nele mão–de– Pelishtim e–disse Sha'ul a– David por–duas te–tornarás–genro de–mim hoje
+-- c18-v22: E–ordenou Sha'ul (a)– seus–servos falai a– David em–segredo dizendo eis agradou–se de–ti o–rei e–todos–os– seus–servos amam–te e–agora torna–te–genro do–rei
+-- c18-v23: E–falaram servos–de Sha'ul nos–ouvidos–de David (a)– as–palavras estas e–disse David coisa–leve em–vossos–olhos tornar–se–genro do–rei e–eu homem– pobre e–desprezado
+-- c18-v24: E–contaram servos–de Sha'ul a–ele dizendo conforme–as–palavras estas falou David ¶
+-- c18-v25: E–disse Sha'ul assim– direis a–David não–há– desejo ao–rei em–dote mas em–cem prepúcios–de Pelishtim para–vingar–se dos–inimigos–de o–rei e–Sha'ul pensou fazer–cair (a)– David pela–mão–de– Pelishtim
+-- c18-v26: E–contaram seus–servos a–David (a)– as–palavras estas e–foi–reto a–palavra nos–olhos–de David para–tornar–se–genro do–rei e–não completaram–se os–dias
+-- c18-v27: E–levantou–se David e–foi ele e–seus–homens e–feriu entre–os–Pelishtim duzentos homem e–trouxe David (a)– seus–prepúcios e–completaram–nos ao–rei para–tornar–se–genro do–rei e–deu– a–ele Sha'ul (a)– Mikhal sua–filha por–esposa §
+-- c18-v28: E–viu Sha'ul e–soube que YHWH com– David e–Mikhal filha–de– Sha'ul amava–o
+-- c18-v29: E–continuou Sha'ul a–temer de–face–de David ainda e–foi Sha'ul inimigo–de (a)– David todos–os– dias §
+-- c18-v30: E–saíram chefes–de Pelishtim e–foi sempre–que saírem agia–sabiamente David de–todos–os servos–de Sha'ul e–era–estimado seu–nome muito §
+-- c19-v1: E–falou Sha'ul a Yonatan seu–filho e–a todos seus–servos para–matar (a) David e–Yehonatan filho–de Sha'ul desejava a–David muito
+-- c19-v2: E–contou Yehonatan a–David dizendo buscando Sha'ul meu–pai matar–te e–agora guarda–te por–favor pela–manhã e–sentarás no–esconderijo e–esconderás
+-- c19-v3: e–eu sairei e–estarei ao–lado–de meu–pai no–campo onde tu lá e–eu falarei de–ti a meu–pai e–verei o–quê e–contarei a–ti §
+-- c19-v4: E–falou Yehonatan de–David bem a Sha'ul seu–pai e–disse a–ele não peque o–rei contra–seu–servo contra–David porque não pecou contra–ti e–porque suas–obras boas para–ti muito
+-- c19-v5: E–pôs (a) sua–vida em–sua–mão e–feriu (a) o–filisteu e–fez YHWH salvação grande para–todo Yisra'el viste e–alegraste–te e–por–que pecarias com–sangue inocente para–matar (a) David sem–causa
+-- c19-v6: E–ouviu Sha'ul a–voz–de Yehonatan e–jurou Sha'ul vive YHWH se morrerá
+-- c19-v7: E–chamou Yehonatan a–David e–contou a–ele Yehonatan (a) todas as–palavras estas e–trouxe Yehonatan (a) David a Sha'ul e–esteve diante–dele como–ontem e–anteontem §
+-- c19-v8: E–continuou a–guerra a–haver e–saiu David e–lutou contra–os–filisteus e–feriu neles golpe grande e–fugiram de–diante–dele
+-- c19-v9: E–esteve espírito–de YHWH mau sobre Sha'ul e–ele em–sua–casa sentado e–sua–lança em–sua–mão e–David tocando com–a–mão
+-- c19-v10: E–buscou Sha'ul para–ferir com–a–lança em–David e–na–parede e–escapou de–diante–de Sha'ul e–feriu (a) a–lança na–parede e–David fugiu e–escapou naquela–noite aquela ¶
+-- c19-v11: E–enviou Sha'ul mensageiros à casa–de David para–guardá–lo e–para–matá–lo pela–manhã e–contou a–David Mikal sua–mulher dizendo se não–estás salvando (a) tua–vida esta–noite amanhã tu morto
+-- c19-v12: E–desceu Mikal (a) David pela janela e–foi e–fugiu e–escapou
+-- c19-v13: E–tomou Mikal (a) os–terafins e–pôs sobre a–cama e–(a) pelo–de cabras pôs à–sua–cabeceira e–cobriu com–a–roupa §
+-- c19-v14: E–enviou Sha'ul mensageiros para–tomar (a) David e–disse doente ele ¶
+-- c19-v15: E–enviou Sha'ul (a) os–mensageiros para–ver (a) David dizendo subi (a)–ele na–cama a–mim para–matá–lo
+-- c19-v16: E–entraram os–mensageiros e–eis os–terafins sobre a–cama e–pelo–de cabras à–sua–cabeceira
+-- c19-v17: E–disse Sha'ul a Mikal por–que assim enganaste–me e–enviaste (a) meu–inimigo e–escapou e–disse Mikal a Sha'ul ele disse a–mim deixa–me–ir por–que matar–te–ia
+-- c19-v18: E–David fugiu e–escapou e–veio a Shemu'el a–Ramah e–contou a–ele (a) tudo que fez a–ele Sha'ul e–foi ele e–Shemu'el e–habitaram [em–Nayot] em–Nayot
+-- c19-v19: E–foi–contado a–Sha'ul dizendo eis David [em–Nayot] em–Nayot em–Ramah
+-- c19-v20: E–enviou Sha'ul mensageiros para–tomar (a) David e–viu (a) grupo–de profetas profetizando e–Shemu'el de–pé posto sobre–eles e–esteve sobre mensageiros–de Sha'ul espírito–de 'Elohim e–profetizaram também eles
+-- c19-v21: E–contaram a–Sha'ul e–enviou mensageiros outros e–profetizaram também eles e–continuou Sha'ul e–enviou mensageiros terceiros e–profetizaram também eles
+-- c19-v22: E–foi também ele a–Ramah e–veio até cisterna a–grande que em–Seku e–perguntou e–disse onde Shemu'el e–David e–disse eis [em–Nayot] em–Nayot em–Ramah
+-- c19-v23: E–foi para–lá a [Nayot] Nayot em–Ramah e–esteve sobre–ele também ele espírito–de 'Elohim e–foi indo e–profetizou até chegar [em–Nayot] em–Nayot em–Ramah
+-- c19-v24: E–despiu também ele suas–vestes e–profetizou também ele diante–de Shemu'el e–caiu nu todo o–dia aquele e–toda a–noite por isso dizem também Sha'ul entre–os–profetas ¶
+-- c20-v1: E–fugiu David [de–Nayot] de–Nayot em–Ramah e–veio e–disse diante–de Yehonatan o–quê fiz o–quê minha–iniquidade e–o–quê meu–pecado diante–de teu–pai que buscando (a) minha–vida
+-- c20-v2: E–disse a–ele longe–disso não morrerás eis [não] [faz] não fará meu–pai coisa grande ou coisa pequena e–não revelará (a) meu–ouvido e–por–que esconderia meu–pai de–mim (a) a–coisa esta não–há isto
+-- c20-v3: E–jurou ainda David e–disse sabendo sabe teu–pai que achei graça em–teus–olhos e–disse não saiba isto Yehonatan para–que–não entristecerá e–porém vive YHWH e–vive tua–alma que como–um–passo entre–mim e–entre a–morte
+-- c20-v4: E–disse Yehonatan a David o–quê dirá tua–alma e–farei para–ti ¶
+-- c20-v5: E–disse David a Yehonatan eis lua–nova amanhã e–eu sentar sentarei com o–rei para–comer e–enviarás–me e–esconder–me–ei no–campo até a–tarde a–terceira
+-- c20-v6: se notar notar–me teu–pai e–dirás pedir pediu de–mim David para–correr Beit–Lechem sua–cidade porque sacrifício dos–dias lá para–toda a–família
+-- c20-v7: se assim disser bom paz para–teu–servo e–se irar–se irar–se a–ele saiba que completou–se o–mal de–com–ele
+-- c20-v8: E–farás misericórdia sobre teu–servo porque em–aliança–de YHWH fizeste–entrar (a) teu–servo contigo e–se há em–mim iniquidade mata–me tu e–até teu–pai para–que isto me–levarias ¶
+-- c20-v9: E–disse Yehonatan longe–disso de–ti porque se sabendo souber que completou–se o–mal de–com meu–pai para–vir sobre–ti e–não a–ela contarei a–ti §
+-- c20-v10: E–disse David a Yehonatan quem contará a–mim ou o–quê responder–te–á teu–pai duramente §
+-- c20-v11: E–disse Yehonatan a David vem e–saiamos o–campo e–saíram os–dois–deles o–campo §
+-- c20-v12: E–disse Yehonatan a David YHWH 'Elohey Yisra'el quando sondar (a) meu–pai neste–tempo amanhã o–terceiro e–eis bom a David e–não então enviarei a–ti e–revelarei (a) teu–ouvido
+-- c20-v13: assim faça YHWH a–Yehonatan e–assim acrescente quando parecer–bem a meu–pai (a) o–mal sobre–ti e–revelarei (a) teu–ouvido e–enviar–te–ei e–irás em–paz e–seja YHWH contigo como esteve com meu–pai
+-- c20-v14: e–não se ainda–eu vivo e–não farás comigo misericórdia–de YHWH e–não morrerei
+-- c20-v15: e–não cortarás (a) tua–misericórdia de–com minha–casa até eternidade e–não quando–cortar YHWH (a) inimigos–de David homem de–sobre face–de a–terra
+-- c20-v16: E–cortou Yehonatan com casa–de David e–requereu YHWH da–mão–de inimigos–de David
+-- c20-v17: E–continuou Yehonatan fazer–jurar (a) David em–seu–amor (a)–ele porque amor–de sua–alma amava–o §
+-- c20-v18: E–disse a–ele Yehonatan amanhã lua–nova e–serás–notado porque será–notado teu–assento
+-- c20-v19: e–ao–terceiro–dia descerás muito e–virás ao lugar onde escondeste–te lá no–dia–de o–acontecimento e–sentarás junto–a a–pedra 'Ezel
+-- c20-v20: e–eu três as–flechas ao–lado atirarei para–disparar para–mim para–alvo
+-- c20-v21: e–eis enviarei (a) o–jovem vai acha (a) as–flechas se dizendo disser ao–jovem eis as–flechas de–ti e–para–cá toma–as e–vem porque paz para–ti e–não–há coisa vive YHWH
+-- c20-v22: e–se assim disser ao–rapaz eis as–flechas de–ti e–para–lá vai porque enviou–te YHWH
+-- c20-v23: e–a–palavra que falamos eu e–tu eis YHWH entre–mim e–entre–ti até eternidade §
+-- c20-v24: E–escondeu–se David no–campo e–foi a–lua–nova e–sentou–se o–rei [sobre] junto–a o–pão para–comer
+-- c20-v25: E–sentou–se o–rei sobre seu–assento como–vez em–vez junto–ao assento–de a–parede e–levantou–se Yehonatan e–sentou–se 'Avner ao–lado–de Sha'ul e–foi–notado lugar–de David
+-- c20-v26: e–não falou Sha'ul nada no–dia aquele porque disse acaso ele não puro ele porque não puro §
+-- c20-v27: E–foi no–dia–seguinte–de a–lua–nova o–segundo e–foi–notado lugar–de David § e–disse Sha'ul a Yehonatan seu–filho por–que não veio filho–de Yishay também ontem também hoje ao pão
+-- c20-v28: E–respondeu Yehonatan (a) Sha'ul pedir pediu David de–comigo até Beit–Lechem
+-- c20-v29: E–disse deixa–me–ir por–favor porque sacrifício–de família para–nós na–cidade e–ele ordenou a–mim meu–irmão e–agora se achei graça em–teus–olhos escape por–favor e–veja (a) meus–irmãos por isso não veio à mesa–de o–rei §
+-- c20-v30: E–acendeu–se ira–de Sha'ul contra–Yehonatan e–disse a–ele filho–de perversa–de rebelião não sei que escolhendo tu ao–filho–de Yishay para–tua–vergonha e–para–vergonha–de nudez–de tua–mãe
+-- c20-v31: porque todos os–dias que filho–de Yishay vivo sobre a–terra não será–estabelecido tu e–teu–reino e–agora envia e–toma (a)–ele a–mim porque filho–de morte ele §
+-- c20-v32: E–respondeu Yehonatan (a) Sha'ul seu–pai e–disse a–ele por–que morrerá o–quê fez
+-- c20-v33: E–arremessou Sha'ul (a) a–lança contra–ele para–feri–lo e–soube Yehonatan que completado ela de–com seu–pai para–matar (a) David §
+-- c20-v34: E–levantou–se Yehonatan de–com a–mesa em–ardor–de ira e–não comeu no–dia–de a–lua–nova o–segundo pão porque entristeceu–se por David porque envergonhou–o seu–pai §
+-- c20-v35: E–foi pela–manhã e–saiu Yehonatan o–campo para–o–encontro–de David e–jovem pequeno com–ele
+-- c20-v36: E–disse a–seu–jovem corre acha por–favor (a) as–flechas que eu atirando o–jovem correu e–ele atirou a–flecha para–passá–lo
+-- c20-v37: E–veio o–jovem até lugar–de a–flecha que atirou Yehonatan e–chamou Yehonatan atrás–de o–jovem e–disse não a–flecha de–ti e–para–lá
+-- c20-v38: E–chamou Yehonatan atrás–de o–jovem depressa apressa–te não pares e–recolheu jovem–de Yehonatan (a) [a–flecha] as–flechas e–veio a seu–senhor
+-- c20-v39: e–o–jovem não sabia nada somente Yehonatan e–David sabiam (a) a–coisa
+-- c20-v40: E–deu Yehonatan (a) seus–apetrechos ao jovem que a–ele e–disse a–ele vai leva à–cidade
+-- c20-v41: o–jovem veio e–David levantou–se de–junto–de o–sul e–caiu sobre–seu–rosto terra e–prostrou–se três vezes e–beijaram homem (a) seu–companheiro e–choraram homem (a) seu–companheiro até David grandemente
+-- c20-v42: E–disse Yehonatan a–David vai em–paz que juramos nós–dois nós em–nome–de YHWH dizendo YHWH será entre–mim e–entre–ti e–entre minha–descendencia e–entre tua–descendência até eternidade ¶
+-- c21-v1: E–levantou–se e–foi e–Yehonatan veio à–cidade
+-- c21-v2: E–veio David Nov a 'Achimelekh o–sacerdote e–tremeu 'Achimelekh ao–encontro–de David e–disse a–ele por–que tu sozinho e–homem não–há contigo
+-- c21-v3: E–disse David a–'Achimelekh o–sacerdote o–rei ordenou–me coisa e–disse a–mim homem não saiba nada (a) a–coisa que eu enviando–te e–que ordenei–te e–(a) os–jovens fiz–saber a lugar tal e–tal
+-- c21-v4: e–agora o–quê há debaixo–de tua–mão cinco pães dá em–minha–mão ou o–que–for–achado
+-- c21-v5: E–respondeu o–sacerdote (a) David e–disse não–há pão comum a debaixo–de minha–mão porque se pão santo há se guardaram–se os–jovens somente de–mulher ¶
+-- c21-v6: E–respondeu David (a) o–sacerdote e–disse a–ele porque se mulher retida para–nós como–ontem e–anteontem quando–saí e–estiveram vasilhas–de os–jovens santas e–ele caminho comum e–também porque hoje será–santificado na–vasilha
+-- c21-v7: E–deu a–ele o–sacerdote santo porque não havia lá pão porque se pão–de a–presença os–removidos de–diante–de YHWH para–pôr pão quente no–dia–de seu–ser–tomado
+-- c21-v8: e–lá homem dos–servos–de Sha'ul no–dia aquele detido diante–de YHWH e–seu–nome Do'eg o–edomita chefe–de os–pastores que de–Sha'ul
+-- c21-v9: E–disse David a–'Achimelekh e–não–há há aqui debaixo–de tua–mão lança ou espada porque também minha–espada e–também meus–apetrechos não tomei em–minha–mão porque estava assunto–de o–rei urgente §
+-- c21-v10: E–disse o–sacerdote espada–de Golyat o–filisteu que feriste no–vale–de 'Elah eis ela envolvida na–veste atrás–de o–éfode se a–ela tomarás para–ti toma porque não–há outra além–dela nesta e–disse David não–há como–ela dá–a a–mim
+-- c21-v11: E–levantou–se David e–fugiu no–dia aquele de–diante–de Sha'ul e–veio a 'Akhish rei–de Gat
+-- c21-v12: E–disseram servos–de 'Akhish a–ele não este David rei–de a–terra não a–este respondiam nas–danças dizendo feriu Sha'ul [em–seus–milhares] em–seus–milhares e–David [em–suas–miríades] em–suas–miríades
+-- c21-v13: E–pôs David (a) as–palavras estas em–seu–coração e–temeu muito de–diante–de 'Akhish rei–de Gat
+-- c21-v14: E–mudou (a) seu–comportamento em–seus–olhos e–fez–se–louco em–suas–mãos [e–escreveu] e–escreveu sobre portas–de o–portão e–fez–descer sua–saliva a sua–barba
+-- c21-v15: E–disse 'Akhish a seus–servos eis vedes homem louco por–que trazeis (a)–ele a–mim carente–de loucos eu que trouxestes (a) este para–fazer–se–louco sobre–mim este entrará a minha–casa §
+-- c22-v1: E–foi David de–lá e–escapou à caverna–de 'Adullam e–ouviram seus–irmãos e–toda casa–de seu–pai e–desceram a–ele lá
+-- c22-v2: E–reuniram–se a–ele todo homem angustiado e–todo homem que a–ele credor e–todo homem amargo–de alma e–esteve sobre–eles por–chefe e–estiveram com–ele como–quatrocentos homens homens
+-- c22-v3: E–foi David de–lá Mitspeh–de Mo'av e–disse a rei–de Mo'av saia por–favor meu–pai e–minha–mãe convosco até que saberei o–quê fará para–mim 'Elohim
+-- c22-v4: E–conduziu–os (a) face–de rei–de Mo'av e–habitaram com–ele todos dias–de estar David na–fortaleza §
+-- c22-v5: E–disse Gad o–profeta a David não habites na–fortaleza vai e–entra para–ti terra–de Yehudah e–foi David e–veio floresta–de Cheret §
+-- c22-v6: E–ouviu Sha'ul que foi–conhecido David e–os–homens que com–ele e–Sha'ul sentado em–Giv'ah debaixo–de a–tamargueira em–Ramah e–sua–lança em–sua–mão e–todos seus–servos de–pé sobre–ele
+-- c22-v7: E–disse Sha'ul a–seus–servos os–de–pé sobre–ele ouvi por–favor filhos–de Yemini também a–todos–vós dará filho–de Yishay campos e–vinhedos a–todos–vós pôrá chefes–de milhares e–chefes–de centenas
+-- c22-v8: que conspirastes todos–vós contra–mim e–não–há quem–revela (a) meu–ouvido quando–cortar meu–filho com filho–de Yishay e–não–há quem–sofre de–vós por–mim e–quem–revela (a) meu–ouvido que levantou meu–filho (a) meu–servo contra–mim para–emboscada como–o–dia este §
+-- c22-v9: E–respondeu Do'eg o–edomita e–ele de–pé sobre servos–de Sha'ul e–disse vi (a) filho–de Yishay vindo Nov a 'Achimelekh filho–de 'Achituv
+-- c22-v10: e–perguntou para–ele em–YHWH e–provisão deu a–ele e–(a) espada–de Golyat o–filisteu deu a–ele
+-- c22-v11: E–enviou o–rei para–chamar (a) 'Achimelekh filho–de 'Achituv o–sacerdote e–(a) toda casa–de seu–pai os–sacerdotes que em–Nov e–vieram todos–eles ao rei §
+-- c22-v12: E–disse Sha'ul ouve por–favor filho–de 'Achituv e–disse eis–me meu–senhor
+-- c22-v13: E–disse [a–ele] a–ele Sha'ul por–que conspirastes contra–mim tu e–filho–de Yishay quando–deste a–ele pão e–espada e–perguntaste para–ele em–'Elohim para–levantar–se contra–mim para–emboscada como–o–dia este §
+-- c22-v14: E–respondeu 'Achimelekh (a) o–rei e–disse e–quem entre–todos teus–servos como–David fiel e–genro–de o–rei e–tendo–acesso a tua–guarda e–honrado em–tua–casa
+-- c22-v15: o–dia comecei [a–perguntar] a–perguntar para–ele em–'Elohim longe–disso de–mim não ponha o–rei contra–seu–servo coisa contra–toda casa–de meu–pai porque não sabia teu–servo em–tudo isto coisa pequena ou grande
+-- c22-v16: E–disse o–rei morrer morrerás 'Achimelekh tu e–toda casa–de teu–pai
+-- c22-v17: E–disse o–rei aos–corredores os–de–pé sobre–ele cercai e–matai sacerdotes–de YHWH porque também sua–mão com David e–porque sabiam que fugindo ele e–não revelaram (a) [seu–ouvido] meu–ouvido e–não quiseram servos–de o–rei para–estender (a) sua–mão para–tocar nos–sacerdotes–de YHWH §
+-- c22-v18: E–disse o–rei [a–Do'eg] a–Do'eg cerca tu e–toca nos–sacerdotes e–cercou [Do'eg] Do'eg o–edomita e–tocou ele nos–sacerdotes e–matou no–dia aquele oitenta e–cinco homens portando éfode–de linho
+-- c22-v19: e–(a) Nov cidade–de os–sacerdotes feriu a–fio–de espada desde–homem e–até mulher desde–criança e–até lactente e–boi e–jumento e–ovelha a–fio–de espada
+-- c22-v20: E–escapou filho um de–'Achimelekh filho–de 'Achituv e–seu–nome 'Evyatar e–fugiu atrás–de David
+-- c22-v21: E–contou 'Evyatar a–David que matou Sha'ul (a) sacerdotes–de YHWH
+-- c22-v22: E–disse David a–'Evyatar sabia no–dia aquele que lá [Do'eg] Do'eg o–edomita que contar contaria a–Sha'ul eu causei contra–toda vida–de casa–de teu–pai
+-- c22-v23: fica comigo não temas porque quem buscar (a) minha–vida buscará (a) tua–vida porque sob–guarda tu comigo
+-- c23-v1: E–contaram a–David dizendo eis filisteus lutando contra–Qe'ilah e–eles saqueando (a) as–eiras
+-- c23-v2: E–perguntou David em–YHWH dizendo irei e–ferirei contra–os–filisteus estes § e–disse YHWH a David vai e–ferirás nos–filisteus e–salvarás (a) Qe'ilah
+-- c23-v3: E–disseram homens–de David a–ele eis nós aqui em–Yehudah temerosos e–ainda–mais que iremos Qe'ilah às fileiras–de filisteus §
+-- c23-v4: E–continuou ainda David a–perguntar em–YHWH § e–respondeu–lhe YHWH e–disse levanta–te desce Qe'ilah porque eu dando (a) filisteus em–tua–mão
+-- c23-v5: E–foi David [e–seus–homens] e–seus–homens Qe'ilah e–lutou contra–os–filisteus e–conduziu (a) seu–gado e–feriu neles golpe grande e–salvou David (a) habitantes–de Qe'ilah §
+-- c23-v6: E–foi quando–fugir 'Evyatar filho–de 'Achimelekh a David Qe'ilah éfode desceu em–sua–mão
+-- c23-v7: E–foi–contado a–Sha'ul que veio David Qe'ilah e–disse Sha'ul alienou (a)–ele 'Elohim em–minha–mão porque fechou–se para–entrar em–cidade–de portas e–tranca
+-- c23-v8: E–convocou Sha'ul (a) todo o–povo para–a–guerra para–descer Qe'ilah para–sitiar a David e–a seus–homens
+-- c23-v9: E–soube David que contra–ele Sha'ul tramando o–mal e–disse a 'Evyatar o–sacerdote traze o–éfode §
+-- c23-v10: E–disse David YHWH 'Elohey Yisra'el ouvir ouviu teu–servo que buscando Sha'ul para–vir a Qe'ilah para–destruir a–cidade por–minha–causa
+-- c23-v11: entregar–me–ão senhores–de Qe'ilah em–sua–mão descerá Sha'ul como ouviu teu–servo YHWH 'Elohey Yisra'el conta por–favor a–teu–servo § e–disse YHWH descerá
+-- c23-v12: E–disse David entregarão senhores–de Qe'ilah (a)–mim e–(a) meus–homens em–mão–de Sha'ul e–disse YHWH entregarão §
+-- c23-v13: E–levantou–se David e–seus–homens como–seiscentos homens homens e–saíram de–Qe'ilah e–andaram para–onde andariam e–a–Sha'ul foi–contado que escapou David de–Qe'ilah e–deixou de–sair
+-- c23-v14: E–habitou David no–deserto nas–fortalezas e–habitou na–montanha em–deserto–de Zif e–buscava–o Sha'ul todos os–dias e–não entregou–o 'Elohim em–sua–mão
+-- c23-v15: E–viu David que saiu Sha'ul para–buscar (a) sua–vida e–David no–deserto–de Zif no–bosque §
+-- c23-v16: E–levantou–se Yehonatan filho–de Sha'ul e–foi a David no–bosque e–fortaleceu (a) sua–mão em–'Elohim
+-- c23-v17: E–disse a–ele não temas porque não encontrar–te–á mão–de Sha'ul meu–pai e–tu reinarás sobre Yisra'el e–eu serei para–ti por–segundo e–também Sha'ul meu–pai sabe assim
+-- c23-v18: E–cortaram os–dois–deles aliança diante–de YHWH e–habitou David no–bosque e–Yehonatan foi para–sua–casa §
+-- c23-v19: E–subiram zifeus a Sha'ul a–Giv'ah dizendo não David escondendo–se conosco nas–fortalezas no–bosque no–monte–de Hakhilah que à–direita–de o–deserto
+-- c23-v20: e–agora segundo–todo desejo–de tua–alma o–rei para–descer desce e–para–nós entregá–lo em–mão–de o–rei
+-- c23-v21: E–disse Sha'ul abençoados vós por–YHWH porque compadecestes–vos de–mim
+-- c23-v22: ide por–favor preparai ainda e–sabei e–vede (a) seu–lugar onde estará seu–pé quem viu–o lá porque disse a–mim astuto usar–astúcia ele
+-- c23-v23: e–vede e–sabei de–todos os–esconderijos onde esconder–se lá e–retornai a–mim a certeza e–irei convosco e–será se ele–está na–terra e–pesquisarei (a)–ele entre–todos milhares–de Yehudah
+-- c23-v24: E–levantaram–se e–foram Zifah diante–de Sha'ul e–David e–seus–homens no–deserto–de Ma'on na–'Aravah a direita–de o–deserto
+-- c23-v25: E–foi Sha'ul e–seus–homens para–buscar e–contaram a–David e–desceu a–rocha e–habitou no–deserto–de Ma'on e–ouviu Sha'ul e–perseguiu atrás–de David deserto–de Ma'on
+-- c23-v26: E–foi Sha'ul de–lado–de a–montanha deste e–David e–seus–homens de–lado–de a–montanha daquele e–estava David apressado para–ir de–diante–de Sha'ul e–Sha'ul e–seus–homens cercando a David e–a seus–homens para–prendê–los
+-- c23-v27: E–mensageiro veio a Sha'ul dizendo apressa–te e–vai porque invadiram filisteus sobre a–terra
+-- c23-v28: E–voltou Sha'ul de–perseguir atrás–de David e–foi ao–encontro–de filisteus por isso chamaram ao–lugar aquele Rocha–de as–Divisões
+-- c23-v29: E–subiu David de–lá e–habitou nas–fortalezas–de 'En Gedi
+-- c24-v1: E–foi quando voltou Sha'ul de–atrás–de filisteus e–contaram a–ele dizendo eis David no–deserto–de 'En Gedi §
+-- c24-v2: E–tomou Sha'ul três milhares homens escolhidos de–todo Yisra'el e–foi para–buscar (a) David e–seus–homens sobre face–de rochas–de cabras–montesas
+-- c24-v3: E–veio a currais–de o–rebanho sobre o–caminho e–lá caverna e–entrou Sha'ul para–cobrir (a) seus–pés e–David e–seus–homens nos–fundos–de a–caverna sentados
+-- c24-v4: E–disseram homens–de David a–ele eis o–dia que disse YHWH a–ti eis eu dando (a) [teu–inimigo] teu–inimigo em–tua–mão e–farás a–ele como for–bom em–teus–olhos e–levantou–se David e–cortou (a) canto–de o–manto que de–Sha'ul em–segredo
+-- c24-v5: E–foi depois–de isso e–feriu coração–de David (a)–ele sobre que cortou (a) canto que de–Sha'ul §
+-- c24-v6: E–disse a–seus–homens longe–disso de–mim de–YHWH se farei (a) a–coisa esta a–meu–senhor ao–ungido–de YHWH para–estender minha–mão nele porque ungido–de YHWH ele
+-- c24-v7: E–conteve David (a) seus–homens com–as–palavras e–não deu–os para–levantar–se contra Sha'ul e–Sha'ul levantou–se da–caverna e–foi pelo–caminho §
+-- c24-v8: E–levantou–se David depois–de isso e–saiu [de] [a–caverna] da–caverna e–chamou atrás–de Sha'ul dizendo meu–senhor o–rei e–olhou Sha'ul atrás–dele e–inclinou–se David face terra e–prostrou–se §
+-- c24-v9: E–disse David a–Sha'ul por–que ouves (a) palavras–de homem dizendo eis David buscando teu–mal
+-- c24-v10: eis o–dia este viram teus–olhos (a) que entregou–te YHWH hoje em–minha–mão na–caverna e–disse para–matar–te e–poupou sobre–ti e–disse não estenderei minha–mão em–meu–senhor porque ungido–de YHWH ele
+-- c24-v11: e–meu–pai vê também vê (a) canto–de teu–manto em–minha–mão porque quando–cortei (a) canto–de teu–manto e–não matei–te saiba e–vê que não–há em–minha–mão mal e–transgressão e–não pequei contra–ti e–tu caçando (a) minha–vida para–tomá–la
+-- c24-v12: julgue YHWH entre–mim e–entre–ti e–vingue–me YHWH de–ti e–minha–mão não estará em–ti
+-- c24-v13: como diz provérbio–de os–antigos dos–ímpios sairá impiedade e–minha–mão não estará em–ti
+-- c24-v14: atrás–de quem saiu rei–de Yisra'el atrás–de quem tu perseguindo atrás–de cão morto atrás–de pulga uma
+-- c24-v15: e–seja YHWH por–juiz e–julgue entre–mim e–entre–ti e–veja e–defenda (a) minha–causa e–julgue–me de–tua–mão ¶
+-- c24-v16: E–foi quando–terminar David de–falar (a) as–palavras estas a Sha'ul e–disse Sha'ul tua–voz esta meu–filho David e–levantou Sha'ul sua–voz e–chorou
+-- c24-v17: E–disse a David justo tu de–mim porque tu recompensaste–me o–bem e–eu recompensei–te o–mal
+-- c24-v18: [e–tu] e–tu contaste hoje (a) que fizeste comigo bem (a) que fechou–me YHWH em–tua–mão e–não mataste–me
+-- c24-v19: e–que achará homem (a) seu–inimigo e–enviará–o em–caminho bom e–YHWH recompense–te bem em–troca–de o–dia este que fizeste a–mim
+-- c24-v20: e–agora eis sei que reinar reinarás e–levantar–se–á em–tua–mão reino–de Yisra'el
+-- c24-v21: e–agora jura a–mim por–YHWH se cortarás (a) minha–descendencia depois–de–mim e–se destruirás (a) meu–nome de–casa–de meu–pai
+-- c24-v22: E–jurou David a–Sha'ul e–foi Sha'ul a sua–casa e–David e–seus–homens subiram a a–fortaleza ¶
+-- c25-v1: § E–morreu Shemu'el e–reuniram-se todo– Yisra'el e–lamentaram– (a)–ele e–sepultaram–o na–casa–dele em–Ramah e–levantou-se David e–desceu para– deserto–de Pa'ran ¶
+-- c25-v2: ¶ E–homem em–Ma'on e–obra–dele no–Karmel e–o–homem grande muito e–para–ele ovelhas três– milhares e–mil cabras e–foi ao–tosquiar (a)– ovelhas–dele no–Karmel
+-- c25-v3: E–nome–de o–homem Naval e–nome–de esposa–dele 'Avigayil e–a–mulher boa–de– entendimento e–bela–de aparência e–o–homem duro e–mau em–obras e–ele [kalevita] kalevita
+-- c25-v4: E–ouviu David no–deserto que– tosqueia Naval (a)– ovelhas–dele
+-- c25-v5: E–enviou David dez moços e–disse David aos–moços subi ao–Karmel e–vinde para– Naval e–perguntai– a–ele em–nome–meu por–paz
+-- c25-v6: E–direis assim ao–vivo e–tu paz e–casa–tua paz e–tudo que– a–ti paz
+-- c25-v7: E–agora ouvi que tosquiadores para–ti agora os–pastores que– para–ti estiveram conosco não envergonhamos–os e–não– faltou a–eles coisa-alguma todos– dias–de estarem–eles no–Karmel
+-- c25-v8: Pergunta (a)– moços–teus e–dirão a–ti e–achem os–moços graça em–olhos–teus porque– em– dia bom viemos dá– por-favor (a) que achar mão–tua aos–servos–teus e–ao–filho–teu David
+-- c25-v9: E–vieram moços–de David e–falaram para– Naval conforme–todas– as–palavras estas em–nome–de David e–descansaram
+-- c25-v10: E–respondeu Naval (a)– servos–de David e–disse quem David e–quem filho–de– Yishai hoje multiplicaram-se servos os–que-escapam homem de–face–de senhor–dele
+-- c25-v11: E–tomarei (a)– pão–meu e–(a)– água–minha e–(a) carne–abatida–minha que abati para–tosquiadores–meus e–darei aos–homens que não conheço de-onde daqui eles
+-- c25-v12: E–viraram moços–de– David para–caminho–deles e–voltaram e–vieram e–contaram a–ele conforme–todas as–palavras estas
+-- c25-v13: E–disse David aos–homens–dele cingi homem (a)– espada–dele e–cingiram homem (a)– espada–dele e–cingiu também– David (a)– espada–dele e–subiram atrás–de David cerca–de–quatro centos homem e–duzentos ficaram sobre– os–utensílios
+-- c25-v14: E–a–'Avigayil esposa–de Naval contou moço– um dos–moços dizendo eis enviou David mensageiros do–deserto para–abençoar (a)– senhor–nosso e–investiu contra–eles
+-- c25-v15: E–os–homens bons para–nós muito e–não fomos–envergonhados e–não– faltou–nos coisa-alguma todos– dias–de andarmos com–eles ao–estarmos no–campo
+-- c25-v16: muro foram sobre–nós também– noite também– dia todos– dias–de estarmos com–eles pastoreando o–rebanho
+-- c25-v17: E–agora sabe e–vê o–que– farás porque– completou-se o–mal contra– senhor–nosso e–sobre toda– casa–dele e–ele filho–de– belial de–falar a–ele
+-- c25-v18: E–apressou-se ['Avigayil] 'Avigayil e–tomou duzentos pães e–dois odres–de– vinho e–cinco ovelhas [preparadas] preparadas e–cinco seahs–de grão-torrado e–cem cachos–de–uvas e–duzentos bolos–de–figos e–colocou sobre– os–jumentos
+-- c25-v19: E–disse aos–moços–dela passai diante–de–mim eis–me atrás–de–vós vindo e–ao–marido–dela Naval não contou
+-- c25-v20: E–foi ela montando sobre– o–jumento e–descendo em–escondido–de o–monte e–eis David e–homens–dele descendo ao–encontro–dela e–encontrou (a)–eles
+-- c25-v21: E–David disse certamente para–a–falsidade guardei (a)– todo– que a–este no–deserto e–não– faltou de–tudo– que– a–ele coisa-alguma e–retribuiu– a–mim mal em-lugar-de bem
+-- c25-v22: Assim– faça 'Elohim aos–inimigos–de David e–assim acrescente se– deixar de–tudo– que– a–ele até– a–manhã urinando na–parede
+-- c25-v23: E–viu 'Avigayil (a)– David e–apressou-se e–desceu de–sobre o–jumento e–caiu sobre–face–de David sobre– face–dela e–prostrou-se terra
+-- c25-v24: E–caiu sobre– pés–dele e–disse em–mim– eu senhor–meu a–iniquidade e–fale– por-favor serva–tua em–orelhas–tuas e–ouve (a) palavras–de serva–tua
+-- c25-v25: Não– por-favor ponha senhor–meu (a)– coração–dele sobre– homem–de o–belial este sobre– Naval porque como–nome–dele assim– ele Naval nome–dele e–loucura com–ele e–eu serva–tua não vi (a)– moços–de senhor–meu que enviaste
+-- c25-v26: E–agora senhor–meu vive– YHWH e–vive– alma–tua que impediu–te YHWH de–entrar em–sangues e–salvar mão–tua para–ti e–agora sejam como–Naval inimigos–teus e–os–que-buscam contra– senhor–meu mal
+-- c25-v27: E–agora a–bênção esta que– trouxe serva–tua ao–senhor–meu e–seja-dada aos–moços os–que-andam nos–pés–de senhor–meu
+-- c25-v28: Perdoa por-favor por–transgressão–de serva–tua porque fazendo– fará YHWH ao–senhor–meu casa firme porque– guerras–de YHWH senhor–meu guerreia e–mal não– será-achado em–ti desde–dias–teus
+-- c25-v29: E–levantar-se homem para–perseguir-te e–para–buscar (a)– alma–tua e–será alma–de senhor–meu amarrada no–feixe–de os–vivos com YHWH 'Elohim–teu e–(a) alma–de inimigos–teus arremessará no–meio–de palma–de a–funda
+-- c25-v30: E–será quando– fizer YHWH ao–senhor–meu conforme–tudo que– falou (a)– o–bem sobre–ti e–ordenar-te como–líder sobre– Yisra'el
+-- c25-v31: E–não será esta para–ti para–tropeço e–para–obstáculo–de coração ao–senhor–meu e–para–derramar– sangue em-vão e–para–salvar senhor–meu a–ele e–fizer-bem YHWH ao–senhor–meu e–lembrar-te-ás (a)– serva–tua ¶
+-- c25-v32: E–disse David a–'Avigayil bendito YHWH 'Elohim–de Yisra'el que enviou–te o–dia este ao–encontro–meu
+-- c25-v33: E–bendito discernimento–teu e–bendita tu que impediste-me o–dia este de–entrar em–sangues e–salvar mão–minha para–mim
+-- c25-v34: E–certamente vive– YHWH 'Elohim–de Yisra'el que impediu-me de–fazer-mal (a)–ti porque se–não apressaste [e–vieste] e–vieste ao–encontro–meu que se– restar a–Naval até– luz–de a–manhã urinando na–parede
+-- c25-v35: E–tomou David da–mão–dela (a) que– trouxe a–ele e–a–ela disse sobe em–paz para–casa–tua vê ouvi a–voz–tua e–levantei face–tua
+-- c25-v36: E–veio 'Avigayil para– Naval e–eis– a–ele banquete na–casa–dele como–banquete–de o–rei e–coração–de Naval bom sobre–ele e–ele embriagado até– muito e–não– contou a–ele coisa pequena ou–grande até– luz–de a–manhã
+-- c25-v37: E–foi na–manhã ao–sair o–vinho de–Naval e–contou– a–ele esposa–dele (a)– as–palavras estas e–morreu coração–dele dentro–dele e–ele tornou-se como–pedra
+-- c25-v38: E–foi cerca–de–dez os–dias e–feriu YHWH (a)– Naval e–morreu
+-- c25-v39: E–ouviu David que morreu Naval e–disse bendito YHWH que pleiteou (a)– pleito–de afronta–minha da–mão–de Naval e–(a)– servo–dele conteve de–mal e–(a) maldade–de Naval retornou YHWH na–cabeça–dele e–enviou David e–falou a–'Avigayil para–tomá-la a–ele por–esposa
+-- c25-v40: E–vieram servos–de David para– 'Avigayil ao–Karmel e–falaram a–ela dizendo David enviou-nos a–ti para–tomar-te a–ele por–esposa
+-- c25-v41: E–levantou-se e–prostrou-se rosto em–terra e–disse eis serva–tua por–serva para–lavar pés–de servos–de senhor–meu
+-- c25-v42: E–apressou-se e–levantou-se 'Avigayil e–montou sobre– o–jumento e–cinco moças–dela as–que-andam aos–pés–dela e–foi atrás–de mensageiros–de David e–tornou-se– a–ele por–esposa
+-- c25-v43: E–(a)– 'Achino'am tomou David de–Yizre'el e–foram também– ambas–elas a–ele por–esposas ¶
+-- c25-v44: E–Sha'ul deu (a)– Mikhal filha–dele esposa–de David a–Palti filho–de– Layish que de–Galim
+-- c26-v1: § E–vieram os–zifitas para– Sha'ul a–Giv'ah dizendo acaso–não David está-escondendo-se na–colina–de Hakhi'lah sobre face–de o–deserto
+-- c26-v2: E–levantou-se Sha'ul e–desceu para– deserto–de– Zif e–com–ele três– milhares homem escolhidos–de Yisra'el para–buscar (a)– David no–deserto–de– Zif
+-- c26-v3: E–acampou Sha'ul na–colina–de Hakhi'lah que sobre– face–de o–deserto sobre– o–caminho e–David habitando no–deserto e–viu que veio Sha'ul atrás–dele ao–deserto
+-- c26-v4: E–enviou David espiões e–soube que– veio Sha'ul para– Nakhon
+-- c26-v5: E–levantou-se David e–veio para– o–lugar que acampou– ali Sha'ul e–viu David (a)– o–lugar que deitou– ali Sha'ul e–'Avner filho–de– Ner chefe–de– exército–dele e–Sha'ul deitado no–círculo e–o–povo acampados [ao-redor-dele] ao-redor-dele
+-- c26-v6: E–respondeu David e–disse para– 'Achimeleque o–hitita e–para– 'Avishai filho–de– Tseruyah irmão–de Yo'av dizendo quem– descerá comigo para– Sha'ul para– o–acampamento e–disse 'Avishai eu descerei contigo
+-- c26-v7: E–veio David e–'Avishai para– o–povo de–noite e–eis Sha'ul deitado dormindo no–círculo e–lança–dele fincada– na–terra [a–cabeceira-dele] a–cabeceira-dele e–'Avner e–o–povo deitados [ao-redor-dele] ao-redor-dele ¶
+-- c26-v8: E–disse 'Avishai para– David entregou 'Elohim hoje (a)– inimigo–teu na–mão–tua e–agora ferirei–o por-favor com–a–lança e–na–terra vez uma e–não repetirei a–ele
+-- c26-v9: E–disse David para– 'Avishai não– destruías–o porque quem estendeu mão–dele contra–ungido–de YHWH e–será-inocente ¶
+-- c26-v10: E–disse David vive– YHWH que se– YHWH ferirá–o ou– dia–dele virá e–morrerá ou na–guerra descerá e–perecerá
+-- c26-v11: Longe–de–mim de–mim de–YHWH de–estender mão–minha contra–ungido–de YHWH e–agora toma– por-favor (a)– a–lança que [a–cabeceira-dele] a–cabeceira-dele e–(a)– jarro–de a–água e–vamos para–nós
+-- c26-v12: E–tomou David (a)– a–lança e–(a)– jarro–de a–água de–cabeceira–de Sha'ul e–foram para–eles e–não-há vendo e–não-há sabendo e–não-há acordando porque todos–eles dormindo porque torpor–de YHWH caiu sobre–eles
+-- c26-v13: E–atravessou David o–outro-lado e–parou sobre– topo–de– o–monte de–longe grande o–lugar entre–eles
+-- c26-v14: E–chamou David para– o–povo e–para– 'Avner filho–de– Ner dizendo acaso–não responderás 'Avner e–respondeu 'Avner e–disse quem tu chamaste para– o–rei ¶
+-- c26-v15: E–disse David para– 'Avner acaso–não– homem tu e–quem como–ti em–Yisra'el e–por-que não guardaste a– senhor–teu o–rei porque– veio um do–povo para–destruir (a)– o–rei senhor–teu
+-- c26-v16: Não– bom a–coisa esta que fizeste vive– YHWH porque filhos–de– morte vós que não– guardastes a– senhor–vosso a– ungido–de YHWH e–agora vê onde– lança–de o–rei e–(a)– jarro–de a–água que [a–cabeceira-dele] a–cabeceira-dele
+-- c26-v17: E–reconheceu Sha'ul (a)– voz–de David e–disse voz–tua esta filho–meu David e–disse David voz–minha senhor–meu o–rei
+-- c26-v18: E–disse por-que este senhor–meu perseguindo atrás–de servo–dele porque que fiz e–que– na–mão–minha mal
+-- c26-v19: E–agora ouça– por-favor senhor–meu o–rei (a) palavras–de servo–dele se– YHWH incitou–te contra–mim cheire oferta e–se filhos–de o–homem malditos eles diante–de YHWH porque– expulsaram-me hoje de–unir-me na–herança–de YHWH dizendo vai serve 'elohim outros
+-- c26-v20: E–agora não– caia sangue–meu em–terra de–diante–de face–de YHWH porque– saiu rei–de Yisra'el para–buscar (a)– pulga uma como persegue a–perdiz nas–montanhas
+-- c26-v21: E–disse Sha'ul pequei volta filho–meu– David porque não– farei-mal a–ti mais em-lugar-de que foi–preciosa alma–minha em–olhos–teus o–dia este eis agi-tolamente e–errei muito muito
+-- c26-v22: E–respondeu David e–disse eis [a–lança] lança–de o–rei e–atravesse um dos–moços e–tome–a
+-- c26-v23: E–YHWH retribuirá ao–homem (a)– justiça–dele e–(a)– fidelidade–dele que entregou–te YHWH hoje na–mão e–não quis estender mão–minha contra–ungido–de YHWH
+-- c26-v24: E–eis como foi–grande alma–tua o–dia este em–olhos–meus assim seja–grande alma–minha em–olhos–de YHWH e–livre-me de–toda– angústia ¶
+-- c26-v25: E–disse Sha'ul para– David bendito tu filho–meu David também fazendo farás e–também vencendo vencerás e–foi David para–caminho–dele e–Sha'ul voltou para–lugar–dele ¶
+-- c27-v1: § E–disse David para– coração–dele agora serei-arrebatado dia– um pela–mão–de– Sha'ul não–há– para–mim bom que escapando escaparei para– terra–de filisteus e–desesperar-se-á de–mim Sha'ul para–buscar-me ainda em–todo– território–de Yisra'el e–escaparei da–mão–dele
+-- c27-v2: E–levantou-se David e–passou ele e–seis– centos homem que com–ele para– 'Akhish filho–de– Ma'okh rei–de Gat
+-- c27-v3: E–habitou David com– 'Akhish em–Gat ele e–homens–dele homem e–casa–dele David e–duas esposas–dele 'Achino'am a–yizre'elita e–'Avigayil esposa–de– Naval a–karmelita
+-- c27-v4: E–foi-contado a–Sha'ul que– fugiu David para–Gat e–não– [continuou] continuou ainda a–buscá-lo ¶
+-- c27-v5: E–disse David para– 'Akhish se– por-favor achei graça em–olhos–teus deem– a–mim lugar em–uma–de cidades–de o–campo e–habitarei ali e–por-que habitará servo–teu na–cidade–de o–reino contigo
+-- c27-v6: E–deu– a–ele 'Akhish no–dia aquele (a)– Tsiqlag por-isso foi Tsiqlag para–reis–de Yehudah até o–dia este ¶
+-- c27-v7: E–foi número–de os–dias que– habitou David em–campo–de filisteus dias e–quatro meses
+-- c27-v8: E–subiu David e–homens–dele e–atacaram contra– o–geshuri [e–o–girzi] e–o–girzi e–o–'amaleqi porque estas habitando a–terra que desde–antiguidade ao–entrares Shur e–até– terra–de Mitsrayim
+-- c27-v9: E–feriu David (a)– a–terra e–não deixava-vivo homem ou–mulher e–tomou ovelhas e–bois e–jumentos e–camelos e–vestes e–voltou e–veio para– 'Akhish
+-- c27-v10: E–disse 'Akhish não– atacastes hoje e–disse David contra– negev–de Yehudah e–contra– negev–de o–yerachme'eli e–contra– negev–de o–qeni
+-- c27-v11: E–homem ou–mulher não– deixava-vivo David para–trazer para–Gat dizendo para–não– contem sobre–nós dizendo assim– fez David e–assim costume–dele todos– os–dias que habitou em–campo–de filisteus
+-- c27-v12: E–confiou 'Akhish em–David dizendo fazendo–fétido tornou-se-fétido no–povo–dele em–Yisra'el e–será a–mim por–servo para-sempre ¶
+-- c28-v1: § E–foi nos–dias aqueles e–reuniram filisteus (a)– acampamentos–deles para–o–exército para–guerrear em–Yisra'el e–disse 'Akhish para– David sabendo saberás que comigo sairás no–acampamento tu e–homens–teus
+-- c28-v2: E–disse David para– 'Akhish por-isso tu saberás (a) que– fará servo–teu e–disse 'Akhish para– David por-isso guarda para–cabeça–minha porei–te todos– os–dias ¶
+-- c28-v3: E–Shemu'el morreu e–lamentaram– (a)–ele todo– Yisra'el e–sepultaram–o em–Ramah e–na–cidade–dele e–Sha'ul removeu os–médiuns e–(a)– os–adivinhos da–terra
+-- c28-v4: E–reuniram-se filisteus e–vieram e–acamparam em–Shunem e–reuniu Sha'ul (a)– todo– Yisra'el e–acamparam em–Gilbo'a
+-- c28-v5: E–viu Sha'ul (a)– acampamento–de filisteus e–temeu e–tremeu coração–dele muito
+-- c28-v6: E–consultou Sha'ul a–YHWH e–não respondeu–o YHWH também pelos–sonhos também pelos–'urim também pelos–profetas
+-- c28-v7: E–disse Sha'ul aos–servos–dele buscai– para–mim mulher senhora–de– espírito e–irei a–ela e–consultarei– a–ela e–disseram servos–dele a–ele eis mulher senhora–de– espírito em–'En-Dor
+-- c28-v8: E–disfarçou-se Sha'ul e–vestiu vestes outras e–foi ele e–dois homens com–ele e–vieram para– a–mulher de–noite e–disse [adivinha] adivinha– por-favor para–mim pelo–espírito e–faze-subir para–mim (a) que– direi a–ti
+-- c28-v9: E–disse a–mulher a–ele eis tu sabes (a) que– fez Sha'ul que exterminou (a)– os–médiuns e–(a)– os–adivinhos de– a–terra e–por-que tu armando-armadilha para–alma–minha para–matar-me
+-- c28-v10: E–jurou a–ela Sha'ul por–YHWH dizendo vive– YHWH se– acontecer–te castigo pela–coisa esta
+-- c28-v11: E–disse a–mulher (a)– quem farei-subir– para–ti e–disse (a)– Shemu'el faze-subir– para–mim
+-- c28-v12: E–viu a–mulher (a)– Shemu'el e–gritou com–voz grande e–disse a–mulher para– Sha'ul dizendo por-que enganaste-me e–tu Sha'ul
+-- c28-v13: E–disse a–ela o–rei não– temas porque que viste e–disse a–mulher para– Sha'ul 'elohim vi subindo de– a–terra
+-- c28-v14: E–disse a–ela qual– forma–dele e–disse homem velho subindo e–ele coberto–de manto e–soube Sha'ul que– Shemu'el ele e–inclinou-se rosto em–terra e–prostrou-se ¶
+-- c28-v15: E–disse Shemu'el para– Sha'ul por-que perturbaste-me para–fazer-subir (a)–mim e–disse Sha'ul angústia– para–mim muito e–filisteus guerreando contra–mim e–'Elohim afastou-se de–sobre–mim e–não– respondeu-me mais também pela–mão–de– os–profetas também– pelos–sonhos e–chamei a–ti para–fazer-saber-me que farei ¶
+-- c28-v16: E–disse Shemu'el e–por-que perguntas-me e–YHWH afastou-se de–sobre–ti e–tornou-se inimigo–teu
+-- c28-v17: E–fez YHWH a–ele como falou pela–mão–minha e–rasgou YHWH (a)– o–reino da–mão–tua e–deu–o ao–próximo–teu a–David
+-- c28-v18: Porque não– ouviste na–voz–de YHWH e–não– fizeste ardor–de– ira–dele contra–'Amaleq sobre– assim a–coisa esta fez– a–ti YHWH o–dia este
+-- c28-v19: E–dará YHWH também (a)– Yisra'el contigo na–mão–de– filisteus e–amanhã tu e–filhos–teus comigo também (a)– acampamento–de Yisra'el dará YHWH na–mão–de– filisteus
+-- c28-v20: E–apressou-se Sha'ul e–caiu plenitude–de– estatura–dele em–terra e–temeu muito das–palavras–de Shemu'el também– força não– havia nele porque não comeu pão todo– o–dia e–toda– a–noite
+-- c28-v21: E–veio a–mulher para– Sha'ul e–viu que– aterrorizado muito e–disse a–ele eis ouviu serva–tua na–voz–tua e–pus alma–minha na–palma–minha e–ouvi (a)– palavras–tuas que falaste a–mim
+-- c28-v22: E–agora ouve– por-favor também– tu na–voz–de serva–tua e–porei diante–de–ti pedaço–de– pão e–come e–haverá em–ti força porque irás no–caminho
+-- c28-v23: E–recusou e–disse não comerei e–instaram– nele servos–dele e–também– a–mulher e–ouviu a–voz–deles e–levantou-se da–terra e–sentou-se na– a–cama
+-- c28-v24: E–para–a–mulher bezerro–de– engorda na–casa e–apressou-se e–abateu–o e–tomou– farinha e–amassou e–assou–o pães-ázimos
+-- c28-v25: E–trouxe diante–de– Sha'ul e–diante–de servos–dele e–comeram e–levantaram-se e–foram na–noite aquela ¶
+-- c29-v1: § E–reuniram filisteus (a)– todos– acampamentos–deles em–'Afeq e–Yisra'el acampados na–fonte que em–Yizre'el
+-- c29-v2: E–príncipes–de filisteus passando por–centos e–por–milhares e–David e–homens–dele passando por–último com– 'Akhish
+-- c29-v3: E–disseram chefes–de filisteus que os–hebreus estes e–disse 'Akhish para– chefes–de filisteus acaso–não– este David servo Sha'ul rei–de– Yisra'el que esteve comigo este dias ou– este anos e–não– achei nele coisa-alguma desde–dia–de cair–dele até– o–dia este ¶
+-- c29-v4: E–iraram-se contra–ele chefes–de filisteus e–disseram a–ele chefes–de filisteus faze-voltar (a)– o–homem e–volte para– lugar–dele que designaste–o ali e–não– descerá conosco na–guerra e–não– será– para–nós por–adversário na–guerra e–com-que reconciliar-se-á este para– senhor–dele acaso–não com–cabeças–de os–homens aqueles
+-- c29-v5: Acaso–não– este David que respondiam– a–ele nas–danças dizendo feriu Sha'ul pelos–milhares–dele e–David [pelas–miríades-dele] pelas–miríades–dele ¶
+-- c29-v6: E–chamou 'Akhish para– David e–disse a–ele vive– YHWH que– reto tu e–bom em–olhos–meus saíres e–entrares comigo no–acampamento porque não– achei em–ti mal desde–dia–de vires a–mim até– o–dia este e–em–olhos–de os–príncipes não– bom tu
+-- c29-v7: E–agora volta e–vai em–paz e–não– faças mal em–olhos–de príncipes–de filisteus ¶
+-- c29-v8: E–disse David para– 'Akhish porque que fiz e–que– achaste no–servo–teu desde–dia que estive diante–de–ti até o–dia este que não virei e–lutarei contra–inimigos–de senhor–meu o–rei
+-- c29-v9: E–respondeu 'Akhish e–disse para– David sei que bom tu em–olhos–meus como–anjo–de 'Elohim mas chefes–de filisteus disseram não– subirá conosco na–guerra
+-- c29-v10: E–agora levanta-cedo na–manhã e–servos–de senhor–teu que– vieram contigo e–levantar-vos-eis-cedo na–manhã e–luz para–vós e–ide
+-- c29-v11: E–levantou-cedo David ele e–homens–dele para–ir na–manhã para–voltar para– terra–de filisteus e–filisteus subiram para–Yizre'el ¶
+-- c30-v1: § E–foi ao–vir David e–homens–dele para–Tsiqlag no–dia o–terceiro e–'amaleqis atacaram contra– negev e–contra– Tsiqlag e–feriram (a)– Tsiqlag e–queimaram (a)–ela com–fogo
+-- c30-v2: E–levaram-cativos (a)– as–mulheres que– nela de–pequeno e–até– grande não mataram ninguém e–conduziram e–foram para–caminho–deles
+-- c30-v3: E–veio David e–homens–dele para– a–cidade e–eis queimada com–fogo e–esposas–deles e–filhos–deles e–filhas–deles levados-cativos
+-- c30-v4: E–levantou David e–o–povo que– com–ele (a)– voz–deles e–choraram até que não–havia– neles força para–chorar
+-- c30-v5: E–duas esposas–de– David levadas-cativas 'Achino'am a–yizre'elita e–'Avigayil esposa–de Naval o–karmelita
+-- c30-v6: E–angustiou-se David muito porque– disseram o–povo para–apedrejá-lo porque– amarga alma–de todo– o–povo homem por– [filhos-dele] filhos–dele e–por– filhas–dele e–fortaleceu-se David em–YHWH 'Elohim–dele ¶
+-- c30-v7: E–disse David para– 'Evyatar o–sacerdote filho–de– 'Achimeleque traze– por-favor para–mim o–'efod e–trouxe 'Evyatar (a)– o–'efod para– David
+-- c30-v8: E–consultou David a–YHWH dizendo perseguirei atrás–de o–bando– este alcançá-lo-ei e–disse a–ele persegue porque– alcançando alcançarás e–livrando livrarás
+-- c30-v9: E–foi David ele e–seis– centos homem que com–ele e–vieram até– ribeiro–de o–Besor e–os–restantes pararam
+-- c30-v10: E–perseguiu David ele e–quatro– centos homem e–pararam duzentos homem que estavam-exaustos de–atravessar (a)– ribeiro–de o–Besor
+-- c30-v11: E–acharam homem– egípcio no–campo e–tomaram (a)–ele para– David e–deram– a–ele pão e–comeu e–deram-de-beber–a–ele água
+-- c30-v12: E–deram– a–ele pedaço–de bolo–de–figos e–dois cachos–de–uvas e–comeu e–voltou espírito–dele a–ele porque não– comeu pão e–não– bebeu água três dias e–três noites ¶
+-- c30-v13: E–disse a–ele David de–quem– tu e–de-onde daqui tu e–disse moço egípcio eu servo de–homem 'amaleqi e–abandonou-me senhor–meu porque adoeci hoje três
+-- c30-v14: Nós atacamos negev–de o–keretita e–sobre– que de–Yehudah e–sobre– negev–de Kalev e–(a)– Tsiqlag queimamos com–fogo
+-- c30-v15: E–disse a–ele David farás-descer-me para– o–bando este e–disse jura– a–mim por–'Elohim se– matarás-me e–se– entregarás-me na–mão–de– senhor–meu e–farei-descer-te para– o–bando este
+-- c30-v16: E–fez-descer–o e–eis espalhados sobre– face–de toda– a–terra comendo e–bebendo e–festejando em–todo o–despojo o–grande que tomaram de–terra–de filisteus e–de–terra–de Yehudah
+-- c30-v17: E–feriu–os David desde–o–crepúsculo e–até– a–tarde do–dia–seguinte e–não– escapou deles ninguém exceto se–não quatrocentos centos homem– moço que– montaram sobre– os–camelos e–fugiram
+-- c30-v18: E–livrou David (a) tudo– que tomaram 'Amaleq e–(a)– duas esposas–dele livrou David
+-- c30-v19: E–não faltou– a–eles de– o–pequeno e–até– o–grande e–até– filhos e–filhas e–de–despojo e–até tudo– que tomaram a–eles o–todo trouxe-de-volta David
+-- c30-v20: E–tomou David (a)– todo– o–rebanho e–o–gado conduziram diante–de o–gado aquele e–disseram este despojo–de David
+-- c30-v21: E–veio David para– duzentos os–homens que– estavam-exaustos de–ir atrás–de David e–fizeram-ficar–os no–ribeiro–de o–Besor e–saíram ao–encontro–de David e–ao–encontro–de o–povo que– com–ele e–aproximou-se David (a)– o–povo e–perguntou a–eles por–paz ¶
+-- c30-v22: E–respondeu todo– homem– mau e–belial dos–homens que foram com– David e–disseram porque que não– foram comigo não– daremos a–eles do–despojo que livramos exceto– se–não homem (a)– esposa–dele e–(a)– filhos–dele e–conduzam e–vão ¶
+-- c30-v23: E–disse David não– fareis assim irmãos–meus (a) que– deu YHWH a–nós e–guardou (a)–nós e–deu (a)– o–bando o–que-veio sobre–nós na–mão–nossa
+-- c30-v24: E–quem ouvirá a–vós na–coisa esta porque como–parte do–que-desce na–guerra e–como–parte do–que-fica sobre– os–utensílios juntos repartirão ¶
+-- c30-v25: E–foi desde–o–dia aquele e–adiante e–fez–a por–estatuto e–por–ordenança para–Yisra'el até o–dia este ¶
+-- c30-v26: E–veio David para– Tsiqlag e–enviou do–despojo aos–anciãos–de Yehudah aos–amigos–dele dizendo eis para–vós bênção de–despojo–de inimigos–de YHWH
+-- c30-v27: Aos–que em–Beit-'El e–aos–que em–Ramot-Negev e–aos–que em–Yatir
+-- c30-v28: E–aos–que em–'Aro'er e–aos–que em–Sifmot e–aos–que em–'Eshtemoa ¶
+-- c30-v29: E–aos–que em–Rakhal e–aos–que em–cidades–de o–yerachme'eli e–aos–que em–cidades–de o–qeni
+-- c30-v30: E–aos–que em–Chormah e–aos–que em–Bor-'Ashan e–aos–que em–'Atakh
+-- c30-v31: E–aos–que em–Chevron e–a–todos– os–lugares que– andou– ali David ele e–homens–dele ¶
+-- c31-v1: § E–filisteus guerreando contra–Yisra'el e–fugiram homens–de Yisra'el de–face–de filisteus e–caíram feridos no–monte–de Gilbo'a
+-- c31-v2: E–alcançaram filisteus (a)– Sha'ul e–(a)– filhos–dele e–feriram filisteus (a)– Yehonatan e–(a)– 'Avinadav e–(a)– Malki-Shua filhos–de Sha'ul
+-- c31-v3: E–pesou a–guerra contra– Sha'ul e–acharam–o os–arqueiros homens de–arco e–tremeu muito dos–arqueiros
+-- c31-v4: E–disse Sha'ul ao–portador–de armas–dele desembainha espada–tua e–atravessa-me com–ela para–não– virem os–incircuncisos estes e–atravessarem-me e–escarneceram–de– mim e–não quis portador–de armas–dele porque temia muito e–tomou Sha'ul (a)– a–espada e–caiu sobre–ela
+-- c31-v5: E–viu portador–de– armas–dele que morreu Sha'ul e–caiu também– ele sobre– espada–dele e–morreu com–ele
+-- c31-v6: E–morreu Sha'ul e–três filhos–dele e–portador–de armas–dele também todos– homens–dele no–dia aquele juntos
+-- c31-v7: E–viram homens–de– Yisra'el que– do–outro-lado–de o–vale e–que do–outro-lado–de o–Yarden que– fugiram homens–de Yisra'el e–que– morreram Sha'ul e–filhos–dele e–abandonaram (a)– as–cidades e–fugiram e–vieram filisteus e–habitaram nelas ¶
+-- c31-v8: E–foi no–dia-seguinte e–vieram filisteus para–despojar (a)– os–feridos e–acharam (a)– Sha'ul e–(a)– três filhos–dele caídos no–monte–de Gilbo'a
+-- c31-v9: E–cortaram (a)– cabeça–dele e–despojaram (a)– armas–dele e–enviaram na–terra–de– filisteus ao-redor para–anunciar casa–de ídolos–deles e–(a)– o–povo
+-- c31-v10: E–colocaram (a)– armas–dele casa–de 'Ashtarot e–(a)– corpo–dele penduraram no–muro–de Beit-Shan
+-- c31-v11: E–ouviram a–ele habitantes–de Yavesh Gil'ad (a) que– fizeram filisteus a–Sha'ul
+-- c31-v12: E–levantaram-se todo– homem valente e–andaram toda– a–noite e–tomaram (a)– corpo–de Sha'ul e–(a) corpos–de filhos–dele do–muro–de Beit-Shan e–vieram para–Yavesh e–queimaram (a)–eles ali
+-- c31-v13: E–tomaram (a)– ossos–deles e–sepultaram debaixo–de– a–tamargueira em–Yavesh e–jejuaram sete dias ¶
 
 BEGIN;
 -- 0900100101: וַיְהִי֩ (H1961) → "§ E–foi" [opus-4.5-chirho]

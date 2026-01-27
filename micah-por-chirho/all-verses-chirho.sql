@@ -3,113 +3,113 @@
 -- — John 3:16
 
 -- MICAH - POR Combined
--- Generated: 2026-01-27T21:47:40Z
+-- Generated: 2026-01-27T22:21:38Z
 
--- MICAH c1-v1 - POR
--- MICAH c1-v2 - POR
--- MICAH c1-v3 - POR
--- MICAH c1-v4 - POR
--- MICAH c1-v5 - POR
--- MICAH c1-v6 - POR
--- MICAH c1-v7 - POR
--- MICAH c1-v8 - POR
--- MICAH c1-v9 - POR
--- MICAH c1-v10 - POR
--- MICAH c1-v11 - POR
--- MICAH c1-v12 - POR
--- MICAH c1-v13 - POR
--- MICAH c1-v14 - POR
--- MICAH c1-v15 - POR
--- MICAH c1-v16 - POR
--- MICAH c2-v1 - POR
--- MICAH c2-v2 - POR
--- MICAH c2-v3 - POR
--- MICAH c2-v4 - POR
--- MICAH c2-v5 - POR
--- MICAH c2-v6 - POR
--- MICAH c2-v7 - POR
--- MICAH c2-v8 - POR
--- MICAH c2-v9 - POR
--- MICAH c2-v10 - POR
--- MICAH c2-v11 - POR
--- MICAH c2-v12 - POR
--- MICAH c2-v13 - POR
--- MICAH c3-v1 - POR
--- MICAH c3-v2 - POR
--- MICAH c3-v3 - POR
--- MICAH c3-v4 - POR
--- MICAH c3-v5 - POR
--- MICAH c3-v6 - POR
--- MICAH c3-v7 - POR
--- MICAH c3-v8 - POR
--- MICAH c3-v9 - POR
--- MICAH c3-v10 - POR
--- MICAH c3-v11 - POR
--- MICAH c3-v12 - POR
--- MICAH c4-v1 - POR
--- MICAH c4-v2 - POR
--- MICAH c4-v3 - POR
--- MICAH c4-v4 - POR
--- MICAH c4-v5 - POR
--- MICAH c4-v6 - POR
--- MICAH c4-v7 - POR
--- MICAH c4-v8 - POR
--- MICAH c4-v9 - POR
--- MICAH c4-v10 - POR
--- MICAH c4-v11 - POR
--- MICAH c4-v12 - POR
--- MICAH c4-v13 - POR
--- MICAH c5-v1 - POR
--- MICAH c5-v2 - POR
--- MICAH c5-v3 - POR
--- MICAH c5-v4 - POR
--- MICAH c5-v5 - POR
--- MICAH c5-v6 - POR
--- MICAH c5-v7 - POR
--- MICAH c5-v8 - POR
--- MICAH c5-v9 - POR
--- MICAH c5-v10 - POR
--- MICAH c5-v11 - POR
--- MICAH c5-v12 - POR
--- MICAH c5-v13 - POR
--- MICAH c5-v14 - POR
--- MICAH c5-v15 - POR
--- MICAH c6-v1 - POR
--- MICAH c6-v2 - POR
--- MICAH c6-v3 - POR
--- MICAH c6-v4 - POR
--- MICAH c6-v5 - POR
--- MICAH c6-v6 - POR
--- MICAH c6-v7 - POR
--- MICAH c6-v8 - POR
--- MICAH c6-v9 - POR
--- MICAH c6-v10 - POR
--- MICAH c6-v11 - POR
--- MICAH c6-v12 - POR
--- MICAH c6-v13 - POR
--- MICAH c6-v14 - POR
--- MICAH c6-v15 - POR
--- MICAH c6-v16 - POR
--- MICAH c7-v1 - POR
--- MICAH c7-v2 - POR
--- MICAH c7-v3 - POR
--- MICAH c7-v4 - POR
--- MICAH c7-v5 - POR
--- MICAH c7-v6 - POR
--- MICAH c7-v7 - POR
--- MICAH c7-v8 - POR
--- MICAH c7-v9 - POR
--- MICAH c7-v10 - POR
--- MICAH c7-v11 - POR
--- MICAH c7-v12 - POR
--- MICAH c7-v13 - POR
--- MICAH c7-v14 - POR
--- MICAH c7-v15 - POR
--- MICAH c7-v16 - POR
--- MICAH c7-v17 - POR
--- MICAH c7-v18 - POR
--- MICAH c7-v19 - POR
--- MICAH c7-v20 - POR
+-- c1-v1: Palavra–de Yahweh que veio a Mikhah o–Morashtita nos–dias–de Yotam Achaz Yechizkiyahu reis–de Yehudah que viu sobre Shomeron e–Yerushalayim
+-- c1-v2: Ouvi povos todos–eles presta–atenção terra e–sua–plenitude e–seja Adonai Yahweh contra–vós por–testemunha Adonai de–templo–de sua–santidade
+-- c1-v3: Pois eis Yahweh saindo de–seu–lugar e–descerá e–pisará sobre [lugares–altos–de] (lugares–altos–de) terra
+-- c1-v4: E–derreterão os–montes debaixo–dele e–os–vales fenderão como–cera diante–de o–fogo como–águas derramadas em–descida
+-- c1-v5: Por–transgressão–de Ya'akov todo isto e–por–pecados–de casa–de Yisra'el Quem transgressão–de Ya'akov Não Shomeron e–quem lugares–altos–de Yehudah Não Yerushalayim
+-- c1-v6: E–farei Shomeron monte–de–ruínas–de o–campo plantações–de vinha e–derramarei no–vale suas–pedras e–seus–fundamentos descobrirei
+-- c1-v7: E–todos seus–ídolos serão–despedaçados e–todos seus–presentes–de–prostituta serão–queimados no–fogo e–todas suas–imagens farei desolação pois de–presente–de–prostituta prostituta ajuntou e–até presente–de–prostituta prostituta voltarão
+-- c1-v8: Sobre isto lamentarei e–uivarei andarei [despojado] (despojado) e–nu farei lamentação como–chacais e–luto como–filhas–de avestruz
+-- c1-v9: Pois incurável suas–feridas pois veio até Yehudah tocou até porta–de meu–povo até Yerushalayim
+-- c1-v10: Em–Gat não conteis em–chorar não choreis Em–Beit–Le'afrah pó [rolei–me] (rola–te)
+-- c1-v11: Passa a–vós habitante–de Shafir nua vergonha não saiu habitante–de Tsa'anan lamentação–de Beit–Ha'etsel tomará de–vós seu–lugar
+-- c1-v12: Pois está–doente para–bem habitante–de Marot pois desceu mal de–com Yahweh a–porta–de Yerushalayim
+-- c1-v13: Atrela a–carruagem ao–corcel habitante–de Lakhish princípio–de pecado ela para–filha–de Tsiyon pois em–ti foram–achadas transgressões–de Yisra'el
+-- c1-v14: Portanto darás presentes–de–despedida sobre Moreshet–Gat casas–de Akhziv para–engano para–reis–de Yisra'el
+-- c1-v15: Ainda o–herdeiro trarei a–ti habitante–de Mareshah até 'Adullam virá glória–de Yisra'el
+-- c1-v16: Faze–calva e–corta sobre filhos–de teus–deleites alarga tua–calvície como–águia pois foram–cativos de–ti §
+-- c2-v1: Ai dos–que–planejam iniquidade e–praticantes–de mal sobre suas–camas na–luz–de a–manhã fazem–no pois está no–poder–de sua–mão
+-- c2-v2: E–cobiçam campos e–roubam e–casas e–tomam e–oprimem homem e–sua–casa e–varão e–sua–herança ¶
+-- c2-v3: Portanto assim diz Yahweh Eis–me planejando contra a–família esta mal de–que não removereis dali vossos–pescoços e–não andareis altivamente pois tempo mau ele
+-- c2-v4: No–dia aquele levantará contra–vós provérbio e–lamentará lamentação aconteceu diz saqueado somos–saqueados porção–de meu–povo troca Como remove de–mim para–rebelde nossos–campos reparte
+-- c2-v5: Portanto não haverá para–ti quem–lance cordão por–sorte na–congregação–de Yahweh
+-- c2-v6: Não profetizeis profetizam não profetizem a–estes não afastará vergonhas
+-- c2-v7: O–que–diz casa–de Ya'akov Encurtou–se espírito–de Yahweh Se estas suas–obras Não minhas–palavras fazem–bem com o–reto que–anda
+-- c2-v8: E–ontem meu–povo como–inimigo levanta–se de–diante–de manto glória despis dos–que–passam confiantes que–voltam–de guerra
+-- c2-v9: Mulheres–de meu–povo expulsais de–casa–de seus–deleites de–sobre seus–filhos tirais minha–glória para–sempre
+-- c2-v10: Levantai–vos e–ide pois não esta o–descanso por–causa–de impureza destruirá e–destruição severa
+-- c2-v11: Se homem andando–em vento e–falsidade mentisse Profetizarei a–ti para–o–vinho e–para–bebida–forte e–ele–seria profeta–de o–povo este
+-- c2-v12: Ajuntando ajuntarei Ya'akov todo–tu reunindo reunirei remanescente–de Yisra'el juntos porei–o como–ovelhas–de Botsrah como–rebanho no–meio–de seu–pasto farão–tumulto de–homem
+-- c2-v13: Subiu o–que–rompe diante–deles romperam e–passaram porta e–saíram por–ela e–passou seu–rei diante–deles e–Yahweh na–cabeça–deles ¶
+-- c3-v1: E–disse Ouvi peço cabeças–de Ya'akov e–governantes–de casa–de Yisra'el Não a–vós saber (a) o–justiça
+-- c3-v2: Aborrecedores–de bem e–amantes–de [mal] (mal) arrancadores–de sua–pele de–sobre–eles e–sua–carne de–sobre seus–ossos
+-- c3-v3: E–que comeram carne–de meu–povo e–sua–pele de–sobre–eles arrancaram e–(a) seus–ossos quebraram e–espalharam como na–panela e–como–carne no–meio–de caldeira
+-- c3-v4: Então clamarão a Yahweh e–não responderá (a)–eles e–esconderá sua–face deles no–tempo aquele como fizeram–mal suas–obras ¶
+-- c3-v5: Assim diz Yahweh sobre os–profetas os–que–fazem–errar (a) meu–povo os–que–mordem com–seus–dentes e–clamam paz e–que não dá sobre sua–boca e–consagram contra–ele guerra
+-- c3-v6: Portanto noite a–vós de–visão e–escuridão a–vós de–adivinhação e–entrará o–sol sobre os–profetas e–escurecerá sobre–eles o–dia
+-- c3-v7: E–envergonhar–se–ão os–videntes e–confundidos–ficarão os–adivinhadores e–cobrirão sobre seus–lábios todos–eles pois não–há resposta–de Elohim
+-- c3-v8: Mas eu estou–cheio força (a) espírito–de Yahweh e–justiça e–poder para–declarar a–Ya'akov sua–transgressão e–a–Yisra'el seu–pecado §
+-- c3-v9: Ouvi peço isto cabeças–de casa–de Ya'akov e–governantes–de casa–de Yisra'el os–que–abominam justiça e–(a) toda a–retidão torcem
+-- c3-v10: Edificando Tsiyon com–sangues e–Yerushalayim com–iniquidade
+-- c3-v11: Suas–cabeças por–suborno julgam e–seus–sacerdotes por–preço ensinam e–seus–profetas por–prata adivinham e–sobre Yahweh apoiam–se dizendo Não Yahweh no–meio–de–nós não virá sobre–nós mal
+-- c3-v12: Portanto por–causa–de–vós Tsiyon campo será–arado e–Yerushalayim montões–de–ruínas será e–monte–de a–casa para–lugares–altos–de bosque ¶
+-- c4-v1: E–acontecerá no–fim–de os–dias será monte–de casa–de Yahweh estabelecido no–topo–de os–montes e–será–exaltado ele acima–dos–outeiros e–fluirão a–ele povos
+-- c4-v2: E–andarão nações muitas e–dirão Vinde e–subamos ao monte–de Yahweh e–à casa–de Elohim–de Ya'akov e–ensinar–nos–á de–seus–caminhos e–andaremos em–suas–veredas Pois de–Tsiyon sairá lei e–palavra–de Yahweh de–Yerushalayim
+-- c4-v3: E–julgará entre povos muitos e–decidirá para–nações poderosas até longe e–baterão suas–espadas em–arados e–suas–lanças em–podadeiras não levantará nação contra nação espada e–não aprenderão mais guerra
+-- c4-v4: E–sentar–se–ão homem debaixo–de sua–videira e–debaixo–de sua–figueira e–não–há quem–amedronte pois boca–de Yahweh–dos Exércitos falou
+-- c4-v5: Pois todos os–povos andarão homem no–nome–de seu–deus e–nós andaremos no–nome–de Yahweh nosso–Elohim para–sempre e–eternamente ¶
+-- c4-v6: No–dia aquele declaração–de Yahweh ajuntarei a–coxa e–a–afastada reunirei e–a–que afligir
+-- c4-v7: E–farei (a) a–coxa para–remanescente e–a–que–foi–lançada–longe para–nação poderosa e–reinará Yahweh sobre–eles no–monte–de Tsiyon desde–agora e–até eternidade ¶
+-- c4-v8: E–tu Migdal–'Eder outeiro–de filha–de Tsiyon a–ti virá e–chegará o–domínio o–primeiro reino para–filha–de Yerushalayim
+-- c4-v9: Agora por–que gritas grito Rei não–há em–ti Se teu–conselheiro pereceu pois apoderou–se–de–ti dor como–a–que–dá–à–luz
+-- c4-v10: Sofre–dores e–dá–à–luz filha–de Tsiyon como–a–que–dá–à–luz pois agora sairás da–cidade e–habitarás no–campo e–virás até Bavel lá serás–resgatada lá resgatar–te–á Yahweh da–palma–de teus–inimigos
+-- c4-v11: E–agora ajuntaram–se contra–ti nações muitas as–que–dizem Seja–profanada e–vejam em–Tsiyon nossos–olhos
+-- c4-v12: E–eles não conhecem pensamentos–de Yahweh e–não entendem seu–conselho pois ajuntou–os como–feixe eira
+-- c4-v13: Levanta–te e–debulha filha–de Tsiyon pois teu–chifre farei ferro e–teus–cascos farei bronze e–despedaçarás povos muitos e–consagrarás a–Yahweh seu–ganho e–sua–riqueza ao–Senhor–de toda a–terra
+-- c5-v1: Agora ajunta–te–em–tropas filha–de tropas cerco pôs contra–nós com–vara ferirão sobre a–face (a) juiz–de Yisra'el §
+-- c5-v2: E–tu Beit–Lechem Efratah pequena para–estar entre–milhares–de Yehudah de–ti para–mim sairá para–ser governante em–Yisra'el e–suas–origens desde–antigamente desde–dias–de eternidade
+-- c5-v3: Portanto entregar–os–á até tempo que–dá–à–luz der–à–luz e–resto–de seus–irmãos voltarão sobre filhos–de Yisra'el
+-- c5-v4: E–estará e–apascentará na–força–de Yahweh na–majestade–de nome–de Yahweh seu–Elohim e–habitarão pois agora será–grande até confins–de terra
+-- c5-v5: E–será este paz Ashur quando vier em–nossa–terra e–quando pisar em–nossos–palácios e–levantaremos contra–ele sete pastores e–oito príncipes–de homem
+-- c5-v6: E–apascentarão (a) terra–de Ashur com–espada e–(a) terra–de Nimrod em–suas–entradas e–livrará de–Ashur quando vier em–nossa–terra e–quando pisar em–nosso–território §
+-- c5-v7: E–será remanescente–de Ya'akov no–meio–de povos muitos como–orvalho de–com Yahweh como–chuvas sobre erva que não espera por–homem e–não aguarda por–filhos–de homem
+-- c5-v8: E–será remanescente–de Ya'akov entre–as–nações no–meio–de povos muitos como–leão entre–animais–de bosque como–leão–jovem entre–rebanhos–de ovelhas que se passar e–pisará e–despedaçará e–não–há quem–livre
+-- c5-v9: Seja–alta tua–mão sobre teus–adversários e–todos teus–inimigos serão–cortados ¶
+-- c5-v10: E–acontecerá no–dia aquele declaração–de Yahweh e–cortarei teus–cavalos do–meio–de–ti e–destruirei tuas–carruagens
+-- c5-v11: E–cortarei cidades–de tua–terra e–derrubarei todas tuas–fortalezas
+-- c5-v12: E–cortarei feitiçarias de–tua–mão e–adivinhadores não haverá para–ti
+-- c5-v13: E–cortarei teus–ídolos e–tuas–colunas do–meio–de–ti e–não prostrar–te–ás mais a–obra–de tuas–mãos
+-- c5-v14: E–arrancarei teus–postes–sagrados do–meio–de–ti e–destruirei tuas–cidades
+-- c5-v15: E–farei em–ira e–em–furia vingança (a) as–nações que não ouviram §
+-- c6-v1: Ouvi peço (a) o–que Yahweh diz Levanta–te contende com os–montes e–ouçam os–outeiros tua–voz
+-- c6-v2: Ouvi montes (a) contenda–de Yahweh e–os–perenes fundamentos–de terra pois contenda a–Yahweh com seu–povo e–com Yisra'el disputará
+-- c6-v3: Meu–povo que fiz a–ti e–que cansei–te responde contra–mim
+-- c6-v4: Pois fiz–te–subir da–terra–de Mitsrayim e–da–casa–de servidão resgatei–te e–enviei diante–de–ti (a) Mosheh Aharon e–Miryam
+-- c6-v5: Meu–povo lembra peço que aconselhou Balak rei–de Mo'av e–que respondeu (a)–ele Bil'am filho–de Be'or de Hashittim até Hagilgal para conhecer justiças–de Yahweh
+-- c6-v6: Com–que virei–diante–de Yahweh curvar–me–ei ao–Elohim–de altura Virei–diante–dele com–holocaustos com–bezerros filhos–de um–ano
+-- c6-v7: Aceitará Yahweh milhares–de carneiros miríades–de rios–de azeite Darei meu–primogênito minha–transgressão fruto–de meu–ventre pecado–de minha–alma
+-- c6-v8: Declarou a–ti homem que bom e–que Yahweh requer de–ti senão fazer justiça e–amar misericórdia e–humildemente andar com teu–Elohim ¶
+-- c6-v9: Voz–de Yahweh à–cidade clama e–sabedoria verá teu–nome Ouvi vara e–quem designou–a
+-- c6-v10: Ainda há casa–de malvado tesouros–de maldade e–efa escassa maldita
+-- c6-v11: Serei–puro com–balanças–de maldade e–com–bolsa–de pedras–de engano
+-- c6-v12: Que seus–ricos encheram–se–de violência e–seus–habitantes falaram mentira e–sua–língua engano em–sua–boca
+-- c6-v13: E–também eu adoeci ferindo–te desolando por–causa–de teus–pecados
+-- c6-v14: Tu comerás e–não te–fartarás e–teu–vazio em–teu–interior e–removerás e–não salvarás e–que salvares à–espada entregarei
+-- c6-v15: Tu semearás e–não colherás tu pisarás azeitona e–não te–ungirás azeite e–mosto e–não beberás vinho
+-- c6-v16: E–foram–guardados estatutos–de 'Omri e–toda obra–de casa–de Ach'av e–andastes em–seus–conselhos para–que eu–entregue (a)–ti para–desolação e–seus–habitantes para–assobio e–oprobrio–de meu–povo levareis ¶
+-- c7-v1: Ai de–mim pois tornei–me como–colheitadores–de verão como–rebuscos–de vindima não–há cacho para–comer figo–primorócio deseja minha–alma
+-- c7-v2: Pereceu piedoso da a–terra e–reto entre–os–homens não–há todos–eles para–sangue armam–emboscada homem (a) seu–irmão caçam rede
+-- c7-v3: Sobre o–mal mãos para–fazer–bem o–príncipe pede e–o–juiz por–recompensa e–o–grande fala desejo–de sua–alma ele e–entrelaçam–na
+-- c7-v4: O–melhor–deles como–espinho o–reto que–sebe dia–de teus–vigias tua–visitação veio agora será sua–perplexidade
+-- c7-v5: Não confies em–companheiro não confíeis em–íntimo da–que–deita–em teu–colo guarda portas–de tua–boca
+-- c7-v6: Pois filho trata–vilmente pai filha levanta–se contra–sua–mãe nora contra–sua–sogra inimigos–de homem homens–de sua–casa
+-- c7-v7: E–eu em–Yahweh olharei esperarei no–Elohim–de minha–salvação ouvir–me–á meu–Elohim
+-- c7-v8: Não te–alegres minha–inimiga sobre–mim quando caí levantei–me quando sentei na–escuridão Yahweh luz para–mim §
+-- c7-v9: Indignação–de Yahweh suportarei pois pequei contra–ele até que defenda minha–causa e–faça meu–justiça far–me–á–sair à–luz verei sua–justiça
+-- c7-v10: E–verá minha–inimiga e–cobri–la–á vergonha a–que–diz a–mim Onde Yahweh teu–Elohim meus–olhos verão nela agora será para–atropelo como–lama–de ruas
+-- c7-v11: Dia para–edificar teus–muros dia aquele será–afastado decreto
+-- c7-v12: Dia ele e–até–ti virá desde Ashur e–cidades–de fortaleza e–desde fortaleza e–até o–rio e–mar a–mar e–monte o–monte
+-- c7-v13: E–será a–terra para–desolação por–causa–de seus–habitantes por–fruto–de suas–obras §
+-- c7-v14: Apascenta teu–povo com–tua–vara ovelhas–de tua–herança que–habitam sozinhos bosque no–meio–de Karmel pastem Bashan e–Gil'ad como–dias–de antigamente
+-- c7-v15: Como–dias–de tua–saída da–terra–de Mitsrayim farei–ver–lhe maravilhas
+-- c7-v16: Verão nações e–envergonhar–se–ão de–toda sua–valentia porão mão sobre boca seus–ouvidos ensurderecerão
+-- c7-v17: Lamerão pó como–serpente como–rastejantes–de terra tremerão de–suas–fortalezas a Yahweh nosso–Elohim temerão e–temerão de–ti
+-- c7-v18: Quem Deus como–tu que–carrega iniquidade e–passa–por–sobre sobre transgressão para–remanescente–de sua–herança não segura para–sempre sua–ira pois deleita–se–em misericórdia ele
+-- c7-v19: Tornará ter–á–compaixão–de–nós subjugará nossas–iniquidades e–lançarás nas–profundezas–de mar todos seus–pecados
+-- c7-v20: Darás verdade a–Ya'akov misericórdia a–Avraham que juraste a–nossos–pais desde–dias–de antigamente
 
 BEGIN;
 -- 3300100101: דְּבַר־ (H1697) → "Palavra–de" [opus-4.5-chirho]

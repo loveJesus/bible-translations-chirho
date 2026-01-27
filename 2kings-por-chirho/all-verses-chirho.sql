@@ -3,727 +3,727 @@
 -- — John 3:16
 
 -- 2KINGS - POR Combined
--- Generated: 2026-01-27T21:46:24Z
+-- Generated: 2026-01-27T22:19:26Z
 
--- 2KINGS c1-v1 - POR
--- 2KINGS c1-v2 - POR
--- 2KINGS c1-v3 - POR
--- 2KINGS c1-v4 - POR
--- 2KINGS c1-v5 - POR
--- 2KINGS c1-v6 - POR
--- 2KINGS c1-v7 - POR
--- 2KINGS c1-v8 - POR
--- 2KINGS c1-v9 - POR
--- 2KINGS c1-v10 - POR
--- 2KINGS c1-v11 - POR
--- 2KINGS c1-v12 - POR
--- 2KINGS c1-v13 - POR
--- 2KINGS c1-v14 - POR
--- 2KINGS c1-v15 - POR
--- 2KINGS c1-v16 - POR
--- 2KINGS c1-v17 - POR
--- 2KINGS c1-v18 - POR
--- 2KINGS c2-v1 - POR
--- 2KINGS c2-v2 - POR
--- 2KINGS c2-v3 - POR
--- 2KINGS c2-v4 - POR
--- 2KINGS c2-v5 - POR
--- 2KINGS c2-v6 - POR
--- 2KINGS c2-v7 - POR
--- 2KINGS c2-v8 - POR
--- 2KINGS c2-v9 - POR
--- 2KINGS c2-v10 - POR
--- 2KINGS c2-v11 - POR
--- 2KINGS c2-v12 - POR
--- 2KINGS c2-v13 - POR
--- 2KINGS c2-v14 - POR
--- 2KINGS c2-v15 - POR
--- 2KINGS c2-v16 - POR
--- 2KINGS c2-v17 - POR
--- 2KINGS c2-v18 - POR
--- 2KINGS c2-v19 - POR
--- 2KINGS c2-v20 - POR
--- 2KINGS c2-v21 - POR
--- 2KINGS c2-v22 - POR
--- 2KINGS c2-v23 - POR
--- 2KINGS c2-v24 - POR
--- 2KINGS c2-v25 - POR
--- 2KINGS c3-v1 - POR
--- 2KINGS c3-v2 - POR
--- 2KINGS c3-v3 - POR
--- 2KINGS c3-v4 - POR
--- 2KINGS c3-v5 - POR
--- 2KINGS c3-v6 - POR
--- 2KINGS c3-v7 - POR
--- 2KINGS c3-v8 - POR
--- 2KINGS c3-v9 - POR
--- 2KINGS c3-v10 - POR
--- 2KINGS c3-v11 - POR
--- 2KINGS c3-v12 - POR
--- 2KINGS c3-v13 - POR
--- 2KINGS c3-v14 - POR
--- 2KINGS c3-v15 - POR
--- 2KINGS c3-v16 - POR
--- 2KINGS c3-v17 - POR
--- 2KINGS c3-v18 - POR
--- 2KINGS c3-v19 - POR
--- 2KINGS c3-v20 - POR
--- 2KINGS c3-v21 - POR
--- 2KINGS c3-v22 - POR
--- 2KINGS c3-v23 - POR
--- 2KINGS c3-v24 - POR
--- 2KINGS c3-v25 - POR
--- 2KINGS c3-v26 - POR
--- 2KINGS c3-v27 - POR
--- 2KINGS c4-v1 - POR
--- 2KINGS c4-v2 - POR
--- 2KINGS c4-v3 - POR
--- 2KINGS c4-v4 - POR
--- 2KINGS c4-v5 - POR
--- 2KINGS c4-v6 - POR
--- 2KINGS c4-v7 - POR
--- 2KINGS c4-v8 - POR
--- 2KINGS c4-v9 - POR
--- 2KINGS c4-v10 - POR
--- 2KINGS c4-v11 - POR
--- 2KINGS c4-v12 - POR
--- 2KINGS c4-v13 - POR
--- 2KINGS c4-v14 - POR
--- 2KINGS c4-v15 - POR
--- 2KINGS c4-v16 - POR
--- 2KINGS c4-v17 - POR
--- 2KINGS c4-v18 - POR
--- 2KINGS c4-v19 - POR
--- 2KINGS c4-v20 - POR
--- 2KINGS c4-v21 - POR
--- 2KINGS c4-v22 - POR
--- 2KINGS c4-v23 - POR
--- 2KINGS c4-v24 - POR
--- 2KINGS c4-v25 - POR
--- 2KINGS c4-v26 - POR
--- 2KINGS c4-v27 - POR
--- 2KINGS c4-v28 - POR
--- 2KINGS c4-v29 - POR
--- 2KINGS c4-v30 - POR
--- 2KINGS c4-v31 - POR
--- 2KINGS c4-v32 - POR
--- 2KINGS c4-v33 - POR
--- 2KINGS c4-v34 - POR
--- 2KINGS c4-v35 - POR
--- 2KINGS c4-v36 - POR
--- 2KINGS c4-v37 - POR
--- 2KINGS c4-v38 - POR
--- 2KINGS c4-v39 - POR
--- 2KINGS c4-v40 - POR
--- 2KINGS c4-v41 - POR
--- 2KINGS c4-v42 - POR
--- 2KINGS c4-v43 - POR
--- 2KINGS c4-v44 - POR
--- 2KINGS c5-v1 - POR
--- 2KINGS c5-v2 - POR
--- 2KINGS c5-v3 - POR
--- 2KINGS c5-v4 - POR
--- 2KINGS c5-v5 - POR
--- 2KINGS c5-v6 - POR
--- 2KINGS c5-v7 - POR
--- 2KINGS c5-v8 - POR
--- 2KINGS c5-v9 - POR
--- 2KINGS c5-v10 - POR
--- 2KINGS c5-v11 - POR
--- 2KINGS c5-v12 - POR
--- 2KINGS c5-v13 - POR
--- 2KINGS c5-v14 - POR
--- 2KINGS c5-v15 - POR
--- 2KINGS c5-v16 - POR
--- 2KINGS c5-v17 - POR
--- 2KINGS c5-v18 - POR
--- 2KINGS c5-v19 - POR
--- 2KINGS c5-v20 - POR
--- 2KINGS c5-v21 - POR
--- 2KINGS c5-v22 - POR
--- 2KINGS c5-v23 - POR
--- 2KINGS c5-v24 - POR
--- 2KINGS c5-v25 - POR
--- 2KINGS c5-v26 - POR
--- 2KINGS c5-v27 - POR
--- 2KINGS c6-v1 - POR
--- 2KINGS c6-v2 - POR
--- 2KINGS c6-v3 - POR
--- 2KINGS c6-v4 - POR
--- 2KINGS c6-v5 - POR
--- 2KINGS c6-v6 - POR
--- 2KINGS c6-v7 - POR
--- 2KINGS c6-v8 - POR
--- 2KINGS c6-v9 - POR
--- 2KINGS c6-v10 - POR
--- 2KINGS c6-v11 - POR
--- 2KINGS c6-v12 - POR
--- 2KINGS c6-v13 - POR
--- 2KINGS c6-v14 - POR
--- 2KINGS c6-v15 - POR
--- 2KINGS c6-v16 - POR
--- 2KINGS c6-v17 - POR
--- 2KINGS c6-v18 - POR
--- 2KINGS c6-v19 - POR
--- 2KINGS c6-v20 - POR
--- 2KINGS c6-v21 - POR
--- 2KINGS c6-v22 - POR
--- 2KINGS c6-v23 - POR
--- 2KINGS c6-v24 - POR
--- 2KINGS c6-v25 - POR
--- 2KINGS c6-v26 - POR
--- 2KINGS c6-v27 - POR
--- 2KINGS c6-v28 - POR
--- 2KINGS c6-v29 - POR
--- 2KINGS c6-v30 - POR
--- 2KINGS c6-v31 - POR
--- 2KINGS c6-v32 - POR
--- 2KINGS c6-v33 - POR
--- 2KINGS c7-v1 - POR
--- 2KINGS c7-v2 - POR
--- 2KINGS c7-v3 - POR
--- 2KINGS c7-v4 - POR
--- 2KINGS c7-v5 - POR
--- 2KINGS c7-v6 - POR
--- 2KINGS c7-v7 - POR
--- 2KINGS c7-v8 - POR
--- 2KINGS c7-v9 - POR
--- 2KINGS c7-v10 - POR
--- 2KINGS c7-v11 - POR
--- 2KINGS c7-v12 - POR
--- 2KINGS c7-v13 - POR
--- 2KINGS c7-v14 - POR
--- 2KINGS c7-v15 - POR
--- 2KINGS c7-v16 - POR
--- 2KINGS c7-v17 - POR
--- 2KINGS c7-v18 - POR
--- 2KINGS c7-v19 - POR
--- 2KINGS c7-v20 - POR
--- 2KINGS c8-v1 - POR
--- 2KINGS c8-v2 - POR
--- 2KINGS c8-v3 - POR
--- 2KINGS c8-v4 - POR
--- 2KINGS c8-v5 - POR
--- 2KINGS c8-v6 - POR
--- 2KINGS c8-v7 - POR
--- 2KINGS c8-v8 - POR
--- 2KINGS c8-v9 - POR
--- 2KINGS c8-v10 - POR
--- 2KINGS c8-v11 - POR
--- 2KINGS c8-v12 - POR
--- 2KINGS c8-v13 - POR
--- 2KINGS c8-v14 - POR
--- 2KINGS c8-v15 - POR
--- 2KINGS c8-v16 - POR
--- 2KINGS c8-v17 - POR
--- 2KINGS c8-v18 - POR
--- 2KINGS c8-v19 - POR
--- 2KINGS c8-v20 - POR
--- 2KINGS c8-v21 - POR
--- 2KINGS c8-v22 - POR
--- 2KINGS c8-v23 - POR
--- 2KINGS c8-v24 - POR
--- 2KINGS c8-v25 - POR
--- 2KINGS c8-v26 - POR
--- 2KINGS c8-v27 - POR
--- 2KINGS c8-v28 - POR
--- 2KINGS c8-v29 - POR
--- 2KINGS c9-v1 - POR
--- 2KINGS c9-v2 - POR
--- 2KINGS c9-v3 - POR
--- 2KINGS c9-v4 - POR
--- 2KINGS c9-v5 - POR
--- 2KINGS c9-v6 - POR
--- 2KINGS c9-v7 - POR
--- 2KINGS c9-v8 - POR
--- 2KINGS c9-v9 - POR
--- 2KINGS c9-v10 - POR
--- 2KINGS c9-v11 - POR
--- 2KINGS c9-v12 - POR
--- 2KINGS c9-v13 - POR
--- 2KINGS c9-v14 - POR
--- 2KINGS c9-v15 - POR
--- 2KINGS c9-v16 - POR
--- 2KINGS c9-v17 - POR
--- 2KINGS c9-v18 - POR
--- 2KINGS c9-v19 - POR
--- 2KINGS c9-v20 - POR
--- 2KINGS c9-v21 - POR
--- 2KINGS c9-v22 - POR
--- 2KINGS c9-v23 - POR
--- 2KINGS c9-v24 - POR
--- 2KINGS c9-v25 - POR
--- 2KINGS c9-v26 - POR
--- 2KINGS c9-v27 - POR
--- 2KINGS c9-v28 - POR
--- 2KINGS c9-v29 - POR
--- 2KINGS c9-v30 - POR
--- 2KINGS c9-v31 - POR
--- 2KINGS c9-v32 - POR
--- 2KINGS c9-v33 - POR
--- 2KINGS c9-v34 - POR
--- 2KINGS c9-v35 - POR
--- 2KINGS c9-v36 - POR
--- 2KINGS c9-v37 - POR
--- 2KINGS c10-v1 - POR
--- 2KINGS c10-v2 - POR
--- 2KINGS c10-v3 - POR
--- 2KINGS c10-v4 - POR
--- 2KINGS c10-v5 - POR
--- 2KINGS c10-v6 - POR
--- 2KINGS c10-v7 - POR
--- 2KINGS c10-v8 - POR
--- 2KINGS c10-v9 - POR
--- 2KINGS c10-v10 - POR
--- 2KINGS c10-v11 - POR
--- 2KINGS c10-v12 - POR
--- 2KINGS c10-v13 - POR
--- 2KINGS c10-v14 - POR
--- 2KINGS c10-v15 - POR
--- 2KINGS c10-v16 - POR
--- 2KINGS c10-v17 - POR
--- 2KINGS c10-v18 - POR
--- 2KINGS c10-v19 - POR
--- 2KINGS c10-v20 - POR
--- 2KINGS c10-v21 - POR
--- 2KINGS c10-v22 - POR
--- 2KINGS c10-v23 - POR
--- 2KINGS c10-v24 - POR
--- 2KINGS c10-v25 - POR
--- 2KINGS c10-v26 - POR
--- 2KINGS c10-v27 - POR
--- 2KINGS c10-v28 - POR
--- 2KINGS c10-v29 - POR
--- 2KINGS c10-v30 - POR
--- 2KINGS c10-v31 - POR
--- 2KINGS c10-v32 - POR
--- 2KINGS c10-v33 - POR
--- 2KINGS c10-v34 - POR
--- 2KINGS c10-v35 - POR
--- 2KINGS c10-v36 - POR
--- 2KINGS c11-v1 - POR
--- 2KINGS c11-v2 - POR
--- 2KINGS c11-v3 - POR
--- 2KINGS c11-v4 - POR
--- 2KINGS c11-v5 - POR
--- 2KINGS c11-v6 - POR
--- 2KINGS c11-v7 - POR
--- 2KINGS c11-v8 - POR
--- 2KINGS c11-v9 - POR
--- 2KINGS c11-v10 - POR
--- 2KINGS c11-v11 - POR
--- 2KINGS c11-v12 - POR
--- 2KINGS c11-v13 - POR
--- 2KINGS c11-v14 - POR
--- 2KINGS c11-v15 - POR
--- 2KINGS c11-v16 - POR
--- 2KINGS c11-v17 - POR
--- 2KINGS c11-v18 - POR
--- 2KINGS c11-v19 - POR
--- 2KINGS c11-v20 - POR
--- 2KINGS c11-v21 - POR
--- 2KINGS c12-v1 - POR
--- 2KINGS c12-v2 - POR
--- 2KINGS c12-v3 - POR
--- 2KINGS c12-v4 - POR
--- 2KINGS c12-v5 - POR
--- 2KINGS c12-v6 - POR
--- 2KINGS c12-v7 - POR
--- 2KINGS c12-v8 - POR
--- 2KINGS c12-v9 - POR
--- 2KINGS c12-v10 - POR
--- 2KINGS c12-v11 - POR
--- 2KINGS c12-v12 - POR
--- 2KINGS c12-v13 - POR
--- 2KINGS c12-v14 - POR
--- 2KINGS c12-v15 - POR
--- 2KINGS c12-v16 - POR
--- 2KINGS c12-v17 - POR
--- 2KINGS c12-v18 - POR
--- 2KINGS c12-v19 - POR
--- 2KINGS c12-v20 - POR
--- 2KINGS c12-v21 - POR
--- 2KINGS c13-v1 - POR
--- 2KINGS c13-v2 - POR
--- 2KINGS c13-v3 - POR
--- 2KINGS c13-v4 - POR
--- 2KINGS c13-v5 - POR
--- 2KINGS c13-v6 - POR
--- 2KINGS c13-v7 - POR
--- 2KINGS c13-v8 - POR
--- 2KINGS c13-v9 - POR
--- 2KINGS c13-v10 - POR
--- 2KINGS c13-v11 - POR
--- 2KINGS c13-v12 - POR
--- 2KINGS c13-v13 - POR
--- 2KINGS c13-v14 - POR
--- 2KINGS c13-v15 - POR
--- 2KINGS c13-v16 - POR
--- 2KINGS c13-v17 - POR
--- 2KINGS c13-v18 - POR
--- 2KINGS c13-v19 - POR
--- 2KINGS c13-v20 - POR
--- 2KINGS c13-v21 - POR
--- 2KINGS c13-v22 - POR
--- 2KINGS c13-v23 - POR
--- 2KINGS c13-v24 - POR
--- 2KINGS c13-v25 - POR
--- 2KINGS c14-v1 - POR
--- 2KINGS c14-v2 - POR
--- 2KINGS c14-v3 - POR
--- 2KINGS c14-v4 - POR
--- 2KINGS c14-v5 - POR
--- 2KINGS c14-v6 - POR
--- 2KINGS c14-v7 - POR
--- 2KINGS c14-v8 - POR
--- 2KINGS c14-v9 - POR
--- 2KINGS c14-v10 - POR
--- 2KINGS c14-v11 - POR
--- 2KINGS c14-v12 - POR
--- 2KINGS c14-v13 - POR
--- 2KINGS c14-v14 - POR
--- 2KINGS c14-v15 - POR
--- 2KINGS c14-v16 - POR
--- 2KINGS c14-v17 - POR
--- 2KINGS c14-v18 - POR
--- 2KINGS c14-v19 - POR
--- 2KINGS c14-v20 - POR
--- 2KINGS c14-v21 - POR
--- 2KINGS c14-v22 - POR
--- 2KINGS c14-v23 - POR
--- 2KINGS c14-v24 - POR
--- 2KINGS c14-v25 - POR
--- 2KINGS c14-v26 - POR
--- 2KINGS c14-v27 - POR
--- 2KINGS c14-v28 - POR
--- 2KINGS c14-v29 - POR
--- 2KINGS c15-v1 - POR
--- 2KINGS c15-v2 - POR
--- 2KINGS c15-v3 - POR
--- 2KINGS c15-v4 - POR
--- 2KINGS c15-v5 - POR
--- 2KINGS c15-v6 - POR
--- 2KINGS c15-v7 - POR
--- 2KINGS c15-v8 - POR
--- 2KINGS c15-v9 - POR
--- 2KINGS c15-v10 - POR
--- 2KINGS c15-v11 - POR
--- 2KINGS c15-v12 - POR
--- 2KINGS c15-v13 - POR
--- 2KINGS c15-v14 - POR
--- 2KINGS c15-v15 - POR
--- 2KINGS c15-v16 - POR
--- 2KINGS c15-v17 - POR
--- 2KINGS c15-v18 - POR
--- 2KINGS c15-v19 - POR
--- 2KINGS c15-v20 - POR
--- 2KINGS c15-v21 - POR
--- 2KINGS c15-v22 - POR
--- 2KINGS c15-v23 - POR
--- 2KINGS c15-v24 - POR
--- 2KINGS c15-v25 - POR
--- 2KINGS c15-v26 - POR
--- 2KINGS c15-v27 - POR
--- 2KINGS c15-v28 - POR
--- 2KINGS c15-v29 - POR
--- 2KINGS c15-v30 - POR
--- 2KINGS c15-v31 - POR
--- 2KINGS c15-v32 - POR
--- 2KINGS c15-v33 - POR
--- 2KINGS c15-v34 - POR
--- 2KINGS c15-v35 - POR
--- 2KINGS c15-v36 - POR
--- 2KINGS c15-v37 - POR
--- 2KINGS c15-v38 - POR
--- 2KINGS c16-v1 - POR
--- 2KINGS c16-v2 - POR
--- 2KINGS c16-v3 - POR
--- 2KINGS c16-v4 - POR
--- 2KINGS c16-v5 - POR
--- 2KINGS c16-v6 - POR
--- 2KINGS c16-v7 - POR
--- 2KINGS c16-v8 - POR
--- 2KINGS c16-v9 - POR
--- 2KINGS c16-v10 - POR
--- 2KINGS c16-v11 - POR
--- 2KINGS c16-v12 - POR
--- 2KINGS c16-v13 - POR
--- 2KINGS c16-v14 - POR
--- 2KINGS c16-v15 - POR
--- 2KINGS c16-v16 - POR
--- 2KINGS c16-v17 - POR
--- 2KINGS c16-v18 - POR
--- 2KINGS c16-v19 - POR
--- 2KINGS c16-v20 - POR
--- 2KINGS c17-v1 - POR
--- 2KINGS c17-v2 - POR
--- 2KINGS c17-v3 - POR
--- 2KINGS c17-v4 - POR
--- 2KINGS c17-v5 - POR
--- 2KINGS c17-v6 - POR
--- 2KINGS c17-v7 - POR
--- 2KINGS c17-v8 - POR
--- 2KINGS c17-v9 - POR
--- 2KINGS c17-v10 - POR
--- 2KINGS c17-v11 - POR
--- 2KINGS c17-v12 - POR
--- 2KINGS c17-v13 - POR
--- 2KINGS c17-v14 - POR
--- 2KINGS c17-v15 - POR
--- 2KINGS c17-v16 - POR
--- 2KINGS c17-v17 - POR
--- 2KINGS c17-v18 - POR
--- 2KINGS c17-v19 - POR
--- 2KINGS c17-v20 - POR
--- 2KINGS c17-v21 - POR
--- 2KINGS c17-v22 - POR
--- 2KINGS c17-v23 - POR
--- 2KINGS c17-v24 - POR
--- 2KINGS c17-v25 - POR
--- 2KINGS c17-v26 - POR
--- 2KINGS c17-v27 - POR
--- 2KINGS c17-v28 - POR
--- 2KINGS c17-v29 - POR
--- 2KINGS c17-v30 - POR
--- 2KINGS c17-v31 - POR
--- 2KINGS c17-v32 - POR
--- 2KINGS c17-v33 - POR
--- 2KINGS c17-v34 - POR
--- 2KINGS c17-v35 - POR
--- 2KINGS c17-v36 - POR
--- 2KINGS c17-v37 - POR
--- 2KINGS c17-v38 - POR
--- 2KINGS c17-v39 - POR
--- 2KINGS c17-v40 - POR
--- 2KINGS c17-v41 - POR
--- 2KINGS c18-v1 - POR
--- 2KINGS c18-v2 - POR
--- 2KINGS c18-v3 - POR
--- 2KINGS c18-v4 - POR
--- 2KINGS c18-v5 - POR
--- 2KINGS c18-v6 - POR
--- 2KINGS c18-v7 - POR
--- 2KINGS c18-v8 - POR
--- 2KINGS c18-v9 - POR
--- 2KINGS c18-v10 - POR
--- 2KINGS c18-v11 - POR
--- 2KINGS c18-v12 - POR
--- 2KINGS c18-v13 - POR
--- 2KINGS c18-v14 - POR
--- 2KINGS c18-v15 - POR
--- 2KINGS c18-v16 - POR
--- 2KINGS c18-v17 - POR
--- 2KINGS c18-v18 - POR
--- 2KINGS c18-v19 - POR
--- 2KINGS c18-v20 - POR
--- 2KINGS c18-v21 - POR
--- 2KINGS c18-v22 - POR
--- 2KINGS c18-v23 - POR
--- 2KINGS c18-v24 - POR
--- 2KINGS c18-v25 - POR
--- 2KINGS c18-v26 - POR
--- 2KINGS c18-v27 - POR
--- 2KINGS c18-v28 - POR
--- 2KINGS c18-v29 - POR
--- 2KINGS c18-v30 - POR
--- 2KINGS c18-v31 - POR
--- 2KINGS c18-v32 - POR
--- 2KINGS c18-v33 - POR
--- 2KINGS c18-v34 - POR
--- 2KINGS c18-v35 - POR
--- 2KINGS c18-v36 - POR
--- 2KINGS c18-v37 - POR
--- 2KINGS c19-v1 - POR
--- 2KINGS c19-v2 - POR
--- 2KINGS c19-v3 - POR
--- 2KINGS c19-v4 - POR
--- 2KINGS c19-v5 - POR
--- 2KINGS c19-v6 - POR
--- 2KINGS c19-v7 - POR
--- 2KINGS c19-v8 - POR
--- 2KINGS c19-v9 - POR
--- 2KINGS c19-v10 - POR
--- 2KINGS c19-v11 - POR
--- 2KINGS c19-v12 - POR
--- 2KINGS c19-v13 - POR
--- 2KINGS c19-v14 - POR
--- 2KINGS c19-v15 - POR
--- 2KINGS c19-v16 - POR
--- 2KINGS c19-v17 - POR
--- 2KINGS c19-v18 - POR
--- 2KINGS c19-v19 - POR
--- 2KINGS c19-v20 - POR
--- 2KINGS c19-v21 - POR
--- 2KINGS c19-v22 - POR
--- 2KINGS c19-v23 - POR
--- 2KINGS c19-v24 - POR
--- 2KINGS c19-v25 - POR
--- 2KINGS c19-v26 - POR
--- 2KINGS c19-v27 - POR
--- 2KINGS c19-v28 - POR
--- 2KINGS c19-v29 - POR
--- 2KINGS c19-v30 - POR
--- 2KINGS c19-v31 - POR
--- 2KINGS c19-v32 - POR
--- 2KINGS c19-v33 - POR
--- 2KINGS c19-v34 - POR
--- 2KINGS c19-v35 - POR
--- 2KINGS c19-v36 - POR
--- 2KINGS c19-v37 - POR
--- 2KINGS c20-v1 - POR
--- 2KINGS c20-v2 - POR
--- 2KINGS c20-v3 - POR
--- 2KINGS c20-v4 - POR
--- 2KINGS c20-v5 - POR
--- 2KINGS c20-v6 - POR
--- 2KINGS c20-v7 - POR
--- 2KINGS c20-v8 - POR
--- 2KINGS c20-v9 - POR
--- 2KINGS c20-v10 - POR
--- 2KINGS c20-v11 - POR
--- 2KINGS c20-v12 - POR
--- 2KINGS c20-v13 - POR
--- 2KINGS c20-v14 - POR
--- 2KINGS c20-v15 - POR
--- 2KINGS c20-v16 - POR
--- 2KINGS c20-v17 - POR
--- 2KINGS c20-v18 - POR
--- 2KINGS c20-v19 - POR
--- 2KINGS c20-v20 - POR
--- 2KINGS c20-v21 - POR
--- 2KINGS c21-v1 - POR
--- 2KINGS c21-v2 - POR
--- 2KINGS c21-v3 - POR
--- 2KINGS c21-v4 - POR
--- 2KINGS c21-v5 - POR
--- 2KINGS c21-v6 - POR
--- 2KINGS c21-v7 - POR
--- 2KINGS c21-v8 - POR
--- 2KINGS c21-v9 - POR
--- 2KINGS c21-v10 - POR
--- 2KINGS c21-v11 - POR
--- 2KINGS c21-v12 - POR
--- 2KINGS c21-v13 - POR
--- 2KINGS c21-v14 - POR
--- 2KINGS c21-v15 - POR
--- 2KINGS c21-v16 - POR
--- 2KINGS c21-v17 - POR
--- 2KINGS c21-v18 - POR
--- 2KINGS c21-v19 - POR
--- 2KINGS c21-v20 - POR
--- 2KINGS c21-v21 - POR
--- 2KINGS c21-v22 - POR
--- 2KINGS c21-v23 - POR
--- 2KINGS c21-v24 - POR
--- 2KINGS c21-v25 - POR
--- 2KINGS c21-v26 - POR
--- 2KINGS c22-v1 - POR
--- 2KINGS c22-v2 - POR
--- 2KINGS c22-v3 - POR
--- 2KINGS c22-v4 - POR
--- 2KINGS c22-v5 - POR
--- 2KINGS c22-v6 - POR
--- 2KINGS c22-v7 - POR
--- 2KINGS c22-v8 - POR
--- 2KINGS c22-v9 - POR
--- 2KINGS c22-v10 - POR
--- 2KINGS c22-v11 - POR
--- 2KINGS c22-v12 - POR
--- 2KINGS c22-v13 - POR
--- 2KINGS c22-v14 - POR
--- 2KINGS c22-v15 - POR
--- 2KINGS c22-v16 - POR
--- 2KINGS c22-v17 - POR
--- 2KINGS c22-v18 - POR
--- 2KINGS c22-v19 - POR
--- 2KINGS c22-v20 - POR
--- 2KINGS c23-v1 - POR
--- 2KINGS c23-v2 - POR
--- 2KINGS c23-v3 - POR
--- 2KINGS c23-v4 - POR
--- 2KINGS c23-v5 - POR
--- 2KINGS c23-v6 - POR
--- 2KINGS c23-v7 - POR
--- 2KINGS c23-v8 - POR
--- 2KINGS c23-v9 - POR
--- 2KINGS c23-v10 - POR
--- 2KINGS c23-v11 - POR
--- 2KINGS c23-v12 - POR
--- 2KINGS c23-v13 - POR
--- 2KINGS c23-v14 - POR
--- 2KINGS c23-v15 - POR
--- 2KINGS c23-v16 - POR
--- 2KINGS c23-v17 - POR
--- 2KINGS c23-v18 - POR
--- 2KINGS c23-v19 - POR
--- 2KINGS c23-v20 - POR
--- 2KINGS c23-v21 - POR
--- 2KINGS c23-v22 - POR
--- 2KINGS c23-v23 - POR
--- 2KINGS c23-v24 - POR
--- 2KINGS c23-v25 - POR
--- 2KINGS c23-v26 - POR
--- 2KINGS c23-v27 - POR
--- 2KINGS c23-v28 - POR
--- 2KINGS c23-v29 - POR
--- 2KINGS c23-v30 - POR
--- 2KINGS c23-v31 - POR
--- 2KINGS c23-v32 - POR
--- 2KINGS c23-v33 - POR
--- 2KINGS c23-v34 - POR
--- 2KINGS c23-v35 - POR
--- 2KINGS c23-v36 - POR
--- 2KINGS c23-v37 - POR
--- 2KINGS c24-v1 - POR
--- 2KINGS c24-v2 - POR
--- 2KINGS c24-v3 - POR
--- 2KINGS c24-v4 - POR
--- 2KINGS c24-v5 - POR
--- 2KINGS c24-v6 - POR
--- 2KINGS c24-v7 - POR
--- 2KINGS c24-v8 - POR
--- 2KINGS c24-v9 - POR
--- 2KINGS c24-v10 - POR
--- 2KINGS c24-v11 - POR
--- 2KINGS c24-v12 - POR
--- 2KINGS c24-v13 - POR
--- 2KINGS c24-v14 - POR
--- 2KINGS c24-v15 - POR
--- 2KINGS c24-v16 - POR
--- 2KINGS c24-v17 - POR
--- 2KINGS c24-v18 - POR
--- 2KINGS c24-v19 - POR
--- 2KINGS c24-v20 - POR
--- 2KINGS c25-v1 - POR
--- 2KINGS c25-v2 - POR
--- 2KINGS c25-v3 - POR
--- 2KINGS c25-v4 - POR
--- 2KINGS c25-v5 - POR
--- 2KINGS c25-v6 - POR
--- 2KINGS c25-v7 - POR
--- 2KINGS c25-v8 - POR
--- 2KINGS c25-v9 - POR
--- 2KINGS c25-v10 - POR
--- 2KINGS c25-v11 - POR
--- 2KINGS c25-v12 - POR
--- 2KINGS c25-v13 - POR
--- 2KINGS c25-v14 - POR
--- 2KINGS c25-v15 - POR
--- 2KINGS c25-v16 - POR
--- 2KINGS c25-v17 - POR
--- 2KINGS c25-v18 - POR
--- 2KINGS c25-v19 - POR
--- 2KINGS c25-v20 - POR
--- 2KINGS c25-v21 - POR
--- 2KINGS c25-v22 - POR
--- 2KINGS c25-v23 - POR
--- 2KINGS c25-v24 - POR
--- 2KINGS c25-v25 - POR
--- 2KINGS c25-v26 - POR
--- 2KINGS c25-v27 - POR
--- 2KINGS c25-v28 - POR
--- 2KINGS c25-v29 - POR
--- 2KINGS c25-v30 - POR
+-- c1-v1: E–rebelou-se Moav contra–Yisrael depois-de morte-de Achav
+-- c1-v2: E–caiu Achazyah através-de a–grade em–seu–quarto-superior que em–Shomron e–adoeceu e–enviou mensageiros e–disse a–eles ide consultai a–Baal-Zevuv deus-de Eqron se viverei de–minha–doença esta §
+-- c1-v3: E–anjo-de YHWH falou a Eliyahu o–tishbita levanta-te sobe para–encontrar mensageiros-de rei-de Shomron e–fala a–eles é–porque–não há Deus em–Yisrael vós ides para–consultar a–Baal-Zevuv deus-de Eqron
+-- c1-v4: E–portanto assim disse YHWH a–cama que subiste ali não descerás dela porque certamente morrerás e–foi Eliyahu
+-- c1-v5: E–voltaram os–mensageiros a–ele e–disse a–eles que isto voltastes
+-- c1-v6: E–disseram a–ele um–homem subiu para–nos–encontrar e–disse a–nós ide voltai a o–rei que enviou (a)–vós e–falareis a–ele assim disse YHWH é–porque–não há Deus em–Yisrael tu envias para–consultar a–Baal-Zevuv deus-de Eqron portanto a–cama que subiste ali não descerás dela porque certamente morrerás
+-- c1-v7: E–falou a–eles qual aparência-de o–homem que subiu para–vos–encontrar e–falou a–vós (a) as–palavras estas
+-- c1-v8: E–disseram a–ele homem dono-de pelo e–cinto-de couro cingido em–seus–lombos e–disse Eliyahu o–tishbita ele
+-- c1-v9: E–enviou a–ele chefe-de cinquenta e–seus–cinquenta e–subiu a–ele e–eis sentado sobre topo-de o–monte e–falou a–ele homem-de o–Deus o–rei falou desce
+-- c1-v10: E–respondeu Eliyahu e–falou a chefe-de os–cinquenta e–se homem-de Deus eu desça fogo de os–céus e–consuma (a)–ti e–(a) teus–cinquenta e–desceu fogo de os–céus e–consumiu (a)–ele e–(a) seus–cinquenta
+-- c1-v11: E–voltou e–enviou a–ele chefe-de cinquenta outro e–seus–cinquenta e–respondeu e–falou a–ele homem-de o–Deus assim disse o–rei depressa desce
+-- c1-v12: E–respondeu Eliyahu e–falou a–eles se homem-de o–Deus eu desça fogo de os–céus e–consuma (a)–ti e–(a) teus–cinquenta e–desceu fogo-de Deus de os–céus e–consumiu (a)–ele e–(a) seus–cinquenta
+-- c1-v13: E–voltou e–enviou chefe-de cinquenta terceiros e–seus–cinquenta e–subiu e–veio chefe-de os–cinquenta o–terceiro e–ajoelhou sobre seus–joelhos diante-de Eliyahu e–suplicou a–ele e–falou a–ele homem-de o–Deus seja–preciosa por-favor minha–vida e–vida-de teus–servos estes cinquenta em–teus–olhos
+-- c1-v14: eis desceu fogo de os–céus e–consumiu (a) dois chefes-de os–cinquenta os–primeiros e–(a) seus–cinquenta e–agora seja–preciosa minha–vida em–teus–olhos §
+-- c1-v15: E–falou anjo-de YHWH a Eliyahu desce com–ele não temas de–face–dele e–levantou-se e–desceu com–ele a o–rei
+-- c1-v16: E–falou a–ele assim disse YHWH porque que enviaste mensageiros para–consultar a–Baal-Zevuv deus-de Eqron é–porque–não há Deus em–Yisrael para–consultar em–sua–palavra portanto a–cama que subiste ali não descerás dela porque certamente morrerás
+-- c1-v17: E–morreu conforme–palavra-de YHWH que falou Eliyahu e–reinou Yehoram em–seu–lugar ¶ em–ano-de dois de–Yehoram filho-de Yehoshafat rei-de Yehudah porque não havia para–ele filho
+-- c1-v18: E–resto-de palavras-de Achazyahu que fez acaso–não elas escritas sobre livro-de palavras-de os–dias para–reis-de Yisrael ¶
+-- c2-v1: E–aconteceu quando–fez–subir YHWH (a) Eliyahu na–tempestade os–céus e–foi Eliyahu e–Elisha de o–Gilgal
+-- c2-v2: E–disse Eliyahu a Elisha fica por-favor aqui porque YHWH enviou-me até Beyt-El e–disse Elisha vive YHWH e–vive tua–alma se abandonar-te-ei e–desceram Beyt-El
+-- c2-v3: E–saíram filhos-de os–profetas que em–Beyt-El a Elisha e–disseram a–ele sabes que hoje YHWH toma (a) teu–senhor de–sobre tua–cabeça e–disse também eu sei calai-vos
+-- c2-v4: E–disse a–ele Eliyahu Elisha fica por-favor aqui porque YHWH enviou-me Yericho e–disse vive YHWH e–vive tua–alma se abandonar-te-ei e–vieram Yericho
+-- c2-v5: E–aproximaram-se filhos-de os–profetas que em–Yericho a Elisha e–disseram a–ele sabes que hoje YHWH toma (a) teu–senhor de–sobre tua–cabeça e–disse também eu sei calai-vos
+-- c2-v6: E–disse a–ele Eliyahu fica por-favor aqui porque YHWH enviou-me o–Yarden e–disse vive YHWH e–vive tua–alma se abandonar-te-ei e–foram os–dois-deles
+-- c2-v7: E–cinquenta homem de–filhos-de os–profetas foram e–permaneceram de–frente de–longe e–os–dois-deles permaneceram sobre o–Yarden
+-- c2-v8: E–tomou Eliyahu (a) seu–manto e–enrolou e–bateu (a) as–águas e–dividiram-se para–cá e–para–lá e–atravessaram os–dois-deles em–seco
+-- c2-v9: E–aconteceu quando–atravessaram e–Eliyahu disse a Elisha pede que farei para–ti antes que–seja–tomado de–contigo e–disse Elisha e–seja por-favor porção-de dois em–teu–espírito para–mim
+-- c2-v10: E–disse tornaste-difícil para–pedir se vires (a)–mim sendo–tomado de–contigo será para–ti assim e–se não não será
+-- c2-v11: E–aconteceu eles andando andando e–falando e–eis carro-de fogo e–cavalos-de fogo e–separaram entre os–dois-deles e–subiu Eliyahu na–tempestade os–céus
+-- c2-v12: E–Elisha vendo e–ele clamando meu–pai meu–pai carro-de Yisrael e–seus–cavaleiros e–não viu-o mais e–agarrou em–suas–vestes e–rasgou-as em–dois pedaços
+-- c2-v13: E–levantou (a) manto-de Eliyahu que caiu de–sobre–ele e–voltou e–permaneceu sobre margem-de o–Yarden
+-- c2-v14: E–tomou (a) manto-de Eliyahu que caiu de–sobre–ele e–bateu (a) as–águas e–disse onde YHWH Deus-de Eliyahu também ele e–bateu (a) as–águas e–dividiram-se para–cá e–para–lá e–atravessou Elisha
+-- c2-v15: E–viram-no filhos-de os–profetas que em–Yericho de–frente e–disseram repousou espírito-de Eliyahu sobre Elisha e–vieram para–encontrá-lo e–prostraram-se a–ele terra
+-- c2-v16: E–disseram a–ele eis por-favor há com teus–servos cinquenta homens filhos-de valor irão por-favor e–buscarão (a) teu–senhor para–que–não levou-o espírito-de YHWH e–lançou-o em–um-de os–montes ou em–um-de [os–vales] os–vales e–disse não enviareis
+-- c2-v17: E–insistiram–com ele até envergonhar e–disse enviai e–enviaram cinquenta homem e–buscaram três dias e–não encontraram-no
+-- c2-v18: E–voltaram a–ele e–ele habitando em–Yericho e–disse a–eles acaso–não disse a–vós não vá
+-- c2-v19: E–disseram homens-de a–cidade a Elisha eis por-favor localização-de a–cidade boa como meu–senhor vê e–as–águas más e–a–terra abortiva
+-- c2-v20: E–disse tomai para–mim jarra nova e–colocai ali sal e–tomaram a–ele
+-- c2-v21: E–saiu a nascente-de as–águas e–lançou ali sal e–disse assim disse YHWH curei para–as–águas estas não haverá dali mais morte e–aborto
+-- c2-v22: E–foram–curadas as–águas até o–dia este conforme–palavra-de Elisha que falou ¶
+-- c2-v23: E–subiu dali Beyt-El e–ele subindo no–caminho e–rapazes pequenos saíram de a–cidade e–zombaram dele e–disseram a–ele sobe calvo sobe calvo
+-- c2-v24: E–virou-se atrás–dele e–viu-os e–amaldiçoou-os em–nome-de YHWH e–saíram duas ursas de o–bosque e–despedaçaram deles quarenta e–dois meninos
+-- c2-v25: E–foi dali a monte-de o–Karmel e–dali voltou Shomron ¶
+-- c3-v1: E–Yehoram filho-de Achav reinou sobre Yisrael em–Shomron em–ano-de oito dez de–Yehoshafat rei-de Yehudah e–reinou doze dez ano
+-- c3-v2: E–fez o–mal em–olhos-de YHWH somente não como–seu–pai e–como–sua–mãe e–removeu (a) coluna-de o–Baal que fez seu–pai
+-- c3-v3: somente em–pecados-de Yarovam filho-de Nevat que fez–pecar (a) Yisrael apegou-se não apartou-se dela §
+-- c3-v4: E–Mesha rei-de Moav era criador-de-ovelhas e–entregava para–rei-de Yisrael cem mil cordeiros e–cem mil carneiros lã
+-- c3-v5: E–aconteceu quando–morreu Achav e–rebelou-se rei-de Moav contra–rei-de Yisrael
+-- c3-v6: E–saiu o–rei Yehoram no–dia aquele de–Shomron e–contou (a) todo Yisrael
+-- c3-v7: E–foi e–enviou a Yehoshafat rei-de Yehudah dizendo rei-de Moav rebelou-se contra–mim irás comigo a Moav para–a–guerra e–disse subirei como–eu como–tu como–meu–povo como–teu–povo como–meus–cavalos como–teus–cavalos
+-- c3-v8: E–disse por–qual este o–caminho subiremos e–disse caminho-de deserto-de Edom
+-- c3-v9: E–foi rei-de Yisrael e–rei-de Yehudah e–rei-de Edom e–rodearam caminho-de sete dias e–não havia água para–o–acampamento e–para–os–animais que em–seus–pés
+-- c3-v10: E–disse rei-de Yisrael ai porque chamou YHWH para–três-de os–reis estes para–dar (a)–eles em–mão-de Moav
+-- c3-v11: E–disse Yehoshafat não–há aqui profeta para–YHWH e–consultaremos (a) YHWH por–meio–dele e–respondeu um de–servos-de rei-de Yisrael e–disse aqui Elisha filho-de Shafat que derramava água sobre mãos-de Eliyahu
+-- c3-v12: E–disse Yehoshafat há com–ele palavra-de YHWH e–desceram a–ele rei-de Yisrael e–Yehoshafat e–rei-de Edom
+-- c3-v13: E–disse Elisha a rei-de Yisrael que para–mim e–para–ti vai a profetas-de teu–pai e–a profetas-de tua–mãe e–disse a–ele rei-de Yisrael não porque chamou YHWH para–três-de os–reis estes para–dar (a)–eles em–mão-de Moav
+-- c3-v14: E–disse Elisha vive YHWH-de exércitos que estou-diante de–sua–face porque se–não–fosse face-de Yehoshafat rei-de Yehudah eu levantando se olharia para–ti e–se ver-te-ia
+-- c3-v15: E–agora tomai para–mim tocador e–aconteceu quando–tocou o–tocador e–veio sobre–ele mão-de YHWH
+-- c3-v16: E–disse assim disse YHWH fazei o–vale este cisternas cisternas
+-- c3-v17: porque assim disse YHWH não vereis vento e–não vereis chuva e–o–vale aquele se–encherá água e–bebereis vós e–vosso–rebanho e–vossos–animais
+-- c3-v18: E–isto–é–fácil esta em–olhos-de YHWH e–dará (a) Moav em–vossa–mão
+-- c3-v19: E–ferireis toda cidade fortificada e–toda cidade escolhida e–toda árvore boa derrubareis e–toda nascente-de água tapareis e–toda a–parcela a–boa arruinareis com–as–pedras
+-- c3-v20: E–aconteceu na–manhã quando–subiu a–oferta e–eis água vindo de–caminho-de Edom e–encheu-se a–terra (a) as–águas
+-- c3-v21: E–todo Moav ouviram que subiram os–reis para–guerrear contra–eles e–foram–convocados de–todo cingidor-de cinto e–acima e–permaneceram sobre a–fronteira
+-- c3-v22: E–levantaram-cedo na–manhã e–o–sol brilhou sobre as–águas e–viram Moav de–frente (a) as–águas vermelhas como–o–sangue
+-- c3-v23: E–disseram sangue este certamente–destruíram foram–destruídos os–reis e–feriram homem (a) seu–companheiro e–agora para–o–despojo Moav
+-- c3-v24: E–vieram a acampamento-de Yisrael e–levantaram-se Yisrael e–feriram (a) Moav e–fugiram de–diante–deles [e–vieram] e–feriram nela e–ferindo (a) Moav
+-- c3-v25: E–as–cidades destruíram e–toda parcela boa lançaram homem sua–pedra e–encheram-na e–toda nascente-de água taparam e–toda árvore-de boa derrubaram até deixar suas–pedras em–Qir-Chareshet e–cercaram os–fundibulários e–feriram-na
+-- c3-v26: E–viu rei-de Moav que forte dele a–guerra e–tomou consigo sete centos homem desembainhador-de espada para–romper a rei-de Edom e–não puderam
+-- c3-v27: E–tomou (a) seu–filho o–primogênito que reinaria em–seu–lugar e–ofereceu-o holocausto sobre a–muralha e–houve ira grande sobre Yisrael e–partiram de–sobre–ele e–voltaram para–a–terra ¶
+-- c4-v1: E–mulher uma de–esposas-de filhos-de os–profetas clamou a Elisha dizendo teu–servo meu–marido morreu e–tu sabes que teu–servo era temendo (a) YHWH e–o–credor veio para–tomar (a) dois-de meus–filhos para–ele para–escravos
+-- c4-v2: E–disse a–ela Elisha que farei para–ti diz para–mim que há [para–ti] para–ti na–casa e–disse não–há para–tua–serva nada na–casa exceto somente jarro-de azeite
+-- c4-v3: E–disse vai pede-emprestado para–ti vasilhas de o–fora de–junto-de todos [teus–vizinhos] teus–vizinhos vasilhas vazias não diminuas
+-- c4-v4: E–entrarás e–fecharás a–porta atrás–de–ti e–atrás-de teus–filhos e–derramarás sobre todas as–vasilhas estas e–a–cheia retirarás
+-- c4-v5: E–foi de–junto–dele e–fechou a–porta atrás–dela e–atrás-de seus–filhos eles trazendo a–ela e–ela [derramando] derramando
+-- c4-v6: E–aconteceu quando–encheram-se as–vasilhas e–disse a seu–filho traz a–mim ainda vasilha e–disse a–ela não–há mais vasilha e–parou o–azeite
+-- c4-v7: E–veio e–contou para–homem-de o–Deus e–disse vai vende (a) o–azeite e–paga (a) [tua–dívida] tua–dívida e–tu [e–teus–filhos] e–teus–filhos viverás no–restante ¶
+-- c4-v8: E–aconteceu o–dia e–passou Elisha a Shunem e–ali mulher grande e–constrangeu ele para–comer pão e–acontecia sempre-que passava desviava ali para–comer pão
+-- c4-v9: E–disse a seu–marido eis por-favor sei que homem-de Deus santo ele passando sobre–nós continuamente
+-- c4-v10: Façamos por-favor quarto-de parede pequeno e–colocaremos para–ele ali cama e–mesa e–cadeira e–candeia e–acontecerá quando–vier a–nós desviará ali
+-- c4-v11: E–aconteceu o–dia e–veio ali e–desviou a o–quarto e–deitou ali
+-- c4-v12: E–disse a Gechazi seu–servo chama para–a–shunamita esta e–chamou a–ela e–permaneceu diante–dele
+-- c4-v13: E–disse a–ele diz por-favor a–ela eis tremeste por–nós (a) todo o–tremor este que fazer para–ti há para–falar para–ti a o–rei ou a chefe-de o–exército e–disse em–meio-de meu–povo eu habitando
+-- c4-v14: E–disse e–que fazer para–ela e–disse Gechazi verdadeiramente filho não–há para–ela e–seu–marido velho
+-- c4-v15: E–disse chama a–ela e–chamou a–ela e–permaneceu na–entrada
+-- c4-v16: E–disse para–a–estação esta como–tempo de–vida [tu] tu abraçando filho e–disse não meu–senhor homem-de o–Deus não mintas para–tua–serva
+-- c4-v17: E–concebeu a–mulher e–deu-à-luz filho para–a–estação esta como–tempo de–vida que falou a–ela Elisha
+-- c4-v18: E–cresceu o–menino e–aconteceu o–dia e–saiu a seu–pai a os–ceifeiros
+-- c4-v19: E–disse a seu–pai minha–cabeça minha–cabeça e–disse a o–rapaz leva-o a sua–mãe
+-- c4-v20: E–levou-o e–trouxe-o a sua–mãe e–sentou sobre seus–joelhos até o–meio-dia e–morreu
+-- c4-v21: E–subiu e–deitou-o sobre cama-de homem-de o–Deus e–fechou atrás–dele e–saiu
+-- c4-v22: E–chamou a seu–marido e–disse envia por-favor para–mim um de os–rapazes e–uma as–jumentas e–correrei até homem-de o–Deus e–voltarei
+-- c4-v23: E–disse por–que [tu] tu [indo] indo a–ele hoje não lua-nova e–não shabat e–disse paz
+-- c4-v24: E–selou a–jumenta e–disse a seu–rapaz conduz e–vai não retenhas para–mim para–cavalgar exceto se eu-disser para–ti
+-- c4-v25: E–foi e–veio a homem-de o–Deus a monte-de o–Karmel e–aconteceu quando–viu homem-de o–Deus (a)–ela de–frente e–disse a Gechazi seu–servo eis a–shunamita aquela
+-- c4-v26: agora corre por-favor para–encontrá-la e–diz a–ela há–paz para–ti há–paz para–teu–marido há–paz para–o–menino e–disse paz
+-- c4-v27: E–veio a homem-de o–Deus a o–monte e–agarrou em–seus–pés e–aproximou-se Gechazi para–empurrá-la e–disse homem-de o–Deus deixa a–ela porque sua–alma amarga para–ela e–YHWH escondeu de–mim e–não contou para–mim
+-- c4-v28: E–disse pedi filho de–junto-de meu–senhor acaso–não disse não iluda (a)–mim
+-- c4-v29: E–disse para–Gechazi cinge teus–lombos e–toma meu–bordão em–tua–mão e–vai se encontrares homem não abençoá-lo e–se abençoar-te homem não respondê-lo e–colocarás meu–bordão sobre face-de o–rapaz
+-- c4-v30: E–disse mãe-de o–rapaz vive YHWH e–vive tua–alma se abandonar-te-ei e–levantou-se e–foi atrás–dela
+-- c4-v31: E–Gechazi passou diante–deles e–colocou (a) o–bordão sobre face-de o–rapaz e–não-há voz e–não-há atenção e–voltou para–encontrá-lo e–contou a–ele dizendo não despertou o–rapaz
+-- c4-v32: E–veio Elisha a–casa e–eis o–rapaz morto deitado sobre sua–cama
+-- c4-v33: E–entrou e–fechou a–porta atrás-de os–dois-deles e–orou a YHWH
+-- c4-v34: E–subiu e–deitou sobre o–menino e–colocou sua–boca sobre sua–boca e–seus–olhos sobre seus–olhos e–suas–palmas sobre [sua–palma] suas–palmas e–estendeu-se sobre–ele e–aqueceu carne-de o–menino
+-- c4-v35: E–voltou e–andou na–casa uma para–cá e–uma para–lá e–subiu e–estendeu-se sobre–ele e–espirrou o–rapaz até sete vezes e–abriu o–rapaz (a) seus–olhos
+-- c4-v36: E–chamou a Gechazi e–disse chama a a–shunamita esta e–chamou-a e–veio a–ele e–disse levanta teu–filho
+-- c4-v37: E–veio e–caiu sobre seus–pés e–prostrou-se terra e–levantou (a) seu–filho e–saiu ¶
+-- c4-v38: E–Elisha voltou o–Gilgal e–a–fome na–terra e–filhos-de os–profetas sentados diante–dele e–disse para–seu–servo coloca a–panela a–grande e–cozinha guisado para–filhos-de os–profetas
+-- c4-v39: E–saiu um a o–campo para–colher ervas e–encontrou videira-de campo e–colheu dela coloquintidas-de campo cheia-de sua–veste e–veio e–cortou para panela-de o–guisado porque não conheciam
+-- c4-v40: E–derramaram para–os–homens para–comer e–aconteceu quando–comeram do–guisado e–eles clamaram e–disseram morte na–panela homem-de o–Deus e–não puderam para–comer
+-- c4-v41: E–disse e–tomai farinha e–lançou para a–panela e–disse derrama para–o–povo e–comerão e–não havia coisa má na–panela §
+-- c4-v42: E–homem veio de–Baal-Shalisha e–trouxe para–homem-de o–Deus pão-de primícias vinte pão-de cevada e–grãos-novos em–seu–alforje e–disse dá para–o–povo e–comerão
+-- c4-v43: E–disse seu–servo que darei este diante-de cem homem e–disse dá para–o–povo e–comerão porque assim disse YHWH comer e–sobrar
+-- c4-v44: E–deu diante–deles e–comeram e–sobraram conforme–palavra-de YHWH ¶
+-- c5-v1: E–Naaman comandante-de exército-de rei-de Aram era homem grande diante-de seu-senhor e–levantado-de face porque por–ele deu YHWH salvação para–Aram e–o–homem era guerreiro-de força leproso
+-- c5-v2: E–Aram saíram bandos e–capturaram de–terra-de Israel jovem pequena e–ela–estava diante-de esposa-de Naaman
+-- c5-v3: E–ela–disse a sua–senhora oh-que meu–senhor diante-de o–profeta que em–Shomron então ele–curaria (a)–ele de–sua–lepra
+-- c5-v4: E–ele–veio e–contou a–seu–senhor dizendo assim e–assim falou a–jovem que de–terra-de Israel
+-- c5-v5: E–disse rei-de Aram vai entra e–enviarei carta a rei-de Israel e–foi e–tomou em–sua–mão dez talentos-de prata e–seis milhares ouro e–dez mudas-de roupas
+-- c5-v6: E–trouxe a–carta a rei-de Israel dizendo e–agora quando–chegar a–carta esta a–ti eis enviei a–ti (a) Naaman meu–servo e–tu–o–curarás de–sua–lepra
+-- c5-v7: E–aconteceu quando–leu rei-de Israel (a) a–carta e–rasgou suas–roupas e–disse Deus eu para–matar e–para–vivificar que este envia a–mim para–curar homem de–sua–lepra pois certamente sabei por-favor e–vede que busca-ocasião ele contra–mim
+-- c5-v8: E–aconteceu quando–ouviu Elishá homem-de o–Deus que rasgou rei-de Israel (a) suas–roupas e–enviou a o–rei dizendo por-que rasgaste tuas–roupas venha por-favor a–mim e–saberá que há profeta em–Israel
+-- c5-v9: E–veio Naaman [em–seu–cavalo] em–seus–cavalos e–em–sua–carruagem e–parou entrada-de a–casa de–Elishá
+-- c5-v10: E–enviou a–ele Elishá mensageiro dizendo vai e–lava-te sete vezes no–Yarden e–voltará tua–carne para–ti e–sê–limpo
+-- c5-v11: E–irou-se Naaman e–foi e–disse eis eu–disse a–mim sairá saindo e–ficará-de-pé e–invocará em–nome-de YHWH seu–Deus e–moverá sua–mão a o–lugar e–curará o–leproso
+-- c5-v12: Não bons [Abanah] Amanah e–Parpar rios-de Dammesheq de–todas águas-de Israel não me–lavarei neles e–serei–limpo e–virou-se e–foi em–ira
+-- c5-v13: E–aproximaram-se seus–servos e–falaram a–ele e–disseram meu–pai palavra grande o–profeta falou a–ti não farias e–além-disso que disse a–ti lava-te e–sê–limpo
+-- c5-v14: E–desceu e–mergulhou no–Yarden sete vezes conforme–palavra-de homem-de o–Deus e–voltou sua–carne como–carne-de jovem pequeno e–foi–limpo
+-- c5-v15: E–voltou a homem-de o–Deus ele e–todo seu–acampamento e–veio e–ficou-de-pé diante–dele e–disse eis por-favor eu–sei que não-há Deus em–toda a–terra senão apenas em–Israel e–agora toma por-favor bênção de teu–servo
+-- c5-v16: E–disse vive YHWH que estou-de-pé diante–dele se tomarei e–insistiu-com ele para–tomar e–recusou
+-- c5-v17: E–disse Naaman e–não seja–dada por-favor a–teu–servo carga-de par-de mulas terra pois não fará mais teu–servo holocausto e–sacrifício a–deuses outros senão apenas a–YHWH
+-- c5-v18: Para–a–coisa esta perdoe YHWH a–teu–servo quando–entrar meu–senhor casa-de Rimmon para–prostrar-se lá e–ele apoia-se sobre minha–mão e–eu–me–prostrarei casa-de Rimmon quando–eu–me–prostrar casa-de Rimmon perdoe [por-favor] YHWH a–teu–servo na–coisa esta
+-- c5-v19: E–disse a–ele vai em–paz e–foi de–junto–dele distância-de terra §
+-- c5-v20: E–disse Geichazi jovem-de Elishá homem-de o–Deus eis poupou meu–senhor (a) Naaman o–arameu este de–tomar de–sua–mão (a) o-que trouxe vive YHWH que se correrei atrás–dele e–tomarei de–junto–dele algo
+-- c5-v21: E–perseguiu Geichazi atrás-de Naaman e–viu Naaman correndo atrás–dele e–caiu de–sobre a–carruagem para–encontrá-lo e–disse há–paz
+-- c5-v22: E–disse paz meu–senhor enviou-me dizendo eis agora este vieram a–mim dois jovens de–monte-de Efrayim de–filhos-de os–profetas dá por-favor a–eles talento-de prata e–duas mudas-de roupas
+-- c5-v23: E–disse Naaman consente toma dois-talentos e–insistiu-com ele e–amarrou dois-talentos-de prata em–dois sacos e–duas mudas-de roupas e–deu a dois seus–servos e–carregaram diante–dele
+-- c5-v24: E–veio a o–morro e–tomou de–suas–mãos e–guardou na–casa e–despediu (a) os–homens e–foram
+-- c5-v25: E–ele entrou e–ficou-de-pé a seu–senhor e–disse a–ele Elishá [de-onde] de–onde Geichazi e–disse não foi teu–servo para-cá e–para-lá
+-- c5-v26: E–disse a–ele não meu–coração foi quando virou-se homem de–sobre sua–carruagem para–encontrar-te é–tempo para–tomar (a) a–prata e–para–tomar roupas e–oliveiras e–vinhas e–ovelhas e–bois e–servos e–servas
+-- c5-v27: E–lepra-de Naaman pegará-em ti e–em–tua–descendência para–sempre e–saiu de–diante–dele leproso como–a–neve §
+-- c6-v1: E–disseram filhos-de os–profetas a Elishá eis por-favor o–lugar que nós habitamos lá diante–de–ti estreito de–nós
+-- c6-v2: iremos por-favor até o–Yarden e–tomaremos de–lá homem viga uma e–faremos para–nós lá lugar para–habitar lá e–disse ide
+-- c6-v3: E–disse o–um consente por-favor e–vai com teus–servos e–disse eu irei
+-- c6-v4: E–foi com–eles e–vieram ao–Yarden e–cortaram as–árvores
+-- c6-v5: E–aconteceu o–um derrubando a–viga e–(a) o–ferro caiu para a–água e–clamou e–disse ah meu–senhor e–ele emprestado
+-- c6-v6: E–disse homem-de o–Deus para-onde caiu e–mostrou-lhe (a) o–lugar e–cortou madeira e–lançou lá e–flutuou o–ferro
+-- c6-v7: E–disse levanta para–ti e–estendeu sua–mão e–tomou-o ¶
+-- c6-v8: E–rei-de Aram estava guerreando contra–Israel e–aconselhou-se com seus–servos dizendo para lugar tal e–tal meu–acampamento
+-- c6-v9: E–enviou homem-de o–Deus a rei-de Israel dizendo guarda-te de–passar o–lugar este porque lá Aram descendo
+-- c6-v10: E–enviou rei-de Israel a o–lugar que disse a–ele homem-de o–Deus [e–advertiu-a] e–advertiu-o e–guardou-se lá não uma e–não duas
+-- c6-v11: E–perturbou-se coração-de rei-de Aram sobre a–coisa esta e–chamou a seus–servos e–disse a–eles não contareis a–mim quem de–nós para rei-de Israel
+-- c6-v12: E–disse um de–seus–servos não meu–senhor o–rei pois Elishá o–profeta que em–Israel conta a–rei-de Israel (a) as–palavras que falas no–quarto-de teu–deitar
+-- c6-v13: E–disse ide e–vede onde ele e–enviarei e–tomarei-o e–foi-contado a–ele dizendo eis em–Dotan
+-- c6-v14: E–enviou lá cavalos e–carruagem e–exército pesado e–vieram de–noite e–cercaram sobre a–cidade
+-- c6-v15: E–levantou-cedo servo-de homem-de o–Deus para–levantar e–saiu e–eis exército cercando (a) a–cidade e–cavalo e–carruagem e–disse seu–jovem a–ele ah meu–senhor como faremos
+-- c6-v16: E–disse não temas porque muitos que conosco mais-que com–eles
+-- c6-v17: E–orou Elishá e–disse YHWH abre por-favor (a) seus–olhos e–verá e–abriu YHWH (a) olhos-de o–jovem e–viu e–eis o–monte cheio-de cavalos e–carruagem-de fogo ao-redor-de Elishá
+-- c6-v18: E–desceram a–ele e–orou Elishá a YHWH e–disse fere por-favor (a) a–nação esta com–cegueira e–feriu-os com–cegueira conforme–palavra-de Elishá
+-- c6-v19: E–disse a–eles Elishá não este o–caminho e–não esta a–cidade ide atrás–de–mim e–conduzirei (a)–vós a o–homem que buscais e–conduziu (a)–eles Shomron
+-- c6-v20: E–aconteceu quando–entraram Shomron e–disse Elishá YHWH abre (a) olhos-de estes e–verão e–abriu YHWH (a) seus–olhos e–viram e–eis no–meio-de Shomron
+-- c6-v21: E–disse rei-de Israel a Elishá quando–vê-los (a)–eles ferirei ferirei meu–pai
+-- c6-v22: E–disse não ferirás (a)–os–que capturaste com–tua–espada e–com–teu–arco tu feres põe pão e–água diante–deles e–comerão e–beberão e–irão a seu–senhor
+-- c6-v23: E–preparou para–eles banquete grande e–comeram e–beberam e–despediu-os e–foram a seu–senhor e–não continuaram mais bandos-de Aram para–vir na–terra-de Israel ¶
+-- c6-v24: E–aconteceu depois-de assim e–reuniu Ben–Hadad rei-de Aram (a) todo seu–acampamento e–subiu e–sitiou sobre Shomron
+-- c6-v25: E–houve fome grande em–Shomron e–eis sitiando sobre–ela até ser cabeça-de jumento por–oitenta prata e–quarto-de o–kab [esterco-de-pomba] feijões por–cinco prata
+-- c6-v26: E–estava rei-de Israel passando sobre o–muro e–mulher clamou a–ele dizendo salva meu–senhor o–rei
+-- c6-v27: E–disse não te–salvará YHWH de–onde te–salvarei de a–eira ou de o–lagar
+-- c6-v28: E–disse a–ela o–rei o-que a–ti e–disse a–mulher esta disse a–mim dá (a) teu–filho e–comeremos-o hoje e–(a) meu–filho comeremos amanhã
+-- c6-v29: E–cozinhamos (a) meu–filho e–comemos-o e–disse a–ela no–dia o–outro dá (a) teu–filho e–comeremos-o e–escondeu (a) seu–filho
+-- c6-v30: E–aconteceu quando–ouviu o–rei (a) palavras-de a–mulher e–rasgou (a) suas–roupas e–ele passando sobre o–muro e–viu o–povo e–eis o–saco sobre sua–carne por–dentro
+-- c6-v31: E–disse assim faça a–mim Deus e–assim acrescente se permanecer cabeça-de Elishá filho-de Shafat sobre–ele hoje
+-- c6-v32: E–Elishá sentado em–sua–casa e–os–anciãos sentados com–ele e–enviou homem de–diante–dele antes-que viesse o–mensageiro a–ele e–ele disse a os–anciãos vistes que enviou filho-de o–assassino este para–remover (a) minha–cabeça vede quando–vier o–mensageiro fechai a–porta e–empurrai (a)–ele na–porta não som-de pés-de seu–senhor atrás–dele
+-- c6-v33: ainda falando com–eles e–eis o–mensageiro descendo a–ele e–disse eis esta a–calamidade de YHWH por-que esperarei em–YHWH mais §
+-- c7-v1: E–disse Eliseu ouvi palavra–de YHWH assim disse YHWH como–tempo amanhã seá–de farinha por–siclo e–duas–seás cevada por–siclo no–portão–de Samaria
+-- c7-v2: E–respondeu o–capitão que ao–rei apoiado sobre mão–dele (a) homem–de o–Deus e–disse eis YHWH fazendo janelas nos–céus seria a–coisa a–esta e–disse eis–tu vendo com–olhos–teus e–de–lá não comerás §
+-- c7-v3: E–quatro homens estavam leprosos entrada–de o–portão e–disseram homem a companheiro–seu por que nós sentados aqui até morrermos
+-- c7-v4: se dissemos entraremos a–cidade e–a–fome na–cidade e–morreremos lá e–se ficarmos aqui e–morreremos e–agora vamos e–cairemos a acampamento–de Aram se nos–deixarem–viver viveremos e–se nos–matarem e–morreremos
+-- c7-v5: E–levantaram–se ao–crepúsculo para–vir a acampamento–de Aram e–vieram até extremidade–de acampamento–de Aram e–eis não–há lá homem
+-- c7-v6: E–Adonai fez–ouvir (a) acampamento–de Aram som–de carro som–de cavalo som–de exército grande e–disseram homem a irmão–seu eis contratou sobre–nós rei–de Israel (a) reis–de os–hititas e–(a) reis–de Egito para–vir sobre–nós
+-- c7-v7: E–levantaram–se e–fugiram ao–crepúsculo e–abandonaram (a) tendas–deles e–(a) cavalos–deles e–(a) jumentos–deles o–acampamento como ela e–fugiram para vida–deles
+-- c7-v8: E–vieram os–leprosos os–estes até extremidade–de o–acampamento e–vieram a tenda uma e–comeram e–beberam e–levaram de–lá prata e–ouro e–vestes e–foram e–esconderam e–voltaram e–vieram a tenda outra e–levaram de–lá e–foram e–esconderam
+-- c7-v9: E–disseram homem a companheiro–seu não correto nós fazendo o–dia o–este dia–de boas–novas ele e–nós calados e–esperamos até luz–de a–manhã e–encontrar–nos–á iniquidade e–agora vamos e–entremos e–anunciemos casa–de o–rei
+-- c7-v10: E–vieram e–clamaram a porteiro–de a–cidade e–anunciaram a–eles dizendo viemos a acampamento–de Aram e–eis não–há lá homem e–som–de homem pois se–não o–cavalo amarrado e–o–jumento amarrado e–tendas como elas
+-- c7-v11: E–chamou os–porteiros e–anunciaram casa–de o–rei para–dentro
+-- c7-v12: E–levantou–se o–rei noite e–disse a servos–seus anunciarei por–favor a–vós (a) que fizeram a–nós Aram sabem que famintos nós e–saíram de o–acampamento para–esconder–se [ketiv] no–campo dizendo que sairão de a–cidade e–capturaremos–eles vivos e–a a–cidade entraremos
+-- c7-v13: E–respondeu um de–servos–seus e–disse e–tomarão por–favor cinco de os–cavalos os–restantes que restaram nela eis–eles como–toda [ketiv] multidão–de Israel que restaram nela eis–eles como–toda multidão–de Israel que foram–destruídos e–enviaremos e–veremos
+-- c7-v14: E–tomaram dois carros–de cavalos e–enviou o–rei atrás–de acampamento–de Aram dizendo ide e–vede
+-- c7-v15: E–foram atrás–deles até o–Jordão e–eis todo o–caminho cheio vestes e–utensílios que lançaram Aram [ketiv] na–pressa–deles e–voltaram os–mensageiros e–anunciaram ao–rei
+-- c7-v16: E–saiu o–povo e–saqueou (a) acampamento–de Aram e–foi seá–de farinha por–siclo e–duas–seás cevada por–siclo conforme–palavra–de YHWH
+-- c7-v17: E–o–rei designou (a) o–capitão que apoiado sobre mão–dele sobre o–portão e–pisou–o o–povo no–portão e–morreu conforme falou homem–de o–Deus que falou ao–descer o–rei a–ele
+-- c7-v18: E–foi como–falar homem–de o–Deus a o–rei dizendo duas–seás cevada por–siclo e–seá–de farinha por–siclo será como–tempo amanhã no–portão–de Samaria
+-- c7-v19: E–respondeu o–capitão (a) homem–de o–Deus e–disse e–eis YHWH fazendo janelas nos–céus seria conforme–a–coisa a–esta e–disse eis–tu vendo com–olhos–teus e–de–lá não comerás
+-- c7-v20: E–foi a–ele assim e–pisaram (a)–ele o–povo no–portão e–morreu §
+-- c8-v1: E–Eliseu falou a a–mulher que fez–viver (a) filho–dela dizendo levanta–te e–vai [ketiv] tu e–casa–tua e–peregrina em–onde peregrinares pois chamou YHWH para–a–fome e–também veio a a–terra sete anos
+-- c8-v2: E–levantou–se a–mulher e–fez conforme–palavra–de homem–de o–Deus e–foi ela e–casa–dela e–peregrinou em–terra–de filisteus sete anos
+-- c8-v3: E–foi no–fim–de sete anos e–voltou a–mulher de–terra–de filisteus e–saiu para–clamar a o–rei sobre casa–dela e–sobre campo–dela
+-- c8-v4: E–o–rei falando a Geazi moço–de homem–de o–Deus dizendo conta por–favor a–mim (a) todas as–grandes–coisas que fez Eliseu
+-- c8-v5: E–foi ele contando ao–rei (a) que fez–viver (a) o–morto e–eis a–mulher que fez–viver (a) filho–dela clamando a o–rei sobre casa–dela e–sobre campo–dela E–disse Geazi senhor–meu o–rei esta a–mulher e–este filho–dela que fez–viver Eliseu
+-- c8-v6: E–perguntou o–rei à–mulher e–contou a–ele E–deu a–ela o–rei eunuco um dizendo devolve (a) tudo que dela e–(a) toda produção–de o–campo desde–dia deixou (a) a–terra e–até agora ¶
+-- c8-v7: E–veio Eliseu Damasco e–Ben–Hadade rei–de Aram doente e–foi–anunciado a–ele dizendo veio homem–de o–Deus até aqui
+-- c8-v8: E–disse o–rei a Hazael toma em–mão–tua presente e–vai ao–encontro–de homem–de o–Deus e–consultarás (a) YHWH de–junto–dele dizendo viverei de–doença esta
+-- c8-v9: E–foi Hazael ao–encontro–dele e–tomou presente em–mão–sua e–todo bem–de Damasco carga–de quarenta camelos e–veio e–parou diante–dele e–disse filho–teu Ben–Hadade rei–de Aram enviou–me a–ti dizendo viverei de–doença esta
+-- c8-v10: E–disse a–ele Eliseu vai diz [ketiv] a–ele certamente viverás e–mostrou–me YHWH que certamente morrerá
+-- c8-v11: E–fixou (a) face–sua e–pôs até envergonhar–se e–chorou homem–de o–Deus
+-- c8-v12: E–disse Hazael por que senhor–meu chorando E–disse porque sei (a) que farás a–filhos–de Israel mal fortalezas–deles enviarás no–fogo e–jovens–deles com–a–espada matarás e–crianças–deles despedaçarás e–grávidas–deles rasgarás
+-- c8-v13: E–disse Hazael pois que servo–teu o–cão que faria a–coisa a–grande a–esta E–disse Eliseu mostrou–me YHWH (a)–ti rei sobre Aram
+-- c8-v14: E–foi de–junto–de Eliseu e–veio a senhor–seu e–disse a–ele que disse a–ti Eliseu e–disse disse a–mim certamente viverás
+-- c8-v15: E–foi no–dia–seguinte e–tomou o–cobertor e–mergulhou na–água e–estendeu sobre face–dele e–morreu e–reinou Hazael em–lugar–dele ¶
+-- c8-v16: E–no–ano cinco de–Jorão filho–de Acabe rei–de Israel e–Josafá rei–de Judá reinou Jeorão filho–de Josafá rei–de Judá
+-- c8-v17: filho–de trinta e–dois anos era ao–reinar e–oito [ketiv] anos reinou em–Jerusalém
+-- c8-v18: E–andou no–caminho–de reis–de Israel como fizeram casa–de Acabe pois filha–de Acabe era a–ele como–mulher e–fez o–mal aos–olhos–de YHWH
+-- c8-v19: E–não quis YHWH destruir (a) Judá por–causa–de Davi servo–seu como disse a–ele dar a–ele lâmpada a–filhos–seus todos os–dias
+-- c8-v20: Em–dias–seus rebelou–se Edom de–sob mão–de Judá e–fizeram–reinar sobre–eles rei
+-- c8-v21: E–passou Jorão Tzair e–todo o–carro com–ele e–foi ele levantou–se noite e–feriu (a) Edom o–cercando a–ele e–(a) capitães–de o–carro e–fugiu o–povo às–tendas–suas
+-- c8-v22: E–rebelou–se Edom de–sob mão–de Judá até o–dia o–este então rebelou–se Libna no–tempo o–aquele
+-- c8-v23: E–restante–de palavras–de Jorão e–tudo que fez não eles escritos sobre livro–de palavras–de os–dias de–reis–de Judá
+-- c8-v24: E–deitou–se Jorão com pais–seus e–foi–sepultado com pais–seus em–cidade–de Davi e–reinou Acazias filho–seu em–lugar–dele ¶
+-- c8-v25: No–ano duas dez anos de–Jorão filho–de Acabe rei–de Israel reinou Acazias filho–de Jeorão rei–de Judá
+-- c8-v26: filho–de vinte e–dois anos Acazias ao–reinar e–ano um reinou em–Jerusalém e–nome–de mãe–dele Atalia filha–de Onri rei–de Israel
+-- c8-v27: E–andou no–caminho–de casa–de Acabe e–fez o–mal aos–olhos–de YHWH como–casa–de Acabe pois genro–de casa–de Acabe ele
+-- c8-v28: E–foi com Jorão filho–de Acabe à–guerra com Hazael rei–de Aram em–Ramote Gileade e–feriram arameus (a) Jorão
+-- c8-v29: E–voltou Jorão o–rei para–curar–se em–Jezreel das feridas que feriram–o arameus em–Ramá ao–lutar com Hazael rei–de Aram e–Acazias filho–de Jeorão rei–de Judá desceu para–ver (a) Jorão filho–de Acabe em–Jezreel pois doente ele ¶
+-- c9-v1: E–Eliseu o–profeta chamou a–um de–filhos–de os–profetas e–disse a–ele cinge lombos–teus e–toma frasco–de o–óleo o–este em–mão–tua e–vai Ramote Gileade
+-- c9-v2: E–virás lá e–verás lá Jeú filho–de Josafá filho–de Ninsi e–entrarás e–levantar–lo–ás de–meio–de irmãos–seus e–levarás (a)–ele quarto em–quarto
+-- c9-v3: E–tomarás frasco–de o–óleo e–derramarás sobre cabeça–dele e–dirás assim disse YHWH ungi–te para–rei sobre Israel e–abrirás a–porta e–fugirás e–não esperarás
+-- c9-v4: E–foi o–moço o–moço o–profeta Ramote Gileade
+-- c9-v5: E–veio e–eis capitães–de o–exército sentados e–disse palavra a–mim a–ti ó–capitão E–disse Jeú a a–quem de–nós–todos e–disse a–ti ó–capitão
+-- c9-v6: E–levantou–se e–veio a–casa e–derramou o–óleo sobre cabeça–dele e–disse a–ele assim disse YHWH Deus–de Israel ungi–te para–rei sobre povo–de YHWH sobre Israel
+-- c9-v7: E–ferirás (a) casa–de Acabe senhor–teu e–vingarei sangue–de servos–meus os–profetas e–sangue–de todos servos–de YHWH de–mão–de Jezabel
+-- c9-v8: E–perecerá toda casa–de Acabe e–cortarei de–Acabe urinando na–parede e–preso e–abandonado em–Israel
+-- c9-v9: E–darei (a) casa–de Acabe como–casa–de Jeroboão filho–de Nebate e–como–casa–de Baasa filho–de Aijja
+-- c9-v10: E–(a) Jezabel comerão os–cães na–porção–de Jezreel e–não–há enterrador e–abriu a–porta e–fugiu
+-- c9-v11: E–Jeú saiu a servos–de senhor–seu e–disse a–ele paz por que veio o–louco o–este a–ti e–disse a–eles vós conheceis (a) o–homem e–(a) conversa–dele
+-- c9-v12: E–disseram mentira conta por–favor a–nós E–disse assim–e–assim e–assim disse a–mim dizendo assim disse YHWH ungi–te para–rei sobre Israel
+-- c9-v13: E–apressaram–se e–tomaram homem veste–sua e–puseram debaixo–dele sobre degrau–de a–escada e–tocaram na–trombeta e–disseram reinou Jeú
+-- c9-v14: E–conspirou Jeú filho–de Josafá filho–de Ninsi contra Jorão e–Jorão estava guardando em–Ramote Gileade ele e–todo Israel de–face–de Hazael rei–de Aram
+-- c9-v15: E–voltou Jeorão o–rei para–curar–se em–Jezreel das feridas que feriram–o arameus ao–lutar com Hazael rei–de Aram E–disse Jeú se há alma–vossa não saia fugitivo de a–cidade para–ir [ketiv] anunciar em–Jezreel
+-- c9-v16: E–montou Jeú e–foi Jezreel pois Jorão deitado lá e–Acazias rei–de Judá desceu para–ver (a) Jorão
+-- c9-v17: E–o–vigia de–pé sobre a–torre em–Jezreel e–viu (a) companhia–de Jeú ao–vir–ele e–disse companhia eu vejo E–disse Jeorão toma cavaleiro e–envia ao–encontro–deles e–diga paz
+-- c9-v18: E–foi cavaleiro–de o–cavalo ao–encontro–dele e–disse assim disse o–rei paz E–disse Jeú que a–ti e–a–paz volta para atrás–de–mim E–anunciou o–vigia dizendo veio o–mensageiro até eles e–não voltou
+-- c9-v19: E–enviou cavaleiro–de cavalo segundo e–veio a–eles e–disse assim disse o–rei paz E–disse Jeú que a–ti e–a–paz volta para atrás–de–mim
+-- c9-v20: E–anunciou o–vigia dizendo veio até a–eles e–não voltou e–o–conduzir como–conduzir–de Jeú filho–de Ninsi pois com–loucura conduz
+-- c9-v21: E–disse Jeorão atrela e–atrelou carro–seu e–saiu Jeorão rei–de Israel e–Acazias rei–de Judá homem em–carro–seu e–saíram ao–encontro–de Jeú e–encontraram–o na–porção–de Nabote o–jezreelita
+-- c9-v22: E–foi ao–ver Jeorão (a) Jeú e–disse paz Jeú E–disse que a–paz até prostituições–de Jezabel mãe–tua e–feitiçarias–dela as–muitas
+-- c9-v23: E–virou Jeorão mãos–suas e–fugiu e–disse a Acazias traição Acazias
+-- c9-v24: E–Jeú encheu mão–sua no–arco e–feriu (a) Jeorão entre braços–seus e–saiu a–flecha de–coração–dele e–caiu em–carro–seu
+-- c9-v25: E–disse a Bidcar [ketiv] ajudante–seu levanta lança–o na–porção–de campo–de Nabote o–jezreelita pois lembra eu e–tu (a) cavalgando juntos atrás–de Acabe pai–dele e–YHWH levantou sobre–ele (a) a–sentença a–esta
+-- c9-v26: se–não não (a) sangue–de Nabote e–(a) sangue–de filhos–dele vi ontem declaração–de YHWH e–paguei a–ti na–porção a–esta declaração–de YHWH e–agora levanta lança–o na–porção conforme–palavra–de YHWH
+-- c9-v27: E–Acazias rei–de Judá viu e–fugiu caminho–de casa–de o–jardim e–perseguiu atrás–dele Jeú e–disse também (a)–ele feri–o na a–carruagem na–subida–de Gur que junto–a Ibleam e–fugiu Megido e–morreu lá
+-- c9-v28: E–transportaram (a)–ele servos–seus Jerusalém e–sepultaram (a)–ele em–sepultura–sua com pais–seus em–cidade–de Davi ¶
+-- c9-v29: E–no–ano um dez anos de–Jorão filho–de Acabe reinou Acazias sobre Judá
+-- c9-v30: E–veio Jeú Jezreel e–Jezabel ouviu e–pôs no–pó–de–olho olhos–dela e–adereou (a) cabeça–dela e–olhou através–de a–janela
+-- c9-v31: E–Jeú entrou no–portão e–disse paz Zinri matador–de senhor–seu
+-- c9-v32: E–levantou face–sua para a–janela e–disse quem comigo quem e–olharam a–ele dois três eunucos
+-- c9-v33: E–disse [ketiv] lançai–a e–lançaram–a e–espirrou de–sangue–dela sobre a–parede e–sobre os–cavalos e–pisou–a
+-- c9-v34: E–entrou e–comeu e–bebeu e–disse cuidai por–favor de–(a) a–maldita a–esta e–enterrai–a pois filha–de rei ela
+-- c9-v35: E–foram para–enterrá–la e–não encontraram dela pois se–não o–crânio e–os–pés e–palmas–de as–mãos
+-- c9-v36: E–voltaram e–anunciaram a–ele e–disse palavra–de YHWH ela que falou por–mão–de servo–seu Elias o–tisbita dizendo na–porção–de Jezreel comerão os–cães (a) carne–de Jezabel
+-- c9-v37: [ketiv] e–será cadáver–de Jezabel como–esterco sobre face–de o–campo na–porção–de Jezreel que não dirão esta Jezabel ¶
+-- c10-v1: E–para–Achav setenta filhos em–Shomron e–escreveu Yehu cartas e–enviou Shomron a príncipes-de Yizreel os–anciãos e–a os–tutores-de Achav dizendo
+-- c10-v2: E–agora quando–chegar a–carta esta a–vós e–convosco filhos-de vosso–senhor e–convosco a–carruagem e–os–cavalos e–cidade-de fortaleza e–a–armadura
+-- c10-v3: E–vereis o–bom e–o–reto de–filhos-de vosso–senhor e–colocareis sobre trono-de seu–pai e–lutai por casa-de vosso–senhor
+-- c10-v4: E–temeram muito muito e–disseram eis dois os–reis não resistiram diante–dele e–como resistiremos nós
+-- c10-v5: E–enviou o–que-sobre sobre a–casa e–o–que-sobre sobre a–cidade e–os–anciãos e–os–tutores a Yehu dizendo teus–servos nós e–tudo que disseres a–nós faremos não faremos-rei homem o–bom em–teus–olhos faze
+-- c10-v6: E–escreveu a–eles carta segunda-vez dizendo se para–mim vós e–a–minha–voz vós ouvis tomai (a) cabeças-de homens-de filhos-de vosso–senhor e–vinde a–mim neste–tempo amanhã Yizreel e–filhos-de o–rei setenta homem com grandes-de a–cidade criando (a)–eles
+-- c10-v7: E–aconteceu quando–chegou a–carta a–eles e–tomaram (a) filhos-de o–rei e–degolaram setenta homem e–puseram (a) suas–cabeças nos–cestos e–enviaram a–ele Yizreel
+-- c10-v8: E–veio o–mensageiro e–contou a–ele dizendo trouxeram cabeças-de filhos-de o–rei e–disse ponde (a)–elas dois montes entrada-de o–portão até a–manhã
+-- c10-v9: E–aconteceu na–manhã e–saiu e–ficou-de-pé e–disse a todo o–povo justos vós eis eu conspirei contra meu–senhor e–matei-o e–quem feriu (a) todos estes
+-- c10-v10: Sabei pois que não cairá de–palavra-de YHWH terra que falou YHWH sobre casa-de Achav e–YHWH fez (a) o-que falou por–mão-de seu–servo Eliyahu
+-- c10-v11: E–feriu Yehu (a) todos os–restantes para–casa-de Achav em–Yizreel e–todos seus–grandes e–seus–conhecidos e–seus–sacerdotes até não deixar a–ele sobrevivente
+-- c10-v12: E–levantou-se e–veio e–foi Shomron ele casa-de Eqed os–pastores no–caminho
+-- c10-v13: E–Yehu encontrou (a) irmãos-de Achazyahu rei-de Yehudah e–disse quem vós e–disseram irmãos-de Achazyahu nós e–descemos para–paz-de filhos-de o–rei e–filhos-de a–rainha-mãe
+-- c10-v14: E–disse prendei-os vivos e–prenderam-os vivos e–degolaram-os para poço-de Beit–Eqed quarenta e–dois homem e–não deixou homem deles §
+-- c10-v15: E–foi de–lá e–encontrou (a) Yehonadav filho-de Rechav para–encontrá-lo e–abençoou-o e–disse a–ele há (a) teu–coração reto como meu–coração com teu–coração e–disse Yehonadav há e–há dá (a) tua–mão e–deu sua–mão e–subiu-o a–ele para a–carruagem
+-- c10-v16: E–disse vem comigo e–vê meu–zelo por–YHWH e–fizeram-o-cavalgar (a)–ele em–sua–carruagem
+-- c10-v17: E–veio Shomron e–feriu (a) todos os–restantes de–Achav em–Shomron até destruí-lo conforme–palavra-de YHWH que falou a Eliyahu ¶
+-- c10-v18: E–reuniu Yehu (a) todo o–povo e–disse a–eles Achav serviu (a) o–Baal pouco Yehu servi-lo-á muito
+-- c10-v19: E–agora todos profetas-de o–Baal todos seus–servos e–todos seus–sacerdotes chamai a–mim homem não falte pois sacrifício grande para–mim para–o–Baal todo que faltar não viverá e–Yehu fez com–astúcia para-que destruir (a) servos-de o–Baal
+-- c10-v20: E–disse Yehu santificai assembleia para–o–Baal e–proclamaram
+-- c10-v21: E–enviou Yehu em–todo Israel e–vieram todos servos-de o–Baal e–não restou homem que não veio e–entraram casa-de o–Baal e–encheu-se casa-de o–Baal boca a–boca
+-- c10-v22: E–disse ao–que-sobre sobre o–vestuário tira veste para–todos servos-de o–Baal e–tirou para–eles a–veste
+-- c10-v23: E–entrou Yehu e–Yehonadav filho-de Rechav casa-de o–Baal e–disse a–servos-de o–Baal buscai e–vede para-que-não haja aqui convosco de–servos-de YHWH senão apenas servos-de o–Baal somente
+-- c10-v24: E–entraram para–fazer sacrifícios e–holocaustos e–Yehu pôs para–ele fora oitenta homem e–disse o–homem que escapar de os–homens que eu trago sobre vossas–mãos sua–alma em-lugar-de sua–alma
+-- c10-v25: E–aconteceu quando–terminou de–fazer o–holocausto e–disse Yehu aos–corredores e–aos–oficiais entrai feri-os homem não saia e–feriram-os a–fio-de espada e–lançaram os–corredores e–os–oficiais e–foram até cidade-de casa-de o–Baal
+-- c10-v26: E–tiraram (a) colunas-de casa-de o–Baal e–queimaram-na
+-- c10-v27: E–derrubaram (a) coluna-de o–Baal e–derrubaram (a) casa-de o–Baal e–fizeram-na [para-latrinas] para–latrinas até hoje
+-- c10-v28: E–destruiu Yehu (a) o–Baal de–Israel
+-- c10-v29: Somente pecados-de Yarovam filho-de Nevat que fez-pecar (a) Israel não afastou-se Yehu de–atrás–deles bezerros-de o–ouro que Beit–El e–que em–Dan §
+-- c10-v30: E–disse YHWH a Yehu porque que fizeste-bem para–fazer o–reto em–meus–olhos conforme–tudo que em–meu–coração fizeste para–casa-de Achav filhos-de quartas-gerações sentar-se-ão para–ti sobre trono-de Israel
+-- c10-v31: E–Yehu não guardou para–andar na–lei-de YHWH Deus-de Israel em–todo seu–coração não afastou-se de–sobre pecados-de Yarovam que fez-pecar (a) Israel
+-- c10-v32: Nos–dias aqueles começou YHWH a–cortar em–Israel e–feriu-os Chazael em–todo território-de Israel
+-- c10-v33: De o–Yarden nascer-de o–sol (a) toda terra-de o–Gilead o–gadita e–o–rubenita e–o–manassita de–Aroer que sobre ribeiro-de Arnon e–o–Gilead e–o–Bashan
+-- c10-v34: E–resto-de atos-de Yehu e–tudo que fez e–toda sua–força não eles escritos sobre livro-de atos-de os–dias para–reis-de Israel
+-- c10-v35: E–deitou-se Yehu com seus–pais e–sepultaram (a)–ele em–Shomron e–reinou Yehoachaz seu–filho em-seu-lugar
+-- c10-v36: E–os–dias que reinou Yehu sobre Israel vinte e–oito anos em–Shomron ¶
+-- c11-v1: E–Atalyah mãe-de Achazyahu [e–viu] viu que morreu seu–filho e–levantou-se e–destruiu (a) toda semente-de o–reino
+-- c11-v2: E–tomou Yehosheva filha-de o–rei Yoram irmã-de Achazyahu (a) Yoash filho-de Achazyah e–roubou (a)–ele do–meio-de filhos-de o–rei [os–mortos] os–mortos (a)–ele e–(a) sua–ama no–quarto-de as–camas e–esconderam (a)–ele de–face-de Atalyahu e–não foi–morto
+-- c11-v3: E–estava com–ela casa-de YHWH escondido seis anos e–Atalyah reinando sobre a–terra ¶
+-- c11-v4: E–no–ano o–sétimo enviou Yehoyada e–tomou (a) capitães-de [as–centenas] as–centenas dos–caritas e–dos–corredores e–trouxe (a)–eles a–ele casa-de YHWH e–cortou com–eles aliança e–fez-jurar (a)–eles em–casa-de YHWH e–mostrou a–eles (a) filho-de o–rei
+-- c11-v5: E–ordenou-lhes dizendo esta a–coisa que fareis o–terço de–vós entrando-de o–sábado e–guardando guarda-de casa-de o–rei
+-- c11-v6: E–o–terço no–portão-de Sur e–o–terço no–portão atrás-de os–corredores e–guardareis (a) guarda-de a–casa defesa
+-- c11-v7: E–duas as–partes de–vós todos saindo-de o–sábado e–guardarão (a) guarda-de casa-de YHWH a o–rei
+-- c11-v8: E–cercareis sobre o–rei ao-redor homem e–suas–armas em–sua–mão e–o–entrando para as–fileiras será–morto e–estai com o–rei quando–sair e–quando–entrar
+-- c11-v9: E–fizeram capitães-de [as–centenas] as–centenas conforme–tudo que ordenou Yehoyada o–sacerdote e–tomaram homem (a) seus–homens entrando-de o–sábado com saindo-de o–sábado e–vieram a Yehoyada o–sacerdote
+-- c11-v10: E–deu o–sacerdote a–capitães-de [as–centenas] as–centenas (a) as–lanças e–(a) os–escudos que de–o–rei David que em–casa-de YHWH
+-- c11-v11: E–puseram-se-de-pé os–corredores homem e–suas–armas em–sua–mão de–ombro-de a–casa o–direito até ombro-de a–casa o–esquerdo junto–ao–altar e–junto–à–casa sobre o–rei ao-redor
+-- c11-v12: E–fez-sair (a) filho-de o–rei e–pôs sobre–ele (a) a–coroa e–(a) o–testemunho e–fizeram-rei (a)–ele e–ungiram-o e–bateram palma e–disseram viva o–rei §
+-- c11-v13: E–ouviu Atalyah (a) som-de os–corredores o–povo e–veio a o–povo casa-de YHWH
+-- c11-v14: E–viu e–eis o–rei de-pé sobre a–coluna conforme–o–costume e–os–príncipes e–as–trombetas a o–rei e–todo povo-de a–terra alegre e–tocando com–trombetas e–rasgou Atalyah (a) suas–roupas e–gritou traição traição §
+-- c11-v15: E–ordenou Yehoyada o–sacerdote (a) capitães-de [as–centenas] as–centenas comandantes-de o–exército e–disse a–eles fazei-sair (a)–ela para de–dentro-de as–fileiras e–o–que–vier atrás–dela será–morto com–a–espada pois disse o–sacerdote não seja–morta casa-de YHWH
+-- c11-v16: E–puseram para–ela mãos e–veio caminho-de entrada-de os–cavalos casa-de o–rei e–foi–morta lá §
+-- c11-v17: E–cortou Yehoyada (a) a–aliança entre YHWH e–entre o–rei e–entre o–povo para–ser para–povo de–YHWH e–entre o–rei e–entre o–povo
+-- c11-v18: E–entrou todo povo-de a–terra casa-de o–Baal e–derrubaram-no (a) [seu–altar] seus–altares e–(a) suas–imagens quebraram completamente e–(a) Matan sacerdote-de o–Baal mataram diante-de os–altares e–pôs o–sacerdote guardas sobre casa-de YHWH
+-- c11-v19: E–tomou (a) capitães-de as–centenas e–(a) os–caritas e–(a) os–corredores e–(a) todo povo-de a–terra e–fizeram-descer (a) o–rei de–casa-de YHWH e–vieram caminho-de portão-de os–corredores casa-de o–rei e–sentou-se sobre trono-de os–reis
+-- c11-v20: E–alegrou-se todo povo-de a–terra e–a–cidade aquietou-se e–(a) Atalyahu mataram com–a–espada casa-de [rei] o–rei §
+-- c11-v21: Filho-de sete anos Yehoash quando–reinou ¶
+-- c12-v1: No–ano-de sete de–Yehu reinou Yehoash e–quarenta anos reinou em–Yerushalayim e–nome-de sua–mãe Tzivyah de–Beer–Sheva
+-- c12-v2: E–fez Yehoash o–reto nos–olhos-de YHWH todos seus–dias que instruiu-o Yehoyada o–sacerdote
+-- c12-v3: Somente os–altos não afastaram-se ainda o–povo sacrificando e–queimando-incenso nos–altos
+-- c12-v4: E–disse Yehoash aos sacerdotes toda prata-de as–coisas-santas que for–trazida casa-de YHWH prata-de passando homem prata-de almas sua–avaliação toda prata que subir sobre coração-de homem para–trazer casa-de YHWH
+-- c12-v5: Tomem para–si os–sacerdotes homem de seu–conhecido e–eles repararão (a) dano-de a–casa para–tudo que for–encontrado lá dano ¶
+-- c12-v6: E–aconteceu no–ano-de vinte e–três anos para–o–rei Yehoash não repararam os–sacerdotes (a) dano-de a–casa
+-- c12-v7: E–chamou o–rei Yehoash a–Yehoyada o–sacerdote e–aos–sacerdotes e–disse a–eles por-que não–estais reparando (a) dano-de a–casa e–agora não tomeis prata de vossos–conhecidos pois para–dano-de a–casa dareis-a
+-- c12-v8: E–consentiram os–sacerdotes para–não tomar prata de o–povo e–para–não reparar (a) dano-de a–casa
+-- c12-v9: E–tomou Yehoyada o–sacerdote arca uma e–furou buraco em–sua–tampa e–colocou (a)–ela ao-lado-de o–altar [na–direita] na–direita quando–entrar homem casa-de YHWH e–colocavam lá os–sacerdotes guardas-de a–soleira (a) toda a–prata a–trazida casa-de YHWH
+-- c12-v10: E–acontecia quando–viam que muita a–prata na–arca e–subia escriba-de o–rei e–o–sacerdote o–grande e–embrulhavam e–contavam (a) a–prata a–encontrada casa-de YHWH
+-- c12-v11: E–davam (a) a–prata a–pesada sobre [mão-de] mãos-de fazedores-de a–obra [os–encarregados] os–encarregados casa-de YHWH e–gastavam-a para–artesãos-de a–madeira e–para–construtores os–que–trabalhavam casa-de YHWH
+-- c12-v12: E–para–os–pedreiros e–para–os–cortadores-de a–pedra e–para–comprar madeiras e–pedras-de cantaria para–reparar (a) dano-de casa-de YHWH e–para–tudo que sair sobre a–casa para–reparar
+-- c12-v13: Mas não será–feito casa-de YHWH bacias-de prata tesouras vasilhas trombetas todo utensílio-de ouro e–utensílio-de prata de a–prata a–trazida casa-de YHWH
+-- c12-v14: Pois para–fazedores-de a–obra dariam-a e–repararam com–ela (a) casa-de YHWH
+-- c12-v15: E–não prestavam-contas (a) os–homens que davam (a) a–prata sobre sua–mão para–dar para–fazedores-de a–obra pois em–fidelidade eles fazendo
+-- c12-v16: Prata-de oferta-pela-culpa e–prata-de oferta-pelo-pecado não era–trazida casa-de YHWH para–os–sacerdotes seriam ¶
+-- c12-v17: Então subiu Chazael rei-de Aram e–lutou contra Gat e–tomou-a e–pôs Chazael sua–face para–subir contra Yerushalayim
+-- c12-v18: E–tomou Yehoash rei-de Yehudah (a) todas as–coisas-santas que santificaram Yehoshafat e–Yehoram e–Achazyahu seus–pais reis-de Yehudah e–(a) suas–coisas-santas e–(a) todo o–ouro o–encontrado nos–tesouros-de casa-de YHWH e–casa-de o–rei e–enviou a–Chazael rei-de Aram e–subiu de–sobre Yerushalayim
+-- c12-v19: E–resto-de atos-de Yoash e–tudo que fez não eles escritos sobre livro-de atos-de os–dias para–reis-de Yehudah
+-- c12-v20: E–levantaram-se seus–servos e–conspiraram conspiração e–feriram (a) Yoash casa-de Millo a–descida-de Silla
+-- c12-v21: E–Yozavad filho-de Shimat e–Yehozavad filho-de Shomer seus–servos feriram-o e–morreu e–sepultaram (a)–ele com seus–pais na–cidade-de David e–reinou Amatziah seu–filho em-seu-lugar ¶
+-- c13-v1: No–ano–de vinte e–três ano de–Yoash filho–de Achazyahu rei–de Yehudah reinou Yehoachaz filho–de Yehu sobre Yisrael em–Shomron sete dez anos
+-- c13-v2: E–fez o–mal aos–olhos–de YHWH e–andou após pecados–de Yarovam filho–de Nevat que fez–pecar (a) Yisrael não se–afastou dela
+-- c13-v3: E–acendeu-se ira–de YHWH em–Yisrael e–entregou-os na–mão–de Chazael rei–de Aram e–na–mão–de Ben-Hadad filho–de Chazael todos os–dias
+-- c13-v4: E–implorou Yehoachaz (a) face–de YHWH e–ouviu a–ele YHWH porque viu (a) opressão–de Yisrael porque oprimia eles rei–de Aram
+-- c13-v5: E–deu YHWH a–Yisrael salvador e–saíram de–debaixo–de mão–de Aram e–habitaram filhos–de Yisrael em–suas–tendas como–ontem anteontem
+-- c13-v6: Porém não se–afastaram dos–pecados–de casa–de Yarovam que [fez–pecar] (fez–pecar) (a) Yisrael nela andou e–também a–Asherah permaneceu em–Shomron
+-- c13-v7: Porque não deixou a–Yehoachaz povo senão apenas cinquenta cavaleiros e–dez carros e–dez mil a–pé porque destruiu-os rei–de Aram e–fê-los como–pó para–trilhar
+-- c13-v8: E–resto–de palavras–de Yehoachaz e–tudo que fez e–seu–poder não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael
+-- c13-v9: E–deitou-se Yehoachaz com seus–pais e–sepultaram-no em–Shomron e–reinou Yoash seu–filho em–seu–lugar ¶
+-- c13-v10: No–ano–de trinta e–sete ano de–Yoash rei–de Yehudah reinou Yehoash filho–de Yehoachaz sobre Yisrael em–Shomron seis dez anos
+-- c13-v11: E–fez o–mal aos–olhos–de YHWH não se–afastou de–todos pecados–de Yarovam filho–de Nevat que fez–pecar (a) Yisrael nela andou
+-- c13-v12: E–resto–de palavras–de Yoash e–tudo que fez e–seu–poder que lutou com Amatsyah rei–de Yehudah não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael
+-- c13-v13: E–deitou-se Yoash com seus–pais e–Yarovam sentou-se sobre seu–trono e–foi–sepultado Yoash em–Shomron com reis–de Yisrael ¶
+-- c13-v14: E–Elisha adoeceu (a) sua–doença que morreria nela e–desceu a–ele Yoash rei–de Yisrael e–chorou sobre sua–face e–disse Meu–pai meu–pai carro–de Yisrael e–seus–cavaleiros
+-- c13-v15: E–disse a–ele Elisha toma arco e–flechas e–tomou para–ele arco e–flechas
+-- c13-v16: E–disse ao–rei–de Yisrael faz–cavalgar tua–mão sobre o–arco e–fez–cavalgar sua–mão e–pôs Elisha suas–mãos sobre mãos–de o–rei
+-- c13-v17: E–disse abre a–janela para–o–oriente e–abriu e–disse Elisha atira e–atirou e–disse flecha–de salvação para–YHWH e–flecha–de salvação em–Aram e–ferirás (a) Aram em–Afeq até consumires
+-- c13-v18: E–disse toma as–flechas e–tomou e–disse ao–rei–de Yisrael fere terra e–feriu três vezes e–parou
+-- c13-v19: E–irou-se contra–ele homem–de o–Deus e–disse para–ferir cinco ou seis vezes então terias–ferido (a) Aram até consumires e–agora três vezes ferirás (a) Aram §
+-- c13-v20: E–morreu Elisha e–sepultaram-no e–bandos–de Moav vinham na–terra na–entrada–de ano
+-- c13-v21: E–aconteceu eles enterrando homem e–eis viram (a) o–bando e–lançaram (a) o–homem no–sepulcro–de Elisha e–foi e–tocou o–homem nos–ossos–de Elisha e–viveu e–levantou-se sobre seus–pés ¶
+-- c13-v22: E–Chazael rei–de Aram oprimiu (a) Yisrael todos dias–de Yehoachaz
+-- c13-v23: E–teve–compaixão YHWH deles e–teve–misericórdia–deles e–voltou-se para–eles por–causa–de sua–aliança com Avraham Yitschaq e–Yaaqov e–não quis destruí-los e–não lançou-os de–sobre sua–face até agora
+-- c13-v24: E–morreu Chazael rei–de Aram e–reinou Ben-Hadad seu–filho em–seu–lugar
+-- c13-v25: E–voltou Yehoash filho–de Yehoachaz e–tomou (a) as–cidades da–mão–de Ben-Hadad filho–de Chazael que havia–tomado da–mão–de Yehoachaz seu–pai na–guerra três vezes feriu-o Yoash e–devolveu (a) cidades–de Yisrael ¶
+-- c14-v1: No–ano–de dois de–Yoash filho–de Yoachaz rei–de Yisrael reinou Amatsyahu filho–de Yoash rei–de Yehudah
+-- c14-v2: Filho–de vinte e–cinco anos era quando–reinou e–vinte e–nove anos reinou em–Yerushalayim e–nome–de sua–mãe [Yehoaddin] (Yehoaddan) de Yerushalayim
+-- c14-v3: E–fez o–reto aos–olhos–de YHWH somente não como–David seu–pai conforme–tudo que fez Yoash seu–pai fez
+-- c14-v4: Somente os–altos não foram–removidos ainda o–povo sacrificando e–queimando–incenso nos–altos
+-- c14-v5: E–aconteceu quando fortaleceu-se o–reino em–sua–mão e–feriu (a) seus–servos os–que–feriram (a) o–rei seu–pai
+-- c14-v6: E–aos filhos–de os–que–feriram não matou conforme–escrito no–livro–de Torah–de Mosheh que ordenou YHWH dizendo não morrerão pais por filhos e–filhos não morrerão por pais porque somente homem por–seu–pecado [morrerá] (morrerá)
+-- c14-v7: Ele feriu (a) Edom no–Vale–de [Hamelach] (Sal) dez mil e–capturou (a) a–Rocha na–guerra e–chamou (a) seu–nome Yoqteel até o–dia o–este ¶
+-- c14-v8: Então enviou Amatsyah mensageiros a Yehoash filho–de Yehoachaz filho–de Yehu rei–de Yisrael dizendo vem encontremo-nos face–a–face
+-- c14-v9: E–enviou Yehoash rei–de Yisrael a Amatsyahu rei–de Yehudah dizendo O–espinheiro que no–Levanon enviou ao cedro que no–Levanon dizendo dá (a) tua–filha a–meu–filho por–esposa e–passou animal–de o–campo que no–Levanon e–pisou (a) o–espinheiro
+-- c14-v10: Ferindo feriste (a) Edom e–elevou-te teu–coração glorifica-te e–senta-te em–tua–casa e–por–que provocarás em–mal e–cairás tu e–Yehudah contigo
+-- c14-v11: E–não ouviu Amatsyahu e–subiu Yehoash rei–de Yisrael e–encontraram-se faces ele e–Amatsyahu rei–de Yehudah em–Beit-Shemesh que de–Yehudah
+-- c14-v12: E–foi–derrotado Yehudah diante–de Yisrael e–fugiram homem [para–sua–tenda] (para–suas–tendas)
+-- c14-v13: E–a Amatsyahu rei–de Yehudah filho–de Yehoash filho–de Achazyahu capturou Yehoash rei–de Yisrael em–Beit-Shemesh [e–veio] (e–veio) Yerushalayim e–rompeu na–muralha–de Yerushalayim no–portão–de Efrayim até portão–de a–Esquina quatrocentos cem côvados
+-- c14-v14: E–tomou (a) todo o–ouro e–a–prata e–a todos os–utensílios encontrados casa–de YHWH e–nos–tesouros–de casa–de o–rei e–os filhos–de os–reféns e–voltou Shomron
+-- c14-v15: E–resto–de palavras–de Yehoash que fez e–seu–poder e–que lutou com Amatsyahu rei–de Yehudah não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael
+-- c14-v16: E–deitou-se Yehoash com seus–pais e–foi–sepultado em–Shomron com reis–de Yisrael e–reinou Yarovam seu–filho em–seu–lugar ¶
+-- c14-v17: E–viveu Amatsyahu filho–de Yoash rei–de Yehudah depois–de morte–de Yehoash filho–de Yehoachaz rei–de Yisrael quinze dez anos
+-- c14-v18: E–resto–de palavras–de Amatsyahu não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yehudah
+-- c14-v19: E–conspiraram contra–ele conspiração em–Yerushalayim e–fugiu Lachish e–enviaram após–ele Lachish e–mataram-no lá
+-- c14-v20: E–carregaram ele sobre os–cavalos e–foi–sepultado em–Yerushalayim com seus–pais na–cidade–de David
+-- c14-v21: E–tomaram todo povo–de Yehudah (a) Azaryah e–ele filho–de dezesseis dez anos e–fizeram–rei ele no–lugar–de seu–pai Amatsyahu
+-- c14-v22: Ele construiu (a) Eilat e–restaurou-a a–Yehudah depois–de deitar-se o–rei com seus–pais ¶
+-- c14-v23: No–ano–de quinze dez ano de–Amatsyahu filho–de Yoash rei–de Yehudah reinou Yarovam filho–de Yoash rei–de Yisrael em–Shomron quarenta e–um anos
+-- c14-v24: E–fez o–mal aos–olhos–de YHWH não se–afastou de–todos pecados–de Yarovam filho–de Nevat que fez–pecar (a) Yisrael
+-- c14-v25: Ele restaurou (a) fronteira–de Yisrael desde–entrada–de Chamat até Mar–de a–Aravah conforme–palavra–de YHWH Deus–de Yisrael que falou por–mão–de seu–servo Yonah filho–de Amittai o–profeta que de–Gat-Chefer
+-- c14-v26: Porque viu YHWH (a) aflição–de Yisrael amarga muito e–nenhum preso e–nenhum abandonado e–não–havia ajudador para–Yisrael
+-- c14-v27: E–não falou YHWH para–apagar (a) nome–de Yisrael de–debaixo–de os–céus e–salvou-os por–mão–de Yarovam filho–de Yoash
+-- c14-v28: E–resto–de palavras–de Yarovam e–tudo que fez e–seu–poder que lutou e–que restaurou (a) Damasco e–a Chamat para–Yehudah em–Yisrael não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael
+-- c14-v29: E–deitou-se Yarovam com seus–pais com reis–de Yisrael e–reinou Zecharyah seu–filho em–seu–lugar ¶
+-- c15-v1: No–ano–de vinte e–sete ano de–Yarovam rei–de Yisrael reinou Azaryah filho–de Amatsyah rei–de Yehudah
+-- c15-v2: Filho–de dezesseis dez anos era quando–reinou e–cinquenta e–dois anos reinou em–Yerushalayim e–nome–de sua–mãe Yecholyahu de–Yerushalayim
+-- c15-v3: E–fez o–reto aos–olhos–de YHWH conforme–tudo que fez Amatsyahu seu–pai
+-- c15-v4: Somente os–altos não foram–removidos ainda o–povo sacrificando e–queimando–incenso nos–altos
+-- c15-v5: E–feriu YHWH (a) o–rei e–era leproso até dia–de sua–morte e–habitou em–casa–de a–liberdade e–Yotam filho–de o–rei sobre a–casa julgando (a) povo–de a–terra
+-- c15-v6: E–resto–de palavras–de Azaryahu e–tudo que fez não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yehudah
+-- c15-v7: E–deitou-se Azaryah com seus–pais e–sepultaram ele com seus–pais na–cidade–de David e–reinou Yotam seu–filho em–seu–lugar ¶
+-- c15-v8: No–ano–de trinta e–oito ano de–Azaryahu rei–de Yehudah reinou Zecharyahu filho–de Yarovam sobre Yisrael em–Shomron seis meses
+-- c15-v9: E–fez o–mal aos–olhos–de YHWH como fizeram seus–pais não se–afastou dos–pecados–de Yarovam filho–de Nevat que fez–pecar (a) Yisrael
+-- c15-v10: E–conspirou contra–ele Shallum filho–de Yavesh e–feriu-o diante–de povo e–matou-o e–reinou em–seu–lugar
+-- c15-v11: E–resto–de palavras–de Zecharyah eis escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael
+-- c15-v12: Ela palavra–de YHWH que falou a Yehu dizendo Filhos–de quartas-gerações sentar–se–ão para–ti sobre trono–de Yisrael e–foi assim ¶
+-- c15-v13: Shallum filho–de Yavesh reinou no–ano–de trinta e–nove ano de–Uzziyah rei–de Yehudah e–reinou mês–de dias em–Shomron
+-- c15-v14: E–subiu Menachem filho–de Gadi de–Tirtsah e–veio Shomron e–feriu (a) Shallum filho–de Yavesh em–Shomron e–matou-o e–reinou em–seu–lugar
+-- c15-v15: E–resto–de palavras–de Shallum e–sua–conspiração que conspirou eis escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael §
+-- c15-v16: Então feriu Menachem (a) Tifsach e–a tudo que nela e–a seus–limites de–Tirtsah porque não abriu e–feriu (a) todas as–grávidas rasgou ¶
+-- c15-v17: No–ano–de trinta e–nove ano de–Azaryah rei–de Yehudah reinou Menachem filho–de Gadi sobre Yisrael dez anos em–Shomron
+-- c15-v18: E–fez o–mal aos–olhos–de YHWH não se–afastou de–sobre pecados–de Yarovam filho–de Nevat que fez–pecar (a) Yisrael todos seus–dias
+-- c15-v19: Veio Pul rei–de Assur sobre a–terra e–deu Menachem a–Pul mil talentos–de prata para–ser suas–mãos com–ele para–fortalecer o–reino em–sua–mão
+-- c15-v20: E–tirou Menachem (a) a–prata de–sobre Yisrael de–sobre todos poderosos–de a–força para–dar ao–rei–de Assur cinquenta siclos prata para–homem um e–voltou rei–de Assur e–não ficou lá na–terra
+-- c15-v21: E–resto–de palavras–de Menachem e–tudo que fez não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael
+-- c15-v22: E–deitou-se Menachem com seus–pais e–reinou Peqachyah seu–filho em–seu–lugar ¶
+-- c15-v23: No–ano–de cinquenta ano de–Azaryah rei–de Yehudah reinou Peqachyah filho–de Menachem sobre Yisrael em–Shomron dois–anos
+-- c15-v24: E–fez o–mal aos–olhos–de YHWH não se–afastou dos–pecados–de Yarovam filho–de Nevat que fez–pecar (a) Yisrael
+-- c15-v25: E–conspirou contra–ele Peqach filho–de Remalyahu seu–oficial e–feriu-o em–Shomron no–palácio–de casa–de [rei] (o–rei) (a) Argov e–a Aryeh e–com–ele cinquenta homem dos–filhos–de Giladim e–matou-o e–reinou em–seu–lugar
+-- c15-v26: E–resto–de palavras–de Peqachyah e–tudo que fez eis escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael ¶
+-- c15-v27: No–ano–de cinquenta e–dois ano de–Azaryah rei–de Yehudah reinou Peqach filho–de Remalyahu sobre Yisrael em–Shomron vinte anos
+-- c15-v28: E–fez o–mal aos–olhos–de YHWH não se–afastou de pecados–de Yarovam filho–de Nevat que fez–pecar (a) Yisrael
+-- c15-v29: Nos–dias–de Peqach rei–de Yisrael veio Tiglat-Pileser rei–de Assur e–tomou (a) Iyyon e–a Avel-Beit-Maachah e–a Yanoach e–a Qedesh e–a Chatsor e–a o–Gilad e–a a–Galileia toda terra–de Naftali e–exilou-os Assur
+-- c15-v30: E–conspirou conspiração Hoshea filho–de Elah contra Peqach filho–de Remalyahu e–feriu-o e–matou-o e–reinou em–seu–lugar no–ano–de vinte de–Yotam filho–de Uzziyah
+-- c15-v31: E–resto–de palavras–de Peqach e–tudo que fez eis escritos sobre livro–de palavras–de os–dias para–reis–de Yisrael ¶
+-- c15-v32: No–ano–de dois de–Peqach filho–de Remalyahu rei–de Yisrael reinou Yotam filho–de Uzziyahu rei–de Yehudah
+-- c15-v33: Filho–de vinte e–cinco anos era quando–reinou e–dezesseis dez anos reinou em–Yerushalayim e–nome–de sua–mãe Yerusha filha–de Tsadoq
+-- c15-v34: E–fez o–reto aos–olhos–de YHWH conforme–tudo que fez Uzziyahu seu–pai fez
+-- c15-v35: Somente os–altos não foram–removidos ainda o–povo sacrificando e–queimando–incenso nos–altos ele construiu (a) portão–de casa–de YHWH o–alto
+-- c15-v36: E–resto–de palavras–de Yotam que fez não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yehudah
+-- c15-v37: Naqueles–dias aqueles começou YHWH a–enviar em–Yehudah Retsin rei–de Aram e–a Peqach filho–de Remalyahu
+-- c15-v38: E–deitou-se Yotam com seus–pais e–foi–sepultado com seus–pais na–cidade–de David seu–pai e–reinou Achaz seu–filho em–seu–lugar ¶
+-- c16-v1: No–ano–de dezessete dez ano de–Peqach filho–de Remalyahu reinou Achaz filho–de Yotam rei–de Yehudah
+-- c16-v2: Filho–de vinte anos Achaz quando–reinou e–dezesseis dez anos reinou em–Yerushalayim e–não fez o–reto aos–olhos–de YHWH seu–Deus como–David seu–pai
+-- c16-v3: E–andou no–caminho–de reis–de Yisrael e–também (a) seu–filho fez–passar no–fogo conforme–abominações–de as–nações que expulsou YHWH eles de–diante–de filhos–de Yisrael
+-- c16-v4: E–sacrificou e–queimou–incenso nos–altos e–sobre as–colinas e–debaixo–de toda árvore verde
+-- c16-v5: Então subiu Retsin rei–de Aram e–Peqach filho–de Remalyahu rei–de Yisrael Yerushalayim para–a–guerra e–sitiaram contra Achaz e–não puderam para–lutar
+-- c16-v6: Naquele–tempo aquele restaurou Retsin rei–de Aram (a) Eilat para–Aram e–expulsou (a) os–judeus de–Eilat [e–arameus] (e–edomitas) vieram Eilat e–habitaram lá até o–dia o–este ¶
+-- c16-v7: E–enviou Achaz mensageiros a Tiglat Pileser rei–de Assur dizendo Teu–servo e–teu–filho eu sobe e–salva-me da–palma–de rei–de Aram e–da–palma–de rei–de Yisrael os–que–se–levantam contra–mim
+-- c16-v8: E–tomou Achaz (a) a–prata e–a o–ouro o–encontrado casa–de YHWH e–nos–tesouros–de casa–de o–rei e–enviou ao–rei–de Assur presente
+-- c16-v9: E–ouviu a–ele rei–de Assur e–subiu rei–de Assur a Damasco e–capturou-a e–exilou-a Qir e–a Retsin matou
+-- c16-v10: E–foi o–rei Achaz ao–encontro–de Tiglat Pileser rei–de Assur Damasco e–viu (a) o–altar que em–Damasco e–enviou o–rei Achaz a Uriyah o–sacerdote (a) semelhança–de o–altar e–a seu–modelo conforme–toda sua–obra
+-- c16-v11: E–construiu Uriyah o–sacerdote (a) o–altar conforme–tudo que enviou o–rei Achaz de–Damasco assim fez Uriyah o–sacerdote até vir o–rei Achaz de–Damasco
+-- c16-v12: E–veio o–rei de–Damasco e–viu o–rei (a) o–altar e–aproximou-se o–rei sobre o–altar e–subiu sobre–ele
+-- c16-v13: E–queimou–incenso (a) seu–holocausto e–a sua–oferta e–derramou (a) sua–libação e–aspergiu (a) sangue–de as–ofertas–de–paz que para–ele sobre o–altar
+-- c16-v14: E–o altar–de o–bronze que diante–de YHWH e–aproximou de–diante–de face–de a–casa de–entre o–altar e–de–entre casa–de YHWH e–colocou ele ao lado–de o–altar ao–norte
+-- c16-v15: [e–ordenou-lhe] (e–ordenou) o–rei Achaz (a) Uriyah o–sacerdote dizendo Sobre o–altar o–grande queima–incenso (a) holocausto–de a–manhã e–a oferta–de a–tarde e–a holocausto–de o–rei e–a sua–oferta e–a holocausto–de todo povo–de a–terra e–sua–oferta e–suas–libações e–todo sangue–de holocausto e–todo sangue–de sacrifício sobre–ele aspergirás e–altar–de o–bronze será para–mim para–consultar
+-- c16-v16: E–fez Uriyah o–sacerdote conforme–tudo que ordenou o–rei Achaz
+-- c16-v17: E–cortou o–rei Achaz (a) as–bordas–de as–bases e–removeu de–sobre–elas [e–a] (a) a–bacia e–a o–mar fez–descer de–sobre os–bois–de o–bronze que debaixo–dela e–colocou ele sobre pavimento–de pedras
+-- c16-v18: E–a [passarela] (cobertura) do–sábado que construíram na–casa e–a entrada–de o–rei a–exterior transferiu casa–de YHWH por–causa–de rei–de Assur
+-- c16-v19: E–resto–de palavras–de Achaz que fez não–estão eles escritos sobre livro–de palavras–de os–dias para–reis–de Yehudah
+-- c16-v20: E–deitou-se Achaz com seus–pais e–foi–sepultado com seus–pais na–cidade–de David e–reinou Chizqiyahu seu–filho em–seu–lugar ¶
+-- c17-v1: No–ano–de dois dez de–Achaz rei–de Yehudah reinou Hoshea filho–de Elah em–Shomron sobre Yisrael nove anos
+-- c17-v2: E–fez o–mal aos–olhos–de YHWH porém não como–reis–de Yisrael que foram diante–dele
+-- c17-v3: Contra–ele subiu Shalman'eser rei–de Ashur e–foi para–ele Hoshea servo e–devolveu para–ele tributo
+-- c17-v4: E–encontrou rei–de Ashur em–Hoshea conspiração que enviou mensageiros a So rei–de Mitsrayim e–não fez–subir tributo para–rei–de Ashur como–ano em–ano e–prendeu–o rei–de Ashur e–amarrou–o casa–de prisão
+-- c17-v5: E–subiu rei–de Ashur por–toda a–terra e–subiu Shomron e–sitiou contra–ela três anos
+-- c17-v6: No–ano–de o–nono de–Hoshea capturou rei–de Ashur (a) Shomron e–exilou (a) Yisrael para–Ashur e–fez–habitar (a)–eles em–Chalach e–em–Chavor rio–de Gozan e–cidades–de Maday ¶
+-- c17-v7: E–foi porque pecaram filhos–de Yisrael contra–YHWH Deus–deles o–que–fez–subir (a)–eles de–terra–de Mitsrayim de–debaixo–de mão–de Faraó rei–de Mitsrayim e–temeram deuses outros
+-- c17-v8: E–andaram nos–estatutos–de as–nações que expulsou YHWH de–diante–de filhos–de Yisrael e–reis–de Yisrael que fizeram
+-- c17-v9: E–encobriram filhos–de Yisrael palavras que não assim sobre YHWH Deus–deles e–construíram para–eles lugares–altos em–todas cidades–deles desde–torre–de vigias até cidade fortificada
+-- c17-v10: E–ergueram para–eles colunas e–postes–sagrados sobre todo monte alto e–debaixo–de toda árvore verde
+-- c17-v11: E–queimaram–incenso ali em–todos lugares–altos como–as–nações que exilou YHWH de–diante–deles e–fizeram coisas más para–provocar (a) YHWH
+-- c17-v12: E–serviram os–ídolos que disse YHWH a–eles não fareis (a) a–coisa esta
+-- c17-v13: E–advertiu YHWH em–Yisrael e–em–Yehudah por–mão–de todo [profeta–seu] (profetas) todo vidente dizendo Voltai dos–caminhos–vossos os–maus e–guardai mandamentos–meus estatutos–meus conforme–toda a–Torá que ordenei (a) pais–vossos e–que enviei a–vós por–mão–de servos–meus os–profetas
+-- c17-v14: E–não ouviram e–endureceram (a) cerviz–deles como–cerviz–de pais–deles que não creram em–YHWH Deus–deles
+-- c17-v15: E–rejeitaram (a) estatutos–dele e–(a) aliança–dele que cortou com pais–deles e–(a) testemunhos–dele que testemunhou neles e–andaram atrás–de a–vaidade e–tornaram–se–vãos e–atrás–de as–nações que ao–redor–deles que ordenou YHWH (a)–eles para–não fazer como–eles
+-- c17-v16: E–abandonaram (a) todos mandamentos–de YHWH Deus–deles e–fizeram para–eles imagem–fundida [dois] (dois) bezerros e–fizeram poste–sagrado e–prostraram–se para–todo exército–de os–céus e–serviram (a) o–Baal
+-- c17-v17: E–fizeram–passar (a) filhos–deles e–(a) filhas–deles no–fogo e–adivinharam adivinhações e–agouraram e–venderam–se para–fazer o–mal aos–olhos–de YHWH para–provocá–lo
+-- c17-v18: E–irou–se YHWH muito com–Yisrael e–removeu–os de–sobre face–dele não restou senão tribo–de Yehudah sozinho
+-- c17-v19: Também Yehudah não guardou (a) mandamentos–de YHWH Deus–deles e–andaram nos–estatutos–de Yisrael que fizeram
+-- c17-v20: E–rejeitou YHWH (a)–toda semente–de Yisrael e–afligiu–os e–entregou–os em–mão–de saqueadores até que lançou–os de–face–dele
+-- c17-v21: Porque rasgou Yisrael de–sobre casa–de David e–fizeram–rei (a) Yarovam filho–de Nevat [e–impeliu] (e–impeliu) Yarovam (a) Yisrael de–após YHWH e–fez–pecar–os pecado grande
+-- c17-v22: E–andaram filhos–de Yisrael em–todos pecados–de Yarovam que fez não afastaram–se dela
+-- c17-v23: Até que removeu YHWH (a) Yisrael de–sobre face–dele como falou por–mão–de todos servos–dele os–profetas e–foi–exilado Yisrael de–sobre terra–dele para–Ashur até o–dia este ¶
+-- c17-v24: E–trouxe rei–de Ashur de–Bavel e–de–Kutah e–de–Avva e–de–Chamat e–Sefarvaim e–fez–habitar nas–cidades–de Shomron em–lugar–de filhos–de Yisrael e–possuíram (a) Shomron e–habitaram nas–cidades–dela
+-- c17-v25: E–foi no–princípio–de habitar–deles ali não temeram (a) YHWH e–enviou YHWH entre–eles (a) os–leões e–estavam matando entre–eles
+-- c17-v26: E–disseram ao–rei–de Ashur dizendo As–nações que exilaste e–fizeste–habitar nas–cidades–de Shomron não conhecem (a) juízo–de deus–de a–terra e–enviou entre–eles (a) os–leões e–eis–que matando (a)–eles porque não–eles conhecem (a) juízo–de deus–de a–terra
+-- c17-v27: E–ordenou rei–de Ashur dizendo Fazei–ir para–lá um dos–sacerdotes que exilastes de–lá e–irão e–habitarão lá e–ensinará–os (a) juízo–de deus–de a–terra
+-- c17-v28: E–veio um dos–sacerdotes que exilaram de–Shomron e–habitou em–Beit–El e–estava ensinando (a)–eles como temerão (a) YHWH
+-- c17-v29: E–estavam fazendo nação nação deuses–dela e–colocaram em–casa–de os–lugares–altos que fizeram os–shomronitas nação nação nas–cidades–deles que eles habitando lá
+-- c17-v30: E–homens–de Bavel fizeram (a) Sukot Benot e–homens–de Kut fizeram (a) Nergal e–homens–de Chamat fizeram (a) Ashima
+-- c17-v31: E–os–avitas fizeram Nivchaz e–(a) Tartak e–os–sefarvitas queimando (a) filhos–deles no–fogo para–Adramelekh e–Anamelekh [deuses] (deuses–de) [Sefarim] (Sefarvaim)
+-- c17-v32: E–estavam temendo (a) YHWH e–fizeram para–eles de–entre–eles sacerdotes–de lugares–altos e–estavam fazendo para–eles em–casa–de os–lugares–altos
+-- c17-v33: (a) YHWH estavam temendo e–(a) deuses–deles estavam servindo conforme–juízo–de as–nações que exilaram (a)–eles de–lá
+-- c17-v34: Até o–dia este eles fazendo conforme–os–juízos os–primeiros não–eles temendo (a) YHWH e–não–eles fazendo conforme–estatutos–deles e–conforme–juízo–deles e–conforme–a–Torá e–conforme–o–mandamento que ordenou YHWH (a) filhos–de Yaakov que pôs nome–dele Yisrael
+-- c17-v35: E–cortou YHWH com–eles aliança e–ordenou–lhes dizendo Não temereis deuses outros e–não prostrar–vos–eis a–eles e–não servireis–os e–não sacrificareis a–eles
+-- c17-v36: Porque se (a) YHWH que fez–subir (a)–vós de–terra–de Mitsrayim com–força grande e–com–braço estendido (a)–ele temereis e–para–ele prostrar–vos–eis e–para–ele sacrificareis
+-- c17-v37: E–(a) os–estatutos e–(a) os–juízos e–a–Torá e–o–mandamento que escreveu para–vós guardareis para–fazer todos os–dias e–não temereis deuses outros
+-- c17-v38: E–a–aliança que cortei convosco não esquecereis e–não temereis deuses outros
+-- c17-v39: Porque se (a) YHWH Deus–vosso temereis e–ele livrará (a)–vós de–mão–de todos inimigos–vossos
+-- c17-v40: E–não ouviram porque se conforme–juízo–deles o–primeiro eles fazendo
+-- c17-v41: E–estavam as–nações estas temendo (a) YHWH e–(a) ídolos–deles estavam servindo também filhos–deles e–filhos–de filhos–deles como fizeram pais–deles eles fazendo até o–dia este ¶
+-- c18-v1: E–foi no–ano–de três de–Hoshea filho–de Elah rei–de Yisrael reinou Chizkiyahu filho–de Achaz rei–de Yehudah
+-- c18-v2: Filho–de vinte e–cinco anos era ao–reinar–dele e–vinte e–nove anos reinou em–Yerushalayim e–nome–de mãe–dele Avi filha–de Zekharyah
+-- c18-v3: E–fez o–reto aos–olhos–de YHWH conforme–tudo que fez David pai–dele
+-- c18-v4: Ele removeu (a) os–lugares–altos e–quebrou (a) as–colunas e–cortou (a) o–poste–sagrado e–despedaçou serpente–de o–bronze que fez Mosheh porque até os–dias aqueles estavam filhos–de Yisrael queimando–incenso a–ela e–chamou a–ela Nechushtan
+-- c18-v5: Em–YHWH Deus–de Yisrael confiou e–depois–dele não houve como–ele em–todos reis–de Yehudah e–que foram diante–dele
+-- c18-v6: E–apegou–se a–YHWH não afastou–se de–após–ele e–guardou mandamentos–dele que ordenou YHWH (a) Mosheh
+-- c18-v7: E–estava YHWH com–ele em–tudo que saía prosperava e–rebelou–se contra–rei–de Ashur e–não serviu–o
+-- c18-v8: Ele feriu (a) filisteus até Azzah e–(a) territórios–dela desde–torre–de vigias até cidade fortificada ¶
+-- c18-v9: E–foi no–ano o–quarto do–rei Chizkiyahu ela o–ano o–sétimo de–Hoshea filho–de Elah rei–de Yisrael subiu Shalman’eser rei–de Ashur sobre Shomron e–sitiou contra–ela
+-- c18-v10: E–capturaram–na ao–fim–de três anos no–ano–de seis de–Chizkiyahu ela ano–de nove de–Hoshea rei–de Yisrael foi–capturada Shomron
+-- c18-v11: E–exilou rei–de Ashur (a) Yisrael para–Ashur e–colocou–os em–Chalach e–em–Chavor rio–de Gozan e–cidades–de Maday
+-- c18-v12: Sobre que não ouviram em–voz–de YHWH Deus–deles e–transgrediram (a) aliança–dele (a) todo que ordenou Mosheh servo–de YHWH e–não ouviram e–não fizeram ¶
+-- c18-v13: E–em–quatorze dez anos do–rei Chizkiyahu subiu Sancheriv rei–de Ashur sobre todas cidades–de Yehudah as–fortificadas e–tomou–as
+-- c18-v14: E–enviou Chizkiyahu rei–de Yehudah a rei–de Ashur Lakhish dizendo Pequei Volta de–sobre–mim (a) que puseres sobre–mim carregarei E–impôs rei–de Ashur sobre Chizkiyahu rei–de Yehudah trezentos cem talentos–de prata e–trinta talentos–de ouro
+-- c18-v15: E–deu Chizkiyahu (a) toda a–prata a–encontrada casa–de YHWH e–nos–tesouros–de casa–de o–rei
+-- c18-v16: No–tempo aquele cortou Chizkiyahu (a) portas–de templo–de YHWH e–(a) os–umbrais que revestiu Chizkiyahu rei–de Yehudah e–deu–os ao–rei–de Ashur ¶
+-- c18-v17: E–enviou rei–de Ashur (a) Tartan e–(a) Rav Saris e–(a) Rav Shaqeh de Lakhish a o–rei Chizkiyahu com–exército pesado Yerushalayim e–subiram e–vieram Yerushalayim e–subiram e–vieram e–pararam no–canal–de a–piscina a–superior que na–estrada–de campo–de lavandeiro
+-- c18-v18: E–chamaram ao o–rei e–saiu a–eles Elyaqim filho–de Chilqiyahu que sobre a–casa e–Shevnah o–escriba e–Yoach filho–de Asaf o–registrador
+-- c18-v19: E–disse a–eles Rav Shaqeh Dizei por–favor a Chizkiyahu Assim disse o–rei o–grande rei–de Ashur Que a–confiança esta que confiaste
+-- c18-v20: Disseste somente palavra–de lábios conselho e–força para–a–guerra agora sobre quem confiaste que rebelaste contra–mim
+-- c18-v21: Agora eis confiaste para–ti sobre bordão–de a–cana a–quebrada esta sobre Mitsrayim que apoiar–se–á homem sobre–ela e–entrará na–palma–dele e–furar–lhe–á Assim Faraó rei–de Mitsrayim para–todos os–que–confiam nele
+-- c18-v22: E–se disserdes a–mim A YHWH Deus–nosso confiamos Acaso–não ele que removeu Chizkiyahu (a) lugares–altos–dele e–(a) altares–dele e–disse a–Yehudah e–a–Yerushalayim diante–de o–altar este prostrar–vos–eis em–Yerushalayim
+-- c18-v23: E–agora aposta por–favor com senhor–meu (a) rei–de Ashur e–darei a–ti dois–mil cavalos se puderes dar para–ti cavaleiros sobre–eles
+-- c18-v24: E–como farás–voltar (a) face–de governador–de um servos–de senhor–meu os–menores e–confiaste para–ti sobre Mitsrayim para–carros e–para–cavaleiros
+-- c18-v25: Agora acaso–sem YHWH subi sobre o–lugar este para–destruí–lo YHWH disse a–mim Sobe sobre a–terra esta e–destrói–a
+-- c18-v26: E–disse Elyaqim filho–de Chilqiyahu e–Shevnah e–Yoach a Rav Shaqeh Fala por–favor a servos–teus aramaico porque ouvindo nós e–não fales conosco judaico aos–ouvidos–de o–povo que sobre a–muralha
+-- c18-v27: E–disse a–eles Rav Shaqeh Acaso–sobre senhor–teu e–a–ti enviou–me senhor–meu para–falar (a) as–palavras estas Acaso–não sobre os–homens os–que–sentam sobre a–muralha para–comer (a) [excremento–deles] (fezes–deles) e–para–beber (a) [urina–deles] (águas–de) (pés–deles) convosco
+-- c18-v28: E–parou Rav Shaqeh e–clamou com–voz grande judaico e–falou e–disse Ouvi palavra–de o–rei o–grande rei–de Ashur
+-- c18-v29: Assim disse o–rei Não engane a–vós Chizkiyahu porque não poderá livrar (a)–vós de–mão–minha
+-- c18-v30: E–não faça–confiar (a)–vós Chizkiyahu a YHWH dizendo Livrando livrará–nos YHWH e–não será–entregue (a) a–cidade esta em–mão–de rei–de Ashur
+-- c18-v31: Não ouçais a Chizkiyahu porque assim disse rei–de Ashur Fazei comigo bênção e–saí a–mim e–comei homem videira–dele e–homem figueira–dele e–bebei homem água–de poço–dele
+-- c18-v32: Até vir–eu e–tomarei (a)–vós a terra como–terra–vossa terra–de grão e–vinho–novo terra–de pão e–vinhas terra–de oliva azeite e–mel e–vivereis e–não morrereis e–não ouçais a Chizkiyahu porque incitará (a)–vós dizendo YHWH livrará–nos
+-- c18-v33: Acaso–livrando livraram deuses–de as–nações homem (a) terra–dele de–mão–de rei–de Ashur
+-- c18-v34: Onde deuses–de Chamat e–Arpad Onde deuses–de Sefarvaim Hena e–Ivvah pois livraram (a) Shomron de–mão–minha
+-- c18-v35: Quem em–todos deuses–de as–terras que livraram (a) terra–deles de–mão–minha pois livrará YHWH (a) Yerushalayim de–mão–minha
+-- c18-v36: E–calaram–se o–povo e–não responderam (a)–ele palavra porque mandamento–de o–rei era dizendo Não respondais–o
+-- c18-v37: E–veio Elyaqim filho–de Chilqiyah que sobre a–casa e–Shevnah o–escriba e–Yoach filho–de Asaf o–registrador a Chizkiyahu rasgados–de vestes e–contaram a–ele palavras–de Rav–Shaqeh
+-- c19-v1: E–foi quando–ouvir o–rei Chizqiyahu e–rasgou (a) vestes–suas e–cobriu-se com–saco e–entrou casa–de YHWH
+-- c19-v2: E–enviou (a) Elyaqim que– sobre– a–casa e–Shevnah o–escriba e–(a) anciãos–de os–sacerdotes cobertos com–sacos a– Yesha'yahu o–profeta filho–de Amots
+-- c19-v3: E–disseram a–ele Assim disse Chizqiyahu dia–de angústia e–repreensão e–blasfêmia o–dia o–este pois vieram filhos até– abertura e–força não–há para–dar-à-luz
+-- c19-v4: Talvez ouça YHWH Deus–teu (a) todas– palavras–de Rav– Shaqeh que enviou–o rei–de Ashur senhor–seu para–afrontar Deus vivo e–repreenda com–as–palavras que ouviu YHWH Deus–teu e–levantarás oração por o–remanescente o–encontrado
+-- c19-v5: E–vieram servos–de o–rei Chizqiyahu a– Yesha'yahu
+-- c19-v6: E–disse a–eles Yesha'yahu Assim direis a– senhor–vosso Assim disse YHWH Não– temas de–diante–de as–palavras que ouviste que blasfemaram servos–de rei–de Ashur (a)–mim
+-- c19-v7: Eis–me pondo nele espírito e–ouvirá notícia e–voltará para–terra–sua e–farei-cair–o pela–espada em–terra–sua
+-- c19-v8: E–voltou Rav– Shaqeh e–encontrou (a) rei–de Ashur lutando contra– Livnah pois ouviu que partiu de–Lakhish
+-- c19-v9: E–ouviu sobre– Tirhaqah rei–de Kush dizendo Eis saiu para–lutar contigo E–voltou e–enviou mensageiros a– Chizqiyahu dizendo
+-- c19-v10: Assim direis a– Chizqiyahu rei–de Yehudah dizendo Não– engane–te Deus–teu em–quem tu confias nele dizendo Não será–entregue Yerushalayim em–mão–de rei–de Ashur
+-- c19-v11: Eis tu ouviste (a) que fizeram reis–de Ashur a–todas– as–terras para–destruí-las e–tu serás–livrado
+-- c19-v12: Acaso–livraram (a)–eles deuses–de as–nações que destruíram pais–meus (a) Gozan e–(a) Charan e–Retseph e–filhos–de Eden que em–Tel-Assar
+-- c19-v13: Onde rei–de Chamat e–rei–de Arpad e–rei–de para–cidade–de Sefarvayim Hena' e–'Ivvah
+-- c19-v14: E–tomou Chizqiyahu (a) as–cartas de–mão–de os–mensageiros e–leu–as E–subiu casa–de YHWH e–estendeu–a Chizqiyahu diante–de YHWH ¶
+-- c19-v15: E–orou Chizqiyahu diante–de YHWH e–disse YHWH Deus–de Yisrael assentado–sobre os–querubins Tu– Ele o–Deus sozinho–Tu para–todos reinos–de a–terra Tu fizeste (a) os–céus e–(a) a–terra
+-- c19-v16: Inclina YHWH ouvido–Teu e–ouve Abre YHWH olhos–Teus e–vê e–ouve (a) palavras–de Sancheriv que enviou–o para–afrontar Deus vivo
+-- c19-v17: Verdadeiramente YHWH assolaram reis–de Ashur (a) as–nações e–(a) terra–delas
+-- c19-v18: E–deram (a) deuses–deles no–fogo pois não deuses eles pois se– obra–de mãos–de homem madeira e–pedra e–destruíram–os
+-- c19-v19: E–agora YHWH Deus–nosso salva–nos por–favor de–mão–dele e–saberão todos– reinos–de a–terra que Tu YHWH Deus sozinho–Tu §
+-- c19-v20: E–enviou Yesha'yahu filho–de Amots a– Chizqiyahu dizendo Assim– disse YHWH Deus–de Yisrael que oraste a–Mim sobre– Sancheriv rei–de Ashur ouvi
+-- c19-v21: Esta a–palavra que– falou YHWH sobre–ele Desprezou a–ti zombou de–ti virgem filha–de Tsiyon atrás–de–ti cabeça meneou filha–de Yerushalayim
+-- c19-v22: (a) quem afrontaste e–blasfemaste e–contra– quem levantaste voz E–ergueste ao–alto olhos–teus contra– Santo–de Yisrael
+-- c19-v23: Por–mão–de mensageiros–teus afrontaste Adonay E–disseste [com–multidão–de] (Com–multidão–de) carros–meus eu subi altura–de montes extremos–de Levanon E–cortarei altura–de cedros–seus escolhidos–de ciprestes–seus E–entrarei pousada–de extremo–seu floresta–de Karmel–seu
+-- c19-v24: Eu cavei e–bebi águas estranhas E–secarei com–planta–de pés–meus todos rios–de Matsor
+-- c19-v25: Acaso–não– ouviste de–longe (a)–isso fiz de–dias–de antigamente e–formei-a agora trouxe-a e–será para–tornar-em-ruína montes fortificados cidades fortificadas
+-- c19-v26: E–habitantes–delas curtos–de mão aterrorizaram-se e–envergonharam-se Foram erva–de campo e–verdura–de relva erva–de telhados e–queimada diante–de crescer
+-- c19-v27: E–assentar–teu e–sair–teu e–entrar–teu conheço e–(a) enfurecer–teu contra–Mim
+-- c19-v28: Porque enfurecer–teu contra–Mim e–arrogância–tua subiu em–ouvidos–Meus E–porei gancho–Meu em–nariz–teu e–freio–Meu em–lábios–teus e–farei-voltar–te pelo–caminho que– vieste por–ele
+-- c19-v29: E–este– para–ti o–sinal comer o–ano grão-espontâneo e–no–ano o–segundo rebento e–no–ano o–terceiro semeai e–ceifai e–plantai vinhas e–comei fruto–delas
+-- c19-v30: E–continuará remanescente–de casa–de Yehudah o–restante raiz para–baixo e–fará fruto para–cima
+-- c19-v31: Pois de–Yerushalayim sairá remanescente e–escapatória de–monte–de Tsiyon zelo–de YHWH (Tsevaot) fará– isto §
+-- c19-v32: Portanto assim– disse YHWH sobre– rei–de Ashur Não entrará em– a–cidade a–esta e–não– lançará ali flecha e–não– enfrentará–a escudo e–não– derramará sobre–ela rampa
+-- c19-v33: Pelo–caminho que– vier por–ele voltará e–a– a–cidade a–esta não entrará oráculo–de YHWH
+-- c19-v34: E–defenderei (a)– a–cidade a–esta para–salvá-la por–causa–de–Mim e–por–causa–de David servo–Meu
+-- c19-v35: E–foi na–noite a–aquela E–saiu anjo–de YHWH e–feriu no–acampamento–de Ashur cem oitenta e–cinco mil E–levantaram-cedo pela–manhã e–eis todos–eles cadáveres mortos
+-- c19-v36: E–partiu e–foi e–voltou Sancheriv rei–de Ashur e–habitou em–Nineveh
+-- c19-v37: E–foi ele prostrando-se casa–de Nisrokh deus–seu e–Adramelekh e–Shar'etser (filhos–seus) feriram–o com–espada e–eles escaparam terra–de Ararat E–reinou Esar– Chadon filho–seu em–lugar–dele ¶
+-- c20-v1: Nos–dias os–aqueles adoeceu Chizqiyahu para–morrer E–veio a–ele Yesha'yahu filho–de Amots o–profeta E–disse a–ele Assim– disse YHWH Ordena a–casa–tua pois morrendo tu e–não viverás
+-- c20-v2: E–virou (a) face–sua para– a–parede e–orou a– YHWH dizendo
+-- c20-v3: Por–favor YHWH lembra– por–favor (a) que andei diante–de–Ti em–verdade e–com–coração inteiro e–o–bom em–olhos–Teus fiz E–chorou Chizqiyahu choro grande §
+-- c20-v4: E–foi Yesha'yahu não saíra [cidade] (pátio) o–do–meio e–palavra–de YHWH foi a–ele dizendo
+-- c20-v5: Volta e–dirás a– Chizqiyahu príncipe–de povo–Meu Assim– disse YHWH Deus–de David pai–teu Ouvi (a) oração–tua vi (a) lágrima–tua Eis–Me curando a–ti no–dia o–terceiro subirás casa–de YHWH
+-- c20-v6: E–acrescentarei sobre– dias–teus quinze ... anos e–de–mão–de rei–de Ashur livrarei–te e–(a) a–cidade a–esta e–defenderei (a)– a–cidade a–esta por–causa–de–Mim e–por–causa–de David servo–Meu
+-- c20-v7: E–disse Yesha'yahu Tomai pasta–de figos E–tomaram e–puseram sobre– a–úlcera e–viveu
+-- c20-v8: E–disse Chizqiyahu a– Yesha'yahu Qual sinal que– curará YHWH a–mim e–subirei no–dia o–terceiro casa–de YHWH
+-- c20-v9: E–disse Yesha'yahu Este– para–ti o–sinal de–com YHWH que fará YHWH (a) a–palavra que falou Irá a–sombra dez degraus ou– voltará dez degraus
+-- c20-v10: E–disse Yechizqiyahu Fácil para–a–sombra para–descer dez degraus Não mas volte a–sombra para–trás dez degraus
+-- c20-v11: E–clamou Yesha'yahu o–profeta a– YHWH e–fez-voltar (a) a–sombra nos–degraus que descera nos–degraus–de Achaz para–trás dez degraus ¶
+-- c20-v12: Naquele–tempo o–aquele enviou Berodakh-Baladan filho–de Baladan rei–de Bavel cartas e–presente a– Chizqiyahu pois ouviu que adoecera Chizqiyahu
+-- c20-v13: E–ouviu sobre–eles Chizqiyahu e–mostrou–lhes (a) toda– casa–de tesouro–seu (a) a–prata e–(a) o–ouro e–(a) os–aromas e–(a) óleo–de o–bom e–(a) casa–de armas–suas e–(a) tudo– que encontrou-se em–tesouros–seus Não– houve coisa que não– mostrou–lhes Chizqiyahu em–casa–sua e–em–todo– domínio–seu
+-- c20-v14: E–veio Yesha'yahu o–profeta a– o–rei Chizqiyahu E–disse a–ele O–que disseram os–homens os–estes e–de–onde vieram a–ti E–disse Chizqiyahu De–terra distante vieram de–Bavel
+-- c20-v15: E–disse O–que viram em–casa–tua E–disse Chizqiyahu (A) tudo– que em–casa–minha viram não– houve coisa que não– mostrei–lhes em–tesouros–meus
+-- c20-v16: E–disse Yesha'yahu a– Chizqiyahu Ouve palavra–de YHWH
+-- c20-v17: Eis dias vindo e–será–levado tudo– que em–casa–tua e–que ajuntaram pais–teus até– o–dia o–este para–Bavel Não– será–deixado coisa disse YHWH
+-- c20-v18: E–de–filhos–teus que sairão de–ti que gerarás [tomará] (tomarão) e–serão eunucos no–palácio–de rei–de Bavel
+-- c20-v19: E–disse Chizqiyahu a– Yesha'yahu Boa palavra–de YHWH que falaste E–disse Acaso–não se– paz e–verdade haverá em–dias–meus
+-- c20-v20: E–resto–de palavras–de Chizqiyahu e–toda– valentia–sua e–que fez (a) o–reservatório e–(a) o–canal e–trouxe (a) as–águas a–cidade Acaso–não– eles escritos sobre– livro–de palavras–de os–dias para–reis–de Yehudah
+-- c20-v21: E–deitou-se Chizqiyahu com– pais–seus E–reinou Menasheh filho–seu em–lugar–dele ¶
+-- c21-v1: Filho–de doze ... anos Menasheh quando–reinar–ele e–cinquenta e–cinco anos reinou em–Yerushalayim e–nome–de mãe–sua Cheftsi– Vah
+-- c21-v2: E–fez o–mal em–olhos–de YHWH como–abominações–de as–nações que desapossou YHWH de–diante–de filhos–de Yisrael
+-- c21-v3: E–voltou e–construiu (a) os–altos que destruiu Chizqiyahu pai–seu e–levantou altares para–o–Baal e–fez Asherah como fez Achav rei–de Yisrael e–prostrou-se para–todo– exército–de os–céus e–serviu (a)–eles
+-- c21-v4: E–construiu altares em–casa–de YHWH que disse YHWH Em–Yerushalayim porei (a) nome–Meu
+-- c21-v5: E–construiu altares para–todo– exército–de os–céus nos–dois pátios–de casa–de YHWH
+-- c21-v6: E–fez-passar (a) filho–seu no–fogo e–praticou-adivinhação e–fez-agouros e–fez necromante e–feiticeiros Multiplicou para–fazer o–mal em–olhos–de YHWH para–provocar
+-- c21-v7: E–colocou (a) imagem–de a–Asherah que fez na–casa que disse YHWH a– David e–a– Shelomoh filho–seu Na–casa a–esta e–em–Yerushalayim que escolhi de–todas tribos–de Yisrael porei (a) nome–Meu para–sempre
+-- c21-v8: E–não acrescentarei para–fazer-vagar pé–de Yisrael de– a–terra que dei aos–pais–deles somente se– guardarem para–fazer conforme–tudo que ordenei–lhes e–conforme–toda– a–Tora que– ordenou (a)–eles servo–Meu Mosheh
+-- c21-v9: E–não ouviram e–desviou–os Menasheh para–fazer (a) o–mal mais–que– as–nações que destruiu YHWH de–diante–de filhos–de Yisrael
+-- c21-v10: E–falou YHWH por–mão–de servos–Seus os–profetas dizendo
+-- c21-v11: Porque que fez Menasheh rei–de Yehudah as–abominações as–estas fez–mal mais–que–tudo que– fizeram o–Amorreu que diante–dele e–fez-pecar também– (a) Yehudah com–ídolos–seus ¶
+-- c21-v12: Portanto assim– disse YHWH Deus–de Yisrael Eis–Me trazendo mal sobre– Yerushalayim e–Yehudah que todo– [ouvi–la] (ouvinte–dela) zunirão dois ouvidos–seus
+-- c21-v13: E–estenderei sobre– Yerushalayim (a) linha–de Shomeron e–(a) prumo–de casa–de Achav e–limparei (a) Yerushalayim como– limpa-se (a) o–prato limpar e–virar sobre– face–dela
+-- c21-v14: E–abandonarei (a) restante–de herança–Minha e–darei–os em–mão–de inimigos–deles e–serão para–despojo e–para–saque para–todos– inimigos–deles
+-- c21-v15: Porque que fizeram (a) o–mal em–olhos–Meus e–estiveram provocando (a)–Mim desde– o–dia que saíram pais–deles do–Egito e–até o–dia o–este
+-- c21-v16: E–também sangue inocente derramou Menasheh muito muito até que– encheu (a) Yerushalayim boca a–boca além–de pecado–seu que fez-pecar (a) Yehudah para–fazer o–mal em–olhos–de YHWH
+-- c21-v17: E–resto–de palavras–de Menasheh e–todo– que fez e–pecado–seu que pecou Acaso–não– eles escritos sobre– livro–de palavras–de os–dias para–reis–de Yehudah
+-- c21-v18: E–deitou-se Menasheh com– pais–seus e–foi-sepultado no–jardim–de casa–sua no–jardim–de 'Uzza E–reinou Amon filho–seu em–lugar–dele ¶
+-- c21-v19: Filho–de vinte e–dois anos Amon quando–reinar–ele e–dois anos reinou em–Yerushalayim e–nome–de mãe–sua Meshulemet filha–de Charuts de– Yotvah
+-- c21-v20: E–fez o–mal em–olhos–de YHWH como fez Menasheh pai–seu
+-- c21-v21: E–andou em–todo– o–caminho que– andou pai–seu e–serviu (a) os–ídolos que serviu pai–seu e–prostrou-se a–eles
+-- c21-v22: E–abandonou (a) YHWH Deus–de pais–seus e–não andou no–caminho–de YHWH
+-- c21-v23: E–conspiraram servos–de Amon contra–ele e–mataram (a) o–rei em–casa–sua
+-- c21-v24: E–feriu povo–de a–terra (a) todos– os–conspiradores contra– o–rei Amon e–fez-reinar povo–de a–terra (a) Yoshiyahu filho–seu em–lugar–dele
+-- c21-v25: E–resto–de palavras–de Amon que fez Acaso–não– eles escritos sobre– livro–de palavras–de os–dias para–reis–de Yehudah
+-- c21-v26: E–sepultou (a)–ele em–sepultura–sua no–jardim–de 'Uzza E–reinou Yoshiyahu filho–seu em–lugar–dele ¶
+-- c22-v1: Filho–de oito anos Yoshiyahu ao–reinar–dele e–trinta e–um anos reinou em–Yerushalayim e–nome–de mãe–dele Yedidah filha–de Adayah de–Botsqat
+-- c22-v2: E–fez o–reto aos–olhos–de YHWH e–andou em–todo caminho–de David pai–dele e–não afastou–se direita ou–esquerda ¶
+-- c22-v3: E–foi em–dezoito dez anos do–rei Yoshiyahu enviou o–rei (a) Shafan filho–de Atsalyahu filho–de Meshulam o–escriba casa–de YHWH dizendo
+-- c22-v4: Sobe a Chilqiyahu o–sacerdote o–grande e–complete (a) a–prata a–trazida casa–de YHWH que ajuntaram guardas–de a–soleira de–com o–povo
+-- c22-v5: [e–darão–a] (e–darão–a) sobre mão–de fazedores–de a–obra os–designados [em–casa] (casa–de) YHWH e–darão (a)–ela aos–fazedores–de a–obra que em–casa–de YHWH para–reparar brecha–de a–casa
+-- c22-v6: Aos–carpinteiros e–aos–construtores e–aos–pedreiros e–para–comprar madeiras e–pedras–de cantaria para–reparar (a) a–casa
+-- c22-v7: Somente não ser–á–contada com–eles a–prata a–dada sobre mão–deles porque com–fidelidade eles fazendo
+-- c22-v8: E–disse Chilqiyahu o–sacerdote o–grande sobre Shafan o–escriba Livro–de a–Torá encontrei em–casa–de YHWH e–deu Chilqiyahu (a) o–livro a Shafan e–leu–o
+-- c22-v9: E–veio Shafan o–escriba a o–rei e–devolveu ao o–rei palavra e–disse Derramaram servos–teus (a) a–prata a–encontrada na–casa e–deram–na sobre mão–de fazedores–de a–obra os–designados casa–de YHWH
+-- c22-v10: E–contou Shafan o–escriba ao–rei dizendo Livro deu a–mim Chilqiyahu o–sacerdote e–leu–o Shafan diante–de o–rei
+-- c22-v11: E–foi ao–ouvir o–rei (a) palavras–de livro–de a–Torá e–rasgou (a) vestes–dele
+-- c22-v12: E–ordenou o–rei (a) Chilqiyahu o–sacerdote e–(a) Achiqam filho–de Shafan e–(a) Akhbor filho–de Mikhayah e–(a) Shafan o–escriba e–(a) Asayah servo–de o–rei dizendo
+-- c22-v13: Ide consultai (a) YHWH por–mim e–por o–povo e–por todo Yehudah sobre palavras–de o–livro o–encontrado este porque grande ira–de YHWH que ela acendeu–se contra–nós sobre que não ouviram pais–nossos sobre palavras–de o–livro este para–fazer conforme–todo o–escrito sobre–nós
+-- c22-v14: E–foi Chilqiyahu o–sacerdote e–Achiqam e–Akhbor e–Shafan e–Asayah a Chuldah a–profetisa esposa–de Shalum filho–de Tiqvah filho–de Charchas guarda–de as–vestes e–ela habitando em–Yerushalayim na–Mishneh e–falaram a–ela
+-- c22-v15: E–disse a–eles Assim disse YHWH Deus–de Yisrael Dizei ao–homem que enviou (a)–vós a–mim
+-- c22-v16: Assim disse YHWH Eis–me trazendo mal a o–lugar este e–sobre habitantes–dele (a) todas palavras–de o–livro que leu rei–de Yehudah
+-- c22-v17: Em–lugar–de que abandonaram–me e–queimaram–incenso a–deuses outros para–que provocarem–me com–toda obra–de mãos–deles e–acendeu–se ira–minha no–lugar este e–não será–apagada
+-- c22-v18: E–ao rei–de Yehudah o–que–envia (a)–vós para–consultar (a) YHWH assim direis a–ele Assim disse YHWH Deus–de Yisrael As–palavras que ouviste
+-- c22-v19: Por–causa tenro coração–teu e–humilhaste–te de–diante–de YHWH ao–ouvires que falei sobre o–lugar este e–sobre habitantes–dele para–ser devastação e–maldição e–rasgaste (a) vestes–tuas e–choraste diante–de–mim e–também eu ouvi declaração–de YHWH
+-- c22-v20: Portanto eis–me ajuntando–te a pais–teus e–serás–ajuntado a sepulturas–tuas em–paz e–não verão olhos–teus em–todo o–mal que eu trazendo sobre o–lugar este e–devolveram ao o–rei palavra
+-- c23-v1: E–enviou o–rei e–ajuntaram a–ele todos anciãos–de Yehudah e–Yerushalayim
+-- c23-v2: E–subiu o–rei casa–de YHWH e–todo homem–de Yehudah e–todos habitantes–de Yerushalayim com–ele e–os–sacerdotes e–os–profetas e–todo o–povo desde–pequeno e–até grande e–leu nos–ouvidos–deles (a) todas palavras–de livro–de a–aliança o–encontrado em–casa–de YHWH
+-- c23-v3: E–parou o–rei sobre o–pilar e–cortou (a) a–aliança diante–de YHWH para–andar após YHWH e–para–guardar mandamentos–dele e–(a) testemunhos–dele e–(a) estatutos–dele com–todo coração e–com–toda alma para–estabelecer (a) palavras–de a–aliança esta os–escritos sobre o–livro este e–parou todo o–povo na–aliança
+-- c23-v4: E–ordenou o–rei (a) Chilqiyahu o–sacerdote o–grande e–(a) sacerdotes–de o–segundo e–(a) guardas–de a–soleira para–tirar do–templo–de YHWH (a) todos os–utenílios os–feitos para–o–Baal e–para–a–Asherah e–para–todo exército–de os–céus e–queimou–os fora–de Yerushalayim nos–campos–de Qidron e–levou (a) cinzas–deles Beit–El
+-- c23-v5: E–fez–cessar (a) os–sacerdotes–de–ídolos que deram reis–de Yehudah e–queimavam–incenso nos–lugares–altos nas–cidades–de Yehudah e–arredores–de Yerushalayim e–(a) os–que–queimavam–incenso para–o–Baal para–o–sol e–para–a–lua e–para–as–constelações e–para–todo exército–de os–céus
+-- c23-v6: E–tirou (a) a–Asherah de–casa–de YHWH fora–de Yerushalayim a ribeiro–de Qidron e–queimou (a)–ela no–ribeiro–de Qidron e–moeu a–pó e–lançou (a) pó–dela sobre sepultura–de filhos–de o–povo
+-- c23-v7: E–demoliu (a) casas–de os–prostitutos–cultuais que em–casa–de YHWH que as–mulheres tecendo lá tendículas para–a–Asherah
+-- c23-v8: E–trouxe (a) todos os–sacerdotes das–cidades–de Yehudah e–profanou (a) os–lugares–altos que queimaram–incenso lá os–sacerdotes desde–Geva até Be'er–Sheva e–demoliu (a) lugares–altos–de os–portões que entrada–de portão–de Yehoshua chefe–de a–cidade que sobre esquerda–de homem no–portão–de a–cidade
+-- c23-v9: Somente não subiam sacerdotes–de os–lugares–altos a altar–de YHWH em–Yerushalayim porque se comiam pães–ázimos no–meio–de irmãos–deles
+-- c23-v10: E–profanou (a) o–Tofet que no–vale–de [filhos–de] (filho–de) Hinom para–não fazer–passar homem (a) filho–dele e–(a) filha–dele no–fogo para–o–Molekh
+-- c23-v11: E–fez–cessar (a) os–cavalos que deram reis–de Yehudah para–o–sol da–entrada–de casa–de YHWH a câmara–de Natan Melekh o–eunuco que nos–subúrbios e–(a) carros–de o–sol queimou no–fogo
+-- c23-v12: E–(a) os–altares que sobre o–teto câmara–alta–de Achaz que fizeram reis–de Yehudah e–(a) os–altares que fez Menasheh nos–dois pátios–de casa–de YHWH demoliu o–rei e–correu de–lá e–lançou (a) pó–deles a ribeiro–de Qidron
+-- c23-v13: E–(a) os–lugares–altos que sobre face–de Yerushalayim que da–direita–de monte–de a–destruição que construiu Shelomoh rei–de Yisrael para–Ashtoret abominação–de sidonianos e–para–Kemosh abominação–de Moav e–para–Milkom abominação–de filhos–de Amon profanou o–rei
+-- c23-v14: E–quebrou (a) as–colunas e–cortou (a) os–postes–sagrados e–encheu (a) lugares–deles ossos–de homem
+-- c23-v15: E–também (a) o–altar que em–Beit–El o–lugar–alto que fez Yarovam filho–de Nevat que fez–pecar (a) Yisrael também (a) o–altar aquele e–(a) o–lugar–alto demoliu e–queimou (a) o–lugar–alto moeu a–pó e–queimou poste–sagrado
+-- c23-v16: E–virou–se Yoshiyahu e–viu (a) as–sepulturas que lá no–monte e–enviou e–tomou (a) os–ossos das sepulturas e–queimou sobre o–altar e–profanou–o conforme–palavra–de YHWH que proclamou homem–de o–Deus que proclamou (a) as–palavras estas
+-- c23-v17: E–disse Que a–lápide aquela que eu vejo E–disseram a–ele homens–de a–cidade A–sepultura–de homem–de o–Deus que veio de–Yehudah e–proclamou (a) as–palavras estas que fizeste sobre o–altar–de Beit–El
+-- c23-v18: E–disse Deixai–o a–ele homem não mova ossos–dele e–salvaram ossos–dele (a) ossos–de o–profeta que veio de–Shomron
+-- c23-v19: E–também (a) todas casas–de os–lugares–altos que nas–cidades–de Shomron que fizeram reis–de Yisrael para–provocar removeu Yoshiyahu e–fez a–elas conforme–todas as–obras que fez em–Beit–El
+-- c23-v20: E–sacrificou (a) todos sacerdotes–de os–lugares–altos que lá sobre os–altares e–queimou (a) ossos–de homem sobre–eles e–voltou Yerushalayim
+-- c23-v21: E–ordenou o–rei (a) todo o–povo dizendo Fazei Páscoa para–YHWH Deus–vosso conforme–o–escrito sobre livro–de a–aliança este
+-- c23-v22: Porque não foi–feita como–a–Páscoa esta desde–dias–de os–juízes que julgaram (a) Yisrael e–todos dias–de reis–de Yisrael e–reis–de Yehudah
+-- c23-v23: Porque se em–dezoito dez anos do–rei Yoshiyahu foi–feita a–Páscoa esta para–YHWH em–Yerushalayim
+-- c23-v24: E–também (a) os–médiuns e–(a) os–feiticeiros e–(a) os–terafins e–(a) os–ídolos e–(a) todas as–abominações que foram–vistos em–terra–de Yehudah e–em–Yerushalayim removeu Yoshiyahu para–que estabelecer (a) palavras–de a–Torá as–escritas sobre o–livro que encontrou Chilqiyahu o–sacerdote casa–de YHWH
+-- c23-v25: E–como–ele não houve diante–dele rei que voltou a YHWH com–todo coração–dele e–com–toda alma–dele e–com–toda força–dele conforme–toda Torá–de Mosheh e–depois–dele não levantou–se como–ele
+-- c23-v26: Somente não voltou YHWH do–ardor–de ira–dele a–grande que ardeu ira–dele contra–Yehudah sobre todas as–provocações que provocou–o Menasheh
+-- c23-v27: E–disse YHWH Também (a) Yehudah removerei de–sobre face–minha como removi (a) Yisrael e–rejeitarei (a) a–cidade esta que escolhi (a) Yerushalayim e–(a) a–casa que disse estará nome–meu lá
+-- c23-v28: E–resto–de palavras–de Yoshiyahu e–tudo que fez acaso–não eles escritos sobre livro–de palavras–de os–dias para–reis–de Yehudah
+-- c23-v29: Nos–dias–dele subiu Faraó Nekho rei–de Mitsrayim sobre rei–de Ashur sobre rio–de Perat e–foi o–rei Yoshiyahu para–encontrá–lo e–matou–o em–Megido ao–vê–lo (a)–ele
+-- c23-v30: E–fizeram–cavalgar–o servos–dele morto de–Megido e–trouxeram–o Yerushalayim e–sepultaram–o na–sepultura–dele e–tomou povo–de a–terra (a) Yehoachaz filho–de Yoshiyahu e–ungiram (a)–ele e–fizeram–rei (a)–ele em–lugar–de pai–dele ¶
+-- c23-v31: Filho–de vinte e–três anos Yehoachaz ao–reinar–dele e–três meses reinou em–Yerushalayim e–nome–de mãe–dele Chamutal filha–de Yirmeyahu de–Livnah
+-- c23-v32: E–fez o–mal aos–olhos–de YHWH conforme–tudo que fizeram pais–dele
+-- c23-v33: E–prendeu–o Faraó Nekho em–Rivlah em–terra–de Chamat [de–reinar] (de–reinar) em–Yerushalayim e–impôs multa sobre a–terra cem talentos–de prata e–talento–de ouro
+-- c23-v34: E–fez–rei Faraó Nekho (a) Elyaqim filho–de Yoshiyahu em–lugar–de Yoshiyahu pai–dele e–mudou (a) nome–dele Yehoyaqim e–(a) Yehoachaz tomou e–veio Mitsrayim e–morreu lá
+-- c23-v35: E–a–prata e–o–ouro deu Yehoyaqim a–Faraó somente taxou (a) a–terra para–dar (a) a–prata sobre boca–de Faraó homem conforme–taxa–dele cobrou (a) a–prata e–(a) o–ouro (a) povo–de a–terra para–dar a–Faraó Nekho §
+-- c23-v36: Filho–de vinte e–cinco anos Yehoyaqim ao–reinar–dele e–onze dez anos reinou em–Yerushalayim e–nome–de mãe–dele [Zevidah] (Zevudah) filha–de Pedayah de Rumah
+-- c23-v37: E–fez o–mal aos–olhos–de YHWH conforme–tudo que fizeram pais–dele
+-- c24-v1: Nos–dias–dele subiu Nevukhadnetsar rei–de Bavel e–foi para–ele Yehoyaqim servo três anos e–voltou e–rebelou–se contra–ele
+-- c24-v2: E–enviou YHWH contra–ele (a) bandos–de caldeus e–(a) bandos–de Aram e–(a) bandos–de Moav e–(a) bandos–de filhos–de Amon e–enviou–os contra–Yehudah para–destruí–lo conforme–palavra–de YHWH que falou por–mão–de servos–dele os–profetas
+-- c24-v3: Somente sobre boca–de YHWH foi contra–Yehudah para–remover de–sobre face–dele pelos–pecados–de Menasheh conforme–tudo que fez
+-- c24-v4: E–também sangue–de o–inocente que derramou e–encheu (a) Yerushalayim sangue inocente e–não quis YHWH perdoar
+-- c24-v5: E–resto–de palavras–de Yehoyaqim e–tudo que fez acaso–não eles escritos sobre livro–de palavras–de os–dias para–reis–de Yehudah
+-- c24-v6: E–deitou–se Yehoyaqim com pais–dele e–reinou Yehoyakhin filho–dele em–lugar–dele
+-- c24-v7: E–não continuou mais rei–de Mitsrayim a–sair de–terra–dele porque tomou rei–de Bavel do–ribeiro–de Mitsrayim até rio–de Perat tudo que era de–rei–de Mitsrayim ¶
+-- c24-v8: Filho–de dezoito dez anos Yehoyakhin ao–reinar–dele e–três meses reinou em–Yerushalayim e–nome–de mãe–dele Nechushta filha–de Elnatan de–Yerushalayim
+-- c24-v9: E–fez o–mal aos–olhos–de YHWH conforme–tudo que fez pai–dele
+-- c24-v10: No–tempo aquele [subiu] (subiram) servos–de Nevukhadnetsar rei–de Bavel Yerushalayim e–veio a–cidade ao–cerco
+-- c24-v11: E–veio Nevukhadnetsar rei–de Bavel sobre a–cidade e–servos–dele sitiando contra–ela
+-- c24-v12: E–saiu Yehoyakhin rei–de Yehudah sobre rei–de Bavel ele e–mãe–dele e–servos–dele e–príncipes–dele e–eunucos–dele e–tomou (a)–ele rei–de Bavel no–ano–de oito ao–reinar–dele
+-- c24-v13: E–tirou de–lá (a) todos tesouros–de casa–de YHWH e–tesouros–de casa–de o–rei e–cortou (a) todos utenílios–de o–ouro que fez Shelomoh rei–de Yisrael no–templo–de YHWH como falou YHWH
+-- c24-v14: E–exilou (a) toda Yerushalayim e–(a) todos os–príncipes e–(a) todos heróis–de o–valor [dez] (dez) mil exilados e–todo o–ferreiro e–o–serralheiro não restou exceto pobres–de povo–de a–terra
+-- c24-v15: E–exilou (a) Yehoyakhin para–Bavel e–(a) mãe–de o–rei e–(a) esposas–de o–rei e–(a) eunucos–dele e–(a) [fortes] (fortes–de) a–terra levou exilados de–Yerushalayim para–Bavel
+-- c24-v16: E–(a) todos homens–de o–valor sete mil e–o–ferreiro e–o–serralheiro mil todos heróis fazedores–de guerra e–trouxe–os rei–de Bavel exilados para–Bavel
+-- c24-v17: E–fez–rei rei–de Bavel (a) Matanyah tio–dele em–lugar–dele e–mudou (a) nome–dele Tsidqiyahu ¶
+-- c24-v18: Filho–de vinte e–um anos Tsidqiyahu ao–reinar–dele e–onze dez anos reinou em–Yerushalayim e–nome–de mãe–dele [Chamital] (Chamutal) filha–de Yirmeyahu de–Livnah
+-- c24-v19: E–fez o–mal aos–olhos–de YHWH conforme–tudo que fez Yehoyaqim
+-- c24-v20: Porque sobre ira–de YHWH foi em–Yerushalayim e–em–Yehudah até lançar (a)–eles de–sobre face–dele e–rebelou–se Tsidqiyahu contra–rei–de Bavel §
+-- c25-v1: E–foi no–ano–de o–nono ao–reinar–dele no–mês o–décimo no–décimo–dia do–mês veio Nevukhadnetsar rei–de Bavel ele e–todo exército–dele sobre Yerushalayim e–acampou contra–ela e–construíram contra–ela rampa–de–cerco ao–redor
+-- c25-v2: E–veio a–cidade ao–cerco até onze dez anos do–rei Tsidqiyahu
+-- c25-v3: No–nono do–mês e–fortaleceu–se a–fome na–cidade e–não havia pão para–povo–de a–terra
+-- c25-v4: E–foi–arrombada a–cidade e–todos homens–de a–guerra a–noite caminho–de portão entre as–duas–muralhas que sobre jardim–de o–rei e–caldeus sobre a–cidade ao–redor e–foi caminho–de a–Aravah
+-- c25-v5: E–perseguiu exército–de caldeus atrás–de o–rei e–alcançaram (a)–ele nas–planícies–de Yericho e–todo exército–dele dispersou–se de–sobre–ele
+-- c25-v6: E–capturaram (a) o–rei e–fizeram–subir (a)–ele a rei–de Bavel Rivlatah e–falaram com–ele juízo
+-- c25-v7: E–(a) filhos–de Tsidqiyahu degolaram aos–olhos–dele e–(a) olhos–de Tsidqiyahu cegou e–amarrou–o nos–bronzes e–trouxe–o Bavel §
+-- c25-v8: E–no–mês o–quinto no–sétimo do–mês ela ano–de dezenove dez anos do–rei Nevukhadnetsar rei–de Bavel veio Nevuzaradan chefe–de guardas servo–de rei–de Bavel Yerushalayim
+-- c25-v9: E–queimou (a) casa–de YHWH e–(a) casa–de o–rei e–(a) todas casas–de Yerushalayim e–(a) toda casa grande queimou no–fogo
+-- c25-v10: E–(a) muralhas–de Yerushalayim ao–redor demoliram todo exército–de caldeus que chefe–de guardas
+-- c25-v11: E–(a) resto–de o–povo os–restantes na–cidade e–(a) os–desertores que desertaram para rei–de Bavel e–(a) resto–de a–multidão exilou Nevuzaradan chefe–de guardas
+-- c25-v12: E–dos–pobres–de a–terra deixou chefe–de guardas para–vinhateiros e–para–lavradores
+-- c25-v13: E–(a) colunas–de o–bronze que casa–de YHWH e–(a) as–bases e–(a) mar–de o–bronze que em–casa–de YHWH quebraram caldeus e–levaram (a) bronze–deles para–Bavel
+-- c25-v14: E–(a) as–panelas e–(a) as–pás e–(a) as–espevitadeiras e–(a) as–taças e–(a) todos utenílios–de o–bronze que serviam com–eles tomaram
+-- c25-v15: E–(a) os–braseiros e–(a) as–bacias que ouro ouro e–que prata prata tomou chefe–de guardas
+-- c25-v16: As–colunas duas o–mar o–um e–as–bases que fez Shelomoh para–casa–de YHWH não havia peso de–bronze–de todos os–utenílios estes
+-- c25-v17: Dezoito dez cúvados altura–de a–coluna a–uma e–capitel sobre–ela bronze e–altura–de o–capitel três [cúvado] (cúvados) e–rede e–romãs sobre o–capitel ao–redor tudo bronze e–como–estas para–a–coluna a–segunda sobre a–rede
+-- c25-v18: E–tomou chefe–de guardas (a) Serayah sacerdote o–principal e–(a) Tsefanyahu sacerdote o–segundo e–(a) três guardas–de a–soleira
+-- c25-v19: E–da cidade tomou eunuco um que ele oficial sobre homens–de a–guerra e–cinco homens dos–que–veem face–de o–rei que foram–encontrados na–cidade e–(a) o–escriba chefe–de o–exército o–que–convocava (a) povo–de a–terra e–sessenta homens do–povo–de a–terra os–encontrados na–cidade
+-- c25-v20: E–tomou (a)–eles Nevuzaradan chefe–de guardas e–levou (a)–eles a rei–de Bavel Rivlatah
+-- c25-v21: E–feriu (a)–eles rei–de Bavel e–matou–os em–Rivlah em–terra–de Chamat e–foi–exilado Yehudah de–sobre terra–dele
+-- c25-v22: E–o–povo o–restante em–terra–de Yehudah que deixou Nevukhadnetsar rei–de Bavel e–designou sobre–eles (a) Gedalyahu filho–de Achiqam filho–de Shafan ¶
+-- c25-v23: E–ouviram todos chefes–de os–exércitos eles e–os–homens que designou rei–de Bavel (a) Gedalyahu e–vieram a Gedalyahu a–Mitspah e–Yishmael filho–de Netanyah e–Yochanan filho–de Qareach e–Serayah filho–de Tanchumet o–netofatita e–Yaazanyahu filho–de o–maacatita eles e–homens–deles
+-- c25-v24: E–jurou a–eles Gedalyahu e–aos–homens–deles e–disse a–eles Não temais dos–servos–de os–caldeus Habitai na–terra e–servi (a) rei–de Bavel e–será–bom para–vós §
+-- c25-v25: E–foi no–mês o–sétimo veio Yishmael filho–de Netanyah filho–de Elishama de–semente–de a–realeza e–dez homens com–ele e–feriram (a) Gedalyahu e–morreu e–(a) os–judeus e–(a) os–caldeus que estavam com–ele em–Mitspah
+-- c25-v26: E–levantaram–se todo o–povo desde–pequeno e–até grande e–chefes–de os–exércitos e–vieram Mitsrayim porque temeram de–diante–de caldeus ¶
+-- c25-v27: E–foi em–trinta e–sete anos de–exílio–de Yehoyakhin rei–de Yehudah em–doze dez mês em–vinte e–sete do–mês exaltou Evil Merodakh rei–de Bavel no–ano–de reinar–dele (a) cabeça–de Yehoyakhin rei–de Yehudah de–casa–de prisão
+-- c25-v28: E–falou com–ele bondades e–pôs (a) trono–dele acima–de trono–de os–reis que com–ele em–Bavel
+-- c25-v29: E–mudou (a) vestes–de prisão–dele e–comeu pão continuamente diante–dele todos dias–de vida–dele
+-- c25-v30: E–alimento–dele alimento–de continuamente foi–dada a–ele de–com o–rei assunto–de dia em–dia–dele todos dias–de vida–dele
 
 BEGIN;
 -- 1200100101: וַיִּפְשַׁ֤ע (H6586) → "E–rebelou-se" [opus-4.5-chirho]

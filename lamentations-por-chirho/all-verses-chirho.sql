@@ -3,162 +3,162 @@
 -- — John 3:16
 
 -- LAMENTATIONS - POR Combined
--- Generated: 2026-01-27T21:47:27Z
+-- Generated: 2026-01-27T22:21:15Z
 
--- LAMENTATIONS c1-v1 - POR
--- LAMENTATIONS c1-v2 - POR
--- LAMENTATIONS c1-v3 - POR
--- LAMENTATIONS c1-v4 - POR
--- LAMENTATIONS c1-v5 - POR
--- LAMENTATIONS c1-v6 - POR
--- LAMENTATIONS c1-v7 - POR
--- LAMENTATIONS c1-v8 - POR
--- LAMENTATIONS c1-v9 - POR
--- LAMENTATIONS c1-v10 - POR
--- LAMENTATIONS c1-v11 - POR
--- LAMENTATIONS c1-v12 - POR
--- LAMENTATIONS c1-v13 - POR
--- LAMENTATIONS c1-v14 - POR
--- LAMENTATIONS c1-v15 - POR
--- LAMENTATIONS c1-v16 - POR
--- LAMENTATIONS c1-v17 - POR
--- LAMENTATIONS c1-v18 - POR
--- LAMENTATIONS c1-v19 - POR
--- LAMENTATIONS c1-v20 - POR
--- LAMENTATIONS c1-v21 - POR
--- LAMENTATIONS c1-v22 - POR
--- LAMENTATIONS c2-v1 - POR
--- LAMENTATIONS c2-v2 - POR
--- LAMENTATIONS c2-v3 - POR
--- LAMENTATIONS c2-v4 - POR
--- LAMENTATIONS c2-v5 - POR
--- LAMENTATIONS c2-v6 - POR
--- LAMENTATIONS c2-v7 - POR
--- LAMENTATIONS c2-v8 - POR
--- LAMENTATIONS c2-v9 - POR
--- LAMENTATIONS c2-v10 - POR
--- LAMENTATIONS c2-v11 - POR
--- LAMENTATIONS c2-v12 - POR
--- LAMENTATIONS c2-v13 - POR
--- LAMENTATIONS c2-v14 - POR
--- LAMENTATIONS c2-v15 - POR
--- LAMENTATIONS c2-v16 - POR
--- LAMENTATIONS c2-v17 - POR
--- LAMENTATIONS c2-v18 - POR
--- LAMENTATIONS c2-v19 - POR
--- LAMENTATIONS c2-v20 - POR
--- LAMENTATIONS c2-v21 - POR
--- LAMENTATIONS c2-v22 - POR
--- LAMENTATIONS c3-v1 - POR
--- LAMENTATIONS c3-v2 - POR
--- LAMENTATIONS c3-v3 - POR
--- LAMENTATIONS c3-v4 - POR
--- LAMENTATIONS c3-v5 - POR
--- LAMENTATIONS c3-v6 - POR
--- LAMENTATIONS c3-v7 - POR
--- LAMENTATIONS c3-v8 - POR
--- LAMENTATIONS c3-v9 - POR
--- LAMENTATIONS c3-v10 - POR
--- LAMENTATIONS c3-v11 - POR
--- LAMENTATIONS c3-v12 - POR
--- LAMENTATIONS c3-v13 - POR
--- LAMENTATIONS c3-v14 - POR
--- LAMENTATIONS c3-v15 - POR
--- LAMENTATIONS c3-v16 - POR
--- LAMENTATIONS c3-v17 - POR
--- LAMENTATIONS c3-v18 - POR
--- LAMENTATIONS c3-v19 - POR
--- LAMENTATIONS c3-v20 - POR
--- LAMENTATIONS c3-v21 - POR
--- LAMENTATIONS c3-v22 - POR
--- LAMENTATIONS c3-v23 - POR
--- LAMENTATIONS c3-v24 - POR
--- LAMENTATIONS c3-v25 - POR
--- LAMENTATIONS c3-v26 - POR
--- LAMENTATIONS c3-v27 - POR
--- LAMENTATIONS c3-v28 - POR
--- LAMENTATIONS c3-v29 - POR
--- LAMENTATIONS c3-v30 - POR
--- LAMENTATIONS c3-v31 - POR
--- LAMENTATIONS c3-v32 - POR
--- LAMENTATIONS c3-v33 - POR
--- LAMENTATIONS c3-v34 - POR
--- LAMENTATIONS c3-v35 - POR
--- LAMENTATIONS c3-v36 - POR
--- LAMENTATIONS c3-v37 - POR
--- LAMENTATIONS c3-v38 - POR
--- LAMENTATIONS c3-v39 - POR
--- LAMENTATIONS c3-v40 - POR
--- LAMENTATIONS c3-v41 - POR
--- LAMENTATIONS c3-v42 - POR
--- LAMENTATIONS c3-v43 - POR
--- LAMENTATIONS c3-v44 - POR
--- LAMENTATIONS c3-v45 - POR
--- LAMENTATIONS c3-v46 - POR
--- LAMENTATIONS c3-v47 - POR
--- LAMENTATIONS c3-v48 - POR
--- LAMENTATIONS c3-v49 - POR
--- LAMENTATIONS c3-v50 - POR
--- LAMENTATIONS c3-v51 - POR
--- LAMENTATIONS c3-v52 - POR
--- LAMENTATIONS c3-v53 - POR
--- LAMENTATIONS c3-v54 - POR
--- LAMENTATIONS c3-v55 - POR
--- LAMENTATIONS c3-v56 - POR
--- LAMENTATIONS c3-v57 - POR
--- LAMENTATIONS c3-v58 - POR
--- LAMENTATIONS c3-v59 - POR
--- LAMENTATIONS c3-v60 - POR
--- LAMENTATIONS c3-v61 - POR
--- LAMENTATIONS c3-v62 - POR
--- LAMENTATIONS c3-v63 - POR
--- LAMENTATIONS c3-v64 - POR
--- LAMENTATIONS c3-v65 - POR
--- LAMENTATIONS c3-v66 - POR
--- LAMENTATIONS c4-v1 - POR
--- LAMENTATIONS c4-v2 - POR
--- LAMENTATIONS c4-v3 - POR
--- LAMENTATIONS c4-v4 - POR
--- LAMENTATIONS c4-v5 - POR
--- LAMENTATIONS c4-v6 - POR
--- LAMENTATIONS c4-v7 - POR
--- LAMENTATIONS c4-v8 - POR
--- LAMENTATIONS c4-v9 - POR
--- LAMENTATIONS c4-v10 - POR
--- LAMENTATIONS c4-v11 - POR
--- LAMENTATIONS c4-v12 - POR
--- LAMENTATIONS c4-v13 - POR
--- LAMENTATIONS c4-v14 - POR
--- LAMENTATIONS c4-v15 - POR
--- LAMENTATIONS c4-v16 - POR
--- LAMENTATIONS c4-v17 - POR
--- LAMENTATIONS c4-v18 - POR
--- LAMENTATIONS c4-v19 - POR
--- LAMENTATIONS c4-v20 - POR
--- LAMENTATIONS c4-v21 - POR
--- LAMENTATIONS c4-v22 - POR
--- LAMENTATIONS c5-v1 - POR
--- LAMENTATIONS c5-v2 - POR
--- LAMENTATIONS c5-v3 - POR
--- LAMENTATIONS c5-v4 - POR
--- LAMENTATIONS c5-v5 - POR
--- LAMENTATIONS c5-v6 - POR
--- LAMENTATIONS c5-v7 - POR
--- LAMENTATIONS c5-v8 - POR
--- LAMENTATIONS c5-v9 - POR
--- LAMENTATIONS c5-v10 - POR
--- LAMENTATIONS c5-v11 - POR
--- LAMENTATIONS c5-v12 - POR
--- LAMENTATIONS c5-v13 - POR
--- LAMENTATIONS c5-v14 - POR
--- LAMENTATIONS c5-v15 - POR
--- LAMENTATIONS c5-v16 - POR
--- LAMENTATIONS c5-v17 - POR
--- LAMENTATIONS c5-v18 - POR
--- LAMENTATIONS c5-v19 - POR
--- LAMENTATIONS c5-v20 - POR
--- LAMENTATIONS c5-v21 - POR
--- LAMENTATIONS c5-v22 - POR
+-- c1-v1: Como! assenta-se solitária a–cidade multitudinosa–de povo tornou-se como–viúva grande entre–as–nações princesa entre–as–províncias tornou-se para–trabalho–forçado §
+-- c1-v2: Chorando ela–chora na–noite e–sua–lágrima sobre sua–face não–há para–ela consolador de–todos seus–amantes todos seus–companheiros traíram contra–ela tornaram-se para–ela para–inimigos §
+-- c1-v3: Foi–exilada Yehudah de–aflição e–de–multidão–de servidão ela assenta-se entre–as–nações não encontrou descanso todos seus–perseguidores alcançaram–ela entre as–angústias §
+-- c1-v4: Os–caminhos–de Tsiyon enlutam por–falta–de vindos–de festa todos seus–portões estão–desolados seus–sacerdotes gemem suas–virgens estão–aflitas e–ela amarga para–ela §
+-- c1-v5: Tornaram-se seus–adversários para–cabeça seus–inimigos estão–tranquilos porque YHWH afligiu–ela por multidão–de suas–transgressões suas–crianças foram cativeiro diante–de adversário §
+-- c1-v6: E–saiu [de] [filha–de] (de–filha–de) Tsiyon todo seu–esplendor tornaram-se seus–príncipes como–cervos não encontraram pastagem e–foram sem força diante–de perseguidor §
+-- c1-v7: Lembrou Yerushalayim os–dias–de sua–aflição e–suas–errâncias todas suas–coisas–preciosas que foram desde–os–dias–de antigamente quando–caiu seu–povo em–mão–de adversário e–não–há ajudador para–ela viram–ela adversários riram sobre seu–descanso §
+-- c1-v8: Pecado pecou Yerushalayim sobre isso para–impureza tornou-se todos que–a–honravam desprezaram–ela porque viram sua–nudez também ela gemeu e–virou-se para–trás §
+-- c1-v9: Sua–impureza em–suas–saias não lembrou seu–fim e–desceu maravilhosamente não–há consolador para–ela Vê YHWH (a) minha–aflição porque engrandeceu-se inimigo §
+-- c1-v10: Sua–mão estendeu adversário sobre todas suas–coisas–preciosas porque ela–viu nações entraram em–seu–santuário que Tu–ordenaste não entrarão na–assembleia para–Ti §
+-- c1-v11: Todo seu–povo gemendo buscando pão deram [suas–coisas–preciosas] (suas–coisas–preciosas) por–comida para–restaurar alma Vê YHWH e–olha porque tornei-me desprezível §
+-- c1-v12: Não a–vós todos que–passam–por caminho? Olhai e–vede se há dor como–minha–dor que foi–feito a–mim que afligiu YHWH no–dia–de ardor–de Sua–ira §
+-- c1-v13: Do–alto enviou fogo em–meus–ossos e–dominou–eles estendeu rede para–meus–pés fez–me–voltar para–trás deu–me desolada todo o–dia enferma §
+-- c1-v14: Foi–atado jugo–de minhas–transgressões por–Sua–mão entrelaçaram-se subiram sobre meu–pescoço fez–tropeçar minha–força deu–me Adonay em–mãos–de não poderei levantar §
+-- c1-v15: Rejeitou todos meus–valentes Adonay em–meu–meio convocou contra–mim assembleia para–quebrar meus–jovens lagar pisou Adonay para–virgem filha–de Yehudah §
+-- c1-v16: Sobre estas–coisas eu choro meu–olho meu–olho desce água porque longe de–mim consolador que–restaura minha–alma tornaram-se meus–filhos desolados porque prevaleceu inimigo §
+-- c1-v17: Estendeu Tsiyon suas–mãos não–há consolador para–ela ordenou YHWH para–Ya'aqov ao–seu–redor seus–adversários tornou-se Yerushalayim para–impureza entre–eles §
+-- c1-v18: Justo Ele YHWH porque Sua–boca eu–rebelei Ouvi por–favor todos [povos] (os–povos) e–vede minha–dor minhas–virgens e–meus–jovens foram em–cativeiro §
+-- c1-v19: Chamei aos–meus–amantes eles enganaram–me meus–sacerdotes e–meus–anciãos na–cidade expiraram porque buscaram comida para–eles e–restaurarão (a) sua–alma §
+-- c1-v20: Vê YHWH porque angústia para–mim minhas–entranhas estão–agitadas foi–virado meu–coração em–meu–interior porque rebeldemente eu–rebelei de–fora enluta espada na–casa como–morte §
+-- c1-v21: Ouviram que gemo eu não–há consolador para–mim todos meus–inimigos ouviram meu–mal regozijaram-se que Tu fizeste trouxeste dia que–proclamaste e–serão como–eu §
+-- c1-v22: Venha toda sua–maldade diante–de–Ti e–faze–a–eles a–eles como fizeste a–mim sobre todas minhas–transgressões porque muitos meus–gemidos e–meu–coração está–enfermo ¶
+-- c2-v1: Como! obscureceu em–Sua–ira Adonay (a) filha–de Tsiyon lançou do–céu terra a–glória–de Yisra'el e–não lembrou estrado–de Seus–pés no–dia–de Sua–ira §
+-- c2-v2: Engoliu Adonay [não] (e–não) poupou (a) todas as–habitações–de Ya'aqov destruiu em–Seu–furor as–fortalezas–de filha–de Yehudah fez–chegar à–terra profanou reino e–seus–príncipes §
+-- c2-v3: Cortou em–ardor–de ira todo chifre–de Yisra'el retirou para–trás Sua–direita de–diante–de inimigo e–queimou em–Ya'aqov como–fogo de–chama devorou ao–redor §
+-- c2-v4: Armou Seu–arco como–inimigo postou Sua–direita como–adversário e–matou todo precioso–de olho na–tenda–de filha–de Tsiyon derramou como–fogo Seu–furor §
+-- c2-v5: Tornou-se Adonay como–inimigo engoliu Yisra'el engoliu todos seus–palácios destruiu suas–fortalezas e–multiplicou em–filha–de Yehudah lamentação e–lamento §
+-- c2-v6: E–arrancou como–jardim Sua–cabana destruiu Seu–lugar–de–reunião fez–esquecer YHWH em–Tsiyon festa e–sábado e–rejeitou em–indignação–de Sua–ira rei e–sacerdote §
+-- c2-v7: Rejeitou Adonay Seu–altar abominou Seu–santuário entregou em–mão–de inimigo muros–de seus–palácios voz deram na–casa–de YHWH como–dia–de festa §
+-- c2-v8: Planejou YHWH destruir o–muro–de filha–de Tsiyon estendeu linha não retirou Sua–mão de–devorar e–fez–enlutar muralha e–muro juntos desfaleceram §
+-- c2-v9: Afundaram na–terra seus–portões destruiu e–quebrou suas–barras seu–rei e–seus–príncipes entre–as–nações não–há lei também seus–profetas não encontraram visão de–YHWH §
+-- c2-v10: Sentam-se na–terra calam-se os–anciãos–de filha–de Tsiyon fizeram–subir pó sobre sua–cabeça cingiram-se–de panos–de–saco abaixaram à–terra sua–cabeça as–virgens–de Yerushalayim §
+-- c2-v11: Consumiram-se em–lágrimas meus–olhos agitaram-se minhas–entranhas derramou-se na–terra meu–fígado sobre destruição–de filha–de meu–povo por–desmaiar criança e–lactente nas–praças–de cidade §
+-- c2-v12: Às–suas–mães dizem Onde trigo e–vinho? ao–desmaiar–eles como–traspassado nas–praças–de cidade ao–derramar-se sua–alma para seio–de suas–mães §
+-- c2-v13: Que testemunharei–a–ti que compararei a–ti ó–filha–de Yerushalayim que igualarei a–ti e–consolarei–te ó–virgem filha–de Tsiyon porque grande como–o–mar tua–destruição quem curará a–ti §
+-- c2-v14: Teus–profetas viram para–ti vaidade e–engano e–não revelaram sobre tua–iniquidade para–restaurar [teu–cativeiro] (teu–cativeiro) e–viram para–ti oráculos–de vaidade e–seduções §
+-- c2-v15: Bateram–palmas sobre–ti as–mãos todos os–que–passam–por caminho assobiaram e–menearam sua–cabeça sobre filha–de Yerushalayim Esta a–cidade que–diziam perfeição–de beleza alegria–de toda a–terra? §
+-- c2-v16: Abriram contra–ti sua–boca todos teus–inimigos assobiaram e–rangiram dente disseram Devoramos! Certamente este o–dia que–esperávamos encontramos vimos! §
+-- c2-v17: Fez YHWH o–que planejou cumpriu Sua–palavra que ordenou desde–os–dias–de antigamente destruiu e–não poupou e–fez–alegrar sobre–ti inimigo exaltou chifre–de teus–adversários §
+-- c2-v18: Clamou seu–coração a Adonay ó–muro–de filha–de Tsiyon faze–descer como–torrente lágrima de–dia e–de–noite não dês descanso a–ti não cesse filha–de teu–olho §
+-- c2-v19: Levanta-te clama [na–noite] (na–noite) no–começo–de vigílias derrama como–água teu–coração diante–de face–de Adonay levanta a–Ele tuas–mãos por alma–de tuas–crianças que–desmaiam de–fome na–cabeça–de todas as–ruas §
+-- c2-v20: Vê YHWH e–olha a–quem fizeste assim se comerão mulheres seu–fruto crianças–de cuidado se será–morto no–santuário–de Adonay sacerdote e–profeta §
+-- c2-v21: Jazem na–terra nas–ruas jovem e–velho minhas–virgens e–meus–jovens caíram pela–espada mataste no–dia–de Tua–ira massacraste não poupaste §
+-- c2-v22: Convocaste como–dia–de festa meus–terrores de–redor e–não houve no–dia–de ira–de YHWH fugitivo e–sobrevivente os–que cuidei e–criei meu–inimigo consumiu–os ¶
+-- c3-v1: Eu o–homem que–vi aflição pela–vara–de Seu–furor
+-- c3-v2: A–mim conduziu e–fez–andar escuridão e–não luz
+-- c3-v3: Certamente contra–mim volta vira Sua–mão todo o–dia §
+-- c3-v4: Consumiu minha–carne e–minha–pele quebrou meus–ossos
+-- c3-v5: Edificou contra–mim e–cercou veneno e–cansaço
+-- c3-v6: Em–trevas fez–me–habitar como–mortos–de eternidade §
+-- c3-v7: Cercou ao–meu–redor e–não saío fez–pesada minha–cadeia
+-- c3-v8: Também quando clamo e–grito fechou minha–oração
+-- c3-v9: Cercou meus–caminhos com–pedras–lavradas minhas–veredas entortou §
+-- c3-v10: Urso de–emboscada Ele para–mim [leão] (leão) em–esconderijos
+-- c3-v11: Meus–caminhos desviou e–despedaçou–me pôs–me desolado
+-- c3-v12: Armou Seu–arco e–colocou–me como–alvo para–flecha §
+-- c3-v13: Fez–entrar em–meus–rins filhos–de Sua–aljava
+-- c3-v14: Tornei-me escarnecço para–todo meu–povo sua–canção–de–zombaria todo o–dia
+-- c3-v15: Saciou–me de–amarguras embriagou–me de–absinto §
+-- c3-v16: E–quebrou com–cascalho meus–dentes fez–me–curvar na–cinza
+-- c3-v17: E–afastou de–paz minha–alma esqueci bem
+-- c3-v18: E–disse Pereceu minha–vitória e–minha–esperança de–YHWH §
+-- c3-v19: Lembra-te minha–aflição e–minha–errância absinto e–veneno
+-- c3-v20: Lembrando lembrará [e–curvar-se–á] (e–curva-se) sobre–mim minha–alma
+-- c3-v21: Isto farei–voltar a meu–coração sobre isso esperarei §
+-- c3-v22: Misericórdias–de YHWH que não cessaram que não consumiram-se Suas–compaixões
+-- c3-v23: Novas às–manhãs grande Tua–fidelidade
+-- c3-v24: Minha–porção YHWH disse minha–alma sobre isso esperarei n–Ele §
+-- c3-v25: Bom YHWH aos–que–O–esperam à–alma que–O–busca
+-- c3-v26: Bom que–espere e–em–silêncio pela–salvação–de YHWH
+-- c3-v27: Bom para–o–homem que carregue jugo em–sua–juventude §
+-- c3-v28: Sente-se solitário e–cale-se quando pôs sobre–ele
+-- c3-v29: Ponha no–pó sua–boca talvez haja esperança
+-- c3-v30: Dê ao–que–o–fere face farte-se de–vergónha §
+-- c3-v31: Porque não rejeitará para–sempre Adonay
+-- c3-v32: Porque se afligiu e–terá–compaixão segundo–multidão–de [Sua–misericórdia] (Suas–misericórdias)
+-- c3-v33: Porque não aflige de–Seu–coração e–entristece filhos–de homem §
+-- c3-v34: Esmagar debaixo–de Seus–pés todos prisioneiros–de terra
+-- c3-v35: Distorcer juízo–de homem perante face–de Altíssimo
+-- c3-v36: Perverter homem em–seu–litígio Adonay não vê? §
+-- c3-v37: Quem este disse e–foi? Adonay não ordenou?
+-- c3-v38: Da–boca–de Altíssimo não sai os–males e–o–bem?
+-- c3-v39: Por–que queixar-se-á homem vivo homem-forte sobre [seu–pecado] (seus–pecados?) §
+-- c3-v40: Examinemos nossos–caminhos e–investiguemos e–voltemos até YHWH
+-- c3-v41: Levantemos nosso–coração com as–mãos a Deus nos–céus
+-- c3-v42: Nós transgredimos e–rebelamos Tu não perdoaste §
+-- c3-v43: Cobriste-Te em–ira e–perseguiste–nos mataste não poupaste
+-- c3-v44: Cobriste-Te em–nuvem para–Ti sem–passar oração
+-- c3-v45: Escumalha e–refugo pões–nos no–meio–de os–povos §
+-- c3-v46: Abriram contra–nós sua–boca todos nossos–inimigos
+-- c3-v47: Pavor e–cova foi para–nós a–devastação e–a–destruição
+-- c3-v48: Canais–de água desce meu–olho sobre destruição–de filha–de meu–povo §
+-- c3-v49: Meu–olho derrama e–não cessa sem intermissão
+-- c3-v50: Até olhe e–veja YHWH do–céu
+-- c3-v51: Meu–olho aflige minha–alma por–todas as–filhas–de minha–cidade §
+-- c3-v52: Caçando caçaram–me como–pássaro meus–inimigos sem–razão
+-- c3-v53: Cortaram na–cova minha–vida e–lançaram pedra contra–mim
+-- c3-v54: Inundaram águas sobre minha–cabeça eu–disse Fui–cortado §
+-- c3-v55: Invoquei Teu–nome YHWH da–cova mais–baixa
+-- c3-v56: Minha–voz ouviste não escondas Teu–ouvido ao–meu–alívio à–minha–súplica
+-- c3-v57: Tu–aproximaste-Te no–dia que–Te–invoquei disseste Não temas §
+-- c3-v58: Defendeste Adonay as–causas–de minha–alma remiste minha–vida
+-- c3-v59: Viste YHWH minha–injustiça julga meu–juízo
+-- c3-v60: Viste toda sua–vingança todos seus–planos contra–mim §
+-- c3-v61: Ouviste sua–afronta YHWH todos seus–planos contra–mim
+-- c3-v62: Lábios–de os–que–se–levantam e–sua–meditação contra–mim todo o–dia
+-- c3-v63: Seu–sentar e–seu–levantar olha eu sua–canção–de–zombaria §
+-- c3-v64: Retribuirás a–eles recompensa YHWH segundo–obra–de suas–mãos
+-- c3-v65: Darás a–eles dureza–de coração Tua–maldição a–eles
+-- c3-v66: Perseguirás em–ira e–destruirás–os debaixo–de céus–de YHWH ¶
+-- c4-v1: Como! escureceu ouro mudou o–ouro bom são–derramadas pedras–de santidade na–cabeça–de todas as–ruas §
+-- c4-v2: Os–filhos–de Tsiyon preciosos os–pesados–em ouro–puro Como! são–considerados vasos–de barro obra–de mãos–de oleiro §
+-- c4-v3: Até [chacais] (chacais) oferecem seio amamentam seus–filhotes a–filha–de meu–povo para–cruel [como] [avestruzes] (como–avestruzes) no–deserto §
+-- c4-v4: Grudou a–língua–de lactente a seu–paladar na–sede crianças pedem pão quem–parte não–há para–eles §
+-- c4-v5: Os–que–comem iguarias estão–desolados nas–ruas os–criados sobre escarlate abraçam monturo §
+-- c4-v6: E–foi–maior a–iniquidade–de filha–de meu–povo do–que–o–pecado–de Sedom a–que–foi–derribada como–em momento e–não torceram-se nela mãos §
+-- c4-v7: Eram–puros seus–nazireus mais–que–neve eram–brilhantes mais–que–leite eram–rubros osso mais–que–corais safira seu–corte §
+-- c4-v8: Escureceu mais–que–negrura sua–aparência não são–reconhecidos nas–ruas encolheu sua–pele sobre seu–osso seco tornou-se como–madeira §
+-- c4-v9: Melhores foram mortos–de espada que–mortos–de fome porque eles se–esvaem traspassados dos–frutos–de campo
+-- c4-v10: Mãos–de mulheres compassivas cozinharam seus–filhos tornaram-se para–comida para–elas na–destruição–de filha–de meu–povo §
+-- c4-v11: Consumou YHWH (a) Seu–furor derramou ardor–de Sua–ira e–acendeu fogo em–Tsiyon e–devorou seus–fundamentos §
+-- c4-v12: Não acreditaram reis–de terra [e–todos] (todos) habitantes–de mundo que viria adversário e–inimigo nos–portões–de Yerushalayim §
+-- c4-v13: Pelos–pecados–de seus–profetas iniquidades–de seus–sacerdotes os–que–derramavam em–seu–meio sangue–de justos §
+-- c4-v14: Vaguearam cegos nas–ruas poluídos com–sangue sem poderem tocar em–suas–vestes §
+-- c4-v15: Afastai-vos! imundo clamaram a–eles Afastai-vos! Afastai-vos! não toqueis porque fugiram também vaguearam disseram entre–as–nações não continuarão a–peregrinar §
+-- c4-v16: A–face–de YHWH dividiu–os não continuará a–olhar–para–eles face–de sacerdotes não levantaram [anciãos] (e–anciãos) não mostraram–favor §
+-- c4-v17: [ainda–nossos] (Ainda–nossos) consumiram-se nossos–olhos por nossa–ajuda vã em–nossa–expectativa esperamos por nação não salvará §
+-- c4-v18: Caçaram nossos–passos de–andar em–nossas–praças aproximou-se nosso–fim cumpriram-se nossos–dias porque veio nosso–fim §
+-- c4-v19: Mais–rápidos foram nossos–perseguidores do–que–águias–de céu sobre as–montanhas perseguiram–nos no–deserto emboscaram para–nós §
+-- c4-v20: Fôlego–de nossas–narinas ungido–de YHWH foi–capturado em–suas–covas de–quem dizíamos À–sua–sombra viveremos entre–as–nações §
+-- c4-v21: Alegra-te e–regozija-te filha–de 'Edom [que–habita] (que–habita) na–terra–de 'Uts também sobre–ti passará cálice ficarás–embriagada e–desnudar-te-ás §
+-- c4-v22: Completou-se tua–iniquidade filha–de Tsiyon não continuará a–exilar–te visitará tua–iniquidade filha–de 'Edom descobrirá sobre teus–pecados ¶
+-- c5-v1: Lembra-te YHWH que aconteceu a–nós [olha] (olha) e–vê (a) nossa–vergonha
+-- c5-v2: Nossa–herança foi–virada para–estranhos nossas–casas para–estrangeiros
+-- c5-v3: Órfãos tornamo-nos [sem] (e–sem) pai nossas–mães como–viúvas
+-- c5-v4: Nossa–água por–prata bebemos nossa–lenha por–preço vem
+-- c5-v5: Sobre nosso–pescoço somos–perseguidos cansamo-nos [não] (e–não) há–descanso para–nós
+-- c5-v6: Mitsrayim demos mão 'Ashshur para–saciar-se–de pão
+-- c5-v7: Nossos–pais pecaram [não–estão] (e–não–estão) [nós] (e–nós) suas–iniquidades carregamos
+-- c5-v8: Escravos dominam sobre–nós quem–liberta não–há de–sua–mão
+-- c5-v9: Com–nossa–vida trazemos nosso–pão por–causa–de espada–de o–deserto
+-- c5-v10: Nossa–pele como–forno queima por–causa–de ardores–de fome
+-- c5-v11: Mulheres em–Tsiyon violaram virgens nas–cidades–de Yehudah
+-- c5-v12: Príncipes por–sua–mão foram–enforcados faces–de anciãos não foram–honradas
+-- c5-v13: Jovens moinho carregaram e–rapazes sob–madeira tropeçaram
+-- c5-v14: Anciãos do–portão cessaram jovens de–sua–música
+-- c5-v15: Cessou alegria–de nosso–coração converteu-se em–luto nossa–dança
+-- c5-v16: Caiu a–coroa–de nossa–cabeça Ai agora de–nós porque pecamos
+-- c5-v17: Sobre isto tornou-se enfermo nosso–coração sobre estas–coisas escureceram nossos–olhos
+-- c5-v18: Sobre monte–de Tsiyon que–está–desolado raposas andam nele ¶
+-- c5-v19: Tu YHWH para–sempre habitas Teu–trono de–geração em–geração
+-- c5-v20: Por–que para–sempre nos–esqueces nos–abandonas por–duração–de dias?
+-- c5-v21: Faze-nos–voltar YHWH a–Ti [e–voltaremos] (e–voltaremos) renova nossos–dias como–antes
+-- c5-v22: Porque se rejeitar rejeitaste–nos enfureceste–Te contra–nós até muito
 
 BEGIN;
 -- 2500100101: אֵיכָ֣ה ׀ (H0349b) → "Como!" [opus-4.5-chirho]

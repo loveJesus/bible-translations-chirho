@@ -3,64 +3,64 @@
 -- — John 3:16
 
 -- HABAKKUK - POR Combined
--- Generated: 2026-01-27T21:47:00Z
+-- Generated: 2026-01-27T22:20:29Z
 
--- HABAKKUK c1-v1 - POR
--- HABAKKUK c1-v2 - POR
--- HABAKKUK c1-v3 - POR
--- HABAKKUK c1-v4 - POR
--- HABAKKUK c1-v5 - POR
--- HABAKKUK c1-v6 - POR
--- HABAKKUK c1-v7 - POR
--- HABAKKUK c1-v8 - POR
--- HABAKKUK c1-v9 - POR
--- HABAKKUK c1-v10 - POR
--- HABAKKUK c1-v11 - POR
--- HABAKKUK c1-v12 - POR
--- HABAKKUK c1-v13 - POR
--- HABAKKUK c1-v14 - POR
--- HABAKKUK c1-v15 - POR
--- HABAKKUK c1-v16 - POR
--- HABAKKUK c1-v17 - POR
--- HABAKKUK c2-v1 - POR
--- HABAKKUK c2-v2 - POR
--- HABAKKUK c2-v3 - POR
--- HABAKKUK c2-v4 - POR
--- HABAKKUK c2-v5 - POR
--- HABAKKUK c2-v6 - POR
--- HABAKKUK c2-v7 - POR
--- HABAKKUK c2-v8 - POR
--- HABAKKUK c2-v9 - POR
--- HABAKKUK c2-v10 - POR
--- HABAKKUK c2-v11 - POR
--- HABAKKUK c2-v12 - POR
--- HABAKKUK c2-v13 - POR
--- HABAKKUK c2-v14 - POR
--- HABAKKUK c2-v15 - POR
--- HABAKKUK c2-v16 - POR
--- HABAKKUK c2-v17 - POR
--- HABAKKUK c2-v18 - POR
--- HABAKKUK c2-v19 - POR
--- HABAKKUK c2-v20 - POR
--- HABAKKUK c3-v1 - POR
--- HABAKKUK c3-v2 - POR
--- HABAKKUK c3-v3 - POR
--- HABAKKUK c3-v4 - POR
--- HABAKKUK c3-v5 - POR
--- HABAKKUK c3-v6 - POR
--- HABAKKUK c3-v7 - POR
--- HABAKKUK c3-v8 - POR
--- HABAKKUK c3-v9 - POR
--- HABAKKUK c3-v10 - POR
--- HABAKKUK c3-v11 - POR
--- HABAKKUK c3-v12 - POR
--- HABAKKUK c3-v13 - POR
--- HABAKKUK c3-v14 - POR
--- HABAKKUK c3-v15 - POR
--- HABAKKUK c3-v16 - POR
--- HABAKKUK c3-v17 - POR
--- HABAKKUK c3-v18 - POR
--- HABAKKUK c3-v19 - POR
+-- c1-v1: o–oráculo que viu Chavaquq o–profeta
+-- c1-v2: até– quando YHWH clamei e–não ouves grito a–ti violência e–não salvas
+-- c1-v3: por–que fazes–me–ver iniquidade e–aflição olhas e–destruição e–violência diante–de–mim e–há contenda e–conflito levanta-se
+-- c1-v4: sobre– isso paralisa-se lei e–não– sai para–sempre juízo porque ímpio cerca (a) o–justo sobre– isso sai juízo pervertido
+-- c1-v5: vede entre–as–nações e–olhai e–maravilhai-vos maravilhai-vos porque– obra fazendo em–vossos–dias não crereis porque for–contada
+-- c1-v6: porque– eis–me levantando (a) os–Kasdim a–nação a–amarga e–a–impetuosa a–que–marcha para–larguras–de– terra para–tomar–posse moradas não– suas
+-- c1-v7: terrível e–temível ele de–si–mesmo seu–juízo e–sua–dignidade sairá
+-- c1-v8: e–mais–velozes que–leopardos seus–cavalos e–mais–ferozes que–lobos–de– tarde e–espalham-se seus–cavaleiros e–seus–cavaleiros de–longe virão voarão como–águia apressando-se para–comer
+-- c1-v9: todos–eles para–violência virão direção–de– suas–faces para–frente e–ajuntará como–areia cativos
+-- c1-v10: e–ele dos–reis zombará e–governantes riso para–ele ele de–toda– fortaleza rirá e–amontoará pó e–capturá-la-á
+-- c1-v11: então mudará espírito e–passará e–será–culpado esta sua–força como–seu–deus
+-- c1-v12: não tu desde–antigamente YHWH meu–Deus meu–Santo não morreremos YHWH para–juízo o–puseste e–Rocha para–repreender o–fundaste
+-- c1-v13: puro de–olhos de–ver mal e–olhar para– aflição não podes por–que olhas traidores te–calas quando–engole ímpio justo que–ele
+-- c1-v14: e–fizeste homem como–peixes–de– o–mar como–répteis não– governante sobre–eles
+-- c1-v15: todos–eles com–anzol faz–subir arrasta-o com–sua–rede e–ajunta-o com–sua–rede–de–arrasto sobre– isso alegra-se e–regozija-se
+-- c1-v16: sobre– isso sacrifica a–sua–rede e–queima–incenso a–sua–rede–de–arrasto porque por–elas gorda sua–porção e–sua–comida rica
+-- c1-v17: será–que–sobre– isso esvaziará sua–rede e–continuamente para–matar nações não terá–compaixão §
+-- c2-v1: sobre– minha–vigília estarei e–postarei-me sobre– torre e–vigiarei para–ver o–que– falará– em–mim e–o–que responderei sobre– minha–repreensão
+-- c2-v2: e–respondeu-me YHWH e–disse escreve visão e–grava sobre– as–tábuas para–que corra aquele–que–lê nela
+-- c2-v3: porque ainda visão para–o–tempo–marcado e–apressa-se para–o–fim e–não mentirá se– demorar-se espera– por–ela porque– vindo virá não tardará
+-- c2-v4: eis orgulhosa não– reta sua–alma nele mas–o–justo por–sua–fidelidade viverá
+-- c2-v5: e–também porque– o–vinho traidor homem arrogante e–não descansará que alargou como–Sheol sua–alma e–ele como–a–morte e–não se–saciará e–ajuntou a–si todas– as–nações e–reuniu a–si todos– os–povos
+-- c2-v6: não– estes todos–eles contra–ele provérbio levantarão e–enigma de–charadas para–ele e–dirá ai do–que–multiplica não– seu até– quando e–carrega–sobre–si sobre–si penhor
+-- c2-v7: não de–repente levantarão-se os–que–te–mordem e–despertarão os–que–te–agitam e–serás para–despojo para–eles
+-- c2-v8: porque tu saqueaste nações muitas saquearão-te todo– resto–de– povos por–sangues–de– homem e–violência–de– terra cidade e–todos– os–que–habitam– nela ¶
+-- c2-v9: ai do–que–cobiça ganho mal para–sua–casa para–pôr no–alto seu–ninho para–ser–liberto de–mão–de– mal
+-- c2-v10: aconselhaste vergonha para–tua–casa destruindo– povos muitos e–pecando tua–alma
+-- c2-v11: porque– pedra de–parede clamará e–viga de–madeira responderá ¶
+-- c2-v12: ai do–que–edifica cidade com–sangues e–estabelece cidade com–injustiça
+-- c2-v13: não eis de–com YHWH de–exércitos e–trabalharão povos para– fogo e–nações para– nada se–cansarão
+-- c2-v14: porque será–cheia a–terra de–conhecer (a) glória–de– YHWH como–as–águas cobrem sobre– o–mar §
+-- c2-v15: ai do–que–dá–de–beber a–seu–próximo derramando tua–ira e–também embriagando para–que olhar sobre– suas–nudezes
+-- c2-v16: saciaste-te de–vergonha em–vez–de–glória bebe também– tu e–mostra-te–incircunciso virará sobre–ti cálice–de– direita–de– YHWH e–vômito sobre– tua–glória
+-- c2-v17: porque violência–de– Levanon te–cobrirá e–destruição–de– animais os–aterrorizará por–sangues–de– homem e–violência–de– terra cidade e–todos– os–que–habitam– nela §
+-- c2-v18: o–que– aproveitou imagem–esculpida que a–esculpiu seu–formador imagem–fundida e–mestre–de– mentira que confiou formador sua–obra sobre–ela para–fazer ídolos mudos §
+-- c2-v19: ai do–que–diz a–madeira desperta acorda a–pedra muda ela ensinará eis– ela coberta–de– ouro e–prata e–todo– espírito não–há em–seu–interior
+-- c2-v20: mas–YHWH em–templo–de– sua–santidade silêncio diante–dele toda– a–terra ¶
+-- c3-v1: oração de–Chavaquq o–profeta sobre shigyonot
+-- c3-v2: YHWH ouvi tua–fama temi YHWH tua–obra no–meio–de– anos vivifica-a no–meio–de– anos faz–conhecer em–tremor misericórdia lembra
+-- c3-v3: Eloah de–Teiman virá e–o–Santo de–monte–de– Paran Selah cobriu céus sua–majestade e–seu–louvor encheu a–terra
+-- c3-v4: e–brilho como–a–luz será raios de–sua–mão para–ele e–ali esconderijo–de– seu–poder
+-- c3-v5: diante–dele vai peste e–sai praga aos–seus–pés
+-- c3-v6: parou e–mediu terra olhou e–fez–tremer nações e–despedaçaram-se montes–de– eternidade curvaram-se colinas eternas caminhos–de– eternidade para–ele
+-- c3-v7: sob aflição vi tendas–de– Kushan tremem cortinas–de– terra–de– Midyan §
+-- c3-v8: contra–rios irou-se YHWH ou contra–os–rios tua–ira ou– contra–o–mar tua–furia que cavalgas sobre– teus–cavalos tuas–carruagens–de– salvação
+-- c3-v9: nua despertará teu–arco juramentos–de– varas palavra Selah com–rios fendeste– terra
+-- c3-v10: viram-te tremeram montes torrente–de– águas passou deu abismo sua–voz alto suas–mãos levantou
+-- c3-v11: sol lua parou morada à–luz–de– tuas–flechas andarão ao–brilho–de– relâmpago–de– tua–lança
+-- c3-v12: em–indignação marchas– terra em–ira debulhas nações
+-- c3-v13: saíste para–salvação–de– teu–povo para–salvação–de– (a) teu–ungido feriste cabeça de–casa–de– ímpio desnudando fundamento até– pescoço Selah ¶
+-- c3-v14: traspassaste com–suas–varas cabeça–de– [seus–guerreiros] (seus–guerreiros) invadem para–dispersar-me sua–exultação como– para–devorar aflito em–esconderijo
+-- c3-v15: pisaste no–mar teus–cavalos monte–de– águas muitas
+-- c3-v16: ouvi e–tremeu meu–ventre à–voz tremeram meus–lábios entra podridão em–meus–ossos e–debaixo–de–mim tremo que descansarei para–dia–de– angústia para–subir contra–povo que–o–ataca
+-- c3-v17: porque– figueira não– florescerá e–não–há fruto nas–videiras falhou obra–de– oliveira e–campos não– produziram comida foi–cortado do–aprisco rebanho e–não–há gado nos–estábulos
+-- c3-v18: mas–eu em–YHWH exultarei regozijarei no–Deus–de– minha–salvação
+-- c3-v19: YHWH Senhor minha–força e–põe meus–pés como–as–corças e–sobre– minhas–alturas faz-me–andar ao–regente com–meus–instrumentos
 
 BEGIN;
 -- 3500100101: הַמַּשָׂא֙‪‬‪‬ (H4853b) → "o–oráculo" [opus-4.5-chirho]
