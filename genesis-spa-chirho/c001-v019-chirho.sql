@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c1-v19 - SPA
+-- GENESIS c1-v19 - SPA
 -- Y–fue– tarde y–fue– mañana día cuarto ¶
 
 BEGIN;

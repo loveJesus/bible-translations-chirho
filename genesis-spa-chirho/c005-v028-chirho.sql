@@ -2,8 +2,8 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c5-v28 - SPA
--- Y–vivió– Lemej dos y–ochenta años y–cien años y–engendró hijo
+-- GENESIS c5-v28 - SPA
+-- Y–vivió– Lemekh dos y–ochenta años y–cien años y–engendró hijo
 
 BEGIN;
 -- 0100502801: וַֽיְחִי־ (H2421) → "Y–vivió–" [opus-4.5-chirho]
@@ -22,7 +22,7 @@ SELECT p.id, 'Y–vivió–', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100502801' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0100502802: לֶ֕מֶךְ (H3929) → "Lemej" [opus-4.5-chirho]
+-- 0100502802: לֶ֕מֶךְ (H3929) → "Lemekh" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'spa'), NOW()
@@ -34,7 +34,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100502802' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'Lemej', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'Lemekh', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100502802' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

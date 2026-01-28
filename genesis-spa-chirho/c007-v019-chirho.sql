@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c7-v19 - SPA
+-- GENESIS c7-v19 - SPA
 -- Y–las–aguas prevalecieron muy muy sobre– la–tierra y–fueron–cubiertos todos– los–montes los–altos que– debajo–de todos– los–cielos
 
 BEGIN;

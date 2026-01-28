@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c8-v22 - SPA
+-- GENESIS c8-v22 - SPA
 -- Aún todos– días–de la–tierra siembra y–siega y–frío y–calor y–verano e–invierno y–día y–noche no cesarán
 
 BEGIN;

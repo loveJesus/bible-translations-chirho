@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c9-v29 - SPA
+-- GENESIS c9-v29 - SPA
 -- Y–fueron todos– días–de– Noaj nueve cientos años y–cincuenta años y–murió ¶
 
 BEGIN;

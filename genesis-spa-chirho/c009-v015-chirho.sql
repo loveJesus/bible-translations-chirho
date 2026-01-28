@@ -2,11 +2,11 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c9-v15 - SPA
--- Y–me–acordaré *– mi–pacto que entre–mí y–entre–vosotros y–entre toda– alma viviente en–toda– carne y–no– serán más las–aguas para–diluvio para–destruir toda– carne
+-- GENESIS c9-v15 - SPA
+-- Y–recordaré (a)– mi–pacto que entre–mí y–entre–vosotros y–entre toda– alma viviente en–toda– carne y–no– serán más las–aguas para–diluvio para–destruir toda– carne
 
 BEGIN;
--- 0100901501: וְזָכַרְתִּ֣י (H2142) → "Y–me–acordaré" [opus-4.5-chirho]
+-- 0100901501: וְזָכַרְתִּ֣י (H2142) → "Y–recordaré" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'spa'), NOW()
@@ -18,11 +18,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100901501' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'Y–me–acordaré', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'Y–recordaré', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100901501' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0100901502: אֶת־ (H0853) → "*–" [opus-4.5-chirho]
+-- 0100901502: אֶת־ (H0853) → "(a)–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'spa'), NOW()
@@ -34,7 +34,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100901502' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, '*–', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, '(a)–', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100901502' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

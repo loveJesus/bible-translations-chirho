@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c8-v14 - SPA
+-- GENESIS c8-v14 - SPA
 -- Y–en–el–mes el–segundo en–siete y–veinte día del–mes se–secó la–tierra §
 
 BEGIN;

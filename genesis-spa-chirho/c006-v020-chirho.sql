@@ -2,8 +2,8 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c6-v20 - SPA
--- De–el–ave según–su–especie y–de– el–ganado según–su–especie de–todo reptil–de la–tierra según–su–especie dos de–todo vendrán a–ti para–mantener–vivo
+-- GENESIS c6-v20 - SPA
+-- De–el–ave según–su–especie y–de– el–ganado según–su–especie de–todo reptil–de la–tierra según–su–especie dos de–todo vendrán hacia–ti para–hacer–vivir
 
 BEGIN;
 -- 0100602001: מֵהָע֣וֹף (H5775) → "De–el–ave" [opus-4.5-chirho]
@@ -198,7 +198,7 @@ SELECT p.id, 'vendrán', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100602012' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0100602013: אֵלֶ֖יךָ (H0413) → "a–ti" [opus-4.5-chirho]
+-- 0100602013: אֵלֶ֖יךָ (H0413) → "hacia–ti" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'spa'), NOW()
@@ -210,11 +210,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100602013' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'a–ti', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'hacia–ti', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100602013' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0100602014: לְהַֽחֲיֽוֹת׃ (H2421) → "para–mantener–vivo" [opus-4.5-chirho]
+-- 0100602014: לְהַֽחֲיֽוֹת׃ (H2421) → "para–hacer–vivir" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'spa'), NOW()
@@ -226,7 +226,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0100602014' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'para–mantener–vivo', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'para–hacer–vivir', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0100602014' AND p.language_id = (SELECT id FROM language WHERE code = 'spa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

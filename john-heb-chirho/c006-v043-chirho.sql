@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- JOHN c6-v43 - HEB
--- עָנָה יֵשׁוּעַ וְ– אָמַר לָהֶם אַל־ תִּלְאֹנוּ עִם זֶה־אֶת־זֶה
+-- עָנָה יֵשׁוּעַ וְ– אָמַר לָהֶם אַל תִּתְלוֹנְנוּ זֶה־עִם־זֶה זֶה־עִם־זֶה
 
 BEGIN;
 -- 4300604301: ἀπεκρίθη (G0611) → "עָנָה" [opus-4.5-chirho]
@@ -86,7 +86,7 @@ SELECT p.id, 'לָהֶם', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4300604305' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 4300604306: Μὴ (G3361) → "אַל־" [opus-4.5-chirho]
+-- 4300604306: Μὴ (G3361) → "אַל" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'heb'), NOW()
@@ -98,11 +98,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '4300604306' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'אַל־', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'אַל', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4300604306' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 4300604307: γογγύζετε (G1111) → "תִּלְאֹנוּ" [opus-4.5-chirho]
+-- 4300604307: γογγύζετε (G1111) → "תִּתְלוֹנְנוּ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'heb'), NOW()
@@ -114,11 +114,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '4300604307' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'תִּלְאֹנוּ', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'תִּתְלוֹנְנוּ', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4300604307' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 4300604308: μετ’ (G3326) → "עִם" [opus-4.5-chirho]
+-- 4300604308: μετ’ (G3326) → "זֶה־עִם־זֶה" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'heb'), NOW()
@@ -130,11 +130,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '4300604308' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'עִם', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'זֶה־עִם־זֶה', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4300604308' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 4300604309: ἀλλήλων. (G0240) → "זֶה־אֶת־זֶה" [opus-4.5-chirho]
+-- 4300604309: ἀλλήλων. (G0240) → "זֶה־עִם־זֶה" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'heb'), NOW()
@@ -146,7 +146,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '4300604309' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'זֶה־אֶת־זֶה', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'זֶה־עִם־זֶה', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '4300604309' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

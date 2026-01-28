@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c5-v20 - SPA
+-- GENESIS c5-v20 - SPA
 -- Y–fueron todos– días–de– Yered dos y–sesenta años y–nueve cientos años y–murió ¶
 
 BEGIN;

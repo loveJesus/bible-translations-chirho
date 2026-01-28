@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c9-v28 - SPA
+-- GENESIS c9-v28 - SPA
 -- Y–vivió– Noaj después–de el–diluvio tres cientos años y–cincuenta años
 
 BEGIN;

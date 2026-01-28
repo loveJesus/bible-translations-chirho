@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c9-v21 - SPA
+-- GENESIS c9-v21 - SPA
 -- Y–bebió de– el–vino y–se–embriagó y–se–descubrió en–medio–de su–tienda
 
 BEGIN;

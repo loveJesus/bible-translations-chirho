@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c7-v12 - SPA
+-- GENESIS c7-v12 - SPA
 -- Y–fue la–lluvia sobre– la–tierra cuarenta días y–cuarenta noches
 
 BEGIN;

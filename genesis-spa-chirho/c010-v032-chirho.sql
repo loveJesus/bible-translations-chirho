@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c10-v32 - SPA
+-- GENESIS c10-v32 - SPA
 -- Estas familias–de hijos–de– Noaj según–sus–generaciones en–sus–naciones y–de–estos se–separaron las–naciones en–la–tierra después–de el–diluvio ¶
 
 BEGIN;

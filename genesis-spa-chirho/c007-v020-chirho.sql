@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c7-v20 - SPA
+-- GENESIS c7-v20 - SPA
 -- Quince diez codos desde–arriba prevalecieron las–aguas y–fueron–cubiertos los–montes
 
 BEGIN;

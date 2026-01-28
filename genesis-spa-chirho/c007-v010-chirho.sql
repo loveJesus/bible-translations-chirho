@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c7-v10 - SPA
+-- GENESIS c7-v10 - SPA
 -- Y–fue a–siete–de los–días y–aguas–de el–diluvio fueron sobre– la–tierra
 
 BEGIN;

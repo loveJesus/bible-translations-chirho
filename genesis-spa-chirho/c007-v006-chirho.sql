@@ -2,7 +2,7 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- GEN c7-v6 - SPA
+-- GENESIS c7-v6 - SPA
 -- Y–Noaj hijo–de– seis cientos años y–el–diluvio fue aguas sobre– la–tierra
 
 BEGIN;
