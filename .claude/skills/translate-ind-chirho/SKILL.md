@@ -156,9 +156,19 @@ For bound Greek/Hebrew morphemes, use n-dash or natural Indonesian.
 - **2 Timothy**: Complete (83 verses, 1240 words)
 - **Colossians**: Complete (95 verses, 1587 words)
 - **Philippians**: Complete (104 verses, 1639 words)
+- **Matthew 1-4**: Complete (90 verses, 1658 words)
+- **Matthew 5-8**: Complete (145 verses, 2610 words) - Sermon on the Mount
+- **Luke 17-20**: Complete (175 verses, 2728 words) - Teaching, Parables, Triumphal Entry
+- **Luke 21-24**: Complete (218 verses, 3368 words) - Olivet Discourse, Last Supper, Crucifixion, Resurrection
+- **1 Peter**: Complete (105 verses, 1696 words) - Suffering, Hope, Holy Living, Submission, Elders
 
 ## Modifications Log
 
 - 2024-01: Initial skill created with core conventions
 - 2026-01: Added 1 Timothy and 2 Timothy translations
 - 2026-01: Added Colossians and Philippians translations
+- 2026-01: Added Matthew chapters 1-4 translations
+- 2026-01: Added Matthew chapters 5-8 (Sermon on the Mount)
+- 2026-01: Added Luke chapters 17-20 (Teaching on Forgiveness, Persistent Widow, Pharisee and Tax Collector, Zacchaeus, Ten Minas, Triumphal Entry, Authority Questioned)
+- 2026-01: Added Luke chapters 21-24 (Olivet Discourse, Last Supper, Gethsemane, Trial, Crucifixion, Resurrection, Emmaus Road, Ascension)
+- 2026-01: Added 1 Peter complete (5 chapters) - Greeting, Living Hope, Holy Living, Submission to Authorities, Suffering for Christ, Elders
