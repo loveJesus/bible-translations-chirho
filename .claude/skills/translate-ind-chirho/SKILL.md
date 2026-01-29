@@ -86,6 +86,62 @@ For bound Greek/Hebrew morphemes, use n-dash or natural Indonesian.
 **Decision**: kasih karunia
 **Notes**: Grace
 
+### G4990 (Σωτήρ, soter) - savior
+**Decision**: Juruselamat
+**Notes**: Savior
+
+### G652 (ἀπόστολος, apostolos) - apostle
+**Decision**: rasul
+**Notes**: Apostle
+
+### G2316 (Θεός, theos) - God
+**Decision**: Allah
+**Notes**: Standard Indonesian for God
+
+### G2962 (Κύριος, kyrios) - Lord
+**Decision**: Tuhan
+**Notes**: Lord
+
+### G5547 (Χριστός, christos) - Christ
+**Decision**: Kristus
+**Notes**: Christ
+
+### G2424 (Ἰησοῦς, iesous) - Jesus
+**Decision**: Yesus
+**Notes**: Jesus
+
+### G1124 (γραφή, graphe) - Scripture
+**Decision**: Kitab Suci
+**Notes**: Holy Scripture
+
+### G2315 (θεόπνευστος, theopneustos) - God-breathed
+**Decision**: diilhamkan Allah
+**Notes**: Inspired by God
+
+### G1319 (διδασκαλία, didaskalia) - teaching
+**Decision**: pengajaran
+**Notes**: Teaching/doctrine
+
+### G1343 (δικαιοσύνη, dikaiosyne) - righteousness
+**Decision**: keadilan/kebenaran
+**Notes**: Righteousness/justice
+
+### G5287 (ὑπομονή, hypomone) - endurance
+**Decision**: ketekunan
+**Notes**: Perseverance/endurance
+
+### G4152 (πνευματικός, pneumatikos) - spiritual
+**Decision**: rohani
+**Notes**: Spiritual
+
+### G1656 (ἔλεος, eleos) - mercy
+**Decision**: rahmat
+**Notes**: Mercy
+
+### G1515 (εἰρήνη, eirene) - peace
+**Decision**: damai sejahtera
+**Notes**: Peace
+
 ## Quality Standards
 
 1. Use standard Indonesian (Bahasa Indonesia baku)
@@ -96,7 +152,13 @@ For bound Greek/Hebrew morphemes, use n-dash or natural Indonesian.
 
 - **Jude**: Complete
 - **Obadiah**: Complete
+- **1 Timothy**: Complete (113 verses, 1598 words)
+- **2 Timothy**: Complete (83 verses, 1240 words)
+- **Colossians**: Complete (95 verses, 1587 words)
+- **Philippians**: Complete (104 verses, 1639 words)
 
 ## Modifications Log
 
 - 2024-01: Initial skill created with core conventions
+- 2026-01: Added 1 Timothy and 2 Timothy translations
+- 2026-01: Added Colossians and Philippians translations
