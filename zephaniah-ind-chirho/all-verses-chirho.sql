@@ -3,64 +3,12 @@
 -- — John 3:16
 
 -- ZEPHANIAH - IND Combined
--- Generated: 2026-01-29T21:53:51.311Z
+-- Regenerated: 2026-01-30T00:59:41Z
 
--- c001-v001: Firman– TUHAN yang datang kepada– Zefanya anak– Kusyi anak– Gedalya anak– Amarya anak– Hizkia pada–zaman Yosia anak– Amon raja Yehuda
--- c001-v002: Mengumpulkan mengumpulkan segala dari–atas muka bumi demikianlah–firman– TUHAN
--- c001-v003: Mengumpulkan manusia dan–binatang mengumpulkan burung– langit dan–ikan laut dan–batu–sandungan beserta– orang–fasik dan–melenyapkan – manusia dari–atas muka bumi demikianlah–firman– TUHAN
--- c001-v004: Dan–mengacungkan tangan–Ku terhadap– Yehuda dan–terhadap semua– penduduk Yerusalem dan–melenyapkan dari– tempat ini – sisa Baal – nama imam–berhala dengan– imam–imam
--- c001-v005: dan– orang–menyembah di–atas– atap–atap kepada–bala–tentara langit dan– orang–menyembah yang–bersumpah kepada–TUHAN dan–yang–bersumpah demi–Milkom
--- c001-v006: dan– orang–berbalik dari–belakang TUHAN dan–yang tidak– mencari – TUHAN dan–tidak menanyakan–Dia
--- c001-v007: Diamlah di–hadapan Tuhan TUHAN karena dekat hari TUHAN karena– menyiapkan TUHAN korban menguduskan para–tamu–Nya
--- c001-v008: Dan–terjadilah pada–hari korban TUHAN maka–menghukum terhadap– pembesar–pembesar dan–terhadap– anak–anak raja dan–terhadap semua– yang–mengenakan pakaian asing
--- c001-v009: dan–menghukum terhadap semua– yang–melompati di–atas– ambang–pintu pada–hari itu yang–memenuhi rumah tuan–mereka kekerasan dan–penipuan [selah]
--- c001-v010: Dan–terjadilah pada–hari itu demikianlah–firman– TUHAN suara jeritan dari–Pintu–Gerbang Ikan dan–ratapan dari– daerah–kedua dan–kehancuran besar dari–bukit–bukit
--- c001-v011: Merataplah hai–penduduk Lembah–Lesung karena dibinasakan semua– bangsa Kanaan dilenyapkan semua– pembawa perak
--- c001-v012: Dan–terjadilah pada–waktu itu memeriksa – Yerusalem dengan–pelita dan–menghukum terhadap– orang–orang yang–beku di–atas– ampas–mereka yang–berkata dalam–hati–mereka tidak– berbuat–baik TUHAN dan–tidak berbuat–jahat
--- c001-v013: Dan–menjadi kekayaan–mereka untuk–jarahan dan–rumah–mereka untuk–kesunyian dan–membangun rumah–rumah tetapi–tidak mendiami dan–menanam kebun–anggur tetapi–tidak meminum – anggur–nya
--- c001-v014: Dekat hari– TUHAN yang–besar dekat dan–cepat sangat suara hari TUHAN pahit berteriak di–sana pahlawan
--- c001-v015: Hari murka hari itu hari kesusahan dan–kesesakan hari kerusakan dan–kehancuran hari kegelapan dan–kekelaman hari awan dan–kegelapan–pekat
--- c001-v016: hari sangkakala dan–pekik–perang terhadap kota–kota berbenteng dan–terhadap menara–menara sudut–tinggi
--- c001-v017: Dan–menyesaki manusia dan–berjalan seperti–orang–buta karena kepada–TUHAN berdosa dan–dicurahkan darah–mereka seperti–debu dan–isi–perut–mereka seperti–kotoran
--- c001-v018: Juga– perak–mereka juga– emas–mereka tidak– mampu melepaskan–mereka pada–hari murka TUHAN dan–dengan–api cemburu–Nya dimakan semua– bumi karena– penuh ya– mengejutkan dibuat – semua– penduduk bumi [selah]
--- c002-v001: Berkumpullah dan–kumpulkanlah hai–bangsa tidak punya–malu
--- c002-v002: Sebelum lahir ketetapan seperti–sekam berlalu hari sebelum tidak– datang atas–kalian murka kemarahan– TUHAN sebelum tidak– datang atas–kalian hari kemarahan– TUHAN
--- c002-v003: Carilah – TUHAN semua– orang–rendah–hati bumi yang hukum–Nya melakukan carilah– keadilan carilah kerendahan–hati mungkin dilindungi pada–hari kemarahan– TUHAN
--- c002-v004: Karena Gaza ditinggalkan akan–menjadi dan–Askelon untuk–kesunyian Asdod pada–tengah–hari diusir dan–Ekron dicabut [selah]
--- c002-v005: Celakalah hai–penduduk pesisir laut bangsa orang–Kreta firman– TUHAN terhadap–kalian Kanaan tanah orang–Filistin dan–membinasakan–mu sehingga–tanpa penduduk
--- c002-v006: Dan–menjadi pesisir laut padang–rumput gua–gua gembala–gembala dan–kandang–kandang domba
--- c002-v007: Dan–menjadi pesisir untuk–sisa kaum Yehuda di–atasnya mereka–menggembalakan di–rumah–rumah Askelon pada–petang berbaring karena memperhatikan–mereka TUHAN Allah–mereka dan–memulihkan [tawanan–mereka] (tawanan–mereka)
--- c002-v008: Aku–mendengar celaan Moab dan–penghinaan anak–anak Amon yang mencela – umat–Ku dan–membesarkan terhadap– perbatasan–mereka
--- c002-v009: Sebab–itu demi–hidup– Aku demikianlah–firman TUHAN semesta–alam Allah Israel bahwa– Moab seperti–Sodom akan–menjadi dan–anak–anak Amon seperti–Gomora padang–jelatang semak dan–lubang– garam dan–kesunyian sampai– selamanya sisa umat–Ku menjarah–mereka dan–yang–tersisa [bangsa] (bangsa–Ku) mewarisi–mereka
--- c002-v010: Ini untuk–mereka ganti keangkuhan–mereka karena mencela dan–membesarkan–diri terhadap– umat TUHAN semesta–alam
--- c002-v011: Dahsyat TUHAN terhadap–mereka karena melemahkan – semua– allah bumi dan–menyembah– kepada–Nya masing–masing dari–tempatnya semua pulau–pulau bangsa–bangsa
--- c002-v012: Juga– kalian hai–orang–Etiopia terbunuh–oleh pedang–Ku mereka
--- c002-v013: Dan–mengacungkan tangan–Nya terhadap– utara dan–membinasakan – Asyur dan–menjadikan – Niniwe menjadi–sunyi kering seperti–padang–gurun
--- c002-v014: Dan–berbaring di–tengahnya kawanan–kawanan segala– binatang– bangsa baik– burung–undan maupun– landak di–kepala–tiangnya bermalam suara bernyanyi di–jendela reruntuhan di–ambang–pintu karena kayu–aras dilucuti
--- c002-v015: Inilah kota yang–beria–ria yang–duduk dengan–tenteram yang–berkata dalam–hatinya aku dan–tidak–ada–lagi lagi betapa menjadi kesunyian tempat–rebah binatang setiap yang–lewat padanya menyiuli mengibas tangannya [selah]
--- c003-v001: Celakalah yang–memberontak dan–tercemar kota penindas
--- c003-v002: Tidak mendengarkan suara tidak menerima teguran kepada–TUHAN tidak percaya kepada– Allahnya tidak mendekat
--- c003-v003: Pembesar–pembesarnya di–tengahnya singa–singa mengaum hakim–hakimnya serigala–serigala petang tidak meninggalkan sampai–pagi
--- c003-v004: Nabi–nabinya lancang orang–orang pengkhianat imam–imamnya menajiskan– yang–kudus memperkosa hukum–Taurat
--- c003-v005: TUHAN benar di–tengahnya tidak melakukan kecurangan setiap–pagi setiap–pagi keadilan–Nya diberikan kepada–terang tidak pernah–gagal tetapi–tidak– mengetahui yang–curang malu
--- c003-v006: Melenyapkan bangsa–bangsa sunyi menara–sudut–mereka menghancurkan jalan–jalan–mereka tanpa yang–lewat musnah kota–kota–mereka tanpa– seorang tanpa penduduk
--- c003-v007: Aku–berkata tentu– engkau–takut kepada–Ku menerima teguran dan–tidak– dilenyapkan tempat–tinggalnya segala yang– memerintahkan atasnya namun mereka–bangun–pagi–pagi merusak segala perbuatan–mereka
--- c003-v008: Sebab–itu nantikanlah– Aku demikianlah–firman– TUHAN untuk–hari Aku–bangkit sebagai–saksi karena keputusan–Ku untuk–mengumpulkan bangsa–bangsa untuk–menghimpun kerajaan–kerajaan untuk–mencurahkan atas–mereka kegeraman–Ku semua murka kemarahan–Ku karena dengan–api cemburu–Ku dimakan semua– bumi
--- c003-v009: Karena– kemudian mengubah kepada– bangsa–bangsa bibir murni untuk–memanggil mereka–semua dalam–nama TUHAN untuk–beribadah–kepada–Nya bahu satu
--- c003-v010: Dari–seberang sungai–sungai– Etiopia orang–yang–memohon–kepada–Ku putri– umat–Ku–yang–terserak membawa persembahan–Ku
--- c003-v011: Pada–hari itu tidak malu karena–semua perbuatan–mu yang memberontak terhadap–Ku karena– kemudian menyingkirkan dari–tengah–mu orang–yang–bersukaria keangkuhan–mu dan–tidak– meneruskan menyombongkan–diri lagi di–gunung kudus–Ku
--- c003-v012: Dan–meninggalkan di–tengah–mu bangsa miskin dan–lemah dan–berlindung dalam–nama TUHAN
--- c003-v013: Sisa Israel tidak– melakukan kecurangan dan–tidak– berbicara dusta dan–tidak– ditemukan di–mulut–mereka lidah tipu–daya karena– mereka merumput dan–berbaring dan–tidak–ada yang–menakut–nakuti [selah]
--- c003-v014: Bernyanyilah hai–putri– Sion bersoraklah Israel bersukacitalah dan–bersoraklah dengan–segenap– hati hai–putri Yerusalem
--- c003-v015: Menyingkirkan TUHAN hukuman–mu menyapu–bersih musuh–mu Raja Israel TUHAN di–tengah–mu tidak– akan–takut kejahatan lagi
--- c003-v016: Pada–hari itu dikatakan kepada–Yerusalem jangan– takut hai–Sion jangan– lemah tangan–mu
--- c003-v017: TUHAN Allah–mu di–tengah–mu Pahlawan yang–menyelamatkan bersukacita atas–mu dengan–kegembiraan diam dalam–kasih–Nya bersorak–sorai atas–mu dengan–nyanyian
--- c003-v018: Yang–berdukacita dari–perayaan mengumpulkan dari–mu mereka–adalah beban atasnya celaan
--- c003-v019: Sesungguhnya–Aku menangani – semua– yang–menindas–mu pada–waktu itu dan–menyelamatkan – yang–pincang dan–yang–terserak mengumpulkan dan–menjadikan–mereka menjadi–pujian dan–menjadi–nama di–seluruh– bumi kehinaan–mereka
--- c003-v020: Pada–waktu itu membawa kalian dan–pada–waktu mengumpulkan kalian karena– menjadikan kalian menjadi–nama dan–menjadi–pujian di–antara–semua bangsa–bangsa bumi ketika–memulihkan – nasib–kalian di–depan–mata–kalian berfirman TUHAN
-
+-- c001-v001-chirho.sql
+-- ZEPHANIAH c1-v1 - IND
+-- Firman– TUHAN yang datang kepada– Zefanya anak– Kusyi anak– Gedalya anak– Amarya anak– Hizkia pada–zaman Yosia anak– Amon raja Yehuda
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3600100101: דְּבַר־ (H1697) → "Firman–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -383,8 +331,10 @@ WHERE pw.word_id = '3600100120' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v002-chirho.sql
+-- ZEPHANIAH c1-v2 - IND
+-- Mengumpulkan mengumpulkan segala dari–atas muka bumi demikianlah–firman– TUHAN
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3600100201: אָסֹ֨ף (H0622) → "Mengumpulkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -515,8 +465,10 @@ WHERE pw.word_id = '3600100208' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v003-chirho.sql
+-- ZEPHANIAH c1-v3 - IND
+-- Mengumpulkan manusia dan–binatang mengumpulkan burung– langit dan–ikan laut dan–batu–sandungan beserta– orang–fasik dan–melenyapkan – manusia dari–atas muka bumi demikianlah–firman– TUHAN
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3600100301: אָסֵ֨ף (H0622) → "Mengumpulkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -823,8 +775,10 @@ WHERE pw.word_id = '3600100319' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v004-chirho.sql
+-- ZEPHANIAH c1-v4 - IND
+-- Dan–mengacungkan tangan–Ku terhadap– Yehuda dan–terhadap semua– penduduk Yerusalem dan–melenyapkan dari– tempat ini – sisa Baal – nama imam–berhala dengan– imam–imam
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3600100401: וְנָטִ֤יתִי (H5186) → "Dan–mengacungkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1147,8 +1101,10 @@ WHERE pw.word_id = '3600100420' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v005-chirho.sql
+-- ZEPHANIAH c1-v5 - IND
+-- dan– orang–menyembah di–atas– atap–atap kepada–bala–tentara langit dan– orang–menyembah yang–bersumpah kepada–TUHAN dan–yang–bersumpah demi–Milkom
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3600100501: וְאֶת־ (H0853) → "dan–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1343,8 +1299,10 @@ WHERE pw.word_id = '3600100512' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v006-chirho.sql
+-- ZEPHANIAH c1-v6 - IND
+-- dan– orang–berbalik dari–belakang TUHAN dan–yang tidak– mencari – TUHAN dan–tidak menanyakan–Dia
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3600100601: וְאֶת־ (H0853) → "dan–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1523,8 +1481,10 @@ WHERE pw.word_id = '3600100611' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v007-chirho.sql
+-- ZEPHANIAH c1-v7 - IND
+-- Diamlah di–hadapan Tuhan TUHAN karena dekat hari TUHAN karena– menyiapkan TUHAN korban menguduskan para–tamu–Nya
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3600100701: הַ֕ס (H2013) → "Diamlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1751,8 +1711,10 @@ WHERE pw.word_id = '3600100714' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v008-chirho.sql
+-- ZEPHANIAH c1-v8 - IND
+-- Dan–terjadilah pada–hari korban TUHAN maka–menghukum terhadap– pembesar–pembesar dan–terhadap– anak–anak raja dan–terhadap semua– yang–mengenakan pakaian asing
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3600100801: וְהָיָ֗ה (H1961) → "Dan–terjadilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1995,8 +1957,10 @@ WHERE pw.word_id = '3600100815' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v009-chirho.sql
+-- ZEPHANIAH c1-v9 - IND
+-- dan–menghukum terhadap semua– yang–melompati di–atas– ambang–pintu pada–hari itu yang–memenuhi rumah tuan–mereka kekerasan dan–penipuan [selah]
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3600100901: וּפָקַדְתִּ֗י (H6485a) → "dan–menghukum" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2223,8 +2187,10 @@ WHERE pw.word_id = '3600100914' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v010-chirho.sql
+-- ZEPHANIAH c1-v10 - IND
+-- Dan–terjadilah pada–hari itu demikianlah–firman– TUHAN suara jeritan dari–Pintu–Gerbang Ikan dan–ratapan dari– daerah–kedua dan–kehancuran besar dari–bukit–bukit
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3600101001: וְהָיָה֩ (H1961) → "Dan–terjadilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2467,8 +2433,10 @@ WHERE pw.word_id = '3600101015' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v011-chirho.sql
+-- ZEPHANIAH c1-v11 - IND
+-- Merataplah hai–penduduk Lembah–Lesung karena dibinasakan semua– bangsa Kanaan dilenyapkan semua– pembawa perak
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3600101101: הֵילִ֖ילוּ (H3213) → "Merataplah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2663,8 +2631,10 @@ WHERE pw.word_id = '3600101112' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v012-chirho.sql
+-- ZEPHANIAH c1-v12 - IND
+-- Dan–terjadilah pada–waktu itu memeriksa – Yerusalem dengan–pelita dan–menghukum terhadap– orang–orang yang–beku di–atas– ampas–mereka yang–berkata dalam–hati–mereka tidak– berbuat–baik TUHAN dan–tidak berbuat–jahat
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3600101201: וְהָיָה֙ (H1961) → "Dan–terjadilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2987,8 +2957,10 @@ WHERE pw.word_id = '3600101220' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v013-chirho.sql
+-- ZEPHANIAH c1-v13 - IND
+-- Dan–menjadi kekayaan–mereka untuk–jarahan dan–rumah–mereka untuk–kesunyian dan–membangun rumah–rumah tetapi–tidak mendiami dan–menanam kebun–anggur tetapi–tidak meminum – anggur–nya
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3600101301: וְהָיָ֤ה (H1961) → "Dan–menjadi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3231,8 +3203,10 @@ WHERE pw.word_id = '3600101315' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v014-chirho.sql
+-- ZEPHANIAH c1-v14 - IND
+-- Dekat hari– TUHAN yang–besar dekat dan–cepat sangat suara hari TUHAN pahit berteriak di–sana pahlawan
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3600101401: קָר֤וֹב (H7138) → "Dekat" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3459,8 +3433,10 @@ WHERE pw.word_id = '3600101414' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v015-chirho.sql
+-- ZEPHANIAH c1-v15 - IND
+-- Hari murka hari itu hari kesusahan dan–kesesakan hari kerusakan dan–kehancuran hari kegelapan dan–kekelaman hari awan dan–kegelapan–pekat
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3600101501: י֥וֹם (H3117) → "Hari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3719,8 +3695,10 @@ WHERE pw.word_id = '3600101516' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v016-chirho.sql
+-- ZEPHANIAH c1-v16 - IND
+-- hari sangkakala dan–pekik–perang terhadap kota–kota berbenteng dan–terhadap menara–menara sudut–tinggi
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3600101601: י֥וֹם (H3117) → "hari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3867,8 +3845,10 @@ WHERE pw.word_id = '3600101609' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v017-chirho.sql
+-- ZEPHANIAH c1-v17 - IND
+-- Dan–menyesaki manusia dan–berjalan seperti–orang–buta karena kepada–TUHAN berdosa dan–dicurahkan darah–mereka seperti–debu dan–isi–perut–mereka seperti–kotoran
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3600101701: וַהֲצֵרֹ֣תִי (H6887b) → "Dan–menyesaki" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4063,8 +4043,10 @@ WHERE pw.word_id = '3600101712' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v018-chirho.sql
+-- ZEPHANIAH c1-v18 - IND
+-- Juga– perak–mereka juga– emas–mereka tidak– mampu melepaskan–mereka pada–hari murka TUHAN dan–dengan–api cemburu–Nya dimakan semua– bumi karena– penuh ya– mengejutkan dibuat – semua– penduduk bumi [selah]
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3600101801: גַּם־ (H1571) → "Juga–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4467,8 +4449,10 @@ WHERE pw.word_id = '3600101825' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v001-chirho.sql
+-- ZEPHANIAH c2-v1 - IND
+-- Berkumpullah dan–kumpulkanlah hai–bangsa tidak punya–malu
 BEGIN;
--- === Chapter 2 Verse 1 ===
 -- 3600200101: הִֽתְקוֹשְׁשׁ֖וּ (H7197b) → "Berkumpullah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4551,8 +4535,10 @@ WHERE pw.word_id = '3600200105' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v002-chirho.sql
+-- ZEPHANIAH c2-v2 - IND
+-- Sebelum lahir ketetapan seperti–sekam berlalu hari sebelum tidak– datang atas–kalian murka kemarahan– TUHAN sebelum tidak– datang atas–kalian hari kemarahan– TUHAN
 BEGIN;
--- === Chapter 2 Verse 2 ===
 -- 3600200201: בְּטֶ֙רֶם֙ (H2962) → "Sebelum" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4875,8 +4861,10 @@ WHERE pw.word_id = '3600200220' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v003-chirho.sql
+-- ZEPHANIAH c2-v3 - IND
+-- Carilah – TUHAN semua– orang–rendah–hati bumi yang hukum–Nya melakukan carilah– keadilan carilah kerendahan–hati mungkin dilindungi pada–hari kemarahan– TUHAN
 BEGIN;
--- === Chapter 2 Verse 3 ===
 -- 3600200301: בַּקְּשׁ֤וּ (H1245) → "Carilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5167,8 +5155,10 @@ WHERE pw.word_id = '3600200318' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v004-chirho.sql
+-- ZEPHANIAH c2-v4 - IND
+-- Karena Gaza ditinggalkan akan–menjadi dan–Askelon untuk–kesunyian Asdod pada–tengah–hari diusir dan–Ekron dicabut [selah]
 BEGIN;
--- === Chapter 2 Verse 4 ===
 -- 3600200401: כִּ֤י (H3588a) → "Karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5363,8 +5353,10 @@ WHERE pw.word_id = '3600200412' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v005-chirho.sql
+-- ZEPHANIAH c2-v5 - IND
+-- Celakalah hai–penduduk pesisir laut bangsa orang–Kreta firman– TUHAN terhadap–kalian Kanaan tanah orang–Filistin dan–membinasakan–mu sehingga–tanpa penduduk
 BEGIN;
--- === Chapter 2 Verse 5 ===
 -- 3600200501: ה֗וֹי (H1945) → "Celakalah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5607,8 +5599,10 @@ WHERE pw.word_id = '3600200515' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v006-chirho.sql
+-- ZEPHANIAH c2-v6 - IND
+-- Dan–menjadi pesisir laut padang–rumput gua–gua gembala–gembala dan–kandang–kandang domba
 BEGIN;
--- === Chapter 2 Verse 6 ===
 -- 3600200601: וְֽהָיְתָ֞ה (H1961) → "Dan–menjadi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5739,8 +5733,10 @@ WHERE pw.word_id = '3600200608' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v007-chirho.sql
+-- ZEPHANIAH c2-v7 - IND
+-- Dan–menjadi pesisir untuk–sisa kaum Yehuda di–atasnya mereka–menggembalakan di–rumah–rumah Askelon pada–petang berbaring karena memperhatikan–mereka TUHAN Allah–mereka dan–memulihkan [tawanan–mereka] (tawanan–mereka)
 BEGIN;
--- === Chapter 2 Verse 7 ===
 -- 3600200701: וְהָ֣יָה (H1961) → "Dan–menjadi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6031,8 +6027,10 @@ WHERE pw.word_id = '3600200718' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v008-chirho.sql
+-- ZEPHANIAH c2-v8 - IND
+-- Aku–mendengar celaan Moab dan–penghinaan anak–anak Amon yang mencela – umat–Ku dan–membesarkan terhadap– perbatasan–mereka
 BEGIN;
--- === Chapter 2 Verse 8 ===
 -- 3600200801: שָׁמַ֙עְתִּי֙ (H8085) → "Aku–mendengar" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6243,8 +6241,10 @@ WHERE pw.word_id = '3600200813' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v009-chirho.sql
+-- ZEPHANIAH c2-v9 - IND
+-- Sebab–itu demi–hidup– Aku demikianlah–firman TUHAN semesta–alam Allah Israel bahwa– Moab seperti–Sodom akan–menjadi dan–anak–anak Amon seperti–Gomora padang–jelatang semak dan–lubang– garam dan–kesunyian sampai– selamanya sisa umat–Ku menjarah–mereka dan–yang–tersisa [bangsa] (bangsa–Ku) mewarisi–mereka
 BEGIN;
--- === Chapter 2 Verse 9 ===
 -- 3600200901: לָכֵ֣ן (H3651c) → "Sebab–itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6711,8 +6711,10 @@ WHERE pw.word_id = '3600200929' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v010-chirho.sql
+-- ZEPHANIAH c2-v10 - IND
+-- Ini untuk–mereka ganti keangkuhan–mereka karena mencela dan–membesarkan–diri terhadap– umat TUHAN semesta–alam
 BEGIN;
--- === Chapter 2 Verse 10 ===
 -- 3600201001: זֹ֥את (H2063) → "Ini" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6891,8 +6893,10 @@ WHERE pw.word_id = '3600201011' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v011-chirho.sql
+-- ZEPHANIAH c2-v11 - IND
+-- Dahsyat TUHAN terhadap–mereka karena melemahkan – semua– allah bumi dan–menyembah– kepada–Nya masing–masing dari–tempatnya semua pulau–pulau bangsa–bangsa
 BEGIN;
--- === Chapter 2 Verse 11 ===
 -- 3600201101: נוֹרָ֤א (H3372) → "Dahsyat" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7151,8 +7155,10 @@ WHERE pw.word_id = '3600201116' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v012-chirho.sql
+-- ZEPHANIAH c2-v12 - IND
+-- Juga– kalian hai–orang–Etiopia terbunuh–oleh pedang–Ku mereka
 BEGIN;
--- === Chapter 2 Verse 12 ===
 -- 3600201201: גַּם־ (H1571) → "Juga–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7251,8 +7257,10 @@ WHERE pw.word_id = '3600201206' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v013-chirho.sql
+-- ZEPHANIAH c2-v13 - IND
+-- Dan–mengacungkan tangan–Nya terhadap– utara dan–membinasakan – Asyur dan–menjadikan – Niniwe menjadi–sunyi kering seperti–padang–gurun
 BEGIN;
--- === Chapter 2 Verse 13 ===
 -- 3600201301: וְיֵ֤ט (H5186) → "Dan–mengacungkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7463,8 +7471,10 @@ WHERE pw.word_id = '3600201313' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v014-chirho.sql
+-- ZEPHANIAH c2-v14 - IND
+-- Dan–berbaring di–tengahnya kawanan–kawanan segala– binatang– bangsa baik– burung–undan maupun– landak di–kepala–tiangnya bermalam suara bernyanyi di–jendela reruntuhan di–ambang–pintu karena kayu–aras dilucuti
 BEGIN;
--- === Chapter 2 Verse 14 ===
 -- 3600201401: וְרָבְצ֨וּ (H7257) → "Dan–berbaring" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7787,8 +7797,10 @@ WHERE pw.word_id = '3600201420' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v015-chirho.sql
+-- ZEPHANIAH c2-v15 - IND
+-- Inilah kota yang–beria–ria yang–duduk dengan–tenteram yang–berkata dalam–hatinya aku dan–tidak–ada–lagi lagi betapa menjadi kesunyian tempat–rebah binatang setiap yang–lewat padanya menyiuli mengibas tangannya [selah]
 BEGIN;
--- === Chapter 2 Verse 15 ===
 -- 3600201501: זֹ֞֠את (H2063) → "Inilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8143,8 +8155,10 @@ WHERE pw.word_id = '3600201522' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v001-chirho.sql
+-- ZEPHANIAH c3-v1 - IND
+-- Celakalah yang–memberontak dan–tercemar kota penindas
 BEGIN;
--- === Chapter 3 Verse 1 ===
 -- 3600300101: ה֥וֹי (H1945) → "Celakalah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8227,8 +8241,10 @@ WHERE pw.word_id = '3600300105' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v002-chirho.sql
+-- ZEPHANIAH c3-v2 - IND
+-- Tidak mendengarkan suara tidak menerima teguran kepada–TUHAN tidak percaya kepada– Allahnya tidak mendekat
 BEGIN;
--- === Chapter 3 Verse 2 ===
 -- 3600300201: לֹ֤א (H3808) → "Tidak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8439,8 +8455,10 @@ WHERE pw.word_id = '3600300213' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v003-chirho.sql
+-- ZEPHANIAH c3-v3 - IND
+-- Pembesar–pembesarnya di–tengahnya singa–singa mengaum hakim–hakimnya serigala–serigala petang tidak meninggalkan sampai–pagi
 BEGIN;
--- === Chapter 3 Verse 3 ===
 -- 3600300301: שָׂרֶ֣יהָ (H8269) → "Pembesar–pembesarnya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8603,8 +8621,10 @@ WHERE pw.word_id = '3600300310' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v004-chirho.sql
+-- ZEPHANIAH c3-v4 - IND
+-- Nabi–nabinya lancang orang–orang pengkhianat imam–imamnya menajiskan– yang–kudus memperkosa hukum–Taurat
 BEGIN;
--- === Chapter 3 Verse 4 ===
 -- 3600300401: נְבִיאֶ֙יהָ֙ (H5030) → "Nabi–nabinya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8751,8 +8771,10 @@ WHERE pw.word_id = '3600300409' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v005-chirho.sql
+-- ZEPHANIAH c3-v5 - IND
+-- TUHAN benar di–tengahnya tidak melakukan kecurangan setiap–pagi setiap–pagi keadilan–Nya diberikan kepada–terang tidak pernah–gagal tetapi–tidak– mengetahui yang–curang malu
 BEGIN;
--- === Chapter 3 Verse 5 ===
 -- 3600300501: יְהוָ֤ה (H3068) → "TUHAN" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9027,8 +9049,10 @@ WHERE pw.word_id = '3600300517' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v006-chirho.sql
+-- ZEPHANIAH c3-v6 - IND
+-- Melenyapkan bangsa–bangsa sunyi menara–sudut–mereka menghancurkan jalan–jalan–mereka tanpa yang–lewat musnah kota–kota–mereka tanpa– seorang tanpa penduduk
 BEGIN;
--- === Chapter 3 Verse 6 ===
 -- 3600300601: הִכְרַ֣תִּי (H3772) → "Melenyapkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9255,8 +9279,10 @@ WHERE pw.word_id = '3600300614' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v007-chirho.sql
+-- ZEPHANIAH c3-v7 - IND
+-- Aku–berkata tentu– engkau–takut kepada–Ku menerima teguran dan–tidak– dilenyapkan tempat–tinggalnya segala yang– memerintahkan atasnya namun mereka–bangun–pagi–pagi merusak segala perbuatan–mereka
 BEGIN;
--- === Chapter 3 Verse 7 ===
 -- 3600300701: אָמַ֜רְתִּי (H0559) → "Aku–berkata" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9547,8 +9573,10 @@ WHERE pw.word_id = '3600300718' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v008-chirho.sql
+-- ZEPHANIAH c3-v8 - IND
+-- Sebab–itu nantikanlah– Aku demikianlah–firman– TUHAN untuk–hari Aku–bangkit sebagai–saksi karena keputusan–Ku untuk–mengumpulkan bangsa–bangsa untuk–menghimpun kerajaan–kerajaan untuk–mencurahkan atas–mereka kegeraman–Ku semua murka kemarahan–Ku karena dengan–api cemburu–Ku dimakan semua– bumi
 BEGIN;
--- === Chapter 3 Verse 8 ===
 -- 3600300801: לָכֵ֤ן (H3651c) → "Sebab–itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9967,8 +9995,10 @@ WHERE pw.word_id = '3600300826' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v009-chirho.sql
+-- ZEPHANIAH c3-v9 - IND
+-- Karena– kemudian mengubah kepada– bangsa–bangsa bibir murni untuk–memanggil mereka–semua dalam–nama TUHAN untuk–beribadah–kepada–Nya bahu satu
 BEGIN;
--- === Chapter 3 Verse 9 ===
 -- 3600300901: כִּֽי־ (H3588a) → "Karena–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10195,8 +10225,10 @@ WHERE pw.word_id = '3600300914' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v010-chirho.sql
+-- ZEPHANIAH c3-v10 - IND
+-- Dari–seberang sungai–sungai– Etiopia orang–yang–memohon–kepada–Ku putri– umat–Ku–yang–terserak membawa persembahan–Ku
 BEGIN;
--- === Chapter 3 Verse 10 ===
 -- 3600301001: מֵעֵ֖בֶר (H5676) → "Dari–seberang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10327,8 +10359,10 @@ WHERE pw.word_id = '3600301008' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v011-chirho.sql
+-- ZEPHANIAH c3-v11 - IND
+-- Pada–hari itu tidak malu karena–semua perbuatan–mu yang memberontak terhadap–Ku karena– kemudian menyingkirkan dari–tengah–mu orang–yang–bersukaria keangkuhan–mu dan–tidak– meneruskan menyombongkan–diri lagi di–gunung kudus–Ku
 BEGIN;
--- === Chapter 3 Verse 11 ===
 -- 3600301101: בַּיּ֣וֹם (H3117) → "Pada–hari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10667,8 +10701,10 @@ WHERE pw.word_id = '3600301121' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v012-chirho.sql
+-- ZEPHANIAH c3-v12 - IND
+-- Dan–meninggalkan di–tengah–mu bangsa miskin dan–lemah dan–berlindung dalam–nama TUHAN
 BEGIN;
--- === Chapter 3 Verse 12 ===
 -- 3600301201: וְהִשְׁאַרְתִּ֣י (H7604) → "Dan–meninggalkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10799,8 +10835,10 @@ WHERE pw.word_id = '3600301208' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v013-chirho.sql
+-- ZEPHANIAH c3-v13 - IND
+-- Sisa Israel tidak– melakukan kecurangan dan–tidak– berbicara dusta dan–tidak– ditemukan di–mulut–mereka lidah tipu–daya karena– mereka merumput dan–berbaring dan–tidak–ada yang–menakut–nakuti [selah]
 BEGIN;
--- === Chapter 3 Verse 13 ===
 -- 3600301301: שְׁאֵרִ֨ית (H7611) → "Sisa" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11123,8 +11161,10 @@ WHERE pw.word_id = '3600301320' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v014-chirho.sql
+-- ZEPHANIAH c3-v14 - IND
+-- Bernyanyilah hai–putri– Sion bersoraklah Israel bersukacitalah dan–bersoraklah dengan–segenap– hati hai–putri Yerusalem
 BEGIN;
--- === Chapter 3 Verse 14 ===
 -- 3600301401: רָנִּי֙ (H7442b) → "Bernyanyilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11303,8 +11343,10 @@ WHERE pw.word_id = '3600301411' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v015-chirho.sql
+-- ZEPHANIAH c3-v15 - IND
+-- Menyingkirkan TUHAN hukuman–mu menyapu–bersih musuh–mu Raja Israel TUHAN di–tengah–mu tidak– akan–takut kejahatan lagi
 BEGIN;
--- === Chapter 3 Verse 15 ===
 -- 3600301501: הֵסִ֤יר (H5493) → "Menyingkirkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11515,8 +11557,10 @@ WHERE pw.word_id = '3600301513' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v016-chirho.sql
+-- ZEPHANIAH c3-v16 - IND
+-- Pada–hari itu dikatakan kepada–Yerusalem jangan– takut hai–Sion jangan– lemah tangan–mu
 BEGIN;
--- === Chapter 3 Verse 16 ===
 -- 3600301601: בַּיּ֣וֹם (H3117) → "Pada–hari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11679,8 +11723,10 @@ WHERE pw.word_id = '3600301610' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v017-chirho.sql
+-- ZEPHANIAH c3-v17 - IND
+-- TUHAN Allah–mu di–tengah–mu Pahlawan yang–menyelamatkan bersukacita atas–mu dengan–kegembiraan diam dalam–kasih–Nya bersorak–sorai atas–mu dengan–nyanyian
 BEGIN;
--- === Chapter 3 Verse 17 ===
 -- 3600301701: יְהוָ֧ה (H3068) → "TUHAN" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11891,8 +11937,10 @@ WHERE pw.word_id = '3600301713' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v018-chirho.sql
+-- ZEPHANIAH c3-v18 - IND
+-- Yang–berdukacita dari–perayaan mengumpulkan dari–mu mereka–adalah beban atasnya celaan
 BEGIN;
--- === Chapter 3 Verse 18 ===
 -- 3600301801: נוּגֵ֧י (H3013) → "Yang–berdukacita" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12023,8 +12071,10 @@ WHERE pw.word_id = '3600301808' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v019-chirho.sql
+-- ZEPHANIAH c3-v19 - IND
+-- Sesungguhnya–Aku menangani – semua– yang–menindas–mu pada–waktu itu dan–menyelamatkan – yang–pincang dan–yang–terserak mengumpulkan dan–menjadikan–mereka menjadi–pujian dan–menjadi–nama di–seluruh– bumi kehinaan–mereka
 BEGIN;
--- === Chapter 3 Verse 19 ===
 -- 3600301901: הִנְנִ֥י (H2009) → "Sesungguhnya–Aku" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12315,8 +12365,10 @@ WHERE pw.word_id = '3600301918' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v020-chirho.sql
+-- ZEPHANIAH c3-v20 - IND
+-- Pada–waktu itu membawa kalian dan–pada–waktu mengumpulkan kalian karena– menjadikan kalian menjadi–nama dan–menjadi–pujian di–antara–semua bangsa–bangsa bumi ketika–memulihkan – nasib–kalian di–depan–mata–kalian berfirman TUHAN
 BEGIN;
--- === Chapter 3 Verse 20 ===
 -- 3600302001: בָּעֵ֤ת (H6256) → "Pada–waktu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

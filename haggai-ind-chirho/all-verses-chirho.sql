@@ -3,49 +3,12 @@
 -- — John 3:16
 
 -- HAGGAI - IND Combined
--- Generated: 2026-01-29T21:55:29.006Z
+-- Regenerated: 2026-01-30T00:58:42Z
 
--- c001-v001: Pada–tahun kedua pemerintahan–Darius raja pada–bulan keenam pada–hari pertama bulan datanglah firman– TUHAN melalui– Hagai nabi kepada– Zerubabel anak– Sealtiel bupati Yehuda dan–kepada– Yosua anak– Yozadak imam besar demikian
--- c001-v002: Demikianlah berfirman TUHAN semesta–alam demikian Bangsa ini berkata belum waktunya– datang waktunya– rumah TUHAN untuk–dibangun [paragraf]
--- c001-v003: Maka–datanglah firman– TUHAN melalui– Hagai nabi demikian
--- c001-v004: Apakah–waktunya bagi–kalian kalian untuk–tinggal di–rumah–kalian berlapis–kayu sementara–rumah ini terbengkalai
--- c001-v005: Maka–sekarang demikianlah berfirman TUHAN semesta–alam perhatikanlah hati–kalian terhadap– jalan–jalan–kalian
--- c001-v006: Kalian–menabur banyak dan–membawa–masuk sedikit makan tetapi–tidak– kenyang minum tetapi–tidak– mabuk berpakaian tetapi–tidak– hangat baginya dan–yang–bekerja–untuk–upah bekerja–untuk–upah ke–dalam– kantong berlubang [paragraf]
--- c001-v007: Demikianlah berfirman TUHAN semesta–alam perhatikanlah hati–kalian terhadap– jalan–jalan–kalian
--- c001-v008: Naiklah ke–gunung dan–bawalah kayu dan–bangunlah rumah maka–berkenan– di–dalamnya [dan–dimuliakan] (dan–dimuliakan) berfirman TUHAN
--- c001-v009: Mengharapkan ke–arah– banyak tetapi–lihatlah sedikit dan–membawa–masuk ke–rumah maka–meniup padanya karena apa demikianlah–firman TUHAN semesta–alam karena rumah–Ku yang– dia terbengkalai sementara–kalian berlari masing–masing ke–rumahnya
--- c001-v010: Karena– itu atas–kalian menahan langit embun dan–bumi menahan hasilnya
--- c001-v011: Dan–memanggil kekeringan atas– tanah dan–atas– gunung–gunung dan–atas– gandum dan–atas– anggur dan–atas– minyak dan–atas apa–yang menghasilkan tanah dan–atas– manusia dan–atas– ternak dan–atas semua– jerih–payah tangan [selah]
--- c001-v012: Maka–mendengarlah Zerubabel anak– Sealtiel dan–Yosua anak– Yozadak imam besar dan–semua sisa umat kepada–suara TUHAN Allah–mereka dan–kepada– perkataan Hagai nabi seperti–yang mengutusnya TUHAN Allah–mereka dan–takutlah umat di–hadapan TUHAN
--- c001-v013: Dan–berkatalah Hagai utusan TUHAN dalam–pesan TUHAN kepada–umat demikian Aku bersama–kalian demikianlah–firman– TUHAN
--- c001-v014: Maka–membangkitkan TUHAN – roh Zerubabel anak– Sealtiel bupati Yehuda dan– roh Yosua anak– Yozadak imam besar dan– roh semua sisa umat dan–datanglah–mereka dan–bekerjalah pekerjaan di–rumah– TUHAN semesta–alam Allah–mereka [paragraf]
--- c001-v015: Pada–hari dua–puluh empat bulan keenam pada–tahun kedua pemerintahan–Darius raja
--- c002-v001: Pada–bulan–ketujuh pada–hari–dua–puluh satu bulan datanglah firman– TUHAN melalui– Hagai nabi demikian
--- c002-v002: Katakanlah– kiranya kepada– Zerubabel anak– Sealtiel bupati Yehuda dan–kepada– Yosua anak– Yozadak imam besar dan–kepada– sisa umat demikian
--- c002-v003: Siapa di–antara–kalian yang–tersisa yang melihat – rumah ini dalam–kemuliaannya yang–dahulu dan–apa kalian melihatnya sekarang sekarang bukankah seperti–tidak–ada seperti–kosong di–mata–kalian
--- c002-v004: Tetapi–sekarang kuatkanlah hai–Zerubabel demikianlah–firman– TUHAN dan–kuatkanlah hai–Yosua anak– Yozadak imam besar dan–kuatkanlah semua– rakyat negeri demikianlah–firman– TUHAN dan–bekerjalah karena– Aku bersama–kalian demikianlah–firman TUHAN semesta–alam
--- c002-v005: – Perjanjian yang– mengikat dengan–kalian waktu–kalian–keluar dari–Mesir dan–roh–Ku berdiri di–tengah–kalian jangan– takut [selah]
--- c002-v006: Karena demikianlah berfirman TUHAN semesta–alam sekali lagi sedikit itu dan–Aku menggoncangkan – langit dan– bumi dan– laut dan– tanah–kering
--- c002-v007: Dan–menggoncangkan – semua– bangsa–bangsa dan–datang harta–benda semua– bangsa–bangsa dan–memenuhi – rumah ini kemuliaan berfirman TUHAN semesta–alam
--- c002-v008: Kepunyaan–Ku perak dan–kepunyaan–Ku emas demikianlah–firman TUHAN semesta–alam
--- c002-v009: Lebih–besar akan–menjadi kemuliaan rumah ini yang–kemudian dari– yang–dahulu berfirman TUHAN semesta–alam dan–di–tempat ini memberikan damai–sejahtera demikianlah–firman TUHAN semesta–alam [paragraf]
--- c002-v010: Pada–hari–dua–puluh empat bulan–kesembilan pada–tahun kedua pemerintahan–Darius datanglah firman– TUHAN kepada– Hagai nabi demikian
--- c002-v011: Demikianlah berfirman TUHAN semesta–alam tanyakanlah– kiranya kepada– imam–imam hukum–Taurat demikian
--- c002-v012: Jika membawa– seseorang daging– kudus di–ujung pakaiannya dan–menyentuh dengan–ujungnya kepada– roti atau–kepada– makanan–berkuah atau–kepada– anggur atau–kepada– minyak atau–kepada– segala– makanan menjadi–kudustkah maka–menjawab imam–imam dan–berkata tidak
--- c002-v013: Dan–berkata Hagai jika– menyentuh yang–najis–oleh– mayat segala– ini menjadi–najiskah maka–menjawab imam–imam dan–berkata najis
--- c002-v014: Maka–menjawab Hagai dan–berkata demikianlah bangsa– ini dan–demikianlah– kaum ini di–hadapan–Ku demikianlah–firman– TUHAN dan–demikianlah semua– pekerjaan tangan–mereka dan–apa–yang mempersembahkan di–sana najis itu
--- c002-v015: Dan–sekarang perhatikanlah– kiranya hati–kalian dari– hari ini dan–ke–atas sebelum meletakkan– batu di–atas– batu di–bait–suci TUHAN
--- c002-v016: Sejak–adanya datang kepada– timbunan dua–puluh maka–jadilah sepuluh datang kepada– tempat–anggur untuk–mencedok lima–puluh sukat maka–jadilah dua–puluh
--- c002-v017: Memukul kalian dengan–layuran dan–dengan–penyakit–kuning dan–dengan–hujan–es – semua– pekerjaan tangan–kalian tetapi–tidak– kalian kepada–Ku demikianlah–firman– TUHAN
--- c002-v018: Perhatikanlah– kiranya hati–kalian dari– hari ini dan–ke–atas dari–hari dua–puluh empat bulan–kesembilan dari– hari yang– didirikan bait–suci– TUHAN perhatikanlah hati–kalian
--- c002-v019: Masih–adakah benih di–lumbung dan–bahkan– pohon–anggur dan–pohon–ara dan–pohon–delima dan–pohon zaitun tidak berbuah dari– hari ini memberkati [selah]
--- c002-v020: Dan–datanglah firman– TUHAN kedua–kalinya kepada– Hagai pada–hari–dua–puluh empat bulan demikian
--- c002-v021: Katakanlah kepada– Zerubabel bupati– Yehuda demikian Aku menggoncangkan – langit dan– bumi
--- c002-v022: Dan–menjungkirbalikkan takhta kerajaan–kerajaan dan–membinasakan kekuatan kerajaan–kerajaan bangsa–bangsa dan–menjungkirbalikkan kereta dan–penunggang–penunggang–nya dan–jatuh kuda–kuda dan–penunggang–penunggang–nya masing–masing oleh–pedang saudaranya
--- c002-v023: Pada–hari itu demikianlah–firman– TUHAN semesta–alam mengambil–mu hai–Zerubabel anak– Sealtiel hamba–Ku demikianlah–firman– TUHAN dan–menempatkan–mu seperti–cincin–meterai karena– engkau Aku–pilih demikianlah–firman TUHAN semesta–alam
-
+-- c001-v001-chirho.sql
+-- HAGGAI c1-v1 - IND
+-- Pada–tahun kedua pemerintahan–Darius raja pada–bulan keenam pada–hari pertama bulan datanglah firman– TUHAN melalui– Hagai nabi kepada– Zerubabel anak– Sealtiel bupati Yehuda dan–kepada– Yosua anak– Yozadak imam besar demikian
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3700100101: בִּשְׁנַ֤ת (H8141) → "Pada–tahun" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -496,8 +459,10 @@ WHERE pw.word_id = '3700100128' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v002-chirho.sql
+-- HAGGAI c1-v2 - IND
+-- Demikianlah berfirman TUHAN semesta–alam demikian Bangsa ini berkata belum waktunya– datang waktunya– rumah TUHAN untuk–dibangun [paragraf]
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3700100201: כֹּ֥ה (H3541) → "Demikianlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -756,8 +721,10 @@ WHERE pw.word_id = '3700100216' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v003-chirho.sql
+-- HAGGAI c1-v3 - IND
+-- Maka–datanglah firman– TUHAN melalui– Hagai nabi demikian
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3700100301: וַֽיְהִי֙ (H1961) → "Maka–datanglah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -872,8 +839,10 @@ WHERE pw.word_id = '3700100307' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v004-chirho.sql
+-- HAGGAI c1-v4 - IND
+-- Apakah–waktunya bagi–kalian kalian untuk–tinggal di–rumah–kalian berlapis–kayu sementara–rumah ini terbengkalai
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3700100401: הַעֵ֤ת (H6256) → "Apakah–waktunya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1020,8 +989,10 @@ WHERE pw.word_id = '3700100409' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v005-chirho.sql
+-- HAGGAI c1-v5 - IND
+-- Maka–sekarang demikianlah berfirman TUHAN semesta–alam perhatikanlah hati–kalian terhadap– jalan–jalan–kalian
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3700100501: וְעַתָּ֕ה (H6258) → "Maka–sekarang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1168,8 +1139,10 @@ WHERE pw.word_id = '3700100509' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v006-chirho.sql
+-- HAGGAI c1-v6 - IND
+-- Kalian–menabur banyak dan–membawa–masuk sedikit makan tetapi–tidak– kenyang minum tetapi–tidak– mabuk berpakaian tetapi–tidak– hangat baginya dan–yang–bekerja–untuk–upah bekerja–untuk–upah ke–dalam– kantong berlubang [paragraf]
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3700100601: זְרַעְתֶּ֨ם (H2232) → "Kalian–menabur" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1492,8 +1465,10 @@ WHERE pw.word_id = '3700100620' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v007-chirho.sql
+-- HAGGAI c1-v7 - IND
+-- Demikianlah berfirman TUHAN semesta–alam perhatikanlah hati–kalian terhadap– jalan–jalan–kalian
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3700100701: כֹּ֥ה (H3541) → "Demikianlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1624,8 +1599,10 @@ WHERE pw.word_id = '3700100708' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v008-chirho.sql
+-- HAGGAI c1-v8 - IND
+-- Naiklah ke–gunung dan–bawalah kayu dan–bangunlah rumah maka–berkenan– di–dalamnya [dan–dimuliakan] (dan–dimuliakan) berfirman TUHAN
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3700100801: עֲל֥וּ (H5927) → "Naiklah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1820,8 +1797,10 @@ WHERE pw.word_id = '3700100812' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v009-chirho.sql
+-- HAGGAI c1-v9 - IND
+-- Mengharapkan ke–arah– banyak tetapi–lihatlah sedikit dan–membawa–masuk ke–rumah maka–meniup padanya karena apa demikianlah–firman TUHAN semesta–alam karena rumah–Ku yang– dia terbengkalai sementara–kalian berlari masing–masing ke–rumahnya
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3700100901: פָּנֹ֤ה (H6437) → "Mengharapkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2192,8 +2171,10 @@ WHERE pw.word_id = '3700100923' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v010-chirho.sql
+-- HAGGAI c1-v10 - IND
+-- Karena– itu atas–kalian menahan langit embun dan–bumi menahan hasilnya
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3700101001: עַל־ (H5921a) → "Karena–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2340,8 +2321,10 @@ WHERE pw.word_id = '3700101009' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v011-chirho.sql
+-- HAGGAI c1-v11 - IND
+-- Dan–memanggil kekeringan atas– tanah dan–atas– gunung–gunung dan–atas– gandum dan–atas– anggur dan–atas– minyak dan–atas apa–yang menghasilkan tanah dan–atas– manusia dan–atas– ternak dan–atas semua– jerih–payah tangan [selah]
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3700101101: וָאֶקְרָ֨א (H7121) → "Dan–memanggil" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2744,8 +2727,10 @@ WHERE pw.word_id = '3700101125' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v012-chirho.sql
+-- HAGGAI c1-v12 - IND
+-- Maka–mendengarlah Zerubabel anak– Sealtiel dan–Yosua anak– Yozadak imam besar dan–semua sisa umat kepada–suara TUHAN Allah–mereka dan–kepada– perkataan Hagai nabi seperti–yang mengutusnya TUHAN Allah–mereka dan–takutlah umat di–hadapan TUHAN
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3700101201: וַיִּשְׁמַ֣ע (H8085) → "Maka–mendengarlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3180,8 +3165,10 @@ WHERE pw.word_id = '3700101227' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v013-chirho.sql
+-- HAGGAI c1-v13 - IND
+-- Dan–berkatalah Hagai utusan TUHAN dalam–pesan TUHAN kepada–umat demikian Aku bersama–kalian demikianlah–firman– TUHAN
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3700101301: וַ֠יֹּאמֶר (H0559) → "Dan–berkatalah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3376,8 +3363,10 @@ WHERE pw.word_id = '3700101312' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v014-chirho.sql
+-- HAGGAI c1-v14 - IND
+-- Maka–membangkitkan TUHAN – roh Zerubabel anak– Sealtiel bupati Yehuda dan– roh Yosua anak– Yozadak imam besar dan– roh semua sisa umat dan–datanglah–mereka dan–bekerjalah pekerjaan di–rumah– TUHAN semesta–alam Allah–mereka [paragraf]
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3700101401: וַיָּ֣עַר (H5782) → "Maka–membangkitkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3844,8 +3833,10 @@ WHERE pw.word_id = '3700101429' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v015-chirho.sql
+-- HAGGAI c1-v15 - IND
+-- Pada–hari dua–puluh empat bulan keenam pada–tahun kedua pemerintahan–Darius raja
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3700101501: בְּי֨וֹם (H3117) → "Pada–hari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3992,8 +3983,10 @@ WHERE pw.word_id = '3700101509' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v001-chirho.sql
+-- HAGGAI c2-v1 - IND
+-- Pada–bulan–ketujuh pada–hari–dua–puluh satu bulan datanglah firman– TUHAN melalui– Hagai nabi demikian
 BEGIN;
--- === Chapter 2 Verse 1 ===
 -- 3700200101: בַּשְּׁבִיעִ֕י (H7637) → "Pada–bulan–ketujuh" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4172,8 +4165,10 @@ WHERE pw.word_id = '3700200111' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v002-chirho.sql
+-- HAGGAI c2-v2 - IND
+-- Katakanlah– kiranya kepada– Zerubabel anak– Sealtiel bupati Yehuda dan–kepada– Yosua anak– Yozadak imam besar dan–kepada– sisa umat demikian
 BEGIN;
--- === Chapter 2 Verse 2 ===
 -- 3700200201: אֱמָר־ (H0559) → "Katakanlah–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4464,8 +4459,10 @@ WHERE pw.word_id = '3700200218' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v003-chirho.sql
+-- HAGGAI c2-v3 - IND
+-- Siapa di–antara–kalian yang–tersisa yang melihat – rumah ini dalam–kemuliaannya yang–dahulu dan–apa kalian melihatnya sekarang sekarang bukankah seperti–tidak–ada seperti–kosong di–mata–kalian
 BEGIN;
--- === Chapter 2 Verse 3 ===
 -- 3700200301: מִ֤י (H4310) → "Siapa" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4772,8 +4769,10 @@ WHERE pw.word_id = '3700200319' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v004-chirho.sql
+-- HAGGAI c2-v4 - IND
+-- Tetapi–sekarang kuatkanlah hai–Zerubabel demikianlah–firman– TUHAN dan–kuatkanlah hai–Yosua anak– Yozadak imam besar dan–kuatkanlah semua– rakyat negeri demikianlah–firman– TUHAN dan–bekerjalah karena– Aku bersama–kalian demikianlah–firman TUHAN semesta–alam
 BEGIN;
--- === Chapter 2 Verse 4 ===
 -- 3700200401: וְעַתָּ֣ה (H6258) → "Tetapi–sekarang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5160,8 +5159,10 @@ WHERE pw.word_id = '3700200424' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v005-chirho.sql
+-- HAGGAI c2-v5 - IND
+-- – Perjanjian yang– mengikat dengan–kalian waktu–kalian–keluar dari–Mesir dan–roh–Ku berdiri di–tengah–kalian jangan– takut [selah]
 BEGIN;
--- === Chapter 2 Verse 5 ===
 -- 3700200501: אֶֽת־ (H0853) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5372,8 +5373,10 @@ WHERE pw.word_id = '3700200513' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v006-chirho.sql
+-- HAGGAI c2-v6 - IND
+-- Karena demikianlah berfirman TUHAN semesta–alam sekali lagi sedikit itu dan–Aku menggoncangkan – langit dan– bumi dan– laut dan– tanah–kering
 BEGIN;
--- === Chapter 2 Verse 6 ===
 -- 3700200601: כִּ֣י (H3588a) → "Karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5680,8 +5683,10 @@ WHERE pw.word_id = '3700200619' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v007-chirho.sql
+-- HAGGAI c2-v7 - IND
+-- Dan–menggoncangkan – semua– bangsa–bangsa dan–datang harta–benda semua– bangsa–bangsa dan–memenuhi – rumah ini kemuliaan berfirman TUHAN semesta–alam
 BEGIN;
--- === Chapter 2 Verse 7 ===
 -- 3700200701: וְהִרְעַשְׁתִּי֙ (H7493) → "Dan–menggoncangkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5940,8 +5945,10 @@ WHERE pw.word_id = '3700200716' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v008-chirho.sql
+-- HAGGAI c2-v8 - IND
+-- Kepunyaan–Ku perak dan–kepunyaan–Ku emas demikianlah–firman TUHAN semesta–alam
 BEGIN;
--- === Chapter 2 Verse 8 ===
 -- 3700200801: לִ֥י (H????) → "Kepunyaan–Ku" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6056,8 +6063,10 @@ WHERE pw.word_id = '3700200807' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v009-chirho.sql
+-- HAGGAI c2-v9 - IND
+-- Lebih–besar akan–menjadi kemuliaan rumah ini yang–kemudian dari– yang–dahulu berfirman TUHAN semesta–alam dan–di–tempat ini memberikan damai–sejahtera demikianlah–firman TUHAN semesta–alam [paragraf]
 BEGIN;
--- === Chapter 2 Verse 9 ===
 -- 3700200901: גָּד֣וֹל (H1419a) → "Lebih–besar" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6364,8 +6373,10 @@ WHERE pw.word_id = '3700200919' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v010-chirho.sql
+-- HAGGAI c2-v10 - IND
+-- Pada–hari–dua–puluh empat bulan–kesembilan pada–tahun kedua pemerintahan–Darius datanglah firman– TUHAN kepada– Hagai nabi demikian
 BEGIN;
--- === Chapter 2 Verse 10 ===
 -- 3700201001: בְּעֶשְׂרִ֤ים (H6242) → "Pada–hari–dua–puluh" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6576,8 +6587,10 @@ WHERE pw.word_id = '3700201013' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v011-chirho.sql
+-- HAGGAI c2-v11 - IND
+-- Demikianlah berfirman TUHAN semesta–alam tanyakanlah– kiranya kepada– imam–imam hukum–Taurat demikian
 BEGIN;
--- === Chapter 2 Verse 11 ===
 -- 3700201101: כֹּ֥ה (H3541) → "Demikianlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6740,8 +6753,10 @@ WHERE pw.word_id = '3700201110' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v012-chirho.sql
+-- HAGGAI c2-v12 - IND
+-- Jika membawa– seseorang daging– kudus di–ujung pakaiannya dan–menyentuh dengan–ujungnya kepada– roti atau–kepada– makanan–berkuah atau–kepada– anggur atau–kepada– minyak atau–kepada– segala– makanan menjadi–kudustkah maka–menjawab imam–imam dan–berkata tidak
 BEGIN;
--- === Chapter 2 Verse 12 ===
 -- 3700201201: הֵ֣ן ׀ (H2005) → "Jika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7144,8 +7159,10 @@ WHERE pw.word_id = '3700201225' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v013-chirho.sql
+-- HAGGAI c2-v13 - IND
+-- Dan–berkata Hagai jika– menyentuh yang–najis–oleh– mayat segala– ini menjadi–najiskah maka–menjawab imam–imam dan–berkata najis
 BEGIN;
--- === Chapter 2 Verse 13 ===
 -- 3700201301: וַיֹּ֣אמֶר (H0559) → "Dan–berkata" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7356,8 +7373,10 @@ WHERE pw.word_id = '3700201313' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v014-chirho.sql
+-- HAGGAI c2-v14 - IND
+-- Maka–menjawab Hagai dan–berkata demikianlah bangsa– ini dan–demikianlah– kaum ini di–hadapan–Ku demikianlah–firman– TUHAN dan–demikianlah semua– pekerjaan tangan–mereka dan–apa–yang mempersembahkan di–sana najis itu
 BEGIN;
--- === Chapter 2 Verse 14 ===
 -- 3700201401: וַיַּ֨עַן (H6030b) → "Maka–menjawab" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7696,8 +7715,10 @@ WHERE pw.word_id = '3700201421' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v015-chirho.sql
+-- HAGGAI c2-v15 - IND
+-- Dan–sekarang perhatikanlah– kiranya hati–kalian dari– hari ini dan–ke–atas sebelum meletakkan– batu di–atas– batu di–bait–suci TUHAN
 BEGIN;
--- === Chapter 2 Verse 15 ===
 -- 3700201501: וְעַתָּה֙ (H6258) → "Dan–sekarang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7940,8 +7961,10 @@ WHERE pw.word_id = '3700201515' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v016-chirho.sql
+-- HAGGAI c2-v16 - IND
+-- Sejak–adanya datang kepada– timbunan dua–puluh maka–jadilah sepuluh datang kepada– tempat–anggur untuk–mencedok lima–puluh sukat maka–jadilah dua–puluh
 BEGIN;
--- === Chapter 2 Verse 16 ===
 -- 3700201601: מִֽהְיוֹתָ֥ם (H1961) → "Sejak–adanya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8184,8 +8207,10 @@ WHERE pw.word_id = '3700201615' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v017-chirho.sql
+-- HAGGAI c2-v17 - IND
+-- Memukul kalian dengan–layuran dan–dengan–penyakit–kuning dan–dengan–hujan–es – semua– pekerjaan tangan–kalian tetapi–tidak– kalian kepada–Ku demikianlah–firman– TUHAN
 BEGIN;
--- === Chapter 2 Verse 17 ===
 -- 3700201701: הִכֵּ֨יתִי (H5221) → "Memukul" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8412,8 +8437,10 @@ WHERE pw.word_id = '3700201714' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v018-chirho.sql
+-- HAGGAI c2-v18 - IND
+-- Perhatikanlah– kiranya hati–kalian dari– hari ini dan–ke–atas dari–hari dua–puluh empat bulan–kesembilan dari– hari yang– didirikan bait–suci– TUHAN perhatikanlah hati–kalian
 BEGIN;
--- === Chapter 2 Verse 18 ===
 -- 3700201801: שִׂימוּ־ (H7760a) → "Perhatikanlah–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8720,8 +8747,10 @@ WHERE pw.word_id = '3700201819' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v019-chirho.sql
+-- HAGGAI c2-v19 - IND
+-- Masih–adakah benih di–lumbung dan–bahkan– pohon–anggur dan–pohon–ara dan–pohon–delima dan–pohon zaitun tidak berbuah dari– hari ini memberkati [selah]
 BEGIN;
--- === Chapter 2 Verse 19 ===
 -- 3700201901: הַע֤וֹד (H5750) → "Masih–adakah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8980,8 +9009,10 @@ WHERE pw.word_id = '3700201916' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v020-chirho.sql
+-- HAGGAI c2-v20 - IND
+-- Dan–datanglah firman– TUHAN kedua–kalinya kepada– Hagai pada–hari–dua–puluh empat bulan demikian
 BEGIN;
--- === Chapter 2 Verse 20 ===
 -- 3700202001: וַיְהִ֨י (H1961) → "Dan–datanglah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9144,8 +9175,10 @@ WHERE pw.word_id = '3700202010' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v021-chirho.sql
+-- HAGGAI c2-v21 - IND
+-- Katakanlah kepada– Zerubabel bupati– Yehuda demikian Aku menggoncangkan – langit dan– bumi
 BEGIN;
--- === Chapter 2 Verse 21 ===
 -- 3700202101: אֱמֹ֕ר (H0559) → "Katakanlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9340,8 +9373,10 @@ WHERE pw.word_id = '3700202112' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v022-chirho.sql
+-- HAGGAI c2-v22 - IND
+-- Dan–menjungkirbalikkan takhta kerajaan–kerajaan dan–membinasakan kekuatan kerajaan–kerajaan bangsa–bangsa dan–menjungkirbalikkan kereta dan–penunggang–penunggang–nya dan–jatuh kuda–kuda dan–penunggang–penunggang–nya masing–masing oleh–pedang saudaranya
 BEGIN;
--- === Chapter 2 Verse 22 ===
 -- 3700202201: וְהָֽפַכְתִּי֙ (H2015) → "Dan–menjungkirbalikkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9600,8 +9635,10 @@ WHERE pw.word_id = '3700202216' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v023-chirho.sql
+-- HAGGAI c2-v23 - IND
+-- Pada–hari itu demikianlah–firman– TUHAN semesta–alam mengambil–mu hai–Zerubabel anak– Sealtiel hamba–Ku demikianlah–firman– TUHAN dan–menempatkan–mu seperti–cincin–meterai karena– engkau Aku–pilih demikianlah–firman TUHAN semesta–alam
 BEGIN;
--- === Chapter 2 Verse 23 ===
 -- 3700202301: בַּיּ֣וֹם (H3117) → "Pada–hari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

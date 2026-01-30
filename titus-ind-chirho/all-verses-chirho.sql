@@ -3,57 +3,12 @@
 -- — John 3:16
 
 -- TITUS - IND Combined
--- Generated: 2026-01-29T04:16:10.325Z
+-- Regenerated: 2026-01-30T00:59:40Z
 
--- c001-v001: Paulus, hamba Allah, rasul dan Yesus Kristus, menurut iman orang–pilihan Allah, dan pengetahuan kebenaran, yang sesuai–dengan kesalehan;
--- c001-v002: berdasarkan pengharapan hidup kekal, yang dijanjikan – tidak–berdusta, Allah, sebelum waktu kekal;
--- c001-v003: dinyatakan tetapi, waktu–waktu yang–tepat, – firman-Nya milik-Nya, dalam pemberitaan yang dipercayakan aku, menurut perintah – Juruselamat kita, Allah;
--- c001-v004: kepada–Titus, anak sejati, menurut bersama iman: anugerah dan damai–sejahtera dari Allah Bapa, dan Kristus Yesus, – Juruselamat kita.
--- c001-v005: Karena–ini sebabnya, kutinggalkan kamu di Kreta, supaya hal–hal yang–kurang kamu–atur, dan kamu–angkat di–setiap kota penatua–penatua, seperti aku kepadamu perintahkan,
--- c001-v006: jika seseorang adalah tidak–bercela, satu istri suami, anak–anak mempunyai beriman, tidak dalam tuduhan kebejatan atau tidak–tunduk.
--- c001-v007: harus karena – penilik–jemaat tidak–bercela menjadi, sebagai Allah pengelola; tidak angkuh, tidak pemarah, tidak pemabuk, tidak suka–memukul, tidak serakah;
--- c001-v008: tetapi suka–menerima–tamu, suka–kebaikan, bijaksana, adil, kudus, menguasai–diri;
--- c001-v009: berpegang–teguh pada–, sesuai–dengan – ajaran, yang–setia firman, supaya mampu ia–menjadi baik menasihati dalam – pengajaran yang sehat, dan orang–orang yang–membantah menegur.
--- c001-v010: Ada karena banyak juga tidak–tunduk, pembicara–sia–sia, dan penipu–pikiran, terutama mereka–yang dari – sunat,
--- c001-v011: yang harus dibungkam, yang seluruh rumah–tangga merusak, mengajarkan hal–hal–yang tidak patut, keji keuntungan demi.
--- c001-v012: berkata seseorang dari mereka, sendiri mereka, nabi, Orang–Kreta selalu pendusta, jahat binatang–buas, perut–perut malas.
--- c001-v013: – kesaksian ini adalah benar; karena alasan–itu sebab tegurlah mereka dengan–keras, supaya mereka–sehat dalam – iman,
--- c001-v014: tidak memperhatikan Yahudi dongeng–dongeng dan perintah–perintah manusia, yang–berpaling–dari – kebenaran.
--- c001-v015: Segala–sesuatu murni bagi–orang yang–murni; bagi–orang tetapi yang–najis dan tidak–percaya, tidak–ada yang–murni; tetapi dinajiskan mereka baik – pikiran, dan – hati–nurani.
--- c001-v016: Allah mereka–mengaku mengenal; tetapi–dengan – perbuatan, mereka–menyangkal, menjijikkan mereka–adalah dan tidak–taat, dan untuk setiap perbuatan baik, tidak–layak.
--- c002-v001: Engkau tetapi berkatalah hal–hal–yang sesuai dengan– yang–sehat pengajaran:
--- c002-v002: laki–laki–tua tenang hendaknya, terhormat, bijaksana, sehat dalam– iman, dalam– kasih, dalam– ketekunan;
--- c002-v003: perempuan–tua demikian–juga, dalam tingkah–laku pantas–untuk–kudus, bukan pemfitnah, tidak pada–anggur banyak diperbudak, pengajar–kebaikan,
--- c002-v004: supaya mereka–mendidik – perempuan–muda, pecinta–suami menjadi, pecinta–anak,
--- c002-v005: bijaksana, murni, mengurus–rumah, baik, tunduk kepada– sendiri suami, supaya jangan – firman – Allah dihujat.
--- c002-v006: Orang– muda–laki–laki, demikian–juga, nasihatilah berpikir–jernih,
--- c002-v007: dalam segala–hal dirimu–sendiri menunjukkan teladan baik perbuatan; dalam – pengajaran kemurnian, kemuliaan,
--- c002-v008: perkataan sehat, tidak–tercela, supaya – yang–dari lawan malu, tidak–ada mempunyai berkata tentang kita jahat.
--- c002-v009: Budak–budak kepada–sendiri tuan hendaknya–tunduk, dalam segala–hal menyenangkan menjadi, tidak membantah;
--- c002-v010: tidak mencuri, tetapi segala kesetiaan menunjukkan baik, supaya – ajaran – – Juruselamat kita, Allah, mereka–hiasi dalam segala–hal.
--- c002-v011: Muncullah karena – anugerah – Allah, menyelamatkan bagi–semua manusia;
--- c002-v012: mendidik kita supaya, menyangkali – kefasikan dan – duniawi keinginan–keinginan, dengan–bijaksana dan dengan–adil dan dengan–saleh kita–hidup, di – sekarang zaman;
--- c002-v013: menantikan – penuh–berkat pengharapan, dan penampakan – kemuliaan – besar Allah dan Juruselamat kita, Kristus Yesus;
--- c002-v014: yang memberikan diri-Nya–sendiri untuk kita, supaya Dia–menebus kita dari segala pelanggaran–hukum, dan Dia–menyucikan bagi–diri-Nya–sendiri umat kepunyaan–sendiri, bersemangat–untuk baik perbuatan.
--- c002-v015: Hal–hal–ini katakanlah, dan nasihatilah, dan tegurlah dengan segala wewenang. Jangan–seorang–pun engkau meremehkan.
--- c003-v001: Ingatkanlah mereka kepada–pemerintah, kepada–penguasa, tunduk, taat; untuk setiap perbuatan baik, siap menjadi;
--- c003-v002: jangan–seorang–pun memfitnah, tidak–suka–bertengkar menjadi, ramah, segala menunjukkan kelemahlembutan kepada semua manusia.
--- c003-v003: Dahulu karena pernah juga kita bodoh, tidak–taat, tersesat, melayani keinginan–keinginan dan kesenangan–kesenangan bermacam–macam, dalam kejahatan dan iri–hati hidup, dibenci, membenci satu–sama–lain.
--- c003-v004: Tetapi–ketika – – kebaikan dan – kasih–kepada–manusia muncul, – Juruselamat kita, Allah,
--- c003-v005: bukan dari perbuatan–perbuatan – dalam kebenaran, yang kita–lakukan kita, tetapi menurut – milik-Nya belas–kasihan, Dia–menyelamatkan kita, melalui pembasuhan kelahiran–kembali, dan pembaruan Roh Kudus;
--- c003-v006: yang Dia–curahkan atas kita dengan–berlimpah, melalui Yesus Kristus, – Juruselamat kita,
--- c003-v007: supaya setelah–dibenarkan oleh– Dia anugerah, ahli–waris kita–menjadi, menurut pengharapan hidup kekal.
--- c003-v008: Dapat–dipercaya – perkataan, dan tentang hal–hal–ini aku–ingin engkau menekankan, supaya mereka–memperhatikan baik perbuatan memimpin–dalam, orang–orang–yang telah–percaya kepada–Allah. Hal–hal–ini adalah baik dan berguna bagi– manusia.
--- c003-v009: bodoh Tetapi pertanyaan–pertanyaan dan silsilah–silsilah dan perselisihan–perselisihan dan pertengkaran–pertengkaran tentang–hukum, hindarilah; adalah karena tidak–berguna dan sia–sia.
--- c003-v010: Bidat orang, setelah satu dan kedua peringatan, tolaklah,
--- c003-v011: mengetahui bahwa menyimpang – orang–seperti–itu, dan berdosa, ia–adalah menghukum–diri–sendiri.
--- c003-v012: Ketika kukirim Artemas kepadamu, engkau, atau Tikhikus, bersegeralah datang kepada aku ke Nikopolis; di–sana karena kuputuskan melewatkan–musim–dingin.
--- c003-v013: Zenas – ahli–hukum dan Apolos dengan–sungguh–sungguh kirimkanlah, supaya tidak–ada bagi–mereka yang–kurang.
--- c003-v014: hendaknya–belajar Dan juga – orang–orang–kita, baik perbuatan memimpin–dalam, untuk – mendesak kebutuhan, supaya tidak mereka–menjadi tidak–berbuah.
--- c003-v015: Menyalammu engkau, orang–orang–yang bersama aku semuanya. Salamlah orang–orang–yang mengasihi kami dalam iman. – Anugerah bersama semua kamu. Amin.
-
+-- c001-v001-chirho.sql
+-- TITUS c1-v1 - IND
+-- Paulus, hamba Allah, rasul dan Yesus Kristus, menurut iman orang–pilihan Allah, dan pengetahuan kebenaran, yang sesuai–dengan kesalehan;
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 5600100101: Παῦλος, (G3972) → "Paulus," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -328,8 +283,10 @@ WHERE pw.word_id = '5600100117' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v002-chirho.sql
+-- TITUS c1-v2 - IND
+-- berdasarkan pengharapan hidup kekal, yang dijanjikan – tidak–berdusta, Allah, sebelum waktu kekal;
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 5600100201: ἐπ’ (G1909) → "berdasarkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -524,8 +481,10 @@ WHERE pw.word_id = '5600100212' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v003-chirho.sql
+-- TITUS c1-v3 - IND
+-- dinyatakan tetapi, waktu–waktu yang–tepat, – firman-Nya milik-Nya, dalam pemberitaan yang dipercayakan aku, menurut perintah – Juruselamat kita, Allah;
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 5600100301: ἐφανέρωσεν (G5319) → "dinyatakan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -816,8 +775,10 @@ WHERE pw.word_id = '5600100318' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v004-chirho.sql
+-- TITUS c1-v4 - IND
+-- kepada–Titus, anak sejati, menurut bersama iman: anugerah dan damai–sejahtera dari Allah Bapa, dan Kristus Yesus, – Juruselamat kita.
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 5600100401: Τίτῳ, (G5103) → "kepada–Titus," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1108,8 +1069,10 @@ WHERE pw.word_id = '5600100418' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v005-chirho.sql
+-- TITUS c1-v5 - IND
+-- Karena–ini sebabnya, kutinggalkan kamu di Kreta, supaya hal–hal yang–kurang kamu–atur, dan kamu–angkat di–setiap kota penatua–penatua, seperti aku kepadamu perintahkan,
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 5600100501: Τούτου (G3778) → "Karena–ini" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1416,8 +1379,10 @@ WHERE pw.word_id = '5600100519' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v006-chirho.sql
+-- TITUS c1-v6 - IND
+-- jika seseorang adalah tidak–bercela, satu istri suami, anak–anak mempunyai beriman, tidak dalam tuduhan kebejatan atau tidak–tunduk.
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 5600100601: εἴ (G1487) → "jika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1676,8 +1641,10 @@ WHERE pw.word_id = '5600100616' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v007-chirho.sql
+-- TITUS c1-v7 - IND
+-- harus karena – penilik–jemaat tidak–bercela menjadi, sebagai Allah pengelola; tidak angkuh, tidak pemarah, tidak pemabuk, tidak suka–memukul, tidak serakah;
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 5600100701: δεῖ (G1163) → "harus" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1984,8 +1951,10 @@ WHERE pw.word_id = '5600100719' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v008-chirho.sql
+-- TITUS c1-v8 - IND
+-- tetapi suka–menerima–tamu, suka–kebaikan, bijaksana, adil, kudus, menguasai–diri;
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 5600100801: ἀλλὰ (G0235) → "tetapi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2100,8 +2069,10 @@ WHERE pw.word_id = '5600100807' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v009-chirho.sql
+-- TITUS c1-v9 - IND
+-- berpegang–teguh pada–, sesuai–dengan – ajaran, yang–setia firman, supaya mampu ia–menjadi baik menasihati dalam – pengajaran yang sehat, dan orang–orang yang–membantah menegur.
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 5600100901: ἀντεχόμενον (G0472) → "berpegang–teguh" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2440,8 +2411,10 @@ WHERE pw.word_id = '5600100921' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v010-chirho.sql
+-- TITUS c1-v10 - IND
+-- Ada karena banyak juga tidak–tunduk, pembicara–sia–sia, dan penipu–pikiran, terutama mereka–yang dari – sunat,
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 5600101001: Εἰσὶν (G1510) → "Ada" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2652,8 +2625,10 @@ WHERE pw.word_id = '5600101013' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v011-chirho.sql
+-- TITUS c1-v11 - IND
+-- yang harus dibungkam, yang seluruh rumah–tangga merusak, mengajarkan hal–hal–yang tidak patut, keji keuntungan demi.
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 5600101101: οὓς (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2880,8 +2855,10 @@ WHERE pw.word_id = '5600101114' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v012-chirho.sql
+-- TITUS c1-v12 - IND
+-- berkata seseorang dari mereka, sendiri mereka, nabi, Orang–Kreta selalu pendusta, jahat binatang–buas, perut–perut malas.
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 5600101201: εἶπέν (G3004) → "berkata" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3108,8 +3085,10 @@ WHERE pw.word_id = '5600101214' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v013-chirho.sql
+-- TITUS c1-v13 - IND
+-- – kesaksian ini adalah benar; karena alasan–itu sebab tegurlah mereka dengan–keras, supaya mereka–sehat dalam – iman,
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 5600101301: ἡ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3368,8 +3347,10 @@ WHERE pw.word_id = '5600101316' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v014-chirho.sql
+-- TITUS c1-v14 - IND
+-- tidak memperhatikan Yahudi dongeng–dongeng dan perintah–perintah manusia, yang–berpaling–dari – kebenaran.
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 5600101401: μὴ (G3361) → "tidak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3532,8 +3513,10 @@ WHERE pw.word_id = '5600101410' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v015-chirho.sql
+-- TITUS c1-v15 - IND
+-- Segala–sesuatu murni bagi–orang yang–murni; bagi–orang tetapi yang–najis dan tidak–percaya, tidak–ada yang–murni; tetapi dinajiskan mereka baik – pikiran, dan – hati–nurani.
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 5600101501: πάντα (G3956) → "Segala–sesuatu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3856,8 +3839,10 @@ WHERE pw.word_id = '5600101520' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v016-chirho.sql
+-- TITUS c1-v16 - IND
+-- Allah mereka–mengaku mengenal; tetapi–dengan – perbuatan, mereka–menyangkal, menjijikkan mereka–adalah dan tidak–taat, dan untuk setiap perbuatan baik, tidak–layak.
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 5600101601: Θεὸν (G2316) → "Allah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4132,8 +4117,10 @@ WHERE pw.word_id = '5600101617' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v001-chirho.sql
+-- TITUS c2-v1 - IND
+-- Engkau tetapi berkatalah hal–hal–yang sesuai dengan– yang–sehat pengajaran:
 BEGIN;
--- === Chapter 2 Verse 1 ===
 -- 5600200101: Σὺ (G4771) → "Engkau" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4264,8 +4251,10 @@ WHERE pw.word_id = '5600200108' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v002-chirho.sql
+-- TITUS c2-v2 - IND
+-- laki–laki–tua tenang hendaknya, terhormat, bijaksana, sehat dalam– iman, dalam– kasih, dalam– ketekunan;
 BEGIN;
--- === Chapter 2 Verse 2 ===
 -- 5600200201: πρεσβύτας (G4246) → "laki–laki–tua" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4460,8 +4449,10 @@ WHERE pw.word_id = '5600200212' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v003-chirho.sql
+-- TITUS c2-v3 - IND
+-- perempuan–tua demikian–juga, dalam tingkah–laku pantas–untuk–kudus, bukan pemfitnah, tidak pada–anggur banyak diperbudak, pengajar–kebaikan,
 BEGIN;
--- === Chapter 2 Verse 3 ===
 -- 5600200301: πρεσβύτιδας (G4247) → "perempuan–tua" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4656,8 +4647,10 @@ WHERE pw.word_id = '5600200312' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v004-chirho.sql
+-- TITUS c2-v4 - IND
+-- supaya mereka–mendidik – perempuan–muda, pecinta–suami menjadi, pecinta–anak,
 BEGIN;
--- === Chapter 2 Verse 4 ===
 -- 5600200401: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4772,8 +4765,10 @@ WHERE pw.word_id = '5600200407' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v005-chirho.sql
+-- TITUS c2-v5 - IND
+-- bijaksana, murni, mengurus–rumah, baik, tunduk kepada– sendiri suami, supaya jangan – firman – Allah dihujat.
 BEGIN;
--- === Chapter 2 Verse 5 ===
 -- 5600200501: σώφρονας, (G4998) → "bijaksana," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5016,8 +5011,10 @@ WHERE pw.word_id = '5600200515' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v006-chirho.sql
+-- TITUS c2-v6 - IND
+-- Orang– muda–laki–laki, demikian–juga, nasihatilah berpikir–jernih,
 BEGIN;
--- === Chapter 2 Verse 6 ===
 -- 5600200601: Τοὺς (G3588) → "Orang–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5100,8 +5097,10 @@ WHERE pw.word_id = '5600200605' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v007-chirho.sql
+-- TITUS c2-v7 - IND
+-- dalam segala–hal dirimu–sendiri menunjukkan teladan baik perbuatan; dalam – pengajaran kemurnian, kemuliaan,
 BEGIN;
--- === Chapter 2 Verse 7 ===
 -- 5600200701: περὶ (G4012) → "dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5296,8 +5295,10 @@ WHERE pw.word_id = '5600200712' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v008-chirho.sql
+-- TITUS c2-v8 - IND
+-- perkataan sehat, tidak–tercela, supaya – yang–dari lawan malu, tidak–ada mempunyai berkata tentang kita jahat.
 BEGIN;
--- === Chapter 2 Verse 8 ===
 -- 5600200801: λόγον (G3056) → "perkataan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5524,8 +5525,10 @@ WHERE pw.word_id = '5600200814' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v009-chirho.sql
+-- TITUS c2-v9 - IND
+-- Budak–budak kepada–sendiri tuan hendaknya–tunduk, dalam segala–hal menyenangkan menjadi, tidak membantah;
 BEGIN;
--- === Chapter 2 Verse 9 ===
 -- 5600200901: δούλους (G1401) → "Budak–budak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5688,8 +5691,10 @@ WHERE pw.word_id = '5600200910' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v010-chirho.sql
+-- TITUS c2-v10 - IND
+-- tidak mencuri, tetapi segala kesetiaan menunjukkan baik, supaya – ajaran – – Juruselamat kita, Allah, mereka–hiasi dalam segala–hal.
 BEGIN;
--- === Chapter 2 Verse 10 ===
 -- 5600201001: μὴ (G3361) → "tidak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5980,8 +5985,10 @@ WHERE pw.word_id = '5600201018' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v011-chirho.sql
+-- TITUS c2-v11 - IND
+-- Muncullah karena – anugerah – Allah, menyelamatkan bagi–semua manusia;
 BEGIN;
--- === Chapter 2 Verse 11 ===
 -- 5600201101: Ἐπεφάνη (G2014) → "Muncullah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6128,8 +6135,10 @@ WHERE pw.word_id = '5600201109' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v012-chirho.sql
+-- TITUS c2-v12 - IND
+-- mendidik kita supaya, menyangkali – kefasikan dan – duniawi keinginan–keinginan, dengan–bijaksana dan dengan–adil dan dengan–saleh kita–hidup, di – sekarang zaman;
 BEGIN;
--- === Chapter 2 Verse 12 ===
 -- 5600201201: παιδεύουσα (G3811) → "mendidik" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6452,8 +6461,10 @@ WHERE pw.word_id = '5600201220' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v013-chirho.sql
+-- TITUS c2-v13 - IND
+-- menantikan – penuh–berkat pengharapan, dan penampakan – kemuliaan – besar Allah dan Juruselamat kita, Kristus Yesus;
 BEGIN;
--- === Chapter 2 Verse 13 ===
 -- 5600201301: προσδεχόμενοι (G4327) → "menantikan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6712,8 +6723,10 @@ WHERE pw.word_id = '5600201316' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v014-chirho.sql
+-- TITUS c2-v14 - IND
+-- yang memberikan diri-Nya–sendiri untuk kita, supaya Dia–menebus kita dari segala pelanggaran–hukum, dan Dia–menyucikan bagi–diri-Nya–sendiri umat kepunyaan–sendiri, bersemangat–untuk baik perbuatan.
 BEGIN;
--- === Chapter 2 Verse 14 ===
 -- 5600201401: ὃς (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7020,8 +7033,10 @@ WHERE pw.word_id = '5600201419' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v015-chirho.sql
+-- TITUS c2-v15 - IND
+-- Hal–hal–ini katakanlah, dan nasihatilah, dan tegurlah dengan segala wewenang. Jangan–seorang–pun engkau meremehkan.
 BEGIN;
--- === Chapter 2 Verse 15 ===
 -- 5600201501: Ταῦτα (G3778) → "Hal–hal–ini" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7216,8 +7231,10 @@ WHERE pw.word_id = '5600201512' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v001-chirho.sql
+-- TITUS c3-v1 - IND
+-- Ingatkanlah mereka kepada–pemerintah, kepada–penguasa, tunduk, taat; untuk setiap perbuatan baik, siap menjadi;
 BEGIN;
--- === Chapter 3 Verse 1 ===
 -- 5600300101: Ὑπομίμνῃσκε (G5279) → "Ingatkanlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7412,8 +7429,10 @@ WHERE pw.word_id = '5600300112' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v002-chirho.sql
+-- TITUS c3-v2 - IND
+-- jangan–seorang–pun memfitnah, tidak–suka–bertengkar menjadi, ramah, segala menunjukkan kelemahlembutan kepada semua manusia.
 BEGIN;
--- === Chapter 3 Verse 2 ===
 -- 5600300201: μηδένα (G3367) → "jangan–seorang–pun" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7592,8 +7611,10 @@ WHERE pw.word_id = '5600300211' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v003-chirho.sql
+-- TITUS c3-v3 - IND
+-- Dahulu karena pernah juga kita bodoh, tidak–taat, tersesat, melayani keinginan–keinginan dan kesenangan–kesenangan bermacam–macam, dalam kejahatan dan iri–hati hidup, dibenci, membenci satu–sama–lain.
 BEGIN;
--- === Chapter 3 Verse 3 ===
 -- 5600300301: Ἦμεν (G1510) → "Dahulu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7932,8 +7953,10 @@ WHERE pw.word_id = '5600300321' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v004-chirho.sql
+-- TITUS c3-v4 - IND
+-- Tetapi–ketika – – kebaikan dan – kasih–kepada–manusia muncul, – Juruselamat kita, Allah,
 BEGIN;
--- === Chapter 3 Verse 4 ===
 -- 5600300401: ὅτε (G3753) → "Tetapi–ketika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8128,8 +8151,10 @@ WHERE pw.word_id = '5600300412' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v005-chirho.sql
+-- TITUS c3-v5 - IND
+-- bukan dari perbuatan–perbuatan – dalam kebenaran, yang kita–lakukan kita, tetapi menurut – milik-Nya belas–kasihan, Dia–menyelamatkan kita, melalui pembasuhan kelahiran–kembali, dan pembaruan Roh Kudus;
 BEGIN;
--- === Chapter 3 Verse 5 ===
 -- 5600300501: οὐκ (G3756) → "bukan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8500,8 +8525,10 @@ WHERE pw.word_id = '5600300523' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v006-chirho.sql
+-- TITUS c3-v6 - IND
+-- yang Dia–curahkan atas kita dengan–berlimpah, melalui Yesus Kristus, – Juruselamat kita,
 BEGIN;
--- === Chapter 3 Verse 6 ===
 -- 5600300601: οὗ (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8680,8 +8707,10 @@ WHERE pw.word_id = '5600300611' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v007-chirho.sql
+-- TITUS c3-v7 - IND
+-- supaya setelah–dibenarkan oleh– Dia anugerah, ahli–waris kita–menjadi, menurut pengharapan hidup kekal.
 BEGIN;
--- === Chapter 3 Verse 7 ===
 -- 5600300701: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8860,8 +8889,10 @@ WHERE pw.word_id = '5600300711' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v008-chirho.sql
+-- TITUS c3-v8 - IND
+-- Dapat–dipercaya – perkataan, dan tentang hal–hal–ini aku–ingin engkau menekankan, supaya mereka–memperhatikan baik perbuatan memimpin–dalam, orang–orang–yang telah–percaya kepada–Allah. Hal–hal–ini adalah baik dan berguna bagi– manusia.
 BEGIN;
--- === Chapter 3 Verse 8 ===
 -- 5600300801: Πιστὸς (G4103) → "Dapat–dipercaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9248,8 +9279,10 @@ WHERE pw.word_id = '5600300824' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v009-chirho.sql
+-- TITUS c3-v9 - IND
+-- bodoh Tetapi pertanyaan–pertanyaan dan silsilah–silsilah dan perselisihan–perselisihan dan pertengkaran–pertengkaran tentang–hukum, hindarilah; adalah karena tidak–berguna dan sia–sia.
 BEGIN;
--- === Chapter 3 Verse 9 ===
 -- 5600300901: μωρὰς (G3474) → "bodoh" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9508,8 +9541,10 @@ WHERE pw.word_id = '5600300916' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v010-chirho.sql
+-- TITUS c3-v10 - IND
+-- Bidat orang, setelah satu dan kedua peringatan, tolaklah,
 BEGIN;
--- === Chapter 3 Verse 10 ===
 -- 5600301001: αἱρετικὸν (G0141) → "Bidat" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9640,8 +9675,10 @@ WHERE pw.word_id = '5600301008' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v011-chirho.sql
+-- TITUS c3-v11 - IND
+-- mengetahui bahwa menyimpang – orang–seperti–itu, dan berdosa, ia–adalah menghukum–diri–sendiri.
 BEGIN;
--- === Chapter 3 Verse 11 ===
 -- 5600301101: εἰδὼς (G1492) → "mengetahui" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9788,8 +9825,10 @@ WHERE pw.word_id = '5600301109' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v012-chirho.sql
+-- TITUS c3-v12 - IND
+-- Ketika kukirim Artemas kepadamu, engkau, atau Tikhikus, bersegeralah datang kepada aku ke Nikopolis; di–sana karena kuputuskan melewatkan–musim–dingin.
 BEGIN;
--- === Chapter 3 Verse 12 ===
 -- 5600301201: Ὅταν (G3752) → "Ketika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10064,8 +10103,10 @@ WHERE pw.word_id = '5600301217' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v013-chirho.sql
+-- TITUS c3-v13 - IND
+-- Zenas – ahli–hukum dan Apolos dengan–sungguh–sungguh kirimkanlah, supaya tidak–ada bagi–mereka yang–kurang.
 BEGIN;
--- === Chapter 3 Verse 13 ===
 -- 5600301301: Ζηνᾶν (G2211) → "Zenas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10244,8 +10285,10 @@ WHERE pw.word_id = '5600301311' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v014-chirho.sql
+-- TITUS c3-v14 - IND
+-- hendaknya–belajar Dan juga – orang–orang–kita, baik perbuatan memimpin–dalam, untuk – mendesak kebutuhan, supaya tidak mereka–menjadi tidak–berbuah.
 BEGIN;
--- === Chapter 3 Verse 14 ===
 -- 5600301401: μανθανέτωσαν (G3129) → "hendaknya–belajar" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10504,8 +10547,10 @@ WHERE pw.word_id = '5600301416' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v015-chirho.sql
+-- TITUS c3-v15 - IND
+-- Menyalammu engkau, orang–orang–yang bersama aku semuanya. Salamlah orang–orang–yang mengasihi kami dalam iman. – Anugerah bersama semua kamu. Amin.
 BEGIN;
--- === Chapter 3 Verse 15 ===
 -- 5600301501: Ἀσπάζονταί (G0782) → "Menyalammu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

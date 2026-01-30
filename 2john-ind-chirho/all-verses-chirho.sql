@@ -3,24 +3,12 @@
 -- — John 3:16
 
 -- 2JOHN - IND Combined
--- Generated: 2026-01-29T04:13:29.510Z
+-- Regenerated: 2026-01-30T00:58:08Z
 
--- c001-v001: Sang penatua, kepada–terpilih ibu dan – anak-anak nya, yang aku kasihi dalam kebenaran, dan bukan aku saja, melainkan juga semua – yang–mengenal – kebenaran–
--- c001-v002: oleh–karena – kebenaran – yang–tinggal dalam kita, dan bersama kita akan–ada sampai – selama-lamanya:
--- c001-v003: akan–ada bersama kita kasih–karunia, rahmat, damai–sejahtera dari Allah Bapa, dan dari Yesus Kristus, sang Anak – Bapa, dalam kebenaran dan kasih.
--- c001-v004: Aku–sangat–bersukacita sangat bahwa aku–menemukan dari – anak-anak kamu berjalan dalam kebenaran, sebagaimana perintah kita–terima dari – Bapa.
--- c001-v005: dan sekarang aku–memohon kepadamu, ibu, bukan sebagai perintah menuliskan kepadamu baru, melainkan yang kita–miliki dari permulaan, supaya kita–saling–mengasihi satu–sama–lain.
--- c001-v006: dan ini adalah – kasih, supaya kita–berjalan menurut – perintah-perintah Nya. ini – perintah adalah sebagaimana, kamu–dengar dari permulaan, supaya dalam nya kamu–berjalan.
--- c001-v007: sebab banyak penyesat telah–keluar ke – dunia, – tidak yang–mengakui Yesus Kristus datang dalam daging. ini adalah – penyesat dan – antikristus.
--- c001-v008: jagalah dirimu, supaya jangan kamu–kehilangan apa kita–kerjakan, melainkan upah penuh kamu–terima.
--- c001-v009: setiap – yang–melampaui–batas, dan tidak tinggal dalam – ajaran – Kristus, Allah tidak memiliki. – yang–tinggal dalam – ajaran, ini baik – Bapa dan – Anak memiliki.
--- c001-v010: jika seseorang datang kepada kamu, dan ini – ajaran tidak membawa, jangan terimalah dia ke rumah, dan salam kepadanya jangan katakan;
--- c001-v011: – yang–berkata karena kepadanya salam ambil–bagian dalam– perbuatan-perbuatan nya – yang–jahat.
--- c001-v012: Banyak–hal memiliki kepada–kamu untuk–menulis, tidak aku–ingin dengan kertas dan tinta; melainkan aku–berharap datang kepada kamu, dan mulut dengan mulut berbicara, supaya – sukacita kita menjadi–penuh ada.
--- c001-v013: Memberi–salam kepadamu, – anak-anak – saudari kamu – yang–terpilih. Amin.
-
+-- c001-v001-chirho.sql
+-- 2JOHN c1-v1 - IND
+-- Sang penatua, kepada–terpilih ibu dan – anak-anak nya, yang aku kasihi dalam kebenaran, dan bukan aku saja, melainkan juga semua – yang–mengenal – kebenaran–
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6300100101: Ὁ (G3588) → "Sang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -407,8 +395,10 @@ WHERE pw.word_id = '6300100124' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v002-chirho.sql
+-- 2JOHN c1-v2 - IND
+-- oleh–karena – kebenaran – yang–tinggal dalam kita, dan bersama kita akan–ada sampai – selama-lamanya:
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6300100201: διὰ (G1223) → "oleh–karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -635,8 +625,10 @@ WHERE pw.word_id = '6300100214' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v003-chirho.sql
+-- 2JOHN c1-v3 - IND
+-- akan–ada bersama kita kasih–karunia, rahmat, damai–sejahtera dari Allah Bapa, dan dari Yesus Kristus, sang Anak – Bapa, dalam kebenaran dan kasih.
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6300100301: ἔσται (G1510) → "akan–ada" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -975,8 +967,10 @@ WHERE pw.word_id = '6300100321' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v004-chirho.sql
+-- 2JOHN c1-v4 - IND
+-- Aku–sangat–bersukacita sangat bahwa aku–menemukan dari – anak-anak kamu berjalan dalam kebenaran, sebagaimana perintah kita–terima dari – Bapa.
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6300100401: Ἐχάρην (G5463) → "Aku–sangat–bersukacita" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1251,8 +1245,10 @@ WHERE pw.word_id = '6300100417' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v005-chirho.sql
+-- 2JOHN c1-v5 - IND
+-- dan sekarang aku–memohon kepadamu, ibu, bukan sebagai perintah menuliskan kepadamu baru, melainkan yang kita–miliki dari permulaan, supaya kita–saling–mengasihi satu–sama–lain.
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6300100501: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1559,8 +1555,10 @@ WHERE pw.word_id = '6300100519' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v006-chirho.sql
+-- 2JOHN c1-v6 - IND
+-- dan ini adalah – kasih, supaya kita–berjalan menurut – perintah-perintah Nya. ini – perintah adalah sebagaimana, kamu–dengar dari permulaan, supaya dalam nya kamu–berjalan.
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6300100601: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1931,8 +1929,10 @@ WHERE pw.word_id = '6300100623' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v007-chirho.sql
+-- 2JOHN c1-v7 - IND
+-- sebab banyak penyesat telah–keluar ke – dunia, – tidak yang–mengakui Yesus Kristus datang dalam daging. ini adalah – penyesat dan – antikristus.
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6300100701: ὅτι (G3754) → "sebab" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2287,8 +2287,10 @@ WHERE pw.word_id = '6300100722' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v008-chirho.sql
+-- 2JOHN c1-v8 - IND
+-- jagalah dirimu, supaya jangan kamu–kehilangan apa kita–kerjakan, melainkan upah penuh kamu–terima.
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6300100801: βλέπετε (G0991) → "jagalah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2467,8 +2469,10 @@ WHERE pw.word_id = '6300100811' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v009-chirho.sql
+-- 2JOHN c1-v9 - IND
+-- setiap – yang–melampaui–batas, dan tidak tinggal dalam – ajaran – Kristus, Allah tidak memiliki. – yang–tinggal dalam – ajaran, ini baik – Bapa dan – Anak memiliki.
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6300100901: πᾶς (G3956) → "setiap" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2903,8 +2907,10 @@ WHERE pw.word_id = '6300100927' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v010-chirho.sql
+-- 2JOHN c1-v10 - IND
+-- jika seseorang datang kepada kamu, dan ini – ajaran tidak membawa, jangan terimalah dia ke rumah, dan salam kepadanya jangan katakan;
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6300101001: εἴ (G1487) → "jika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3243,8 +3249,10 @@ WHERE pw.word_id = '6300101021' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v011-chirho.sql
+-- 2JOHN c1-v11 - IND
+-- – yang–berkata karena kepadanya salam ambil–bagian dalam– perbuatan-perbuatan nya – yang–jahat.
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6300101101: ὁ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3423,8 +3431,10 @@ WHERE pw.word_id = '6300101111' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v012-chirho.sql
+-- 2JOHN c1-v12 - IND
+-- Banyak–hal memiliki kepada–kamu untuk–menulis, tidak aku–ingin dengan kertas dan tinta; melainkan aku–berharap datang kepada kamu, dan mulut dengan mulut berbicara, supaya – sukacita kita menjadi–penuh ada.
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6300101201: Πολλὰ (G4183) → "Banyak–hal" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3843,8 +3853,10 @@ WHERE pw.word_id = '6300101226' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v013-chirho.sql
+-- 2JOHN c1-v13 - IND
+-- Memberi–salam kepadamu, – anak-anak – saudari kamu – yang–terpilih. Amin.
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6300101301: Ἀσπάζεταί (G0782) → "Memberi–salam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

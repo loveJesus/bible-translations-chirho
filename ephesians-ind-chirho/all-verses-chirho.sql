@@ -3,166 +3,12 @@
 -- — John 3:16
 
 -- EPHESIANS - IND Combined
--- Generated: 2026-01-29T04:20:40.679Z
+-- Regenerated: 2026-01-30T00:58:25Z
 
--- c001-v001: Paulus, rasul Kristus Yesus melalui kehendak Allah, kepada– orang-orang-kudus yang– ada di Efesus, dan orang-orang-percaya di–dalam Kristus Yesus.
--- c001-v002: Anugerah kepadamu dan damai-sejahtera dari Allah Bapa kita dan Tuhan Yesus Kristus.
--- c001-v003: Terpujilah – Allah dan Bapa dari– Tuhan kita, Yesus Kristus, yang– telah-memberkati kita dengan segala berkat rohani di – tempat-tempat-surgawi di–dalam Kristus;
--- c001-v004: sebagaimana Dia-telah-memilih kita di–dalam Dia sebelum penciptaan dunia, supaya-menjadi kita kudus dan tak-bercela di-hadapan Dia; di–dalam kasih,
--- c001-v005: telah-menetapkan kita untuk pengangkatan-anak melalui Yesus Kristus, kepada diri-Nya, menurut – kerelaan dari– kehendak -Nya,
--- c001-v006: untuk pujian kemuliaan dari– anugerah -Nya, yang Dia-telah-karuniakan kepada-kita di–dalam – Yang-Dikasihi;
--- c001-v007: di–dalam siapa kita-memiliki – penebusan melalui – darah -Nya, – pengampunan – pelanggaran-pelanggaran, menurut – kekayaan – anugerah -Nya;
--- c001-v008: yang Dia-limpahkan kepada kita dalam segala hikmat dan pengertian;
--- c001-v009: menyatakan kepada-kita – rahasia, – kehendak -Nya, menurut – kerelaan -Nya, yang Dia-tentukan di–dalam Dia,
--- c001-v010: untuk pengelolaan – kepenuhan – waktu-waktu; mempersatukan – segala-sesuatu di–dalam – Kristus, – di – langit, dan – di-atas – bumi;
--- c001-v011: di–dalam Dia, di–dalam siapa juga kita-dipilih, telah-ditetapkan menurut rencana dari-Dia yang– segala-sesuatu mengerjakan, menurut – keputusan dari– kehendak -Nya;
--- c001-v012: supaya – menjadi kita, untuk pujian kemuliaan -Nya; – telah-lebih-dulu-berharap di–dalam – Kristus;
--- c001-v013: di–dalam siapa juga kamu, setelah-mendengar – firman – kebenaran, – Injil – keselamatanmu, – di–dalam siapa juga, setelah-percaya, kamu-dimeteraikan dengan– Roh – perjanjian, – Kudus;
--- c001-v014: yang adalah jaminan dari– warisan kita, sampai penebusan – milik-kepunyaan, untuk pujian – kemuliaan -Nya.
--- c001-v015: Oleh-karena ini, aku-juga, setelah-mendengar – tentang– kamu iman di–dalam – Tuhan Yesus, dan – kasih – kepada semua – orang-orang-kudus,
--- c001-v016: tidak berhenti mengucap-syukur untuk kamu, menyebut membuat dalam – doa-doaku –,
--- c001-v017: supaya – Allah dari– Tuhan kita, Yesus Kristus, – Bapa – kemuliaan, memberikan kepadamu roh hikmat dan wahyu, dalam pengenalan -Nya,
--- c001-v018: diterangi – mata – hatimu –, supaya – mengetahui kamu, apa adalah – harapan dari– panggilan -Nya, apa – kekayaan – kemuliaan dari– warisan -Nya, di-antara – orang-orang-kudus,
--- c001-v019: dan apa – kebesaran-yang-melampaui keagungan dari– kuasa -Nya, kepada kita, – yang-percaya menurut – pekerjaan – kekuatan – kekuatan -Nya,
--- c001-v020: yang Dia-kerjakan di–dalam – Kristus, membangkitkan Dia dari orang-mati, dan mendudukkan di kanan -Nya, di – tempat-tempat-surgawi,
--- c001-v021: jauh-di-atas segala pemerintahan, dan kuasa, dan kekuatan, dan ketuanan, dan setiap nama yang-disebut, tidak hanya di – zaman ini, tetapi juga di – yang-akan-datang;
--- c001-v022: dan segala-sesuatu Dia-tundukkan di-bawah – kaki -Nya, dan Dia diberikan kepala atas segala-sesuatu bagi– jemaat,
--- c001-v023: yang adalah – tubuh -Nya, – kepenuhan dari-Dia yang– segala-sesuatu, di–dalam segala memenuhi.
--- c002-v001: Dan kamu, yang mati dalam– pelanggaran-pelanggaran, dan – dosa-dosamu –,
--- c002-v002: di–dalam mana dulu kamu-berjalan, menurut – zaman, – dunia ini, menurut – penguasa – kekuasaan – udara, – roh yang– sekarang bekerja di–dalam – anak-anak – ketidaktaatan;
--- c002-v003: di-antara siapa juga kita semua hidup dulu, dalam – nafsu-nafsu – daging, kita melakukan – keinginan-keinginan – daging, dan – pikiran-pikiran; dan adalah anak-anak, secara-alami, murka, seperti juga – yang-lain.
--- c002-v004: – Tetapi Allah, kaya adanya dalam belas-kasihan, oleh-karena – besar kasih -Nya, yang Dia-kasihi kita,
--- c002-v005: bahkan yang kita mati dalam– pelanggaran-pelanggaran, menghidupkan-bersama dengan– Kristus, oleh-anugerah kamu-telah diselamatkan,
--- c002-v006: dan membangkitkan-bersama, dan mendudukkan-bersama di – tempat-tempat-surgawi, di–dalam Kristus Yesus,
--- c002-v007: supaya Dia-menunjukkan di – zaman-zaman, – yang-akan-datang – kekayaan-yang-melampaui kekayaan – anugerah -Nya, dalam kebaikan kepada kita di–dalam Kristus Yesus.
--- c002-v008: Oleh– karena anugerah kamu-telah diselamatkan melalui iman; dan ini bukan dari kamu; Allah – pemberian--
--- c002-v009: bukan dari perbuatan, supaya tidak seorangpun bermegah.
--- c002-v010: karena-Nya – kita-adalah hasil-karya, diciptakan di–dalam Kristus Yesus untuk perbuatan-perbuatan baik, yang Dia-persiapkan-dahulu – Allah, supaya di-dalamnya – kita-berjalan.
--- c002-v011: Oleh-karena-itu ingatlah bahwa dulu kamu – bangsa-bangsa-lain dalam daging, – yang-disebut tidak-bersunat oleh – yang-disebut sunat, dalam daging dibuat-dengan-tangan--
--- c002-v012: bahwa kamu-adalah, pada– waktu itu tanpa Kristus, terasing dari– kewarganegaraan – Israel, dan orang-asing dari– perjanjian-perjanjian – janji, harapan tidak memiliki, dan tanpa-Allah di – dunia.
--- c002-v013: Tetapi-sekarang – di–dalam Kristus Yesus, kamu yang dulu yang jauh, menjadi dekat oleh – darah – Kristus.
--- c002-v014: Dia karena adalah – damai-sejahtera kita, yang– menjadikan – keduanya satu, dan – tembok-pemisah dari– pagar meruntuhkan,
--- c002-v015: – permusuhan dalam – daging -Nya, – hukum – perintah-perintah dalam ketetapan-ketetapan membatalkan, supaya – keduanya, Dia-ciptakan di–dalam diri-Nya, menjadi satu baru manusia, membuat damai-sejahtera;
--- c002-v016: dan memperdamaikan – keduanya dalam satu tubuh kepada– Allah, melalui – salib, membunuh – permusuhan di-dalamnya –;
--- c002-v017: dan datang Dia-memberitakan, damai-sejahtera kepadamu – yang-jauh, dan damai-sejahtera kepada– yang-dekat.
--- c002-v018: Karena melalui Dia kita-memiliki – jalan-masuk – keduanya, dalam satu Roh, kepada – Bapa.
--- c002-v019: Maka – tidak-lagi kamu-adalah orang-asing dan pendatang, tetapi kamu-adalah warga-negara-bersama dengan– orang-orang-kudus dan anggota-keluarga – Allah,
--- c002-v020: dibangun di-atas – fondasi – rasul-rasul dan nabi-nabi, yang batu-penjuru ialah Kristus Yesus,
--- c002-v021: di–dalam siapa seluruh bangunan, disusun-bersama, bertumbuh menjadi bait-suci, kudus di–dalam Tuhan,
--- c002-v022: di–dalam siapa juga kamu, dibangun-bersama menjadi tempat-kediaman – Allah, dalam Roh.
--- c003-v001: Karena-ini – aku Paulus, – tahanan – Kristus Yesus, demi kamu – bangsa-bangsa-lain,
--- c003-v002: jika memang kamu-mendengar – pengelolaan dari– anugerah – Allah, yang– diberikan kepadaku untuk kamu;
--- c003-v003: bahwa menurut wahyu diberitahukan kepadaku – rahasia, seperti aku-tulis-sebelumnya secara singkat;
--- c003-v004: terhadap mana kamu-dapat, membaca, memahami – pengertianku – tentang – rahasia – Kristus;
--- c003-v005: yang pada-generasi-generasi-lain generasi-generasi tidak diberitahukan kepada– anak-anak – manusia, seperti sekarang dinyatakan kepada– kudus rasul-rasul -Nya, dan nabi-nabi; dalam Roh.
--- c003-v006: untuk-menjadi – bangsa-bangsa-lain ahli-waris-bersama, dan satu-tubuh, dan pengambil-bagian-bersama dalam– janji di–dalam Kristus Yesus, melalui – Injil;
--- c003-v007: yang aku-menjadi pelayan menurut – pemberian – anugerah – Allah yang– diberikan kepadaku, menurut – pekerjaan – kuasa -Nya.
--- c003-v008: Kepadaku, – yang-paling-kecil dari-semua orang-orang-kudus, diberikan – anugerah ini, kepada– bangsa-bangsa-lain memberitakan-Injil, – kekayaan-yang-tak-terselami kekayaan – Kristus;
--- c003-v009: dan menerangi semua, apa – pengelolaan – rahasia, yang– tersembunyi dari – zaman-zaman di–dalam – Allah, yang– – segala-sesuatu menciptakan,
--- c003-v010: supaya diberitahukan sekarang kepada– pemerintahan-pemerintahan dan – kekuasaan-kekuasaan di – tempat-tempat-surgawi, melalui – jemaat, – beragam hikmat – Allah;
--- c003-v011: menurut rencana – zaman-zaman, yang Dia-buat di–dalam – Kristus Yesus, – Tuhan kita,
--- c003-v012: di–dalam siapa kita-memiliki – keberanian dan jalan-masuk dalam keyakinan, melalui – iman -Nya.
--- c003-v013: oleh-karena-itu aku-meminta tidak menjadi-tawar-hati dalam – penderitaan-penderitaanku – demi kamu, yang adalah kemuliaanmu –.
--- c003-v014: Karena-ini – aku-menekuk – lututku – kepada – Bapa, – Tuhan kita Yesus Kristus,
--- c003-v015: dari siapa setiap keluarga di langit dan di bumi dinamai,
--- c003-v016: supaya Dia-memberikan kepadamu menurut – kekayaan – kemuliaan -Nya, dengan-kuasa, dikuatkan melalui – Roh -Nya, di – dalam manusia;
--- c003-v017: berdiam – Kristus, melalui – iman, di–dalam – hatimu –, dalam kasih berakar dan berdasar,
--- c003-v018: supaya kamu-mampu memahami bersama dengan-semua – orang-orang-kudus, apa – lebar, dan panjang, dan tinggi, dan dalam,
--- c003-v019: mengetahui juga –, yang-melampaui – pengetahuan, kasih – Kristus, supaya kamu-dipenuhi menjadi segala – kepenuhan – Allah.
--- c003-v020: Kepada-Dia – yang-mampu lebih-dari segala-sesuatu melakukan jauh-lebih-berlimpah dari-apa-yang kita-minta atau kita-pikirkan, menurut – kuasa yang– bekerja di–dalam kita;
--- c003-v021: bagi-Nya – kemuliaan di – jemaat dan di–dalam Kristus Yesus, sampai segala – generasi-generasi dari– zaman – zaman-zaman. Amin.
--- c004-v001: Aku-memohon karena-itu kamu, aku – tahanan di–dalam Tuhan, layak untuk-berjalan, dengan– panggilan yang kamu-dipanggil;
--- c004-v002: dengan segala kerendahan-hati dan kelemahlembutan, dengan kesabaran, memikul satu-sama-lain dalam kasih;
--- c004-v003: berusaha memelihara – kesatuan – Roh, dalam – ikatan – damai-sejahtera.
--- c004-v004: satu tubuh dan satu Roh, sebagaimana juga kamu-dipanggil dalam satu harapan, dari– panggilanmu --
--- c004-v005: satu Tuhan, satu iman, satu baptisan;
--- c004-v006: satu Allah dan Bapa dari-semua, yang– di-atas semua, dan melalui semua, dan di–dalam semua.
--- c004-v007: Kepada-setiap – dari-kita – diberikan – anugerah, menurut – ukuran – pemberian – Kristus.
--- c004-v008: oleh-karena-itu dikatakan, Naik ke tempat-tinggi, Dia-menawan tawanan, dan memberikan pemberian-pemberian kepada– manusia.
--- c004-v009: – – Naik, apa artinya, jika tidak bahwa juga, Dia-turun ke – lebih-rendah bagian-bagian – bumi?
--- c004-v010: Yang– turun, Dia-sendiri adalah juga yang– naik jauh-di-atas semua – langit, supaya Dia-memenuhi – segala-sesuatu.
--- c004-v011: Dan Dia memberikan – memang rasul-rasul, – dan nabi-nabi, – dan penginjil-penginjil, – dan gembala-gembala dan pengajar-pengajar,
--- c004-v012: untuk – perlengkapan – orang-orang-kudus; untuk pekerjaan pelayanan, untuk pembangunan – tubuh – Kristus,
--- c004-v013: sampai kita-mencapai – semua, ke – kesatuan – iman dan – pengenalan – Anak – Allah, kepada laki-laki sempurna, kepada ukuran kedewasaan – kepenuhan – Kristus;
--- c004-v014: supaya tidak-lagi kita-menjadi anak-anak, diombang-ambingkan dan ditiup-kesana-kemari oleh-setiap angin – ajaran, dalam – kelicikan – manusia, dalam tipu-muslihat menuju – rencana – kesesatan;
--- c004-v015: berbicara-kebenaran – dalam kasih, kita-bertumbuh kepada Dia – segala-sesuatu, yang adalah – kepala, Kristus;
--- c004-v016: dari siapa seluruh – tubuh, disusun-bersama dan diikat-bersama melalui setiap sendi – penyediaan menurut, pekerjaan dalam ukuran satu setiap bagian, – pertumbuhan – tubuh menghasilkan untuk pembangunan dirinya dalam kasih.
--- c004-v017: Ini karena-itu aku-berkata, dan bersaksi di–dalam Tuhan, tidak-lagi kamu berjalan seperti juga – bangsa-bangsa-lain berjalan, dalam kesia-siaan – pikiran mereka.
--- c004-v018: digelapkan dalam– pengertian, yang terasing dari– kehidupan – Allah, karena – kebodohan yang– ada di–dalam mereka, karena – kekerasan – hati mereka,
--- c004-v019: yang telah-menjadi-tidak-peka, diri-mereka menyerahkan kepada– percabulan, untuk praktik kecemaran, segala dalam keserakahan.
--- c004-v020: Tetapi-kamu – tidak demikian belajar – Kristus,
--- c004-v021: jika memang Dia kamu-mendengar dan di–dalam Dia diajar, sebagaimana adalah kebenaran di–dalam – Yesus;
--- c004-v022: menanggalkan kamu, menurut – dahulu cara-hidup, – lama manusia, yang– merusak, menurut – nafsu-nafsu – penipuan;
--- c004-v023: diperbarui – dalam– roh – pikiranmu –;
--- c004-v024: dan mengenakan – baru manusia, yang– menurut Allah diciptakan dalam kebenaran dan kekudusan – kebenaran.
--- c004-v025: Oleh-karena-itu menanggalkan – kebohongan, berkatalah kebenaran masing-masing dengan – sesamanya –, karena kita-adalah satu-sama-lain anggota.
--- c004-v026: Marahlah, dan jangan berdosa; – matahari jangan terbenam atas – kemarahanmu –,
--- c004-v027: dan-jangan memberi tempat kepada– iblis.
--- c004-v028: Yang– mencuri tidak-lagi mencuri; lebih-baik – bekerjalah, bekerja dengan– sendiri tangan – yang-baik, supaya dia-memiliki untuk-memberi kepada– kebutuhan yang-memiliki.
--- c004-v029: Setiap kata busuk dari – mulutmu –, jangan keluar, tetapi, jika ada yang-baik, untuk pembangunan – kebutuhan, supaya memberi anugerah kepada– yang-mendengar.
--- c004-v030: Dan jangan mendukakan – Roh – Kudus – Allah, dengan siapa kamu-dimeteraikan untuk hari penebusan.
--- c004-v031: Segala kepahitan, dan kegeraman, dan kemarahan, dan pertikaian, dan fitnah, buanglah dari kamu, bersama dengan-segala kejahatan.
--- c004-v032: Jadilah – kepada satu-sama-lain baik, penuh-belas-kasihan, saling-mengampuni satu-sama-lain, sebagaimana juga – Allah di–dalam Kristus mengampuni kamu.
--- c005-v001: Jadilah karena-itu peniru-peniru – Allah, sebagai anak-anak yang-dikasihi,
--- c005-v002: dan berjalanlah dalam kasih, sebagaimana juga – Kristus mengasihi kita, dan menyerahkan diri-Nya demi kita, persembahan dan korban kepada– Allah, untuk bau harum.
--- c005-v003: Percabulan –, dan kecemaran segala, atau keserakahan, janganlah disebutkan di-antara kamu, sebagaimana layak orang-orang-kudus;
--- c005-v004: dan kecabulan, dan perkataan-bodoh, atau lelucon-kotor, yang tidak patut; tetapi lebih-baik ucapan-syukur.
--- c005-v005: Ini karena ketahuilah, mengetahui bahwa setiap orang-cabul, atau orang-najis, atau orang-serakah, yang adalah penyembah-berhala, tidak memiliki warisan di – kerajaan – Kristus, dan Allah.
--- c005-v006: Jangan-seorangpun kamu menipu dengan-kata-kata-kosong –; karena ini – datang – murka – Allah, atas – anak-anak – ketidaktaatan.
--- c005-v007: Jangan karena-itu menjadi pengambil-bagian-bersama mereka;
--- c005-v008: Kamu-adalah karena dulu kegelapan, tetapi-sekarang –, terang di–dalam Tuhan; sebagai anak-anak terang berjalanlah--
--- c005-v009: – karena buah – terang dalam segala kebaikan, dan kebenaran, dan kebenaran--
--- c005-v010: menguji apa adalah menyenangkan kepada– Tuhan.
--- c005-v011: Dan jangan mengambil-bagian dalam– perbuatan-perbuatan – tidak-berbuah – kegelapan, lebih-baik – juga menegur;
--- c005-v012: – karena diam-diam yang-dilakukan oleh mereka, memalukan adalah bahkan untuk-dikatakan.
--- c005-v013: – Tetapi segala-sesuatu yang-ditegur oleh – terang, dinyatakan segala karena; – yang-dinyatakan terang adalah.
--- c005-v014: oleh-karena-itu dikatakan, Bangunlah, yang– tidur, dan bangkitlah dari – orang-mati, dan akan-menyinari engkau – Kristus.
--- c005-v015: Perhatikanlah karena-itu dengan-teliti bagaimana kamu-berjalan, bukan seperti orang-bodoh, tetapi seperti orang-bijak,
--- c005-v016: menebus – waktu, karena – hari-hari jahat adalah.
--- c005-v017: Karena ini, jangan menjadi bodoh, tetapi mengertilah apa – kehendak – Tuhan.
--- c005-v018: Dan jangan mabuk oleh-anggur, dalam mana adalah kebebalan. Tetapi penuhilah dengan Roh,
--- c005-v019: berbicara satu-sama-lain dalam mazmur-mazmur, dan pujian-pujian, dan nyanyian-nyanyian rohani; bernyanyi dan bermazmur dalam– hatimu – kepada– Tuhan;
--- c005-v020: mengucap-syukur senantiasa, untuk segala-sesuatu, dalam nama – Tuhan kita, Yesus Kristus; kepada– Allah dan Bapa;
--- c005-v021: saling-tunduk satu-sama-lain dalam takut Kristus.
--- c005-v022: – Para-istri, kepada– sendiri suami-suami, seperti kepada– Tuhan,
--- c005-v023: karena suami adalah kepala – istri, seperti juga – Kristus kepala – jemaat-- Dia-sendiri juruselamat – tubuh.
--- c005-v024: Tetapi sebagaimana – jemaat tunduk kepada– Kristus, demikian juga – para-istri kepada– suami-suami dalam segala-sesuatu.
--- c005-v025: – Para-suami, kasihilah – istri-istri, sebagaimana juga – Kristus mengasihi – jemaat, dan diri-Nya menyerahkan demi dia,
--- c005-v026: supaya dia Dia-kuduskan, membersihkan dengan– pemandian – air dalam firman,
--- c005-v027: supaya Dia-hadirkan Dia-sendiri kepada-diri-Nya mulia, – jemaat, tidak memiliki noda, atau kerut, atau sesuatu – seperti-itu; tetapi supaya dia-menjadi kudus dan tak-bercela.
--- c005-v028: Demikian seharusnya juga – para-suami mengasihi – mereka-sendiri istri-istri, sebagai – mereka-sendiri tubuh. Yang– mengasihi – sendiri istri, dirinya mengasihi.
--- c005-v029: Tidak-seorangpun karena pernah – sendiri daging membenci, tetapi memelihara dan merawat dia, sebagaimana juga – Kristus – jemaat:
--- c005-v030: karena anggota kita-adalah – tubuh -Nya, dari – daging -Nya, dan dari – tulang-tulang -Nya.
--- c005-v031: Sebab ini, akan-meninggalkan seorang-laki-laki – ayahnya dan – ibunya, dan akan-bersatu dengan – istri -nya, dan akan-menjadi – dua menjadi daging satu.
--- c005-v032: – Rahasia ini besar adalah; aku – berkata mengenai Kristus, dan mengenai – jemaat.
--- c005-v033: Namun juga kamu – secara– satu-satu, masing-masing – sendiri istri, demikian kasihilah seperti dirinya; – dan istri, supaya dia-menghormati – suami.
--- c006-v001: – Anak-anak, taatilah – orang-tuamu –, di–dalam Tuhan; ini karena adalah benar.
--- c006-v002: Hormatilah – ayahmu – dan – ibumu, yang adalah perintah pertama, dengan janji,
--- c006-v003: supaya baik kepadamu menjadi, dan kamu-akan-menjadi berumur-panjang di-atas – bumi.
--- c006-v004: Dan – para-ayah, jangan membangkitkan-amarah – anak-anakmu –, tetapi besarkanlah mereka dalam didikan dan nasihat Tuhan.
--- c006-v005: – Para-budak, taatilah – menurut daging tuan-tuan dengan takut dan gemetar, dalam ketulusan – hatimu –, seperti kepada– Kristus;
--- c006-v006: bukan dengan– pelayanan-mata seperti yang-menyenangkan-manusia; tetapi seperti budak-budak Kristus, melakukan – kehendak – Allah dari jiwa,
--- c006-v007: dengan niat-baik melayani seperti kepada– Tuhan, dan bukan manusia;
--- c006-v008: mengetahui bahwa setiap-orang, jika sesuatu dia-lakukan baik, ini dia-akan-menerima dari Tuhan, baik budak atau orang-merdeka.
--- c006-v009: Dan – para-tuan, – yang-sama, lakukanlah kepada mereka, meninggalkan – ancaman, mengetahui bahwa baik mereka dan kamu – Tuan adalah di langit, dan pilih-kasih tidak ada dari -Nya.
--- c006-v010: Dari– selebihnya, kuatkanlah-dirimu di–dalam Tuhan, dan di–dalam – kekuatan – kekuatan -Nya.
--- c006-v011: Kenakanlah – perlengkapan-senjata – Allah, supaya – kamu-dapat – berdiri melawan – tipu-daya – iblis;
--- c006-v012: karena bukan ada bagi-kita – pergumulan melawan darah dan daging; tetapi melawan – pemerintahan-pemerintahan, melawan – kuasa-kuasa, melawan – penguasa-penguasa-dunia – kegelapan ini, melawan – roh-roh – kejahatan di – tempat-tempat-surgawi.
--- c006-v013: Oleh-karena itu, ambillah – perlengkapan-senjata – Allah, supaya kamu-mampu melawan pada – hari – jahat, dan setelah-mengerjakan-segala-sesuatu, – berdiri.
--- c006-v014: Berdirilah karena-itu, berikatpingganglah – pinggangmu –, dengan kebenaran, dan kenakanlah – baju-zirah – kebenaran,
--- c006-v015: dan kakimu-berkasut – kaki dengan kesiapan – Injil – damai-sejahtera.
--- c006-v016: Dalam segala, ambillah – perisai – iman, dengan mana kamu-akan-dapat semua – panah-panah – yang-jahat – yang-menyala, memadamkan.
--- c006-v017: Dan – ketopong – keselamatan terimalah, dan – pedang – Roh, yang adalah firman Allah;
--- c006-v018: melalui segala doa dan permohonan, berdoa pada setiap waktu dalam Roh, dan untuk itu, berjaga-jaga dengan segala ketekunan, dan permohonan, untuk semua – orang-orang-kudus;
--- c006-v019: dan untukku, – supaya kepadaku diberikan perkataan pada pembukaan – mulutku –, dengan keberanian memberitahukan – rahasia – Injil,
--- c006-v020: yang untuknya aku-menjadi-duta dalam rantai, supaya di-dalamnya – aku-berbicara-dengan-berani, sebagaimana aku-harus – berbicara.
--- c006-v021: Supaya – kamu-tahu juga kamu, – hal-hal-tentang aku, apa aku-kerjakan, segala-sesuatu akan-memberitahukan kepadamu Tikhikus, – saudara-yang-dikasihi, – dan pelayan-yang-setia – di–dalam Tuhan;
--- c006-v022: yang aku-kirim kepada kamu untuk itu ini, supaya kamu-tahu – tentang kami, dan dia-menghibur – hatimu –.
--- c006-v023: Damai-sejahtera kepada– saudara-saudara, dan kasih dengan iman, dari Allah Bapa, dan Tuhan Yesus Kristus.
--- c006-v024: – Anugerah bersama semua yang– mengasihi – Tuhan kita, Yesus Kristus, dengan keabadian.
-
+-- c001-v001-chirho.sql
+-- EPHESIANS c1-v1 - IND
+-- Paulus, rasul Kristus Yesus melalui kehendak Allah, kepada– orang-orang-kudus yang– ada di Efesus, dan orang-orang-percaya di–dalam Kristus Yesus.
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 4900100101: Παῦλος, (G3972) → "Paulus," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -453,8 +299,10 @@ WHERE pw.word_id = '4900100118' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v002-chirho.sql
+-- EPHESIANS c1-v2 - IND
+-- Anugerah kepadamu dan damai-sejahtera dari Allah Bapa kita dan Tuhan Yesus Kristus.
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 4900100201: χάρις (G5485) → "Anugerah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -649,8 +497,10 @@ WHERE pw.word_id = '4900100212' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v003-chirho.sql
+-- EPHESIANS c1-v3 - IND
+-- Terpujilah – Allah dan Bapa dari– Tuhan kita, Yesus Kristus, yang– telah-memberkati kita dengan segala berkat rohani di – tempat-tempat-surgawi di–dalam Kristus;
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 4900100301: Εὐλογητὸς (G2128) → "Terpujilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1005,8 +855,10 @@ WHERE pw.word_id = '4900100322' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v004-chirho.sql
+-- EPHESIANS c1-v4 - IND
+-- sebagaimana Dia-telah-memilih kita di–dalam Dia sebelum penciptaan dunia, supaya-menjadi kita kudus dan tak-bercela di-hadapan Dia; di–dalam kasih,
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 4900100401: καθὼς (G2531) → "sebagaimana" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1281,8 +1133,10 @@ WHERE pw.word_id = '4900100417' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v005-chirho.sql
+-- EPHESIANS c1-v5 - IND
+-- telah-menetapkan kita untuk pengangkatan-anak melalui Yesus Kristus, kepada diri-Nya, menurut – kerelaan dari– kehendak -Nya,
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 4900100501: προορίσας (G4309) → "telah-menetapkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1525,8 +1379,10 @@ WHERE pw.word_id = '4900100515' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v006-chirho.sql
+-- EPHESIANS c1-v6 - IND
+-- untuk pujian kemuliaan dari– anugerah -Nya, yang Dia-telah-karuniakan kepada-kita di–dalam – Yang-Dikasihi;
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 4900100601: εἰς (G1519) → "untuk" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1721,8 +1577,10 @@ WHERE pw.word_id = '4900100612' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v007-chirho.sql
+-- EPHESIANS c1-v7 - IND
+-- di–dalam siapa kita-memiliki – penebusan melalui – darah -Nya, – pengampunan – pelanggaran-pelanggaran, menurut – kekayaan – anugerah -Nya;
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 4900100701: ἐν (G1722) → "di–dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2029,8 +1887,10 @@ WHERE pw.word_id = '4900100719' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v008-chirho.sql
+-- EPHESIANS c1-v8 - IND
+-- yang Dia-limpahkan kepada kita dalam segala hikmat dan pengertian;
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 4900100801: ἧς (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2177,8 +2037,10 @@ WHERE pw.word_id = '4900100809' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v009-chirho.sql
+-- EPHESIANS c1-v9 - IND
+-- menyatakan kepada-kita – rahasia, – kehendak -Nya, menurut – kerelaan -Nya, yang Dia-tentukan di–dalam Dia,
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 4900100901: γνωρίσας (G1107) → "menyatakan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2421,8 +2283,10 @@ WHERE pw.word_id = '4900100915' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v010-chirho.sql
+-- EPHESIANS c1-v10 - IND
+-- untuk pengelolaan – kepenuhan – waktu-waktu; mempersatukan – segala-sesuatu di–dalam – Kristus, – di – langit, dan – di-atas – bumi;
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 4900101001: εἰς (G1519) → "untuk" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2761,8 +2625,10 @@ WHERE pw.word_id = '4900101021' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v011-chirho.sql
+-- EPHESIANS c1-v11 - IND
+-- di–dalam Dia, di–dalam siapa juga kita-dipilih, telah-ditetapkan menurut rencana dari-Dia yang– segala-sesuatu mengerjakan, menurut – keputusan dari– kehendak -Nya;
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 4900101101: ἐν (G1722) → "di–dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3069,8 +2935,10 @@ WHERE pw.word_id = '4900101119' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v012-chirho.sql
+-- EPHESIANS c1-v12 - IND
+-- supaya – menjadi kita, untuk pujian kemuliaan -Nya; – telah-lebih-dulu-berharap di–dalam – Kristus;
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 4900101201: εἰς (G1519) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3281,8 +3149,10 @@ WHERE pw.word_id = '4900101213' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v013-chirho.sql
+-- EPHESIANS c1-v13 - IND
+-- di–dalam siapa juga kamu, setelah-mendengar – firman – kebenaran, – Injil – keselamatanmu, – di–dalam siapa juga, setelah-percaya, kamu-dimeteraikan dengan– Roh – perjanjian, – Kudus;
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 4900101301: ἐν (G1722) → "di–dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3685,8 +3555,10 @@ WHERE pw.word_id = '4900101325' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v014-chirho.sql
+-- EPHESIANS c1-v14 - IND
+-- yang adalah jaminan dari– warisan kita, sampai penebusan – milik-kepunyaan, untuk pujian – kemuliaan -Nya.
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 4900101401: ὅ (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3929,8 +3801,10 @@ WHERE pw.word_id = '4900101415' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v015-chirho.sql
+-- EPHESIANS c1-v15 - IND
+-- Oleh-karena ini, aku-juga, setelah-mendengar – tentang– kamu iman di–dalam – Tuhan Yesus, dan – kasih – kepada semua – orang-orang-kudus,
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 4900101501: Διὰ (G1223) → "Oleh-karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4253,8 +4127,10 @@ WHERE pw.word_id = '4900101520' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v016-chirho.sql
+-- EPHESIANS c1-v16 - IND
+-- tidak berhenti mengucap-syukur untuk kamu, menyebut membuat dalam – doa-doaku –,
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 4900101601: οὐ (G3756) → "tidak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4433,8 +4309,10 @@ WHERE pw.word_id = '4900101611' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v017-chirho.sql
+-- EPHESIANS c1-v17 - IND
+-- supaya – Allah dari– Tuhan kita, Yesus Kristus, – Bapa – kemuliaan, memberikan kepadamu roh hikmat dan wahyu, dalam pengenalan -Nya,
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 4900101701: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4773,8 +4651,10 @@ WHERE pw.word_id = '4900101721' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v018-chirho.sql
+-- EPHESIANS c1-v18 - IND
+-- diterangi – mata – hatimu –, supaya – mengetahui kamu, apa adalah – harapan dari– panggilan -Nya, apa – kekayaan – kemuliaan dari– warisan -Nya, di-antara – orang-orang-kudus,
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 4900101801: πεφωτισμένους (G5461) → "diterangi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5225,8 +5105,10 @@ WHERE pw.word_id = '4900101828' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v019-chirho.sql
+-- EPHESIANS c1-v19 - IND
+-- dan apa – kebesaran-yang-melampaui keagungan dari– kuasa -Nya, kepada kita, – yang-percaya menurut – pekerjaan – kekuatan – kekuatan -Nya,
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 4900101901: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5549,8 +5431,10 @@ WHERE pw.word_id = '4900101920' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v020-chirho.sql
+-- EPHESIANS c1-v20 - IND
+-- yang Dia-kerjakan di–dalam – Kristus, membangkitkan Dia dari orang-mati, dan mendudukkan di kanan -Nya, di – tempat-tempat-surgawi,
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 4900102001: ἣν (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5825,8 +5709,10 @@ WHERE pw.word_id = '4900102017' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v021-chirho.sql
+-- EPHESIANS c1-v21 - IND
+-- jauh-di-atas segala pemerintahan, dan kuasa, dan kekuatan, dan ketuanan, dan setiap nama yang-disebut, tidak hanya di – zaman ini, tetapi juga di – yang-akan-datang;
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 4900102101: ὑπεράνω (G5231) → "jauh-di-atas" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6213,8 +6099,10 @@ WHERE pw.word_id = '4900102124' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v022-chirho.sql
+-- EPHESIANS c1-v22 - IND
+-- dan segala-sesuatu Dia-tundukkan di-bawah – kaki -Nya, dan Dia diberikan kepala atas segala-sesuatu bagi– jemaat,
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 4900102201: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6457,8 +6345,10 @@ WHERE pw.word_id = '4900102215' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v023-chirho.sql
+-- EPHESIANS c1-v23 - IND
+-- yang adalah – tubuh -Nya, – kepenuhan dari-Dia yang– segala-sesuatu, di–dalam segala memenuhi.
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 4900102301: ἥτις (G3748) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6669,8 +6559,10 @@ WHERE pw.word_id = '4900102313' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v001-chirho.sql
+-- EPHESIANS c2-v1 - IND
+-- Dan kamu, yang mati dalam– pelanggaran-pelanggaran, dan – dosa-dosamu –,
 BEGIN;
--- === Chapter 2 Verse 1 ===
 -- 4900200101: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6833,8 +6725,10 @@ WHERE pw.word_id = '4900200110' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v002-chirho.sql
+-- EPHESIANS c2-v2 - IND
+-- di–dalam mana dulu kamu-berjalan, menurut – zaman, – dunia ini, menurut – penguasa – kekuasaan – udara, – roh yang– sekarang bekerja di–dalam – anak-anak – ketidaktaatan;
 BEGIN;
--- === Chapter 2 Verse 2 ===
 -- 4900200201: ἐν (G1722) → "di–dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7269,8 +7163,10 @@ WHERE pw.word_id = '4900200227' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v003-chirho.sql
+-- EPHESIANS c2-v3 - IND
+-- di-antara siapa juga kita semua hidup dulu, dalam – nafsu-nafsu – daging, kita melakukan – keinginan-keinginan – daging, dan – pikiran-pikiran; dan adalah anak-anak, secara-alami, murka, seperti juga – yang-lain.
 BEGIN;
--- === Chapter 2 Verse 3 ===
 -- 4900200301: ἐν (G1722) → "di-antara" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7753,8 +7649,10 @@ WHERE pw.word_id = '4900200330' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v004-chirho.sql
+-- EPHESIANS c2-v4 - IND
+-- – Tetapi Allah, kaya adanya dalam belas-kasihan, oleh-karena – besar kasih -Nya, yang Dia-kasihi kita,
 BEGIN;
--- === Chapter 2 Verse 4 ===
 -- 4900200401: ὁ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7997,8 +7895,10 @@ WHERE pw.word_id = '4900200415' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v005-chirho.sql
+-- EPHESIANS c2-v5 - IND
+-- bahkan yang kita mati dalam– pelanggaran-pelanggaran, menghidupkan-bersama dengan– Kristus, oleh-anugerah kamu-telah diselamatkan,
 BEGIN;
--- === Chapter 2 Verse 5 ===
 -- 4900200501: καὶ (G2532) → "bahkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8193,8 +8093,10 @@ WHERE pw.word_id = '4900200512' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v006-chirho.sql
+-- EPHESIANS c2-v6 - IND
+-- dan membangkitkan-bersama, dan mendudukkan-bersama di – tempat-tempat-surgawi, di–dalam Kristus Yesus,
 BEGIN;
--- === Chapter 2 Verse 6 ===
 -- 4900200601: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8357,8 +8259,10 @@ WHERE pw.word_id = '4900200610' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v007-chirho.sql
+-- EPHESIANS c2-v7 - IND
+-- supaya Dia-menunjukkan di – zaman-zaman, – yang-akan-datang – kekayaan-yang-melampaui kekayaan – anugerah -Nya, dalam kebaikan kepada kita di–dalam Kristus Yesus.
 BEGIN;
--- === Chapter 2 Verse 7 ===
 -- 4900200701: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8681,8 +8585,10 @@ WHERE pw.word_id = '4900200720' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v008-chirho.sql
+-- EPHESIANS c2-v8 - IND
+-- Oleh– karena anugerah kamu-telah diselamatkan melalui iman; dan ini bukan dari kamu; Allah – pemberian--
 BEGIN;
--- === Chapter 2 Verse 8 ===
 -- 4900200801: τῇ (G3588) → "Oleh–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8925,8 +8831,10 @@ WHERE pw.word_id = '4900200815' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v009-chirho.sql
+-- EPHESIANS c2-v9 - IND
+-- bukan dari perbuatan, supaya tidak seorangpun bermegah.
 BEGIN;
--- === Chapter 2 Verse 9 ===
 -- 4900200901: οὐκ (G3756) → "bukan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9041,8 +8949,10 @@ WHERE pw.word_id = '4900200907' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v010-chirho.sql
+-- EPHESIANS c2-v10 - IND
+-- karena-Nya – kita-adalah hasil-karya, diciptakan di–dalam Kristus Yesus untuk perbuatan-perbuatan baik, yang Dia-persiapkan-dahulu – Allah, supaya di-dalamnya – kita-berjalan.
 BEGIN;
--- === Chapter 2 Verse 10 ===
 -- 4900201001: αὐτοῦ (G0846) → "karena-Nya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9349,8 +9259,10 @@ WHERE pw.word_id = '4900201019' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v011-chirho.sql
+-- EPHESIANS c2-v11 - IND
+-- Oleh-karena-itu ingatlah bahwa dulu kamu – bangsa-bangsa-lain dalam daging, – yang-disebut tidak-bersunat oleh – yang-disebut sunat, dalam daging dibuat-dengan-tangan--
 BEGIN;
--- === Chapter 2 Verse 11 ===
 -- 4900201101: Διὸ (G1352) → "Oleh-karena-itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9657,8 +9569,10 @@ WHERE pw.word_id = '4900201119' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v012-chirho.sql
+-- EPHESIANS c2-v12 - IND
+-- bahwa kamu-adalah, pada– waktu itu tanpa Kristus, terasing dari– kewarganegaraan – Israel, dan orang-asing dari– perjanjian-perjanjian – janji, harapan tidak memiliki, dan tanpa-Allah di – dunia.
 BEGIN;
--- === Chapter 2 Verse 12 ===
 -- 4900201201: ὅτι (G3754) → "bahwa" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10077,8 +9991,10 @@ WHERE pw.word_id = '4900201226' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v013-chirho.sql
+-- EPHESIANS c2-v13 - IND
+-- Tetapi-sekarang – di–dalam Kristus Yesus, kamu yang dulu yang jauh, menjadi dekat oleh – darah – Kristus.
 BEGIN;
--- === Chapter 2 Verse 13 ===
 -- 4900201301: νυνὶ (G3570) → "Tetapi-sekarang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10353,8 +10269,10 @@ WHERE pw.word_id = '4900201317' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v014-chirho.sql
+-- EPHESIANS c2-v14 - IND
+-- Dia karena adalah – damai-sejahtera kita, yang– menjadikan – keduanya satu, dan – tembok-pemisah dari– pagar meruntuhkan,
 BEGIN;
--- === Chapter 2 Verse 14 ===
 -- 4900201401: Αὐτὸς (G0846) → "Dia" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10629,8 +10547,10 @@ WHERE pw.word_id = '4900201417' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v015-chirho.sql
+-- EPHESIANS c2-v15 - IND
+-- – permusuhan dalam – daging -Nya, – hukum – perintah-perintah dalam ketetapan-ketetapan membatalkan, supaya – keduanya, Dia-ciptakan di–dalam diri-Nya, menjadi satu baru manusia, membuat damai-sejahtera;
 BEGIN;
--- === Chapter 2 Verse 15 ===
 -- 4900201501: τὴν (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11033,8 +10953,10 @@ WHERE pw.word_id = '4900201525' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v016-chirho.sql
+-- EPHESIANS c2-v16 - IND
+-- dan memperdamaikan – keduanya dalam satu tubuh kepada– Allah, melalui – salib, membunuh – permusuhan di-dalamnya –;
 BEGIN;
--- === Chapter 2 Verse 16 ===
 -- 4900201601: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11309,8 +11231,10 @@ WHERE pw.word_id = '4900201617' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v017-chirho.sql
+-- EPHESIANS c2-v17 - IND
+-- dan datang Dia-memberitakan, damai-sejahtera kepadamu – yang-jauh, dan damai-sejahtera kepada– yang-dekat.
 BEGIN;
--- === Chapter 2 Verse 17 ===
 -- 4900201701: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11489,8 +11413,10 @@ WHERE pw.word_id = '4900201711' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v018-chirho.sql
+-- EPHESIANS c2-v18 - IND
+-- Karena melalui Dia kita-memiliki – jalan-masuk – keduanya, dalam satu Roh, kepada – Bapa.
 BEGIN;
--- === Chapter 2 Verse 18 ===
 -- 4900201801: ὅτι (G3754) → "Karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11717,8 +11643,10 @@ WHERE pw.word_id = '4900201814' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v019-chirho.sql
+-- EPHESIANS c2-v19 - IND
+-- Maka – tidak-lagi kamu-adalah orang-asing dan pendatang, tetapi kamu-adalah warga-negara-bersama dengan– orang-orang-kudus dan anggota-keluarga – Allah,
 BEGIN;
--- === Chapter 2 Verse 19 ===
 -- 4900201901: ἄρα (G0686) → "Maka" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11977,8 +11905,10 @@ WHERE pw.word_id = '4900201916' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v020-chirho.sql
+-- EPHESIANS c2-v20 - IND
+-- dibangun di-atas – fondasi – rasul-rasul dan nabi-nabi, yang batu-penjuru ialah Kristus Yesus,
 BEGIN;
--- === Chapter 2 Verse 20 ===
 -- 4900202001: ἐποικοδομηθέντες (G2026) → "dibangun" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12189,8 +12119,10 @@ WHERE pw.word_id = '4900202013' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v021-chirho.sql
+-- EPHESIANS c2-v21 - IND
+-- di–dalam siapa seluruh bangunan, disusun-bersama, bertumbuh menjadi bait-suci, kudus di–dalam Tuhan,
 BEGIN;
--- === Chapter 2 Verse 21 ===
 -- 4900202101: ἐν (G1722) → "di–dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12369,8 +12301,10 @@ WHERE pw.word_id = '4900202111' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v022-chirho.sql
+-- EPHESIANS c2-v22 - IND
+-- di–dalam siapa juga kamu, dibangun-bersama menjadi tempat-kediaman – Allah, dalam Roh.
 BEGIN;
--- === Chapter 2 Verse 22 ===
 -- 4900202201: ἐν (G1722) → "di–dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12549,8 +12483,10 @@ WHERE pw.word_id = '4900202211' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v001-chirho.sql
+-- EPHESIANS c3-v1 - IND
+-- Karena-ini – aku Paulus, – tahanan – Kristus Yesus, demi kamu – bangsa-bangsa-lain,
 BEGIN;
--- === Chapter 3 Verse 1 ===
 -- 4900300101: Τούτου (G3778) → "Karena-ini" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12761,8 +12697,10 @@ WHERE pw.word_id = '4900300113' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v002-chirho.sql
+-- EPHESIANS c3-v2 - IND
+-- jika memang kamu-mendengar – pengelolaan dari– anugerah – Allah, yang– diberikan kepadaku untuk kamu;
 BEGIN;
--- === Chapter 3 Verse 2 ===
 -- 4900300201: εἴ (G1487) → "jika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12989,8 +12927,10 @@ WHERE pw.word_id = '4900300214' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v003-chirho.sql
+-- EPHESIANS c3-v3 - IND
+-- bahwa menurut wahyu diberitahukan kepadaku – rahasia, seperti aku-tulis-sebelumnya secara singkat;
 BEGIN;
--- === Chapter 3 Verse 3 ===
 -- 4900300301: ὅτι (G3754) → "bahwa" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13169,8 +13109,10 @@ WHERE pw.word_id = '4900300311' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v004-chirho.sql
+-- EPHESIANS c3-v4 - IND
+-- terhadap mana kamu-dapat, membaca, memahami – pengertianku – tentang – rahasia – Kristus;
 BEGIN;
--- === Chapter 3 Verse 4 ===
 -- 4900300401: πρὸς (G4314) → "terhadap" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13381,8 +13323,10 @@ WHERE pw.word_id = '4900300413' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v005-chirho.sql
+-- EPHESIANS c3-v5 - IND
+-- yang pada-generasi-generasi-lain generasi-generasi tidak diberitahukan kepada– anak-anak – manusia, seperti sekarang dinyatakan kepada– kudus rasul-rasul -Nya, dan nabi-nabi; dalam Roh.
 BEGIN;
--- === Chapter 3 Verse 5 ===
 -- 4900300501: ὃ (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13705,8 +13649,10 @@ WHERE pw.word_id = '4900300520' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v006-chirho.sql
+-- EPHESIANS c3-v6 - IND
+-- untuk-menjadi – bangsa-bangsa-lain ahli-waris-bersama, dan satu-tubuh, dan pengambil-bagian-bersama dalam– janji di–dalam Kristus Yesus, melalui – Injil;
 BEGIN;
--- === Chapter 3 Verse 6 ===
 -- 4900300601: εἶναι (G1510) → "untuk-menjadi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13965,8 +13911,10 @@ WHERE pw.word_id = '4900300616' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v007-chirho.sql
+-- EPHESIANS c3-v7 - IND
+-- yang aku-menjadi pelayan menurut – pemberian – anugerah – Allah yang– diberikan kepadaku, menurut – pekerjaan – kuasa -Nya.
 BEGIN;
--- === Chapter 3 Verse 7 ===
 -- 4900300701: οὗ (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -14273,8 +14221,10 @@ WHERE pw.word_id = '4900300719' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v008-chirho.sql
+-- EPHESIANS c3-v8 - IND
+-- Kepadaku, – yang-paling-kecil dari-semua orang-orang-kudus, diberikan – anugerah ini, kepada– bangsa-bangsa-lain memberitakan-Injil, – kekayaan-yang-tak-terselami kekayaan – Kristus;
 BEGIN;
--- === Chapter 3 Verse 8 ===
 -- 4900300801: ἐμοὶ, (G1473) → "Kepadaku," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -14549,8 +14499,10 @@ WHERE pw.word_id = '4900300817' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v009-chirho.sql
+-- EPHESIANS c3-v9 - IND
+-- dan menerangi semua, apa – pengelolaan – rahasia, yang– tersembunyi dari – zaman-zaman di–dalam – Allah, yang– – segala-sesuatu menciptakan,
 BEGIN;
--- === Chapter 3 Verse 9 ===
 -- 4900300901: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -14873,8 +14825,10 @@ WHERE pw.word_id = '4900300920' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v010-chirho.sql
+-- EPHESIANS c3-v10 - IND
+-- supaya diberitahukan sekarang kepada– pemerintahan-pemerintahan dan – kekuasaan-kekuasaan di – tempat-tempat-surgawi, melalui – jemaat, – beragam hikmat – Allah;
 BEGIN;
--- === Chapter 3 Verse 10 ===
 -- 4900301001: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15181,8 +15135,10 @@ WHERE pw.word_id = '4900301019' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v011-chirho.sql
+-- EPHESIANS c3-v11 - IND
+-- menurut rencana – zaman-zaman, yang Dia-buat di–dalam – Kristus Yesus, – Tuhan kita,
 BEGIN;
--- === Chapter 3 Verse 11 ===
 -- 4900301101: κατὰ (G2596) → "menurut" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15393,8 +15349,10 @@ WHERE pw.word_id = '4900301113' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v012-chirho.sql
+-- EPHESIANS c3-v12 - IND
+-- di–dalam siapa kita-memiliki – keberanian dan jalan-masuk dalam keyakinan, melalui – iman -Nya.
 BEGIN;
--- === Chapter 3 Verse 12 ===
 -- 4900301201: ἐν (G1722) → "di–dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15605,8 +15563,10 @@ WHERE pw.word_id = '4900301213' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v013-chirho.sql
+-- EPHESIANS c3-v13 - IND
+-- oleh-karena-itu aku-meminta tidak menjadi-tawar-hati dalam – penderitaan-penderitaanku – demi kamu, yang adalah kemuliaanmu –.
 BEGIN;
--- === Chapter 3 Verse 13 ===
 -- 4900301301: διὸ (G1352) → "oleh-karena-itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -15833,8 +15793,10 @@ WHERE pw.word_id = '4900301314' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v014-chirho.sql
+-- EPHESIANS c3-v14 - IND
+-- Karena-ini – aku-menekuk – lututku – kepada – Bapa, – Tuhan kita Yesus Kristus,
 BEGIN;
--- === Chapter 3 Verse 14 ===
 -- 4900301401: Τούτου (G3778) → "Karena-ini" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -16061,8 +16023,10 @@ WHERE pw.word_id = '4900301414' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v015-chirho.sql
+-- EPHESIANS c3-v15 - IND
+-- dari siapa setiap keluarga di langit dan di bumi dinamai,
 BEGIN;
--- === Chapter 3 Verse 15 ===
 -- 4900301501: ἐξ (G1537) → "dari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -16225,8 +16189,10 @@ WHERE pw.word_id = '4900301510' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v016-chirho.sql
+-- EPHESIANS c3-v16 - IND
+-- supaya Dia-memberikan kepadamu menurut – kekayaan – kemuliaan -Nya, dengan-kuasa, dikuatkan melalui – Roh -Nya, di – dalam manusia;
 BEGIN;
--- === Chapter 3 Verse 16 ===
 -- 4900301601: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -16533,8 +16499,10 @@ WHERE pw.word_id = '4900301619' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v017-chirho.sql
+-- EPHESIANS c3-v17 - IND
+-- berdiam – Kristus, melalui – iman, di–dalam – hatimu –, dalam kasih berakar dan berdasar,
 BEGIN;
--- === Chapter 3 Verse 17 ===
 -- 4900301701: κατοικῆσαι (G2730) → "berdiam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -16777,8 +16745,10 @@ WHERE pw.word_id = '4900301715' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v018-chirho.sql
+-- EPHESIANS c3-v18 - IND
+-- supaya kamu-mampu memahami bersama dengan-semua – orang-orang-kudus, apa – lebar, dan panjang, dan tinggi, dan dalam,
 BEGIN;
--- === Chapter 3 Verse 18 ===
 -- 4900301801: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -17037,8 +17007,10 @@ WHERE pw.word_id = '4900301816' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v019-chirho.sql
+-- EPHESIANS c3-v19 - IND
+-- mengetahui juga –, yang-melampaui – pengetahuan, kasih – Kristus, supaya kamu-dipenuhi menjadi segala – kepenuhan – Allah.
 BEGIN;
--- === Chapter 3 Verse 19 ===
 -- 4900301901: γνῶναί (G1097) → "mengetahui" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -17313,8 +17285,10 @@ WHERE pw.word_id = '4900301917' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v020-chirho.sql
+-- EPHESIANS c3-v20 - IND
+-- Kepada-Dia – yang-mampu lebih-dari segala-sesuatu melakukan jauh-lebih-berlimpah dari-apa-yang kita-minta atau kita-pikirkan, menurut – kuasa yang– bekerja di–dalam kita;
 BEGIN;
--- === Chapter 3 Verse 20 ===
 -- 4900302001: Τῷ (G3588) → "Kepada-Dia" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -17605,8 +17579,10 @@ WHERE pw.word_id = '4900302018' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v021-chirho.sql
+-- EPHESIANS c3-v21 - IND
+-- bagi-Nya – kemuliaan di – jemaat dan di–dalam Kristus Yesus, sampai segala – generasi-generasi dari– zaman – zaman-zaman. Amin.
 BEGIN;
--- === Chapter 3 Verse 21 ===
 -- 4900302101: αὐτῷ (G0846) → "bagi-Nya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -17913,8 +17889,10 @@ WHERE pw.word_id = '4900302119' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v001-chirho.sql
+-- EPHESIANS c4-v1 - IND
+-- Aku-memohon karena-itu kamu, aku – tahanan di–dalam Tuhan, layak untuk-berjalan, dengan– panggilan yang kamu-dipanggil;
 BEGIN;
--- === Chapter 4 Verse 1 ===
 -- 4900400101: Παρακαλῶ (G3870) → "Aku-memohon" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -18141,8 +18119,10 @@ WHERE pw.word_id = '4900400114' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v002-chirho.sql
+-- EPHESIANS c4-v2 - IND
+-- dengan segala kerendahan-hati dan kelemahlembutan, dengan kesabaran, memikul satu-sama-lain dalam kasih;
 BEGIN;
--- === Chapter 4 Verse 2 ===
 -- 4900400201: μετὰ (G3326) → "dengan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -18321,8 +18301,10 @@ WHERE pw.word_id = '4900400211' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v003-chirho.sql
+-- EPHESIANS c4-v3 - IND
+-- berusaha memelihara – kesatuan – Roh, dalam – ikatan – damai-sejahtera.
 BEGIN;
--- === Chapter 4 Verse 3 ===
 -- 4900400301: σπουδάζοντες (G4704) → "berusaha" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -18501,8 +18483,10 @@ WHERE pw.word_id = '4900400311' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v004-chirho.sql
+-- EPHESIANS c4-v4 - IND
+-- satu tubuh dan satu Roh, sebagaimana juga kamu-dipanggil dalam satu harapan, dari– panggilanmu --
 BEGIN;
--- === Chapter 4 Verse 4 ===
 -- 4900400401: ἓν (G1520) → "satu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -18729,8 +18713,10 @@ WHERE pw.word_id = '4900400414' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v005-chirho.sql
+-- EPHESIANS c4-v5 - IND
+-- satu Tuhan, satu iman, satu baptisan;
 BEGIN;
--- === Chapter 4 Verse 5 ===
 -- 4900400501: εἷς (G1520) → "satu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -18829,8 +18815,10 @@ WHERE pw.word_id = '4900400506' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v006-chirho.sql
+-- EPHESIANS c4-v6 - IND
+-- satu Allah dan Bapa dari-semua, yang– di-atas semua, dan melalui semua, dan di–dalam semua.
 BEGIN;
--- === Chapter 4 Verse 6 ===
 -- 4900400601: εἷς (G1520) → "satu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -19057,8 +19045,10 @@ WHERE pw.word_id = '4900400614' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v007-chirho.sql
+-- EPHESIANS c4-v7 - IND
+-- Kepada-setiap – dari-kita – diberikan – anugerah, menurut – ukuran – pemberian – Kristus.
 BEGIN;
--- === Chapter 4 Verse 7 ===
 -- 4900400701: Ἑνὶ (G1520) → "Kepada-setiap" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -19285,8 +19275,10 @@ WHERE pw.word_id = '4900400714' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v008-chirho.sql
+-- EPHESIANS c4-v8 - IND
+-- oleh-karena-itu dikatakan, Naik ke tempat-tinggi, Dia-menawan tawanan, dan memberikan pemberian-pemberian kepada– manusia.
 BEGIN;
--- === Chapter 4 Verse 8 ===
 -- 4900400801: διὸ (G1352) → "oleh-karena-itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -19481,8 +19473,10 @@ WHERE pw.word_id = '4900400812' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v009-chirho.sql
+-- EPHESIANS c4-v9 - IND
+-- – – Naik, apa artinya, jika tidak bahwa juga, Dia-turun ke – lebih-rendah bagian-bagian – bumi?
 BEGIN;
--- === Chapter 4 Verse 9 ===
 -- 4900400901: τὸ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -19741,8 +19735,10 @@ WHERE pw.word_id = '4900400916' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v010-chirho.sql
+-- EPHESIANS c4-v10 - IND
+-- Yang– turun, Dia-sendiri adalah juga yang– naik jauh-di-atas semua – langit, supaya Dia-memenuhi – segala-sesuatu.
 BEGIN;
--- === Chapter 4 Verse 10 ===
 -- 4900401001: ὁ (G3588) → "Yang–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -19985,8 +19981,10 @@ WHERE pw.word_id = '4900401015' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v011-chirho.sql
+-- EPHESIANS c4-v11 - IND
+-- Dan Dia memberikan – memang rasul-rasul, – dan nabi-nabi, – dan penginjil-penginjil, – dan gembala-gembala dan pengajar-pengajar,
 BEGIN;
--- === Chapter 4 Verse 11 ===
 -- 4900401101: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -20261,8 +20259,10 @@ WHERE pw.word_id = '4900401117' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v012-chirho.sql
+-- EPHESIANS c4-v12 - IND
+-- untuk – perlengkapan – orang-orang-kudus; untuk pekerjaan pelayanan, untuk pembangunan – tubuh – Kristus,
 BEGIN;
--- === Chapter 4 Verse 12 ===
 -- 4900401201: πρὸς (G4314) → "untuk" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -20489,8 +20489,10 @@ WHERE pw.word_id = '4900401214' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v013-chirho.sql
+-- EPHESIANS c4-v13 - IND
+-- sampai kita-mencapai – semua, ke – kesatuan – iman dan – pengenalan – Anak – Allah, kepada laki-laki sempurna, kepada ukuran kedewasaan – kepenuhan – Kristus;
 BEGIN;
--- === Chapter 4 Verse 13 ===
 -- 4900401301: μέχρι (G3360) → "sampai" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -20909,8 +20911,10 @@ WHERE pw.word_id = '4900401326' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v014-chirho.sql
+-- EPHESIANS c4-v14 - IND
+-- supaya tidak-lagi kita-menjadi anak-anak, diombang-ambingkan dan ditiup-kesana-kemari oleh-setiap angin – ajaran, dalam – kelicikan – manusia, dalam tipu-muslihat menuju – rencana – kesesatan;
 BEGIN;
--- === Chapter 4 Verse 14 ===
 -- 4900401401: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -21281,8 +21285,10 @@ WHERE pw.word_id = '4900401423' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v015-chirho.sql
+-- EPHESIANS c4-v15 - IND
+-- berbicara-kebenaran – dalam kasih, kita-bertumbuh kepada Dia – segala-sesuatu, yang adalah – kepala, Kristus;
 BEGIN;
--- === Chapter 4 Verse 15 ===
 -- 4900401501: ἀληθεύοντες (G0226) → "berbicara-kebenaran" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -21509,8 +21515,10 @@ WHERE pw.word_id = '4900401514' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v016-chirho.sql
+-- EPHESIANS c4-v16 - IND
+-- dari siapa seluruh – tubuh, disusun-bersama dan diikat-bersama melalui setiap sendi – penyediaan menurut, pekerjaan dalam ukuran satu setiap bagian, – pertumbuhan – tubuh menghasilkan untuk pembangunan dirinya dalam kasih.
 BEGIN;
--- === Chapter 4 Verse 16 ===
 -- 4900401601: ἐξ (G1537) → "dari" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -21993,8 +22001,10 @@ WHERE pw.word_id = '4900401630' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v017-chirho.sql
+-- EPHESIANS c4-v17 - IND
+-- Ini karena-itu aku-berkata, dan bersaksi di–dalam Tuhan, tidak-lagi kamu berjalan seperti juga – bangsa-bangsa-lain berjalan, dalam kesia-siaan – pikiran mereka.
 BEGIN;
--- === Chapter 4 Verse 17 ===
 -- 4900401701: Τοῦτο (G3778) → "Ini" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -22317,8 +22327,10 @@ WHERE pw.word_id = '4900401720' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v018-chirho.sql
+-- EPHESIANS c4-v18 - IND
+-- digelapkan dalam– pengertian, yang terasing dari– kehidupan – Allah, karena – kebodohan yang– ada di–dalam mereka, karena – kekerasan – hati mereka,
 BEGIN;
--- === Chapter 4 Verse 18 ===
 -- 4900401801: ἐσκοτωμένοι (G4656) → "digelapkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -22673,8 +22685,10 @@ WHERE pw.word_id = '4900401822' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v019-chirho.sql
+-- EPHESIANS c4-v19 - IND
+-- yang telah-menjadi-tidak-peka, diri-mereka menyerahkan kepada– percabulan, untuk praktik kecemaran, segala dalam keserakahan.
 BEGIN;
--- === Chapter 4 Verse 19 ===
 -- 4900401901: οἵτινες (G3748) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -22869,8 +22883,10 @@ WHERE pw.word_id = '4900401912' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v020-chirho.sql
+-- EPHESIANS c4-v20 - IND
+-- Tetapi-kamu – tidak demikian belajar – Kristus,
 BEGIN;
--- === Chapter 4 Verse 20 ===
 -- 4900402001: ὑμεῖς (G4771) → "Tetapi-kamu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -22985,8 +23001,10 @@ WHERE pw.word_id = '4900402007' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v021-chirho.sql
+-- EPHESIANS c4-v21 - IND
+-- jika memang Dia kamu-mendengar dan di–dalam Dia diajar, sebagaimana adalah kebenaran di–dalam – Yesus;
 BEGIN;
--- === Chapter 4 Verse 21 ===
 -- 4900402101: εἴ (G1487) → "jika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -23213,8 +23231,10 @@ WHERE pw.word_id = '4900402114' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v022-chirho.sql
+-- EPHESIANS c4-v22 - IND
+-- menanggalkan kamu, menurut – dahulu cara-hidup, – lama manusia, yang– merusak, menurut – nafsu-nafsu – penipuan;
 BEGIN;
--- === Chapter 4 Verse 22 ===
 -- 4900402201: ἀποθέσθαι (G0659) → "menanggalkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -23473,8 +23493,10 @@ WHERE pw.word_id = '4900402216' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v023-chirho.sql
+-- EPHESIANS c4-v23 - IND
+-- diperbarui – dalam– roh – pikiranmu –;
 BEGIN;
--- === Chapter 4 Verse 23 ===
 -- 4900402301: ἀνανεοῦσθαι (G0365) → "diperbarui" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -23589,8 +23611,10 @@ WHERE pw.word_id = '4900402307' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v024-chirho.sql
+-- EPHESIANS c4-v24 - IND
+-- dan mengenakan – baru manusia, yang– menurut Allah diciptakan dalam kebenaran dan kekudusan – kebenaran.
 BEGIN;
--- === Chapter 4 Verse 24 ===
 -- 4900402401: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -23833,8 +23857,10 @@ WHERE pw.word_id = '4900402415' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v025-chirho.sql
+-- EPHESIANS c4-v25 - IND
+-- Oleh-karena-itu menanggalkan – kebohongan, berkatalah kebenaran masing-masing dengan – sesamanya –, karena kita-adalah satu-sama-lain anggota.
 BEGIN;
--- === Chapter 4 Verse 25 ===
 -- 4900402501: Διὸ (G1352) → "Oleh-karena-itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -24077,8 +24103,10 @@ WHERE pw.word_id = '4900402515' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v026-chirho.sql
+-- EPHESIANS c4-v26 - IND
+-- Marahlah, dan jangan berdosa; – matahari jangan terbenam atas – kemarahanmu –,
 BEGIN;
--- === Chapter 4 Verse 26 ===
 -- 4900402601: ὀργίζεσθε, (G3710) → "Marahlah," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -24273,8 +24301,10 @@ WHERE pw.word_id = '4900402612' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v027-chirho.sql
+-- EPHESIANS c4-v27 - IND
+-- dan-jangan memberi tempat kepada– iblis.
 BEGIN;
--- === Chapter 4 Verse 27 ===
 -- 4900402701: μηδὲ (G3366) → "dan-jangan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -24357,8 +24387,10 @@ WHERE pw.word_id = '4900402705' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v028-chirho.sql
+-- EPHESIANS c4-v28 - IND
+-- Yang– mencuri tidak-lagi mencuri; lebih-baik – bekerjalah, bekerja dengan– sendiri tangan – yang-baik, supaya dia-memiliki untuk-memberi kepada– kebutuhan yang-memiliki.
 BEGIN;
--- === Chapter 4 Verse 28 ===
 -- 4900402801: ὁ (G3588) → "Yang–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -24665,8 +24697,10 @@ WHERE pw.word_id = '4900402819' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v029-chirho.sql
+-- EPHESIANS c4-v29 - IND
+-- Setiap kata busuk dari – mulutmu –, jangan keluar, tetapi, jika ada yang-baik, untuk pembangunan – kebutuhan, supaya memberi anugerah kepada– yang-mendengar.
 BEGIN;
--- === Chapter 4 Verse 29 ===
 -- 4900402901: πᾶς (G3956) → "Setiap" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -25021,8 +25055,10 @@ WHERE pw.word_id = '4900402922' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v030-chirho.sql
+-- EPHESIANS c4-v30 - IND
+-- Dan jangan mendukakan – Roh – Kudus – Allah, dengan siapa kamu-dimeteraikan untuk hari penebusan.
 BEGIN;
--- === Chapter 4 Verse 30 ===
 -- 4900403001: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -25265,8 +25301,10 @@ WHERE pw.word_id = '4900403015' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v031-chirho.sql
+-- EPHESIANS c4-v31 - IND
+-- Segala kepahitan, dan kegeraman, dan kemarahan, dan pertikaian, dan fitnah, buanglah dari kamu, bersama dengan-segala kejahatan.
 BEGIN;
--- === Chapter 4 Verse 31 ===
 -- 4900403101: πᾶσα (G3956) → "Segala" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -25525,8 +25563,10 @@ WHERE pw.word_id = '4900403116' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c004-v032-chirho.sql
+-- EPHESIANS c4-v32 - IND
+-- Jadilah – kepada satu-sama-lain baik, penuh-belas-kasihan, saling-mengampuni satu-sama-lain, sebagaimana juga – Allah di–dalam Kristus mengampuni kamu.
 BEGIN;
--- === Chapter 4 Verse 32 ===
 -- 4900403201: γίνεσθε (G1096) → "Jadilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -25785,8 +25825,10 @@ WHERE pw.word_id = '4900403216' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v001-chirho.sql
+-- EPHESIANS c5-v1 - IND
+-- Jadilah karena-itu peniru-peniru – Allah, sebagai anak-anak yang-dikasihi,
 BEGIN;
--- === Chapter 5 Verse 1 ===
 -- 4900500101: γίνεσθε (G1096) → "Jadilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -25917,8 +25959,10 @@ WHERE pw.word_id = '4900500108' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v002-chirho.sql
+-- EPHESIANS c5-v2 - IND
+-- dan berjalanlah dalam kasih, sebagaimana juga – Kristus mengasihi kita, dan menyerahkan diri-Nya demi kita, persembahan dan korban kepada– Allah, untuk bau harum.
 BEGIN;
--- === Chapter 5 Verse 2 ===
 -- 4900500201: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -26289,8 +26333,10 @@ WHERE pw.word_id = '4900500223' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v003-chirho.sql
+-- EPHESIANS c5-v3 - IND
+-- Percabulan –, dan kecemaran segala, atau keserakahan, janganlah disebutkan di-antara kamu, sebagaimana layak orang-orang-kudus;
 BEGIN;
--- === Chapter 5 Verse 3 ===
 -- 4900500301: Πορνεία (G4202) → "Percabulan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -26517,8 +26563,10 @@ WHERE pw.word_id = '4900500314' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v004-chirho.sql
+-- EPHESIANS c5-v4 - IND
+-- dan kecabulan, dan perkataan-bodoh, atau lelucon-kotor, yang tidak patut; tetapi lebih-baik ucapan-syukur.
 BEGIN;
--- === Chapter 5 Verse 4 ===
 -- 4900500401: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -26713,8 +26761,10 @@ WHERE pw.word_id = '4900500412' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v005-chirho.sql
+-- EPHESIANS c5-v5 - IND
+-- Ini karena ketahuilah, mengetahui bahwa setiap orang-cabul, atau orang-najis, atau orang-serakah, yang adalah penyembah-berhala, tidak memiliki warisan di – kerajaan – Kristus, dan Allah.
 BEGIN;
--- === Chapter 5 Verse 5 ===
 -- 4900500501: τοῦτο (G3778) → "Ini" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -27101,8 +27151,10 @@ WHERE pw.word_id = '4900500524' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v006-chirho.sql
+-- EPHESIANS c5-v6 - IND
+-- Jangan-seorangpun kamu menipu dengan-kata-kata-kosong –; karena ini – datang – murka – Allah, atas – anak-anak – ketidaktaatan.
 BEGIN;
--- === Chapter 5 Verse 6 ===
 -- 4900500601: Μηδεὶς (G3367) → "Jangan-seorangpun" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -27393,8 +27445,10 @@ WHERE pw.word_id = '4900500618' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v007-chirho.sql
+-- EPHESIANS c5-v7 - IND
+-- Jangan karena-itu menjadi pengambil-bagian-bersama mereka;
 BEGIN;
--- === Chapter 5 Verse 7 ===
 -- 4900500701: μὴ (G3361) → "Jangan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -27477,8 +27531,10 @@ WHERE pw.word_id = '4900500705' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v008-chirho.sql
+-- EPHESIANS c5-v8 - IND
+-- Kamu-adalah karena dulu kegelapan, tetapi-sekarang –, terang di–dalam Tuhan; sebagai anak-anak terang berjalanlah--
 BEGIN;
--- === Chapter 5 Verse 8 ===
 -- 4900500801: ἦτε (G1510) → "Kamu-adalah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -27689,8 +27745,10 @@ WHERE pw.word_id = '4900500813' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v009-chirho.sql
+-- EPHESIANS c5-v9 - IND
+-- – karena buah – terang dalam segala kebaikan, dan kebenaran, dan kebenaran--
 BEGIN;
--- === Chapter 5 Verse 9 ===
 -- 4900500901: ὁ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -27885,8 +27943,10 @@ WHERE pw.word_id = '4900500912' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v010-chirho.sql
+-- EPHESIANS c5-v10 - IND
+-- menguji apa adalah menyenangkan kepada– Tuhan.
 BEGIN;
--- === Chapter 5 Verse 10 ===
 -- 4900501001: δοκιμάζοντες (G1381) → "menguji" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -27985,8 +28045,10 @@ WHERE pw.word_id = '4900501006' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v011-chirho.sql
+-- EPHESIANS c5-v11 - IND
+-- Dan jangan mengambil-bagian dalam– perbuatan-perbuatan – tidak-berbuah – kegelapan, lebih-baik – juga menegur;
 BEGIN;
--- === Chapter 5 Verse 11 ===
 -- 4900501101: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -28197,8 +28259,10 @@ WHERE pw.word_id = '4900501113' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v012-chirho.sql
+-- EPHESIANS c5-v12 - IND
+-- – karena diam-diam yang-dilakukan oleh mereka, memalukan adalah bahkan untuk-dikatakan.
 BEGIN;
--- === Chapter 5 Verse 12 ===
 -- 4900501201: τὰ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -28361,8 +28425,10 @@ WHERE pw.word_id = '4900501210' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v013-chirho.sql
+-- EPHESIANS c5-v13 - IND
+-- – Tetapi segala-sesuatu yang-ditegur oleh – terang, dinyatakan segala karena; – yang-dinyatakan terang adalah.
 BEGIN;
--- === Chapter 5 Verse 13 ===
 -- 4900501301: τὰ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -28589,8 +28655,10 @@ WHERE pw.word_id = '4900501314' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v014-chirho.sql
+-- EPHESIANS c5-v14 - IND
+-- oleh-karena-itu dikatakan, Bangunlah, yang– tidur, dan bangkitlah dari – orang-mati, dan akan-menyinari engkau – Kristus.
 BEGIN;
--- === Chapter 5 Verse 14 ===
 -- 4900501401: διὸ (G1352) → "oleh-karena-itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -28833,8 +28901,10 @@ WHERE pw.word_id = '4900501415' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v015-chirho.sql
+-- EPHESIANS c5-v15 - IND
+-- Perhatikanlah karena-itu dengan-teliti bagaimana kamu-berjalan, bukan seperti orang-bodoh, tetapi seperti orang-bijak,
 BEGIN;
--- === Chapter 5 Verse 15 ===
 -- 4900501501: Βλέπετε (G0991) → "Perhatikanlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -29013,8 +29083,10 @@ WHERE pw.word_id = '4900501511' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v016-chirho.sql
+-- EPHESIANS c5-v16 - IND
+-- menebus – waktu, karena – hari-hari jahat adalah.
 BEGIN;
--- === Chapter 5 Verse 16 ===
 -- 4900501601: ἐξαγοραζόμενοι (G1805) → "menebus" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -29145,8 +29217,10 @@ WHERE pw.word_id = '4900501608' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v017-chirho.sql
+-- EPHESIANS c5-v17 - IND
+-- Karena ini, jangan menjadi bodoh, tetapi mengertilah apa – kehendak – Tuhan.
 BEGIN;
--- === Chapter 5 Verse 17 ===
 -- 4900501701: διὰ (G1223) → "Karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -29341,8 +29415,10 @@ WHERE pw.word_id = '4900501712' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v018-chirho.sql
+-- EPHESIANS c5-v18 - IND
+-- Dan jangan mabuk oleh-anggur, dalam mana adalah kebebalan. Tetapi penuhilah dengan Roh,
 BEGIN;
--- === Chapter 5 Verse 18 ===
 -- 4900501801: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -29537,8 +29613,10 @@ WHERE pw.word_id = '4900501812' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v019-chirho.sql
+-- EPHESIANS c5-v19 - IND
+-- berbicara satu-sama-lain dalam mazmur-mazmur, dan pujian-pujian, dan nyanyian-nyanyian rohani; bernyanyi dan bermazmur dalam– hatimu – kepada– Tuhan;
 BEGIN;
--- === Chapter 5 Verse 19 ===
 -- 4900501901: λαλοῦντες (G2980) → "berbicara" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -29813,8 +29891,10 @@ WHERE pw.word_id = '4900501917' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v020-chirho.sql
+-- EPHESIANS c5-v20 - IND
+-- mengucap-syukur senantiasa, untuk segala-sesuatu, dalam nama – Tuhan kita, Yesus Kristus; kepada– Allah dan Bapa;
 BEGIN;
--- === Chapter 5 Verse 20 ===
 -- 4900502001: εὐχαριστοῦντες (G2168) → "mengucap-syukur" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -30057,8 +30137,10 @@ WHERE pw.word_id = '4900502015' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v021-chirho.sql
+-- EPHESIANS c5-v21 - IND
+-- saling-tunduk satu-sama-lain dalam takut Kristus.
 BEGIN;
--- === Chapter 5 Verse 21 ===
 -- 4900502101: ὑποτασσόμενοι (G5293) → "saling-tunduk" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -30141,8 +30223,10 @@ WHERE pw.word_id = '4900502105' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v022-chirho.sql
+-- EPHESIANS c5-v22 - IND
+-- – Para-istri, kepada– sendiri suami-suami, seperti kepada– Tuhan,
 BEGIN;
--- === Chapter 5 Verse 22 ===
 -- 4900502201: Αἱ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -30273,8 +30357,10 @@ WHERE pw.word_id = '4900502208' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v023-chirho.sql
+-- EPHESIANS c5-v23 - IND
+-- karena suami adalah kepala – istri, seperti juga – Kristus kepala – jemaat-- Dia-sendiri juruselamat – tubuh.
 BEGIN;
--- === Chapter 5 Verse 23 ===
 -- 4900502301: ὅτι (G3754) → "karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -30549,8 +30635,10 @@ WHERE pw.word_id = '4900502317' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v024-chirho.sql
+-- EPHESIANS c5-v24 - IND
+-- Tetapi sebagaimana – jemaat tunduk kepada– Kristus, demikian juga – para-istri kepada– suami-suami dalam segala-sesuatu.
 BEGIN;
--- === Chapter 5 Verse 24 ===
 -- 4900502401: ἀλλὰ (G0235) → "Tetapi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -30793,8 +30881,10 @@ WHERE pw.word_id = '4900502415' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v025-chirho.sql
+-- EPHESIANS c5-v25 - IND
+-- – Para-suami, kasihilah – istri-istri, sebagaimana juga – Kristus mengasihi – jemaat, dan diri-Nya menyerahkan demi dia,
 BEGIN;
--- === Chapter 5 Verse 25 ===
 -- 4900502501: Οἱ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -31069,8 +31159,10 @@ WHERE pw.word_id = '4900502517' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v026-chirho.sql
+-- EPHESIANS c5-v26 - IND
+-- supaya dia Dia-kuduskan, membersihkan dengan– pemandian – air dalam firman,
 BEGIN;
--- === Chapter 5 Verse 26 ===
 -- 4900502601: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -31233,8 +31325,10 @@ WHERE pw.word_id = '4900502610' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v027-chirho.sql
+-- EPHESIANS c5-v27 - IND
+-- supaya Dia-hadirkan Dia-sendiri kepada-diri-Nya mulia, – jemaat, tidak memiliki noda, atau kerut, atau sesuatu – seperti-itu; tetapi supaya dia-menjadi kudus dan tak-bercela.
 BEGIN;
--- === Chapter 5 Verse 27 ===
 -- 4900502701: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -31589,8 +31683,10 @@ WHERE pw.word_id = '4900502722' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v028-chirho.sql
+-- EPHESIANS c5-v28 - IND
+-- Demikian seharusnya juga – para-suami mengasihi – mereka-sendiri istri-istri, sebagai – mereka-sendiri tubuh. Yang– mengasihi – sendiri istri, dirinya mengasihi.
 BEGIN;
--- === Chapter 5 Verse 28 ===
 -- 4900502801: οὕτως (G3779) → "Demikian" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -31913,8 +32009,10 @@ WHERE pw.word_id = '4900502820' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v029-chirho.sql
+-- EPHESIANS c5-v29 - IND
+-- Tidak-seorangpun karena pernah – sendiri daging membenci, tetapi memelihara dan merawat dia, sebagaimana juga – Kristus – jemaat:
 BEGIN;
--- === Chapter 5 Verse 29 ===
 -- 4900502901: οὐδεὶς (G3762) → "Tidak-seorangpun" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -32205,8 +32303,10 @@ WHERE pw.word_id = '4900502918' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v030-chirho.sql
+-- EPHESIANS c5-v30 - IND
+-- karena anggota kita-adalah – tubuh -Nya, dari – daging -Nya, dan dari – tulang-tulang -Nya.
 BEGIN;
--- === Chapter 5 Verse 30 ===
 -- 4900503001: ὅτι (G3754) → "karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -32449,8 +32549,10 @@ WHERE pw.word_id = '4900503015' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v031-chirho.sql
+-- EPHESIANS c5-v31 - IND
+-- Sebab ini, akan-meninggalkan seorang-laki-laki – ayahnya dan – ibunya, dan akan-bersatu dengan – istri -nya, dan akan-menjadi – dua menjadi daging satu.
 BEGIN;
--- === Chapter 5 Verse 31 ===
 -- 4900503101: ἀντὶ (G0473) → "Sebab" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -32805,8 +32907,10 @@ WHERE pw.word_id = '4900503122' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v032-chirho.sql
+-- EPHESIANS c5-v32 - IND
+-- – Rahasia ini besar adalah; aku – berkata mengenai Kristus, dan mengenai – jemaat.
 BEGIN;
--- === Chapter 5 Verse 32 ===
 -- 4900503201: τὸ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -33033,8 +33137,10 @@ WHERE pw.word_id = '4900503214' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c005-v033-chirho.sql
+-- EPHESIANS c5-v33 - IND
+-- Namun juga kamu – secara– satu-satu, masing-masing – sendiri istri, demikian kasihilah seperti dirinya; – dan istri, supaya dia-menghormati – suami.
 BEGIN;
--- === Chapter 5 Verse 33 ===
 -- 4900503301: πλὴν (G4133) → "Namun" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -33373,8 +33479,10 @@ WHERE pw.word_id = '4900503321' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v001-chirho.sql
+-- EPHESIANS c6-v1 - IND
+-- – Anak-anak, taatilah – orang-tuamu –, di–dalam Tuhan; ini karena adalah benar.
 BEGIN;
--- === Chapter 6 Verse 1 ===
 -- 4900600101: Τὰ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -33569,8 +33677,10 @@ WHERE pw.word_id = '4900600112' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v002-chirho.sql
+-- EPHESIANS c6-v2 - IND
+-- Hormatilah – ayahmu – dan – ibumu, yang adalah perintah pertama, dengan janji,
 BEGIN;
--- === Chapter 6 Verse 2 ===
 -- 4900600201: τίμα (G5091) → "Hormatilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -33781,8 +33891,10 @@ WHERE pw.word_id = '4900600213' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v003-chirho.sql
+-- EPHESIANS c6-v3 - IND
+-- supaya baik kepadamu menjadi, dan kamu-akan-menjadi berumur-panjang di-atas – bumi.
 BEGIN;
--- === Chapter 6 Verse 3 ===
 -- 4900600301: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -33945,8 +34057,10 @@ WHERE pw.word_id = '4900600310' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v004-chirho.sql
+-- EPHESIANS c6-v4 - IND
+-- Dan – para-ayah, jangan membangkitkan-amarah – anak-anakmu –, tetapi besarkanlah mereka dalam didikan dan nasihat Tuhan.
 BEGIN;
--- === Chapter 6 Verse 4 ===
 -- 4900600401: Καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -34205,8 +34319,10 @@ WHERE pw.word_id = '4900600416' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v005-chirho.sql
+-- EPHESIANS c6-v5 - IND
+-- – Para-budak, taatilah – menurut daging tuan-tuan dengan takut dan gemetar, dalam ketulusan – hatimu –, seperti kepada– Kristus;
 BEGIN;
--- === Chapter 6 Verse 5 ===
 -- 4900600501: Οἱ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -34513,8 +34629,10 @@ WHERE pw.word_id = '4900600519' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v006-chirho.sql
+-- EPHESIANS c6-v6 - IND
+-- bukan dengan– pelayanan-mata seperti yang-menyenangkan-manusia; tetapi seperti budak-budak Kristus, melakukan – kehendak – Allah dari jiwa,
 BEGIN;
--- === Chapter 6 Verse 6 ===
 -- 4900600601: μὴ (G3361) → "bukan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -34773,8 +34891,10 @@ WHERE pw.word_id = '4900600616' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v007-chirho.sql
+-- EPHESIANS c6-v7 - IND
+-- dengan niat-baik melayani seperti kepada– Tuhan, dan bukan manusia;
 BEGIN;
--- === Chapter 6 Verse 7 ===
 -- 4900600701: μετ’ (G3326) → "dengan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -34921,8 +35041,10 @@ WHERE pw.word_id = '4900600709' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v008-chirho.sql
+-- EPHESIANS c6-v8 - IND
+-- mengetahui bahwa setiap-orang, jika sesuatu dia-lakukan baik, ini dia-akan-menerima dari Tuhan, baik budak atau orang-merdeka.
 BEGIN;
--- === Chapter 6 Verse 8 ===
 -- 4900600801: εἰδότες (G1492) → "mengetahui" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -35165,8 +35287,10 @@ WHERE pw.word_id = '4900600815' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v009-chirho.sql
+-- EPHESIANS c6-v9 - IND
+-- Dan – para-tuan, – yang-sama, lakukanlah kepada mereka, meninggalkan – ancaman, mengetahui bahwa baik mereka dan kamu – Tuan adalah di langit, dan pilih-kasih tidak ada dari -Nya.
 BEGIN;
--- === Chapter 6 Verse 9 ===
 -- 4900600901: Καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -35617,8 +35741,10 @@ WHERE pw.word_id = '4900600928' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v010-chirho.sql
+-- EPHESIANS c6-v10 - IND
+-- Dari– selebihnya, kuatkanlah-dirimu di–dalam Tuhan, dan di–dalam – kekuatan – kekuatan -Nya.
 BEGIN;
--- === Chapter 6 Verse 10 ===
 -- 4900601001: Τοῦ (G3588) → "Dari–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -35813,8 +35939,10 @@ WHERE pw.word_id = '4900601012' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v011-chirho.sql
+-- EPHESIANS c6-v11 - IND
+-- Kenakanlah – perlengkapan-senjata – Allah, supaya – kamu-dapat – berdiri melawan – tipu-daya – iblis;
 BEGIN;
--- === Chapter 6 Verse 11 ===
 -- 4900601101: ἐνδύσασθε (G1746) → "Kenakanlah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -36057,8 +36185,10 @@ WHERE pw.word_id = '4900601115' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v012-chirho.sql
+-- EPHESIANS c6-v12 - IND
+-- karena bukan ada bagi-kita – pergumulan melawan darah dan daging; tetapi melawan – pemerintahan-pemerintahan, melawan – kuasa-kuasa, melawan – penguasa-penguasa-dunia – kegelapan ini, melawan – roh-roh – kejahatan di – tempat-tempat-surgawi.
 BEGIN;
--- === Chapter 6 Verse 12 ===
 -- 4900601201: ὅτι (G3754) → "karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -36557,8 +36687,10 @@ WHERE pw.word_id = '4900601231' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v013-chirho.sql
+-- EPHESIANS c6-v13 - IND
+-- Oleh-karena itu, ambillah – perlengkapan-senjata – Allah, supaya kamu-mampu melawan pada – hari – jahat, dan setelah-mengerjakan-segala-sesuatu, – berdiri.
 BEGIN;
--- === Chapter 6 Verse 13 ===
 -- 4900601301: διὰ (G1223) → "Oleh-karena" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -36865,8 +36997,10 @@ WHERE pw.word_id = '4900601319' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v014-chirho.sql
+-- EPHESIANS c6-v14 - IND
+-- Berdirilah karena-itu, berikatpingganglah – pinggangmu –, dengan kebenaran, dan kenakanlah – baju-zirah – kebenaran,
 BEGIN;
--- === Chapter 6 Verse 14 ===
 -- 4900601401: στῆτε (G2476) → "Berdirilah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -37093,8 +37227,10 @@ WHERE pw.word_id = '4900601414' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v015-chirho.sql
+-- EPHESIANS c6-v15 - IND
+-- dan kakimu-berkasut – kaki dengan kesiapan – Injil – damai-sejahtera.
 BEGIN;
--- === Chapter 6 Verse 15 ===
 -- 4900601501: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -37257,8 +37393,10 @@ WHERE pw.word_id = '4900601510' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v016-chirho.sql
+-- EPHESIANS c6-v16 - IND
+-- Dalam segala, ambillah – perisai – iman, dengan mana kamu-akan-dapat semua – panah-panah – yang-jahat – yang-menyala, memadamkan.
 BEGIN;
--- === Chapter 6 Verse 16 ===
 -- 4900601601: ἐν (G1722) → "Dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -37549,8 +37687,10 @@ WHERE pw.word_id = '4900601618' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v017-chirho.sql
+-- EPHESIANS c6-v17 - IND
+-- Dan – ketopong – keselamatan terimalah, dan – pedang – Roh, yang adalah firman Allah;
 BEGIN;
--- === Chapter 6 Verse 17 ===
 -- 4900601701: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -37793,8 +37933,10 @@ WHERE pw.word_id = '4900601715' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v018-chirho.sql
+-- EPHESIANS c6-v18 - IND
+-- melalui segala doa dan permohonan, berdoa pada setiap waktu dalam Roh, dan untuk itu, berjaga-jaga dengan segala ketekunan, dan permohonan, untuk semua – orang-orang-kudus;
 BEGIN;
--- === Chapter 6 Verse 18 ===
 -- 4900601801: διὰ (G1223) → "melalui" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -38181,8 +38323,10 @@ WHERE pw.word_id = '4900601824' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v019-chirho.sql
+-- EPHESIANS c6-v19 - IND
+-- dan untukku, – supaya kepadaku diberikan perkataan pada pembukaan – mulutku –, dengan keberanian memberitahukan – rahasia – Injil,
 BEGIN;
--- === Chapter 6 Verse 19 ===
 -- 4900601901: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -38489,8 +38633,10 @@ WHERE pw.word_id = '4900601919' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v020-chirho.sql
+-- EPHESIANS c6-v20 - IND
+-- yang untuknya aku-menjadi-duta dalam rantai, supaya di-dalamnya – aku-berbicara-dengan-berani, sebagaimana aku-harus – berbicara.
 BEGIN;
--- === Chapter 6 Verse 20 ===
 -- 4900602001: ὑπὲρ (G5228) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -38701,8 +38847,10 @@ WHERE pw.word_id = '4900602013' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v021-chirho.sql
+-- EPHESIANS c6-v21 - IND
+-- Supaya – kamu-tahu juga kamu, – hal-hal-tentang aku, apa aku-kerjakan, segala-sesuatu akan-memberitahukan kepadamu Tikhikus, – saudara-yang-dikasihi, – dan pelayan-yang-setia – di–dalam Tuhan;
 BEGIN;
--- === Chapter 6 Verse 21 ===
 -- 4900602101: Ἵνα (G2443) → "Supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -39057,8 +39205,10 @@ WHERE pw.word_id = '4900602122' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v022-chirho.sql
+-- EPHESIANS c6-v22 - IND
+-- yang aku-kirim kepada kamu untuk itu ini, supaya kamu-tahu – tentang kami, dan dia-menghibur – hatimu –.
 BEGIN;
--- === Chapter 6 Verse 22 ===
 -- 4900602201: ὃν (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -39333,8 +39483,10 @@ WHERE pw.word_id = '4900602217' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v023-chirho.sql
+-- EPHESIANS c6-v23 - IND
+-- Damai-sejahtera kepada– saudara-saudara, dan kasih dengan iman, dari Allah Bapa, dan Tuhan Yesus Kristus.
 BEGIN;
--- === Chapter 6 Verse 23 ===
 -- 4900602301: Εἰρήνη (G1515) → "Damai-sejahtera" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -39561,8 +39713,10 @@ WHERE pw.word_id = '4900602314' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c006-v024-chirho.sql
+-- EPHESIANS c6-v24 - IND
+-- – Anugerah bersama semua yang– mengasihi – Tuhan kita, Yesus Kristus, dengan keabadian.
 BEGIN;
--- === Chapter 6 Verse 24 ===
 -- 4900602401: ἡ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

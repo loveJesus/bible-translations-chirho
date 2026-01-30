@@ -3,58 +3,12 @@
 -- — John 3:16
 
 -- 2THESSALONIANS - IND Combined
--- Generated: 2026-01-29T04:18:09.074Z
+-- Regenerated: 2026-01-30T00:58:14Z
 
--- c001-v001: Paulus, dan Silwanus, dan Timotius, kepada– jemaat orang–Tesalonika, di–dalam Allah Bapa kita, dan Tuhan Yesus Kristus.
--- c001-v002: Anugerah kepadamu dan damai–sejahtera, dari Allah Bapa kita, dan Tuhan Yesus Kristus.
--- c001-v003: Bersyukur kami–harus – kepada–Allah selalu, tentang kamu, saudara–saudara, sebagaimana layak adalah, karena bertumbuh–pesat – iman kamu, dan berlimpah – kasih satu setiap semua, kamu kepada satu–sama–lain;
--- c001-v004: sehingga kami–sendiri, kami di–antara kamu bermegah, di–dalam – jemaat–jemaat – Allah, karena – ketekunan kamu, dan iman dalam semua – penganiayaan kamu, dan – penderitaan–penderitaan yang kamu–tanggung;
--- c001-v005: bukti – adil penghakiman – Allah untuk – dianggap–layak kamu – Kerajaan – Allah, untuk yang juga kamu–menderita;
--- c001-v006: jika–memang adil di–hadapan Allah, membalas kepada–orang–orang–yang menekan kamu, penekanan,
--- c001-v007: dan kepadamu yang ditekan, kelegaan bersama kami, pada – penyingkapan – Tuhan Yesus dari surga, bersama malaikat–malaikat kuasa milik-Nya,
--- c001-v008: dalam api nyala, memberikan pembalasan kepada–orang–orang–yang tidak mengenal Allah, dan kepada–orang–orang–yang tidak menaati – Injil – Tuhan kita, Yesus;
--- c001-v009: yang hukuman akan–membayar, kebinasaan kekal, dari hadirat – Tuhan, dan dari – kemuliaan – kekuatan milik-Nya;
--- c001-v010: ketika Dia–datang dimuliakan di–antara – orang–orang–kudus milik-Nya, dan dikagumi di–antara semua – orang–orang–percaya, karena dipercayai – kesaksian kami kepada kamu, pada – hari itu.
--- c001-v011: Untuk yang juga kami–berdoa selalu untuk kamu, supaya kamu layakkan – panggilan – Allah kita, dan Dia–genapkan setiap kesenangan kebaikan, dan pekerjaan iman dengan kuasa,
--- c001-v012: supaya dimuliakan – nama – Tuhan kita, Yesus, di–dalam kamu, dan kamu di–dalam Dia, menurut – anugerah – Allah kita, dan Tuhan Yesus Kristus.
--- c002-v001: Kami–minta dan kamu, saudara–saudara, mengenai – kedatangan – Tuhan kita, Yesus Kristus, dan kita pengumpulan kepada Dia,
--- c002-v002: untuk – tidak dengan–cepat digoncangkan kamu dari – pikiran, juga–tidak digelisahkan, baik oleh roh, baik oleh perkataan, baik oleh surat, seolah–olah dari kami, seolah–olah bahwa sudah–datang – hari – Tuhan.
--- c002-v003: Jangan seorang kamu menipu dengan cara–apapun cara, karena jika–tidak – datang – kemurtadan dahulu, dan dinyatakan – manusia – pelanggaran–hukum, – anak – kebinasaan;
--- c002-v004: yang melawan dan meninggikan–diri atas segala yang–disebut Allah atau yang–disembah, sehingga dia di–dalam – Bait – Allah duduk, menyatakan dirinya–sendiri bahwa adalah Allah.
--- c002-v005: Tidak kamu–ingat bahwa, masih ketika dengan kamu, hal–hal–ini kukatakan kepadamu?
--- c002-v006: Dan sekarang – yang–menahan, kamu–tahu, untuk – dinyatakan dia pada – miliknya–sendiri waktu.
--- c002-v007: – Karena rahasia, sudah bekerja, – pelanggaran–hukum; hanya – yang–menahan sekarang sampai dari tengah ia–disingkirkan.
--- c002-v008: Dan kemudian akan–dinyatakan – si–jahat, yang – Tuhan Yesus akan–membunuh dengan– nafas – mulut milik-Nya, dan akan–menghancurkan dengan– penampakan – kedatangan milik-Nya;
--- c002-v009: yang adalah – kedatangan, menurut pekerjaan – Setan, dengan segala kuasa, dan tanda–tanda, dan keajaiban–keajaiban dusta,
--- c002-v010: dan dengan segala tipu–daya kejahatan, bagi–orang–orang–yang binasa, karena – – kasih – kebenaran tidak mereka–terima, untuk – diselamatkan mereka.
--- c002-v011: Dan karena–itu ini mengirimkan kepada–mereka – Allah pekerjaan kesesatan, untuk – percaya mereka – kebohongan;
--- c002-v012: supaya dihakimi semua orang–yang tidak percaya – kebenaran, tetapi menyukai – kejahatan.
--- c002-v013: Kami tetapi harus bersyukur – kepada–Allah selalu untuk kamu, saudara–saudara yang–dikasihi oleh Tuhan, karena memilih kamu – Allah, dari permulaan, untuk keselamatan dalam pengudusan Roh, dan iman kebenaran;
--- c002-v014: untuk yang juga Dia–memanggil kamu, melalui – Injil kami, untuk memperoleh kemuliaan – Tuhan kita, Yesus Kristus.
--- c002-v015: Karena–itu maka, saudara–saudara, berdirilah–teguh, dan peganglah – tradisi–tradisi yang kamu–diajarkan, baik melalui perkataan, baik melalui surat kami.
--- c002-v016: Dia–sendiri dan – Tuhan kita, Yesus Kristus, dan – Allah, – Bapa kita, yang mengasihi kita, dan memberikan penghiburan kekal, dan pengharapan baik dalam anugerah,
--- c002-v017: menghiburkan kamu – hati, dan meneguhkan dalam setiap perbuatan dan perkataan baik.
--- c003-v001: – Akhirnya, berdoalah, saudara–saudara, untuk kami, supaya – firman – Tuhan berlari dan dimuliakan, sama–seperti juga pada kamu;
--- c003-v002: dan supaya kami–dibebaskan dari – jahat dan fasik orang–orang; tidak karena semua–orang – iman.
--- c003-v003: Setia namun adalah – Tuhan, yang akan–menguatkan kamu, dan menjaga dari – si–jahat.
--- c003-v004: Kami–yakin dan dalam Tuhan, tentang kamu, bahwa apa–yang kami–perintahkan, baik kamu–lakukan dan akan–kamu–lakukan.
--- c003-v005: – Dan Tuhan kiranya–mengarahkan kamu – hati kepada – kasih – Allah, dan kepada – ketekunan – Kristus.
--- c003-v006: Kami–memerintahkan dan kepadamu, saudara–saudara, dalam nama – Tuhan kita, Yesus Kristus, menarik–diri kamu dari setiap saudara tidak–tertib yang–hidup, dan tidak menurut – tradisi yang mereka–terima dari kami.
--- c003-v007: Kamu–sendiri karena, kamu–tahu bagaimana harus meniru kami, karena tidak kami–berlaku–tidak–tertib di–antara kamu;
--- c003-v008: juga–tidak dengan–cuma–cuma roti kami–makan dari siapa–pun, tetapi dengan jerih–payah dan lelah, malam dan siang bekerja, untuk – tidak membebani siapa–pun dari–kamu.
--- c003-v009: bukan karena tidak kami–mempunyai hak, tetapi supaya diri–kami–sendiri teladan kami–berikan kepadamu, untuk – meniru kami.
--- c003-v010: Dan juga, ketika kami–bersama dengan kamu, ini kami–perintahkan kepadamu, bahwa jika seseorang tidak mau bekerja, juga–jangan dia–makan.
--- c003-v011: Kami–mendengar karena beberapa–orang hidup di–antara kamu tidak–tertib, tidak–ada bekerja, tetapi sibuk–mencampuri–urusan–orang–lain.
--- c003-v012: kepada–orang– dan seperti–itu, kami–memerintahkan dan kami–menasihati dalam Tuhan Yesus Kristus, supaya dengan ketenangan bekerja, – mereka–sendiri roti mereka–makan.
--- c003-v013: Kamu namun, saudara–saudara, jangan menjadi–lelah berbuat–baik.
--- c003-v014: Jika dan seseorang tidak menaati – perkataan kami, melalui – surat, orang–ini tandailah jangan bergaul dengannya, supaya dia–malu.
--- c003-v015: Dan jangan sebagai musuh anggaplah, tetapi nasihatilah sebagai saudara.
--- c003-v016: Dia–sendiri dan – Tuhan – damai–sejahtera, kiranya–memberikan kepadamu – damai–sejahtera senantiasa, dalam–segala di setiap cara. – Tuhan bersama semua kamu.
--- c003-v017: – Salam dengan– sendiri tangan— Paulus, yang adalah tanda dalam setiap surat: demikianlah aku–menulis.
--- c003-v018: – Anugerah – Tuhan kita, Yesus Kristus, bersama semua kamu. Amin.
-
+-- c001-v001-chirho.sql
+-- 2THESSALONIANS c1-v1 - IND
+-- Paulus, dan Silwanus, dan Timotius, kepada– jemaat orang–Tesalonika, di–dalam Allah Bapa kita, dan Tuhan Yesus Kristus.
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 5300100101: Παῦλος, (G3972) → "Paulus," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -313,8 +267,10 @@ WHERE pw.word_id = '5300100116' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v002-chirho.sql
+-- 2THESSALONIANS c1-v2 - IND
+-- Anugerah kepadamu dan damai–sejahtera, dari Allah Bapa kita, dan Tuhan Yesus Kristus.
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 5300100201: χάρις (G5485) → "Anugerah" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -509,8 +465,10 @@ WHERE pw.word_id = '5300100212' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v003-chirho.sql
+-- 2THESSALONIANS c1-v3 - IND
+-- Bersyukur kami–harus – kepada–Allah selalu, tentang kamu, saudara–saudara, sebagaimana layak adalah, karena bertumbuh–pesat – iman kamu, dan berlimpah – kasih satu setiap semua, kamu kepada satu–sama–lain;
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 5300100301: Εὐχαριστεῖν (G2168) → "Bersyukur" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -929,8 +887,10 @@ WHERE pw.word_id = '5300100326' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v004-chirho.sql
+-- 2THESSALONIANS c1-v4 - IND
+-- sehingga kami–sendiri, kami di–antara kamu bermegah, di–dalam – jemaat–jemaat – Allah, karena – ketekunan kamu, dan iman dalam semua – penganiayaan kamu, dan – penderitaan–penderitaan yang kamu–tanggung;
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 5300100401: ὥστε (G5620) → "sehingga" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1365,8 +1325,10 @@ WHERE pw.word_id = '5300100427' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v005-chirho.sql
+-- 2THESSALONIANS c1-v5 - IND
+-- bukti – adil penghakiman – Allah untuk – dianggap–layak kamu – Kerajaan – Allah, untuk yang juga kamu–menderita;
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 5300100501: ἔνδειγμα (G1730) → "bukti" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1657,8 +1619,10 @@ WHERE pw.word_id = '5300100518' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v006-chirho.sql
+-- 2THESSALONIANS c1-v6 - IND
+-- jika–memang adil di–hadapan Allah, membalas kepada–orang–orang–yang menekan kamu, penekanan,
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 5300100601: εἴπερ (G1512) → "jika–memang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1805,8 +1769,10 @@ WHERE pw.word_id = '5300100609' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v007-chirho.sql
+-- 2THESSALONIANS c1-v7 - IND
+-- dan kepadamu yang ditekan, kelegaan bersama kami, pada – penyingkapan – Tuhan Yesus dari surga, bersama malaikat–malaikat kuasa milik-Nya,
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 5300100701: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2113,8 +2079,10 @@ WHERE pw.word_id = '5300100719' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v008-chirho.sql
+-- 2THESSALONIANS c1-v8 - IND
+-- dalam api nyala, memberikan pembalasan kepada–orang–orang–yang tidak mengenal Allah, dan kepada–orang–orang–yang tidak menaati – Injil – Tuhan kita, Yesus;
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 5300100801: ἐν (G1722) → "dalam" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2421,8 +2389,10 @@ WHERE pw.word_id = '5300100819' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v009-chirho.sql
+-- 2THESSALONIANS c1-v9 - IND
+-- yang hukuman akan–membayar, kebinasaan kekal, dari hadirat – Tuhan, dan dari – kemuliaan – kekuatan milik-Nya;
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 5300100901: οἵτινες (G3748) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2681,8 +2651,10 @@ WHERE pw.word_id = '5300100916' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v010-chirho.sql
+-- 2THESSALONIANS c1-v10 - IND
+-- ketika Dia–datang dimuliakan di–antara – orang–orang–kudus milik-Nya, dan dikagumi di–antara semua – orang–orang–percaya, karena dipercayai – kesaksian kami kepada kamu, pada – hari itu.
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 5300101001: ὅταν (G3752) → "ketika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3069,8 +3041,10 @@ WHERE pw.word_id = '5300101024' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v011-chirho.sql
+-- 2THESSALONIANS c1-v11 - IND
+-- Untuk yang juga kami–berdoa selalu untuk kamu, supaya kamu layakkan – panggilan – Allah kita, dan Dia–genapkan setiap kesenangan kebaikan, dan pekerjaan iman dengan kuasa,
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 5300101101: Εἰς (G1519) → "Untuk" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3473,8 +3447,10 @@ WHERE pw.word_id = '5300101125' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c001-v012-chirho.sql
+-- 2THESSALONIANS c1-v12 - IND
+-- supaya dimuliakan – nama – Tuhan kita, Yesus, di–dalam kamu, dan kamu di–dalam Dia, menurut – anugerah – Allah kita, dan Tuhan Yesus Kristus.
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 5300101201: ὅπως (G3704) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3861,8 +3837,10 @@ WHERE pw.word_id = '5300101224' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v001-chirho.sql
+-- 2THESSALONIANS c2-v1 - IND
+-- Kami–minta dan kamu, saudara–saudara, mengenai – kedatangan – Tuhan kita, Yesus Kristus, dan kita pengumpulan kepada Dia,
 BEGIN;
--- === Chapter 2 Verse 1 ===
 -- 5300200101: Ἐρωτῶμεν (G2065) → "Kami–minta" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4137,8 +4115,10 @@ WHERE pw.word_id = '5300200117' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v002-chirho.sql
+-- 2THESSALONIANS c2-v2 - IND
+-- untuk – tidak dengan–cepat digoncangkan kamu dari – pikiran, juga–tidak digelisahkan, baik oleh roh, baik oleh perkataan, baik oleh surat, seolah–olah dari kami, seolah–olah bahwa sudah–datang – hari – Tuhan.
 BEGIN;
--- === Chapter 2 Verse 2 ===
 -- 5300200201: εἰς (G1519) → "untuk" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4621,8 +4601,10 @@ WHERE pw.word_id = '5300200230' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v003-chirho.sql
+-- 2THESSALONIANS c2-v3 - IND
+-- Jangan seorang kamu menipu dengan cara–apapun cara, karena jika–tidak – datang – kemurtadan dahulu, dan dinyatakan – manusia – pelanggaran–hukum, – anak – kebinasaan;
 BEGIN;
--- === Chapter 2 Verse 3 ===
 -- 5300200301: μή (G3361) → "Jangan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5009,8 +4991,10 @@ WHERE pw.word_id = '5300200324' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v004-chirho.sql
+-- 2THESSALONIANS c2-v4 - IND
+-- yang melawan dan meninggikan–diri atas segala yang–disebut Allah atau yang–disembah, sehingga dia di–dalam – Bait – Allah duduk, menyatakan dirinya–sendiri bahwa adalah Allah.
 BEGIN;
--- === Chapter 2 Verse 4 ===
 -- 5300200401: ὁ (G3588) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5381,8 +5365,10 @@ WHERE pw.word_id = '5300200423' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v005-chirho.sql
+-- 2THESSALONIANS c2-v5 - IND
+-- Tidak kamu–ingat bahwa, masih ketika dengan kamu, hal–hal–ini kukatakan kepadamu?
 BEGIN;
--- === Chapter 2 Verse 5 ===
 -- 5300200501: Οὐ (G3756) → "Tidak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5545,8 +5531,10 @@ WHERE pw.word_id = '5300200510' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v006-chirho.sql
+-- 2THESSALONIANS c2-v6 - IND
+-- Dan sekarang – yang–menahan, kamu–tahu, untuk – dinyatakan dia pada – miliknya–sendiri waktu.
 BEGIN;
--- === Chapter 2 Verse 6 ===
 -- 5300200601: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5757,8 +5745,10 @@ WHERE pw.word_id = '5300200613' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v007-chirho.sql
+-- 2THESSALONIANS c2-v7 - IND
+-- – Karena rahasia, sudah bekerja, – pelanggaran–hukum; hanya – yang–menahan sekarang sampai dari tengah ia–disingkirkan.
 BEGIN;
--- === Chapter 2 Verse 7 ===
 -- 5300200701: τὸ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6001,8 +5991,10 @@ WHERE pw.word_id = '5300200715' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v008-chirho.sql
+-- 2THESSALONIANS c2-v8 - IND
+-- Dan kemudian akan–dinyatakan – si–jahat, yang – Tuhan Yesus akan–membunuh dengan– nafas – mulut milik-Nya, dan akan–menghancurkan dengan– penampakan – kedatangan milik-Nya;
 BEGIN;
--- === Chapter 2 Verse 8 ===
 -- 5300200801: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6357,8 +6349,10 @@ WHERE pw.word_id = '5300200822' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v009-chirho.sql
+-- 2THESSALONIANS c2-v9 - IND
+-- yang adalah – kedatangan, menurut pekerjaan – Setan, dengan segala kuasa, dan tanda–tanda, dan keajaiban–keajaiban dusta,
 BEGIN;
--- === Chapter 2 Verse 9 ===
 -- 5300200901: οὗ (G3739) → "yang" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6617,8 +6611,10 @@ WHERE pw.word_id = '5300200916' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v010-chirho.sql
+-- 2THESSALONIANS c2-v10 - IND
+-- dan dengan segala tipu–daya kejahatan, bagi–orang–orang–yang binasa, karena – – kasih – kebenaran tidak mereka–terima, untuk – diselamatkan mereka.
 BEGIN;
--- === Chapter 2 Verse 10 ===
 -- 5300201001: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6925,8 +6921,10 @@ WHERE pw.word_id = '5300201019' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v011-chirho.sql
+-- 2THESSALONIANS c2-v11 - IND
+-- Dan karena–itu ini mengirimkan kepada–mereka – Allah pekerjaan kesesatan, untuk – percaya mereka – kebohongan;
 BEGIN;
--- === Chapter 2 Verse 11 ===
 -- 5300201101: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7169,8 +7167,10 @@ WHERE pw.word_id = '5300201115' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v012-chirho.sql
+-- 2THESSALONIANS c2-v12 - IND
+-- supaya dihakimi semua orang–yang tidak percaya – kebenaran, tetapi menyukai – kejahatan.
 BEGIN;
--- === Chapter 2 Verse 12 ===
 -- 5300201201: ἵνα (G2443) → "supaya" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7365,8 +7365,10 @@ WHERE pw.word_id = '5300201212' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v013-chirho.sql
+-- 2THESSALONIANS c2-v13 - IND
+-- Kami tetapi harus bersyukur – kepada–Allah selalu untuk kamu, saudara–saudara yang–dikasihi oleh Tuhan, karena memilih kamu – Allah, dari permulaan, untuk keselamatan dalam pengudusan Roh, dan iman kebenaran;
 BEGIN;
--- === Chapter 2 Verse 13 ===
 -- 5300201301: Ἡμεῖς (G1473) → "Kami" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7817,8 +7819,10 @@ WHERE pw.word_id = '5300201328' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v014-chirho.sql
+-- 2THESSALONIANS c2-v14 - IND
+-- untuk yang juga Dia–memanggil kamu, melalui – Injil kami, untuk memperoleh kemuliaan – Tuhan kita, Yesus Kristus.
 BEGIN;
--- === Chapter 2 Verse 14 ===
 -- 5300201401: εἰς (G1519) → "untuk" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8093,8 +8097,10 @@ WHERE pw.word_id = '5300201417' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v015-chirho.sql
+-- 2THESSALONIANS c2-v15 - IND
+-- Karena–itu maka, saudara–saudara, berdirilah–teguh, dan peganglah – tradisi–tradisi yang kamu–diajarkan, baik melalui perkataan, baik melalui surat kami.
 BEGIN;
--- === Chapter 2 Verse 15 ===
 -- 5300201501: Ἄρα (G0686) → "Karena–itu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8369,8 +8375,10 @@ WHERE pw.word_id = '5300201517' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v016-chirho.sql
+-- 2THESSALONIANS c2-v16 - IND
+-- Dia–sendiri dan – Tuhan kita, Yesus Kristus, dan – Allah, – Bapa kita, yang mengasihi kita, dan memberikan penghiburan kekal, dan pengharapan baik dalam anugerah,
 BEGIN;
--- === Chapter 2 Verse 16 ===
 -- 5300201601: Αὐτὸς (G0846) → "Dia–sendiri" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8773,8 +8781,10 @@ WHERE pw.word_id = '5300201625' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c002-v017-chirho.sql
+-- 2THESSALONIANS c2-v17 - IND
+-- menghiburkan kamu – hati, dan meneguhkan dalam setiap perbuatan dan perkataan baik.
 BEGIN;
--- === Chapter 2 Verse 17 ===
 -- 5300201701: παρακαλέσαι (G3870) → "menghiburkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8969,8 +8979,10 @@ WHERE pw.word_id = '5300201712' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v001-chirho.sql
+-- 2THESSALONIANS c3-v1 - IND
+-- – Akhirnya, berdoalah, saudara–saudara, untuk kami, supaya – firman – Tuhan berlari dan dimuliakan, sama–seperti juga pada kamu;
 BEGIN;
--- === Chapter 3 Verse 1 ===
 -- 5300300101: Τὸ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9261,8 +9273,10 @@ WHERE pw.word_id = '5300300118' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v002-chirho.sql
+-- 2THESSALONIANS c3-v2 - IND
+-- dan supaya kami–dibebaskan dari – jahat dan fasik orang–orang; tidak karena semua–orang – iman.
 BEGIN;
--- === Chapter 3 Verse 2 ===
 -- 5300300201: καὶ (G2532) → "dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9489,8 +9503,10 @@ WHERE pw.word_id = '5300300214' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v003-chirho.sql
+-- 2THESSALONIANS c3-v3 - IND
+-- Setia namun adalah – Tuhan, yang akan–menguatkan kamu, dan menjaga dari – si–jahat.
 BEGIN;
--- === Chapter 3 Verse 3 ===
 -- 5300300301: Πιστὸς (G4103) → "Setia" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9701,8 +9717,10 @@ WHERE pw.word_id = '5300300313' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v004-chirho.sql
+-- 2THESSALONIANS c3-v4 - IND
+-- Kami–yakin dan dalam Tuhan, tentang kamu, bahwa apa–yang kami–perintahkan, baik kamu–lakukan dan akan–kamu–lakukan.
 BEGIN;
--- === Chapter 3 Verse 4 ===
 -- 5300300401: πεποίθαμεν (G3982) → "Kami–yakin" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9913,8 +9931,10 @@ WHERE pw.word_id = '5300300413' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v005-chirho.sql
+-- 2THESSALONIANS c3-v5 - IND
+-- – Dan Tuhan kiranya–mengarahkan kamu – hati kepada – kasih – Allah, dan kepada – ketekunan – Kristus.
 BEGIN;
--- === Chapter 3 Verse 5 ===
 -- 5300300501: Ὁ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10205,8 +10225,10 @@ WHERE pw.word_id = '5300300518' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v006-chirho.sql
+-- 2THESSALONIANS c3-v6 - IND
+-- Kami–memerintahkan dan kepadamu, saudara–saudara, dalam nama – Tuhan kita, Yesus Kristus, menarik–diri kamu dari setiap saudara tidak–tertib yang–hidup, dan tidak menurut – tradisi yang mereka–terima dari kami.
 BEGIN;
--- === Chapter 3 Verse 6 ===
 -- 5300300601: Παραγγέλλομεν (G3853) → "Kami–memerintahkan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10641,8 +10663,10 @@ WHERE pw.word_id = '5300300627' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v007-chirho.sql
+-- 2THESSALONIANS c3-v7 - IND
+-- Kamu–sendiri karena, kamu–tahu bagaimana harus meniru kami, karena tidak kami–berlaku–tidak–tertib di–antara kamu;
 BEGIN;
--- === Chapter 3 Verse 7 ===
 -- 5300300701: αὐτοὶ (G0846) → "Kamu–sendiri" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -10837,8 +10861,10 @@ WHERE pw.word_id = '5300300712' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v008-chirho.sql
+-- 2THESSALONIANS c3-v8 - IND
+-- juga–tidak dengan–cuma–cuma roti kami–makan dari siapa–pun, tetapi dengan jerih–payah dan lelah, malam dan siang bekerja, untuk – tidak membebani siapa–pun dari–kamu.
 BEGIN;
--- === Chapter 3 Verse 8 ===
 -- 5300300801: οὐδὲ (G3761) → "juga–tidak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11177,8 +11203,10 @@ WHERE pw.word_id = '5300300821' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v009-chirho.sql
+-- 2THESSALONIANS c3-v9 - IND
+-- bukan karena tidak kami–mempunyai hak, tetapi supaya diri–kami–sendiri teladan kami–berikan kepadamu, untuk – meniru kami.
 BEGIN;
--- === Chapter 3 Verse 9 ===
 -- 5300300901: οὐχ (G3756) → "bukan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11421,8 +11449,10 @@ WHERE pw.word_id = '5300300915' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v010-chirho.sql
+-- 2THESSALONIANS c3-v10 - IND
+-- Dan juga, ketika kami–bersama dengan kamu, ini kami–perintahkan kepadamu, bahwa jika seseorang tidak mau bekerja, juga–jangan dia–makan.
 BEGIN;
--- === Chapter 3 Verse 10 ===
 -- 5300301001: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11697,8 +11727,10 @@ WHERE pw.word_id = '5300301017' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v011-chirho.sql
+-- 2THESSALONIANS c3-v11 - IND
+-- Kami–mendengar karena beberapa–orang hidup di–antara kamu tidak–tertib, tidak–ada bekerja, tetapi sibuk–mencampuri–urusan–orang–lain.
 BEGIN;
--- === Chapter 3 Verse 11 ===
 -- 5300301101: ἀκούομεν (G0191) → "Kami–mendengar" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -11877,8 +11909,10 @@ WHERE pw.word_id = '5300301111' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v012-chirho.sql
+-- 2THESSALONIANS c3-v12 - IND
+-- kepada–orang– dan seperti–itu, kami–memerintahkan dan kami–menasihati dalam Tuhan Yesus Kristus, supaya dengan ketenangan bekerja, – mereka–sendiri roti mereka–makan.
 BEGIN;
--- === Chapter 3 Verse 12 ===
 -- 5300301201: τοῖς (G3588) → "kepada–orang–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12169,8 +12203,10 @@ WHERE pw.word_id = '5300301218' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v013-chirho.sql
+-- 2THESSALONIANS c3-v13 - IND
+-- Kamu namun, saudara–saudara, jangan menjadi–lelah berbuat–baik.
 BEGIN;
--- === Chapter 3 Verse 13 ===
 -- 5300301301: Ὑμεῖς (G4771) → "Kamu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12269,8 +12305,10 @@ WHERE pw.word_id = '5300301306' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v014-chirho.sql
+-- 2THESSALONIANS c3-v14 - IND
+-- Jika dan seseorang tidak menaati – perkataan kami, melalui – surat, orang–ini tandailah jangan bergaul dengannya, supaya dia–malu.
 BEGIN;
--- === Chapter 3 Verse 14 ===
 -- 5300301401: εἰ (G1487) → "Jika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12561,8 +12599,10 @@ WHERE pw.word_id = '5300301418' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v015-chirho.sql
+-- 2THESSALONIANS c3-v15 - IND
+-- Dan jangan sebagai musuh anggaplah, tetapi nasihatilah sebagai saudara.
 BEGIN;
--- === Chapter 3 Verse 15 ===
 -- 5300301501: καὶ (G2532) → "Dan" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -12709,8 +12749,10 @@ WHERE pw.word_id = '5300301509' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v016-chirho.sql
+-- 2THESSALONIANS c3-v16 - IND
+-- Dia–sendiri dan – Tuhan – damai–sejahtera, kiranya–memberikan kepadamu – damai–sejahtera senantiasa, dalam–segala di setiap cara. – Tuhan bersama semua kamu.
 BEGIN;
--- === Chapter 3 Verse 16 ===
 -- 5300301601: Αὐτὸς (G0846) → "Dia–sendiri" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13033,8 +13075,10 @@ WHERE pw.word_id = '5300301620' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v017-chirho.sql
+-- 2THESSALONIANS c3-v17 - IND
+-- – Salam dengan– sendiri tangan— Paulus, yang adalah tanda dalam setiap surat: demikianlah aku–menulis.
 BEGIN;
--- === Chapter 3 Verse 17 ===
 -- 5300301701: Ὁ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -13261,8 +13305,10 @@ WHERE pw.word_id = '5300301714' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- c003-v018-chirho.sql
+-- 2THESSALONIANS c3-v18 - IND
+-- – Anugerah – Tuhan kita, Yesus Kristus, bersama semua kamu. Amin.
 BEGIN;
--- === Chapter 3 Verse 18 ===
 -- 5300301801: ἡ (G3588) → "–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
