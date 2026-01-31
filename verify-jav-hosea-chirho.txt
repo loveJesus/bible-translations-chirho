@@ -1,0 +1,38 @@
+Hosea 5:14: Missing 1 glosses: מַצִּֽיל׃
+Hosea 5:15: Missing 2 glosses: לָהֶ֖ם, יְשַׁחֲרֻֽנְנִי׃
+Hosea 6:9: Missing 1 glosses: עָשֽׂוּ׃
+Hosea 6:10: Missing 1 glosses: יִשְׂרָאֵֽל׃
+Hosea 6:11: Missing 2 glosses: עַמִּֽי׃, פ
+Hosea 7:4: Missing 1 glosses: חֻמְצָתֽוֹ׃
+Hosea 7:6: Missing 2 glosses: כְּאֵ֥שׁ, לֶהָבָֽה׃
+Hosea 7:14: Missing 2 glosses: יָס֥וּרוּ, בִֽי׃
+Hosea 8:5: Missing 2 glosses: יוּכְל֖וּ, נִקָּיֹֽן׃
+Hosea 8:7: Missing 1 glosses: יִבְלָעֻֽהוּ׃
+Hosea 8:12: Missing 3 glosses: כְּמוֹ־, זָ֖ר, נֶחְשָֽׁבוּ׃
+Hosea 9:1: Missing 1 glosses: דָּגָֽן׃
+Hosea 9:2: Missing 1 glosses: בָּֽהּ׃
+Hosea 9:8: Missing 1 glosses: אֱלֹהָֽיו׃
+Hosea 9:9: Missing 1 glosses: ס
+Hosea 9:12: Missing 1 glosses: מֵהֶֽם׃
+Hosea 9:14: Missing 2 glosses: וְשָׁדַ֖יִם, צֹמְקִֽים׃
+Hosea 9:16: Missing 2 glosses: בִטְנָֽם׃, ס
+Hosea 9:17: Missing 2 glosses: בַּגּוֹיִֽם׃, ס
+Hosea 10:4: Missing 1 glosses: שָׂדָֽי׃
+Hosea 10:7: Missing 1 glosses: מָֽיִם׃
+Hosea 10:8: Missing 1 glosses: ס
+Hosea 10:14: Missing 1 glosses: רֻטָּֽשָׁה׃
+Hosea 11:3: Missing 1 glosses: רְפָאתִֽים׃
+Hosea 11:4: Missing 1 glosses: אוֹכִֽיל׃
+Hosea 11:5: Missing 1 glosses: לָשֽׁוּב׃
+Hosea 11:11: Missing 1 glosses: ס
+Hosea 12:1: Missing 2 glosses: לְמִצְרַ֥יִם, יוּבָֽל׃
+Hosea 12:11: Missing 1 glosses: שָׂדָֽי׃
+Hosea 13:2: Missing 1 glosses: יִשָּׁקֽוּן׃
+Hosea 13:7: Missing 2 glosses: דֶּ֥רֶךְ, אָשֽׁוּר׃
+Hosea 13:10: Missing 1 glosses: וְשָׂרִֽים׃
+Hosea 13:11: Missing 1 glosses: ס
+Hosea 14:2: Missing 8 glosses: כָּל־, תִּשָּׂ֤א, עָוֺן֙, וְקַח־, ט֔וֹב, וּֽנְשַׁלְּמָ֥ה, פָרִ֖ים, שְׂפָתֵֽינוּ׃
+Hosea 14:3: Missing 1 glosses: יָתֽוֹם׃
+Hosea 14:7: Missing 3 glosses: כְּיֵ֥ין, לְבָנֽוֹן׃, ס
+Hosea 14:8: Missing 4 glosses: רַֽעֲנָ֔ן, מִמֶּ֖נִּי, פֶּרְיְךָ֥, נִמְצָֽא׃
+Hosea 14:9: Missing 4 glosses: בָ֔ם, וּפֹשְׁעִ֖ים, יִכָּ֥שְׁלוּ, בָֽם׃

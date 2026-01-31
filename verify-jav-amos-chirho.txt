@@ -1,0 +1,51 @@
+Amos 3:2: Missing 2 glosses: כָּל־, עֲוֺנֹֽתֵיכֶֽם׃
+Amos 3:5: Missing 1 glosses: יִלְכּֽוֹד׃
+Amos 3:6: Missing 2 glosses: לֹ֥א, עָשָֽׂה׃
+Amos 3:7: Missing 1 glosses: הַנְּבִיאִֽים׃
+Amos 3:9: Missing 3 glosses: בְּתוֹכָ֔הּ, וַעֲשׁוּקִ֖ים, בְּקִרְבָּֽהּ׃
+Amos 3:10: Missing 1 glosses: פ
+Amos 4:2: Missing 1 glosses: דּוּגָֽה׃
+Amos 4:3: Missing 1 glosses: יְהוָֽה׃
+Amos 4:4: Missing 1 glosses: מַעְשְׂרֹֽתֵיכֶֽם׃
+Amos 4:6: Missing 1 glosses: יְהוָֽה׃
+Amos 4:7: Missing 2 glosses: עָלֶ֖יהָ, תִּיבָֽשׁ׃
+Amos 4:9: Missing 1 glosses: ס
+Amos 4:11: Missing 1 glosses: ס
+Amos 4:12: Missing 1 glosses: יִשְׂרָאֵֽל׃
+Amos 4:13: Missing 2 glosses: שְׁמֽוֹ׃, ס
+Amos 5:1: Missing 2 glosses: בֵּ֥ית, יִשְׂרָאֵֽל׃
+Amos 5:2: Missing 2 glosses: אֵ֥ין, מְקִימָֽהּ׃
+Amos 5:6: Missing 1 glosses: לְבֵֽית־אֵֽל׃
+Amos 5:8: Missing 2 glosses: שְׁמֽוֹ׃, ס
+Amos 5:9: Missing 2 glosses: מִבְצָ֥ר, יָבֽוֹא׃
+Amos 5:11: Missing 1 glosses: יֵינָֽם׃
+Amos 5:14: Missing 1 glosses: אֲמַרְתֶּֽם׃
+Amos 5:16: Missing 4 glosses: וּמִסְפֵּ֖ד, אֶל־, י֥וֹדְעֵי, נֶֽהִי׃
+Amos 5:18: Missing 2 glosses: וְלֹא־, אֽוֹר׃
+Amos 5:19: Missing 2 glosses: וּנְשָׁכ֖וֹ, הַנָּחָֽשׁ׃
+Amos 5:25: Missing 1 glosses: יִשְׂרָאֵֽל׃
+Amos 5:26: Missing 2 glosses: עֲשִׂיתֶ֖ם, לָכֶֽם׃
+Amos 6:4: Missing 2 glosses: מִתּ֥וֹךְ, מַרְבֵּֽק׃
+Amos 6:10: Missing 1 glosses: יְהוָֽה׃
+Amos 6:12: Missing 1 glosses: לְלַעֲנָֽה׃
+Amos 6:14: Missing 1 glosses: ס
+Amos 7:6: Missing 2 glosses: יְהוִֽה׃, ס
+Amos 7:7: Missing 1 glosses: אֲנָֽךְ׃
+Amos 7:8: Missing 2 glosses: עֲב֥וֹר, לֽוֹ׃
+Amos 7:11: Missing 2 glosses: אַדְמָתֽוֹ׃, ס
+Amos 7:13: Missing 2 glosses: הֽוּא׃, ס
+Amos 7:17: Missing 2 glosses: אַדְמָתֽוֹ׃, ס
+Amos 8:2: Missing 1 glosses: לֽוֹ׃
+Amos 8:3: Missing 2 glosses: הָֽס׃, פ
+Amos 8:4: Missing 1 glosses: אָֽרֶץ׃
+Amos 8:8: Missing 2 glosses: מִצְרָֽיִם׃, ס
+Amos 8:10: Missing 2 glosses: כְּי֥וֹם, מָֽר׃
+Amos 8:11: Missing 1 glosses: יְהוָֽה׃
+Amos 9:3: Missing 1 glosses: וּנְשָׁכָֽם׃
+Amos 9:6: Missing 2 glosses: יְהוָ֥ה, שְׁמֽוֹ׃
+Amos 9:8: Missing 1 glosses: יְהוָֽה׃
+Amos 9:9: Missing 2 glosses: צְר֖וֹר, אָֽרֶץ׃
+Amos 9:11: Missing 1 glosses: עוֹלָֽם׃
+Amos 9:12: Missing 1 glosses: פ
+Amos 9:14: Missing 1 glosses: פְּרִיהֶֽם׃
+Amos 9:15: Missing 2 glosses: יְהוָ֥ה, אֱלֹהֶֽיךָ׃
