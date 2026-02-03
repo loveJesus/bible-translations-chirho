@@ -2,3 +2,8 @@
 # Large combined SQL files (too big for GitHub)
 urdu-*-complete-chirho.sql
 urdu-full-import-chirho.sql
+full-bible-*-chirho.sql
+
+# Generated files - can be recreated from individual verse files
+full-bible-*-chirho.sql
+*/all-verses-chirho.sql
