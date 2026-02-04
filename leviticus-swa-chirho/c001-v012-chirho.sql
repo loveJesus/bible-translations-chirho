@@ -3,10 +3,10 @@
 -- — John 3:16
 
 -- LEVITICUS c1-v12 - SWA
--- Na–atakata hiyo vipande–vyake na– kichwa–chake na– mafuta–yake na–atapanga kuhani hivyo juu–ya kuni ambazo juu–ya moto ambao juu–ya madhabahu
+-- Na–ataikata hiyo vipande–vyake na– kichwa–chake na– mafuta–yake na–atapanga kuhani hivyo juu–ya kuni ambazo juu–ya moto ambao juu–ya madhabahu
 
 BEGIN;
--- 0300101201: וְנִתַּ֤ח (H5408) → "Na–atakata" [opus-4.5-chirho]
+-- 0300101201: וְנִתַּ֤ח (H5408) → "Na–ataikata" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -18,7 +18,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0300101201' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'Na–atakata', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'Na–ataikata', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0300101201' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

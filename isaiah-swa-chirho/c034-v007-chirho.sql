@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- ISAIAH c34-v7 - SWA
--- Na–watashuka nyati pamoja–nao na–ng'ombe–wadogo pamoja–na ng'ombe–wenye–nguvu na–italewa nchi–yao kwa–damu na–mavumbi–yao kwa–mafuta yatanona
+-- Na–watashuka nyati pamoja–nao na–ng'ombe–dume pamoja–na– wenye–nguvu na–italewa nchi–yao kwa–damu na–mavumbi–yao kwa–mafuta yatanona
 
 BEGIN;
 -- 2303400701: וְיָרְד֤וּ (H3381) → "Na–watashuka" [opus-4.5-chirho]
@@ -54,7 +54,7 @@ SELECT p.id, 'pamoja–nao', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '2303400703' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 2303400704: וּפָרִ֖ים (H6499) → "na–ng'ombe–wadogo" [opus-4.5-chirho]
+-- 2303400704: וּפָרִ֖ים (H6499) → "na–ng'ombe–dume" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -66,11 +66,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2303400704' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'na–ng''ombe–wadogo', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'na–ng''ombe–dume', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '2303400704' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 2303400705: עִם־ (H5973a) → "pamoja–na" [opus-4.5-chirho]
+-- 2303400705: עִם־ (H5973a) → "pamoja–na–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -82,11 +82,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2303400705' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'pamoja–na', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'pamoja–na–', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '2303400705' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 2303400706: אַבִּירִ֑ים (H0047) → "ng'ombe–wenye–nguvu" [opus-4.5-chirho]
+-- 2303400706: אַבִּירִ֑ים (H0047) → "wenye–nguvu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -98,7 +98,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2303400706' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'ng''ombe–wenye–nguvu', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'wenye–nguvu', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '2303400706' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

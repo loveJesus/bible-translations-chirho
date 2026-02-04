@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- NUMBERS c19-v3 - SWA
--- Na–mtoe yeye kwa– Eleazari kuhani na–amtoe yeye kwa– nje–ya kambi na–amchinje yeye mbele–yake
+-- Na–mtoe yeye kwa– Eleazari kuhani na–amtoe yeye kwa– nje–ya kambi na–achinje yeye mbele–yake
 
 BEGIN;
 -- 0401900301: וּנְתַתֶּ֣ם (H5414) → "Na–mtoe" [opus-4.5-chirho]
@@ -166,7 +166,7 @@ SELECT p.id, 'kambi', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0401900310' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0401900311: וְשָׁחַ֥ט (H7819a) → "na–amchinje" [opus-4.5-chirho]
+-- 0401900311: וְשָׁחַ֥ט (H7819a) → "na–achinje" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -178,7 +178,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0401900311' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'na–amchinje', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'na–achinje', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0401900311' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

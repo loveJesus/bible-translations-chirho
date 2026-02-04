@@ -3,10 +3,10 @@
 -- — John 3:16
 
 -- 2SAMUEL c2-v25 - SWA
--- na–wakakusanyika wana–wa Benyamini nyuma–ya Abneri na–wakawa kundi moja na–wakasimama juu–ya kilele–cha kilima kimoja
+-- Na–wakakusanyika wana–wa Benyamini nyuma–ya Abneri na–wakawa kundi moja na–wakasimama juu–ya kilele–cha kilima kimoja
 
 BEGIN;
--- 1000202501: וַיִּֽתְקַבְּצ֤וּ (H6908) → "na–wakakusanyika" [opus-4.5-chirho]
+-- 1000202501: וַיִּֽתְקַבְּצ֤וּ (H6908) → "Na–wakakusanyika" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -18,7 +18,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '1000202501' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'na–wakakusanyika', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'Na–wakakusanyika', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '1000202501' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

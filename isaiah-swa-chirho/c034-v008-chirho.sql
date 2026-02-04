@@ -3,10 +3,10 @@
 -- — John 3:16
 
 -- ISAIAH c34-v8 - SWA
--- Kwa–maana siku ya–kisasi kwa–Yahwe mwaka wa–malipo kwa–shauri la–Sayuni
+-- Kwa–sababu siku ya–kisasi kwa–Yahwe mwaka wa–malipo kwa–shauri la–Sayuni
 
 BEGIN;
--- 2303400801: כִּ֛י (H3588a) → "Kwa–maana" [opus-4.5-chirho]
+-- 2303400801: כִּ֛י (H3588a) → "Kwa–sababu" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -18,7 +18,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2303400801' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'Kwa–maana', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'Kwa–sababu', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '2303400801' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

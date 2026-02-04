@@ -3,10 +3,10 @@
 -- — John 3:16
 
 -- EXODUS c3-v17 - SWA
--- Na–nikasema nitawapandisha ninyi kutoka–mateso ya–Misri kwenda– nchi ya–Mkanaani na–Mhiti na–Mwamori na–Mperizi na–Mhivi na–Myebusi kwenda– nchi itiririkayo maziwa na–asali
+-- na–nilisema nitawapandisha ninyi kutoka–mateso ya–Misri kwenda– nchi ya–Mkanaani na–Mhiti na–Mwamori na–Mperizi na–Mhivi na–Myebusi kwenda– nchi itiririkayo maziwa na–asali
 
 BEGIN;
--- 0200301701: וָאֹמַ֗ר (H0559) → "Na–nikasema" [opus-4.5-chirho]
+-- 0200301701: וָאֹמַ֗ר (H0559) → "na–nilisema" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -18,7 +18,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0200301701' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'Na–nikasema', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'na–nilisema', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0200301701' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

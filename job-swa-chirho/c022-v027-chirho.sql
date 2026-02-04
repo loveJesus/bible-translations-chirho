@@ -3,10 +3,10 @@
 -- — John 3:16
 
 -- JOB c22-v27 - SWA
--- utaomba kwake na–atakusikia na–nadhiri–zako utatimiza
+-- Utamwomba kwake na–atakusikia na–nadhiri–zako utatimiza
 
 BEGIN;
--- 1802202701: תַּעְתִּ֣יר (H6279) → "utaomba" [opus-4.5-chirho]
+-- 1802202701: תַּעְתִּ֣יר (H6279) → "Utamwomba" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -18,7 +18,7 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '1802202701' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'utaomba', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'Utamwomba', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '1802202701' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;

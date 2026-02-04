@@ -3,10 +3,10 @@
 -- — John 3:16
 
 -- EXODUS c1-v3 - SWA
--- Isakari Zebuloni na–Benyamini
+-- Isakari Zebuluni na–Benyamini
 
 BEGIN;
--- 0200100301: יִשָּׂשכָ֥ר (H3485) → "Isakari" [opus-4.5-chirho]
+-- 0200100301: יִשָּׂשכָ֥ר (H3485) → "Isakari" [opus-4.5-swa-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -22,7 +22,7 @@ SELECT p.id, 'Isakari', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0200100301' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0200100302: זְבוּלֻ֖ן (H2074) → "Zebuloni" [opus-4.5-chirho]
+-- 0200100302: זְבוּלֻ֖ן (H2074) → "Zebuluni" [opus-4.5-swa-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
@@ -34,11 +34,11 @@ WITH np AS (
 )
 INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '0200100302' FROM np ON CONFLICT DO NOTHING;
 INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
-SELECT p.id, 'Zebuloni', 'UNAPPROVED', NOW(), 'IMPORT'
+SELECT p.id, 'Zebuluni', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '0200100302' AND p.language_id = (SELECT id FROM language WHERE code = 'swa') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
--- 0200100303: וּבְנְיָמִֽן׃‪‬ (H1144) → "na–Benyamini" [opus-4.5-chirho]
+-- 0200100303: וּבְנְיָמִֽן׃‪‬ (H1144) → "na–Benyamini" [opus-4.5-swa-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
   SELECT (SELECT id FROM language WHERE code = 'swa'), NOW()
