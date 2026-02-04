@@ -2,33 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- OBADIAH - TUR Combined
--- Generated: 2026-01-22T05:18:41.428Z
-
--- c001-v001: görüm Ovadya böyle– dedi Rab Yahve Edom'a haber duyduk –den Yahve ve–elçi milletlere gönderildi kalkın ve–kalkalım ona–karşı savaşa
--- c001-v002: işte küçük seni–yaptım milletler–arasında hor–görülen sen çok
--- c001-v003: gurur yüreğinin seni–aldattı oturan yarıklarında– kayanın yüksekliği oturma–yerinin diyen yüreğinde kim beni–indirecek yere
--- c001-v004: eğer– yükselirsen kartal–gibi ve–eğer– arasında yıldızların koysan yuvanı oradan seni–indireceğim bildirisi– Yahve'nin
--- c001-v005: eğer– hırsızlar gelseydi– sana eğer– soyguncular gecenin nasıl yok–edildin değil–mi çalarlardı yeterince eğer– bağcılar gelseydi sana değil–mi bırakırlardı artanları
--- c001-v006: nasıl arandı Esav ortaya–çıkarıldı gizli–hazineleri
--- c001-v007: –dek sınıra seni–gönderdiler tüm adamları antlaşmanın seni–aldattılar güçlendiler sana–karşı adamları barışının ekmeğin koydular tuzak altına yok anlayış onda
--- c001-v008: değil–mi günde o bildirisi– Yahve'nin ve–yok–edeceğim bilgeleri Edom'dan ve–anlayışı dağından Esav'ın
--- c001-v009: ve–yılgınlaşacak yiğitlerin Teman öyle–ki kesilsin– adam dağından Esav'ın kırımdan
--- c001-v010: şiddetten kardeşine Yakup'a seni–örtecek utanç ve–kesileceksin sonsuza–dek
--- c001-v011: günde durduğun karşıda günde tutsak–aldı yabancılar ordusunu ve–yabancılar girdi [kapılarına] (kapılarına) ve–üzerine– Yeruşalayim'in attılar kura ayrıca– sen biri–gibi onlardan
--- c001-v012: ve–yapma– bakma gününde– kardeşinin gününde felâketinin ve–yapma– sevinme oğullarına– Yahuda'nın gününde yıkımlarının ve–yapma– büyük–konuşma ağzın gününde sıkıntının
--- c001-v013: yapma– girme kapısına– halkımın gününde belâlarının yapma– bakma ayrıca– sen kötülüğüne gününde belâsının ve–yapma– uzatma ordusuna gününde belâsının
--- c001-v014: ve–yapma– durma üzerinde– geçidin kesmek–için –i kaçanlarını ve–yapma– teslim–etme sağ–kalanlarını gününde sıkıntının
--- c001-v015: çünkü– yakın günü– Yahve'nin üzerine– tüm– milletlerin nasıl yaptıysan yapılacak sana yaptığın dönecek başına
--- c001-v016: çünkü nasıl içtiniz üzerinde– dağın kutsal–dağımın içecek tüm– milletler sürekli ve–içecekler ve–yutacaklar ve–olacaklar sanki–olmamış–gibi oldular
--- c001-v017: ve–dağında Siyon'un olacak kurtuluş ve–olacak kutsal ve–miras–alacak evi Yakup'un –i mülklerini
--- c001-v018: ve–olacak evi– Yakup'un ateş ve–evi Yusuf'un alev ve–evi Esav'ın saman ve–tutuşturacaklar onları ve–yiyecekler ve–olmayacak– olacak sağ–kalan evine Esav'ın çünkü Yahve konuştu
--- c001-v019: ve–miras–alacak Negev –i dağını Esav'ın ve–Şefela –i Filistlilerin ve–miras–alacaklar –i tarlasını Efrayim'in ve– tarlasını Samiriye'nin ve–Benyamin –i Gilad'ı
--- c001-v020: ve–sürgünleri ordusunun– bu oğullarının İsrail'in ki– Kenanlılar –dek Sarefat'a ve–sürgünleri Yeruşalayim'in ki Sefarad'da miras–alacaklar –i şehirlerini Negev'in
--- c001-v021: ve–çıkacak kurtarıcılar dağına Siyon'un yargılamak–için –i dağını Esav'ın ve–olacak Yahve'nin krallık
+-- OBADIAH c1-v1 - TUR
+-- görüm Ovadya böyle– dedi Rab Yahve Edom'a haber duyduk –den Yahve ve–elçi milletlere gönderildi kalkın ve–kalkalım ona–karşı savaşa
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3100100101: חֲז֖וֹן (H2377) → "görüm" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -318,9 +295,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100118' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v2 - TUR
+-- işte küçük seni–yaptım milletler–arasında hor–görülen sen çok
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3100100201: הִנֵּ֥ה (H2009) → "işte" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -434,9 +416,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100207' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v3 - TUR
+-- gurur yüreğinin seni–aldattı oturan yarıklarında– kayanın yüksekliği oturma–yerinin diyen yüreğinde kim beni–indirecek yere
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3100100301: זְד֤וֹן (H2087) → "gurur" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -646,9 +633,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100313' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v4 - TUR
+-- eğer– yükselirsen kartal–gibi ve–eğer– arasında yıldızların koysan yuvanı oradan seni–indireceğim bildirisi– Yahve'nin
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3100100401: אִם־ (H0518a) → "eğer–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -842,9 +834,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100412' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v5 - TUR
+-- eğer– hırsızlar gelseydi– sana eğer– soyguncular gecenin nasıl yok–edildin değil–mi çalarlardı yeterince eğer– bağcılar gelseydi sana değil–mi bırakırlardı artanları
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3100100501: אִם־ (H0518a) → "eğer–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1150,9 +1147,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100519' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v6 - TUR
+-- nasıl arandı Esav ortaya–çıkarıldı gizli–hazineleri
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3100100601: אֵ֚יךְ (H0349a) → "nasıl" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1234,9 +1236,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100605' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v7 - TUR
+-- –dek sınıra seni–gönderdiler tüm adamları antlaşmanın seni–aldattılar güçlendiler sana–karşı adamları barışının ekmeğin koydular tuzak altına yok anlayış onda
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3100100701: עַֽד־ (H5704) → "–dek" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1526,9 +1533,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100718' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v8 - TUR
+-- değil–mi günde o bildirisi– Yahve'nin ve–yok–edeceğim bilgeleri Edom'dan ve–anlayışı dağından Esav'ın
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3100100801: הֲל֛וֹא (H3808) → "değil–mi" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1706,9 +1718,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100811' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v9 - TUR
+-- ve–yılgınlaşacak yiğitlerin Teman öyle–ki kesilsin– adam dağından Esav'ın kırımdan
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3100100901: וְחַתּ֥וּ (H2865) → "ve–yılgınlaşacak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1854,9 +1871,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100909' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v10 - TUR
+-- şiddetten kardeşine Yakup'a seni–örtecek utanç ve–kesileceksin sonsuza–dek
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3100101001: מֵחֲמַ֛ס (H2555) → "şiddetten" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1970,9 +1992,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101007' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v11 - TUR
+-- günde durduğun karşıda günde tutsak–aldı yabancılar ordusunu ve–yabancılar girdi [kapılarına] (kapılarına) ve–üzerine– Yeruşalayim'in attılar kura ayrıca– sen biri–gibi onlardan
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3100101101: בְּיוֹם֙ (H3117) → "günde" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2278,9 +2305,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101119' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v12 - TUR
+-- ve–yapma– bakma gününde– kardeşinin gününde felâketinin ve–yapma– sevinme oğullarına– Yahuda'nın gününde yıkımlarının ve–yapma– büyük–konuşma ağzın gününde sıkıntının
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3100101201: וְאַל־ (H0408) → "ve–yapma–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2554,9 +2586,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101217' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v13 - TUR
+-- yapma– girme kapısına– halkımın gününde belâlarının yapma– bakma ayrıca– sen kötülüğüne gününde belâsının ve–yapma– uzatma ordusuna gününde belâsının
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3100101301: אַל־ (H0408) → "yapma–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2846,9 +2883,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101318' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v14 - TUR
+-- ve–yapma– durma üzerinde– geçidin kesmek–için –i kaçanlarını ve–yapma– teslim–etme sağ–kalanlarını gününde sıkıntının
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3100101401: וְאַֽל־ (H0408) → "ve–yapma–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3042,9 +3084,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101412' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v15 - TUR
+-- çünkü– yakın günü– Yahve'nin üzerine– tüm– milletlerin nasıl yaptıysan yapılacak sana yaptığın dönecek başına
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3100101501: כִּֽי־ (H3588a) → "çünkü–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3270,9 +3317,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101514' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v16 - TUR
+-- çünkü nasıl içtiniz üzerinde– dağın kutsal–dağımın içecek tüm– milletler sürekli ve–içecekler ve–yutacaklar ve–olacaklar sanki–olmamış–gibi oldular
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3100101601: כִּ֗י (H3588a) → "çünkü" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3514,9 +3566,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101615' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v17 - TUR
+-- ve–dağında Siyon'un olacak kurtuluş ve–olacak kutsal ve–miras–alacak evi Yakup'un –i mülklerini
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3100101701: וּבְהַ֥ר (H2022) → "ve–dağında" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3694,9 +3751,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101711' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v18 - TUR
+-- ve–olacak evi– Yakup'un ateş ve–evi Yusuf'un alev ve–evi Esav'ın saman ve–tutuşturacaklar onları ve–yiyecekler ve–olmayacak– olacak sağ–kalan evine Esav'ın çünkü Yahve konuştu
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3100101801: וְהָיָה֩ (H1961) → "ve–olacak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4034,9 +4096,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101821' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v19 - TUR
+-- ve–miras–alacak Negev –i dağını Esav'ın ve–Şefela –i Filistlilerin ve–miras–alacaklar –i tarlasını Efrayim'in ve– tarlasını Samiriye'nin ve–Benyamin –i Gilad'ı
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 3100101901: וְיָרְשׁ֨וּ (H3423) → "ve–miras–alacak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4326,9 +4393,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101918' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v20 - TUR
+-- ve–sürgünleri ordusunun– bu oğullarının İsrail'in ki– Kenanlılar –dek Sarefat'a ve–sürgünleri Yeruşalayim'in ki Sefarad'da miras–alacaklar –i şehirlerini Negev'in
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 3100102001: וְגָלֻ֣ת (H1546) → "ve–sürgünleri" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4602,9 +4674,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102017' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v21 - TUR
+-- ve–çıkacak kurtarıcılar dağına Siyon'un yargılamak–için –i dağını Esav'ın ve–olacak Yahve'nin krallık
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 3100102101: וְעָל֤וּ (H5927) → "ve–çıkacak" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4782,4 +4859,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102111' AND p.language_id = (SELECT id FROM language WHERE code = 'tur') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-

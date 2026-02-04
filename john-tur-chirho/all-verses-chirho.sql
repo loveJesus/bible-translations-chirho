@@ -2,11 +2,6 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- Combined Turkish Translation - John
--- For God so loved the world, that He gave His only begotten Son,
--- that all who believe in Him should not perish but have everlasting life.
--- — John 3:16
-
 -- JOHN c1-v1 - TUR
 -- –Başlangıçta başlangıçta idi –o Söz ve –o Söz idi –yanında –o Tanrı ve Tanrı idi –o Söz
 
