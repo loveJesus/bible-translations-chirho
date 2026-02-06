@@ -2,37 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- JUDE - FRA Combined
--- Generated: 2026-01-22T05:18:23.637Z
-
--- c001-v001: Jude, de–Jésus Christ esclave, frère et de–Jacques, aux en Dieu Père aimés, et pour–Jésus Christ gardés appelés.
--- c001-v002: miséricorde à–vous, et paix, et amour soient–multipliés.
--- c001-v003: Bien-aimés, toute diligence faisant écrire à–vous concernant le commun notre salut, nécessité j'eus d'écrire à–vous, exhortant combattre pour–la une–fois transmise aux saints foi.
--- c001-v004: se–sont–glissés car certains hommes, ceux jadis écrits–d'avance pour ce le jugement; impies la, du Dieu notre, grâce, changeant en débauche, et le seul Maître, et Seigneur notre, Jésus Christ, reniant.
--- c001-v005: Rappeler et vous je–veux, sachant vous une–fois toutes–choses, que le Seigneur peuple de terre d'Égypte ayant–sauvé, la seconde–fois les ne ayant–cru, détruisit.
--- c001-v006: anges et, les n'ayant gardé la leur–propre domaine, mais ayant–abandonné le propre habitation, pour jugement du–grand jour, en–chaînes éternelles sous ténèbres il–a–gardés;
--- c001-v007: comme Sodome et Gomorrhe, et les autour d'elles villes, de–la semblable manière à–ceux-ci s'étant–prostituées, et étant–allées après chair autre, sont–exposées en–exemple, de–feu éternel peine subissant.
--- c001-v008: Semblablement pourtant aussi ceux-ci rêvant, chair d'une–part souillent, autorité et rejettent, gloires et blasphèment.
--- c001-v009: le mais Michaël le archange, quand au diable disputant, discutait concernant le de–Moïse corps, n'osa pas jugement porter de–blasphème, mais dit, Que–réprimande toi, le–Seigneur.
--- c001-v010: ceux-ci mais, autant–que d'une–part ne connaissent blasphèment; autant–que d'autre–part naturellement, comme les sans–raison animaux, comprennent, en ces–choses se–corrompent.
--- c001-v011: malheur à–eux! parce–que dans–la voie de Caïn ils–allèrent, et dans–l' erreur de Balaam pour–salaire se–précipitèrent, et dans–la rébellion de Coré périrent.
--- c001-v012: Ceux-ci sont les, dans les agapes vos, écueils; festoyant–ensemble sans–crainte, eux-mêmes paissant; nuées sans–eau, par vents emportées, arbres d'automne sans–fruit, deux–fois morts, déracinés;
--- c001-v013: vagues sauvages de–mer, écumant les leurs–propres hontes; étoiles errantes, pour–lesquelles la ténèbre de–l' obscurité pour éternité est–réservée.
--- c001-v014: Prophétisa et aussi à–ceux-ci, septième depuis Adam, Hénoc, disant: Voici, est–venu le–Seigneur avec saintes myriades de–lui,
--- c001-v015: faire jugement contre tous, et convaincre tous les impies, concernant toutes les œuvres d'impiété d'eux, lesquelles ils–commirent–impiété, et concernant toutes les dures–choses, lesquelles dirent contre lui pécheurs impies.
--- c001-v016: Ceux-ci sont murmurateurs, plaignants, selon les désirs d'eux marchant; et la bouche d'eux dit choses–enflées, admirant personnes, de–profit à–cause.
--- c001-v017: Vous mais, bien-aimés, souvenez-vous des paroles des dites–d'avance, par les apôtres du Seigneur notre, Jésus Christ,
--- c001-v018: que ils–disaient à–vous, que À dernière la période il–y–aura moqueurs, selon les leurs–propres désirs marchant, des impiétés.
--- c001-v019: Ceux-ci sont ceux qui–se–séparent, charnels, Esprit n'ayant pas.
--- c001-v020: vous mais, bien-aimés, vous–édifiant vous-mêmes, sur–la très–sainte votre foi en Esprit Saint priant;
--- c001-v021: vous-mêmes dans amour de–Dieu gardez, attendant la miséricorde du Seigneur notre, Jésus Christ, pour vie éternelle.
--- c001-v022: et ceux d'une–part ayez–pitié, doutant;
--- c001-v023: ceux d'autre–part sauvez, de feu arrachant; ceux d'autre–part ayez–pitié avec crainte, haïssant même le par la chair souillé vêtement.
--- c001-v024: À–celui et pouvant garder vous sans–chute, et faire–tenir devant la gloire de–lui, sans–tache dans allégresse,
--- c001-v025: seul Dieu Sauveur notre, par Jésus Christ le Seigneur notre, gloire, majesté, puissance, et autorité, avant tout l' âge et maintenant, et pour tous les âges. amen.
+-- JUDE c1-v1 - FRA
+-- Jude, de–Jésus Christ esclave, frère et de–Jacques, aux en Dieu Père aimés, et pour–Jésus Christ gardés appelés.
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6500100101: Ἰούδας, (G2455) → "Jude," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -306,9 +279,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100117' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v2 - FRA
+-- miséricorde à–vous, et paix, et amour soient–multipliés.
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6500100201: ἔλεος (G1656) → "miséricorde" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -422,9 +400,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100207' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v3 - FRA
+-- Bien-aimés, toute diligence faisant écrire à–vous concernant le commun notre salut, nécessité j'eus d'écrire à–vous, exhortant combattre pour–la une–fois transmise aux saints foi.
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6500100301: Ἀγαπητοί, (G0027) → "Bien-aimés," [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -794,9 +777,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100323' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v4 - FRA
+-- se–sont–glissés car certains hommes, ceux jadis écrits–d'avance pour ce le jugement; impies la, du Dieu notre, grâce, changeant en débauche, et le seul Maître, et Seigneur notre, Jésus Christ, reniant.
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6500100401: παρεισέδυσαν (G3921) → "se–sont–glissés" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1278,9 +1266,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100430' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v5 - FRA
+-- Rappeler et vous je–veux, sachant vous une–fois toutes–choses, que le Seigneur peuple de terre d'Égypte ayant–sauvé, la seconde–fois les ne ayant–cru, détruisit.
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6500100501: Ὑπομνῆσαι (G5279) → "Rappeler" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1634,9 +1627,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100522' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v6 - FRA
+-- anges et, les n'ayant gardé la leur–propre domaine, mais ayant–abandonné le propre habitation, pour jugement du–grand jour, en–chaînes éternelles sous ténèbres il–a–gardés;
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6500100601: ἀγγέλους (G0032) → "anges" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1990,9 +1988,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100622' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v7 - FRA
+-- comme Sodome et Gomorrhe, et les autour d'elles villes, de–la semblable manière à–ceux-ci s'étant–prostituées, et étant–allées après chair autre, sont–exposées en–exemple, de–feu éternel peine subissant.
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6500100701: ὡς (G5613) → "comme" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2394,9 +2397,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100725' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v8 - FRA
+-- Semblablement pourtant aussi ceux-ci rêvant, chair d'une–part souillent, autorité et rejettent, gloires et blasphèment.
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6500100801: Ὁμοίως (G3668) → "Semblablement" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2622,9 +2630,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100814' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v9 - FRA
+-- le mais Michaël le archange, quand au diable disputant, discutait concernant le de–Moïse corps, n'osa pas jugement porter de–blasphème, mais dit, Que–réprimande toi, le–Seigneur.
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6500100901: ὁ (G3588) → "le" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3010,9 +3023,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100924' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v10 - FRA
+-- ceux-ci mais, autant–que d'une–part ne connaissent blasphèment; autant–que d'autre–part naturellement, comme les sans–raison animaux, comprennent, en ces–choses se–corrompent.
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6500101001: οὗτοι (G3778) → "ceux-ci" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3302,9 +3320,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101018' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v11 - FRA
+-- malheur à–eux! parce–que dans–la voie de Caïn ils–allèrent, et dans–l' erreur de Balaam pour–salaire se–précipitèrent, et dans–la rébellion de Coré périrent.
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6500101101: οὐαὶ (G3759) → "malheur" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3642,9 +3665,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101121' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v12 - FRA
+-- Ceux-ci sont les, dans les agapes vos, écueils; festoyant–ensemble sans–crainte, eux-mêmes paissant; nuées sans–eau, par vents emportées, arbres d'automne sans–fruit, deux–fois morts, déracinés;
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6500101201: Οὗτοί (G3778) → "Ceux-ci" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4014,9 +4042,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101223' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v13 - FRA
+-- vagues sauvages de–mer, écumant les leurs–propres hontes; étoiles errantes, pour–lesquelles la ténèbre de–l' obscurité pour éternité est–réservée.
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6500101301: κύματα (G2949) → "vagues" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4290,9 +4323,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101317' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v14 - FRA
+-- Prophétisa et aussi à–ceux-ci, septième depuis Adam, Hénoc, disant: Voici, est–venu le–Seigneur avec saintes myriades de–lui,
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6500101401: Προεφήτευσεν (G4395) → "Prophétisa" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4550,9 +4588,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101416' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v15 - FRA
+-- faire jugement contre tous, et convaincre tous les impies, concernant toutes les œuvres d'impiété d'eux, lesquelles ils–commirent–impiété, et concernant toutes les dures–choses, lesquelles dirent contre lui pécheurs impies.
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 6500101501: ποιῆσαι (G4160) → "faire" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5002,9 +5045,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101528' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v16 - FRA
+-- Ceux-ci sont murmurateurs, plaignants, selon les désirs d'eux marchant; et la bouche d'eux dit choses–enflées, admirant personnes, de–profit à–cause.
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 6500101601: Οὗτοί (G3778) → "Ceux-ci" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5310,9 +5358,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101619' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v17 - FRA
+-- Vous mais, bien-aimés, souvenez-vous des paroles des dites–d'avance, par les apôtres du Seigneur notre, Jésus Christ,
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 6500101701: Ὑμεῖς (G4771) → "Vous" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5570,9 +5623,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101716' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v18 - FRA
+-- que ils–disaient à–vous, que À dernière la période il–y–aura moqueurs, selon les leurs–propres désirs marchant, des impiétés.
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 6500101801: ὅτι (G3754) → "que" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5846,9 +5904,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101817' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v19 - FRA
+-- Ceux-ci sont ceux qui–se–séparent, charnels, Esprit n'ayant pas.
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 6500101901: Οὗτοί (G3778) → "Ceux-ci" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5978,9 +6041,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101908' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v20 - FRA
+-- vous mais, bien-aimés, vous–édifiant vous-mêmes, sur–la très–sainte votre foi en Esprit Saint priant;
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 6500102001: ὑμεῖς (G4771) → "vous" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6190,9 +6258,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102013' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v21 - FRA
+-- vous-mêmes dans amour de–Dieu gardez, attendant la miséricorde du Seigneur notre, Jésus Christ, pour vie éternelle.
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 6500102101: ἑαυτοὺς (G1438) → "vous-mêmes" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6450,9 +6523,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102116' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v22 - FRA
+-- et ceux d'une–part ayez–pitié, doutant;
 
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 6500102201: καὶ (G2532) → "et" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6534,9 +6612,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102205' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v23 - FRA
+-- ceux d'autre–part sauvez, de feu arrachant; ceux d'autre–part ayez–pitié avec crainte, haïssant même le par la chair souillé vêtement.
 
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 6500102301: ‹οὓς (G3739) → "ceux" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6842,9 +6925,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102319' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v24 - FRA
+-- À–celui et pouvant garder vous sans–chute, et faire–tenir devant la gloire de–lui, sans–tache dans allégresse,
 
 BEGIN;
--- === Chapter 1 Verse 24 ===
 -- 6500102401: Τῷ (G3588) → "À–celui" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7086,9 +7174,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102415' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v25 - FRA
+-- seul Dieu Sauveur notre, par Jésus Christ le Seigneur notre, gloire, majesté, puissance, et autorité, avant tout l' âge et maintenant, et pour tous les âges. amen.
 
 BEGIN;
--- === Chapter 1 Verse 25 ===
 -- 6500102501: μόνῳ (G3441) → "seul" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7522,4 +7615,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102527' AND p.language_id = (SELECT id FROM language WHERE code = 'fra') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
