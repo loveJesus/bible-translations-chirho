@@ -2,33 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- OBADIAH - ITA Combined
--- Generated: 2026-01-22T05:19:11.182Z
-
--- c001-v001: Visione di–Obadia Così ha–detto il–Signore YHWH riguardo–a–Edom Un–messaggio abbiamo–udito da YHWH e–un–messaggero tra–le–nazioni è–stato–mandato Alzatevi e–alziamoci contro–di–lei per–la–battaglia
--- c001-v002: Ecco piccolo ti–ho–reso tra–le–nazioni disprezzato tu molto
--- c001-v003: Superbia del–tuo–cuore ti–ha–ingannato che–abiti nelle–fenditure della–roccia altezza della–sua–dimora che–dice nel–suo–cuore Chi mi–farà–scendere a–terra
--- c001-v004: Se ti–innalzassi come–l'–aquila e–se tra le–stelle ponessi il–tuo–nido da–lì ti–farò–scendere oracolo di–YHWH
--- c001-v005: Se ladri venissero a–te se predoni di–notte come saresti–distrutto forse–non ruberebbero quanto–basta–loro Se vendemmiatori venissero a–te forse–non lascerebbero racimoli
--- c001-v006: Come è–stato–perquisito Esaù sono–stati–scoperti i–suoi–tesori–nascosti
--- c001-v007: Fino–al confine ti–hanno–scacciato tutti gli–uomini della–tua–alleanza ti–hanno–ingannato hanno–prevalso contro–di–te gli–uomini della–tua–pace il–tuo–pane porranno una–trappola sotto–di–te non–c'–è intelligenza in–lui
--- c001-v008: Forse–non in–quel–giorno quel oracolo di–YHWH distruggerò i–saggi da–Edom e–l'–intelligenza dal–monte di–Esaù
--- c001-v009: E–saranno–atterriti i–tuoi–guerrieri o–Teman affinché sia–sterminato ogni–uomo dal–monte di–Esaù per–strage
--- c001-v010: A–causa–della–violenza contro–tuo–fratello Giacobbe ti–coprirà vergogna e–sarai–sterminato per–sempre
--- c001-v011: Nel–giorno del–tuo–stare da–parte nel–giorno del–portare–via stranieri la–sua–ricchezza e–forestieri entrarono le–sue–porte le–sue–porte e–su Gerusalemme gettarono sorte anche tu come–uno di–loro
--- c001-v012: E–non guardare nel–giorno di–tuo–fratello nel–giorno della–sua–sventura e–non rallegrarti per–i–figli di–Giuda nel–giorno della–loro–rovina e–non vantarti con–la–tua–bocca nel–giorno dell'–angoscia
--- c001-v013: Non entrare nella–porta del–mio–popolo nel–giorno della–loro–calamità non guardare anche tu la–sua–sventura nel–giorno della–sua–calamità e–non stendere sulla–sua–ricchezza nel–giorno della–sua–calamità
--- c001-v014: E–non stare al bivio per–sterminare i suoi–fuggitivi e–non consegnare i–suoi–superstiti nel–giorno dell'–angoscia
--- c001-v015: Poiché vicino è–il–giorno di–YHWH su tutte le–nazioni come hai–fatto sarà–fatto a–te la–tua–ricompensa tornerà sulla–tua–testa
--- c001-v016: Poiché come avete–bevuto sul monte della–mia–santità berranno tutte le–nazioni continuamente e–berranno e–inghiottiranno e–saranno come–non fossero–mai–stati
--- c001-v017: E–sul–monte Sion ci–sarà liberazione e–sarà santità e–possederà la–casa di–Giacobbe i loro–possedimenti
--- c001-v018: E–sarà la–casa di–Giacobbe fuoco e–la–casa di–Giuseppe fiamma e–la–casa di–Esaù stoppia e–arderanno tra–di–loro e–li–divoreranno e–non ci–sarà superstite per–la–casa di–Esaù poiché YHWH ha–parlato
--- c001-v019: E–possederanno il–Neghev il monte di–Esaù e–la–pianura i Filistei e–possederanno il campo di–Efraim e–il campo di–Samaria e–Beniamino il Galaad
--- c001-v020: E–l'–esilio di–quest'–armata questo dei–figli d'–Israele che–sono tra–i–Cananei fino–a Sarepta e–l'–esilio di–Gerusalemme che in–Sefarad possederanno le città del–Neghev
--- c001-v021: E–saliranno liberatori sul–monte Sion per–giudicare il monte di–Esaù e–sarà di–YHWH il–regno
+-- OBADIAH c1-v1 - ITA
+-- Visione di–Obadia Così ha–detto il–Signore YHWH riguardo–a–Edom Un–messaggio abbiamo–udito da YHWH e–un–messaggero tra–le–nazioni è–stato–mandato Alzatevi e–alziamoci contro–di–lei per–la–battaglia
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3100100101: חֲז֖וֹן (H2377) → "Visione" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -318,9 +295,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100118' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v2 - ITA
+-- Ecco piccolo ti–ho–reso tra–le–nazioni disprezzato tu molto
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3100100201: הִנֵּ֥ה (H2009) → "Ecco" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -434,9 +416,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100207' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v3 - ITA
+-- Superbia del–tuo–cuore ti–ha–ingannato che–abiti nelle–fenditure della–roccia altezza della–sua–dimora che–dice nel–suo–cuore Chi mi–farà–scendere a–terra
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3100100301: זְד֤וֹן (H2087) → "Superbia" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -646,9 +633,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100313' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v4 - ITA
+-- Se ti–innalzassi come–l'–aquila e–se tra le–stelle ponessi il–tuo–nido da–lì ti–farò–scendere oracolo di–YHWH
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3100100401: אִם־ (H0518a) → "Se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -842,9 +834,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100412' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v5 - ITA
+-- Se ladri venissero a–te se predoni di–notte come saresti–distrutto forse–non ruberebbero quanto–basta–loro Se vendemmiatori venissero a–te forse–non lascerebbero racimoli
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3100100501: אִם־ (H0518a) → "Se" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1150,9 +1147,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100519' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v6 - ITA
+-- Come è–stato–perquisito Esaù sono–stati–scoperti i–suoi–tesori–nascosti
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3100100601: אֵ֚יךְ (H0349a) → "Come" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1234,9 +1236,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100605' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v7 - ITA
+-- Fino–al confine ti–hanno–scacciato tutti gli–uomini della–tua–alleanza ti–hanno–ingannato hanno–prevalso contro–di–te gli–uomini della–tua–pace il–tuo–pane porranno una–trappola sotto–di–te non–c'–è intelligenza in–lui
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3100100701: עַֽד־ (H5704) → "Fino–al" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1526,9 +1533,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100718' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v8 - ITA
+-- Forse–non in–quel–giorno quel oracolo di–YHWH distruggerò i–saggi da–Edom e–l'–intelligenza dal–monte di–Esaù
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3100100801: הֲל֛וֹא (H3808) → "Forse–non" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1706,9 +1718,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100811' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v9 - ITA
+-- E–saranno–atterriti i–tuoi–guerrieri o–Teman affinché sia–sterminato ogni–uomo dal–monte di–Esaù per–strage
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3100100901: וְחַתּ֥וּ (H2865) → "E–saranno–atterriti" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1854,9 +1871,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100909' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v10 - ITA
+-- A–causa–della–violenza contro–tuo–fratello Giacobbe ti–coprirà vergogna e–sarai–sterminato per–sempre
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3100101001: מֵחֲמַ֛ס (H2555) → "A–causa–della–violenza" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1970,9 +1992,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101007' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v11 - ITA
+-- Nel–giorno del–tuo–stare da–parte nel–giorno del–portare–via stranieri la–sua–ricchezza e–forestieri entrarono le–sue–porte le–sue–porte e–su Gerusalemme gettarono sorte anche tu come–uno di–loro
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3100101101: בְּיוֹם֙ (H3117) → "Nel–giorno" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2278,9 +2305,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101119' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v12 - ITA
+-- E–non guardare nel–giorno di–tuo–fratello nel–giorno della–sua–sventura e–non rallegrarti per–i–figli di–Giuda nel–giorno della–loro–rovina e–non vantarti con–la–tua–bocca nel–giorno dell'–angoscia
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3100101201: וְאַל־ (H0408) → "E–non" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2554,9 +2586,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101217' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v13 - ITA
+-- Non entrare nella–porta del–mio–popolo nel–giorno della–loro–calamità non guardare anche tu la–sua–sventura nel–giorno della–sua–calamità e–non stendere sulla–sua–ricchezza nel–giorno della–sua–calamità
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3100101301: אַל־ (H0408) → "Non" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2846,9 +2883,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101318' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v14 - ITA
+-- E–non stare al bivio per–sterminare i suoi–fuggitivi e–non consegnare i–suoi–superstiti nel–giorno dell'–angoscia
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3100101401: וְאַֽל־ (H0408) → "E–non" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3042,9 +3084,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101412' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v15 - ITA
+-- Poiché vicino è–il–giorno di–YHWH su tutte le–nazioni come hai–fatto sarà–fatto a–te la–tua–ricompensa tornerà sulla–tua–testa
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3100101501: כִּֽי־ (H3588a) → "Poiché" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3270,9 +3317,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101514' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v16 - ITA
+-- Poiché come avete–bevuto sul monte della–mia–santità berranno tutte le–nazioni continuamente e–berranno e–inghiottiranno e–saranno come–non fossero–mai–stati
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3100101601: כִּ֗י (H3588a) → "Poiché" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3514,9 +3566,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101615' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v17 - ITA
+-- E–sul–monte Sion ci–sarà liberazione e–sarà santità e–possederà la–casa di–Giacobbe i loro–possedimenti
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3100101701: וּבְהַ֥ר (H2022) → "E–sul–monte" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3694,9 +3751,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101711' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v18 - ITA
+-- E–sarà la–casa di–Giacobbe fuoco e–la–casa di–Giuseppe fiamma e–la–casa di–Esaù stoppia e–arderanno tra–di–loro e–li–divoreranno e–non ci–sarà superstite per–la–casa di–Esaù poiché YHWH ha–parlato
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3100101801: וְהָיָה֩ (H1961) → "E–sarà" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4034,9 +4096,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101821' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v19 - ITA
+-- E–possederanno il–Neghev il monte di–Esaù e–la–pianura i Filistei e–possederanno il campo di–Efraim e–il campo di–Samaria e–Beniamino il Galaad
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 3100101901: וְיָרְשׁ֨וּ (H3423) → "E–possederanno" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4326,9 +4393,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101918' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v20 - ITA
+-- E–l'–esilio di–quest'–armata questo dei–figli d'–Israele che–sono tra–i–Cananei fino–a Sarepta e–l'–esilio di–Gerusalemme che in–Sefarad possederanno le città del–Neghev
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 3100102001: וְגָלֻ֣ת (H1546) → "E–l'–esilio" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4602,9 +4674,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102017' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v21 - ITA
+-- E–saliranno liberatori sul–monte Sion per–giudicare il monte di–Esaù e–sarà di–YHWH il–regno
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 3100102101: וְעָל֤וּ (H5927) → "E–saliranno" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4782,4 +4859,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102111' AND p.language_id = (SELECT id FROM language WHERE code = 'ita') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
