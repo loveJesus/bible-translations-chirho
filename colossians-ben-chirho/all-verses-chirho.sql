@@ -2,17 +2,6 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- COLOSSIANS - Bengali (ben) - Complete Translation
--- Generated: 2026-01-24
--- Source: opus-4.5-chirho
-
--- This file combines all 95 verses (1587 words) of Colossians
--- Individual verse files: c001-v001-chirho.sql through c004-v018-chirho.sql
-
--- For God so loved the world, that He gave His only begotten Son,
--- that all who believe in Him should not perish but have everlasting life.
--- — John 3:16
-
 -- COLOSSIANS c1-v1 - BEN
 -- পৌলস প্রেরিত খ্রীষ্টৌ–র ইয়েসৌ–র দ্বারা ইচ্ছা–র ঈশ্বরের এবং তিমথেয়স –সেই ভাই
 

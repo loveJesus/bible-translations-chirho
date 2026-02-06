@@ -2,50 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- HAGGAI - BEN Combined
--- Generated: 2026-01-26T09:11:10.811Z
-
--- c001-v001: –বছরে দুই দারিয়াবসের রাজার –মাসে ষষ্ঠ –দিনে এক –মাসের হল বাক্য– যিহোবার –হাতে হগয় ভাববাদীর –কাছে সরুব্বাবিল পুত্র– শল্টীয়েলের শাসনকর্তা যিহূদার ও–কাছে যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা –বলে
--- c001-v002: এই বলেন যিহোবা সৈন্যদলের –বলে লোকেরা এই বলে না সময়– আসার সময়– গৃহ যিহোবার নির্মাণের 
--- c001-v003: ও–হল বাক্য– যিহোবার –হাতে হগয় ভাববাদীর –বলে
--- c001-v004: সময়–কি তোমাদের তোমরা বাস–করার –গৃহে–তোমাদের আচ্ছাদিত ও–গৃহ এই ধ্বংস
--- c001-v005: ও–এখন এই বলেন যিহোবা সৈন্যদলের রাখ হৃদয়–তোমাদের –উপরে পথ–তোমাদের
--- c001-v006: বুনেছ অনেক ও–এনেছ অল্প খাও ও–নেই –তৃপ্তি পান–কর ও–নেই –মাতাল–হতে পরিধান–কর ও–নেই –উষ্ণ–হতে তার ও–উপার্জনকারী উপার্জন–করে –মধ্যে থলি ফুটো 
--- c001-v007: এই বলেন যিহোবা সৈন্যদলের রাখ হৃদয়–তোমাদের –উপরে পথ–তোমাদের
--- c001-v008: উঠ পর্বতে ও–আন কাঠ ও–নির্মাণ–কর গৃহ ও–সন্তুষ্ট–হব –তাতে  ও–মহিমান্বিত–হব বলেন যিহোবা
--- c001-v009: তাকিয়েছ –প্রতি অনেক ও–দেখ –অল্প ও–এনেছ গৃহে ও–ফুঁ–দিয়েছি –তাতে কেন কি ঘোষণা যিহোবা সৈন্যদলের কেন গৃহ–আমার যা– তা ধ্বংস ও–তোমরা দৌড়াও প্রত্যেক –গৃহে–তার
--- c001-v010: –কারণে এই –তোমাদের–উপরে রুদ্ধ–করেছে আকাশ –শিশির ও–পৃথিবী রুদ্ধ–করেছে ফল–তার
--- c001-v011: ও–ডেকেছি খরা –উপরে দেশ ও–উপরে পর্বত ও–উপরে শস্য ও–উপরে নতুন–দ্রাক্ষারস ও–উপরে তেল ও–উপরে যা উৎপন্ন–করে ভূমি ও–উপরে মানুষ ও–উপরে পশু ও–উপরে সকল– শ্রম হাতের 
--- c001-v012: ও–শুনল সরুব্বাবিল পুত্র– শল্টীয়েলের ও–যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা ও–সকল অবশিষ্টাংশ লোকেদের –স্বরে যিহোবা ঈশ্বরের–তাদের ও–প্রতি বাক্য হগয় ভাববাদীর যেমন পাঠিয়েছিলেন–তাকে যিহোবা ঈশ্বর–তাদের ও–ভয়–করল লোকেরা –সামনে যিহোবার
--- c001-v013: ও–বলল হগয় দূত যিহোবার –বার্তায় যিহোবার –লোকেদের –বলে আমি –সঙ্গে–তোমাদের ঘোষণা– যিহোবার
--- c001-v014: ও–জাগালেন যিহোবা –কে আত্মা সরুব্বাবিলের পুত্র– শল্টীয়েলের শাসনকর্তা যিহূদার ও–কে আত্মা যিহোশূয়ের পুত্র– যিহোষাদকের যাজক মহা ও–কে আত্মা সকল অবশিষ্টাংশ লোকেদের ও–এলেন ও–করল কাজ –গৃহে যিহোবা সৈন্যদলের ঈশ্বর–তাদের 
--- c001-v015: –দিনে বিশ ও–চার –মাসের –ষষ্ঠে –বছরে দুই দারিয়াবসের রাজার
--- c002-v001: –সপ্তমে –বিশে ও–একে –মাসের হল বাক্য– যিহোবার –হাতে হগয় ভাববাদীর –বলে
--- c002-v002: বল– দয়া–করে –কাছে সরুব্বাবিল পুত্র– শল্টীয়েলের শাসনকর্তা যিহূদার ও–কাছে যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা ও–কাছে অবশিষ্টাংশ লোকেদের –বলে
--- c002-v003: কে –তোমাদের–মধ্যে অবশিষ্ট যে দেখেছে –কে গৃহ এই –গৌরবে–তার প্রথম ও–কি তোমরা দেখছ –একে এখন কি–নয় –তার–মতো –শূন্যের–মতো –চোখে–তোমাদের
--- c002-v004: ও–এখন দৃঢ়–হও সরুব্বাবিল ঘোষণা– যিহোবার ও–দৃঢ়–হও যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা ও–দৃঢ়–হও সকল– লোক দেশের ঘোষণা– যিহোবার ও–কাজ–কর কারণ– আমি –সঙ্গে–তোমাদের ঘোষণা যিহোবা সৈন্যদলের
--- c002-v005: –কে বাক্য যা– স্থাপন–করেছিলাম –সঙ্গে–তোমাদের –বের–হওয়ায়–তোমাদের মিশর–থেকে ও–আত্মা–আমার দাঁড়িয়ে–আছে –মধ্যে–তোমাদের না– ভয়–কর 
--- c002-v006: কারণ এই বলেন যিহোবা সৈন্যদলের আর এক অল্প তা ও–আমি কম্পমান–করব –কে আকাশ ও–কে পৃথিবী ও–কে সমুদ্র ও–কে শুষ্ক–ভূমি
--- c002-v007: ও–কাঁপাব –কে সকল– জাতি ও–আসবে কাঙ্ক্ষিত–বস্তু সকল– জাতিদের ও–পূর্ণ–করব –কে গৃহ এই গৌরবে বলেন যিহোবা সৈন্যদলের
--- c002-v008: –আমার রৌপ্য ও–আমার স্বর্ণ ঘোষণা যিহোবা সৈন্যদলের
--- c002-v009: মহান হবে গৌরব গৃহের এই শেষ –থেকে প্রথম বলেন যিহোবা সৈন্যদলের ও–স্থানে এই দেব শান্তি ঘোষণা যিহোবা সৈন্যদলের 
--- c002-v010: –বিশে ও–চারে –নবমে –বছরে দুই দারিয়াবসের হল বাক্য– যিহোবার –কাছে হগয় ভাববাদীর –বলে
--- c002-v011: এই বলেন যিহোবা সৈন্যদলের জিজ্ঞাসা–কর– দয়া–করে –কে যাজকদের বিধান –বলে
--- c002-v012: দেখ বহন–করে– মানুষ মাংস– পবিত্র –আঁচলে বস্ত্রের–তার ও–স্পর্শ–করে –আঁচলে–তার –প্রতি রুটি ও–প্রতি ঝোল ও–প্রতি দ্রাক্ষারস ও–প্রতি তেল ও–প্রতি সকল– খাদ্য পবিত্র–হবে–কি ও–উত্তর–দিল যাজকেরা ও–বলল না
--- c002-v013: ও–বলল হগয় যদি– স্পর্শ–করে অশুচি– প্রাণ –সকলের– এই অশুচি–হবে–কি ও–উত্তর–দিল যাজকেরা ও–বলল অশুচি–হবে
--- c002-v014: ও–উত্তর–দিল হগয় ও–বলল এইরূপ লোকেরা– এই ও–এইরূপ– জাতি এই –সামনে–আমার ঘোষণা– যিহোবার ও–এইরূপ সকল– কাজ হাতের–তাদের ও–যা উৎসর্গ–করে সেখানে অশুচি তা
--- c002-v015: ও–এখন রাখ– দয়া–করে হৃদয়–তোমাদের –থেকে দিন এই ও–ঊর্ধ্বে –পূর্বে রাখা– পাথর –উপরে পাথর –মন্দিরে যিহোবার
--- c002-v016: –থেকে–হওয়ার–তাদের আসত –কাছে স্তূপ বিশ ও–হত দশ আসত –কাছে দ্রাক্ষাকুণ্ড –তুলতে পঞ্চাশ পাত্র ও–হত বিশ
--- c002-v017: আঘাত–করেছি –তোমাদের –শুকনো–বায়ুতে ও–ছত্রাকে ও–শিলাবৃষ্টিতে –কে সকল– কাজ হাতের–তোমাদের ও–নেই– তোমাদের –আমার–প্রতি ঘোষণা– যিহোবার
--- c002-v018: রাখ– দয়া–করে হৃদয়–তোমাদের –থেকে দিন এই ও–ঊর্ধ্বে –দিন–থেকে বিশ ও–চার –নবমে –থেকে দিন যে– স্থাপিত–হয়েছিল মন্দির– যিহোবার রাখ হৃদয়–তোমাদের
--- c002-v019: এখনও–কি বীজ –গোলায় ও–এখন–পর্যন্ত দ্রাক্ষালতা ও–ডুমুর–গাছ ও–ডালিম–গাছ ও–গাছ জলপাই না ফলেছে –থেকে দিন এই আশীর্বাদ–করব 
--- c002-v020: ও–হল বাক্য– যিহোবার দ্বিতীয়বার –কাছে হগয়ের –বিশে ও–চারে –মাসের –বলে
--- c002-v021: বল –কাছে সরুব্বাবিলের শাসনকর্তা– যিহূদার –বলে আমি কম্পমান–করছি –কে আকাশ ও–কে পৃথিবী
--- c002-v022: ও–উল্টে–দেব সিংহাসন রাজ্যগুলির ও–ধ্বংস–করব শক্তি রাজ্যগুলির জাতিদের ও–উল্টে–দেব রথ ও–আরোহীদের–তার ও–পড়বে ঘোড়া ও–আরোহীদের–তাদের প্রত্যেক –তরবারিতে ভাইয়ের–তার
--- c002-v023: –দিনে সেই ঘোষণা– যিহোবা সৈন্যদলের গ্রহণ–করব–তোমাকে সরুব্বাবিল পুত্র– শল্টীয়েলের দাস–আমার ঘোষণা– যিহোবার ও–রাখব–তোমাকে –সীলমোহরের–মতো কারণ– –তোমাকে মনোনীত–করেছি ঘোষণা যিহোবা সৈন্যদলের
+-- HAGGAI c1-v1 - BEN
+-- –বছরে দুই দারিয়াবসের রাজার –মাসে ষষ্ঠ –দিনে এক –মাসের হল বাক্য– যিহোবার –হাতে হগয় ভাববাদীর –কাছে সরুব্বাবিল পুত্র– শল্টীয়েলের শাসনকর্তা যিহূদার ও–কাছে যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা –বলে
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3700100101: בִּשְׁנַ֤ת (H8141) → "–বছরে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -495,9 +455,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100128' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v2 - BEN
+-- এই বলেন যিহোবা সৈন্যদলের –বলে লোকেরা এই বলে না সময়– আসার সময়– গৃহ যিহোবার নির্মাণের 
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3700100201: כֹּ֥ה (H3541) → "এই" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -755,9 +720,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100216' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v3 - BEN
+-- ও–হল বাক্য– যিহোবার –হাতে হগয় ভাববাদীর –বলে
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3700100301: וַֽיְהִי֙ (H1961) → "ও–হল" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -871,9 +841,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100307' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v4 - BEN
+-- সময়–কি তোমাদের তোমরা বাস–করার –গৃহে–তোমাদের আচ্ছাদিত ও–গৃহ এই ধ্বংস
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3700100401: הַעֵ֤ת (H6256) → "সময়–কি" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1019,9 +994,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100409' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v5 - BEN
+-- ও–এখন এই বলেন যিহোবা সৈন্যদলের রাখ হৃদয়–তোমাদের –উপরে পথ–তোমাদের
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3700100501: וְעַתָּ֕ה (H6258) → "ও–এখন" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1167,9 +1147,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100509' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v6 - BEN
+-- বুনেছ অনেক ও–এনেছ অল্প খাও ও–নেই –তৃপ্তি পান–কর ও–নেই –মাতাল–হতে পরিধান–কর ও–নেই –উষ্ণ–হতে তার ও–উপার্জনকারী উপার্জন–করে –মধ্যে থলি ফুটো 
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3700100601: זְרַעְתֶּ֨ם (H2232) → "বুনেছ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1491,9 +1476,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100620' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v7 - BEN
+-- এই বলেন যিহোবা সৈন্যদলের রাখ হৃদয়–তোমাদের –উপরে পথ–তোমাদের
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3700100701: כֹּ֥ה (H3541) → "এই" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1623,9 +1613,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100708' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v8 - BEN
+-- উঠ পর্বতে ও–আন কাঠ ও–নির্মাণ–কর গৃহ ও–সন্তুষ্ট–হব –তাতে  ও–মহিমান্বিত–হব বলেন যিহোবা
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3700100801: עֲל֥וּ (H5927) → "উঠ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1819,9 +1814,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100812' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v9 - BEN
+-- তাকিয়েছ –প্রতি অনেক ও–দেখ –অল্প ও–এনেছ গৃহে ও–ফুঁ–দিয়েছি –তাতে কেন কি ঘোষণা যিহোবা সৈন্যদলের কেন গৃহ–আমার যা– তা ধ্বংস ও–তোমরা দৌড়াও প্রত্যেক –গৃহে–তার
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3700100901: פָּנֹ֤ה (H6437) → "তাকিয়েছ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2191,9 +2191,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700100923' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v10 - BEN
+-- –কারণে এই –তোমাদের–উপরে রুদ্ধ–করেছে আকাশ –শিশির ও–পৃথিবী রুদ্ধ–করেছে ফল–তার
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3700101001: עַל־ (H5921a) → "–কারণে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2339,9 +2344,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700101009' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v11 - BEN
+-- ও–ডেকেছি খরা –উপরে দেশ ও–উপরে পর্বত ও–উপরে শস্য ও–উপরে নতুন–দ্রাক্ষারস ও–উপরে তেল ও–উপরে যা উৎপন্ন–করে ভূমি ও–উপরে মানুষ ও–উপরে পশু ও–উপরে সকল– শ্রম হাতের 
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3700101101: וָאֶקְרָ֨א (H7121) → "ও–ডেকেছি" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2743,9 +2753,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700101125' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v12 - BEN
+-- ও–শুনল সরুব্বাবিল পুত্র– শল্টীয়েলের ও–যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা ও–সকল অবশিষ্টাংশ লোকেদের –স্বরে যিহোবা ঈশ্বরের–তাদের ও–প্রতি বাক্য হগয় ভাববাদীর যেমন পাঠিয়েছিলেন–তাকে যিহোবা ঈশ্বর–তাদের ও–ভয়–করল লোকেরা –সামনে যিহোবার
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3700101201: וַיִּשְׁמַ֣ע (H8085) → "ও–শুনল" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3179,9 +3194,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700101227' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v13 - BEN
+-- ও–বলল হগয় দূত যিহোবার –বার্তায় যিহোবার –লোকেদের –বলে আমি –সঙ্গে–তোমাদের ঘোষণা– যিহোবার
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3700101301: וַ֠יֹּאמֶר (H0559) → "ও–বলল" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3375,9 +3395,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700101312' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v14 - BEN
+-- ও–জাগালেন যিহোবা –কে আত্মা সরুব্বাবিলের পুত্র– শল্টীয়েলের শাসনকর্তা যিহূদার ও–কে আত্মা যিহোশূয়ের পুত্র– যিহোষাদকের যাজক মহা ও–কে আত্মা সকল অবশিষ্টাংশ লোকেদের ও–এলেন ও–করল কাজ –গৃহে যিহোবা সৈন্যদলের ঈশ্বর–তাদের 
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3700101401: וַיָּ֣עַר (H5782) → "ও–জাগালেন" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3843,9 +3868,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700101429' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c1-v15 - BEN
+-- –দিনে বিশ ও–চার –মাসের –ষষ্ঠে –বছরে দুই দারিয়াবসের রাজার
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3700101501: בְּי֨וֹם (H3117) → "–দিনে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3991,9 +4021,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700101509' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v1 - BEN
+-- –সপ্তমে –বিশে ও–একে –মাসের হল বাক্য– যিহোবার –হাতে হগয় ভাববাদীর –বলে
 
 BEGIN;
--- === Chapter 2 Verse 1 ===
 -- 3700200101: בַּשְּׁבִיעִ֕י (H7637) → "–সপ্তমে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4171,9 +4206,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200111' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v2 - BEN
+-- বল– দয়া–করে –কাছে সরুব্বাবিল পুত্র– শল্টীয়েলের শাসনকর্তা যিহূদার ও–কাছে যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা ও–কাছে অবশিষ্টাংশ লোকেদের –বলে
 
 BEGIN;
--- === Chapter 2 Verse 2 ===
 -- 3700200201: אֱמָר־ (H0559) → "বল–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4463,9 +4503,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200218' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v3 - BEN
+-- কে –তোমাদের–মধ্যে অবশিষ্ট যে দেখেছে –কে গৃহ এই –গৌরবে–তার প্রথম ও–কি তোমরা দেখছ –একে এখন কি–নয় –তার–মতো –শূন্যের–মতো –চোখে–তোমাদের
 
 BEGIN;
--- === Chapter 2 Verse 3 ===
 -- 3700200301: מִ֤י (H4310) → "কে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4771,9 +4816,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200319' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v4 - BEN
+-- ও–এখন দৃঢ়–হও সরুব্বাবিল ঘোষণা– যিহোবার ও–দৃঢ়–হও যিহোশূয় পুত্র– যিহোষাদকের যাজক মহা ও–দৃঢ়–হও সকল– লোক দেশের ঘোষণা– যিহোবার ও–কাজ–কর কারণ– আমি –সঙ্গে–তোমাদের ঘোষণা যিহোবা সৈন্যদলের
 
 BEGIN;
--- === Chapter 2 Verse 4 ===
 -- 3700200401: וְעַתָּ֣ה (H6258) → "ও–এখন" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5159,9 +5209,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200424' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v5 - BEN
+-- –কে বাক্য যা– স্থাপন–করেছিলাম –সঙ্গে–তোমাদের –বের–হওয়ায়–তোমাদের মিশর–থেকে ও–আত্মা–আমার দাঁড়িয়ে–আছে –মধ্যে–তোমাদের না– ভয়–কর 
 
 BEGIN;
--- === Chapter 2 Verse 5 ===
 -- 3700200501: אֶֽת־ (H0853) → "–কে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5371,9 +5426,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200513' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v6 - BEN
+-- কারণ এই বলেন যিহোবা সৈন্যদলের আর এক অল্প তা ও–আমি কম্পমান–করব –কে আকাশ ও–কে পৃথিবী ও–কে সমুদ্র ও–কে শুষ্ক–ভূমি
 
 BEGIN;
--- === Chapter 2 Verse 6 ===
 -- 3700200601: כִּ֣י (H3588a) → "কারণ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5679,9 +5739,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200619' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v7 - BEN
+-- ও–কাঁপাব –কে সকল– জাতি ও–আসবে কাঙ্ক্ষিত–বস্তু সকল– জাতিদের ও–পূর্ণ–করব –কে গৃহ এই গৌরবে বলেন যিহোবা সৈন্যদলের
 
 BEGIN;
--- === Chapter 2 Verse 7 ===
 -- 3700200701: וְהִרְעַשְׁתִּי֙ (H7493) → "ও–কাঁপাব" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5939,9 +6004,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200716' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v8 - BEN
+-- –আমার রৌপ্য ও–আমার স্বর্ণ ঘোষণা যিহোবা সৈন্যদলের
 
 BEGIN;
--- === Chapter 2 Verse 8 ===
 -- 3700200801: לִ֥י (H????) → "–আমার" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6055,9 +6125,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200807' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v9 - BEN
+-- মহান হবে গৌরব গৃহের এই শেষ –থেকে প্রথম বলেন যিহোবা সৈন্যদলের ও–স্থানে এই দেব শান্তি ঘোষণা যিহোবা সৈন্যদলের 
 
 BEGIN;
--- === Chapter 2 Verse 9 ===
 -- 3700200901: גָּד֣וֹל (H1419a) → "মহান" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6363,9 +6438,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700200919' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v10 - BEN
+-- –বিশে ও–চারে –নবমে –বছরে দুই দারিয়াবসের হল বাক্য– যিহোবার –কাছে হগয় ভাববাদীর –বলে
 
 BEGIN;
--- === Chapter 2 Verse 10 ===
 -- 3700201001: בְּעֶשְׂרִ֤ים (H6242) → "–বিশে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6575,9 +6655,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201013' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v11 - BEN
+-- এই বলেন যিহোবা সৈন্যদলের জিজ্ঞাসা–কর– দয়া–করে –কে যাজকদের বিধান –বলে
 
 BEGIN;
--- === Chapter 2 Verse 11 ===
 -- 3700201101: כֹּ֥ה (H3541) → "এই" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6739,9 +6824,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201110' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v12 - BEN
+-- দেখ বহন–করে– মানুষ মাংস– পবিত্র –আঁচলে বস্ত্রের–তার ও–স্পর্শ–করে –আঁচলে–তার –প্রতি রুটি ও–প্রতি ঝোল ও–প্রতি দ্রাক্ষারস ও–প্রতি তেল ও–প্রতি সকল– খাদ্য পবিত্র–হবে–কি ও–উত্তর–দিল যাজকেরা ও–বলল না
 
 BEGIN;
--- === Chapter 2 Verse 12 ===
 -- 3700201201: הֵ֣ן ׀ (H2005) → "দেখ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7143,9 +7233,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201225' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v13 - BEN
+-- ও–বলল হগয় যদি– স্পর্শ–করে অশুচি– প্রাণ –সকলের– এই অশুচি–হবে–কি ও–উত্তর–দিল যাজকেরা ও–বলল অশুচি–হবে
 
 BEGIN;
--- === Chapter 2 Verse 13 ===
 -- 3700201301: וַיֹּ֣אמֶר (H0559) → "ও–বলল" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7355,9 +7450,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201313' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v14 - BEN
+-- ও–উত্তর–দিল হগয় ও–বলল এইরূপ লোকেরা– এই ও–এইরূপ– জাতি এই –সামনে–আমার ঘোষণা– যিহোবার ও–এইরূপ সকল– কাজ হাতের–তাদের ও–যা উৎসর্গ–করে সেখানে অশুচি তা
 
 BEGIN;
--- === Chapter 2 Verse 14 ===
 -- 3700201401: וַיַּ֨עַן (H6030b) → "ও–উত্তর–দিল" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7695,9 +7795,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201421' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v15 - BEN
+-- ও–এখন রাখ– দয়া–করে হৃদয়–তোমাদের –থেকে দিন এই ও–ঊর্ধ্বে –পূর্বে রাখা– পাথর –উপরে পাথর –মন্দিরে যিহোবার
 
 BEGIN;
--- === Chapter 2 Verse 15 ===
 -- 3700201501: וְעַתָּה֙ (H6258) → "ও–এখন" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7939,9 +8044,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201515' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v16 - BEN
+-- –থেকে–হওয়ার–তাদের আসত –কাছে স্তূপ বিশ ও–হত দশ আসত –কাছে দ্রাক্ষাকুণ্ড –তুলতে পঞ্চাশ পাত্র ও–হত বিশ
 
 BEGIN;
--- === Chapter 2 Verse 16 ===
 -- 3700201601: מִֽהְיוֹתָ֥ם (H1961) → "–থেকে–হওয়ার–তাদের" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8183,9 +8293,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201615' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v17 - BEN
+-- আঘাত–করেছি –তোমাদের –শুকনো–বায়ুতে ও–ছত্রাকে ও–শিলাবৃষ্টিতে –কে সকল– কাজ হাতের–তোমাদের ও–নেই– তোমাদের –আমার–প্রতি ঘোষণা– যিহোবার
 
 BEGIN;
--- === Chapter 2 Verse 17 ===
 -- 3700201701: הִכֵּ֨יתִי (H5221) → "আঘাত–করেছি" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8411,9 +8526,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201714' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v18 - BEN
+-- রাখ– দয়া–করে হৃদয়–তোমাদের –থেকে দিন এই ও–ঊর্ধ্বে –দিন–থেকে বিশ ও–চার –নবমে –থেকে দিন যে– স্থাপিত–হয়েছিল মন্দির– যিহোবার রাখ হৃদয়–তোমাদের
 
 BEGIN;
--- === Chapter 2 Verse 18 ===
 -- 3700201801: שִׂימוּ־ (H7760a) → "রাখ–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8719,9 +8839,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201819' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v19 - BEN
+-- এখনও–কি বীজ –গোলায় ও–এখন–পর্যন্ত দ্রাক্ষালতা ও–ডুমুর–গাছ ও–ডালিম–গাছ ও–গাছ জলপাই না ফলেছে –থেকে দিন এই আশীর্বাদ–করব 
 
 BEGIN;
--- === Chapter 2 Verse 19 ===
 -- 3700201901: הַע֤וֹד (H5750) → "এখনও–কি" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -8979,9 +9104,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700201916' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v20 - BEN
+-- ও–হল বাক্য– যিহোবার দ্বিতীয়বার –কাছে হগয়ের –বিশে ও–চারে –মাসের –বলে
 
 BEGIN;
--- === Chapter 2 Verse 20 ===
 -- 3700202001: וַיְהִ֨י (H1961) → "ও–হল" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9143,9 +9273,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700202010' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v21 - BEN
+-- বল –কাছে সরুব্বাবিলের শাসনকর্তা– যিহূদার –বলে আমি কম্পমান–করছি –কে আকাশ ও–কে পৃথিবী
 
 BEGIN;
--- === Chapter 2 Verse 21 ===
 -- 3700202101: אֱמֹ֕ר (H0559) → "বল" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9339,9 +9474,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700202112' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v22 - BEN
+-- ও–উল্টে–দেব সিংহাসন রাজ্যগুলির ও–ধ্বংস–করব শক্তি রাজ্যগুলির জাতিদের ও–উল্টে–দেব রথ ও–আরোহীদের–তার ও–পড়বে ঘোড়া ও–আরোহীদের–তাদের প্রত্যেক –তরবারিতে ভাইয়ের–তার
 
 BEGIN;
--- === Chapter 2 Verse 22 ===
 -- 3700202201: וְהָֽפַכְתִּי֙ (H2015) → "ও–উল্টে–দেব" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9599,9 +9739,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700202216' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HAGGAI c2-v23 - BEN
+-- –দিনে সেই ঘোষণা– যিহোবা সৈন্যদলের গ্রহণ–করব–তোমাকে সরুব্বাবিল পুত্র– শল্টীয়েলের দাস–আমার ঘোষণা– যিহোবার ও–রাখব–তোমাকে –সীলমোহরের–মতো কারণ– –তোমাকে মনোনীত–করেছি ঘোষণা যিহোবা সৈন্যদলের
 
 BEGIN;
--- === Chapter 2 Verse 23 ===
 -- 3700202301: בַּיּ֣וֹם (H3117) → "–দিনে" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -9923,4 +10068,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3700202320' AND p.language_id = (SELECT id FROM language WHERE code = 'ben') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
