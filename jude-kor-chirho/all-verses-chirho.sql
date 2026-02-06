@@ -2,37 +2,15 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- JUDE - KOR Combined
--- Generated: 2026-01-22T05:18:50.689Z
+-- jude - KOR Combined (all verses)
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
 
--- c001-v001: 유다가 예수 그리스도의 종이요 형제인 그리고 야고보의 –에게 –안에 하나님 아버지 사랑받은–자들 그리고 예수 그리스도를–위하여 지켜진 부르심받은–자들에게
--- c001-v002: 긍휼과 너희에게 그리고 평안과 그리고 사랑이 풍성하여지기를
--- c001-v003: 사랑하는–자들아 모든 열심을 가지고 쓰려하다가 너희에게 –에–관하여 –그 공동의 우리의 구원을 필요가 생겼노라 쓰기를 너희에게 권면하여 힘써–싸우라 –그 단번에 전해진 –에게 성도들 믿음을–위해
--- c001-v004: 숨어들어왔느니라 이는 어떤 사람들이 –그 옛적에 미리–기록된 –을–향하여 이 –그 심판에 경건치–않은–자들로 –그 –의 하나님 우리의 은혜를 바꾸는–자들이니 –으로 음란함으로 그리고 –그 유일하신 주재이시며 그리고 주 우리의 예수 그리스도를 부인하는–자들이라
--- c001-v005: 상기시키려–하노라 그런데 너희를 원하노니 알고–있는 너희가 단번에 모든–것을 곧 –그 주께서 백성을 –에서 땅 애굽의 구원하시고 –그 두번째로 –그들을 –않는 믿지 멸망시키셨느니라
--- c001-v006: 천사들을 그리고 –그들 –않고 지키지 –그 자기들의 처음–지위를 오히려 떠난–자들을 –그 자기들의 거처를 –을–향하여 심판 큰 날의 결박으로 영원한 –아래 어둠 지키셨느니라
--- c001-v007: 마치 소돔과 그리고 고모라와 그리고 –그 –주위의 그들 성읍들이 –그 같은 방식으로 그들과 음란을–행하여 그리고 따라가서 –뒤로 육체 다른 놓여–있느니라 본보기로 불의 영원한 형벌을 받으며
--- c001-v008: 마찬가지로 그러나 또한 이–사람들도 꿈꾸는–자들이 육체를 한편으로 더럽히며 권위를 그리고 거부하며 영광들을 그리고 모욕하느니라
--- c001-v009: –그 그런데 미가엘은 –그 천사장이라 –때에 –와 마귀 논쟁할 말할–때에 –에–관하여 –의 모세의 몸을 –않았으니 감히 심판의 내리기를 모욕하는 오히려 말하였다 꾸짖으시기를 너를 주께서
--- c001-v010: 이–사람들은 그런데 무엇이든지 한편으로 –않는 알지 모욕하며 무엇이든지 그리고 본능적으로 마치 –그 이성–없는 짐승처럼 이해하는–것들로 –안에서 이것들 멸망당하느니라
--- c001-v011: 화가–있도다 그들에게 이는 –그 길로 –의 가인의 행하였고 그리고 –그 미혹 –의 발람의 삯을–위해 빠졌으며 그리고 –그 반역 –의 고라의 멸망당하였음이라
--- c001-v012: 이–사람들은 –이니라 –그들은 –안에서 –그 사랑의–잔치에서 너희의 암초들이며 함께–연회하며 두려움–없이 자기–자신을 목양하며 구름들이나 물–없는 –에–의해 바람들 흘러가는 나무들이나 늦가을의 열매–없는 두–번 죽은 뿌리째–뽑힌
--- c001-v013: 파도들이며 거친 바다의 거품을–내는 –그 자기들의 수치들을 별들이니 유랑하는 그들을–위하여 –그 어둠의 –의 흑암이 –을–향하여 영원토록 예비되었느니라
--- c001-v014: 예언하였으니 그런데 또한 이들에게도 일곱째인 –로부터 아담 에녹이 말하기를 보라 오셨다 주께서 –가운데 거룩한 수만의 그의
--- c001-v015: 행하시려 심판을 –에–대하여 모든–이를 그리고 정죄하려 모든 –그 경건치–않은–자들을 –에–관하여 모든 –그 행위들 불경건의 그들의 그것들로 경건치–않게–행하였고 그리고 –에–관하여 모든 –그 완악한–말들 그것들로 말하였다 –에–대해 그를 죄인들이 경건치–않은
--- c001-v016: 이–사람들은 –이니라 불평하는–자들이요 원망하는–자들이니 –따라 –그 욕망들 그들의 행하는–자들이요 그리고 –그 입이 그들의 말하느니라 과장된–것을 편파적으로–대하며 사람들을 유익을 위하여
--- c001-v017: 너희는 그러나 사랑하는–자들아 기억하라 –그 말씀들을 –그 미리–말해진 –에–의해 –그 사도들의 –의 주 우리의 예수 그리스도의
--- c001-v018: 곧 말하였다 너희에게 곧 –에 마지막 –그 때에 있을–것이다 조롱하는–자들이 –따라 –그 자기들의 욕망들 행하는 –그 불경건한–것들의
--- c001-v019: 이–사람들은 –이니라 –그들이 분열을–일으키는–자들이요 육적인–자들이요 성령을 –않고 가지지
--- c001-v020: 너희는 그러나 사랑하는–자들아 세워가며 너희–자신들을 –그 가장–거룩한 너희의 믿음–위에 –안에서 성령으로 거룩한 기도하며
--- c001-v021: 너희–자신을 –안에 사랑 하나님의 지키라 기다리며 –그 긍휼을 –의 주 우리의 예수 그리스도의 –을–향하여 생명 영원한
--- c001-v022: 그리고 어떤–이들을 한편으로 긍휼히–여기라 의심하는–자들을
--- c001-v023: 어떤–이들을 그리고 구원하라 –에서 불 빼앗으며 어떤–이들은 그리고 긍휼히–여기라 –가운데 두려움 미워하며 또한 –그 –로부터 –그 육체 더럽혀진 옷까지도
--- c001-v024: –그분에게 그리고 능하신 지키시고 너희를 넘어지지–않게 그리고 세우실 –앞에 –그 영광 그의 흠–없이 –가운데 기쁨으로
--- c001-v025: 홀로 하나님 구원자이신 우리의 –통하여 예수 그리스도 –의 주 우리의 영광과 위엄과 권능과 그리고 권세가 –전부터 모든 –의 영원 그리고 지금 그리고 –을–향하여 모든 –그 영원토록 아멘
+-- JUDE c1-v1 - KOR
+-- 유다가 예수 그리스도의 종이요 형제인 그리고 야고보의 –에게 –안에 하나님 아버지 사랑받은–자들 그리고 예수 그리스도를–위하여 지켜진 부르심받은–자들에게
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6500100101: Ἰούδας, (G2455) → "유다가" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -307,8 +285,14 @@ WHERE pw.word_id = '6500100117' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v2 - KOR
+-- 긍휼과 너희에게 그리고 평안과 그리고 사랑이 풍성하여지기를
+
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6500100201: ἔλεος (G1656) → "긍휼과" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -423,8 +407,14 @@ WHERE pw.word_id = '6500100207' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v3 - KOR
+-- 사랑하는–자들아 모든 열심을 가지고 쓰려하다가 너희에게 –에–관하여 –그 공동의 우리의 구원을 필요가 생겼노라 쓰기를 너희에게 권면하여 힘써–싸우라 –그 단번에 전해진 –에게 성도들 믿음을–위해
+
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6500100301: Ἀγαπητοί, (G0027) → "사랑하는–자들아" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -795,8 +785,14 @@ WHERE pw.word_id = '6500100323' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v4 - KOR
+-- 숨어들어왔느니라 이는 어떤 사람들이 –그 옛적에 미리–기록된 –을–향하여 이 –그 심판에 경건치–않은–자들로 –그 –의 하나님 우리의 은혜를 바꾸는–자들이니 –으로 음란함으로 그리고 –그 유일하신 주재이시며 그리고 주 우리의 예수 그리스도를 부인하는–자들이라
+
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6500100401: παρεισέδυσαν (G3921) → "숨어들어왔느니라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1279,8 +1275,14 @@ WHERE pw.word_id = '6500100430' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v5 - KOR
+-- 상기시키려–하노라 그런데 너희를 원하노니 알고–있는 너희가 단번에 모든–것을 곧 –그 주께서 백성을 –에서 땅 애굽의 구원하시고 –그 두번째로 –그들을 –않는 믿지 멸망시키셨느니라
+
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6500100501: Ὑπομνῆσαι (G5279) → "상기시키려–하노라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1635,8 +1637,14 @@ WHERE pw.word_id = '6500100522' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v6 - KOR
+-- 천사들을 그리고 –그들 –않고 지키지 –그 자기들의 처음–지위를 오히려 떠난–자들을 –그 자기들의 거처를 –을–향하여 심판 큰 날의 결박으로 영원한 –아래 어둠 지키셨느니라
+
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6500100601: ἀγγέλους (G0032) → "천사들을" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1991,8 +1999,14 @@ WHERE pw.word_id = '6500100622' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v7 - KOR
+-- 마치 소돔과 그리고 고모라와 그리고 –그 –주위의 그들 성읍들이 –그 같은 방식으로 그들과 음란을–행하여 그리고 따라가서 –뒤로 육체 다른 놓여–있느니라 본보기로 불의 영원한 형벌을 받으며
+
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6500100701: ὡς (G5613) → "마치" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2395,8 +2409,14 @@ WHERE pw.word_id = '6500100725' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v8 - KOR
+-- 마찬가지로 그러나 또한 이–사람들도 꿈꾸는–자들이 육체를 한편으로 더럽히며 권위를 그리고 거부하며 영광들을 그리고 모욕하느니라
+
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6500100801: Ὁμοίως (G3668) → "마찬가지로" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2623,8 +2643,14 @@ WHERE pw.word_id = '6500100814' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v9 - KOR
+-- –그 그런데 미가엘은 –그 천사장이라 –때에 –와 마귀 논쟁할 말할–때에 –에–관하여 –의 모세의 몸을 –않았으니 감히 심판의 내리기를 모욕하는 오히려 말하였다 꾸짖으시기를 너를 주께서
+
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6500100901: ὁ (G3588) → "–그" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3011,8 +3037,14 @@ WHERE pw.word_id = '6500100924' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v10 - KOR
+-- 이–사람들은 그런데 무엇이든지 한편으로 –않는 알지 모욕하며 무엇이든지 그리고 본능적으로 마치 –그 이성–없는 짐승처럼 이해하는–것들로 –안에서 이것들 멸망당하느니라
+
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6500101001: οὗτοι (G3778) → "이–사람들은" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3303,8 +3335,14 @@ WHERE pw.word_id = '6500101018' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v11 - KOR
+-- 화가–있도다 그들에게 이는 –그 길로 –의 가인의 행하였고 그리고 –그 미혹 –의 발람의 삯을–위해 빠졌으며 그리고 –그 반역 –의 고라의 멸망당하였음이라
+
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6500101101: οὐαὶ (G3759) → "화가–있도다" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3643,8 +3681,14 @@ WHERE pw.word_id = '6500101121' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v12 - KOR
+-- 이–사람들은 –이니라 –그들은 –안에서 –그 사랑의–잔치에서 너희의 암초들이며 함께–연회하며 두려움–없이 자기–자신을 목양하며 구름들이나 물–없는 –에–의해 바람들 흘러가는 나무들이나 늦가을의 열매–없는 두–번 죽은 뿌리째–뽑힌
+
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6500101201: Οὗτοί (G3778) → "이–사람들은" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4015,8 +4059,14 @@ WHERE pw.word_id = '6500101223' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v13 - KOR
+-- 파도들이며 거친 바다의 거품을–내는 –그 자기들의 수치들을 별들이니 유랑하는 그들을–위하여 –그 어둠의 –의 흑암이 –을–향하여 영원토록 예비되었느니라
+
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6500101301: κύματα (G2949) → "파도들이며" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4291,8 +4341,14 @@ WHERE pw.word_id = '6500101317' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v14 - KOR
+-- 예언하였으니 그런데 또한 이들에게도 일곱째인 –로부터 아담 에녹이 말하기를 보라 오셨다 주께서 –가운데 거룩한 수만의 그의
+
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6500101401: Προεφήτευσεν (G4395) → "예언하였으니" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4551,8 +4607,14 @@ WHERE pw.word_id = '6500101416' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v15 - KOR
+-- 행하시려 심판을 –에–대하여 모든–이를 그리고 정죄하려 모든 –그 경건치–않은–자들을 –에–관하여 모든 –그 행위들 불경건의 그들의 그것들로 경건치–않게–행하였고 그리고 –에–관하여 모든 –그 완악한–말들 그것들로 말하였다 –에–대해 그를 죄인들이 경건치–않은
+
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 6500101501: ποιῆσαι (G4160) → "행하시려" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5003,8 +5065,14 @@ WHERE pw.word_id = '6500101528' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v16 - KOR
+-- 이–사람들은 –이니라 불평하는–자들이요 원망하는–자들이니 –따라 –그 욕망들 그들의 행하는–자들이요 그리고 –그 입이 그들의 말하느니라 과장된–것을 편파적으로–대하며 사람들을 유익을 위하여
+
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 6500101601: Οὗτοί (G3778) → "이–사람들은" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5311,8 +5379,14 @@ WHERE pw.word_id = '6500101619' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v17 - KOR
+-- 너희는 그러나 사랑하는–자들아 기억하라 –그 말씀들을 –그 미리–말해진 –에–의해 –그 사도들의 –의 주 우리의 예수 그리스도의
+
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 6500101701: Ὑμεῖς (G4771) → "너희는" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5571,8 +5645,14 @@ WHERE pw.word_id = '6500101716' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v18 - KOR
+-- 곧 말하였다 너희에게 곧 –에 마지막 –그 때에 있을–것이다 조롱하는–자들이 –따라 –그 자기들의 욕망들 행하는 –그 불경건한–것들의
+
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 6500101801: ὅτι (G3754) → "곧" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5847,8 +5927,14 @@ WHERE pw.word_id = '6500101817' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v19 - KOR
+-- 이–사람들은 –이니라 –그들이 분열을–일으키는–자들이요 육적인–자들이요 성령을 –않고 가지지
+
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 6500101901: Οὗτοί (G3778) → "이–사람들은" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5979,8 +6065,14 @@ WHERE pw.word_id = '6500101908' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v20 - KOR
+-- 너희는 그러나 사랑하는–자들아 세워가며 너희–자신들을 –그 가장–거룩한 너희의 믿음–위에 –안에서 성령으로 거룩한 기도하며
+
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 6500102001: ὑμεῖς (G4771) → "너희는" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6191,8 +6283,14 @@ WHERE pw.word_id = '6500102013' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v21 - KOR
+-- 너희–자신을 –안에 사랑 하나님의 지키라 기다리며 –그 긍휼을 –의 주 우리의 예수 그리스도의 –을–향하여 생명 영원한
+
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 6500102101: ἑαυτοὺς (G1438) → "너희–자신을" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6451,8 +6549,14 @@ WHERE pw.word_id = '6500102116' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v22 - KOR
+-- 그리고 어떤–이들을 한편으로 긍휼히–여기라 의심하는–자들을
+
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 6500102201: καὶ (G2532) → "그리고" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6535,8 +6639,14 @@ WHERE pw.word_id = '6500102205' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v23 - KOR
+-- 어떤–이들을 그리고 구원하라 –에서 불 빼앗으며 어떤–이들은 그리고 긍휼히–여기라 –가운데 두려움 미워하며 또한 –그 –로부터 –그 육체 더럽혀진 옷까지도
+
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 6500102301: ‹οὓς (G3739) → "어떤–이들을" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6843,8 +6953,14 @@ WHERE pw.word_id = '6500102319' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v24 - KOR
+-- –그분에게 그리고 능하신 지키시고 너희를 넘어지지–않게 그리고 세우실 –앞에 –그 영광 그의 흠–없이 –가운데 기쁨으로
+
 BEGIN;
--- === Chapter 1 Verse 24 ===
 -- 6500102401: Τῷ (G3588) → "–그분에게" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7087,8 +7203,14 @@ WHERE pw.word_id = '6500102415' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v25 - KOR
+-- 홀로 하나님 구원자이신 우리의 –통하여 예수 그리스도 –의 주 우리의 영광과 위엄과 권능과 그리고 권세가 –전부터 모든 –의 영원 그리고 지금 그리고 –을–향하여 모든 –그 영원토록 아멘
+
 BEGIN;
--- === Chapter 1 Verse 25 ===
 -- 6500102501: μόνῳ (G3441) → "홀로" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

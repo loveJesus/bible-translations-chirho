@@ -1,0 +1,1946 @@
+[
+  {
+    "word_id": "0201500101",
+    "text": "אָ֣ז",
+    "lemma_id": "H0227a",
+    "grammar": "Adv"
+  },
+  {
+    "word_id": "0201500102",
+    "text": "יָשִֽׁיר־",
+    "lemma_id": "H7891",
+    "grammar": "V-Qal-Imperf-3ms"
+  },
+  {
+    "word_id": "0201500103",
+    "text": "מֹשֶׁה֩",
+    "lemma_id": "H4872",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500104",
+    "text": "וּבְנֵ֨י",
+    "lemma_id": "H1121a",
+    "grammar": "Conj-w | N-mpc"
+  },
+  {
+    "word_id": "0201500105",
+    "text": "יִשְׂרָאֵ֜ל",
+    "lemma_id": "H3478",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500106",
+    "text": "אֶת־",
+    "lemma_id": "H0853",
+    "grammar": "DirObjM"
+  },
+  {
+    "word_id": "0201500107",
+    "text": "הַשִּׁירָ֤ה",
+    "lemma_id": "H7892b",
+    "grammar": "Art | N-fs"
+  },
+  {
+    "word_id": "0201500108",
+    "text": "הַזֹּאת֙",
+    "lemma_id": "H2063",
+    "grammar": "Art | Pro-fs"
+  },
+  {
+    "word_id": "0201500109",
+    "text": "לַֽיהוָ֔ה",
+    "lemma_id": "H3068",
+    "grammar": "Prep-l | N-proper-ms"
+  },
+  {
+    "word_id": "0201500110",
+    "text": "וַיֹּאמְר֖וּ",
+    "lemma_id": "H0559",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201500111",
+    "text": "לֵאמֹ֑ר",
+    "lemma_id": "H0559",
+    "grammar": "Prep-l | V-Qal-Inf"
+  },
+  {
+    "word_id": "0201500112",
+    "text": "אָשִׁ֤ירָה",
+    "lemma_id": "H7891",
+    "grammar": "V-Qal-Imperf.Cohort-1cs"
+  },
+  {
+    "word_id": "0201500113",
+    "text": "לַֽיהוָה֙",
+    "lemma_id": "H3068",
+    "grammar": "Prep-l | N-proper-ms"
+  },
+  {
+    "word_id": "0201500114",
+    "text": "כִּֽי־",
+    "lemma_id": "H3588a",
+    "grammar": "Conj"
+  },
+  {
+    "word_id": "0201500115",
+    "text": "גָאֹ֣ה",
+    "lemma_id": "H1342",
+    "grammar": "V-Qal-InfAbs"
+  },
+  {
+    "word_id": "0201500116",
+    "text": "גָּאָ֔ה",
+    "lemma_id": "H1342",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201500117",
+    "text": "ס֥וּס",
+    "lemma_id": "H5483b",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201500118",
+    "text": "וְרֹכְב֖וֹ",
+    "lemma_id": "H7392",
+    "grammar": "Conj-w | V-Qal-Prtcpl-msc | 3ms"
+  },
+  {
+    "word_id": "0201500119",
+    "text": "רָמָ֥ה",
+    "lemma_id": "H7411a",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201500120",
+    "text": "בַיָּֽם׃",
+    "lemma_id": "H3220",
+    "grammar": "Prep-b, Art | N-ms"
+  },
+  {
+    "word_id": "0201500201",
+    "text": "עָזִּ֤י",
+    "lemma_id": "H5797",
+    "grammar": "N-msc | 1cs"
+  },
+  {
+    "word_id": "0201500202",
+    "text": "וְזִמְרָת֙",
+    "lemma_id": "H2176",
+    "grammar": "Conj-w | N-fsc"
+  },
+  {
+    "word_id": "0201500203",
+    "text": "יָ֔הּ",
+    "lemma_id": "H3050",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500204",
+    "text": "וַֽיְהִי־",
+    "lemma_id": "H1961",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3ms"
+  },
+  {
+    "word_id": "0201500205",
+    "text": "לִ֖י",
+    "lemma_id": "H????",
+    "grammar": ""
+  },
+  {
+    "word_id": "0201500206",
+    "text": "לִֽישׁוּעָ֑ה",
+    "lemma_id": "H3444",
+    "grammar": "Prep-l | N-fs"
+  },
+  {
+    "word_id": "0201500207",
+    "text": "זֶ֤ה",
+    "lemma_id": "H2088",
+    "grammar": "Pro-ms"
+  },
+  {
+    "word_id": "0201500208",
+    "text": "אֵלִי֙",
+    "lemma_id": "H0410",
+    "grammar": "N-msc | 1cs"
+  },
+  {
+    "word_id": "0201500209",
+    "text": "וְאַנְוֵ֔הוּ",
+    "lemma_id": "H5115a",
+    "grammar": "Conj-w | V-Hifil-ConjImperf-1cs | 3ms"
+  },
+  {
+    "word_id": "0201500210",
+    "text": "אֱלֹהֵ֥י",
+    "lemma_id": "H0430",
+    "grammar": "N-mpc"
+  },
+  {
+    "word_id": "0201500211",
+    "text": "אָבִ֖י",
+    "lemma_id": "H0001",
+    "grammar": "N-msc | 1cs"
+  },
+  {
+    "word_id": "0201500212",
+    "text": "וַאֲרֹמְמֶֽנְהוּ׃",
+    "lemma_id": "H7311a",
+    "grammar": "Conj-w | V-Piel-ConjImperf-1cs | 3mse"
+  },
+  {
+    "word_id": "0201500301",
+    "text": "יְהוָ֖ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500302",
+    "text": "אִ֣ישׁ",
+    "lemma_id": "H0376",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201500303",
+    "text": "מִלְחָמָ֑ה",
+    "lemma_id": "H4421",
+    "grammar": "N-fs"
+  },
+  {
+    "word_id": "0201500304",
+    "text": "יְהוָ֖ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500305",
+    "text": "שְׁמֽוֹ׃",
+    "lemma_id": "H8034",
+    "grammar": "N-msc | 3ms"
+  },
+  {
+    "word_id": "0201500401",
+    "text": "מַרְכְּבֹ֥ת",
+    "lemma_id": "H4818",
+    "grammar": "N-fpc"
+  },
+  {
+    "word_id": "0201500402",
+    "text": "פַּרְעֹ֛ה",
+    "lemma_id": "H6547",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500403",
+    "text": "וְחֵיל֖וֹ",
+    "lemma_id": "H2428",
+    "grammar": "Conj-w | N-msc | 3ms"
+  },
+  {
+    "word_id": "0201500404",
+    "text": "יָרָ֣ה",
+    "lemma_id": "H3384b",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201500405",
+    "text": "בַיָּ֑ם",
+    "lemma_id": "H3220",
+    "grammar": "Prep-b, Art | N-ms"
+  },
+  {
+    "word_id": "0201500406",
+    "text": "וּמִבְחַ֥ר",
+    "lemma_id": "H4005",
+    "grammar": "Conj-w | N-msc"
+  },
+  {
+    "word_id": "0201500407",
+    "text": "שָֽׁלִשָׁ֖יו",
+    "lemma_id": "H7991c",
+    "grammar": "N-mpc | 3ms"
+  },
+  {
+    "word_id": "0201500408",
+    "text": "טֻבְּע֥וּ",
+    "lemma_id": "H2883",
+    "grammar": "V-Pual-Perf-3cp"
+  },
+  {
+    "word_id": "0201500409",
+    "text": "בְיַם־",
+    "lemma_id": "H3220",
+    "grammar": "Prep-b | N-msc"
+  },
+  {
+    "word_id": "0201500410",
+    "text": "סֽוּף׃",
+    "lemma_id": "H5488",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201500501",
+    "text": "תְּהֹמֹ֖ת",
+    "lemma_id": "H8415",
+    "grammar": "N-cp"
+  },
+  {
+    "word_id": "0201500502",
+    "text": "יְכַסְיֻ֑מוּ",
+    "lemma_id": "H3680",
+    "grammar": "V-Piel-Imperf-3mp | 3mp"
+  },
+  {
+    "word_id": "0201500503",
+    "text": "יָרְד֥וּ",
+    "lemma_id": "H3381",
+    "grammar": "V-Qal-Perf-3cp"
+  },
+  {
+    "word_id": "0201500504",
+    "text": "בִמְצוֹלֹ֖ת",
+    "lemma_id": "H4688",
+    "grammar": "Prep-b | N-fp"
+  },
+  {
+    "word_id": "0201500505",
+    "text": "כְּמוֹ־",
+    "lemma_id": "H3644",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201500506",
+    "text": "אָֽבֶן׃",
+    "lemma_id": "H0068",
+    "grammar": "N-fs"
+  },
+  {
+    "word_id": "0201500601",
+    "text": "יְמִֽינְךָ֣",
+    "lemma_id": "H3225",
+    "grammar": "N-fsc | 2ms"
+  },
+  {
+    "word_id": "0201500602",
+    "text": "יְהוָ֔ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500603",
+    "text": "נֶאְדָּרִ֖י",
+    "lemma_id": "H0142",
+    "grammar": "V-Nifal-Prtcpl-msc"
+  },
+  {
+    "word_id": "0201500604",
+    "text": "בַּכֹּ֑חַ",
+    "lemma_id": "H3581b",
+    "grammar": "Prep-b, Art | N-ms"
+  },
+  {
+    "word_id": "0201500605",
+    "text": "יְמִֽינְךָ֥",
+    "lemma_id": "H3225",
+    "grammar": "N-fsc | 2ms"
+  },
+  {
+    "word_id": "0201500606",
+    "text": "יְהוָ֖ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201500607",
+    "text": "תִּרְעַ֥ץ",
+    "lemma_id": "H7492",
+    "grammar": "V-Qal-Imperf-3fs"
+  },
+  {
+    "word_id": "0201500608",
+    "text": "אוֹיֵֽב׃",
+    "lemma_id": "H0341",
+    "grammar": "V-Qal-Prtcpl-ms"
+  },
+  {
+    "word_id": "0201500701",
+    "text": "וּבְרֹ֥ב",
+    "lemma_id": "H7230",
+    "grammar": "Conj-w, Prep-b | N-msc"
+  },
+  {
+    "word_id": "0201500702",
+    "text": "גְּאוֹנְךָ֖",
+    "lemma_id": "H1347",
+    "grammar": "N-msc | 2ms"
+  },
+  {
+    "word_id": "0201500703",
+    "text": "תַּהֲרֹ֣ס",
+    "lemma_id": "H2040",
+    "grammar": "V-Qal-Imperf-2ms"
+  },
+  {
+    "word_id": "0201500704",
+    "text": "קָמֶ֑יךָ",
+    "lemma_id": "H6965b",
+    "grammar": "V-Qal-Prtcpl-mpc | 2ms"
+  },
+  {
+    "word_id": "0201500705",
+    "text": "תְּשַׁלַּח֙",
+    "lemma_id": "H7971",
+    "grammar": "V-Piel-Imperf-2ms"
+  },
+  {
+    "word_id": "0201500706",
+    "text": "חֲרֹ֣נְךָ֔",
+    "lemma_id": "H2740",
+    "grammar": "N-msc | 2ms"
+  },
+  {
+    "word_id": "0201500707",
+    "text": "יֹאכְלֵ֖מוֹ",
+    "lemma_id": "H0398",
+    "grammar": "V-Qal-Imperf-3ms | 3mp"
+  },
+  {
+    "word_id": "0201500708",
+    "text": "כַּקַּֽשׁ׃",
+    "lemma_id": "H7179",
+    "grammar": "Prep-k, Art | N-ms"
+  },
+  {
+    "word_id": "0201500801",
+    "text": "וּבְר֤וּחַ",
+    "lemma_id": "H7307",
+    "grammar": "Conj-w, Prep-b | N-csc"
+  },
+  {
+    "word_id": "0201500802",
+    "text": "אַפֶּ֙יךָ֙",
+    "lemma_id": "H0639",
+    "grammar": "N-mdc | 2ms"
+  },
+  {
+    "word_id": "0201500803",
+    "text": "נֶ֣עֶרְמוּ",
+    "lemma_id": "H6192",
+    "grammar": "V-Nifal-Perf-3cp"
+  },
+  {
+    "word_id": "0201500804",
+    "text": "מַ֔יִם",
+    "lemma_id": "H4325",
+    "grammar": "N-mp"
+  },
+  {
+    "word_id": "0201500805",
+    "text": "נִצְּב֥וּ",
+    "lemma_id": "H5324",
+    "grammar": "V-Nifal-Perf-3cp"
+  },
+  {
+    "word_id": "0201500806",
+    "text": "כְמוֹ־",
+    "lemma_id": "H3644",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201500807",
+    "text": "נֵ֖ד",
+    "lemma_id": "H5067",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201500808",
+    "text": "נֹזְלִ֑ים",
+    "lemma_id": "H5140",
+    "grammar": "V-Qal-Prtcpl-mp"
+  },
+  {
+    "word_id": "0201500809",
+    "text": "קָֽפְא֥וּ",
+    "lemma_id": "H7087a",
+    "grammar": "V-Qal-Perf-3cp"
+  },
+  {
+    "word_id": "0201500810",
+    "text": "תְהֹמֹ֖ת",
+    "lemma_id": "H8415",
+    "grammar": "N-cp"
+  },
+  {
+    "word_id": "0201500811",
+    "text": "בְּלֶב־",
+    "lemma_id": "H3820a",
+    "grammar": "Prep-b | N-msc"
+  },
+  {
+    "word_id": "0201500812",
+    "text": "יָֽם׃",
+    "lemma_id": "H3220",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201500901",
+    "text": "אָמַ֥ר",
+    "lemma_id": "H0559",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201500902",
+    "text": "אוֹיֵ֛ב",
+    "lemma_id": "H0341",
+    "grammar": "V-Qal-Prtcpl-ms"
+  },
+  {
+    "word_id": "0201500903",
+    "text": "אֶרְדֹּ֥ף",
+    "lemma_id": "H7291",
+    "grammar": "V-Qal-Imperf-1cs"
+  },
+  {
+    "word_id": "0201500904",
+    "text": "אַשִּׂ֖יג",
+    "lemma_id": "H5381",
+    "grammar": "V-Hifil-Imperf-1cs"
+  },
+  {
+    "word_id": "0201500905",
+    "text": "אֲחַלֵּ֣ק",
+    "lemma_id": "H2505a",
+    "grammar": "V-Piel-Imperf-1cs"
+  },
+  {
+    "word_id": "0201500906",
+    "text": "שָׁלָ֑ל",
+    "lemma_id": "H7998",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201500907",
+    "text": "תִּמְלָאֵ֣מוֹ",
+    "lemma_id": "H4390",
+    "grammar": "V-Qal-Imperf-3fs | 3mp"
+  },
+  {
+    "word_id": "0201500908",
+    "text": "נַפְשִׁ֔י",
+    "lemma_id": "H5315",
+    "grammar": "N-fsc | 1cs"
+  },
+  {
+    "word_id": "0201500909",
+    "text": "אָרִ֣יק",
+    "lemma_id": "H7324",
+    "grammar": "V-Hifil-Imperf-1cs"
+  },
+  {
+    "word_id": "0201500910",
+    "text": "חַרְבִּ֔י",
+    "lemma_id": "H2719",
+    "grammar": "N-fsc | 1cs"
+  },
+  {
+    "word_id": "0201500911",
+    "text": "תּוֹרִישֵׁ֖מוֹ",
+    "lemma_id": "H3423",
+    "grammar": "V-Hifil-Imperf-3fs | 3mp"
+  },
+  {
+    "word_id": "0201500912",
+    "text": "יָדִֽי׃",
+    "lemma_id": "H3027",
+    "grammar": "N-fsc | 1cs"
+  },
+  {
+    "word_id": "0201501001",
+    "text": "נָשַׁ֥פְתָּ",
+    "lemma_id": "H5398",
+    "grammar": "V-Qal-Perf-2ms"
+  },
+  {
+    "word_id": "0201501002",
+    "text": "בְרוּחֲךָ֖",
+    "lemma_id": "H7307",
+    "grammar": "Prep-b | N-csc | 2ms"
+  },
+  {
+    "word_id": "0201501003",
+    "text": "כִּסָּ֣מוֹ",
+    "lemma_id": "H3680",
+    "grammar": "V-Piel-Perf-3ms | 3mp"
+  },
+  {
+    "word_id": "0201501004",
+    "text": "יָ֑ם",
+    "lemma_id": "H3220",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501005",
+    "text": "צָֽלֲלוּ֙",
+    "lemma_id": "H6749",
+    "grammar": "V-Qal-Perf-3cp"
+  },
+  {
+    "word_id": "0201501006",
+    "text": "כַּֽעוֹפֶ֔רֶת",
+    "lemma_id": "H5777",
+    "grammar": "Prep-k, Art | N-fs"
+  },
+  {
+    "word_id": "0201501007",
+    "text": "בְּמַ֖יִם",
+    "lemma_id": "H4325",
+    "grammar": "Prep-b | N-mp"
+  },
+  {
+    "word_id": "0201501008",
+    "text": "אַדִּירִֽים׃",
+    "lemma_id": "H0117",
+    "grammar": "Adj-mp"
+  },
+  {
+    "word_id": "0201501101",
+    "text": "מִֽי־",
+    "lemma_id": "H4310",
+    "grammar": "Interrog"
+  },
+  {
+    "word_id": "0201501102",
+    "text": "כָמֹ֤כָה",
+    "lemma_id": "H3644",
+    "grammar": "Prep | 2ms"
+  },
+  {
+    "word_id": "0201501103",
+    "text": "בָּֽאֵלִם֙",
+    "lemma_id": "H0410",
+    "grammar": "Prep-b, Art | N-mp"
+  },
+  {
+    "word_id": "0201501104",
+    "text": "יְהוָ֔ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501105",
+    "text": "מִ֥י",
+    "lemma_id": "H4310",
+    "grammar": "Interrog"
+  },
+  {
+    "word_id": "0201501106",
+    "text": "כָּמֹ֖כָה",
+    "lemma_id": "H3644",
+    "grammar": "Prep | 2ms"
+  },
+  {
+    "word_id": "0201501107",
+    "text": "נֶאְדָּ֣ר",
+    "lemma_id": "H0142",
+    "grammar": "V-Nifal-Prtcpl-ms"
+  },
+  {
+    "word_id": "0201501108",
+    "text": "בַּקֹּ֑דֶשׁ",
+    "lemma_id": "H6944",
+    "grammar": "Prep-b, Art | N-ms"
+  },
+  {
+    "word_id": "0201501109",
+    "text": "נוֹרָ֥א",
+    "lemma_id": "H3372",
+    "grammar": "V-Nifal-Prtcpl-ms"
+  },
+  {
+    "word_id": "0201501110",
+    "text": "תְהִלֹּ֖ת",
+    "lemma_id": "H8416",
+    "grammar": "N-fp"
+  },
+  {
+    "word_id": "0201501111",
+    "text": "עֹ֥שֵׂה",
+    "lemma_id": "H6213a",
+    "grammar": "V-Qal-Prtcpl-msc"
+  },
+  {
+    "word_id": "0201501112",
+    "text": "פֶֽלֶא׃",
+    "lemma_id": "H6382",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501201",
+    "text": "נָטִ֙יתָ֙",
+    "lemma_id": "H5186",
+    "grammar": "V-Qal-Perf-2ms"
+  },
+  {
+    "word_id": "0201501202",
+    "text": "יְמִ֣ינְךָ֔",
+    "lemma_id": "H3225",
+    "grammar": "N-fsc | 2ms"
+  },
+  {
+    "word_id": "0201501203",
+    "text": "תִּבְלָעֵ֖מוֹ",
+    "lemma_id": "H1104",
+    "grammar": "V-Qal-Imperf-3fs | 3mp"
+  },
+  {
+    "word_id": "0201501204",
+    "text": "אָֽרֶץ׃",
+    "lemma_id": "H0776",
+    "grammar": "N-fs"
+  },
+  {
+    "word_id": "0201501301",
+    "text": "נָחִ֥יתָ",
+    "lemma_id": "H5148",
+    "grammar": "V-Qal-Perf-2ms"
+  },
+  {
+    "word_id": "0201501302",
+    "text": "בְחַסְדְּךָ֖",
+    "lemma_id": "H2617a",
+    "grammar": "Prep-b | N-msc | 2ms"
+  },
+  {
+    "word_id": "0201501303",
+    "text": "עַם־",
+    "lemma_id": "H5971a",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501304",
+    "text": "ז֣וּ",
+    "lemma_id": "H2098",
+    "grammar": "Pro-r"
+  },
+  {
+    "word_id": "0201501305",
+    "text": "גָּאָ֑לְתָּ",
+    "lemma_id": "H1350a",
+    "grammar": "V-Qal-Perf-2ms"
+  },
+  {
+    "word_id": "0201501306",
+    "text": "נֵהַ֥לְתָּ",
+    "lemma_id": "H5095",
+    "grammar": "V-Piel-Perf-2ms"
+  },
+  {
+    "word_id": "0201501307",
+    "text": "בְעָזְּךָ֖",
+    "lemma_id": "H5797",
+    "grammar": "Prep-b | N-msc | 2ms"
+  },
+  {
+    "word_id": "0201501308",
+    "text": "אֶל־",
+    "lemma_id": "H0413",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201501309",
+    "text": "נְוֵ֥ה",
+    "lemma_id": "H5116a",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201501310",
+    "text": "קָדְשֶֽׁךָ׃",
+    "lemma_id": "H6944",
+    "grammar": "N-msc | 2ms"
+  },
+  {
+    "word_id": "0201501401",
+    "text": "שָֽׁמְע֥וּ",
+    "lemma_id": "H8085",
+    "grammar": "V-Qal-Perf-3cp"
+  },
+  {
+    "word_id": "0201501402",
+    "text": "עַמִּ֖ים",
+    "lemma_id": "H5971a",
+    "grammar": "N-mp"
+  },
+  {
+    "word_id": "0201501403",
+    "text": "יִרְגָּז֑וּן",
+    "lemma_id": "H7264",
+    "grammar": "V-Qal-Imperf-3mp | Pn"
+  },
+  {
+    "word_id": "0201501404",
+    "text": "חִ֣יל",
+    "lemma_id": "H2427a",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501405",
+    "text": "אָחַ֔ז",
+    "lemma_id": "H0270",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201501406",
+    "text": "יֹשְׁבֵ֖י",
+    "lemma_id": "H3427",
+    "grammar": "V-Qal-Prtcpl-mpc"
+  },
+  {
+    "word_id": "0201501407",
+    "text": "פְּלָֽשֶׁת׃",
+    "lemma_id": "H6429",
+    "grammar": "N-proper-fs"
+  },
+  {
+    "word_id": "0201501501",
+    "text": "אָ֤ז",
+    "lemma_id": "H0227a",
+    "grammar": "Adv"
+  },
+  {
+    "word_id": "0201501502",
+    "text": "נִבְהֲלוּ֙",
+    "lemma_id": "H0926",
+    "grammar": "V-Nifal-Perf-3cp"
+  },
+  {
+    "word_id": "0201501503",
+    "text": "אַלּוּפֵ֣י",
+    "lemma_id": "H0441b",
+    "grammar": "N-mpc"
+  },
+  {
+    "word_id": "0201501504",
+    "text": "אֱד֔וֹם",
+    "lemma_id": "H0123",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501505",
+    "text": "אֵילֵ֣י",
+    "lemma_id": "H0352c",
+    "grammar": "N-mpc"
+  },
+  {
+    "word_id": "0201501506",
+    "text": "מוֹאָ֔ב",
+    "lemma_id": "H4124",
+    "grammar": "N-proper-fs"
+  },
+  {
+    "word_id": "0201501507",
+    "text": "יֹֽאחֲזֵ֖מוֹ",
+    "lemma_id": "H0270",
+    "grammar": "V-Qal-Imperf-3ms | 3mp"
+  },
+  {
+    "word_id": "0201501508",
+    "text": "רָ֑עַד",
+    "lemma_id": "H7461a",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501509",
+    "text": "נָמֹ֕גוּ",
+    "lemma_id": "H4127",
+    "grammar": "V-Nifal-Perf-3cp"
+  },
+  {
+    "word_id": "0201501510",
+    "text": "כֹּ֖ל",
+    "lemma_id": "H3605",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201501511",
+    "text": "יֹשְׁבֵ֥י",
+    "lemma_id": "H3427",
+    "grammar": "V-Qal-Prtcpl-mpc"
+  },
+  {
+    "word_id": "0201501512",
+    "text": "כְנָֽעַן׃",
+    "lemma_id": "H3667a",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501601",
+    "text": "תִּפֹּ֨ל",
+    "lemma_id": "H5307",
+    "grammar": "V-Qal-Imperf-3fs"
+  },
+  {
+    "word_id": "0201501602",
+    "text": "עֲלֵיהֶ֤ם",
+    "lemma_id": "H5921a",
+    "grammar": "Prep | 3mp"
+  },
+  {
+    "word_id": "0201501603",
+    "text": "אֵימָ֙תָה֙",
+    "lemma_id": "H0367",
+    "grammar": "N-fs | 3fs"
+  },
+  {
+    "word_id": "0201501604",
+    "text": "וָפַ֔חַד",
+    "lemma_id": "H6343",
+    "grammar": "Conj-w | N-ms"
+  },
+  {
+    "word_id": "0201501605",
+    "text": "בִּגְדֹ֥ל",
+    "lemma_id": "H1419a",
+    "grammar": "Prep-b | N-msc"
+  },
+  {
+    "word_id": "0201501606",
+    "text": "זְרוֹעֲךָ֖",
+    "lemma_id": "H2220",
+    "grammar": "N-fsc | 2ms"
+  },
+  {
+    "word_id": "0201501607",
+    "text": "יִדְּמ֣וּ",
+    "lemma_id": "H1826a",
+    "grammar": "V-Qal-Imperf-3mp"
+  },
+  {
+    "word_id": "0201501608",
+    "text": "כָּאָ֑בֶן",
+    "lemma_id": "H0068",
+    "grammar": "Prep-k, Art | N-fs"
+  },
+  {
+    "word_id": "0201501609",
+    "text": "עַד־",
+    "lemma_id": "H5704",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201501610",
+    "text": "יַעֲבֹ֤ר",
+    "lemma_id": "H5674a",
+    "grammar": "V-Qal-Imperf-3ms"
+  },
+  {
+    "word_id": "0201501611",
+    "text": "עַמְּךָ֙",
+    "lemma_id": "H5971a",
+    "grammar": "N-msc | 2ms"
+  },
+  {
+    "word_id": "0201501612",
+    "text": "יְהוָ֔ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501613",
+    "text": "עַֽד־",
+    "lemma_id": "H5704",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201501614",
+    "text": "יַעֲבֹ֖ר",
+    "lemma_id": "H5674a",
+    "grammar": "V-Qal-Imperf-3ms"
+  },
+  {
+    "word_id": "0201501615",
+    "text": "עַם־",
+    "lemma_id": "H5971a",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501616",
+    "text": "ז֥וּ",
+    "lemma_id": "H2098",
+    "grammar": "Pro-r"
+  },
+  {
+    "word_id": "0201501617",
+    "text": "קָנִֽיתָ׃",
+    "lemma_id": "H7069",
+    "grammar": "V-Qal-Perf-2ms"
+  },
+  {
+    "word_id": "0201501701",
+    "text": "תְּבִאֵ֗מוֹ",
+    "lemma_id": "H0935",
+    "grammar": "V-Hifil-Imperf-2ms | 3mp"
+  },
+  {
+    "word_id": "0201501702",
+    "text": "וְתִטָּעֵ֙מוֹ֙",
+    "lemma_id": "H5193",
+    "grammar": "Conj-w | V-Qal-ConjImperf-2ms | 3mp"
+  },
+  {
+    "word_id": "0201501703",
+    "text": "בְּהַ֣ר",
+    "lemma_id": "H2022",
+    "grammar": "Prep-b | N-msc"
+  },
+  {
+    "word_id": "0201501704",
+    "text": "נַחֲלָֽתְךָ֔",
+    "lemma_id": "H5159",
+    "grammar": "N-fsc | 2ms"
+  },
+  {
+    "word_id": "0201501705",
+    "text": "מָכ֧וֹן",
+    "lemma_id": "H4349",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501706",
+    "text": "לְשִׁבְתְּךָ֛",
+    "lemma_id": "H3427",
+    "grammar": "Prep-l | V-Qal-Inf | 2ms"
+  },
+  {
+    "word_id": "0201501707",
+    "text": "פָּעַ֖לְתָּ",
+    "lemma_id": "H6466",
+    "grammar": "V-Qal-Perf-2ms"
+  },
+  {
+    "word_id": "0201501708",
+    "text": "יְהוָ֑ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501709",
+    "text": "מִקְּדָ֕שׁ",
+    "lemma_id": "H4720",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201501710",
+    "text": "אֲדֹנָ֖י",
+    "lemma_id": "H0136",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501711",
+    "text": "כּוֹנְנ֥וּ",
+    "lemma_id": "H3559a",
+    "grammar": "V-Piel-Perf-3cp"
+  },
+  {
+    "word_id": "0201501712",
+    "text": "יָדֶֽיךָ׃",
+    "lemma_id": "H3027",
+    "grammar": "N-fdc | 2ms"
+  },
+  {
+    "word_id": "0201501801",
+    "text": "יְהוָ֥ה ׀",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501802",
+    "text": "יִמְלֹ֖ךְ",
+    "lemma_id": "H4427a",
+    "grammar": "V-Qal-Imperf-3ms"
+  },
+  {
+    "word_id": "0201501803",
+    "text": "לְעֹלָ֥ם",
+    "lemma_id": "H5769",
+    "grammar": "Prep-l | N-ms"
+  },
+  {
+    "word_id": "0201501804",
+    "text": "וָעֶֽד׃",
+    "lemma_id": "H5703",
+    "grammar": "Conj-w | N-ms"
+  },
+  {
+    "word_id": "0201501901",
+    "text": "כִּ֣י",
+    "lemma_id": "H3588a",
+    "grammar": "Conj"
+  },
+  {
+    "word_id": "0201501902",
+    "text": "בָא֩",
+    "lemma_id": "H0935",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201501903",
+    "text": "ס֨וּס",
+    "lemma_id": "H5483b",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201501904",
+    "text": "פַּרְעֹ֜ה",
+    "lemma_id": "H6547",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501905",
+    "text": "בְּרִכְבּ֤וֹ",
+    "lemma_id": "H7393",
+    "grammar": "Prep-b | N-msc | 3ms"
+  },
+  {
+    "word_id": "0201501906",
+    "text": "וּבְפָרָשָׁיו֙",
+    "lemma_id": "H6571b",
+    "grammar": "Conj-w, Prep-b | N-mpc | 3ms"
+  },
+  {
+    "word_id": "0201501907",
+    "text": "בַּיָּ֔ם",
+    "lemma_id": "H3220",
+    "grammar": "Prep-b, Art | N-ms"
+  },
+  {
+    "word_id": "0201501908",
+    "text": "וַיָּ֧שֶׁב",
+    "lemma_id": "H7725",
+    "grammar": "Conj-w | V-Hifil-ConsecImperf-3ms"
+  },
+  {
+    "word_id": "0201501909",
+    "text": "יְהוָ֛ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501910",
+    "text": "עֲלֵהֶ֖ם",
+    "lemma_id": "H5921a",
+    "grammar": "Prep | 3mp"
+  },
+  {
+    "word_id": "0201501911",
+    "text": "אֶת־",
+    "lemma_id": "H0853",
+    "grammar": "DirObjM"
+  },
+  {
+    "word_id": "0201501912",
+    "text": "מֵ֣י",
+    "lemma_id": "H4325",
+    "grammar": "N-mpc"
+  },
+  {
+    "word_id": "0201501913",
+    "text": "הַיָּ֑ם",
+    "lemma_id": "H3220",
+    "grammar": "Art | N-ms"
+  },
+  {
+    "word_id": "0201501914",
+    "text": "וּבְנֵ֧י",
+    "lemma_id": "H1121a",
+    "grammar": "Conj-w | N-mpc"
+  },
+  {
+    "word_id": "0201501915",
+    "text": "יִשְׂרָאֵ֛ל",
+    "lemma_id": "H3478",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201501916",
+    "text": "הָלְכ֥וּ",
+    "lemma_id": "H1980",
+    "grammar": "V-Qal-Perf-3cp"
+  },
+  {
+    "word_id": "0201501917",
+    "text": "בַיַּבָּשָׁ֖ה",
+    "lemma_id": "H3004",
+    "grammar": "Prep-b, Art | N-fs"
+  },
+  {
+    "word_id": "0201501918",
+    "text": "בְּת֥וֹךְ",
+    "lemma_id": "H8432",
+    "grammar": "Prep-b | N-msc"
+  },
+  {
+    "word_id": "0201501919",
+    "text": "הַיָּֽם׃",
+    "lemma_id": "H3220",
+    "grammar": "Art | N-ms"
+  },
+  {
+    "word_id": "0201501920",
+    "text": "פ",
+    "lemma_id": "H????",
+    "grammar": ""
+  },
+  {
+    "word_id": "0201502001",
+    "text": "וַתִּקַּח֩",
+    "lemma_id": "H3947",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3fs"
+  },
+  {
+    "word_id": "0201502002",
+    "text": "מִרְיָ֨ם",
+    "lemma_id": "H4813",
+    "grammar": "N-proper-fs"
+  },
+  {
+    "word_id": "0201502003",
+    "text": "הַנְּבִיאָ֜ה",
+    "lemma_id": "H5031",
+    "grammar": "Art | N-fs"
+  },
+  {
+    "word_id": "0201502004",
+    "text": "אֲח֧וֹת",
+    "lemma_id": "H0269",
+    "grammar": "N-fsc"
+  },
+  {
+    "word_id": "0201502005",
+    "text": "אַהֲרֹ֛ן",
+    "lemma_id": "H0175",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502006",
+    "text": "אֶת־",
+    "lemma_id": "H0853",
+    "grammar": "DirObjM"
+  },
+  {
+    "word_id": "0201502007",
+    "text": "הַתֹּ֖ף",
+    "lemma_id": "H8596",
+    "grammar": "Art | N-ms"
+  },
+  {
+    "word_id": "0201502008",
+    "text": "בְּיָדָ֑הּ",
+    "lemma_id": "H3027",
+    "grammar": "Prep-b | N-fsc | 3fs"
+  },
+  {
+    "word_id": "0201502009",
+    "text": "וַתֵּצֶ֤אןָ",
+    "lemma_id": "H3318",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3fp"
+  },
+  {
+    "word_id": "0201502010",
+    "text": "כָֽל־",
+    "lemma_id": "H3605",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201502011",
+    "text": "הַנָּשִׁים֙",
+    "lemma_id": "H0802",
+    "grammar": "Art | N-fp"
+  },
+  {
+    "word_id": "0201502012",
+    "text": "אַחֲרֶ֔יהָ",
+    "lemma_id": "H0310a",
+    "grammar": "Prep | 3fs"
+  },
+  {
+    "word_id": "0201502013",
+    "text": "בְּתֻפִּ֖ים",
+    "lemma_id": "H8596",
+    "grammar": "Prep-b | N-mp"
+  },
+  {
+    "word_id": "0201502014",
+    "text": "וּבִמְחֹלֹֽת׃",
+    "lemma_id": "H4246",
+    "grammar": "Conj-w, Prep-b | N-fp"
+  },
+  {
+    "word_id": "0201502101",
+    "text": "וַתַּ֥עַן",
+    "lemma_id": "H6030c",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3fs"
+  },
+  {
+    "word_id": "0201502102",
+    "text": "לָהֶ֖ם",
+    "lemma_id": "H????",
+    "grammar": ""
+  },
+  {
+    "word_id": "0201502103",
+    "text": "מִרְיָ֑ם",
+    "lemma_id": "H4813",
+    "grammar": "N-proper-fs"
+  },
+  {
+    "word_id": "0201502104",
+    "text": "שִׁ֤ירוּ",
+    "lemma_id": "H7891",
+    "grammar": "V-Qal-Imp-mp"
+  },
+  {
+    "word_id": "0201502105",
+    "text": "לַֽיהוָה֙",
+    "lemma_id": "H3068",
+    "grammar": "Prep-l | N-proper-ms"
+  },
+  {
+    "word_id": "0201502106",
+    "text": "כִּֽי־",
+    "lemma_id": "H3588a",
+    "grammar": "Conj"
+  },
+  {
+    "word_id": "0201502107",
+    "text": "גָאֹ֣ה",
+    "lemma_id": "H1342",
+    "grammar": "V-Qal-InfAbs"
+  },
+  {
+    "word_id": "0201502108",
+    "text": "גָּאָ֔ה",
+    "lemma_id": "H1342",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201502109",
+    "text": "ס֥וּס",
+    "lemma_id": "H5483b",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201502110",
+    "text": "וְרֹכְב֖וֹ",
+    "lemma_id": "H7392",
+    "grammar": "Conj-w | V-Qal-Prtcpl-msc | 3ms"
+  },
+  {
+    "word_id": "0201502111",
+    "text": "רָמָ֥ה",
+    "lemma_id": "H7411a",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201502112",
+    "text": "בַיָּֽם׃",
+    "lemma_id": "H3220",
+    "grammar": "Prep-b, Art | N-ms"
+  },
+  {
+    "word_id": "0201502113",
+    "text": "ס",
+    "lemma_id": "H????",
+    "grammar": ""
+  },
+  {
+    "word_id": "0201502201",
+    "text": "וַיַּסַּ֨ע",
+    "lemma_id": "H5265",
+    "grammar": "Conj-w | V-Hifil-ConsecImperf-3ms"
+  },
+  {
+    "word_id": "0201502202",
+    "text": "מֹשֶׁ֤ה",
+    "lemma_id": "H4872",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502203",
+    "text": "אֶת־",
+    "lemma_id": "H0853",
+    "grammar": "DirObjM"
+  },
+  {
+    "word_id": "0201502204",
+    "text": "יִשְׂרָאֵל֙",
+    "lemma_id": "H3478",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502205",
+    "text": "מִיַּם־",
+    "lemma_id": "H3220",
+    "grammar": "Prep-m | N-msc"
+  },
+  {
+    "word_id": "0201502206",
+    "text": "ס֔וּף",
+    "lemma_id": "H5488",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201502207",
+    "text": "וַיֵּצְא֖וּ",
+    "lemma_id": "H3318",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201502208",
+    "text": "אֶל־",
+    "lemma_id": "H0413",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201502209",
+    "text": "מִדְבַּר־",
+    "lemma_id": "H4057b",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201502210",
+    "text": "שׁ֑וּר",
+    "lemma_id": "H7793",
+    "grammar": "N-proper-fs"
+  },
+  {
+    "word_id": "0201502211",
+    "text": "וַיֵּלְכ֧וּ",
+    "lemma_id": "H3212",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201502212",
+    "text": "שְׁלֹֽשֶׁת־",
+    "lemma_id": "H7969",
+    "grammar": "Number-msc"
+  },
+  {
+    "word_id": "0201502213",
+    "text": "יָמִ֛ים",
+    "lemma_id": "H3117",
+    "grammar": "N-mp"
+  },
+  {
+    "word_id": "0201502214",
+    "text": "בַּמִּדְבָּ֖ר",
+    "lemma_id": "H4057b",
+    "grammar": "Prep-b, Art | N-ms"
+  },
+  {
+    "word_id": "0201502215",
+    "text": "וְלֹא־",
+    "lemma_id": "H3808",
+    "grammar": "Conj-w | Adv-NegPrt"
+  },
+  {
+    "word_id": "0201502216",
+    "text": "מָ֥צְאוּ",
+    "lemma_id": "H4672",
+    "grammar": "V-Qal-Perf-3cp"
+  },
+  {
+    "word_id": "0201502217",
+    "text": "מָֽיִם׃",
+    "lemma_id": "H4325",
+    "grammar": "N-mp"
+  },
+  {
+    "word_id": "0201502301",
+    "text": "וַיָּבֹ֣אוּ",
+    "lemma_id": "H0935",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201502302",
+    "text": "מָרָ֔תָה",
+    "lemma_id": "H4785",
+    "grammar": "N-proper-fs | 3fs"
+  },
+  {
+    "word_id": "0201502303",
+    "text": "וְלֹ֣א",
+    "lemma_id": "H3808",
+    "grammar": "Conj-w | Adv-NegPrt"
+  },
+  {
+    "word_id": "0201502304",
+    "text": "יָֽכְל֗וּ",
+    "lemma_id": "H3201",
+    "grammar": "V-Qal-Perf-3cp"
+  },
+  {
+    "word_id": "0201502305",
+    "text": "לִשְׁתֹּ֥ת",
+    "lemma_id": "H8354",
+    "grammar": "Prep-l | V-Qal-Inf"
+  },
+  {
+    "word_id": "0201502306",
+    "text": "מַ֙יִם֙",
+    "lemma_id": "H4325",
+    "grammar": "N-mp"
+  },
+  {
+    "word_id": "0201502307",
+    "text": "מִמָּרָ֔ה",
+    "lemma_id": "H4785",
+    "grammar": "Prep-m | N-proper-fs"
+  },
+  {
+    "word_id": "0201502308",
+    "text": "כִּ֥י",
+    "lemma_id": "H3588a",
+    "grammar": "Conj"
+  },
+  {
+    "word_id": "0201502309",
+    "text": "מָרִ֖ים",
+    "lemma_id": "H4751",
+    "grammar": "Adj-mp"
+  },
+  {
+    "word_id": "0201502310",
+    "text": "הֵ֑ם",
+    "lemma_id": "H1992",
+    "grammar": "Pro-3mp"
+  },
+  {
+    "word_id": "0201502311",
+    "text": "עַל־",
+    "lemma_id": "H5921a",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201502312",
+    "text": "כֵּ֥ן",
+    "lemma_id": "H3651c",
+    "grammar": "Adv"
+  },
+  {
+    "word_id": "0201502313",
+    "text": "קָרָֽא־",
+    "lemma_id": "H7121",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201502314",
+    "text": "שְׁמָ֖הּ",
+    "lemma_id": "H8034",
+    "grammar": "N-msc | 3fs"
+  },
+  {
+    "word_id": "0201502315",
+    "text": "מָרָֽה׃",
+    "lemma_id": "H4785",
+    "grammar": "N-proper-fs"
+  },
+  {
+    "word_id": "0201502401",
+    "text": "וַיִּלֹּ֧נוּ",
+    "lemma_id": "H3885b",
+    "grammar": "Conj-w | V-Nifal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201502402",
+    "text": "הָעָ֛ם",
+    "lemma_id": "H5971a",
+    "grammar": "Art | N-ms"
+  },
+  {
+    "word_id": "0201502403",
+    "text": "עַל־",
+    "lemma_id": "H5921a",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201502404",
+    "text": "מֹשֶׁ֥ה",
+    "lemma_id": "H4872",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502405",
+    "text": "לֵּאמֹ֖ר",
+    "lemma_id": "H0559",
+    "grammar": "Prep-l | V-Qal-Inf"
+  },
+  {
+    "word_id": "0201502406",
+    "text": "מַה־",
+    "lemma_id": "H4100",
+    "grammar": "Interrog"
+  },
+  {
+    "word_id": "0201502407",
+    "text": "נִּשְׁתֶּֽה׃",
+    "lemma_id": "H8354",
+    "grammar": "V-Qal-Imperf-1cp"
+  },
+  {
+    "word_id": "0201502501",
+    "text": "וַיִּצְעַ֣ק",
+    "lemma_id": "H6817",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3ms"
+  },
+  {
+    "word_id": "0201502502",
+    "text": "אֶל־",
+    "lemma_id": "H0413",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201502503",
+    "text": "יְהוָ֗ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502504",
+    "text": "וַיּוֹרֵ֤הוּ",
+    "lemma_id": "H3384b",
+    "grammar": "Conj-w | V-Hifil-ConsecImperf-3ms | 3ms"
+  },
+  {
+    "word_id": "0201502505",
+    "text": "יְהוָה֙",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502506",
+    "text": "עֵ֔ץ",
+    "lemma_id": "H6086",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201502507",
+    "text": "וַיַּשְׁלֵךְ֙",
+    "lemma_id": "H7993",
+    "grammar": "Conj-w | V-Hifil-ConsecImperf-3ms"
+  },
+  {
+    "word_id": "0201502508",
+    "text": "אֶל־",
+    "lemma_id": "H0413",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201502509",
+    "text": "הַמַּ֔יִם",
+    "lemma_id": "H4325",
+    "grammar": "Art | N-mp"
+  },
+  {
+    "word_id": "0201502510",
+    "text": "וַֽיִּמְתְּק֖וּ",
+    "lemma_id": "H4985",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201502511",
+    "text": "הַמָּ֑יִם",
+    "lemma_id": "H4325",
+    "grammar": "Art | N-mp"
+  },
+  {
+    "word_id": "0201502512",
+    "text": "שָׁ֣ם",
+    "lemma_id": "H8033",
+    "grammar": "Adv"
+  },
+  {
+    "word_id": "0201502513",
+    "text": "שָׂ֥ם",
+    "lemma_id": "H7760a",
+    "grammar": "V-Qal-Perf-3ms"
+  },
+  {
+    "word_id": "0201502514",
+    "text": "ל֛וֹ",
+    "lemma_id": "H????",
+    "grammar": ""
+  },
+  {
+    "word_id": "0201502515",
+    "text": "חֹ֥ק",
+    "lemma_id": "H2706",
+    "grammar": "N-ms"
+  },
+  {
+    "word_id": "0201502516",
+    "text": "וּמִשְׁפָּ֖ט",
+    "lemma_id": "H4941",
+    "grammar": "Conj-w | N-ms"
+  },
+  {
+    "word_id": "0201502517",
+    "text": "וְשָׁ֥ם",
+    "lemma_id": "H8033",
+    "grammar": "Conj-w | Adv"
+  },
+  {
+    "word_id": "0201502518",
+    "text": "נִסָּֽהוּ׃",
+    "lemma_id": "H5254",
+    "grammar": "V-Piel-Perf-3ms | 3ms"
+  },
+  {
+    "word_id": "0201502601",
+    "text": "וַיֹּאמֶר֩",
+    "lemma_id": "H0559",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3ms"
+  },
+  {
+    "word_id": "0201502602",
+    "text": "אִם־",
+    "lemma_id": "H0518a",
+    "grammar": "Conj"
+  },
+  {
+    "word_id": "0201502603",
+    "text": "שָׁמ֨וֹעַ",
+    "lemma_id": "H8085",
+    "grammar": "V-Qal-InfAbs"
+  },
+  {
+    "word_id": "0201502604",
+    "text": "תִּשְׁמַ֜ע",
+    "lemma_id": "H8085",
+    "grammar": "V-Qal-Imperf-2ms"
+  },
+  {
+    "word_id": "0201502605",
+    "text": "לְק֣וֹל ׀",
+    "lemma_id": "H6963a",
+    "grammar": "Prep-l | N-msc"
+  },
+  {
+    "word_id": "0201502606",
+    "text": "יְהוָ֣ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502607",
+    "text": "אֱלֹהֶ֗יךָ",
+    "lemma_id": "H0430",
+    "grammar": "N-mpc | 2ms"
+  },
+  {
+    "word_id": "0201502608",
+    "text": "וְהַיָּשָׁ֤ר",
+    "lemma_id": "H3477",
+    "grammar": "Conj-w, Art | Adj-ms"
+  },
+  {
+    "word_id": "0201502609",
+    "text": "בְּעֵינָיו֙",
+    "lemma_id": "H5869a",
+    "grammar": "Prep-b | N-cdc | 3ms"
+  },
+  {
+    "word_id": "0201502610",
+    "text": "תַּעֲשֶׂ֔ה",
+    "lemma_id": "H6213a",
+    "grammar": "V-Qal-Imperf-2ms"
+  },
+  {
+    "word_id": "0201502611",
+    "text": "וְהַֽאֲזַנְתָּ֙",
+    "lemma_id": "H0238",
+    "grammar": "Conj-w | V-Hifil-ConjPerf-2ms"
+  },
+  {
+    "word_id": "0201502612",
+    "text": "לְמִצְוֺתָ֔יו",
+    "lemma_id": "H4687",
+    "grammar": "Prep-l | N-fpc | 3ms"
+  },
+  {
+    "word_id": "0201502613",
+    "text": "וְשָׁמַרְתָּ֖",
+    "lemma_id": "H8104",
+    "grammar": "Conj-w | V-Qal-ConjPerf-2ms"
+  },
+  {
+    "word_id": "0201502614",
+    "text": "כָּל־",
+    "lemma_id": "H3605",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201502615",
+    "text": "חֻקָּ֑יו",
+    "lemma_id": "H2706",
+    "grammar": "N-mpc | 3ms"
+  },
+  {
+    "word_id": "0201502616",
+    "text": "כָּֽל־",
+    "lemma_id": "H3605",
+    "grammar": "N-msc"
+  },
+  {
+    "word_id": "0201502617",
+    "text": "הַמַּֽחֲלָ֞ה",
+    "lemma_id": "H4245b",
+    "grammar": "Art | N-fs"
+  },
+  {
+    "word_id": "0201502618",
+    "text": "אֲשֶׁר־",
+    "lemma_id": "H0834a",
+    "grammar": "Pro-r"
+  },
+  {
+    "word_id": "0201502619",
+    "text": "שַׂ֤מְתִּי",
+    "lemma_id": "H7760a",
+    "grammar": "V-Qal-Perf-1cs"
+  },
+  {
+    "word_id": "0201502620",
+    "text": "בְמִצְרַ֙יִם֙",
+    "lemma_id": "H4714",
+    "grammar": "Prep-b | N-proper-fs"
+  },
+  {
+    "word_id": "0201502621",
+    "text": "לֹא־",
+    "lemma_id": "H3808",
+    "grammar": "Adv-NegPrt"
+  },
+  {
+    "word_id": "0201502622",
+    "text": "אָשִׂ֣ים",
+    "lemma_id": "H7760a",
+    "grammar": "V-Qal-Imperf-1cs"
+  },
+  {
+    "word_id": "0201502623",
+    "text": "עָלֶ֔יךָ",
+    "lemma_id": "H5921a",
+    "grammar": "Prep | 2ms"
+  },
+  {
+    "word_id": "0201502624",
+    "text": "כִּ֛י",
+    "lemma_id": "H3588a",
+    "grammar": "Conj"
+  },
+  {
+    "word_id": "0201502625",
+    "text": "אֲנִ֥י",
+    "lemma_id": "H0589",
+    "grammar": "Pro-1cs"
+  },
+  {
+    "word_id": "0201502626",
+    "text": "יְהוָ֖ה",
+    "lemma_id": "H3068",
+    "grammar": "N-proper-ms"
+  },
+  {
+    "word_id": "0201502627",
+    "text": "רֹפְאֶֽךָ׃",
+    "lemma_id": "H7495",
+    "grammar": "V-Qal-Prtcpl-msc | 2ms"
+  },
+  {
+    "word_id": "0201502628",
+    "text": "ס",
+    "lemma_id": "H????",
+    "grammar": ""
+  },
+  {
+    "word_id": "0201502701",
+    "text": "וַיָּבֹ֣אוּ",
+    "lemma_id": "H0935",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201502702",
+    "text": "אֵילִ֔מָה",
+    "lemma_id": "H0362",
+    "grammar": "N-proper-fs | 3fs"
+  },
+  {
+    "word_id": "0201502703",
+    "text": "וְשָׁ֗ם",
+    "lemma_id": "H8033",
+    "grammar": "Conj-w | Adv"
+  },
+  {
+    "word_id": "0201502704",
+    "text": "שְׁתֵּ֥ים",
+    "lemma_id": "H8147",
+    "grammar": "Number-fd"
+  },
+  {
+    "word_id": "0201502705",
+    "text": "עֶשְׂרֵ֛ה",
+    "lemma_id": "H6240",
+    "grammar": "Number-fsc"
+  },
+  {
+    "word_id": "0201502706",
+    "text": "עֵינֹ֥ת",
+    "lemma_id": "H5869b",
+    "grammar": "N-cpc"
+  },
+  {
+    "word_id": "0201502707",
+    "text": "מַ֖יִם",
+    "lemma_id": "H4325",
+    "grammar": "N-mp"
+  },
+  {
+    "word_id": "0201502708",
+    "text": "וְשִׁבְעִ֣ים",
+    "lemma_id": "H7657",
+    "grammar": "Conj-w | Number-cp"
+  },
+  {
+    "word_id": "0201502709",
+    "text": "תְּמָרִ֑ים",
+    "lemma_id": "H8558",
+    "grammar": "N-mp"
+  },
+  {
+    "word_id": "0201502710",
+    "text": "וַיַּחֲנוּ־",
+    "lemma_id": "H2583",
+    "grammar": "Conj-w | V-Qal-ConsecImperf-3mp"
+  },
+  {
+    "word_id": "0201502711",
+    "text": "שָׁ֖ם",
+    "lemma_id": "H8033",
+    "grammar": "Adv"
+  },
+  {
+    "word_id": "0201502712",
+    "text": "עַל־",
+    "lemma_id": "H5921a",
+    "grammar": "Prep"
+  },
+  {
+    "word_id": "0201502713",
+    "text": "הַמָּֽיִם׃",
+    "lemma_id": "H4325",
+    "grammar": "Art | N-mp"
+  }
+]

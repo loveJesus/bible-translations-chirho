@@ -1,38 +1,16 @@
 -- For God so loved the world, that He gave His only begotten Son,
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
+-- Arabic (arb) translation - Combined verses
 
--- JUDE - ARB Combined
--- Generated: 2026-01-22T05:18:45.627Z
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
 
--- c001-v001: يهوذا –يسوع –المسيح عبدٌ أخٌ –و –يعقوب –للذين في الله –الآب محبوبين و –ليسوع –المسيح محفوظين مدعوين
--- c001-v002: رحمة لكم و سلام و محبة لتتكاثر
--- c001-v003: أيها–الأحباء كل اجتهاد عاملاً أكتب لكم عن –ال مشترك –لنا خلاص ضرورة كان–لي أن–أكتب لكم واعظاً أن–تجاهدوا –ال مرة المسلَّم –للقديسين للقديسين إيمان
--- c001-v004: دخلوا–خفية لأن بعض ناس الذين قديماً مكتوبين–من–قبل إلى هذه –ال دينونة أشرار –ال –ال –الله –لنا نعمة محوِّلين إلى فجور و –ال الوحيد السيد و الرب –لنا يسوع المسيح منكرين
--- c001-v005: أذكِّر –و إياكم أريد عالمين أنتم مرة كل–شيء أن ال الرب شعباً من أرض مصر خلَّص –ال ثانياً –الذين لم يؤمنوا أهلك
--- c001-v006: ملائكة –و –الذين لم يحفظوا –ال –أنفسهم رئاسة بل تاركين –ال الخاص مسكن إلى دينونة –عظيم يوم –بقيود أبدية تحت ظلام حفظ
--- c001-v007: كما سدوم و عمورة و –ال حول –هما مدن –ال مثل طريقة –لهؤلاء زانية و ذاهبة وراء جسد آخر موضوعة مثالاً –نار أبدية عقاب تحمل
--- c001-v008: كذلك حقاً أيضاً هؤلاء الحالمون جسداً –من–جهة ينجسون سيادة –و يرفضون أمجاداً –و يجدفون
--- c001-v009: –ال –و ميخائيل –ال رئيس–الملائكة حين –مع–ال إبليس متخاصماً تحاور عن –ال موسى جسد لم يجرؤ دينونة يجلب تجديف بل قال لينتهرك –أنت الرب
--- c001-v010: هؤلاء –و ما –من–جهة لا يعرفون يجدفون ما –و طبيعياً مثل –ال غير–ناطقة حيوانات يعرفون في هذه يهلكون
--- c001-v011: ويل لهم لأن –ال طريق –ال قايين سلكوا و –ال ضلالة –ال بلعام –أجرة انسكبوا و –ال مقاومة –ال قورح هلكوا
--- c001-v012: هؤلاء هم –الذين في –ال ولائم–محبة –لكم صخور–خفية يأكلون–معاً بلا–خوف أنفسهم يرعون غيوم بلا–ماء من رياح محمولة أشجار خريفية بلا–ثمر مرتين ميتة مقلوعة
--- c001-v013: أمواج هائجة –بحر رغوية –ال –أنفسهم عار نجوم تائهة –التي–لها –ال ظلمة –ال ظلام إلى الأبد محفوظة
--- c001-v014: تنبأ –و أيضاً –لهؤلاء السابع من آدم أخنوخ قائلاً هوذا أتى الرب مع مقدسة ربوات –له
--- c001-v015: يصنع دينونة على الجميع و يوبخ جميع –ال الأشرار عن جميع –ال أعمال شر –لهم التي فعلوا–شراً و عن جميع –ال القاسية التي تكلموا ضد –له خطاة أشرار
--- c001-v016: هؤلاء هم متذمرون ساخطون حسب –ال شهوات –لهم سالكون و –ال فم –لهم يتكلم متعظمات معجبون –وجوه –منفعة لأجل
--- c001-v017: أنتم –و أيها–الأحباء اذكروا –ال كلمات –ال المقولة–من–قبل من –ال رسل –ال الرب –لنا يسوع المسيح
--- c001-v018: أن قالوا لكم أن في آخر –ال الزمان سيكون مستهزئون حسب –ال –أنفسهم شهوات سالكون –ال الكفر
--- c001-v019: هؤلاء هم –الذين المفرِّقون نفسانيون روح لا لهم
--- c001-v020: أنتم –و أيها–الأحباء بانون أنفسكم –ال أقدس –لكم إيمان في روح قدس مصلون
--- c001-v021: أنفسكم في محبة –الله احفظوا منتظرين –ال رحمة –ال الرب –لنا يسوع المسيح إلى حياة أبدية
--- c001-v022: و الذين –من–جهة ارحموا المترددين
--- c001-v023: الذين –و خلِّصوا من نار مختطفين الذين –و ارحموا في خوف مبغضين أيضاً –ال من –ال جسد الملطخ ثوب
--- c001-v024: –لل –و القادر يحفظ إياكم بلا–عثرة و يقيم أمام –ال مجد –له بلا–لوم في ابتهاج
--- c001-v025: –الوحيد الله المخلص –لنا بواسطة يسوع المسيح –ال الرب –لنا مجد عظمة قدرة و سلطان قبل كل –ال دهر و الآن و إلى جميع –ال الدهور آمين
+-- JUDE c1-v1 - ARB
+-- يهوذا –يسوع –المسيح عبدٌ أخٌ –و –يعقوب –للذين في الله –الآب محبوبين و –ليسوع –المسيح محفوظين مدعوين
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6500100101: Ἰούδας, (G2455) → "يهوذا" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -307,8 +285,14 @@ WHERE pw.word_id = '6500100117' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v2 - ARB
+-- رحمة لكم و سلام و محبة لتتكاثر
+
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6500100201: ἔλεος (G1656) → "رحمة" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -423,8 +407,14 @@ WHERE pw.word_id = '6500100207' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v3 - ARB
+-- أيها–الأحباء كل اجتهاد عاملاً أكتب لكم عن –ال مشترك –لنا خلاص ضرورة كان–لي أن–أكتب لكم واعظاً أن–تجاهدوا –ال مرة المسلَّم –للقديسين للقديسين إيمان
+
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6500100301: Ἀγαπητοί, (G0027) → "أيها–الأحباء" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -795,8 +785,14 @@ WHERE pw.word_id = '6500100323' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v4 - ARB
+-- دخلوا–خفية لأن بعض ناس الذين قديماً مكتوبين–من–قبل إلى هذه –ال دينونة أشرار –ال –ال –الله –لنا نعمة محوِّلين إلى فجور و –ال الوحيد السيد و الرب –لنا يسوع المسيح منكرين
+
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6500100401: παρεισέδυσαν (G3921) → "دخلوا–خفية" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1279,8 +1275,14 @@ WHERE pw.word_id = '6500100430' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v5 - ARB
+-- أذكِّر –و إياكم أريد عالمين أنتم مرة كل–شيء أن ال الرب شعباً من أرض مصر خلَّص –ال ثانياً –الذين لم يؤمنوا أهلك
+
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6500100501: Ὑπομνῆσαι (G5279) → "أذكِّر" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1635,8 +1637,14 @@ WHERE pw.word_id = '6500100522' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v6 - ARB
+-- ملائكة –و –الذين لم يحفظوا –ال –أنفسهم رئاسة بل تاركين –ال الخاص مسكن إلى دينونة –عظيم يوم –بقيود أبدية تحت ظلام حفظ
+
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6500100601: ἀγγέλους (G0032) → "ملائكة" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1991,8 +1999,14 @@ WHERE pw.word_id = '6500100622' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v7 - ARB
+-- كما سدوم و عمورة و –ال حول –هما مدن –ال مثل طريقة –لهؤلاء زانية و ذاهبة وراء جسد آخر موضوعة مثالاً –نار أبدية عقاب تحمل
+
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6500100701: ὡς (G5613) → "كما" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2395,8 +2409,14 @@ WHERE pw.word_id = '6500100725' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v8 - ARB
+-- كذلك حقاً أيضاً هؤلاء الحالمون جسداً –من–جهة ينجسون سيادة –و يرفضون أمجاداً –و يجدفون
+
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6500100801: Ὁμοίως (G3668) → "كذلك" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2623,8 +2643,14 @@ WHERE pw.word_id = '6500100814' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v9 - ARB
+-- –ال –و ميخائيل –ال رئيس–الملائكة حين –مع–ال إبليس متخاصماً تحاور عن –ال موسى جسد لم يجرؤ دينونة يجلب تجديف بل قال لينتهرك –أنت الرب
+
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6500100901: ὁ (G3588) → "–ال" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3011,8 +3037,14 @@ WHERE pw.word_id = '6500100924' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v10 - ARB
+-- هؤلاء –و ما –من–جهة لا يعرفون يجدفون ما –و طبيعياً مثل –ال غير–ناطقة حيوانات يعرفون في هذه يهلكون
+
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6500101001: οὗτοι (G3778) → "هؤلاء" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3303,8 +3335,14 @@ WHERE pw.word_id = '6500101018' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v11 - ARB
+-- ويل لهم لأن –ال طريق –ال قايين سلكوا و –ال ضلالة –ال بلعام –أجرة انسكبوا و –ال مقاومة –ال قورح هلكوا
+
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6500101101: οὐαὶ (G3759) → "ويل" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3643,8 +3681,14 @@ WHERE pw.word_id = '6500101121' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v12 - ARB
+-- هؤلاء هم –الذين في –ال ولائم–محبة –لكم صخور–خفية يأكلون–معاً بلا–خوف أنفسهم يرعون غيوم بلا–ماء من رياح محمولة أشجار خريفية بلا–ثمر مرتين ميتة مقلوعة
+
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6500101201: Οὗτοί (G3778) → "هؤلاء" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4015,8 +4059,14 @@ WHERE pw.word_id = '6500101223' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v13 - ARB
+-- أمواج هائجة –بحر رغوية –ال –أنفسهم عار نجوم تائهة –التي–لها –ال ظلمة –ال ظلام إلى الأبد محفوظة
+
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6500101301: κύματα (G2949) → "أمواج" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4291,8 +4341,14 @@ WHERE pw.word_id = '6500101317' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v14 - ARB
+-- تنبأ –و أيضاً –لهؤلاء السابع من آدم أخنوخ قائلاً هوذا أتى الرب مع مقدسة ربوات –له
+
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6500101401: Προεφήτευσεν (G4395) → "تنبأ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4551,8 +4607,14 @@ WHERE pw.word_id = '6500101416' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v15 - ARB
+-- يصنع دينونة على الجميع و يوبخ جميع –ال الأشرار عن جميع –ال أعمال شر –لهم التي فعلوا–شراً و عن جميع –ال القاسية التي تكلموا ضد –له خطاة أشرار
+
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 6500101501: ποιῆσαι (G4160) → "يصنع" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5003,8 +5065,14 @@ WHERE pw.word_id = '6500101528' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v16 - ARB
+-- هؤلاء هم متذمرون ساخطون حسب –ال شهوات –لهم سالكون و –ال فم –لهم يتكلم متعظمات معجبون –وجوه –منفعة لأجل
+
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 6500101601: Οὗτοί (G3778) → "هؤلاء" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5311,8 +5379,14 @@ WHERE pw.word_id = '6500101619' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v17 - ARB
+-- أنتم –و أيها–الأحباء اذكروا –ال كلمات –ال المقولة–من–قبل من –ال رسل –ال الرب –لنا يسوع المسيح
+
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 6500101701: Ὑμεῖς (G4771) → "أنتم" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5571,8 +5645,14 @@ WHERE pw.word_id = '6500101716' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v18 - ARB
+-- أن قالوا لكم أن في آخر –ال الزمان سيكون مستهزئون حسب –ال –أنفسهم شهوات سالكون –ال الكفر
+
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 6500101801: ὅτι (G3754) → "أن" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5847,8 +5927,14 @@ WHERE pw.word_id = '6500101817' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v19 - ARB
+-- هؤلاء هم –الذين المفرِّقون نفسانيون روح لا لهم
+
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 6500101901: Οὗτοί (G3778) → "هؤلاء" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5979,8 +6065,14 @@ WHERE pw.word_id = '6500101908' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v20 - ARB
+-- أنتم –و أيها–الأحباء بانون أنفسكم –ال أقدس –لكم إيمان في روح قدس مصلون
+
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 6500102001: ὑμεῖς (G4771) → "أنتم" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6191,8 +6283,14 @@ WHERE pw.word_id = '6500102013' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v21 - ARB
+-- أنفسكم في محبة –الله احفظوا منتظرين –ال رحمة –ال الرب –لنا يسوع المسيح إلى حياة أبدية
+
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 6500102101: ἑαυτοὺς (G1438) → "أنفسكم" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6451,8 +6549,14 @@ WHERE pw.word_id = '6500102116' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v22 - ARB
+-- و الذين –من–جهة ارحموا المترددين
+
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 6500102201: καὶ (G2532) → "و" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6535,8 +6639,14 @@ WHERE pw.word_id = '6500102205' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v23 - ARB
+-- الذين –و خلِّصوا من نار مختطفين الذين –و ارحموا في خوف مبغضين أيضاً –ال من –ال جسد الملطخ ثوب
+
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 6500102301: ‹οὓς (G3739) → "الذين" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6843,8 +6953,14 @@ WHERE pw.word_id = '6500102319' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v24 - ARB
+-- –لل –و القادر يحفظ إياكم بلا–عثرة و يقيم أمام –ال مجد –له بلا–لوم في ابتهاج
+
 BEGIN;
--- === Chapter 1 Verse 24 ===
 -- 6500102401: Τῷ (G3588) → "–لل" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7087,8 +7203,14 @@ WHERE pw.word_id = '6500102415' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v25 - ARB
+-- –الوحيد الله المخلص –لنا بواسطة يسوع المسيح –ال الرب –لنا مجد عظمة قدرة و سلطان قبل كل –ال دهر و الآن و إلى جميع –ال الدهور آمين
+
 BEGIN;
--- === Chapter 1 Verse 25 ===
 -- 6500102501: μόνῳ (G3441) → "–الوحيد" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

@@ -1,34 +1,16 @@
 -- For God so loved the world, that He gave His only begotten Son,
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
+-- Arabic (arb) translation - Combined verses
 
--- OBADIAH - ARB Combined
--- Generated: 2026-01-22T05:20:30.070Z
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
 
--- c001-v001: رؤيا عوبَديا هكذا قال السيد يهوه –لأدوم خبر سمعنا من–عند يهوه و–رسول –بين–الأمم أُرسِل قوموا و–لنقم عليها –للحرب
--- c001-v002: ها صغيراً جعلتك –بين–الأمم محتقر أنت جداً
--- c001-v003: كبرياء –قلبك خدعك الساكن –في–شقوق صخر علو –مسكنه القائل –في–قلبه من ينزلني أرضاً
--- c001-v004: إن ترتفع –كالنسر و–إن بين الكواكب وضع –عشك من–هناك أنزلك نأم– يهوه
--- c001-v005: إن لصوص جاءوا –إليك إن ناهبو –ليل كيف هلكت ألا يسرقون –كفايتهم إن قاطفو جاءوا –إليك ألا يبقون خصاصة
--- c001-v006: كيف فُتِّش عيسو أُكتشفت –مخبآته
--- c001-v007: إلى –الحدود أرسلوك كل رجال –عهدك خدعوك قدروا –عليك رجال –سلامك خبزك يضعون شركاً تحتك لا فهم –فيه
--- c001-v008: ألا –في–اليوم ذلك نأم– يهوه و–أُهلك حكماء من–أدوم و–فهماً من–جبل عيسو
--- c001-v009: و–يرتعب جبابرتك تيمان لكي ينقطع رجل من–جبل عيسو –بالقتل
--- c001-v010: –بسبب–عنف أخيك يعقوب يغطيك خزي و–تنقطع –للأبد
--- c001-v011: –في–يوم وقوفك مقابلاً –في–يوم سبي غرباء –قوته و–أجانب دخلوا بوابته بواباته و–على أورشليم ألقوا قرعة أيضاً أنت –كواحد –منهم
--- c001-v012: و–لا تنظر –في–يوم أخيك –في–يوم –غربته و–لا تفرح –لبني يهوذا –في–يوم –هلاكهم و–لا تكبِّر –فمك –في–يوم ضيق
--- c001-v013: لا تدخل –بوابة –شعبي –في–يوم –بليتهم لا تنظر أيضاً أنت –بشره –في–يوم –بليته و–لا تمد –بقوته –في–يوم –بليته
--- c001-v014: و–لا تقف على –المفرق لتقطع – –فاريه و–لا تغلق –ناجيه –في–يوم ضيق
--- c001-v015: لأن قريب يوم– يهوه على كل– الأمم كما فعلت يُفعل –لك –جزاؤك يرجع –على–رأسك
--- c001-v016: لأن كما شربتم على جبل –قدسي يشرب كل– الأمم دائماً و–يشربون و–يبلعون و–يكونون –كأن–لا كانوا
--- c001-v017: و–في–جبل صهيون يكون نجاة و–يكون قدساً و–يرث بيت يعقوب – –مواريثهم
--- c001-v018: و–يكون بيت– يعقوب ناراً و–بيت يوسف لهيباً و–بيت عيسو –لقش و–يشتعلون –فيهم و–يأكلونهم و–لا يكون باقٍ –لبيت عيسو لأن يهوه تكلم
--- c001-v019: و–يرث النقب – جبل عيسو و–السهل – –فلسطينيين و–يرثون – حقل أفرايم و– حقل السامرة و–بنيامين – –جلعاد
--- c001-v020: و–سبي –الجيش هذا –لبني إسرائيل الذين –كنعانيون حتى صَرفت و–سبي أورشليم الذي –في–سفارد يرثون – مدن النقب
--- c001-v021: و–يصعد مخلصون –في–جبل صهيون ليدينوا – جبل عيسو و–يكون –ليهوه الملكوت
+-- OBADIAH c1-v1 - ARB
+-- رؤيا عوبَديا هكذا قال السيد يهوه –لأدوم خبر سمعنا من–عند يهوه و–رسول –بين–الأمم أُرسِل قوموا و–لنقم عليها –للحرب
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3100100101: חֲז֖וֹן (H2377) → "رؤيا" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -319,8 +301,14 @@ WHERE pw.word_id = '3100100118' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v2 - ARB
+-- ها صغيراً جعلتك –بين–الأمم محتقر أنت جداً
+
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3100100201: הִנֵּ֥ה (H2009) → "ها" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -435,8 +423,14 @@ WHERE pw.word_id = '3100100207' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v3 - ARB
+-- كبرياء –قلبك خدعك الساكن –في–شقوق صخر علو –مسكنه القائل –في–قلبه من ينزلني أرضاً
+
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3100100301: זְד֤וֹן (H2087) → "كبرياء" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -647,8 +641,14 @@ WHERE pw.word_id = '3100100313' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v4 - ARB
+-- إن ترتفع –كالنسر و–إن بين الكواكب وضع –عشك من–هناك أنزلك نأم– يهوه
+
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3100100401: אִם־ (H0518a) → "إن" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -843,8 +843,14 @@ WHERE pw.word_id = '3100100412' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v5 - ARB
+-- إن لصوص جاءوا –إليك إن ناهبو –ليل كيف هلكت ألا يسرقون –كفايتهم إن قاطفو جاءوا –إليك ألا يبقون خصاصة
+
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3100100501: אִם־ (H0518a) → "إن" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1151,8 +1157,14 @@ WHERE pw.word_id = '3100100519' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v6 - ARB
+-- كيف فُتِّش عيسو أُكتشفت –مخبآته
+
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3100100601: אֵ֚יךְ (H0349a) → "كيف" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1235,8 +1247,14 @@ WHERE pw.word_id = '3100100605' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v7 - ARB
+-- إلى –الحدود أرسلوك كل رجال –عهدك خدعوك قدروا –عليك رجال –سلامك خبزك يضعون شركاً تحتك لا فهم –فيه
+
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3100100701: עַֽד־ (H5704) → "إلى" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1527,8 +1545,14 @@ WHERE pw.word_id = '3100100718' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v8 - ARB
+-- ألا –في–اليوم ذلك نأم– يهوه و–أُهلك حكماء من–أدوم و–فهماً من–جبل عيسو
+
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3100100801: הֲל֛וֹא (H3808) → "ألا" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1707,8 +1731,14 @@ WHERE pw.word_id = '3100100811' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v9 - ARB
+-- و–يرتعب جبابرتك تيمان لكي ينقطع رجل من–جبل عيسو –بالقتل
+
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3100100901: וְחַתּ֥וּ (H2865) → "و–يرتعب" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1855,8 +1885,14 @@ WHERE pw.word_id = '3100100909' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v10 - ARB
+-- –بسبب–عنف أخيك يعقوب يغطيك خزي و–تنقطع –للأبد
+
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3100101001: מֵחֲמַ֛ס (H2555) → "–بسبب–عنف" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1971,8 +2007,14 @@ WHERE pw.word_id = '3100101007' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v11 - ARB
+-- –في–يوم وقوفك مقابلاً –في–يوم سبي غرباء –قوته و–أجانب دخلوا بوابته بواباته و–على أورشليم ألقوا قرعة أيضاً أنت –كواحد –منهم
+
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3100101101: בְּיוֹם֙ (H3117) → "–في–يوم" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2279,8 +2321,14 @@ WHERE pw.word_id = '3100101119' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v12 - ARB
+-- و–لا تنظر –في–يوم أخيك –في–يوم –غربته و–لا تفرح –لبني يهوذا –في–يوم –هلاكهم و–لا تكبِّر –فمك –في–يوم ضيق
+
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3100101201: וְאַל־ (H0408) → "و–لا" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2555,8 +2603,14 @@ WHERE pw.word_id = '3100101217' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v13 - ARB
+-- لا تدخل –بوابة –شعبي –في–يوم –بليتهم لا تنظر أيضاً أنت –بشره –في–يوم –بليته و–لا تمد –بقوته –في–يوم –بليته
+
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3100101301: אַל־ (H0408) → "لا" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2847,8 +2901,14 @@ WHERE pw.word_id = '3100101318' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v14 - ARB
+-- و–لا تقف على –المفرق لتقطع – –فاريه و–لا تغلق –ناجيه –في–يوم ضيق
+
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3100101401: וְאַֽל־ (H0408) → "و–لا" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3043,8 +3103,14 @@ WHERE pw.word_id = '3100101412' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v15 - ARB
+-- لأن قريب يوم– يهوه على كل– الأمم كما فعلت يُفعل –لك –جزاؤك يرجع –على–رأسك
+
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3100101501: כִּֽי־ (H3588a) → "لأن" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3271,8 +3337,14 @@ WHERE pw.word_id = '3100101514' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v16 - ARB
+-- لأن كما شربتم على جبل –قدسي يشرب كل– الأمم دائماً و–يشربون و–يبلعون و–يكونون –كأن–لا كانوا
+
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3100101601: כִּ֗י (H3588a) → "لأن" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3515,8 +3587,14 @@ WHERE pw.word_id = '3100101615' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v17 - ARB
+-- و–في–جبل صهيون يكون نجاة و–يكون قدساً و–يرث بيت يعقوب – –مواريثهم
+
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3100101701: וּבְהַ֥ר (H2022) → "و–في–جبل" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3695,8 +3773,14 @@ WHERE pw.word_id = '3100101711' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v18 - ARB
+-- و–يكون بيت– يعقوب ناراً و–بيت يوسف لهيباً و–بيت عيسو –لقش و–يشتعلون –فيهم و–يأكلونهم و–لا يكون باقٍ –لبيت عيسو لأن يهوه تكلم
+
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3100101801: וְהָיָה֩ (H1961) → "و–يكون" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4035,8 +4119,14 @@ WHERE pw.word_id = '3100101821' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v19 - ARB
+-- و–يرث النقب – جبل عيسو و–السهل – –فلسطينيين و–يرثون – حقل أفرايم و– حقل السامرة و–بنيامين – –جلعاد
+
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 3100101901: וְיָרְשׁ֨וּ (H3423) → "و–يرث" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4327,8 +4417,14 @@ WHERE pw.word_id = '3100101918' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v20 - ARB
+-- و–سبي –الجيش هذا –لبني إسرائيل الذين –كنعانيون حتى صَرفت و–سبي أورشليم الذي –في–سفارد يرثون – مدن النقب
+
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 3100102001: וְגָלֻ֣ת (H1546) → "و–سبي" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4603,8 +4699,14 @@ WHERE pw.word_id = '3100102017' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v21 - ARB
+-- و–يصعد مخلصون –في–جبل صهيون ليدينوا – جبل عيسو و–يكون –ليهوه الملكوت
+
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 3100102101: וְעָל֤וּ (H5927) → "و–يصعد" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)

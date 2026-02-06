@@ -2,33 +2,15 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- OBADIAH - KOR Combined
--- Generated: 2026-01-22T05:20:54.886Z
+-- obadiah - KOR Combined (all verses)
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
 
--- c001-v001: 환상이라 오바랄의 이와–같이 말씀하셨다 주 여호와께서 에돔에–관하여 소식을 들었도다 –로부터 여호와 그리고–사자가 열방들–가운데 보내졌다 일어나라 그리고–일어나자 그녀를–대항하여 –전투를–위하여
--- c001-v002: 보라 작게 내가–너를–만들었다 열방들–가운데 멸시당한–자라 너는 매우
--- c001-v003: 교만이 네–마음의 너를–속였으니 거하는–자여 틈새들–안에 바위의 높은–곳 그의–거처라 말하는–자여 그의–마음에 누가 내려놓겠느냐 땅으로
--- c001-v004: 만일 높이면 독수리와–같이 그리고–만일 –사이에 별들 놓아라 네–둥지를 거기서 내가–내리리라 말씀이니 여호와의
--- c001-v005: 만일 도둑들이 왔고 너에게 만일 파괴하는–자들이 밤에 어찌 망했는가 –아닌가 훔치겠느냐 충분한–것만 만일 포도–따는–자들이 왔다면 너에게 –아닌가 남겠느냐 이삭들을
--- c001-v006: 어찌 수색되었느냐 에서우가 드러났고 그의–보물들이
--- c001-v007: –까지 –국경 보내버렸다 모든 사람들이 네–언약의 속였다 이겼다 너에게 사람들이 네–평화의 네–빵을 놓겠다 덧을 너–아래에 없다 지혜가 그에게
--- c001-v008: –아닌가 –날에 그 말씀이니 여호와의 그리고–멸망시키겠다 지혜로운–자들을 에돔에서 그리고–분별력을 –산에서 에서우의
--- c001-v009: 그리고–두려워하리라 네–용사들이 데만아 –위하여 끊겠다 사람이 –산에서 에서우의 살륙에서
--- c001-v010: –폭력으로–인하여 네–형제 야곱을 너를–덮으리라 수치가 그리고–끊겠다 영원히
--- c001-v011: –날에 네가–서–있었다 맞은편에 –날에 사로잡아–갔다 이방인들이 그의–군대를 그리고–낯선–사람들이 들어왔다 그의–성문을 그의–성문들을 그리고–위에 예루살렘을 던졌다 제비를 또한 너도 하나와–같았다 그들–중에
--- c001-v012: 그리고–하지–말라 보기를 –날에 네–형제의 –날에 그의–재난의 그리고–하지–말라 기뽑하기를 –아들들을–위해 유다의 –날에 그들의–멸망의 그리고–하지–말라 크게–하기를 네–입을 –날에 환난의
--- c001-v013: 하지–말라 들어오기를 –성문에 내–백성의 –날에 그들의–재난의 하지–말라 보기를 또한 너도 그의–재앙을 –날에 그의–재난의 그리고–하지–말라 보내기를 그의–군대에 –날에 그의–재난의
--- c001-v014: 그리고–하지–말라 서기를 –위에 –갈림길에 끊으려고 –를 그의–도망친–자들을 그리고–하지–말라 가두기를 그의–생존자들을 –날에 환난의
--- c001-v015: 이는 가깝다 –날이 여호와의 –위에 모든 –열방들 네가–행한–것을 행하였던–대로 행해지리라 너에게 네–보복이 돌아오리라 네–머리에
--- c001-v016: 이는 마치 너희가–마셨던–대로 –위에 –산 내–거룩한 마시리라 모든 –열방들이 항상 그리고–마시며 그리고–삼키며 그리고–되리라 없던–것처럼 있었던
--- c001-v017: 그리고–산에 시온 있으리라 피난–자들이 그리고–되리라 거룩함이 그리고–차지하리라 집이 야곱의 –를 그들의–유산들을
--- c001-v018: 그리고–되리라 집이 야곱의 불이며 그리고–집이 요셉의 불꽃이라 그리고–집이 에서우의 짚이니 그리고–불태우고 그들을 그리고–먹으리라 그리고–없으리라 있지 생존자가 –집에 에서우의 이는 여호와께서 말씀하셨다
--- c001-v019: 그리고–차지하리라 네겜이 –를 –산 에서우의 그리고–평지가 –를 블레셋–사람들의 그리고–차지하리라 –를 들 에불라임의 그리고 들 사마리아의 그리고–베냐민이 –를 –길르앗
--- c001-v020: 그리고–포로가 –군대의 이 –아들의 이스라엘 누가 가나안–사람들이니 –까지 사르밟 그리고–포로가 예루살렘의 누가 스바랿에 차지하리라 –를 성읍들 –네겜의
--- c001-v021: 그리고–올라오리라 구원자들이 –산에 시온 심판하려 –를 –산 에서우의 그리고–되리라 여호와에게 –왕국이
+-- OBADIAH c1-v1 - KOR
+-- 환상이라 오바랄의 이와–같이 말씀하셨다 주 여호와께서 에돔에–관하여 소식을 들었도다 –로부터 여호와 그리고–사자가 열방들–가운데 보내졌다 일어나라 그리고–일어나자 그녀를–대항하여 –전투를–위하여
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3100100101: חֲז֖וֹן (H2377) → "환상이라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -319,8 +301,14 @@ WHERE pw.word_id = '3100100118' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v2 - KOR
+-- 보라 작게 내가–너를–만들었다 열방들–가운데 멸시당한–자라 너는 매우
+
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3100100201: הִנֵּ֥ה (H2009) → "보라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -435,8 +423,14 @@ WHERE pw.word_id = '3100100207' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v3 - KOR
+-- 교만이 네–마음의 너를–속였으니 거하는–자여 틈새들–안에 바위의 높은–곳 그의–거처라 말하는–자여 그의–마음에 누가 내려놓겠느냐 땅으로
+
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3100100301: זְד֤וֹן (H2087) → "교만이" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -647,8 +641,14 @@ WHERE pw.word_id = '3100100313' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v4 - KOR
+-- 만일 높이면 독수리와–같이 그리고–만일 –사이에 별들 놓아라 네–둥지를 거기서 내가–내리리라 말씀이니 여호와의
+
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3100100401: אִם־ (H0518a) → "만일" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -843,8 +843,14 @@ WHERE pw.word_id = '3100100412' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v5 - KOR
+-- 만일 도둑들이 왔고 너에게 만일 파괴하는–자들이 밤에 어찌 망했는가 –아닌가 훔치겠느냐 충분한–것만 만일 포도–따는–자들이 왔다면 너에게 –아닌가 남겠느냐 이삭들을
+
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3100100501: אִם־ (H0518a) → "만일" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1151,8 +1157,14 @@ WHERE pw.word_id = '3100100519' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v6 - KOR
+-- 어찌 수색되었느냐 에서우가 드러났고 그의–보물들이
+
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3100100601: אֵ֚יךְ (H0349a) → "어찌" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1235,8 +1247,14 @@ WHERE pw.word_id = '3100100605' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v7 - KOR
+-- –까지 –국경 보내버렸다 모든 사람들이 네–언약의 속였다 이겼다 너에게 사람들이 네–평화의 네–빵을 놓겠다 덧을 너–아래에 없다 지혜가 그에게
+
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3100100701: עַֽד־ (H5704) → "–까지" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1527,8 +1545,14 @@ WHERE pw.word_id = '3100100718' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v8 - KOR
+-- –아닌가 –날에 그 말씀이니 여호와의 그리고–멸망시키겠다 지혜로운–자들을 에돔에서 그리고–분별력을 –산에서 에서우의
+
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3100100801: הֲל֛וֹא (H3808) → "–아닌가" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1707,8 +1731,14 @@ WHERE pw.word_id = '3100100811' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v9 - KOR
+-- 그리고–두려워하리라 네–용사들이 데만아 –위하여 끊겠다 사람이 –산에서 에서우의 살륙에서
+
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3100100901: וְחַתּ֥וּ (H2865) → "그리고–두려워하리라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1855,8 +1885,14 @@ WHERE pw.word_id = '3100100909' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v10 - KOR
+-- –폭력으로–인하여 네–형제 야곱을 너를–덮으리라 수치가 그리고–끊겠다 영원히
+
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3100101001: מֵחֲמַ֛ס (H2555) → "–폭력으로–인하여" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1971,8 +2007,14 @@ WHERE pw.word_id = '3100101007' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v11 - KOR
+-- –날에 네가–서–있었다 맞은편에 –날에 사로잡아–갔다 이방인들이 그의–군대를 그리고–낯선–사람들이 들어왔다 그의–성문을 그의–성문들을 그리고–위에 예루살렘을 던졌다 제비를 또한 너도 하나와–같았다 그들–중에
+
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3100101101: בְּיוֹם֙ (H3117) → "–날에" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2279,8 +2321,14 @@ WHERE pw.word_id = '3100101119' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v12 - KOR
+-- 그리고–하지–말라 보기를 –날에 네–형제의 –날에 그의–재난의 그리고–하지–말라 기뽑하기를 –아들들을–위해 유다의 –날에 그들의–멸망의 그리고–하지–말라 크게–하기를 네–입을 –날에 환난의
+
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3100101201: וְאַל־ (H0408) → "그리고–하지–말라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2555,8 +2603,14 @@ WHERE pw.word_id = '3100101217' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v13 - KOR
+-- 하지–말라 들어오기를 –성문에 내–백성의 –날에 그들의–재난의 하지–말라 보기를 또한 너도 그의–재앙을 –날에 그의–재난의 그리고–하지–말라 보내기를 그의–군대에 –날에 그의–재난의
+
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3100101301: אַל־ (H0408) → "하지–말라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2847,8 +2901,14 @@ WHERE pw.word_id = '3100101318' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v14 - KOR
+-- 그리고–하지–말라 서기를 –위에 –갈림길에 끊으려고 –를 그의–도망친–자들을 그리고–하지–말라 가두기를 그의–생존자들을 –날에 환난의
+
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3100101401: וְאַֽל־ (H0408) → "그리고–하지–말라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3043,8 +3103,14 @@ WHERE pw.word_id = '3100101412' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v15 - KOR
+-- 이는 가깝다 –날이 여호와의 –위에 모든 –열방들 네가–행한–것을 행하였던–대로 행해지리라 너에게 네–보복이 돌아오리라 네–머리에
+
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3100101501: כִּֽי־ (H3588a) → "이는" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3271,8 +3337,14 @@ WHERE pw.word_id = '3100101514' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v16 - KOR
+-- 이는 마치 너희가–마셨던–대로 –위에 –산 내–거룩한 마시리라 모든 –열방들이 항상 그리고–마시며 그리고–삼키며 그리고–되리라 없던–것처럼 있었던
+
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3100101601: כִּ֗י (H3588a) → "이는" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3515,8 +3587,14 @@ WHERE pw.word_id = '3100101615' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v17 - KOR
+-- 그리고–산에 시온 있으리라 피난–자들이 그리고–되리라 거룩함이 그리고–차지하리라 집이 야곱의 –를 그들의–유산들을
+
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3100101701: וּבְהַ֥ר (H2022) → "그리고–산에" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3695,8 +3773,14 @@ WHERE pw.word_id = '3100101711' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v18 - KOR
+-- 그리고–되리라 집이 야곱의 불이며 그리고–집이 요셉의 불꽃이라 그리고–집이 에서우의 짚이니 그리고–불태우고 그들을 그리고–먹으리라 그리고–없으리라 있지 생존자가 –집에 에서우의 이는 여호와께서 말씀하셨다
+
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3100101801: וְהָיָה֩ (H1961) → "그리고–되리라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4035,8 +4119,14 @@ WHERE pw.word_id = '3100101821' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v19 - KOR
+-- 그리고–차지하리라 네겜이 –를 –산 에서우의 그리고–평지가 –를 블레셋–사람들의 그리고–차지하리라 –를 들 에불라임의 그리고 들 사마리아의 그리고–베냐민이 –를 –길르앗
+
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 3100101901: וְיָרְשׁ֨וּ (H3423) → "그리고–차지하리라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4327,8 +4417,14 @@ WHERE pw.word_id = '3100101918' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v20 - KOR
+-- 그리고–포로가 –군대의 이 –아들의 이스라엘 누가 가나안–사람들이니 –까지 사르밟 그리고–포로가 예루살렘의 누가 스바랿에 차지하리라 –를 성읍들 –네겜의
+
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 3100102001: וְגָלֻ֣ת (H1546) → "그리고–포로가" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4603,8 +4699,14 @@ WHERE pw.word_id = '3100102017' AND p.language_id = (SELECT id FROM language WHE
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
 
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v21 - KOR
+-- 그리고–올라오리라 구원자들이 –산에 시온 심판하려 –를 –산 에서우의 그리고–되리라 여호와에게 –왕국이
+
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 3100102101: וְעָל֤וּ (H5927) → "그리고–올라오리라" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
