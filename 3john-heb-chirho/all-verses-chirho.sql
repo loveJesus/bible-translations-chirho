@@ -2,26 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- 3JOHN - HEB Combined
--- Generated: 2026-01-28T04:21:34.067Z
-
--- c001-v001: הַ– זָקֵן לְגָאיוֹס הַ– אָהוּב אֲשֶׁר אֲנִי אוֹהֵב בֶּ– אֱמֶת
--- c001-v002: אָהוּב עַל הַכֹּל מִתְפַּלֵּל לְךָ לִשְׂגֵּשִׂ וְ– לִהְיוֹת־בָּרִיא כַּאֲשֶׁר מִשְׂגְּשִׂת שֶׁלְךָ הָ– נֶפֶשׁ
--- c001-v003: שָׂמַחְתִּי כִּי מְאֹד בְּבוֹא אַחִים וְ– מְעִידִים שֶׁלְךָ לַ– אֱמֶת כַּאֲשֶׁר אַתָּה בֶּ– אֱמֶת מִתְהַלֵּךְ
--- c001-v004: גְּדוֹלָה מֵאֵלֶּה אֵין יֵשׁ־לִי שִׂמְחָה לְמַעַן שׁוֹמֵעַ אֶת– שֶׁלִּי בְּנֵי בַּ– הַ– אֱמֶת מִתְהַלְּכִים
--- c001-v005: אָהוּב נֶאֱמָן עוֹשִׂה אֲשֶׁר אִם תַּעֲשִׂה לַ– הַ– אַחִים וְ– זֹאת זָרִים
--- c001-v006: אֲשֶׁר הֵעִידוּ שֶׁלְךָ לַ– אַהֲבָה לִפְנֵי קְהִלָּה אֲשֶׁר יָפֶה־תַּעֲשִׂה לְוַתָּם בְּאֹפֶן־רָאוּי שֶׁל– הַ– אֱלֹהִים
--- c001-v007: בְּעַד כִּי הַ– שֵׁם יָצְאוּ מְאוּמָה לוֹקְחִים מִ– הַ– גּוֹיִם
--- c001-v008: אֲנַחְנוּ לָכֵן חַיָּבִים לְקַבֵּל אֶת– הַכָּאֵלֶּה לְמַעַן עוֹזְרִים נִהְיֶה לַ– אֱמֶת
--- c001-v009: כָּתַבְתִּי דָּבָר לַ– קְהִלָּה אֲבָל הַ– הַאוֹהֵב־לִהְיוֹת־רִאשׁוֹן שֶׁלָּהֶם דִּיוֹטְרֶפֶס לֹא מְקַבֵּל אוֹתָנוּ
--- c001-v010: עַל־כֵּן זֹאת אִם אָבוֹא אַזְכִּיר שֶׁלּוֹ אֶת– הַמַּעֲשִׂים אֲשֶׁר עוֹשִׂה בִּדְבָרִים רָעִים מְפַטְפֵּט אוֹתָנוּ וְ– לֹא מִסְתַפֵּק עַל אֵלֶּה וְלֹא הוּא מְקַבֵּל אֶת– הָאַחִים וְ– אֶת– הָרוֹצִים מוֹנֵעַ וְ– מִ– הַ– קְהִלָּה מְגָרֵשׁ
--- c001-v011: אָהוּב אַל תְחַקֶּה אֶת– הָרָע אֶלָּא אֶת– הַטּוֹב הַ– עוֹשִׂה־טוֹב מִ– הַ– אֱלֹהִים הוּא הַ– עוֹשִׂה־רָע לֹא רָאָה אֶת– הָאֱלֹהִים
--- c001-v012: לִדְמִטְרִיוֹס הוּעַד עַל־יְדֵי הַכֹּל וְ– עַל־יְדֵי שֶׁלָּהּ הַ– אֱמֶת וְ– אֲנַחְנוּ אֲבָל מְעִידִים וְ– יוֹדֵעַ כִּי הָ– עֵדוּת שֶׁלָּנוּ אֱמֶת הִיא
--- c001-v013: רַבּוֹת הָיָה־לִי לִכְתֹב לְךָ אֲבָל לֹא רוֹצֶה עַל־יְדֵי דְּיוֹ וְ– קוּלְמוֹס לְךָ לִכְתֹב
--- c001-v014: מְקַוֶּה אֲבָל מִיָּד לִרְאוֹתְךָ לִרְאוֹת וְ– פֶּה אֶל פֶּה נְדַבֵּר שָׁלוֹם לְךָ מַקְבִּילִים לְךָ הַ– יְדִידִים הַקְבֵּל אֶת– הַיְדִידִים לְפִי– שֵׁם
+-- 3JOHN c1-v1 - HEB
+-- הַ– זָקֵן לְגָאיוֹס הַ– אָהוּב אֲשֶׁר אֲנִי אוֹהֵב בֶּ– אֱמֶת
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6400100101: Ὁ (G3588) → "הַ–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -183,9 +167,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100110' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v2 - HEB
+-- אָהוּב עַל הַכֹּל מִתְפַּלֵּל לְךָ לִשְׂגֵּשִׂ וְ– לִהְיוֹת־בָּרִיא כַּאֲשֶׁר מִשְׂגְּשִׂת שֶׁלְךָ הָ– נֶפֶשׁ
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6400100201: Ἀγαπητέ, (G0027) → "אָהוּב" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -395,9 +384,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100213' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v3 - HEB
+-- שָׂמַחְתִּי כִּי מְאֹד בְּבוֹא אַחִים וְ– מְעִידִים שֶׁלְךָ לַ– אֱמֶת כַּאֲשֶׁר אַתָּה בֶּ– אֱמֶת מִתְהַלֵּךְ
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6400100301: ἐχάρην (G5463) → "שָׂמַחְתִּי" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -639,9 +633,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100315' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v4 - HEB
+-- גְּדוֹלָה מֵאֵלֶּה אֵין יֵשׁ־לִי שִׂמְחָה לְמַעַן שׁוֹמֵעַ אֶת– שֶׁלִּי בְּנֵי בַּ– הַ– אֱמֶת מִתְהַלְּכִים
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6400100401: μειζοτέραν (G3173) → "גְּדוֹלָה" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -867,9 +866,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100414' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v5 - HEB
+-- אָהוּב נֶאֱמָן עוֹשִׂה אֲשֶׁר אִם תַּעֲשִׂה לַ– הַ– אַחִים וְ– זֹאת זָרִים
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6400100501: Ἀγαπητέ, (G0027) → "אָהוּב" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1063,9 +1067,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100512' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v6 - HEB
+-- אֲשֶׁר הֵעִידוּ שֶׁלְךָ לַ– אַהֲבָה לִפְנֵי קְהִלָּה אֲשֶׁר יָפֶה־תַּעֲשִׂה לְוַתָּם בְּאֹפֶן־רָאוּי שֶׁל– הַ– אֱלֹהִים
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6400100601: οἳ (G3739) → "אֲשֶׁר" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1291,9 +1300,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100614' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v7 - HEB
+-- בְּעַד כִּי הַ– שֵׁם יָצְאוּ מְאוּמָה לוֹקְחִים מִ– הַ– גּוֹיִם
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6400100701: ὑπὲρ (G5228) → "בְּעַד" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1455,9 +1469,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100710' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v8 - HEB
+-- אֲנַחְנוּ לָכֵן חַיָּבִים לְקַבֵּל אֶת– הַכָּאֵלֶּה לְמַעַן עוֹזְרִים נִהְיֶה לַ– אֱמֶת
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6400100801: ἡμεῖς (G1473) → "אֲנַחְנוּ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1635,9 +1654,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100811' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v9 - HEB
+-- כָּתַבְתִּי דָּבָר לַ– קְהִלָּה אֲבָל הַ– הַאוֹהֵב־לִהְיוֹת־רִאשׁוֹן שֶׁלָּהֶם דִּיוֹטְרֶפֶס לֹא מְקַבֵּל אוֹתָנוּ
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6400100901: Ἔγραψά (G1125) → "כָּתַבְתִּי" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1831,9 +1855,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400100912' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v10 - HEB
+-- עַל־כֵּן זֹאת אִם אָבוֹא אַזְכִּיר שֶׁלּוֹ אֶת– הַמַּעֲשִׂים אֲשֶׁר עוֹשִׂה בִּדְבָרִים רָעִים מְפַטְפֵּט אוֹתָנוּ וְ– לֹא מִסְתַפֵּק עַל אֵלֶּה וְלֹא הוּא מְקַבֵּל אֶת– הָאַחִים וְ– אֶת– הָרוֹצִים מוֹנֵעַ וְ– מִ– הַ– קְהִלָּה מְגָרֵשׁ
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6400101001: διὰ (G1223) → "עַל־כֵּן" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2363,9 +2392,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400101033' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v11 - HEB
+-- אָהוּב אַל תְחַקֶּה אֶת– הָרָע אֶלָּא אֶת– הַטּוֹב הַ– עוֹשִׂה־טוֹב מִ– הַ– אֱלֹהִים הוּא הַ– עוֹשִׂה־רָע לֹא רָאָה אֶת– הָאֱלֹהִים
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6400101101: Ἀγαπητέ, (G0027) → "אָהוּב" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2687,9 +2721,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400101120' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v12 - HEB
+-- לִדְמִטְרִיוֹס הוּעַד עַל־יְדֵי הַכֹּל וְ– עַל־יְדֵי שֶׁלָּהּ הַ– אֱמֶת וְ– אֲנַחְנוּ אֲבָל מְעִידִים וְ– יוֹדֵעַ כִּי הָ– עֵדוּת שֶׁלָּנוּ אֱמֶת הִיא
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6400101201: Δημητρίῳ (G1216) → "לִדְמִטְרִיוֹס" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3027,9 +3066,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400101221' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v13 - HEB
+-- רַבּוֹת הָיָה־לִי לִכְתֹב לְךָ אֲבָל לֹא רוֹצֶה עַל־יְדֵי דְּיוֹ וְ– קוּלְמוֹס לְךָ לִכְתֹב
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6400101301: Πολλὰ (G4183) → "רַבּוֹת" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3239,9 +3283,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400101313' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- 3JOHN c1-v14 - HEB
+-- מְקַוֶּה אֲבָל מִיָּד לִרְאוֹתְךָ לִרְאוֹת וְ– פֶּה אֶל פֶּה נְדַבֵּר שָׁלוֹם לְךָ מַקְבִּילִים לְךָ הַ– יְדִידִים הַקְבֵּל אֶת– הַיְדִידִים לְפִי– שֵׁם
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6400101401: ἐλπίζω (G1679) → "מְקַוֶּה" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3579,4 +3628,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6400101421' AND p.language_id = (SELECT id FROM language WHERE code = 'heb') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
