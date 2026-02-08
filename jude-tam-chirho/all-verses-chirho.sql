@@ -2,37 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- JUDE - TAM Combined
--- Generated: 2026-01-22T05:50:25.447Z
-
--- c001-v001: யூதா இயேசுவின் கிறிஸ்துவின் அடிமை சகோதரன் –மேலும் யாக்கோபுவின் –அவர்களுக்கு –இல் தேவன் பிதா அன்புசெய்யப்பட்டவர்களுக்கு –மற்றும் இயேசு கிறிஸ்துவுக்காக காக்கப்பட்டவர்களுக்கு அழைக்கப்பட்டவர்களுக்கு
--- c001-v002: இரக்கம் உங்களுக்கு –மற்றும் சமாதானம் –மற்றும் அன்பு பெருகட்டும்
--- c001-v003: அன்பானவர்களே எல்லா ஆர்வத்துடன் செய்துகொண்டு எழுத உங்களுக்கு –குறித்து –அந்த பொதுவான நம்முடைய இரட்சிப்பு அவசியம் கொண்டேன் எழுத உங்களுக்கு அறிவுறுத்தி போராட –அந்த ஒருமுறை ஒப்புவிக்கப்பட்ட –அந்த பரிசுத்தவான்களுக்கு விசுவாசம்
--- c001-v004: நுழைந்தார்கள் –ஏனெனில் சிலர் மனிதர்கள் –அவர்கள் முன்பே எழுதப்பட்டவர்கள் –க்கு இந்த –அந்த தீர்ப்பு அவபக்தியுள்ளவர்கள் –அந்த –உடைய தேவனுடைய நம்முடைய கிருபையை மாற்றுகிறவர்கள் –க்கு காமவிகாரத்திற்கு –மற்றும் –அந்த ஒரே எஜமானரை –மற்றும் கர்த்தர் நம்முடைய இயேசுவை கிறிஸ்துவை மறுதலிக்கிறவர்கள்
--- c001-v005: நினைவுபடுத்த –மேலும் உங்களுக்கு விரும்புகிறேன் அறிந்திருக்கிறவர்களே நீங்கள் ஒருமுறை எல்லாவற்றையும் –என்று –அந்த கர்த்தர் ஜனங்களை –இலிருந்து தேசத்திலிருந்து எகிப்தின் இரட்சித்து –அந்த இரண்டாவது –அந்த –இல்லாத விசுவாசிக்காதவர்களை அழித்தார்
--- c001-v006: தூதர்களையும் –மேலும் –அந்த –இல்லாத காத்துக்கொள்ளாத –அந்த தங்களுடைய ஆரம்பநிலையை ஆனால் விட்டுவிட்ட –அந்த சொந்த வாசஸ்தலத்தை –க்கு நியாயத்தீர்ப்புக்கு பெரிய நாளின் விலங்குகளால் நித்தியமான –கீழ் இருளில் காத்திருக்கிறார்
--- c001-v007: –போல் சோதோம் –மற்றும் கொமோரா –மற்றும் –அந்த –சுற்றியுள்ள அவைகளின் நகரங்கள் –அந்த ஒத்த விதத்தில் இவைகளுக்கு வேசித்தனம்–செய்து –மற்றும் போய் பின்னால் மாம்சத்தின் வேறுபட்ட முன்வைக்கப்பட்டிருக்கின்றன உதாரணமாக நெருப்பின் நித்தியமான தண்டனையை அனுபவிக்கின்றன
--- c001-v008: அதேபோல் உண்மையில் –மற்றும் இவர்களும் கனவுகாண்கிறவர்களாய் மாம்சத்தை –ஒருபுறம் தீட்டுப்படுத்துகிறார்கள் அதிகாரத்தை –மேலும் புறக்கணிக்கிறார்கள் மகிமைகளை –மேலும் தூஷிக்கிறார்கள்
--- c001-v009: –அந்த –மேலும் மிகாயேல் –அந்த பிரதான–தூதன் –போது –அந்த பிசாசுடன் தர்க்கித்து பேசினார் –குறித்து –உடைய மோசேயின் சரீரத்தைக்குறித்து –இல்லை துணிந்தார் தீர்ப்பை கொண்டுவர தூஷணத்தின் ஆனால் சொன்னார் கடிந்துகொள்ளட்டும் உன்னை கர்த்தர்
--- c001-v010: இவர்களோ –மேலும் எவைகளை –ஒருபுறம் –இல்லை அறியவில்லையோ தூஷிக்கிறார்கள் எவைகளை –மேலும் இயல்பாக –போல் –அந்த புத்தியில்லாத மிருகங்கள் அறிகிறார்களோ –இல் இவைகளில் கெட்டுப்போகிறார்கள்
--- c001-v011: ஐயோ அவர்களுக்கு –என்று –அந்த வழியில் –உடைய காயீனின் நடந்தார்கள் –மற்றும் –அந்த வஞ்சகத்திற்கு –உடைய பிலேயாமின் கூலிக்காக ஓடினார்கள் –மற்றும் –அந்த கலகத்தில் –உடைய கோராகின் அழிந்தார்கள்
--- c001-v012: இவர்கள் இருக்கிறார்கள் –அந்த –இல் –அந்த அன்புவிருந்துகளில் உங்களுடைய கரைப்பாறைகள் சேர்ந்துவிருந்தாடுகிறவர்கள் அச்சமின்றி தங்களை மேய்க்கிறவர்கள் மேகங்கள் நீரில்லாத –கீழ் காற்றுகளால் அடித்துச்செல்லப்படுகிற மரங்கள் இலையுதிர்கால கனியில்லாத இருமுறை செத்த வேரோடு–பிடுங்கப்பட்ட
--- c001-v013: அலைகள் கொந்தளிப்பான கடலின் நுரைதள்ளுகிற –அந்த தங்களுடைய அவமானங்களை நட்சத்திரங்கள் அலைந்துதிரிகிற அவர்களுக்கு –அந்த இருள் –உடைய காரிருளின் –க்கு நித்தியத்திற்கு வைக்கப்பட்டிருக்கிறது
--- c001-v014: தீர்க்கதரிசனம்–சொன்னார் –மேலும் –மற்றும் இவர்களைக்குறித்து ஏழாவது –இலிருந்து ஆதாமிலிருந்து ஏனோக்கு சொல்லி இதோ வந்தார் கர்த்தர் –உடன் பரிசுத்த பதினாயிரங்களுடன் அவருடைய
--- c001-v015: செய்ய நியாயத்தீர்ப்பை –எதிராக எல்லாருக்கும் –மற்றும் கண்டிக்க எல்லா –அந்த அவபக்தியுள்ளவர்களை –குறித்து எல்லா –அந்த செயல்கள் அவபக்தியின் அவர்களுடைய –அவை அவபக்தியாய்–நடந்தார்கள் –மற்றும் –குறித்து எல்லா –அந்த கடினமான –அவை பேசினார்கள் –எதிராக அவருக்கு பாவிகள் அவபக்தியுள்ளவர்கள்
--- c001-v016: இவர்கள் இருக்கிறார்கள் முறுமுறுப்பவர்கள் குறைகூறுபவர்கள் –படி –அந்த இச்சைகளின் தங்களுடைய நடக்கிறவர்கள் –மற்றும் –அந்த வாய் அவர்களுடைய பேசுகிறது பெருமையானவைகளை வியந்துபாராட்டுகிறவர்கள் முகங்களை பயனுக்காக நிமித்தம்
--- c001-v017: நீங்களோ –மேலும் அன்பானவர்களே நினைவுகூருங்கள் –அந்த வார்த்தைகளை –அந்த முன்சொல்லப்பட்ட –மூலம் –அந்த அப்போஸ்தலர்களால் –உடைய கர்த்தரின் நம்முடைய இயேசு கிறிஸ்துவின்
--- c001-v018: –என்று சொன்னார்கள் உங்களுக்கு –என்று –இல் கடைசி –உடைய காலத்தில் இருப்பார்கள் பரிகாசிகள் –படி –அந்த தங்களுடைய இச்சைகளின் நடக்கிறவர்கள் –அந்த அவபக்தியின்
--- c001-v019: இவர்கள் இருக்கிறார்கள் –அந்த பிரிவினைசெய்கிறவர்கள் ஆத்துமாவின்–படி ஆவி –இல்லாத இல்லாதவர்கள்
--- c001-v020: நீங்களோ –மேலும் அன்பானவர்களே கட்டிக்கொண்டு உங்களை –அந்த மிகவும்–பரிசுத்தமான உங்களுடைய விசுவாசத்தின்மேல் –இல் ஆவியானவரில் பரிசுத்த ஜெபித்து
--- c001-v021: உங்களை –இல் அன்பில் தேவனுடைய காத்துக்கொள்ளுங்கள் எதிர்பார்த்து –அந்த இரக்கத்தை –உடைய கர்த்தரின் நம்முடைய இயேசு கிறிஸ்துவின் –க்கு வாழ்வுக்கு நித்திய
--- c001-v022: –மற்றும் சிலரை –ஒருபுறம் இரக்கம்–காட்டுங்கள் சந்தேகப்படுகிறவர்களுக்கு
--- c001-v023: சிலரை –மேலும் இரட்சியுங்கள் –இலிருந்து நெருப்பிலிருந்து பிடுங்கி சிலருக்கு –மேலும் இரக்கம்–காட்டுங்கள் –இல் பயத்துடன் வெறுத்து –மற்றும் –அந்த –இலிருந்து –அந்த மாம்சத்தால் கறைபட்ட வஸ்திரத்தையும்
--- c001-v024: –அவருக்கு –மேலும் வல்லவருக்கு காக்க உங்களை இடறாதவர்களாக –மற்றும் நிறுத்த முன்பாக –அந்த மகிமையின் அவருடைய குற்றமில்லாதவர்களாக –இல் மகிழ்ச்சியில்
--- c001-v025: ஒரே தேவனுக்கு இரட்சகர் நம்முடைய –மூலம் இயேசு கிறிஸ்துவின் –உடைய கர்த்தரின் நம்முடைய மகிமையும் மகத்துவமும் வல்லமையும் –மற்றும் அதிகாரமும் –முன் எல்லா –அந்த யுகத்திற்கு –மற்றும் இப்போதும் –மற்றும் –க்கு எல்லா –அந்த யுகங்களுக்கும் ஆமென்
+-- JUDE c1-v1 - TAM
+-- யூதா இயேசுவின் கிறிஸ்துவின் அடிமை சகோதரன் –மேலும் யாக்கோபுவின் –அவர்களுக்கு –இல் தேவன் பிதா அன்புசெய்யப்பட்டவர்களுக்கு –மற்றும் இயேசு கிறிஸ்துவுக்காக காக்கப்பட்டவர்களுக்கு அழைக்கப்பட்டவர்களுக்கு
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6500100101: Ἰούδας, (G2455) → "யூதா" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -306,9 +279,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100117' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v2 - TAM
+-- இரக்கம் உங்களுக்கு –மற்றும் சமாதானம் –மற்றும் அன்பு பெருகட்டும்
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6500100201: ἔλεος (G1656) → "இரக்கம்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -422,9 +400,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100207' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v3 - TAM
+-- அன்பானவர்களே எல்லா ஆர்வத்துடன் செய்துகொண்டு எழுத உங்களுக்கு –குறித்து –அந்த பொதுவான நம்முடைய இரட்சிப்பு அவசியம் கொண்டேன் எழுத உங்களுக்கு அறிவுறுத்தி போராட –அந்த ஒருமுறை ஒப்புவிக்கப்பட்ட –அந்த பரிசுத்தவான்களுக்கு விசுவாசம்
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6500100301: Ἀγαπητοί, (G0027) → "அன்பானவர்களே" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -794,9 +777,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100323' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v4 - TAM
+-- நுழைந்தார்கள் –ஏனெனில் சிலர் மனிதர்கள் –அவர்கள் முன்பே எழுதப்பட்டவர்கள் –க்கு இந்த –அந்த தீர்ப்பு அவபக்தியுள்ளவர்கள் –அந்த –உடைய தேவனுடைய நம்முடைய கிருபையை மாற்றுகிறவர்கள் –க்கு காமவிகாரத்திற்கு –மற்றும் –அந்த ஒரே எஜமானரை –மற்றும் கர்த்தர் நம்முடைய இயேசுவை கிறிஸ்துவை மறுதலிக்கிறவர்கள்
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6500100401: παρεισέδυσαν (G3921) → "நுழைந்தார்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1278,9 +1266,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100430' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v5 - TAM
+-- நினைவுபடுத்த –மேலும் உங்களுக்கு விரும்புகிறேன் அறிந்திருக்கிறவர்களே நீங்கள் ஒருமுறை எல்லாவற்றையும் –என்று –அந்த கர்த்தர் ஜனங்களை –இலிருந்து தேசத்திலிருந்து எகிப்தின் இரட்சித்து –அந்த இரண்டாவது –அந்த –இல்லாத விசுவாசிக்காதவர்களை அழித்தார்
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6500100501: Ὑπομνῆσαι (G5279) → "நினைவுபடுத்த" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1634,9 +1627,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100522' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v6 - TAM
+-- தூதர்களையும் –மேலும் –அந்த –இல்லாத காத்துக்கொள்ளாத –அந்த தங்களுடைய ஆரம்பநிலையை ஆனால் விட்டுவிட்ட –அந்த சொந்த வாசஸ்தலத்தை –க்கு நியாயத்தீர்ப்புக்கு பெரிய நாளின் விலங்குகளால் நித்தியமான –கீழ் இருளில் காத்திருக்கிறார்
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6500100601: ἀγγέλους (G0032) → "தூதர்களையும்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1990,9 +1988,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100622' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v7 - TAM
+-- –போல் சோதோம் –மற்றும் கொமோரா –மற்றும் –அந்த –சுற்றியுள்ள அவைகளின் நகரங்கள் –அந்த ஒத்த விதத்தில் இவைகளுக்கு வேசித்தனம்–செய்து –மற்றும் போய் பின்னால் மாம்சத்தின் வேறுபட்ட முன்வைக்கப்பட்டிருக்கின்றன உதாரணமாக நெருப்பின் நித்தியமான தண்டனையை அனுபவிக்கின்றன
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6500100701: ὡς (G5613) → "–போல்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2394,9 +2397,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100725' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v8 - TAM
+-- அதேபோல் உண்மையில் –மற்றும் இவர்களும் கனவுகாண்கிறவர்களாய் மாம்சத்தை –ஒருபுறம் தீட்டுப்படுத்துகிறார்கள் அதிகாரத்தை –மேலும் புறக்கணிக்கிறார்கள் மகிமைகளை –மேலும் தூஷிக்கிறார்கள்
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6500100801: Ὁμοίως (G3668) → "அதேபோல்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2622,9 +2630,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100814' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v9 - TAM
+-- –அந்த –மேலும் மிகாயேல் –அந்த பிரதான–தூதன் –போது –அந்த பிசாசுடன் தர்க்கித்து பேசினார் –குறித்து –உடைய மோசேயின் சரீரத்தைக்குறித்து –இல்லை துணிந்தார் தீர்ப்பை கொண்டுவர தூஷணத்தின் ஆனால் சொன்னார் கடிந்துகொள்ளட்டும் உன்னை கர்த்தர்
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6500100901: ὁ (G3588) → "–அந்த" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3010,9 +3023,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100924' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v10 - TAM
+-- இவர்களோ –மேலும் எவைகளை –ஒருபுறம் –இல்லை அறியவில்லையோ தூஷிக்கிறார்கள் எவைகளை –மேலும் இயல்பாக –போல் –அந்த புத்தியில்லாத மிருகங்கள் அறிகிறார்களோ –இல் இவைகளில் கெட்டுப்போகிறார்கள்
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6500101001: οὗτοι (G3778) → "இவர்களோ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3302,9 +3320,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101018' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v11 - TAM
+-- ஐயோ அவர்களுக்கு –என்று –அந்த வழியில் –உடைய காயீனின் நடந்தார்கள் –மற்றும் –அந்த வஞ்சகத்திற்கு –உடைய பிலேயாமின் கூலிக்காக ஓடினார்கள் –மற்றும் –அந்த கலகத்தில் –உடைய கோராகின் அழிந்தார்கள்
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6500101101: οὐαὶ (G3759) → "ஐயோ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3642,9 +3665,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101121' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v12 - TAM
+-- இவர்கள் இருக்கிறார்கள் –அந்த –இல் –அந்த அன்புவிருந்துகளில் உங்களுடைய கரைப்பாறைகள் சேர்ந்துவிருந்தாடுகிறவர்கள் அச்சமின்றி தங்களை மேய்க்கிறவர்கள் மேகங்கள் நீரில்லாத –கீழ் காற்றுகளால் அடித்துச்செல்லப்படுகிற மரங்கள் இலையுதிர்கால கனியில்லாத இருமுறை செத்த வேரோடு–பிடுங்கப்பட்ட
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6500101201: Οὗτοί (G3778) → "இவர்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4014,9 +4042,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101223' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v13 - TAM
+-- அலைகள் கொந்தளிப்பான கடலின் நுரைதள்ளுகிற –அந்த தங்களுடைய அவமானங்களை நட்சத்திரங்கள் அலைந்துதிரிகிற அவர்களுக்கு –அந்த இருள் –உடைய காரிருளின் –க்கு நித்தியத்திற்கு வைக்கப்பட்டிருக்கிறது
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6500101301: κύματα (G2949) → "அலைகள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4290,9 +4323,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101317' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v14 - TAM
+-- தீர்க்கதரிசனம்–சொன்னார் –மேலும் –மற்றும் இவர்களைக்குறித்து ஏழாவது –இலிருந்து ஆதாமிலிருந்து ஏனோக்கு சொல்லி இதோ வந்தார் கர்த்தர் –உடன் பரிசுத்த பதினாயிரங்களுடன் அவருடைய
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6500101401: Προεφήτευσεν (G4395) → "தீர்க்கதரிசனம்–சொன்னார்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4550,9 +4588,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101416' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v15 - TAM
+-- செய்ய நியாயத்தீர்ப்பை –எதிராக எல்லாருக்கும் –மற்றும் கண்டிக்க எல்லா –அந்த அவபக்தியுள்ளவர்களை –குறித்து எல்லா –அந்த செயல்கள் அவபக்தியின் அவர்களுடைய –அவை அவபக்தியாய்–நடந்தார்கள் –மற்றும் –குறித்து எல்லா –அந்த கடினமான –அவை பேசினார்கள் –எதிராக அவருக்கு பாவிகள் அவபக்தியுள்ளவர்கள்
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 6500101501: ποιῆσαι (G4160) → "செய்ய" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5002,9 +5045,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101528' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v16 - TAM
+-- இவர்கள் இருக்கிறார்கள் முறுமுறுப்பவர்கள் குறைகூறுபவர்கள் –படி –அந்த இச்சைகளின் தங்களுடைய நடக்கிறவர்கள் –மற்றும் –அந்த வாய் அவர்களுடைய பேசுகிறது பெருமையானவைகளை வியந்துபாராட்டுகிறவர்கள் முகங்களை பயனுக்காக நிமித்தம்
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 6500101601: Οὗτοί (G3778) → "இவர்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5310,9 +5358,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101619' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v17 - TAM
+-- நீங்களோ –மேலும் அன்பானவர்களே நினைவுகூருங்கள் –அந்த வார்த்தைகளை –அந்த முன்சொல்லப்பட்ட –மூலம் –அந்த அப்போஸ்தலர்களால் –உடைய கர்த்தரின் நம்முடைய இயேசு கிறிஸ்துவின்
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 6500101701: Ὑμεῖς (G4771) → "நீங்களோ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5570,9 +5623,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101716' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v18 - TAM
+-- –என்று சொன்னார்கள் உங்களுக்கு –என்று –இல் கடைசி –உடைய காலத்தில் இருப்பார்கள் பரிகாசிகள் –படி –அந்த தங்களுடைய இச்சைகளின் நடக்கிறவர்கள் –அந்த அவபக்தியின்
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 6500101801: ὅτι (G3754) → "–என்று" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5846,9 +5904,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101817' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v19 - TAM
+-- இவர்கள் இருக்கிறார்கள் –அந்த பிரிவினைசெய்கிறவர்கள் ஆத்துமாவின்–படி ஆவி –இல்லாத இல்லாதவர்கள்
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 6500101901: Οὗτοί (G3778) → "இவர்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5978,9 +6041,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101908' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v20 - TAM
+-- நீங்களோ –மேலும் அன்பானவர்களே கட்டிக்கொண்டு உங்களை –அந்த மிகவும்–பரிசுத்தமான உங்களுடைய விசுவாசத்தின்மேல் –இல் ஆவியானவரில் பரிசுத்த ஜெபித்து
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 6500102001: ὑμεῖς (G4771) → "நீங்களோ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6190,9 +6258,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102013' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v21 - TAM
+-- உங்களை –இல் அன்பில் தேவனுடைய காத்துக்கொள்ளுங்கள் எதிர்பார்த்து –அந்த இரக்கத்தை –உடைய கர்த்தரின் நம்முடைய இயேசு கிறிஸ்துவின் –க்கு வாழ்வுக்கு நித்திய
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 6500102101: ἑαυτοὺς (G1438) → "உங்களை" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6450,9 +6523,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102116' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v22 - TAM
+-- –மற்றும் சிலரை –ஒருபுறம் இரக்கம்–காட்டுங்கள் சந்தேகப்படுகிறவர்களுக்கு
 
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 6500102201: καὶ (G2532) → "–மற்றும்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6534,9 +6612,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102205' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v23 - TAM
+-- சிலரை –மேலும் இரட்சியுங்கள் –இலிருந்து நெருப்பிலிருந்து பிடுங்கி சிலருக்கு –மேலும் இரக்கம்–காட்டுங்கள் –இல் பயத்துடன் வெறுத்து –மற்றும் –அந்த –இலிருந்து –அந்த மாம்சத்தால் கறைபட்ட வஸ்திரத்தையும்
 
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 6500102301: ‹οὓς (G3739) → "சிலரை" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6842,9 +6925,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102319' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v24 - TAM
+-- –அவருக்கு –மேலும் வல்லவருக்கு காக்க உங்களை இடறாதவர்களாக –மற்றும் நிறுத்த முன்பாக –அந்த மகிமையின் அவருடைய குற்றமில்லாதவர்களாக –இல் மகிழ்ச்சியில்
 
 BEGIN;
--- === Chapter 1 Verse 24 ===
 -- 6500102401: Τῷ (G3588) → "–அவருக்கு" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7086,9 +7174,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102415' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v25 - TAM
+-- ஒரே தேவனுக்கு இரட்சகர் நம்முடைய –மூலம் இயேசு கிறிஸ்துவின் –உடைய கர்த்தரின் நம்முடைய மகிமையும் மகத்துவமும் வல்லமையும் –மற்றும் அதிகாரமும் –முன் எல்லா –அந்த யுகத்திற்கு –மற்றும் இப்போதும் –மற்றும் –க்கு எல்லா –அந்த யுகங்களுக்கும் ஆமென்
 
 BEGIN;
--- === Chapter 1 Verse 25 ===
 -- 6500102501: μόνῳ (G3441) → "ஒரே" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7522,4 +7615,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102527' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-

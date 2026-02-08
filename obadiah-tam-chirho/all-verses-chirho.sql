@@ -2,33 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- OBADIAH - TAM Combined
--- Generated: 2026-01-22T05:51:53.162Z
-
--- c001-v001: தரிசனம் ஒபதியாவின் இவ்வாறு– சொன்னார் ஆண்டவர் யெகோவா ஏதோமுக்கு செய்தி கேட்டோம் –இலிருந்து யெகோவா –மற்றும்–தூதன் ஜாதிகளிடையே அனுப்பப்பட்டான் எழுங்கள் –மற்றும்–எழுவோம் அவளுக்கு–எதிராக போருக்கு
--- c001-v002: இதோ சிறியதாக உன்னை–வைத்தேன் ஜாதிகளிடையே அசட்டைப்பட்ட நீ மிகவும்
--- c001-v003: அகந்தை உன்–இருதயத்தின் உன்னை–ஏமாற்றியது குடியிருக்கிற பாறையின்– பிளவுகளில் உயரமான அவனுடைய–வாசஸ்தலம் சொல்கிற அவனுடைய–இருதயத்தில் யார் என்னை–இறக்குவான் தரைக்கு
--- c001-v004: –ஆனாலும் நீ–உயர்த்தினாலும் கழுகைப்போல் –மற்றும்–ஆனாலும் –இடையே நட்சத்திரங்களின் வைத்தாலும் உன்–கூட்டை அங்கிருந்து உன்னை–இறக்குவேன் என்கிறார்– யெகோவா
--- c001-v005: –ஆனால் திருடர்கள் வந்தால்– உன்னிடம் –ஆனால் கொள்ளையர்கள் இரவில் எப்படி அழிக்கப்பட்டாய் –இல்லையா திருடுவார்களா போதுமானதை –ஆனால் திராட்சை–பறிப்போர் வந்தால் உன்னிடம் –இல்லையா விட்டுவைப்பார்களா பின்பறிப்பை
--- c001-v006: எப்படி சோதிக்கப்பட்டான் ஏசா கண்டுபிடிக்கப்பட்டன அவனுடைய–மறைவிடங்கள்
--- c001-v007: –வரை எல்லையின் உன்னை–அனுப்பினார்கள் எல்லா மனிதர்கள் உன்–உடன்படிக்கையின் உன்னை–ஏமாற்றினார்கள் ஜெயித்தார்கள் உன்னை மனிதர்கள் உன்–சமாதானத்தின் உன்–அப்பம் வைப்பார்கள் கண்ணியை உனக்கு–கீழே இல்லை புத்தி அவனில்
--- c001-v008: –இல்லையா அந்த–நாளில் அந்த என்கிறார்– யெகோவா –மற்றும்–அழிப்பேன் ஞானிகளை ஏதோமிலிருந்து –மற்றும்–புத்தியை மலையிலிருந்து ஏசாவின்
--- c001-v009: –மற்றும்–அஞ்சுவார்கள் உன்–வீரர்கள் தேமான் –ஆக வெட்டப்படும்– ஒவ்வொரு–மனிதனும் மலையிலிருந்து ஏசாவின் கொலையால்
--- c001-v010: வன்முறையினால் உன்–சகோதரன் யாக்கோபுக்கு உன்னை–மூடும் அவமானம் –மற்றும்–வெட்டப்படுவாய் என்றென்றைக்கும்
--- c001-v011: அந்த–நாளில் நின்றாய் எதிரே அந்த–நாளில் சிறைபிடிக்க அந்நியர்கள் அவனுடைய–செல்வத்தை –மற்றும்–அந்நியர்கள் வந்தார்கள் அவனுடைய–வாசல்களில் அவனுடைய–வாசல்களில் –மற்றும்–மேல் எருசலேமின் சீட்டு–போட்டார்கள் சீட்டு –கூட நீ ஒருவனைப்போல் அவர்களில்
--- c001-v012: –மற்றும்–வேண்டாம் பார் அந்த–நாளில்– உன்–சகோதரனின் அந்த–நாளில் அவனுடைய–அந்நியமான –மற்றும்–வேண்டாம் மகிழ் மக்களுக்காக– யூதாவின் அந்த–நாளில் அவர்கள்–அழிவின் –மற்றும்–வேண்டாம் பெரிதாக்கு உன்–வாயை அந்த–நாளில் துன்பத்தின்
--- c001-v013: –வேண்டாம் நுழை வாசலில்– என்–ஜனத்தின் அந்த–நாளில் அவர்கள்–ஆபத்தின் –வேண்டாம் பார் –கூட நீ அவனுடைய–தீங்கில் அந்த–நாளில் அவனுடைய–ஆபத்தின் –மற்றும்–வேண்டாம் கைநீட்டு அவனுடைய–செல்வத்திற்கு அந்த–நாளில் அவனுடைய–ஆபத்தின்
--- c001-v014: –மற்றும்–வேண்டாம் நில் –மேல் வழிப்பிரிவில் வெட்ட –அந்த அவனுடைய–தப்பியவர்களை –மற்றும்–வேண்டாம் ஒப்புக்கொடு அவனுடைய–மீதியானவர்களை அந்த–நாளில் துன்பத்தின்
--- c001-v015: –ஏனெனில் அருகில் நாள்– யெகோவாவின் –மேல் –எல்லா ஜாதிகளின் எப்படி செய்தாயோ செய்யப்படும் உனக்கு உன்–செயல் திரும்பும் உன்–தலையின்மேல்
--- c001-v016: –ஏனெனில் எப்படி குடித்தீர்களோ –மேல் மலை என்–பரிசுத்தத்தின் குடிப்பார்கள் –எல்லா ஜாதிகள் தொடர்ச்சியாக –மற்றும்–குடிப்பார்கள் –மற்றும்–விழுங்குவார்கள் –மற்றும்–இருப்பார்கள் இல்லாதவர்களைப்போல் இருந்தார்கள்
--- c001-v017: –மற்றும்–மலையில் சீயோனின் இருக்கும் தப்பியவர்கள் –மற்றும்–இருக்கும் பரிசுத்தம் –மற்றும்–சுதந்தரிப்பார்கள் வீடு யாக்கோபின் –அந்த அவர்களுடைய–சுதந்தரங்களை
--- c001-v018: –மற்றும்–இருக்கும் வீடு– யாக்கோபின் நெருப்பு –மற்றும்–வீடு யோசேப்பின் ஜுவாலை –மற்றும்–வீடு ஏசாவின் வைக்கோல் –மற்றும்–எரிவார்கள் அவர்களில் –மற்றும்–விழுங்குவார்கள் –மற்றும்–இல்லை இருக்கும் தப்பியவன் வீட்டிற்கு ஏசாவின் –ஏனெனில் யெகோவா சொன்னார்
--- c001-v019: –மற்றும்–சுதந்தரிப்பார்கள் நெகேபின்–மக்கள் –அந்த மலை ஏசாவின் –மற்றும்–சமவெளியின்–மக்கள் –அந்த பெலிஸ்தியரை –மற்றும்–சுதந்தரிப்பார்கள் –அந்த வயல் எப்பிராயீமின் –மற்றும்–அந்த வயல் சமாரியாவின் –மற்றும்–பென்யமீன் –அந்த கிலேயாதை
--- c001-v020: –மற்றும்–சிறைப்பட்டவர்கள் படை– இந்த மக்களுக்கு இஸ்ரவேலின் –அந்த கானானியர் –வரை சாரிபாத் –மற்றும்–சிறைப்பட்டவர்கள் எருசலேமின் –அந்த செப்பாராதில் சுதந்தரிப்பார்கள் –அந்த நகரங்களை நெகேபின்
--- c001-v021: –மற்றும்–ஏறுவார்கள் இரட்சகர்கள் மலையில் சீயோனின் நியாயம்தீர்க்க –அந்த மலை ஏசாவின் –மற்றும்–இருக்கும் யெகோவாவுக்கு ராஜ்யம்
+-- OBADIAH c1-v1 - TAM
+-- தரிசனம் ஒபதியாவின் இவ்வாறு– சொன்னார் ஆண்டவர் யெகோவா ஏதோமுக்கு செய்தி கேட்டோம் –இலிருந்து யெகோவா –மற்றும்–தூதன் ஜாதிகளிடையே அனுப்பப்பட்டான் எழுங்கள் –மற்றும்–எழுவோம் அவளுக்கு–எதிராக போருக்கு
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3100100101: חֲז֖וֹן (H2377) → "தரிசனம்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -318,9 +295,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100118' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v2 - TAM
+-- இதோ சிறியதாக உன்னை–வைத்தேன் ஜாதிகளிடையே அசட்டைப்பட்ட நீ மிகவும்
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3100100201: הִנֵּ֥ה (H2009) → "இதோ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -434,9 +416,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100207' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v3 - TAM
+-- அகந்தை உன்–இருதயத்தின் உன்னை–ஏமாற்றியது குடியிருக்கிற பாறையின்– பிளவுகளில் உயரமான அவனுடைய–வாசஸ்தலம் சொல்கிற அவனுடைய–இருதயத்தில் யார் என்னை–இறக்குவான் தரைக்கு
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3100100301: זְד֤וֹן (H2087) → "அகந்தை" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -646,9 +633,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100313' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v4 - TAM
+-- –ஆனாலும் நீ–உயர்த்தினாலும் கழுகைப்போல் –மற்றும்–ஆனாலும் –இடையே நட்சத்திரங்களின் வைத்தாலும் உன்–கூட்டை அங்கிருந்து உன்னை–இறக்குவேன் என்கிறார்– யெகோவா
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3100100401: אִם־ (H0518a) → "–ஆனாலும்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -842,9 +834,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100412' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v5 - TAM
+-- –ஆனால் திருடர்கள் வந்தால்– உன்னிடம் –ஆனால் கொள்ளையர்கள் இரவில் எப்படி அழிக்கப்பட்டாய் –இல்லையா திருடுவார்களா போதுமானதை –ஆனால் திராட்சை–பறிப்போர் வந்தால் உன்னிடம் –இல்லையா விட்டுவைப்பார்களா பின்பறிப்பை
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3100100501: אִם־ (H0518a) → "–ஆனால்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1150,9 +1147,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100519' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v6 - TAM
+-- எப்படி சோதிக்கப்பட்டான் ஏசா கண்டுபிடிக்கப்பட்டன அவனுடைய–மறைவிடங்கள்
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3100100601: אֵ֚יךְ (H0349a) → "எப்படி" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1234,9 +1236,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100605' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v7 - TAM
+-- –வரை எல்லையின் உன்னை–அனுப்பினார்கள் எல்லா மனிதர்கள் உன்–உடன்படிக்கையின் உன்னை–ஏமாற்றினார்கள் ஜெயித்தார்கள் உன்னை மனிதர்கள் உன்–சமாதானத்தின் உன்–அப்பம் வைப்பார்கள் கண்ணியை உனக்கு–கீழே இல்லை புத்தி அவனில்
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3100100701: עַֽד־ (H5704) → "–வரை" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1526,9 +1533,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100718' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v8 - TAM
+-- –இல்லையா அந்த–நாளில் அந்த என்கிறார்– யெகோவா –மற்றும்–அழிப்பேன் ஞானிகளை ஏதோமிலிருந்து –மற்றும்–புத்தியை மலையிலிருந்து ஏசாவின்
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3100100801: הֲל֛וֹא (H3808) → "–இல்லையா" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1706,9 +1718,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100811' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v9 - TAM
+-- –மற்றும்–அஞ்சுவார்கள் உன்–வீரர்கள் தேமான் –ஆக வெட்டப்படும்– ஒவ்வொரு–மனிதனும் மலையிலிருந்து ஏசாவின் கொலையால்
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3100100901: וְחַתּ֥וּ (H2865) → "–மற்றும்–அஞ்சுவார்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1854,9 +1871,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100909' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v10 - TAM
+-- வன்முறையினால் உன்–சகோதரன் யாக்கோபுக்கு உன்னை–மூடும் அவமானம் –மற்றும்–வெட்டப்படுவாய் என்றென்றைக்கும்
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3100101001: מֵחֲמַ֛ס (H2555) → "வன்முறையினால்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1970,9 +1992,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101007' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v11 - TAM
+-- அந்த–நாளில் நின்றாய் எதிரே அந்த–நாளில் சிறைபிடிக்க அந்நியர்கள் அவனுடைய–செல்வத்தை –மற்றும்–அந்நியர்கள் வந்தார்கள் அவனுடைய–வாசல்களில் அவனுடைய–வாசல்களில் –மற்றும்–மேல் எருசலேமின் சீட்டு–போட்டார்கள் சீட்டு –கூட நீ ஒருவனைப்போல் அவர்களில்
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3100101101: בְּיוֹם֙ (H3117) → "அந்த–நாளில்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2278,9 +2305,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101119' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v12 - TAM
+-- –மற்றும்–வேண்டாம் பார் அந்த–நாளில்– உன்–சகோதரனின் அந்த–நாளில் அவனுடைய–அந்நியமான –மற்றும்–வேண்டாம் மகிழ் மக்களுக்காக– யூதாவின் அந்த–நாளில் அவர்கள்–அழிவின் –மற்றும்–வேண்டாம் பெரிதாக்கு உன்–வாயை அந்த–நாளில் துன்பத்தின்
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3100101201: וְאַל־ (H0408) → "–மற்றும்–வேண்டாம்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2554,9 +2586,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101217' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v13 - TAM
+-- –வேண்டாம் நுழை வாசலில்– என்–ஜனத்தின் அந்த–நாளில் அவர்கள்–ஆபத்தின் –வேண்டாம் பார் –கூட நீ அவனுடைய–தீங்கில் அந்த–நாளில் அவனுடைய–ஆபத்தின் –மற்றும்–வேண்டாம் கைநீட்டு அவனுடைய–செல்வத்திற்கு அந்த–நாளில் அவனுடைய–ஆபத்தின்
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3100101301: אַל־ (H0408) → "–வேண்டாம்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2846,9 +2883,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101318' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v14 - TAM
+-- –மற்றும்–வேண்டாம் நில் –மேல் வழிப்பிரிவில் வெட்ட –அந்த அவனுடைய–தப்பியவர்களை –மற்றும்–வேண்டாம் ஒப்புக்கொடு அவனுடைய–மீதியானவர்களை அந்த–நாளில் துன்பத்தின்
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3100101401: וְאַֽל־ (H0408) → "–மற்றும்–வேண்டாம்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3042,9 +3084,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101412' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v15 - TAM
+-- –ஏனெனில் அருகில் நாள்– யெகோவாவின் –மேல் –எல்லா ஜாதிகளின் எப்படி செய்தாயோ செய்யப்படும் உனக்கு உன்–செயல் திரும்பும் உன்–தலையின்மேல்
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3100101501: כִּֽי־ (H3588a) → "–ஏனெனில்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3270,9 +3317,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101514' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v16 - TAM
+-- –ஏனெனில் எப்படி குடித்தீர்களோ –மேல் மலை என்–பரிசுத்தத்தின் குடிப்பார்கள் –எல்லா ஜாதிகள் தொடர்ச்சியாக –மற்றும்–குடிப்பார்கள் –மற்றும்–விழுங்குவார்கள் –மற்றும்–இருப்பார்கள் இல்லாதவர்களைப்போல் இருந்தார்கள்
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3100101601: כִּ֗י (H3588a) → "–ஏனெனில்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3514,9 +3566,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101615' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v17 - TAM
+-- –மற்றும்–மலையில் சீயோனின் இருக்கும் தப்பியவர்கள் –மற்றும்–இருக்கும் பரிசுத்தம் –மற்றும்–சுதந்தரிப்பார்கள் வீடு யாக்கோபின் –அந்த அவர்களுடைய–சுதந்தரங்களை
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3100101701: וּבְהַ֥ר (H2022) → "–மற்றும்–மலையில்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3694,9 +3751,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101711' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v18 - TAM
+-- –மற்றும்–இருக்கும் வீடு– யாக்கோபின் நெருப்பு –மற்றும்–வீடு யோசேப்பின் ஜுவாலை –மற்றும்–வீடு ஏசாவின் வைக்கோல் –மற்றும்–எரிவார்கள் அவர்களில் –மற்றும்–விழுங்குவார்கள் –மற்றும்–இல்லை இருக்கும் தப்பியவன் வீட்டிற்கு ஏசாவின் –ஏனெனில் யெகோவா சொன்னார்
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3100101801: וְהָיָה֩ (H1961) → "–மற்றும்–இருக்கும்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4034,9 +4096,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101821' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v19 - TAM
+-- –மற்றும்–சுதந்தரிப்பார்கள் நெகேபின்–மக்கள் –அந்த மலை ஏசாவின் –மற்றும்–சமவெளியின்–மக்கள் –அந்த பெலிஸ்தியரை –மற்றும்–சுதந்தரிப்பார்கள் –அந்த வயல் எப்பிராயீமின் –மற்றும்–அந்த வயல் சமாரியாவின் –மற்றும்–பென்யமீன் –அந்த கிலேயாதை
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 3100101901: וְיָרְשׁ֨וּ (H3423) → "–மற்றும்–சுதந்தரிப்பார்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4326,9 +4393,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101918' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v20 - TAM
+-- –மற்றும்–சிறைப்பட்டவர்கள் படை– இந்த மக்களுக்கு இஸ்ரவேலின் –அந்த கானானியர் –வரை சாரிபாத் –மற்றும்–சிறைப்பட்டவர்கள் எருசலேமின் –அந்த செப்பாராதில் சுதந்தரிப்பார்கள் –அந்த நகரங்களை நெகேபின்
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 3100102001: וְגָלֻ֣ת (H1546) → "–மற்றும்–சிறைப்பட்டவர்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4602,9 +4674,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102017' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v21 - TAM
+-- –மற்றும்–ஏறுவார்கள் இரட்சகர்கள் மலையில் சீயோனின் நியாயம்தீர்க்க –அந்த மலை ஏசாவின் –மற்றும்–இருக்கும் யெகோவாவுக்கு ராஜ்யம்
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 3100102101: וְעָל֤וּ (H5927) → "–மற்றும்–ஏறுவார்கள்" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4782,4 +4859,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102111' AND p.language_id = (SELECT id FROM language WHERE code = 'tam') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
