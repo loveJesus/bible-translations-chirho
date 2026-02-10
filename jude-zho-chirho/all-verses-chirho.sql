@@ -2,37 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- JUDE - ZHO Combined
--- Generated: 2026-01-22T05:18:52.963Z
-
--- c001-v001: 犹大 –耶稣 基督的 仆人 兄弟 –而 雅各的 –给那些 在 神 父 蒙爱的 并 –为耶稣 基督 蒙保守的 蒙召者
--- c001-v002: 怜悯 –归于你们 和 平安 和 爱 愿增多
--- c001-v003: 亲爱的 一切 热切 作着 写 –给你们 关于 –那 共同的 我们的 救恩 必要 我有 写 –给你们 劝勉 竭力争辩 –为那 一次 交付了的 –给那些 圣徒 信仰
--- c001-v004: 潜入了 –因为 某些 人 –那些 早已 预先记下的 归于 这 –这 审判 不敬虔的 –那 –的 神 我们的 恩典 转变着 成为 放荡 并 –那 独一的 主宰 和 主 我们的 耶稣 基督 否认着
--- c001-v005: 提醒 –但 你们 我愿意 已经知道 你们 一次 一切事 就是 –那 主 百姓 从 地 埃及 拯救后 –那 第二次 –把那些 不 信的 灭绝了
--- c001-v006: 天使们 –并且 –那些 没有 守住 –那 自己的 权位 却 离弃了 –那 自己的 居所 为 审判 大 日子的 –用锁链 永远的 在 幽暗 祂保守着
--- c001-v007: 如同 所多玛 和 蛾摩拉 和 –那些 周围 它们的 城市 –以那 相似的 方式 –与这些 行淫 并 去追随 在...之后 肉体 不同的 被摆出 –作为鉴戒 火 永远的 刑罚 承受着
--- c001-v008: 同样地 然而 也 这些人 做梦的 肉体 –一方面 玷污 权柄 –另一方面 弃绝 荣耀者们 –而 亵渎
--- c001-v009: –那 –但 米迦勒 –那 天使长 当 –与那 魔鬼 争辩 争论 关于 –的 摩西 身体 不 敢 审判 宣告 亵渎的 却 说 愿责备 你 主
--- c001-v010: 这些人 –但 凡 –一方面 不 知道的 亵渎 凡 –另一方面 本能地 如同 –那些 没有理性的 牲畜 理解的 在 这些事上 被败坏
--- c001-v011: 有祸了 –给他们 因为 –在那 道路 –的 该隐 他们行走了 并 –在那 错谬 –的 巴兰 –为了工价 他们奔去了 并 –在那 背叛 –的 可拉 他们灭亡了
--- c001-v012: 这些人 是 –那些 在 –那些 爱筵 你们的 礁石 一同宴乐 无惧地 自己 牧养着 云 无水的 被 风 吹过的 树 深秋的 无果的 两次 死了的 连根拔起的
--- c001-v013: 波浪 狂的 海的 涌出泡沫 –那些 自己的 可耻事 星 流荡的 –给它们 –那 幽暗 –的 黑暗 到 永远 被保留着
--- c001-v014: 预言了 –并且 也 –给这些人 第七 从 亚当 以诺 说 看哪 来了 主 带着 圣 万万 祂的
--- c001-v015: 施行 审判 向 众人 并 定罪 所有 –那些 不敬虔的 关于 所有 –的 行为 不敬虔 他们的 –以那些 他们不敬虔行事 并 关于 所有 –的 刚硬话 –以那些 他们说了 抵挡 祂 罪人 不敬虔的
--- c001-v016: 这些人 是 发怨言的 抱怨命运的 照着 –那些 私欲 他们的 行事的 并 –那 口 他们的 说 夸大话 奉承 脸面 –为了利益 缘故
--- c001-v017: 你们 –但 亲爱的 要记念 –那些 话语 –那些 预先说过的 被 –那些 使徒 –的 主 我们的 耶稣 基督
--- c001-v018: 就是 他们对说 你们 就是 在 末 –的 时候 将有 嘲笑者 照着 –那些 自己的 私欲 行事的 –的 不敬虔
--- c001-v019: 这些人 是 –那些 制造分裂的 属肉体的 灵 没有 有的
--- c001-v020: 你们 –但 亲爱的 建造 你们自己 –在那 至圣的 你们的 信仰上 在 圣 灵里 祷告
--- c001-v021: 你们自己 在 爱 神的 要保守 等候 –那 怜悯 –的 主 我们的 耶稣 基督 直到 生命 永远的
--- c001-v022: 并 –那些 –一方面 要怜悯 疑惑的
--- c001-v023: –那些 –另一方面 要拯救 从 火中 抢救 –那些 –而 要怜悯 在 敬畏中 恨恶 甚至 –那 从 –那 肉体 沾染了的 衣服
--- c001-v024: –给那 –而 能 保守 你们 不失脚的 并 使站立 在面前 –的 荣耀 祂的 无瑕疵的 在 欢乐中
--- c001-v025: 独一的 神 救主 我们的 借着 耶稣 基督 –的 主 我们的 荣耀 威严 权能 和 权柄 在 一切 –的 世代 和 现在 并 直到 所有 –的 世世代代 阿们
+-- JUDE c1-v1 - ZHO
+-- 犹大 –耶稣 基督的 仆人 兄弟 –而 雅各的 –给那些 在 神 父 蒙爱的 并 –为耶稣 基督 蒙保守的 蒙召者
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 6500100101: Ἰούδας, (G2455) → "犹大" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -306,9 +279,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100117' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v2 - ZHO
+-- 怜悯 –归于你们 和 平安 和 爱 愿增多
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 6500100201: ἔλεος (G1656) → "怜悯" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -422,9 +400,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100207' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v3 - ZHO
+-- 亲爱的 一切 热切 作着 写 –给你们 关于 –那 共同的 我们的 救恩 必要 我有 写 –给你们 劝勉 竭力争辩 –为那 一次 交付了的 –给那些 圣徒 信仰
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 6500100301: Ἀγαπητοί, (G0027) → "亲爱的" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -794,9 +777,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100323' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v4 - ZHO
+-- 潜入了 –因为 某些 人 –那些 早已 预先记下的 归于 这 –这 审判 不敬虔的 –那 –的 神 我们的 恩典 转变着 成为 放荡 并 –那 独一的 主宰 和 主 我们的 耶稣 基督 否认着
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 6500100401: παρεισέδυσαν (G3921) → "潜入了" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1278,9 +1266,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100430' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v5 - ZHO
+-- 提醒 –但 你们 我愿意 已经知道 你们 一次 一切事 就是 –那 主 百姓 从 地 埃及 拯救后 –那 第二次 –把那些 不 信的 灭绝了
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 6500100501: Ὑπομνῆσαι (G5279) → "提醒" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1634,9 +1627,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100522' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v6 - ZHO
+-- 天使们 –并且 –那些 没有 守住 –那 自己的 权位 却 离弃了 –那 自己的 居所 为 审判 大 日子的 –用锁链 永远的 在 幽暗 祂保守着
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 6500100601: ἀγγέλους (G0032) → "天使们" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1990,9 +1988,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100622' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v7 - ZHO
+-- 如同 所多玛 和 蛾摩拉 和 –那些 周围 它们的 城市 –以那 相似的 方式 –与这些 行淫 并 去追随 在...之后 肉体 不同的 被摆出 –作为鉴戒 火 永远的 刑罚 承受着
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 6500100701: ὡς (G5613) → "如同" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2394,9 +2397,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100725' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v8 - ZHO
+-- 同样地 然而 也 这些人 做梦的 肉体 –一方面 玷污 权柄 –另一方面 弃绝 荣耀者们 –而 亵渎
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 6500100801: Ὁμοίως (G3668) → "同样地" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2622,9 +2630,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100814' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v9 - ZHO
+-- –那 –但 米迦勒 –那 天使长 当 –与那 魔鬼 争辩 争论 关于 –的 摩西 身体 不 敢 审判 宣告 亵渎的 却 说 愿责备 你 主
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 6500100901: ὁ (G3588) → "–那" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3010,9 +3023,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500100924' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v10 - ZHO
+-- 这些人 –但 凡 –一方面 不 知道的 亵渎 凡 –另一方面 本能地 如同 –那些 没有理性的 牲畜 理解的 在 这些事上 被败坏
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 6500101001: οὗτοι (G3778) → "这些人" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3302,9 +3320,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101018' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v11 - ZHO
+-- 有祸了 –给他们 因为 –在那 道路 –的 该隐 他们行走了 并 –在那 错谬 –的 巴兰 –为了工价 他们奔去了 并 –在那 背叛 –的 可拉 他们灭亡了
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 6500101101: οὐαὶ (G3759) → "有祸了" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3642,9 +3665,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101121' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v12 - ZHO
+-- 这些人 是 –那些 在 –那些 爱筵 你们的 礁石 一同宴乐 无惧地 自己 牧养着 云 无水的 被 风 吹过的 树 深秋的 无果的 两次 死了的 连根拔起的
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 6500101201: Οὗτοί (G3778) → "这些人" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4014,9 +4042,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101223' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v13 - ZHO
+-- 波浪 狂的 海的 涌出泡沫 –那些 自己的 可耻事 星 流荡的 –给它们 –那 幽暗 –的 黑暗 到 永远 被保留着
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 6500101301: κύματα (G2949) → "波浪" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4290,9 +4323,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101317' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v14 - ZHO
+-- 预言了 –并且 也 –给这些人 第七 从 亚当 以诺 说 看哪 来了 主 带着 圣 万万 祂的
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 6500101401: Προεφήτευσεν (G4395) → "预言了" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4550,9 +4588,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101416' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v15 - ZHO
+-- 施行 审判 向 众人 并 定罪 所有 –那些 不敬虔的 关于 所有 –的 行为 不敬虔 他们的 –以那些 他们不敬虔行事 并 关于 所有 –的 刚硬话 –以那些 他们说了 抵挡 祂 罪人 不敬虔的
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 6500101501: ποιῆσαι (G4160) → "施行" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5002,9 +5045,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101528' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v16 - ZHO
+-- 这些人 是 发怨言的 抱怨命运的 照着 –那些 私欲 他们的 行事的 并 –那 口 他们的 说 夸大话 奉承 脸面 –为了利益 缘故
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 6500101601: Οὗτοί (G3778) → "这些人" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5310,9 +5358,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101619' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v17 - ZHO
+-- 你们 –但 亲爱的 要记念 –那些 话语 –那些 预先说过的 被 –那些 使徒 –的 主 我们的 耶稣 基督
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 6500101701: Ὑμεῖς (G4771) → "你们" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5570,9 +5623,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101716' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v18 - ZHO
+-- 就是 他们对说 你们 就是 在 末 –的 时候 将有 嘲笑者 照着 –那些 自己的 私欲 行事的 –的 不敬虔
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 6500101801: ὅτι (G3754) → "就是" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5846,9 +5904,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101817' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v19 - ZHO
+-- 这些人 是 –那些 制造分裂的 属肉体的 灵 没有 有的
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 6500101901: Οὗτοί (G3778) → "这些人" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -5978,9 +6041,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500101908' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v20 - ZHO
+-- 你们 –但 亲爱的 建造 你们自己 –在那 至圣的 你们的 信仰上 在 圣 灵里 祷告
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 6500102001: ὑμεῖς (G4771) → "你们" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6190,9 +6258,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102013' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v21 - ZHO
+-- 你们自己 在 爱 神的 要保守 等候 –那 怜悯 –的 主 我们的 耶稣 基督 直到 生命 永远的
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 6500102101: ἑαυτοὺς (G1438) → "你们自己" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6450,9 +6523,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102116' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v22 - ZHO
+-- 并 –那些 –一方面 要怜悯 疑惑的
 
 BEGIN;
--- === Chapter 1 Verse 22 ===
 -- 6500102201: καὶ (G2532) → "并" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6534,9 +6612,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102205' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v23 - ZHO
+-- –那些 –另一方面 要拯救 从 火中 抢救 –那些 –而 要怜悯 在 敬畏中 恨恶 甚至 –那 从 –那 肉体 沾染了的 衣服
 
 BEGIN;
--- === Chapter 1 Verse 23 ===
 -- 6500102301: ‹οὓς (G3739) → "–那些" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -6842,9 +6925,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102319' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v24 - ZHO
+-- –给那 –而 能 保守 你们 不失脚的 并 使站立 在面前 –的 荣耀 祂的 无瑕疵的 在 欢乐中
 
 BEGIN;
--- === Chapter 1 Verse 24 ===
 -- 6500102401: Τῷ (G3588) → "–给那" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7086,9 +7174,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102415' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- JUDE c1-v25 - ZHO
+-- 独一的 神 救主 我们的 借着 耶稣 基督 –的 主 我们的 荣耀 威严 权能 和 权柄 在 一切 –的 世代 和 现在 并 直到 所有 –的 世世代代 阿们
 
 BEGIN;
--- === Chapter 1 Verse 25 ===
 -- 6500102501: μόνῳ (G3441) → "独一的" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -7522,4 +7615,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '6500102527' AND p.language_id = (SELECT id FROM language WHERE code = 'zho') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
