@@ -2,33 +2,10 @@
 -- that all who believe in Him should not perish but have everlasting life.
 -- — John 3:16
 
--- OBADIAH - AMH Combined
--- Generated: 2026-01-22T05:52:39.644Z
-
--- c001-v001: ራእይ የ–ኦባድያ እንዲህ– አለ ጌታ እግዚአብሔር ስለ–ኤዶም ዜና ሰማን ከ– እግዚአብሔር እና–መልእክተኛ በ–አሕዛብ ተላከ ተነሱ እና–እንነሳ በእርስዋ–ላይ ለ–ጦርነት
--- c001-v002: እነሆ ትንሽ አደረግሁህ በ–አሕዛብ የተናቀ አንተ እጅግ
--- c001-v003: ትዕቢት የ–ልብህ አሳተህ የምትኖር በ–ስንጣቅ– ዓለት ከፍታ መኖሪያው የሚል በ–ልቡ ማን ያወርደኛል ምድር
--- c001-v004: ብ– ከፍ–ታደርግ እንደ–ንስር እና–ብ– መካከል ከዋክብት ታስቀምጥ ጎጆህን ከዚያ አወርድሃለሁ ይላል– እግዚአብሔር
--- c001-v005: ብ– ሌቦች ቢመጡ– ወደ–አንተ ብ– ዘራፊዎች የ–ሌሊት እንዴት ጠፋህ አይ– ይሰርቃሉ በቂያቸውን ብ– ወይን–ለቃሚዎች ቢመጡ ወደ–አንተ አይ– ያስቀራሉ ቅሪት
--- c001-v006: እንዴት ተፈተሸ ኤሳው ተገለጡ ስውሮቹ
--- c001-v007: እስከ– ድንበር ሸኙህ ሁሉም ሰዎች የ–ቃልኪዳንህ አሳቱህ ቻሉህ ወደ–አንተ ሰዎች የ–ሰላምህ እንጀራህ ያስቀምጣሉ ወጥመድ በ–በታችህ የለም ማስተዋል በ–እርሱ
--- c001-v008: አይ– በ–ቀን ያ ይላል– እግዚአብሔር እና–አጠፋለሁ ጥበበኞችን ከ–ኤዶም እና–ማስተዋልን ከ–ተራራ ኤሳው
--- c001-v009: እና–ይፈራሉ ጀግኖችህ ቴማን ስለዚህ ይጠፋ– ሰው ከ–ተራራ ኤሳው በ–ጭፍጨፋ
--- c001-v010: ከ–ግፍ ወንድምህ ያዕቆብ ይሸፍንሃል ሀፍረት እና–ትጠፋለህ ለ–ዘላለም
--- c001-v011: በ–ቀን መቆምህ በ–ተቃራኒ በ–ቀን መማረክ እንግዶች ሀይሉን እና–ባዕዳን ገቡ በሮቹ በሮቹን እና–በ– ኢየሩሳሌም ጣሉ ዕጣ ደግሞ– አንተ እንደ–አንዱ ከ–እነርሱ
--- c001-v012: እና–አል– ትመልከት በ–ቀን– ወንድምህ በ–ቀን መጥፋቱ እና–አል– ትደሰት ስለ–ልጆች– ይሁዳ በ–ቀን መጥፋታቸው እና–አል– ታበዛ አፍህን በ–ቀን መከራ
--- c001-v013: አል– ትግባ በ–በር– ሕዝቤ በ–ቀን መከራቸው አል– ትመልከት ደግሞ– አንተ በ–ክፋቱ በ–ቀን መከራው እና–አል– ትልክ በ–ሀይሉ በ–ቀን መከራው
--- c001-v014: እና–አል– ትቁም በ– መንገድ–መሻገሪያ ለ–ማጥፋት ወደ– ሸሽተኞቹን እና–አል– ትዝጋ የተረፉትን በ–ቀን መከራ
--- c001-v015: ምክንያቱም– ቅርብ ቀን– እግዚአብሔር በ– በ–ሁሉም– አሕዛብ እንደ– አደረግህ ይደረግብሃል ለ–አንተ ብድልህ ይመለሳል በ–ራስህ
--- c001-v016: ምክንያቱም እንደ– ጠጣችሁ በ– ተራራ ቅድስናዬ ይጠጣሉ ሁሉም– አሕዛብ ዘወትር እና–ይጠጣሉ እና–ይውጣሉ እና–ይሆናሉ እንዳል– ነበሩ
--- c001-v017: እና–በ–ተራራ ጽዮን ትሆናለች መዳን እና–ይሆናል ቅዱስ እና–ይወርሳሉ ቤት ያዕቆብ ወደ– ርስቶቻቸውን
--- c001-v018: እና–ይሆናል ቤት– ያዕቆብ እሳት እና–ቤት ዮሴፍ ነበልባል እና–ቤት ኤሳው ገለባ እና–ያቃጥሉዋቸዋል በ–እነርሱ እና–ይበሉዋቸዋል እና–አይ– ይኖርም የተረፈ ለ–ቤት ኤሳው ምክንያቱም እግዚአብሔር ተናገረ
--- c001-v019: እና–ይወርሳሉ ነገብ ወደ– ተራራ ኤሳው እና–ሸፈላ ወደ– ፍልስጤማውያንን እና–ይወርሳሉ ወደ– ሜዳ ኤፍሬም እና–ወደ– ሜዳ ሰማርያ እና–ብንያም ወደ– ገለዓድ
--- c001-v020: እና–ምርኮ የ–ሠራዊት– ይህ ለ–ልጆች እስራኤል የ– ከነዓናውያን እስከ– ሰራፍታ እና–ምርኮ ኢየሩሳሌም የ– በ–ሰፋራድ ይወርሳሉ ወደ– ከተሞች ነገብ
--- c001-v021: እና–ይወጣሉ አዳኞች በ–ተራራ ጽዮን ለ–መፍረድ ወደ– ተራራ ኤሳው እና–ትሆናለች ለ–እግዚአብሔር መንግሥት
+-- OBADIAH c1-v1 - AMH
+-- ራእይ የ–ኦባድያ እንዲህ– አለ ጌታ እግዚአብሔር ስለ–ኤዶም ዜና ሰማን ከ– እግዚአብሔር እና–መልእክተኛ በ–አሕዛብ ተላከ ተነሱ እና–እንነሳ በእርስዋ–ላይ ለ–ጦርነት
 
 BEGIN;
--- === Chapter 1 Verse 1 ===
 -- 3100100101: חֲז֖וֹן (H2377) → "ራእይ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -318,9 +295,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100118' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v2 - AMH
+-- እነሆ ትንሽ አደረግሁህ በ–አሕዛብ የተናቀ አንተ እጅግ
 
 BEGIN;
--- === Chapter 1 Verse 2 ===
 -- 3100100201: הִנֵּ֥ה (H2009) → "እነሆ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -434,9 +416,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100207' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v3 - AMH
+-- ትዕቢት የ–ልብህ አሳተህ የምትኖር በ–ስንጣቅ– ዓለት ከፍታ መኖሪያው የሚል በ–ልቡ ማን ያወርደኛል ምድር
 
 BEGIN;
--- === Chapter 1 Verse 3 ===
 -- 3100100301: זְד֤וֹן (H2087) → "ትዕቢት" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -646,9 +633,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100313' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v4 - AMH
+-- ብ– ከፍ–ታደርግ እንደ–ንስር እና–ብ– መካከል ከዋክብት ታስቀምጥ ጎጆህን ከዚያ አወርድሃለሁ ይላል– እግዚአብሔር
 
 BEGIN;
--- === Chapter 1 Verse 4 ===
 -- 3100100401: אִם־ (H0518a) → "ብ–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -842,9 +834,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100412' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v5 - AMH
+-- ብ– ሌቦች ቢመጡ– ወደ–አንተ ብ– ዘራፊዎች የ–ሌሊት እንዴት ጠፋህ አይ– ይሰርቃሉ በቂያቸውን ብ– ወይን–ለቃሚዎች ቢመጡ ወደ–አንተ አይ– ያስቀራሉ ቅሪት
 
 BEGIN;
--- === Chapter 1 Verse 5 ===
 -- 3100100501: אִם־ (H0518a) → "ብ–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1150,9 +1147,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100519' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v6 - AMH
+-- እንዴት ተፈተሸ ኤሳው ተገለጡ ስውሮቹ
 
 BEGIN;
--- === Chapter 1 Verse 6 ===
 -- 3100100601: אֵ֚יךְ (H0349a) → "እንዴት" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1234,9 +1236,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100605' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v7 - AMH
+-- እስከ– ድንበር ሸኙህ ሁሉም ሰዎች የ–ቃልኪዳንህ አሳቱህ ቻሉህ ወደ–አንተ ሰዎች የ–ሰላምህ እንጀራህ ያስቀምጣሉ ወጥመድ በ–በታችህ የለም ማስተዋል በ–እርሱ
 
 BEGIN;
--- === Chapter 1 Verse 7 ===
 -- 3100100701: עַֽד־ (H5704) → "እስከ–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1526,9 +1533,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100718' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v8 - AMH
+-- አይ– በ–ቀን ያ ይላል– እግዚአብሔር እና–አጠፋለሁ ጥበበኞችን ከ–ኤዶም እና–ማስተዋልን ከ–ተራራ ኤሳው
 
 BEGIN;
--- === Chapter 1 Verse 8 ===
 -- 3100100801: הֲל֛וֹא (H3808) → "አይ–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1706,9 +1718,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100811' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v9 - AMH
+-- እና–ይፈራሉ ጀግኖችህ ቴማን ስለዚህ ይጠፋ– ሰው ከ–ተራራ ኤሳው በ–ጭፍጨፋ
 
 BEGIN;
--- === Chapter 1 Verse 9 ===
 -- 3100100901: וְחַתּ֥וּ (H2865) → "እና–ይፈራሉ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1854,9 +1871,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100100909' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v10 - AMH
+-- ከ–ግፍ ወንድምህ ያዕቆብ ይሸፍንሃል ሀፍረት እና–ትጠፋለህ ለ–ዘላለም
 
 BEGIN;
--- === Chapter 1 Verse 10 ===
 -- 3100101001: מֵחֲמַ֛ס (H2555) → "ከ–ግፍ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -1970,9 +1992,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101007' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v11 - AMH
+-- በ–ቀን መቆምህ በ–ተቃራኒ በ–ቀን መማረክ እንግዶች ሀይሉን እና–ባዕዳን ገቡ በሮቹ በሮቹን እና–በ– ኢየሩሳሌም ጣሉ ዕጣ ደግሞ– አንተ እንደ–አንዱ ከ–እነርሱ
 
 BEGIN;
--- === Chapter 1 Verse 11 ===
 -- 3100101101: בְּיוֹם֙ (H3117) → "በ–ቀን" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2278,9 +2305,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101119' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v12 - AMH
+-- እና–አል– ትመልከት በ–ቀን– ወንድምህ በ–ቀን መጥፋቱ እና–አል– ትደሰት ስለ–ልጆች– ይሁዳ በ–ቀን መጥፋታቸው እና–አል– ታበዛ አፍህን በ–ቀን መከራ
 
 BEGIN;
--- === Chapter 1 Verse 12 ===
 -- 3100101201: וְאַל־ (H0408) → "እና–አል–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2554,9 +2586,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101217' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v13 - AMH
+-- አል– ትግባ በ–በር– ሕዝቤ በ–ቀን መከራቸው አል– ትመልከት ደግሞ– አንተ በ–ክፋቱ በ–ቀን መከራው እና–አል– ትልክ በ–ሀይሉ በ–ቀን መከራው
 
 BEGIN;
--- === Chapter 1 Verse 13 ===
 -- 3100101301: אַל־ (H0408) → "አል–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -2846,9 +2883,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101318' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v14 - AMH
+-- እና–አል– ትቁም በ– መንገድ–መሻገሪያ ለ–ማጥፋት ወደ– ሸሽተኞቹን እና–አል– ትዝጋ የተረፉትን በ–ቀን መከራ
 
 BEGIN;
--- === Chapter 1 Verse 14 ===
 -- 3100101401: וְאַֽל־ (H0408) → "እና–አል–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3042,9 +3084,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101412' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v15 - AMH
+-- ምክንያቱም– ቅርብ ቀን– እግዚአብሔር በ– በ–ሁሉም– አሕዛብ እንደ– አደረግህ ይደረግብሃል ለ–አንተ ብድልህ ይመለሳል በ–ራስህ
 
 BEGIN;
--- === Chapter 1 Verse 15 ===
 -- 3100101501: כִּֽי־ (H3588a) → "ምክንያቱም–" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3270,9 +3317,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101514' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v16 - AMH
+-- ምክንያቱም እንደ– ጠጣችሁ በ– ተራራ ቅድስናዬ ይጠጣሉ ሁሉም– አሕዛብ ዘወትር እና–ይጠጣሉ እና–ይውጣሉ እና–ይሆናሉ እንዳል– ነበሩ
 
 BEGIN;
--- === Chapter 1 Verse 16 ===
 -- 3100101601: כִּ֗י (H3588a) → "ምክንያቱም" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3514,9 +3566,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101615' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v17 - AMH
+-- እና–በ–ተራራ ጽዮን ትሆናለች መዳን እና–ይሆናል ቅዱስ እና–ይወርሳሉ ቤት ያዕቆብ ወደ– ርስቶቻቸውን
 
 BEGIN;
--- === Chapter 1 Verse 17 ===
 -- 3100101701: וּבְהַ֥ר (H2022) → "እና–በ–ተራራ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -3694,9 +3751,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101711' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v18 - AMH
+-- እና–ይሆናል ቤት– ያዕቆብ እሳት እና–ቤት ዮሴፍ ነበልባል እና–ቤት ኤሳው ገለባ እና–ያቃጥሉዋቸዋል በ–እነርሱ እና–ይበሉዋቸዋል እና–አይ– ይኖርም የተረፈ ለ–ቤት ኤሳው ምክንያቱም እግዚአብሔር ተናገረ
 
 BEGIN;
--- === Chapter 1 Verse 18 ===
 -- 3100101801: וְהָיָה֩ (H1961) → "እና–ይሆናል" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4034,9 +4096,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101821' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v19 - AMH
+-- እና–ይወርሳሉ ነገብ ወደ– ተራራ ኤሳው እና–ሸፈላ ወደ– ፍልስጤማውያንን እና–ይወርሳሉ ወደ– ሜዳ ኤፍሬም እና–ወደ– ሜዳ ሰማርያ እና–ብንያም ወደ– ገለዓድ
 
 BEGIN;
--- === Chapter 1 Verse 19 ===
 -- 3100101901: וְיָרְשׁ֨וּ (H3423) → "እና–ይወርሳሉ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4326,9 +4393,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100101918' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v20 - AMH
+-- እና–ምርኮ የ–ሠራዊት– ይህ ለ–ልጆች እስራኤል የ– ከነዓናውያን እስከ– ሰራፍታ እና–ምርኮ ኢየሩሳሌም የ– በ–ሰፋራድ ይወርሳሉ ወደ– ከተሞች ነገብ
 
 BEGIN;
--- === Chapter 1 Verse 20 ===
 -- 3100102001: וְגָלֻ֣ת (H1546) → "እና–ምርኮ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4602,9 +4674,14 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102017' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- OBADIAH c1-v21 - AMH
+-- እና–ይወጣሉ አዳኞች በ–ተራራ ጽዮን ለ–መፍረድ ወደ– ተራራ ኤሳው እና–ትሆናለች ለ–እግዚአብሔር መንግሥት
 
 BEGIN;
--- === Chapter 1 Verse 21 ===
 -- 3100102101: וְעָל֤וּ (H5927) → "እና–ይወጣሉ" [opus-4.5-chirho]
 WITH np AS (
   INSERT INTO phrase (language_id, created_at)
@@ -4782,4 +4859,3 @@ FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '3100102111' AND p.language_id = (SELECT id FROM language WHERE code = 'amh') AND p.deleted_at IS NULL
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
-
