@@ -1,0 +1,261 @@
+-- For God so loved the world, that He gave His only begotten Son,
+-- that all who believe in Him should not perish but have everlasting life.
+-- — John 3:16
+
+-- HOSEA c9-v6 - HIN
+-- क्योंकि देखो चले–गए विनाश–के–कारण मिस्र इकट्ठा–करेगा–उन्हें मोप गाड़ेगा–उन्हें बहुमूल्य–वस्तुएँ चाँदी–उनकी–की बिच्छू–बूटी अधिकार–करेगी–उन–पर काँटे तम्बुओं–उनके–में
+
+BEGIN;
+-- 2800900601: כִּֽי־ (H3588a) → "क्योंकि" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900601' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900601' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'क्योंकि', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900601' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900602: הִנֵּ֤ה (H2009) → "देखो" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900602' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900602' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'देखो', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900602' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900603: הָֽלְכוּ֙ (H1980) → "चले–गए" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900603' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900603' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'चले–गए', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900603' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900604: מִשֹּׁ֔ד (H7701) → "विनाश–के–कारण" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900604' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900604' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'विनाश–के–कारण', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900604' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900605: מִצְרַ֥יִם (H4714) → "मिस्र" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900605' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900605' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'मिस्र', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900605' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900606: תְּקַבְּצֵ֖ם (H6908) → "इकट्ठा–करेगा–उन्हें" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900606' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900606' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'इकट्ठा–करेगा–उन्हें', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900606' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900607: מֹ֣ף (H4644) → "मोप" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900607' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900607' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'मोप', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900607' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900608: תְּקַבְּרֵ֑ם (H6912) → "गाड़ेगा–उन्हें" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900608' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900608' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'गाड़ेगा–उन्हें', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900608' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900609: מַחְמַ֣ד (H4261) → "बहुमूल्य–वस्तुएँ" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900609' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900609' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'बहुमूल्य–वस्तुएँ', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900609' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900610: לְכַסְפָּ֗ם (H3701) → "चाँदी–उनकी–की" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900610' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900610' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'चाँदी–उनकी–की', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900610' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900611: קִמּוֹשׂ֙ (H7057) → "बिच्छू–बूटी" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900611' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900611' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'बिच्छू–बूटी', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900611' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900612: יִֽירָשֵׁ֔ם (H3423) → "अधिकार–करेगी–उन–पर" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900612' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900612' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'अधिकार–करेगी–उन–पर', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900612' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900613: ח֖וֹחַ (H2336) → "काँटे" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900613' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900613' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'काँटे', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900613' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2800900614: בְּאָהֳלֵיהֶֽם׃ (H0168) → "तम्बुओं–उनके–में" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'hin'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2800900614' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2800900614' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, 'तम्बुओं–उनके–में', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2800900614' AND p.language_id = (SELECT id FROM language WHERE code = 'hin') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+COMMIT;

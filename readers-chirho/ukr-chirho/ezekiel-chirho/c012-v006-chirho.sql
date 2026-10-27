@@ -3,7 +3,7 @@
 -- -- John 3:16
 
 -- EZEKIEL c12-v6 - UKR
--- на–очах–їхніх на плечі неси в–темряві виноси обличчя–своє закрий і–не побачиш землю бо знамення поставив–я–тебе для–дому Ізраїлевого
+-- на–очах–їхніх на плечі неси в–темряві виноси обличчя–своє закрий і–не побачиш  землю бо знамення поставив–я–тебе для–дому Ізраїлевого
 
 BEGIN;
 -- 2601200601: לְעֵ֨ינֵיהֶ֜ם (H5869a) -> "на–очах–їхніх" [claude-opus-4-6-chirho]
@@ -165,6 +165,24 @@ INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
 SELECT p.id, 'побачиш', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '2601200610' AND p.language_id = (SELECT id FROM language WHERE code = 'ukr') AND p.deleted_at IS NULL AND p.translation_type_chirho = 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2601200611: אֶת־ (H0853) → "" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'ukr'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2601200611' AND p.language_id = (SELECT id FROM language WHERE code = 'ukr') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2601200611' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, '', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2601200611' AND p.language_id = (SELECT id FROM language WHERE code = 'ukr') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 -- 2601200612: הָאָ֑רֶץ (H0776) -> "землю" [claude-opus-4-6-chirho]
 WITH np AS (

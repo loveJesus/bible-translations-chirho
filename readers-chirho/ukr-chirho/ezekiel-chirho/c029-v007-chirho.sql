@@ -3,7 +3,7 @@
 -- — John 3:16
 
 -- EZEKIEL c29-v7 - UKR
--- коли–хапалися за–тебе за–долоню за–долоню ти–ламався і–розривав їм усе плече а–коли–спиралися на–тебе ти–ламався і–хитав їм усі стегна
+-- коли–хапалися за–тебе за–долоню за–долоню ти–ламався і–розривав їм усе плече а–коли–спиралися на–тебе ти–ламався і–хитав їм усі стегна 
 
 BEGIN;
 -- 2602900701: בְּתָפְשָׂ֨ם (H8610) → "коли–хапалися" [opus-4.6-chirho]
@@ -292,6 +292,24 @@ INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
 SELECT p.id, 'стегна', 'UNAPPROVED', NOW(), 'IMPORT'
 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
 WHERE pw.word_id = '2602900716' AND p.language_id = (SELECT id FROM language WHERE code = 'ukr') AND p.deleted_at IS NULL
+  AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
+-- 2602900717: ס (H????) → "" [opus-5.5-chirho]
+WITH np AS (
+  INSERT INTO phrase (language_id, created_at, translation_type_chirho)
+  SELECT (SELECT id FROM language WHERE code = 'ukr'), NOW(), 'readers'
+  WHERE NOT EXISTS (
+    SELECT 1 FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+    WHERE pw.word_id = '2602900717' AND p.language_id = (SELECT id FROM language WHERE code = 'ukr') AND p.deleted_at IS NULL
+      AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
+  )
+  RETURNING id
+)
+INSERT INTO phrase_word (phrase_id, word_id) SELECT id, '2602900717' FROM np ON CONFLICT DO NOTHING;
+INSERT INTO gloss (phrase_id, gloss, state, updated_at, source)
+SELECT p.id, '', 'UNAPPROVED', NOW(), 'IMPORT'
+FROM phrase p JOIN phrase_word pw ON pw.phrase_id = p.id
+WHERE pw.word_id = '2602900717' AND p.language_id = (SELECT id FROM language WHERE code = 'ukr') AND p.deleted_at IS NULL
   AND p.translation_type_chirho IS NOT DISTINCT FROM 'readers'
 ON CONFLICT (phrase_id) DO UPDATE SET gloss = EXCLUDED.gloss, updated_at = EXCLUDED.updated_at, source = EXCLUDED.source;
 COMMIT;
